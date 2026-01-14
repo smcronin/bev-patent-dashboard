@@ -1,0 +1,513 @@
+{
+  "count": 17,
+  "numFound": 17,
+  "docs": [
+    {
+      "id": "US-20250018356-A1",
+      "title": [
+        "SYSTEMS AND METHODS FOR THERMAL STORAGE INTEGRATION INTO HIGH TEMPERATURE DECOMPOSITION REACTOR"
+      ],
+      "abstract": "A high-temperature decomposition reactor is provided. The reactor includes a reaction vessel, a furnace, and an insulation layer. The reaction vessel includes an inner volume configured to contain a quantity of carbonated medium while the quantity of carbonated medium transitions to a quantity of carbonation medium. The furnace is disposed around the reaction vessel and includes a furnace material. The furnace material is configured to simultaneously absorb heat and transmit heat. In some instances, the furnace material transmits heat to the inner volume to heat the carbonated medium. The insulation layer is disposed around the furnace and configured to prevent thermal losses from the reactor.",
+      "publicationNumber": "US20250018356",
+      "publicationDate": "2025-01-16",
+      "assignee": [
+        "Heirloom Carbon Technologies, Inc."
+      ],
+      "inventors": [
+        "Noah McQUEEN",
+        "Shashank Samala",
+        "Andrew Dubel"
+      ],
+      "applicationDate": "2024-07-12",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Chemical engineering"
+      ],
+      "score": 19.264961
+    },
+    {
+      "id": "WO-2024050365-A1",
+      "title": [
+        "CONTROLS ARCHITECTURE FOR PREDICTING AND MAINTAINING CO2 UPTAKE RATES IN DIRECT AIR CAPTURE CONTACTORS, AND METHODS OF OPERATING THE SAME"
+      ],
+      "abstract": "In some aspects, a method of carbonation control can include monitoring, via a first sensor, an environmental condition in a contactor unit, the contactor unit including a plurality of carbonation vessels including carbonation medium, monitoring, via a second sensor, an environmental condition at a location outside of the contactor unit, predicting, based on the measured environmental condition in the contactor unit and the measured environmental condition at the location outside of the contactor unit, a local humidity in a carbonation vessel from the plurality of carbonation vessels, a water content of the carbonation medium in the carbonation vessel from the plurality of carbonation vessels, and a carbonation extent of the carbonation medium in the carbonation vessel from the plurality of carbonation vessels for a carbonation forecasting period, and executing an action on the plurality of carbonation vessels based on the predicted water content and predicted carbonation extent.",
+      "publicationNumber": "WO2024050365",
+      "publicationDate": "2024-03-07",
+      "assignee": [
+        "Heirloom Carbon Technologies, Inc."
+      ],
+      "inventors": [
+        "ANDY DUBEL",
+        "Aaron NEWMAN",
+        "ROBERT DUNCAN",
+        "JENNIFER MILLS",
+        "SCOTT OLSON",
+        "Isabel GUEBLE",
+        "Ruofei LIU",
+        "Noah MCQUEEN"
+      ],
+      "applicationDate": "2023-08-29",
+      "claimsCount": 34,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 19.115005
+    },
+    {
+      "id": "US-20240069580-A1",
+      "title": [
+        "CONTROLS ARCHITECTURE FOR PREDICTING AND MAINTAINING CO2 UPTAKE RATES IN DIRECT AIR CAPTURE CONTACTORS, AND METHODS OF OPERATING THE SAME"
+      ],
+      "abstract": "In some aspects, a method of carbonation control can include monitoring, via a first sensor, an environmental condition in a contactor unit, the contactor unit including a plurality of carbonation vessels including carbonation medium, monitoring, via a second sensor, an environmental condition at a location outside of the contactor unit, predicting, based on the measured environmental condition in the contactor unit and the measured environmental condition at the location outside of the contactor unit, a local humidity in a carbonation vessel from the plurality of carbonation vessels, a water content of the carbonation medium in the carbonation vessel from the plurality of carbonation vessels, and a carbonation extent of the carbonation medium in the carbonation vessel from the plurality of carbonation vessels for a carbonation forecasting period, and executing an action on the plurality of carbonation vessels based on the predicted water content and predicted carbonation extent.",
+      "publicationNumber": "US20240069580",
+      "publicationDate": "2024-02-29",
+      "assignee": [
+        "Heirloom Carbon Technologies, Inc."
+      ],
+      "inventors": [
+        "Andy Dubel",
+        "Aaron Newman",
+        "Robert Duncan",
+        "Jennifer MILLS",
+        "Scott Olson",
+        "Isabel GUEBLE",
+        "Ruofei LIU",
+        "Noah McQUEEN"
+      ],
+      "applicationDate": "2023-08-29",
+      "claimsCount": 34,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Control",
+        "Measurement"
+      ],
+      "score": 19.115005
+    },
+    {
+      "id": "EP-4580786-A1",
+      "title": [
+        "CONTROLS ARCHITECTURE FOR PREDICTING AND MAINTAINING CO2 UPTAKE RATES IN DIRECT AIR CAPTURE CONTACTORS, AND METHODS OF OPERATING THE SAME"
+      ],
+      "abstract": "In some aspects, a method of carbonation control can include monitoring, via a first sensor, an environmental condition in a contactor unit, the contactor unit including a plurality of carbonation vessels including carbonation medium, monitoring, via a second sensor, an environmental condition at a location outside of the contactor unit, predicting, based on the measured environmental condition in the contactor unit and the measured environmental condition at the location outside of the contactor unit, a local humidity in a carbonation vessel from the plurality of carbonation vessels, a water content of the carbonation medium in the carbonation vessel from the plurality of carbonation vessels, and a carbonation extent of the carbonation medium in the carbonation vessel from the plurality of carbonation vessels for a carbonation forecasting period, and executing an action on the plurality of carbonation vessels based on the predicted water content and predicted carbonation extent.",
+      "publicationNumber": "EP4580786",
+      "publicationDate": "2025-07-09",
+      "assignee": [
+        "Heirloom Carbon Technologies, Inc."
+      ],
+      "inventors": [
+        "ANDY DUBEL",
+        "Aaron NEWMAN",
+        "ROBERT DUNCAN",
+        "JENNIFER MILLS",
+        "SCOTT OLSON",
+        "Isabel GUEBLE",
+        "Ruofei LIU",
+        "Noah MCQUEEN"
+      ],
+      "applicationDate": "2023-08-29",
+      "claimsCount": 34,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 19.115005
+    },
+    {
+      "id": "WO-2023122540-A1",
+      "title": [
+        "SYSTEMS AND METHODS OF CARBON CAPTURE FROM CEMENT PRODUCTION PROCESS"
+      ],
+      "abstract": "Embodiments described herein relate to capturing and sequestering CO2 emissions from the cement production process with the potential to produce carbon-negative cement. Methods described herein can include contacting calcium oxide (CaO) with ambient air at a carbonation station to form a first stream of calcium carbonate, combining the first stream of calcium carbonate with a second stream of calcium carbonate in a calciner to form a combined stream of calcium carbonate, and applying heat to the calciner to decompose the combined stream of calcium carbonate into a stream of calcium oxide and a CO2 stream. The method further includes sequestering the CO2 stream, dividing the stream of calcium oxide into a first calcium oxide stream and a second calcium oxide stream, feeding the first stream of calcium oxide to the carbonation station, and feeding the second stream of calcium oxide to a kiln to produce a clinker.",
+      "publicationNumber": "WO2023122540",
+      "publicationDate": "2023-06-29",
+      "assignee": [
+        "Heirloom Carbon Technologies, Inc."
+      ],
+      "inventors": [
+        "Noah MCQUEEN",
+        "SHASHANK SAMALA",
+        "ANDY DUBEL"
+      ],
+      "applicationDate": "2022-12-19",
+      "claimsCount": 25,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 18.945597
+    },
+    {
+      "id": "US-20230192543-A1",
+      "title": [
+        "SYSTEMS AND METHODS OF CARBON CAPTURE FROM CEMENT PRODUCTION PROCESS"
+      ],
+      "abstract": "Embodiments described herein relate to capturing and sequestering CO2 emissions from the cement production process with the potential to produce carbon-negative cement. Methods described herein can include contacting calcium oxide (CaO) with ambient air at a carbonation station to form a first stream of calcium carbonate, combining the first stream of calcium carbonate with a second stream of calcium carbonate in a calciner to form a combined stream of calcium carbonate, and applying heat to the calciner to decompose the combined stream of calcium carbonate into a stream of calcium oxide and a CO2 stream. The method further includes sequestering the CO2 stream, dividing the stream of calcium oxide into a first calcium oxide stream and a second calcium oxide stream, feeding the first stream of calcium oxide to the carbonation station, and feeding the second stream of calcium oxide to a kiln to produce a clinker.",
+      "publicationNumber": "US20230192543",
+      "publicationDate": "2023-06-22",
+      "assignee": [
+        "Heirloom Carbon Technologies, Inc."
+      ],
+      "inventors": [
+        "Noah McQUEEN",
+        "Shashank Samala",
+        "Andy Dubel"
+      ],
+      "applicationDate": "2022-12-19",
+      "claimsCount": 25,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 18.945597
+    },
+    {
+      "id": "EP-4452884-A1",
+      "title": [
+        "SYSTEMS AND METHODS OF CARBON CAPTURE FROM CEMENT PRODUCTION PROCESS"
+      ],
+      "abstract": "Embodiments described herein relate to capturing and sequestering CO2 emissions from the cement production process with the potential to produce carbon-negative cement. Methods described herein can include contacting calcium oxide (CaO) with ambient air at a carbonation station to form a first stream of calcium carbonate, combining the first stream of calcium carbonate with a second stream of calcium carbonate in a calciner to form a combined stream of calcium carbonate, and applying heat to the calciner to decompose the combined stream of calcium carbonate into a stream of calcium oxide and a CO2 stream. The method further includes sequestering the CO2 stream, dividing the stream of calcium oxide into a first calcium oxide stream and a second calcium oxide stream, feeding the first stream of calcium oxide to the carbonation station, and feeding the second stream of calcium oxide to a kiln to produce a clinker.",
+      "publicationNumber": "EP4452884",
+      "publicationDate": "2024-10-30",
+      "assignee": [
+        "Heirloom Carbon Technologies, Inc."
+      ],
+      "inventors": [
+        "Noah MCQUEEN",
+        "SHASHANK SAMALA",
+        "ANDY DUBEL"
+      ],
+      "applicationDate": "2022-12-19",
+      "claimsCount": 25,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 18.945597
+    },
+    {
+      "id": "WO-2024011170-A1",
+      "title": [
+        "DIRECT AIR CAPTURE CONTACTOR FOR CARBON UPTAKE, AND METHODS OF OPERATING THE SAME"
+      ],
+      "abstract": "Embodiments described herein relate to systems, devices, and methods for uptake of CO2 from ambient air. In some aspects, a device can include a platform with a top portion and a bottom portion, an elevation mechanism configured to move the platform vertically, a plurality of orifices defined by the top portion of the platform, the plurality of orifices configured to dispense liquid toward a tray, and an actuator configured to move laterally along a bottom side of the top portion of the platform, the actuator configured to urge the tray to move laterally. In some embodiments, the bottom portion can support the tray as the tray moves laterally. In some embodiments, the elevation mechanism can include at least one of a chain or a linear actuator driven by a motor.",
+      "publicationNumber": "WO2024011170",
+      "publicationDate": "2024-01-11",
+      "assignee": [
+        "Heirloom Carbon Technologies, Inc."
+      ],
+      "inventors": [
+        "ANDY DUBEL",
+        "Charlie KARR",
+        "JUHI KALRA",
+        "DAVID DRENNAN",
+        "NOAH PAUL-GIN",
+        "Isabel GUEBLE",
+        "Shazib ELAHI"
+      ],
+      "applicationDate": "2023-07-06",
+      "claimsCount": 27,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Chemical engineering",
+        "Environmental technology"
+      ],
+      "score": 18.825298
+    },
+    {
+      "id": "US-20240009617-A1",
+      "title": [
+        "DIRECT AIR CAPTURE CONTACTOR FOR CARBON UPTAKE, AND METHODS OF OPERATING THE SAME"
+      ],
+      "abstract": "Embodiments described herein relate to systems, devices, and methods for uptake of CO2 from ambient air. In some aspects, a device can include a platform with a top portion and a bottom portion, an elevation mechanism configured to move the platform vertically, a plurality of orifices defined by the top portion of the platform, the plurality of orifices configured to dispense liquid toward a tray, and an actuator configured to move laterally along a bottom side of the top portion of the platform, the actuator configured to urge the tray to move laterally. In some embodiments, the bottom portion can support the tray as the tray moves laterally. In some embodiments, the elevation mechanism can include at least one of a chain or a linear actuator driven by a motor.",
+      "publicationNumber": "US20240009617",
+      "publicationDate": "2024-01-11",
+      "assignee": [
+        "Heirloom Carbon Technologies, Inc."
+      ],
+      "inventors": [
+        "Andy Dubel",
+        "Charlie KARR",
+        "Juhi Kalra",
+        "David Drennan",
+        "Noah Paul-Gin",
+        "Isabel GUEBLE",
+        "Shazib ELAHI"
+      ],
+      "applicationDate": "2023-07-06",
+      "claimsCount": 27,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 18.825298
+    },
+    {
+      "id": "EP-4551306-A1",
+      "title": [
+        "DIRECT AIR CAPTURE CONTACTOR FOR CARBON UPTAKE, AND METHODS OF OPERATING THE SAME"
+      ],
+      "abstract": "Embodiments described herein relate to systems, devices, and methods for uptake of CO2 from ambient air. In some aspects, a device can include a platform with a top portion and a bottom portion, an elevation mechanism configured to move the platform vertically, a plurality of orifices defined by the top portion of the platform, the plurality of orifices configured to dispense liquid toward a tray, and an actuator configured to move laterally along a bottom side of the top portion of the platform, the actuator configured to urge the tray to move laterally. In some embodiments, the bottom portion can support the tray as the tray moves laterally. In some embodiments, the elevation mechanism can include at least one of a chain or a linear actuator driven by a motor.",
+      "publicationNumber": "EP4551306",
+      "publicationDate": "2025-05-14",
+      "assignee": [
+        "Heirloom Carbon Technologies, Inc."
+      ],
+      "inventors": [
+        "Andrew Dubel",
+        "Charles KARR",
+        "JUHI KALRA",
+        "DAVID DRENNAN",
+        "NOAH PAUL-GIN",
+        "Isabel GUEBLE",
+        "Shazib ELAHI"
+      ],
+      "applicationDate": "2023-07-06",
+      "claimsCount": 27,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Chemical engineering",
+        "Environmental technology"
+      ],
+      "score": 18.825298
+    },
+    {
+      "id": "AU-2023303026-A1",
+      "title": [
+        "DIRECT AIR CAPTURE CONTACTOR FOR CARBON UPTAKE, AND METHODS OF OPERATING THE SAME"
+      ],
+      "abstract": "Embodiments described herein relate to systems, devices, and methods for uptake of CO",
+      "publicationNumber": "AU2023303026",
+      "publicationDate": "2025-01-30",
+      "assignee": [
+        "Heirloom Carbon Technologies, Inc."
+      ],
+      "inventors": [
+        "DAVID DRENNAN",
+        "Andrew Dubel",
+        "Shazib ELAHI",
+        "Isabel GUEBLE",
+        "JUHI KALRA",
+        "Charles KARR",
+        "NOAH PAUL-GIN"
+      ],
+      "applicationDate": "2023-07-06",
+      "claimsCount": 27,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Chemical engineering",
+        "Environmental technology"
+      ],
+      "score": 18.825298
+    },
+    {
+      "id": "WO-2024211540-A1",
+      "title": [
+        "TRAY PROCESSING UNITS FOR CARBON CAPTURE AND REMOVAL SYSTEMS, AND METHODS OF OPERATING THE SAME"
+      ],
+      "abstract": "Embodiments described herein relate to tray processing units for processing CO2 capture media. In some aspects a tray processing unit can include a loading dock configured to receive a caddy including trays disposed thereon, a collection station configured to receive trays from the loading dock and collect a carbonated medium from the trays, a filling station configured to transfer a carbonation medium to the trays, a first tray mover configured to transport the trays from the caddy at the loading dock to the collection station, an unloading dock configured to support the caddy while loading the caddy with trays, a second tray mover configured to transport trays from the collection station to the filling station, and a third tray mover configured to transport trays from the filling station to the caddy supported by the unloading dock.",
+      "publicationNumber": "WO2024211540",
+      "publicationDate": "2024-10-10",
+      "assignee": [
+        "Heirloom Carbon Technologies, Inc."
+      ],
+      "inventors": [
+        "Rocky MAI",
+        "Hunter GARNIER",
+        "Isabel GUEBLE",
+        "Charlie KARR",
+        "KRISTEN PEDERSEN",
+        "NOAH PAUL-GIN",
+        "Roufei LIU",
+        "Maryam NASSAR",
+        "Shazib ELAHI",
+        "DAVID DRENNAN",
+        "Tejas MANEM",
+        "Hugo SANCHEZ",
+        "JENNIFER MILLS",
+        "ROBERT DUNCAN",
+        "Margaret KANE",
+        "ANDY DUBEL",
+        "Noah MCQUEEN"
+      ],
+      "applicationDate": "2024-04-04",
+      "claimsCount": 34,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Chemical engineering",
+        "Civil engineering",
+        "Environmental technology",
+        "Other special machines"
+      ],
+      "score": 18.799294
+    },
+    {
+      "id": "US-20240336446-A1",
+      "title": [
+        "TRAY PROCESSING UNITS FOR CARBON CAPTURE AND REMOVAL SYSTEMS, AND METHODS OF OPERATING THE SAME"
+      ],
+      "abstract": "Embodiments described herein relate to tray processing units for processing CO2 capture media. In some aspects a tray processing unit can include a loading dock configured to receive a caddy including trays disposed thereon, a collection station configured to receive trays from the loading dock and collect a carbonated medium from the trays, a filling station configured to transfer a carbonation medium to the trays, a first tray mover configured to transport the trays from the caddy at the loading dock to the collection station, an unloading dock configured to support the caddy while loading the caddy with trays, a second tray mover configured to transport trays from the collection station to the filling station, and a third tray mover configured to transport trays from the filling station to the caddy supported by the unloading dock.",
+      "publicationNumber": "US20240336446",
+      "publicationDate": "2024-10-10",
+      "assignee": [
+        "Heirloom Carbon Technologies, Inc."
+      ],
+      "inventors": [
+        "Rocky Mai",
+        "Hunter GARNIER",
+        "Isabel GUEBLE",
+        "Charlie KARR",
+        "Kristen PEDERSEN",
+        "Noah Paul-Gin",
+        "Ruofei LIU",
+        "Maryam NASSAR",
+        "Shazib ELAHI",
+        "David Drennan",
+        "Tejas MANEM",
+        "Hugo SANCHEZ",
+        "Jennifer MILLS",
+        "Robert Duncan",
+        "Margaret KANE",
+        "Andy Dubel",
+        "Noah McQUEEN"
+      ],
+      "applicationDate": "2024-04-04",
+      "claimsCount": 22,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Environmental technology",
+        "Handling"
+      ],
+      "score": 18.799294
+    },
+    {
+      "id": "CA-3266193-A1",
+      "title": [
+        "CONTROLS ARCHITECTURE FOR PREDICTING AND MAINTAINING CO2 UPTAKE RATES IN DIRECT AIR CAPTURE CONTACTORS, AND METHODS OF OPERATING THE SAME"
+      ],
+      "abstract": "",
+      "publicationNumber": "CA3266193",
+      "publicationDate": "2024-03-07",
+      "assignee": [
+        "Heirloom Carbon Technologies, Inc."
+      ],
+      "inventors": [
+        "Andy Dubel",
+        "Aaron Newman",
+        "Robert Duncan",
+        "Jennifer MILLS",
+        "Scott Olson",
+        "Isabel GUEBLE",
+        "Ruofei LIU",
+        "Noah McQUEEN"
+      ],
+      "applicationDate": "2023-08-29",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 17.17053
+    },
+    {
+      "id": "IN-202517003741-A",
+      "title": [
+        "DIRECT AIR CAPTURE CONTACTOR FOR CARBON UPTAKE, AND METHODS OF OPERATING THE SAME"
+      ],
+      "abstract": "Embodiments described herein relate to systems, devices, and methods for uptake of CO2 from ambient air. In some aspects, a device can include a platform with a top portion and a bottom portion, an elevation mechanism configured to move the platform vertically, a plurality of orifices defined by the top portion of the platform, the plurality of orifices configured to dispense liquid toward a tray, and an actuator configured to move laterally along a bottom side of the top portion of the platform, the actuator configured to urge the tray to move laterally. In some embodiments, the bottom portion can support the tray as the tray moves laterally. In some embodiments, the elevation mechanism can include at least one of a chain or a linear actuator driven by a motor.",
+      "publicationNumber": "IN202517003741",
+      "publicationDate": "2025-04-25",
+      "assignee": [
+        "HEIRLOOM CARBON TECHNOLOGIES INC"
+      ],
+      "inventors": [
+        "DUBEL ANDREW",
+        "KARR CHARLES",
+        "KALRA JUHI",
+        "DRENNAN DAVID",
+        "PAUL GIN NOAH",
+        "GUEBLE ISABEL",
+        "ELAHI SHAZIB"
+      ],
+      "applicationDate": "2025-01-16",
+      "claimsCount": 18,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Chemical engineering",
+        "Environmental technology"
+      ],
+      "score": 16.911531
+    },
+    {
+      "id": "CA-3261222-A1",
+      "title": [
+        "DIRECT AIR CAPTURE CONTACTOR FOR CARBON UPTAKE, AND METHODS OF OPERATING THE SAME"
+      ],
+      "abstract": "",
+      "publicationNumber": "CA3261222",
+      "publicationDate": "2024-01-11",
+      "assignee": [
+        "Heirloom Carbon Technologies, Inc."
+      ],
+      "inventors": [
+        "Andrew Dubel",
+        "Charles KARR",
+        "Juhi Kalra",
+        "David Drennan",
+        "Noah Paul-Gin",
+        "Isabel GUEBLE",
+        "Shazib ELAHI"
+      ],
+      "applicationDate": "2023-07-06",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Chemical engineering",
+        "Environmental technology"
+      ],
+      "score": 16.911531
+    },
+    {
+      "id": "CA-3288230-A1",
+      "title": [
+        "TRAY PROCESSING UNITS FOR CARBON CAPTURE AND REMOVAL SYSTEMS, AND METHODS OF OPERATING THE SAME"
+      ],
+      "abstract": "",
+      "publicationNumber": "CA3288230",
+      "publicationDate": "2024-10-10",
+      "assignee": [
+        "Heirloom Carbon Technologies, Inc."
+      ],
+      "inventors": [
+        "Rocky Mai",
+        "Hunter GARNIER",
+        "Isabel GUEBLE",
+        "Charles KARR",
+        "Kristen PEDERSEN",
+        "Noah Paul-Gin",
+        "Roufei LIU",
+        "Maryam NASSAR",
+        "Shazib ELAHI",
+        "David Drennan",
+        "Tejas MANEM",
+        "Hugo SANCHEZ",
+        "Jennifer MILLS",
+        "Robert Duncan",
+        "Margaret KANE",
+        "Andrew Dubel",
+        "Noah McQUEEN",
+        "Mark Cuson"
+      ],
+      "applicationDate": "2024-04-04",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Chemical engineering",
+        "Civil engineering",
+        "Environmental technology"
+      ],
+      "score": 16.888332
+    }
+  ]
+}

@@ -1,0 +1,440 @@
+{
+  "count": 19,
+  "numFound": 19,
+  "docs": [
+    {
+      "id": "WO-2024240928-A1",
+      "title": [
+        "A METHOD OF CAPTURING AND SEQUESTERING CO2 FROM A GAS"
+      ],
+      "abstract": "The invention provides a method of capturing CO2 from a gas and sequestering the CO2 by carbonation comprising the steps of: contacting a gas comprising CO2 with a capture solution; dissolving CO2 in the capture solution to form a modified capture solution comprising dissolved CO2 species; contacting a mineral source with the modified capture solution to leach carbonate forming species from the mineral source into the modified capture solution, such that the carbonate forming species reacts with the dissolved CO2 species in the modified capture solution to form a metal carbonate; wherein the mineral source comprises one or more of a silicate, a hydroxide, an oxide, magnesium, calcium or iron cations; wherein the capture solution comprises an initiator salt and one or more of a promoter or a buffer salt, wherein the promoter is configured to accelerate the rate of dissolved CO2 species formation in the capture solution.",
+      "publicationNumber": "WO2024240928",
+      "publicationDate": "2024-11-28",
+      "assignee": [
+        "Mission Zero Technologies Ltd"
+      ],
+      "inventors": [
+        "Gael GOBAILLE-SHAW",
+        "Constantin SAHM",
+        "Owen MAHNKE"
+      ],
+      "applicationDate": "2024-05-24",
+      "claimsCount": 38,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 15.326882
+    },
+    {
+      "id": "GB-202307776-D0",
+      "title": [
+        "A method of capturing and sequestering co2 from a gas"
+      ],
+      "abstract": "",
+      "publicationNumber": "GB202307776",
+      "publicationDate": "2023-07-05",
+      "assignee": [
+        "Mission Zero Technologies Ltd"
+      ],
+      "inventors": [],
+      "applicationDate": "2023-05-24",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 15.326882
+    },
+    {
+      "id": "WO-2022195299-A1",
+      "title": [
+        "METHOD OF CAPTURING A TARGET SPECIES FROM A GAS"
+      ],
+      "abstract": "A method of capturing a target species from a gas comprises the steps of: contacting a gas (108) containing a target species with a first absorbent solution (110) comprising a capture species; dissolving the target species in the first absorbent solution to form a target anion; electrochemically separating the target anion from the first absorbent solution by contacting the first absorbent solution with one or more ion-exchange membranes (114, 116), and transferring the target anion through an ion-exchange membrane (114) into a second absorbent solution (134); and releasing at least some of the target species from the second absorbent solution. The one or more ion-exchange membranes are not permeable to the capture species, so the capture species does not pass through the one or more ion-exchange membranes. An apparatus (100) for capturing a target species from a gas is also provided.",
+      "publicationNumber": "WO2022195299",
+      "publicationDate": "2022-09-22",
+      "assignee": [
+        "Mission Zero Technologies Ltd"
+      ],
+      "inventors": [
+        "Gael GOBAILLE-SHAW",
+        "SHILADITYA GHOSH",
+        "NICHOLAS CHADWICK"
+      ],
+      "applicationDate": "2022-03-18",
+      "claimsCount": 29,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 15.2329445
+    },
+    {
+      "id": "US-20240424446-A1",
+      "title": [
+        "Method of Capturing a Target Species From a Gas"
+      ],
+      "abstract": "A method of capturing a target species from a gas comprises the steps of: contacting a gas containing a target species with a first absorbent solution comprising a capture species; dissolving the target species in the first absorbent solution to form a target anion; electrochemically separating the target anion from the first absorbent solution by contacting the first absorbent solution with one or more ion-exchange membranes, and transferring the target anion through an ion-exchange membrane into a second absorbent solution; and releasing at least some of the target species from the second absorbent solution. The one or more ion-exchange membranes are not permeable to the capture species, so the capture species does not pass through the one or more ion-exchange membranes. An apparatus for capturing a target species from a gas is also provided.",
+      "publicationNumber": "US20240424446",
+      "publicationDate": "2024-12-26",
+      "assignee": [
+        "Mission Zero Technologies Ltd"
+      ],
+      "inventors": [
+        "Gael Gobaille-Shaw",
+        "Shiladitya Ghosh",
+        "Nicholas Chadwick"
+      ],
+      "applicationDate": "2024-09-06",
+      "claimsCount": 37,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 15.2329445
+    },
+    {
+      "id": "US-20240009623-A1",
+      "title": [
+        "Method of Capturing a Target Species From a Gas"
+      ],
+      "abstract": "A method of capturing a target species from a gas comprises the steps of: contacting a gas containing a target species with a first absorbent solution comprising a capture species; dissolving the target species in the first absorbent solution to form a target anion; electrochemically separating the target anion from the first absorbent solution by contacting the first absorbent solution with one or more ion-exchange membranes, and transferring the target anion through an ion-exchange membrane into a second absorbent solution; and releasing at least some of the target species from the second absorbent solution. The one or more ion-exchange membranes are not permeable to the capture species, so the capture species does not pass through the one or more ion-exchange membranes. An apparatus for capturing a target species from a gas is also provided.",
+      "publicationNumber": "US20240009623",
+      "publicationDate": "2024-01-11",
+      "assignee": [
+        "Mission Zero Technologies Ltd"
+      ],
+      "inventors": [
+        "Gael Gobaille-Shaw",
+        "Shiladitya Ghosh",
+        "Nicholas Chadwick"
+      ],
+      "applicationDate": "2023-09-18",
+      "claimsCount": 28,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 15.2329445
+    },
+    {
+      "id": "GB-202114697-D0",
+      "title": [
+        "Method of capturing a target species from a gas"
+      ],
+      "abstract": "",
+      "publicationNumber": "GB202114697",
+      "publicationDate": "2021-12-01",
+      "assignee": [
+        "Mission Zero Technologies Ltd"
+      ],
+      "inventors": [],
+      "applicationDate": "2021-10-14",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 15.2329445
+    },
+    {
+      "id": "GB-202103806-D0",
+      "title": [
+        "Method of capturing a target species from a gas"
+      ],
+      "abstract": "",
+      "publicationNumber": "GB202103806",
+      "publicationDate": "2021-05-05",
+      "assignee": [
+        "Mission Zero Technologies Ltd"
+      ],
+      "inventors": [],
+      "applicationDate": "2021-03-18",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 15.2329445
+    },
+    {
+      "id": "EP-4308273-A1",
+      "title": [
+        "METHOD OF CAPTURING A TARGET SPECIES FROM A GAS"
+      ],
+      "abstract": "A method of capturing a target species from a gas comprises the steps of: contacting a gas (108) containing a target species with a first absorbent solution (110) comprising a capture species; dissolving the target species in the first absorbent solution to form a target anion; electrochemically separating the target anion from the first absorbent solution by contacting the first absorbent solution with one or more ion-exchange membranes (114, 116), and transferring the target anion through an ion-exchange membrane (114) into a second absorbent solution (134); and releasing at least some of the target species from the second absorbent solution. The one or more ion-exchange membranes are not permeable to the capture species, so the capture species does not pass through the one or more ion-exchange membranes. An apparatus (100) for capturing a target species from a gas is also provided.",
+      "publicationNumber": "EP4308273",
+      "publicationDate": "2024-01-24",
+      "assignee": [
+        "Mission Zero Technologies Ltd"
+      ],
+      "inventors": [
+        "Gael GOBAILLE-SHAW",
+        "SHILADITYA GHOSH",
+        "NICHOLAS CHADWICK"
+      ],
+      "applicationDate": "2022-03-18",
+      "claimsCount": 29,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 15.2329445
+    },
+    {
+      "id": "AU-2022239913-A1",
+      "title": [
+        "METHOD OF CAPTURING A TARGET SPECIES FROM A GAS"
+      ],
+      "abstract": "A method of capturing a target species from a gas comprises the steps of: contacting a gas (108) containing a target species with a first absorbent solution (110) comprising a capture species; dissolving the target species in the first absorbent solution to form a target anion; electrochemically separating the target anion from the first absorbent solution by contacting the first absorbent solution with one or more ion-exchange membranes (114, 116), and transferring the target anion through an ion-exchange membrane (114) into a second absorbent solution (134); and releasing at least some of the target species from the second absorbent solution. The one or more ion-exchange membranes are not permeable to the capture species, so the capture species does not pass through the one or more ion-exchange membranes. An apparatus (100) for capturing a target species from a gas is also provided.",
+      "publicationNumber": "AU2022239913",
+      "publicationDate": "2023-09-28",
+      "assignee": [
+        "Mission Zero Technologies Ltd"
+      ],
+      "inventors": [
+        "NICHOLAS CHADWICK",
+        "SHILADITYA GHOSH",
+        "Gael GOBAILLE-SHAW"
+      ],
+      "applicationDate": "2022-03-18",
+      "claimsCount": 29,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 15.2329445
+    },
+    {
+      "id": "WO-2024133948-A1",
+      "title": [
+        "METHOD OF CAPTURING CO2 FROM A GAS MIXTURE"
+      ],
+      "abstract": "Method of capturing CO2 from a gas mixture (108) comprising the steps of: contacting the gas mixture (108) with a capture solution (110); dissolving CO2 in the capture solution to form a modified capture solution comprising bicarbonate ions; performing electrodialysis on the modified capture solution using a bipolar membrane electrodialysis system (104) to transfer bicarbonate ions into a release solution (121) and regenerate the capture solution; wherein the capture solution comprises a metal carbonate, and wherein the capture solution contacts or comprises a promoter which accelerates the rate of bicarbonate formation in the capture solution.",
+      "publicationNumber": "WO2024133948",
+      "publicationDate": "2024-06-27",
+      "assignee": [
+        "Mission Zero Technologies Ltd"
+      ],
+      "inventors": [
+        "Gael GOBAILLE-SHAW",
+        "Constantin SAHM",
+        "Audrey LUIZ",
+        "Trishan SHARMA"
+      ],
+      "applicationDate": "2023-12-22",
+      "claimsCount": 32,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 15.141521
+    },
+    {
+      "id": "GB-202219726-D0",
+      "title": [
+        "Method of capturing co2 from a gas mixture"
+      ],
+      "abstract": "",
+      "publicationNumber": "GB202219726",
+      "publicationDate": "2023-02-08",
+      "assignee": [
+        "Mission Zero Technologies Ltd"
+      ],
+      "inventors": [],
+      "applicationDate": "2022-12-23",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 15.141521
+    },
+    {
+      "id": "EP-4637970-A1",
+      "title": [
+        "METHOD OF CAPTURING CO2 FROM A GAS MIXTURE"
+      ],
+      "abstract": "Method of capturing CO2 from a gas mixture (108) comprising the steps of: contacting the gas mixture (108) with a capture solution (110); dissolving CO2 in the capture solution to form a modified capture solution comprising bicarbonate ions; performing electrodialysis on the modified capture solution using a bipolar membrane electrodialysis system (104) to transfer bicarbonate ions into a release solution (121) and regenerate the capture solution; wherein the capture solution comprises a metal carbonate, and wherein the capture solution contacts or comprises a promoter which accelerates the rate of bicarbonate formation in the capture solution.",
+      "publicationNumber": "EP4637970",
+      "publicationDate": "2025-10-29",
+      "assignee": [
+        "Mission Zero Technologies Ltd"
+      ],
+      "inventors": [
+        "Gael GOBAILLE-SHAW",
+        "Constantin SAHM",
+        "Audrey LUIZ",
+        "Trishan SHARMA"
+      ],
+      "applicationDate": "2023-12-22",
+      "claimsCount": 32,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 15.141521
+    },
+    {
+      "id": "AU-2023410285-A1",
+      "title": [
+        "METHOD OF CAPTURING CO2 FROM A GAS MIXTURE"
+      ],
+      "abstract": "",
+      "publicationNumber": "AU2023410285",
+      "publicationDate": "2025-07-10",
+      "assignee": [
+        "Mission Zero Technologies Ltd"
+      ],
+      "inventors": [
+        "Gael GOBAILLE-SHAW",
+        "Audrey LUIZ",
+        "Constantin SAHM",
+        "Trishan SHARMA"
+      ],
+      "applicationDate": "2023-12-22",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 15.141521
+    },
+    {
+      "id": "US-12115498-B2",
+      "title": [
+        "Method of capturing a target species from a gas"
+      ],
+      "abstract": "A method of capturing a target species from a gas comprises the steps of: contacting a gas containing a target species with a first absorbent solution comprising a capture species; dissolving the target species in the first absorbent solution to form a target anion; electrochemically separating the target anion from the first absorbent solution by contacting the first absorbent solution with one or more ion-exchange membranes, and transferring the target anion through an ion-exchange membrane into a second absorbent solution; and releasing at least some of the target species from the second absorbent solution. The one or more ion-exchange membranes are not permeable to the capture species, so the capture species does not pass through the one or more ion-exchange membranes. An apparatus for capturing a target species from a gas is also provided.",
+      "publicationNumber": "US12115498",
+      "publicationDate": "2024-10-15",
+      "assignee": [
+        "Mission Zero Technologies Ltd"
+      ],
+      "inventors": [
+        "Gael Gobaille-Shaw",
+        "Shiladitya Ghosh",
+        "Nicholas Chadwick"
+      ],
+      "applicationDate": "2023-09-18",
+      "claimsCount": 27,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 13.705101
+    },
+    {
+      "id": "JP-WO2022195299-A5",
+      "title": [],
+      "abstract": "",
+      "publicationNumber": "JPWO2022195299",
+      "publicationDate": "2024-09-12",
+      "assignee": [],
+      "inventors": [],
+      "applicationDate": null,
+      "claimsCount": 36,
+      "independentClaimsCount": 6,
+      "technologyFields": [
+        "Chemical engineering",
+        "Environmental technology",
+        "Surface technology, coating"
+      ],
+      "score": 13.705101
+    },
+    {
+      "id": "CA-3277536-A1",
+      "title": [
+        "METHOD OF CAPTURING CO2 FROM A GAS MIXTURE"
+      ],
+      "abstract": "",
+      "publicationNumber": "CA3277536",
+      "publicationDate": "2024-06-27",
+      "assignee": [
+        "Mission Zero Technologies Ltd"
+      ],
+      "inventors": [
+        "Gael Gobaille-Shaw",
+        "Constantin SAHM",
+        "Audrey LUIZ",
+        "Trishan SHARMA"
+      ],
+      "applicationDate": "2023-12-22",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 13.623562
+    },
+    {
+      "id": "JP-7793639-B2",
+      "title": [
+        "\u6c17\u4f53\u304b\u3089\u6a19\u7684\u7a2e\u3092\u6355\u6349\u3059\u308b\u65b9\u6cd5"
+      ],
+      "abstract": "\u6a19\u7684\u7a2e\u3092\u542b\u6709\u3059\u308b\u6c17\u4f53\uff08\uff11\uff10\uff18\uff09\u3092\u3001\u6355\u6349\u7a2e\u3092\u542b\u3080\u7b2c\uff11\u306e\u5438\u53ce\u6db2\uff08\uff11\uff11\uff10\uff09\u3068\u63a5\u89e6\u3055\u305b\u308b\u5de5\u7a0b\u3068\uff1b\u6a19\u7684\u7a2e\u3092\u7b2c\uff11\u306e\u5438\u53ce\u6db2\u306b\u6eb6\u89e3\u3057\u3001\u6a19\u7684\u30a2\u30cb\u30aa\u30f3\u3092\u5f62\u6210\u3059\u308b\u5de5\u7a0b\u3068\uff1b\u7b2c\uff11\u306e\u5438\u53ce\u6db2\u3092\u3001\uff11\u3064\u307e\u305f\u306f\u8907\u6570\u306e\u30a4\u30aa\u30f3\u4ea4\u63db\u819c\uff08\uff11\uff11\uff14\u3001\uff11\uff11\uff16\uff09\u3068\u63a5\u89e6\u3055\u305b\u308b\u3053\u3068\u306b\u3088\u3063\u3066\u3001\u6a19\u7684\u30a2\u30cb\u30aa\u30f3\u3092\u7b2c\uff11\u306e\u5438\u53ce\u6db2\u304b\u3089\u96fb\u6c17\u5316\u5b66\u7684\u306b\u5206\u96e2\u3057\u3001\u6a19\u7684\u30a2\u30cb\u30aa\u30f3\u3092\u3001\u30a4\u30aa\u30f3\u4ea4\u63db\u819c\uff08\uff11\uff11\uff14\uff09\u3092\u901a\u3057\u3066\u7b2c\uff12\u306e\u5438\u53ce\u6db2\uff08\uff11\uff13\uff14\uff09\u3078\u79fb\u52d5\u3055\u305b\u308b\u5de5\u7a0b\u3068\uff1b\u5c11\u306a\u304f\u3068\u3082\u4e00\u90e8\u306e\u6a19\u7684\u7a2e\u3092\u7b2c\uff12\u306e\u5438\u53ce\u6db2\u304b\u3089\u653e\u51fa\u3059\u308b\u5de5\u7a0b\u3068\u3092\u542b\u3080\u3001\u6c17\u4f53\u304b\u3089\u6a19\u7684\u7a2e\u3092\u6355\u6349\u3059\u308b\u65b9\u6cd5\u3002\uff11\u3064\u307e\u305f\u306f\u8907\u6570\u306e\u30a4\u30aa\u30f3\u4ea4\u63db\u819c\u304c\u3001\u6355\u6349\u7a2e\u306b\u5bfe\u3057\u3066\u900f\u904e\u6027\u3067\u306f\u306a\u3044\u305f\u3081\u3001\u6355\u6349\u7a2e\u306f\u3001\uff11\u3064\u307e\u305f\u306f\u8907\u6570\u306e\u30a4\u30aa\u30f3\u4ea4\u63db\u819c\u3092\u901a\u904e\u3059\u308b\u3053\u3068\u306f\u306a\u3044\u3002\u6c17\u4f53\u304b\u3089\u6a19\u7684\u7a2e\u3092\u6355\u6349\u3059\u308b\u305f\u3081\u306e\u88c5\u7f6e\uff08\uff11\uff10\uff10\uff09\u3082\u307e\u305f\u63d0\u4f9b\u3055\u308c\u308b\u3002 \u3010\u9078\u629e\u56f3\u3011\u56f3\uff11",
+      "publicationNumber": "JP7793639",
+      "publicationDate": "2026-01-05",
+      "assignee": [
+        "\u30df\u30c3\u30b7\u30e7\u30f3\u30fb\u30bc\u30ed\u30fb\u30c6\u30af\u30ce\u30ed\u30b8\u30fc\u30ba\u30fb\u30ea\u30df\u30c6\u30c3\u30c9"
+      ],
+      "inventors": [
+        "\u30b4\u30d0\u30a4\u30eb\uff0d\u30b7\u30e7\u30fc\uff0c\u30b2\u30fc\u30eb",
+        "\u30b4\u30fc\u30b7\u30e5\uff0c\u30b7\u30e9\u30c7\u30a3\u30c1\u30e3",
+        "\u30c1\u30e3\u30c9\u30a6\u30a3\u30c3\u30af\uff0c\u30cb\u30b3\u30e9\u30b9"
+      ],
+      "applicationDate": "2022-03-18",
+      "claimsCount": 32,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Chemical engineering",
+        "Environmental technology",
+        "Surface technology, coating"
+      ],
+      "score": 12.877566
+    },
+    {
+      "id": "JP-2024510034-A",
+      "title": [
+        "\u6c17\u4f53\u304b\u3089\u6a19\u7684\u7a2e\u3092\u6355\u6349\u3059\u308b\u65b9\u6cd5"
+      ],
+      "abstract": "\u6a19\u7684\u7a2e\u3092\u542b\u6709\u3059\u308b\u6c17\u4f53\uff08\uff11\uff10\uff18\uff09\u3092\u3001\u6355\u6349\u7a2e\u3092\u542b\u3080\u7b2c\uff11\u306e\u5438\u53ce\u6db2\uff08\uff11\uff11\uff10\uff09\u3068\u63a5\u89e6\u3055\u305b\u308b\u5de5\u7a0b\u3068\uff1b\u6a19\u7684\u7a2e\u3092\u7b2c\uff11\u306e\u5438\u53ce\u6db2\u306b\u6eb6\u89e3\u3057\u3001\u6a19\u7684\u30a2\u30cb\u30aa\u30f3\u3092\u5f62\u6210\u3059\u308b\u5de5\u7a0b\u3068\uff1b\u7b2c\uff11\u306e\u5438\u53ce\u6db2\u3092\u3001\uff11\u3064\u307e\u305f\u306f\u8907\u6570\u306e\u30a4\u30aa\u30f3\u4ea4\u63db\u819c\uff08\uff11\uff11\uff14\u3001\uff11\uff11\uff16\uff09\u3068\u63a5\u89e6\u3055\u305b\u308b\u3053\u3068\u306b\u3088\u3063\u3066\u3001\u6a19\u7684\u30a2\u30cb\u30aa\u30f3\u3092\u7b2c\uff11\u306e\u5438\u53ce\u6db2\u304b\u3089\u96fb\u6c17\u5316\u5b66\u7684\u306b\u5206\u96e2\u3057\u3001\u6a19\u7684\u30a2\u30cb\u30aa\u30f3\u3092\u3001\u30a4\u30aa\u30f3\u4ea4\u63db\u819c\uff08\uff11\uff11\uff14\uff09\u3092\u901a\u3057\u3066\u7b2c\uff12\u306e\u5438\u53ce\u6db2\uff08\uff11\uff13\uff14\uff09\u3078\u79fb\u52d5\u3055\u305b\u308b\u5de5\u7a0b\u3068\uff1b\u5c11\u306a\u304f\u3068\u3082\u4e00\u90e8\u306e\u6a19\u7684\u7a2e\u3092\u7b2c\uff12\u306e\u5438\u53ce\u6db2\u304b\u3089\u653e\u51fa\u3059\u308b\u5de5\u7a0b\u3068\u3092\u542b\u3080\u3001\u6c17\u4f53\u304b\u3089\u6a19\u7684\u7a2e\u3092\u6355\u6349\u3059\u308b\u65b9\u6cd5\u3002\uff11\u3064\u307e\u305f\u306f\u8907\u6570\u306e\u30a4\u30aa\u30f3\u4ea4\u63db\u819c\u304c\u3001\u6355\u6349\u7a2e\u306b\u5bfe\u3057\u3066\u900f\u904e\u6027\u3067\u306f\u306a\u3044\u305f\u3081\u3001\u6355\u6349\u7a2e\u306f\u3001\uff11\u3064\u307e\u305f\u306f\u8907\u6570\u306e\u30a4\u30aa\u30f3\u4ea4\u63db\u819c\u3092\u901a\u904e\u3059\u308b\u3053\u3068\u306f\u306a\u3044\u3002\u6c17\u4f53\u304b\u3089\u6a19\u7684\u7a2e\u3092\u6355\u6349\u3059\u308b\u305f\u3081\u306e\u88c5\u7f6e\uff08\uff11\uff10\uff10\uff09\u3082\u307e\u305f\u63d0\u4f9b\u3055\u308c\u308b\u3002 \u3010\u9078\u629e\u56f3\u3011\u56f3\uff11",
+      "publicationNumber": "JP2024510034",
+      "publicationDate": "2024-03-05",
+      "assignee": [
+        "\u30df\u30c3\u30b7\u30e7\u30f3\u30fb\u30bc\u30ed\u30fb\u30c6\u30af\u30ce\u30ed\u30b8\u30fc\u30ba\u30fb\u30ea\u30df\u30c6\u30c3\u30c9"
+      ],
+      "inventors": [
+        "\u30b4\u30d0\u30a4\u30eb\uff0d\u30b7\u30e7\u30fc\uff0c\u30b2\u30fc\u30eb",
+        "\u30b4\u30fc\u30b7\u30e5\uff0c\u30b7\u30e9\u30c7\u30a3\u30c1\u30e3",
+        "\u30c1\u30e3\u30c9\u30a6\u30a3\u30c3\u30af\uff0c\u30cb\u30b3\u30e9\u30b9"
+      ],
+      "applicationDate": "2022-03-18",
+      "claimsCount": 29,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Chemical engineering",
+        "Environmental technology",
+        "Surface technology, coating"
+      ],
+      "score": 12.877566
+    },
+    {
+      "id": "CA-3212433-A1",
+      "title": [
+        "METHOD OF CAPTURING A TARGET SPECIES FROM A GAS"
+      ],
+      "abstract": "A method of capturing a target species from a gas comprises the steps of: contacting a gas (108) containing a target species with a first absorbent solution (110) comprising a capture species; dissolving the target species in the first absorbent solution to form a target anion; electrochemically separating the target anion from the first absorbent solution by contacting the first absorbent solution with one or more ion-exchange membranes (114, 116), and transferring the target anion through an ion-exchange membrane (114) into a second absorbent solution (134); and releasing at least some of the target species from the second absorbent solution. The one or more ion-exchange membranes are not permeable to the capture species, so the capture species does not pass through the one or more ion-exchange membranes. An apparatus (100) for capturing a target species from a gas is also provided.",
+      "publicationNumber": "CA3212433",
+      "publicationDate": "2022-09-22",
+      "assignee": [
+        "GOBAILLE-SHAW, Gael"
+      ],
+      "inventors": [
+        "Gael GOBAILLE-SHAW",
+        "SHILADITYA GHOSH",
+        "NICHOLAS CHADWICK"
+      ],
+      "applicationDate": "2022-03-18",
+      "claimsCount": 29,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 12.038736
+    }
+  ]
+}

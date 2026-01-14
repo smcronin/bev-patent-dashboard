@@ -1,0 +1,6 @@
+{
+  "query": "PA=(SparkMeter) AND PD>2015",
+  "query_type": "ai_search",
+  "timestamp": "2026-01-14T15:48:19.296646",
+  "user_prompt": "PA=(SparkMeter) AND PD>2015"
+}

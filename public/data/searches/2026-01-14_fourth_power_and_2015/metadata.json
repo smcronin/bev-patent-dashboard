@@ -1,0 +1,11 @@
+{
+  "search_id": "search_20260114_154753",
+  "timestamp": "2026-01-14T15:47:53.468662",
+  "query_type": "ai_search",
+  "user_prompt": "PA=(Fourth Power) AND PD>2015",
+  "minesoft_query": "PA=(Fourth Power) AND PD>2015",
+  "results_count": 13,
+  "directory": "2026-01-14_fourth_power_and_2015",
+  "execution_time_ms": 1107.6531410217285,
+  "api_endpoint": "query"
+}

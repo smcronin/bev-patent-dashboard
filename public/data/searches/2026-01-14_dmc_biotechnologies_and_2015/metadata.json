@@ -1,0 +1,11 @@
+{
+  "search_id": "search_20260114_154751",
+  "timestamp": "2026-01-14T15:47:51.908159",
+  "query_type": "ai_search",
+  "user_prompt": "PA=(DMC Biotechnologies) AND PD>2015",
+  "minesoft_query": "PA=(DMC Biotechnologies) AND PD>2015",
+  "results_count": 3,
+  "directory": "2026-01-14_dmc_biotechnologies_and_2015",
+  "execution_time_ms": 655.4958820343018,
+  "api_endpoint": "query"
+}

@@ -1,0 +1,11 @@
+{
+  "search_id": "search_20260114_154644",
+  "timestamp": "2026-01-14T15:46:44.982178",
+  "query_type": "ai_search",
+  "user_prompt": "PA=(Weave Grid OR WeaveGrid) AND PD>2015",
+  "minesoft_query": "PA=(Weave Grid OR WeaveGrid) AND PD>2015",
+  "results_count": 12,
+  "directory": "2026-01-14_weave_grid_weavegrid_and_2015",
+  "execution_time_ms": 989.9225234985352,
+  "api_endpoint": "query"
+}

@@ -1,0 +1,75 @@
+{
+  "count": 3,
+  "numFound": 3,
+  "docs": [
+    {
+      "id": "WO-2024243248-A3",
+      "title": [
+        "METHODS AND MICROORGANISMS FOR PRODUCTION OF A PRODUCT USING ETHANOL AS A CARBON SOURCE"
+      ],
+      "abstract": "Methods and microorganisms for production of a product using ethanol as a carbon source are provided. A multi-stage biofermentation process in which a genetically modified microorganism adapated to grow in a growth media comprising ethanol is provided. The growth media may comprise no added glucose.",
+      "publicationNumber": "WO2024243248",
+      "publicationDate": "2025-04-03",
+      "assignee": [
+        "DMC BIOTECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "Taylor LUNDY",
+        "Zhixia YE"
+      ],
+      "applicationDate": "2024-05-22",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 17.524778
+    },
+    {
+      "id": "WO-2024243248-A2",
+      "title": [
+        "METHODS AND MICROORGANISMS FOR PRODUCTION OF A PRODUCT USING ETHANOL AS A CARBON SOURCE"
+      ],
+      "abstract": "Methods and microorganisms for production of a product using ethanol as a carbon source are provided. A multi-stage biofermentation process in which a genetically modified microorganism adapated to grow in a growth media comprising ethanol is provided. The growth media may comprise no added glucose.",
+      "publicationNumber": "WO2024243248",
+      "publicationDate": "2024-11-28",
+      "assignee": [
+        "DMC BIOTECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "Taylor LUNDY",
+        "Zhixia YE"
+      ],
+      "applicationDate": "2024-05-22",
+      "claimsCount": 16,
+      "independentClaimsCount": 3,
+      "technologyFields": [],
+      "score": 17.524778
+    },
+    {
+      "id": "US-20250270596-A1",
+      "title": [
+        "MEVALONATE DERIVATIVES AND METHODS FOR MAKING THE SAME"
+      ],
+      "abstract": "Biofermentation processes giving rise to high-level production of mevalonate are provided, and, in turn, valuable known and novel downstream products are synthesized therefrom.",
+      "publicationNumber": "US20250270596",
+      "publicationDate": "2025-08-28",
+      "assignee": [
+        "DUKE UNIVERSITY"
+      ],
+      "inventors": [
+        "Michael David Lynch",
+        "Zhixia Ye",
+        "Moses Onyeabor",
+        "Sal Munoz"
+      ],
+      "applicationDate": "2025-03-21",
+      "claimsCount": 17,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 16.606432
+    }
+  ]
+}

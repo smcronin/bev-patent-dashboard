@@ -1,0 +1,6 @@
+{
+  "query": "PA=(Weave Grid OR WeaveGrid) AND PD>2015",
+  "query_type": "ai_search",
+  "timestamp": "2026-01-14T15:46:44.982178",
+  "user_prompt": "PA=(Weave Grid OR WeaveGrid) AND PD>2015"
+}

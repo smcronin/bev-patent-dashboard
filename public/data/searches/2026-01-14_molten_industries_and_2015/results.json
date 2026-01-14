@@ -1,0 +1,563 @@
+{
+  "count": 23,
+  "numFound": 23,
+  "docs": [
+    {
+      "id": "EP-4677125-A1",
+      "title": [
+        "SYSTEM AND METHOD FOR METHANE PYROLYSIS DRIVEN REDUCED IRON PRODUCTION USING INTEGRATED THERMAL MANAGEMENT"
+      ],
+      "abstract": "A system and method for obtaining a metal oxide reduction product in a metal oxide reduction reaction using a pyrolysis -derived hydrogen from a pyrolysis reactor that pyrolyzes a hydrocarbon feedstock to deliver pyrolysis gases that include the pyrolysis- derived hydrogen, aa pyrolysis carbon product and a hydrocarbon fraction of unreacted hydrocarbon feedstock. Pyrolysis gases are fed through a high-temperature carbon separator to separate the pyrolysis carbon product and then flow at a working temperature below pyrolyzation temperature to a reduction furnace that runs the metal oxide reduction reaction such that the pyrolysis -derived hydrogen participates in that reaction. A thermal management system maintains the working temperature of the pyrolysis gases and manages the processing of unreacted pyrolysis-derived hydrogen through heat exchange and other thermal management techniques and tools.",
+      "publicationNumber": "EP4677125",
+      "publicationDate": "2026-01-14",
+      "assignee": [
+        "Molten Industries Inc."
+      ],
+      "inventors": [
+        "Kevin, A. BUSH",
+        "Caleb, C. BOYD"
+      ],
+      "applicationDate": "2024-03-08",
+      "claimsCount": 19,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 12.395705
+    },
+    {
+      "id": "JP-2024539562-A",
+      "title": [
+        "\u70ad\u5316\u6c34\u7d20\u539f\u6599\u3092\u71b1\u5206\u89e3\u3059\u308b\u305f\u3081\u306e\u5206\u89e3\u53cd\u5fdc\u5668"
+      ],
+      "abstract": "\u672c\u958b\u793a\u306b\u3088\u308c\u3070\u3001\u6df7\u5408\u7269\u3092\u542b\u3080\u69d8\u3005\u306a\u7d44\u6210\u306e\u70ad\u5316\u6c34\u7d20\u539f\u6599\u3092\u71b1\u5316\u5b66\u5206\u89e3\uff08\u71b1\u5206\u89e3\u3001\u5206\u89e3\u3001\u76f4\u63a5\u5206\u89e3\uff09\u3059\u308b\u305f\u3081\u306e\u591a\u6bb5\u5206\u89e3\u53cd\u5fdc\u5668\u53ca\u3073\u65b9\u6cd5\u304c\u63d0\u4f9b\u3055\u308c\u308b\u3002\u52a0\u71b1\u30b9\u30c6\u30fc\u30b8\u3092\u901a\u904e\u3059\u308b\u4f9b\u7d66\u6d41\u4e2d\u306e\u539f\u6599\u306f\u3001\u305d\u306e\u6027\u8cea\u306b\u5fdc\u3058\u305f\u5206\u89e3\u6e29\u5ea6\u307e\u3067\u6607\u6e29\u3055\u305b\u308b\u3053\u3068\u306b\u3088\u308a\u6d3b\u6027\u5316\u3055\u308c\u308b\u3002\u52a0\u71b1\u30b9\u30c6\u30fc\u30b8\u306e\u7269\u7406\u7684\u9577\u3055\u53ca\u3073\u6d3b\u6027\u5316\u6d41\u306e\u901f\u5ea6\u306f\u3001\u6d3b\u6027\u5316\u6d41\u306e\u52a0\u71b1\u6ede\u7559\u6642\u9593\u304c\u5206\u89e3\u6e29\u5ea6\u306b\u304a\u3051\u308b\u5e73\u5747\u5206\u89e3\u958b\u59cb\u6642\u9593\uff08\u4f8b\u3048\u3070\u3001\u539f\u6599\u306e\uff11\uff05\u4ee5\u4e0a\u5206\u89e3\u3055\u308c\u308b\u307e\u3067\u306e\u6642\u9593\uff09\u3088\u308a\u3082\u77ed\u304f\u306a\u308b\u3088\u3046\u306b\u8abf\u6574\u3055\u308c\u308b\u3002\u52a0\u71b1\u30b9\u30c6\u30fc\u30b8\u306e\u5f8c\u306b\u3001\u5e73\u5747\u5206\u89e3\u958b\u59cb\u6642\u9593\u3088\u308a\u3082\u9577\u3044\u5206\u89e3\u6ede\u7559\u6642\u9593\u3092\u30b5\u30dd\u30fc\u30c8\u3059\u308b\u5206\u89e3\u30b9\u30c6\u30fc\u30b8\u304c\u7d9a\u304f\u3002\u5206\u89e3\u30b9\u30c6\u30fc\u30b8\u306e\u5185\u90e8\u306b\u3001\u70ad\u7d20\u5806\u7a4d\u7269\u306e\u62ed\u304d\u53d6\u308a\uff08\u9664\u53bb\uff09\u3092\u5bb9\u6613\u306b\u3059\u308b\u305f\u3081\u306b\u56de\u8ee2\u3055\u305b\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u6eb6\u878d\u7269\u8cea\u3092\u5b58\u5728\u3055\u305b\u3066\u3082\u3088\u3044\u3002 \u3010\u9078\u629e\u56f3\u3011\u56f3\uff11\uff24",
+      "publicationNumber": "JP2024539562",
+      "publicationDate": "2024-10-29",
+      "assignee": [
+        "\u30e2\u30eb\u30c6\u30f3 \u30a4\u30f3\u30c0\u30b9\u30c8\u30ea\u30fc\u30ba \u30a4\u30f3\u30b3\u30fc\u30dd\u30ec\u30a4\u30c6\u30c3\u30c9"
+      ],
+      "inventors": [
+        "\u30d6\u30c3\u30b7\u30e5\u3001\u30b1\u30f4\u30a3\u30f3\u30fb\u30a8\u30fc",
+        "\u30dc\u30a4\u30c9\u3001\u30b1\u30ec\u30d6\u30fb\u30b7\u30fc"
+      ],
+      "applicationDate": "2022-10-05",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Chemical engineering",
+        "Materials, metallurgy"
+      ],
+      "score": 12.008648
+    },
+    {
+      "id": "WO-2024187167-A1",
+      "title": [
+        "SYSTEM AND METHOD FOR METHANE PYROLYSIS DRIVEN REDUCED IRON PRODUCTION USING INTEGRATED THERMAL MANAGEMENT"
+      ],
+      "abstract": "A system and method for obtaining a metal oxide reduction product in a metal oxide reduction reaction using a pyrolysis -derived hydrogen from a pyrolysis reactor that pyrolyzes a hydrocarbon feedstock to deliver pyrolysis gases that include the pyrolysis- derived hydrogen, aa pyrolysis carbon product and a hydrocarbon fraction of unreacted hydrocarbon feedstock. Pyrolysis gases are fed through a high-temperature carbon separator to separate the pyrolysis carbon product and then flow at a working temperature below pyrolyzation temperature to a reduction furnace that runs the metal oxide reduction reaction such that the pyrolysis -derived hydrogen participates in that reaction. A thermal management system maintains the working temperature of the pyrolysis gases and manages the processing of unreacted pyrolysis-derived hydrogen through heat exchange and other thermal management techniques and tools.",
+      "publicationNumber": "WO2024187167",
+      "publicationDate": "2024-09-12",
+      "assignee": [
+        "Molten Industries Inc."
+      ],
+      "inventors": [
+        "Kevin, A. BUSH",
+        "Caleb, C. BOYD"
+      ],
+      "applicationDate": "2024-03-08",
+      "claimsCount": 19,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 11.764893
+    },
+    {
+      "id": "WO-2023059707-A1",
+      "title": [
+        "A DECOMPOSITION REACTOR FOR PYROLYSIS OF HYDROCARBON FEEDSTOCK"
+      ],
+      "abstract": "A multi-stage decomposition reactor and method for thermochemical decomposition (pyrolysis, cracking, direct decomposition) of a hydrocarbon feedstock of various compositions that may include mixtures. The feedstock in a supply flow passing through a heating stage is activated by raising its temperature to a decomposition temperature, dependent on the nature of the feedstock. The physical length of the heating stage and a velocity of flow once activated are tuned such that a heating residence time of the flow is shorter than an average decomposition onset time at the decomposition temperature ( e. g., before 1% or more feedstock decomposition ). The heating stage is followed by a decomposition stage that supports a decomposition residence time that is longer than the average decomposition onset time. A molten material can be present in the decomposition stage that can be rotated to facilitate mopping up of carbon depositions.",
+      "publicationNumber": "WO2023059707",
+      "publicationDate": "2023-04-13",
+      "assignee": [
+        "Molten Industries Inc."
+      ],
+      "inventors": [
+        "Kevin, A. BUSH",
+        "Caleb, C. BOYD"
+      ],
+      "applicationDate": "2022-10-05",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Chemical engineering",
+        "Materials, metallurgy"
+      ],
+      "score": 11.764893
+    },
+    {
+      "id": "US-20240309477-A1",
+      "title": [
+        "System and method for pyrolysis driven reduced iron production using integrated thermal management"
+      ],
+      "abstract": "A system and method for obtaining a metal oxide reduction product in a metal oxide reduction reaction using a pyrolysis-derived hydrogen from a pyrolysis reactor that pyrolyzes a hydrocarbon feedstock to deliver pyrolysis gases that include the pyrolysis-derived hydrogen, a pyrolysis carbon product and a hydrocarbon fraction of unreacted hydrocarbon feedstock. Pyrolysis gases are fed through a high-temperature carbon separator to separate the pyrolysis carbon product and then flow at a working temperature below pyrolyzation temperature to a reduction furnace that runs the metal oxide reduction reaction such that the pyrolysis-derived hydrogen participates in that reaction. A thermal management system maintains the working temperature of the pyrolysis gases and manages the processing of unreacted pyrolysis-derived hydrogen through heat exchange and other thermal management techniques and tools.",
+      "publicationNumber": "US20240309477",
+      "publicationDate": "2024-09-19",
+      "assignee": [
+        "Molten Industries Inc."
+      ],
+      "inventors": [
+        "Kevin A. Bush",
+        "Caleb C. Boyd"
+      ],
+      "applicationDate": "2024-03-08",
+      "claimsCount": 19,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 11.764893
+    },
+    {
+      "id": "US-20230107846-A1",
+      "title": [
+        "Decomposition reactor for pyrolysis of hydrocarbon feedstock"
+      ],
+      "abstract": "A multi-stage decomposition reactor and method for thermochemical decomposition (pyrolysis, cracking, direct decomposition) of a hydrocarbon feedstock of various compositions that may include mixtures. The feedstock in a supply flow passing through a heating stage is activated by raising its temperature to a decomposition temperature, dependent on the nature of the feedstock. The physical length of the heating stage and a velocity of flow once activated are tuned such that a heating residence time of the flow is shorter than an average decomposition onset time at the decomposition temperature (e.g., before 1% or more feedstock decomposition). The heating stage is followed by a decomposition stage that supports a decomposition residence time that is longer than the average decomposition onset time. A molten material can be present in the decomposition stage that can be rotated to facilitate mopping up of carbon depositions.",
+      "publicationNumber": "US20230107846",
+      "publicationDate": "2023-04-06",
+      "assignee": [
+        "Molten Industries Inc."
+      ],
+      "inventors": [
+        "Kevin A. Bush",
+        "Caleb C. Boyd"
+      ],
+      "applicationDate": "2022-09-28",
+      "claimsCount": 28,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Chemical engineering",
+        "Materials, metallurgy"
+      ],
+      "score": 11.764893
+    },
+    {
+      "id": "EP-4412757-A4",
+      "title": [
+        "A DECOMPOSITION REACTOR FOR PYROLYSIS OF HYDROCARBON FEEDSTOCK"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP4412757",
+      "publicationDate": "2025-12-31",
+      "assignee": [
+        "Molten Industries Inc."
+      ],
+      "inventors": [
+        "Kevin, A. BUSH",
+        "Caleb, C. BOYD"
+      ],
+      "applicationDate": "2022-10-05",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Chemical engineering",
+        "Materials, metallurgy"
+      ],
+      "score": 11.764893
+    },
+    {
+      "id": "EP-4412757-A1",
+      "title": [
+        "A DECOMPOSITION REACTOR FOR PYROLYSIS OF HYDROCARBON FEEDSTOCK"
+      ],
+      "abstract": "A multi-stage decomposition reactor and method for thermochemical decomposition (pyrolysis, cracking, direct decomposition) of a hydrocarbon feedstock of various compositions that may include mixtures. The feedstock in a supply flow passing through a heating stage is activated by raising its temperature to a decomposition temperature, dependent on the nature of the feedstock. The physical length of the heating stage and a velocity of flow once activated are tuned such that a heating residence time of the flow is shorter than an average decomposition onset time at the decomposition temperature ( e. g., before 1% or more feedstock decomposition ). The heating stage is followed by a decomposition stage that supports a decomposition residence time that is longer than the average decomposition onset time. A molten material can be present in the decomposition stage that can be rotated to facilitate mopping up of carbon depositions.",
+      "publicationNumber": "EP4412757",
+      "publicationDate": "2024-08-14",
+      "assignee": [
+        "Molten Industries Inc."
+      ],
+      "inventors": [
+        "Kevin, A. BUSH",
+        "Caleb, C. BOYD"
+      ],
+      "applicationDate": "2022-10-05",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Chemical engineering",
+        "Materials, metallurgy"
+      ],
+      "score": 11.764893
+    },
+    {
+      "id": "AU-2022361402-A1",
+      "title": [
+        "A DECOMPOSITION REACTOR FOR PYROLYSIS OF HYDROCARBON FEEDSTOCK"
+      ],
+      "abstract": "A multi-stage decomposition reactor and method for thermochemical decomposition (pyrolysis, cracking, direct decomposition) of a hydrocarbon feedstock of various compositions that may include mixtures. The feedstock in a supply flow passing through a heating stage is activated by raising its temperature to a decomposition temperature, dependent on the nature of the feedstock. The physical length of the heating stage and a velocity of flow once activated are tuned such that a heating residence time of the flow is shorter than an average decomposition onset time at the decomposition temperature ( e. g., before 1% or more feedstock decomposition ). The heating stage is followed by a decomposition stage that supports a decomposition residence time that is longer than the average decomposition onset time. A molten material can be present in the decomposition stage that can be rotated to facilitate mopping up of carbon depositions.",
+      "publicationNumber": "AU2022361402",
+      "publicationDate": "2024-03-14",
+      "assignee": [
+        "Molten Industries Inc."
+      ],
+      "inventors": [
+        "Caleb, C. BOYD",
+        "Kevin, A. BUSH"
+      ],
+      "applicationDate": "2022-10-05",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Chemical engineering",
+        "Materials, metallurgy"
+      ],
+      "score": 11.764893
+    },
+    {
+      "id": "WO-2025090992-A1",
+      "title": [
+        "INTEGRATED THERMAL ENERGY STORAGE FOR HYDROCARBON PYROLYSIS"
+      ],
+      "abstract": "A thermochemical system and method for thermochemical decomposition of a hydrocarbon feedstock such as methane or natural gas within an insulated volume where the important elements of the thermochemical system are located within the insulated volume. The insulated volume contains a heater and a thermal energy storage medium in thermal communication with the heater such that it is heated by the heater and stores the thermal energy it receives by a heat storage process. The thermal energy storage medium is also configured to release the thermal energy that it stored in the form of a released heat. The insulated volume also contains a hydrocarbon pyrolysis reactor thermally coupled with the thermal energy storage medium to receive the released heat and use it for driving pyrolysis of the hydrocarbon feedstock to produce pyrolysis products containing primarily hydrogen and a solid carbon product. Pyrolysis of the hydrocarbon feedstock is driven at a high temperature, such as between 700 \u00b0 C and 2, 000 \u00b0 C.",
+      "publicationNumber": "WO2025090992",
+      "publicationDate": "2025-05-01",
+      "assignee": [
+        "Molten Industries Inc."
+      ],
+      "inventors": [
+        "Kevin, A. BUSH",
+        "Caleb, C. BOYD",
+        "Robert, G. WENDT",
+        "Brandon, J. STITT"
+      ],
+      "applicationDate": "2024-10-27",
+      "claimsCount": 23,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Chemical engineering",
+        "Materials, metallurgy"
+      ],
+      "score": 11.710151
+    },
+    {
+      "id": "WO-2023076484-A1",
+      "title": [
+        "AN ELECTROCHEMICAL SYSTEM WITH AN ELECTROCHEMICAL STACK FOR CARBON DIOXIDE CAPTURE AND REGENERATION"
+      ],
+      "abstract": "An electrochemical system, an electrochemical stack and a method for carbon dioxide capture and carbon dioxide recovery. The system has a CO2 capture device where a metal hydroxide base solution reacts with CO2 to produce carbonates and bicarbonates. The electrochemical stack has one or more electrochemical cells, each with a gas diffusion anode having a hydrogen supply, a cathode spaced from the anode to define an electrolysis region between them for a salt solution, a cation exchange membrane in the electrolysis region next to the cathode and a metal hydroxide region separated from the electrolysis region by the cathode. A voltage potential between the anode and cathode produces an acid solution in the electrolysis region, conditions the metal hydroxide base solution in the metal hydroxide region and evolves hydrogen at the cathode. A CO2 evolution device uses the acid and the carbonates and/ or bicarbonates to recover CO2 and to recover the salt solution for reuse in the electrochemical stack.",
+      "publicationNumber": "WO2023076484",
+      "publicationDate": "2023-05-04",
+      "assignee": [
+        "Molten Industries Inc."
+      ],
+      "inventors": [
+        "Kevin, A. BUSH",
+        "Caleb, C. BOYD"
+      ],
+      "applicationDate": "2022-10-27",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 11.710151
+    },
+    {
+      "id": "US-20250135424-A1",
+      "title": [
+        "Integrated thermal energy storage for hydrocarbon pyrolysis"
+      ],
+      "abstract": "A thermochemical system and method for thermochemical decomposition of a hydrocarbon feedstock such as methane or natural gas within an insulated volume where the important elements of the thermochemical system are located within the insulated volume. The insulated volume contains a heater and a thermal energy storage medium in thermal communication with the heater such that it is heated by the heater and stores the thermal energy it receives by a heat storage process. The thermal energy storage medium is also configured to release the thermal energy that it stored in the form of a released heat. The insulated volume also contains a hydrocarbon pyrolysis reactor thermally coupled with the thermal energy storage medium to receive the released heat and use it for driving pyrolysis of the hydrocarbon feedstock to produce pyrolysis products containing primarily hydrogen and a solid carbon product. Pyrolysis of the hydrocarbon feedstock is driven at a high temperature, such as between 700\u00b0 C. and 2,000\u00b0 C.",
+      "publicationNumber": "US20250135424",
+      "publicationDate": "2025-05-01",
+      "assignee": [
+        "Molten Industries Inc."
+      ],
+      "inventors": [
+        "Kevin A. Bush",
+        "Caleb C. Boyd",
+        "Brandon J. Stitt",
+        "Robert G. Wendt"
+      ],
+      "applicationDate": "2024-10-27",
+      "claimsCount": 23,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Chemical engineering",
+        "Materials, metallurgy"
+      ],
+      "score": 11.710151
+    },
+    {
+      "id": "US-20230126394-A1",
+      "title": [
+        "Electrochemical system with an electrochemical stack for carbon dioxide capture and regeneration"
+      ],
+      "abstract": "An electrochemical system, an electrochemical stack and a method for carbon dioxide capture and carbon dioxide recovery. The system has a CO2 capture device where a metal hydroxide base solution reacts with CO2 to produce carbonates and bicarbonates. The electrochemical stack has one or more electrochemical cells, each with a gas diffusion anode having a hydrogen supply, a cathode spaced from the anode to define an electrolysis region between them for a salt solution, a cation exchange membrane in the electrolysis region next to the cathode and a metal hydroxide region separated from the electrolysis region by the cathode.A voltage potential between the anode and cathode produces an acid solution in the electrolysis region, conditions the metal hydroxide base solution in the metal hydroxide region and evolves hydrogen at the cathode. A CO2 evolution device uses the acid and the carbonates and/or bicarbonates to recover CO2 and to recover the salt solution for reuse in the electrochemical stack.",
+      "publicationNumber": "US20230126394",
+      "publicationDate": "2023-04-27",
+      "assignee": [
+        "Molten Industries Inc."
+      ],
+      "inventors": [
+        "Kevin A. Bush",
+        "Caleb C. Boyd"
+      ],
+      "applicationDate": "2022-10-26",
+      "claimsCount": 38,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Surface technology, coating"
+      ],
+      "score": 11.710151
+    },
+    {
+      "id": "EP-4422781-A4",
+      "title": [
+        "AN ELECTROCHEMICAL SYSTEM WITH AN ELECTROCHEMICAL STACK FOR CARBON DIOXIDE CAPTURE AND REGENERATION"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP4422781",
+      "publicationDate": "2025-09-03",
+      "assignee": [
+        "Molten Industries Inc."
+      ],
+      "inventors": [
+        "Kevin, A. BUSH",
+        "Caleb, C. BOYD"
+      ],
+      "applicationDate": "2022-10-27",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 11.710151
+    },
+    {
+      "id": "EP-4422781-A1",
+      "title": [
+        "AN ELECTROCHEMICAL SYSTEM WITH AN ELECTROCHEMICAL STACK FOR CARBON DIOXIDE CAPTURE AND REGENERATION"
+      ],
+      "abstract": "An electrochemical system, an electrochemical stack and a method for carbon dioxide capture and carbon dioxide recovery. The system has a CO2 capture device where a metal hydroxide base solution reacts with CO2 to produce carbonates and bicarbonates. The electrochemical stack has one or more electrochemical cells, each with a gas diffusion anode having a hydrogen supply, a cathode spaced from the anode to define an electrolysis region between them for a salt solution, a cation exchange membrane in the electrolysis region next to the cathode and a metal hydroxide region separated from the electrolysis region by the cathode. A voltage potential between the anode and cathode produces an acid solution in the electrolysis region, conditions the metal hydroxide base solution in the metal hydroxide region and evolves hydrogen at the cathode. A CO2 evolution device uses the acid and the carbonates and/ or bicarbonates to recover CO2 and to recover the salt solution for reuse in the electrochemical stack.",
+      "publicationNumber": "EP4422781",
+      "publicationDate": "2024-09-04",
+      "assignee": [
+        "Molten Industries Inc."
+      ],
+      "inventors": [
+        "Kevin, A. BUSH",
+        "Caleb, C. BOYD"
+      ],
+      "applicationDate": "2022-10-27",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 11.710151
+    },
+    {
+      "id": "WO-2025085765-A1",
+      "title": [
+        "DELIVERY OF HIGH TEMPERATURE HYDROGEN VIA HYDROCARBON PYROLYSIS"
+      ],
+      "abstract": "A chemical process and system using a pyrolysis reactor that pyrolyzes a hydrocarbon feedstock, e.g., methane or natural gas, to produce a processed hydrogen gas at a high gas temperature. The pyrolysis reactor issues a high temperature fluid flow of pyrolysis products including hydrogen and a solid carbon product that are sent to a heat exchanger to cool them to a low temperature fluid flow of pyrolysis products. A processing system connected to the heat exchanger receives the low temperature fluid flow and generates the processed hydrogen gas at a low gas temperature and then delivers a gas flow of the processed hydrogen gas at the low gas temperature back to the heat exchanger to serve as working fluid that cools down the high temperature fluid flow of pyrolysis gases. Advantageously, this exchange heats the gas flow at the low gas temperature and thus yields the processed hydrogen gas at the high gas temperature.",
+      "publicationNumber": "WO2025085765",
+      "publicationDate": "2025-04-24",
+      "assignee": [
+        "Molten Industries Inc."
+      ],
+      "inventors": [
+        "Kevin, A. BUSH",
+        "Caleb, C. BOYD",
+        "Brandon, J. STITT"
+      ],
+      "applicationDate": "2024-10-18",
+      "claimsCount": 25,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 11.607019
+    },
+    {
+      "id": "US-20250128939-A1",
+      "title": [
+        "Delivery of high temperature hydrogen via hydrocarbon pyrolysis"
+      ],
+      "abstract": "A chemical process and system using a pyrolysis reactor that pyrolyzes a hydrocarbon feedstock, e.g., methane or natural gas, to produce a processed hydrogen gas at a high gas temperature. The pyrolysis reactor issues a high temperature fluid flow of pyrolysis products including hydrogen and a solid carbon product that are sent to a heat exchanger to cool them to a low temperature fluid flow of pyrolysis products. A processing system connected to the heat exchanger receives the low temperature fluid flow and generates the processed hydrogen gas at a low gas temperature and then delivers a gas flow of the processed hydrogen gas at the low gas temperature back to the heat exchanger to serve as working fluid that cools down the high temperature fluid flow of pyrolysis gases. Advantageously, this exchange heats the gas flow at the low gas temperature and thus yields the processed hydrogen gas at the high gas temperature.",
+      "publicationNumber": "US20250128939",
+      "publicationDate": "2025-04-24",
+      "assignee": [
+        "Molten Industries Inc."
+      ],
+      "inventors": [
+        "Kevin A. Bush",
+        "Caleb C. Boyd",
+        "Brandon J. Stitt"
+      ],
+      "applicationDate": "2024-10-18",
+      "claimsCount": 25,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Chemical engineering",
+        "Materials, metallurgy"
+      ],
+      "score": 11.607019
+    },
+    {
+      "id": "WO-2025085450-A1",
+      "title": [
+        "METHANE PYROLYSIS IN A SUPERSATURATED MOLTEN MIXTURE OF METAL AND CARBON"
+      ],
+      "abstract": "A decomposition reactor equipped with a thermochemical decomposition reactor for performing a thermochemical decomposition of a hydrocarbon feedstock such as methane or natural gas, as well as a method for performing the thermochemical decomposition and process for obtaining a carbon product therefrom. The thermochemical decomposition reactor holds a supersaturated molten mixture primarily of a metal and carbon, where the metal is Mn, Fe, Co and Ni or an alloy comprising more than 50% of the metal. A heater heats and maintains supersaturated molten mixture in supersaturation with carbon while the hydrocarbon feedstock is injected to pass through the supersaturated molten mixture and be pyrolyzed to yield pyrolysis products that primarily include hydrogen and the desired carbon product. A hydrogen extraction means extracts the hydrogen and carbon product and a carbon separation means separates the carbon product preferably including a solid carbon product that is highly graphitic.",
+      "publicationNumber": "WO2025085450",
+      "publicationDate": "2025-04-24",
+      "assignee": [
+        "Molten Industries Inc."
+      ],
+      "inventors": [
+        "Kevin, A. BUSH",
+        "Caleb, C. BOYD",
+        "BENJAMIN, M. RUSH"
+      ],
+      "applicationDate": "2024-10-15",
+      "claimsCount": 25,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Chemical engineering",
+        "Materials, metallurgy"
+      ],
+      "score": 11.596237
+    },
+    {
+      "id": "US-20250121340-A1",
+      "title": [
+        "Methane pyrolysis in a supersaturated molten mixture of metal and carbon"
+      ],
+      "abstract": "A decomposition reactor equipped with a thermochemical decomposition reactor for performing a thermochemical decomposition of a hydrocarbon feedstock such as methane or natural gas, as well as a method for performing the thermochemical decomposition and process for obtaining a carbon product therefrom. The thermochemical decomposition reactor holds a supersaturated molten mixture primarily of a metal and carbon, where the metal is Mn, Fe, Co and Ni or an alloy comprising more than 50% of the metal. A heater heats and maintains supersaturated molten mixture in supersaturation with carbon while the hydrocarbon feedstock is injected to pass through the supersaturated molten mixture and be pyrolyzed to yield pyrolysis products that primarily include hydrogen and the desired carbon product. A hydrogen extraction means extracts the hydrogen and carbon product and a carbon separation means separates the carbon product preferably including a solid carbon product that is highly graphitic.",
+      "publicationNumber": "US20250121340",
+      "publicationDate": "2025-04-17",
+      "assignee": [
+        "Molten Industries Inc."
+      ],
+      "inventors": [
+        "Kevin A. Bush",
+        "Caleb C. Boyd",
+        "Benjamin M. Rush"
+      ],
+      "applicationDate": "2024-10-15",
+      "claimsCount": 25,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Chemical engineering",
+        "Materials, metallurgy"
+      ],
+      "score": 11.596237
+    },
+    {
+      "id": "WO-2024238552-A1",
+      "title": [
+        "SYNTHESIS GAS PRODUCTION BY REVERSE WATER GAS SHIFT REACTION USING CARBON DIOXIDE AND PYROLYSIS-DERIVED HYDROGEN"
+      ],
+      "abstract": "Chemical systems and methods for synthesis gas ( syngas ) production relying on pyrolysis gases containing a pyrolysis carbon product and pyro lysis -derived hydrogen from a pyrolysis reactor that pyrolyzes a hydrocarbon feedstock. A high- temperature carbon separation mechanism separates the pyrolysis carbon product from the pyrolysis gases while maintaining their temperature above 800 \u00b0 C. A carbon dioxide source provides a gas stream primarily made up of a carbon dioxide gas. The hot pyrolysis gases containing pyrolysis- derived hydrogen and the carbon dioxide gas are sent to a reverse water gas shift reactor to react the pyrolysis gases with carbon dioxide to form the syngas. The syngas thus formed in the reverse water gas shift reactor can be used in many types of downstream systems and applications, including in reducing a metal oxide such as iron ore or other metal oxide to obtain a metal oxide reduction product. Recycling and heat exchange are provided for achieving further system efficiencies.",
+      "publicationNumber": "WO2024238552",
+      "publicationDate": "2024-11-21",
+      "assignee": [
+        "Molten Industries Inc."
+      ],
+      "inventors": [
+        "Kevin, A. BUSH",
+        "Caleb, C. BOYD"
+      ],
+      "applicationDate": "2024-05-14",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Chemical engineering",
+        "Materials, metallurgy"
+      ],
+      "score": 11.291515
+    },
+    {
+      "id": "US-20240383749-A1",
+      "title": [
+        "Synthesis gas production by reverse water gas shift reaction using carbon dioxide and pyrolysis-derived hydrogen"
+      ],
+      "abstract": "Chemical systems and methods for synthesis gas (syngas) production relying on pyrolysis gases containing a pyrolysis carbon product and pyrolysis-derived hydrogen from a pyrolysis reactor that pyrolyzes a hydrocarbon feedstock. A high-temperature carbon separation mechanism separates the pyrolysis carbon product from the pyrolysis gases while maintaining their temperature above 800\u00b0 C. A carbon dioxide source provides a gas stream primarily made up of a carbon dioxide gas. The hot pyrolysis gases containing pyrolysis-derived hydrogen and the carbon dioxide gas are sent to a reverse water gas shift reactor to react the pyrolysis gases with carbon dioxide to form the syngas. The syngas thus formed in the reverse water gas shift reactor can be used in many types of downstream systems and applications, including in reducing a metal oxide such as iron ore or other metal oxide to obtain a metal oxide reduction product. Recycling and heat exchange are provided for achieving further system efficiencies.",
+      "publicationNumber": "US20240383749",
+      "publicationDate": "2024-11-21",
+      "assignee": [
+        "Molten Industries Inc."
+      ],
+      "inventors": [
+        "Kevin A. Bush",
+        "Caleb C. Boyd"
+      ],
+      "applicationDate": "2024-05-14",
+      "claimsCount": 32,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Chemical engineering",
+        "Environmental technology",
+        "Materials, metallurgy"
+      ],
+      "score": 11.291515
+    },
+    {
+      "id": "CA-3231418-A1",
+      "title": [
+        "A DECOMPOSITION REACTOR FOR PYROLYSIS OF HYDROCARBON FEEDSTOCK"
+      ],
+      "abstract": "A multi-stage decomposition reactor and method for thermochemical decomposition (pyrolysis, cracking, direct decomposition) of a hydrocarbon feedstock of various compositions that may include mixtures. The feedstock in a supply flow passing through a heating stage is activated by raising its temperature to a decomposition temperature, dependent on the nature of the feedstock. The physical length of the heating stage and a velocity of flow once activated are tuned such that a heating residence time of the flow is shorter than an average decomposition onset time at the decomposition temperature ( e. g., before 1% or more feedstock decomposition ). The heating stage is followed by a decomposition stage that supports a decomposition residence time that is longer than the average decomposition onset time. A molten material can be present in the decomposition stage that can be rotated to facilitate mopping up of carbon depositions.",
+      "publicationNumber": "CA3231418",
+      "publicationDate": "2023-04-13",
+      "assignee": [
+        "BUSH, KEVIN A."
+      ],
+      "inventors": [
+        "KEVIN A. BUSH",
+        "CALEB C. BOYD"
+      ],
+      "applicationDate": "2022-10-05",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 11.200255
+    },
+    {
+      "id": "KR-20240070653-A",
+      "title": [
+        "\ud0c4\ud654\uc218\uc18c \uacf5\uae09\uc6d0\ub8cc\uc758 \uc5f4\ubd84\ud574\ub97c \uc704\ud55c \ubd84\ud574 \ubc18\uc751\uae30"
+      ],
+      "abstract": "\ubcf8 \ubc1c\uba85\uc740 \ud63c\ud569\ubb3c\uc744 \ud3ec\ud568\ud558\ub294 \ub2e4\uc591\ud55c \ud0c4\ud654\uc218\uc18c \uacf5\uae09\uc6d0\ub8cc\uc758 \uc5f4\ud654\ud559\uc801 \ubd84\ud574(\uc5f4\ubd84\ud574, \ubd84\ud574, \uc9c1\uc811 \ubd84\ud574)\ub97c \uc704\ud55c \ub2e4\ub2e8\uacc4 \ubd84\ud574 \ubc18\uc751\uae30 \ubc0f \ubc29\ubc95\uc5d0 \ub300\ud55c \ubc1c\uba85\uc774\ub2e4. \uacf5\uae09 \uc720\ub7c9\uc758 \uacf5\uae09\uc6d0\ub8cc\ub294 \uac00\uc5f4 \uc2a4\ud14c\uc774\uc9c0\ub97c \ud1b5\ud558\uba70, \uacf5\uae09\uc6d0\ub8cc\uc758 \ud2b9\uc131\uc5d0 \ub530\ub77c \uc628\ub3c4\ub97c \ubd84\ud574 \uc628\ub3c4\uae4c\uc9c0 \uc62c\ub824 \ud65c\uc131\ud654\ub41c\ub2e4. \uac00\uc5f4 \uc2a4\ud14c\uc774\uc9c0\uc758 \ubb3c\ub9ac\uc801 \uae38\uc774\uc640 \ud65c\uc131\ud654\ub41c \uc720\ub7c9\uc758 \uc18d\ub3c4\ub97c \ud29c\ub2dd\ud558\uc5ec, \uc720\ub7c9\uc758 \uac00\uc5f4 \uc794\ub958\uc2dc\uac04\uc774 \ubd84\ud574 \uc628\ub3c4\uc5d0\uc11c\uc758 \ud3c9\uade0 \ubd84\ud574\uac1c\uc2dc \uc2dc\uac04(\uc608\ub97c \ub4e4\uc5b4, 1% \uc774\uc0c1\uc758 \uacf5\uae09\uc6d0\ub8cc \ubd84\ud574 \uc804)\ubcf4\ub2e4 \uc9e7\uac8c \ud55c\ub2e4. \uac00\uc5f4 \uc2a4\ud14c\uc774\uc9c0 \ub2e4\uc74c\uc5d0\ub294 \ubd84\ud574 \uc2a4\ud14c\uc774\uc9c0\uac00 \uc774\uc5b4\uc9c0\uba70, \ubd84\ud574 \uc2a4\ud14c\uc774\uc9c0\ub294 \ubd84\ud574 \uc794\ub958\uc2dc\uac04\uc774 \ud3c9\uade0 \ubd84\ud574\uac1c\uc2dc \uc2dc\uac04\ubcf4\ub2e4 \uae38\uac8c\ud55c\ub2e4. \ubd84\ud574 \uc2a4\ud14c\uc774\uc9c0\uc5d0 \uc6a9\uc735\ubb3c\uc774 \uc874\uc7ac\ud560 \uc218 \uc788\uc73c\uba70, \ubd84\ud574 \uc2a4\ud14c\uc774\uc9c0\ub294 \ud0c4\uc18c \uce68\uc804\ubb3c\uc744 \uc81c\uac70\ud558\uae30 \uc704\ud574 \ud68c\uc804\ud560 \uc218 \uc788\ub2e4.",
+      "publicationNumber": "KR20240070653",
+      "publicationDate": "2024-05-21",
+      "assignee": [
+        "Molten Industries Inc."
+      ],
+      "inventors": [
+        "BUSH KEVIN A.",
+        "BOYD CALEB C."
+      ],
+      "applicationDate": "2022-10-05",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Chemical engineering",
+        "Materials, metallurgy"
+      ],
+      "score": 10.0597725
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "search_id": "search_20260114_154641",
+  "timestamp": "2026-01-14T15:46:41.629268",
+  "query_type": "ai_search",
+  "user_prompt": "PA=(Aeroseal) AND PD>2015",
+  "minesoft_query": "PA=(Aeroseal) AND PD>2015",
+  "results_count": 5,
+  "directory": "2026-01-14_aeroseal_and_2015",
+  "execution_time_ms": 549.2725372314453,
+  "api_endpoint": "query"
+}

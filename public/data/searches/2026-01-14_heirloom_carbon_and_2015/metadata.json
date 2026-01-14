@@ -1,0 +1,11 @@
+{
+  "search_id": "search_20260114_154636",
+  "timestamp": "2026-01-14T15:46:36.843512",
+  "query_type": "ai_search",
+  "user_prompt": "PA=(Heirloom Carbon) AND PD>2015",
+  "minesoft_query": "PA=(Heirloom Carbon) AND PD>2015",
+  "results_count": 17,
+  "directory": "2026-01-14_heirloom_carbon_and_2015",
+  "execution_time_ms": 949.4938850402832,
+  "api_endpoint": "query"
+}

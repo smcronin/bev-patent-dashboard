@@ -1,0 +1,138 @@
+{
+  "count": 5,
+  "numFound": 5,
+  "docs": [
+    {
+      "id": "US-20250377123-A1",
+      "title": [
+        "APPARATUS AND METHOD FOR CONTROLLING AN ORIFICE OF A TESTING DEVICE FOR PERFORMING A LEAKAGE TEST"
+      ],
+      "abstract": "An apparatus for controlling an orifice of a testing device is provided. The apparatus obtains test data associated with an enclosure. The test data includes one or more observation values associated with one or more predefined orifice settings of the testing device, and a predefined target pressure. The apparatus further calculates flow range data for each of the one or more predefined orifice settings based on the one or more observation values and determines device flow data for each of the one or more predefined orifice settings based on the flow range data. The apparatus further determines target flow data for the enclosure based on the device flow data and the predefined target pressure and identifies an orifice setting from the one or more predefined orifice settings. The apparatus further controls a setting of the orifice based on the identified orifice setting for performing the leakage test.",
+      "publicationNumber": "US20250377123",
+      "publicationDate": "2025-12-11",
+      "assignee": [
+        "AEROSEAL LLC"
+      ],
+      "inventors": [
+        "Sachin Kumar Koyeti",
+        "Ethan James Shepherd"
+      ],
+      "applicationDate": "2024-08-08",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Measurement",
+        "Thermal processes and apparatus"
+      ],
+      "score": 13.264698
+    },
+    {
+      "id": "US-20240419195-A1",
+      "title": [
+        "SYSTEMS AND METHODS FOR PROVIDING HEAT TO ENCLOSURES DURING SEALING PROCESSES"
+      ],
+      "abstract": "Embodiments of the present disclosure provide an aerosolized sealant particle injection system. The system includes sealant injection stations and a combustion-type heater to generate heat for heating an enclosure. Each of the sealant injection stations includes a supply reservoir to store a fluid and a sealant, and a sprayer assembly to aerosolize the fluid and the sealant within the enclosure. The enclosure includes at least one leak opening. During operation, the heating of the enclosure causes solidification of aerosolized particles of the fluid and the sealant in the enclosure to seal the at least one leak opening.",
+      "publicationNumber": "US20240419195",
+      "publicationDate": "2024-12-19",
+      "assignee": [
+        "AEROSEAL LLC"
+      ],
+      "inventors": [
+        "Mark Modera",
+        "Justin McClain",
+        "Avery Goldinger",
+        "Joel Wesley Summerfield",
+        "Michael Joesph Coyle"
+      ],
+      "applicationDate": "2024-08-30",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Chemical engineering",
+        "Control"
+      ],
+      "score": 13.264698
+    },
+    {
+      "id": "US-20240248498-A1",
+      "title": [
+        "AUTONOMOUS CONCENTRATION CONTROL SYSTEMS AND METHODS OF CONTROLLING CONCENTRATION OF A GAS OR PARTICLE MIXTURE"
+      ],
+      "abstract": "A method of controlling a concentration or range of concentrations of a liquid or gas in an enclosure is provided. The method includes positioning an injection station within the enclosure, the injection station includes a liquid or gas source, a sprayer assembly and a system that delivers the liquid or gas from the liquid or gas source to the sprayer assembly. A concentration level of the liquid or gas in the environment surrounding the injection station is monitored using a sensor and the sensor providing a signal indicative of the concentration level to a controller. The controller controls the flow of the liquid or gas to the sprayer assembly based on the signal.",
+      "publicationNumber": "US20240248498",
+      "publicationDate": "2024-07-25",
+      "assignee": [
+        "Aeroseal, LLC"
+      ],
+      "inventors": [
+        "Mark Peter Modera",
+        "Vijaykumar Kollepara",
+        "Brian S. Farmer",
+        "Chiranjeevi Santosh Deevi",
+        "John Frederic Blackwell"
+      ],
+      "applicationDate": "2024-03-04",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Chemical engineering",
+        "Control"
+      ],
+      "score": 11.9166355
+    },
+    {
+      "id": "US-20210318701-A1",
+      "title": [
+        "AUTONOMOUS CONCENTRATION CONTROL SYSTEMS AND METHODS OF CONTROLLING CONCENTRATION OF A GAS OR PARTICLE MIXTURE"
+      ],
+      "abstract": "A method of controlling a concentration or range of concentrations of a liquid or gas in an enclosure is provided. The method includes positioning an injection station within the enclosure, the injection station includes a liquid or gas source, a sprayer assembly and a system that delivers the liquid or gas from the liquid or gas source to the sprayer assembly. A concentration level of the liquid or gas in the environment surrounding the injection station is monitored using a sensor and the sensor providing a signal indicative of the concentration level to a controller. The controller controls the flow of the liquid or gas to the sprayer assembly based on the signal.",
+      "publicationNumber": "US20210318701",
+      "publicationDate": "2021-10-14",
+      "assignee": [
+        "Aeroseal, LLC"
+      ],
+      "inventors": [
+        "Mark Peter Modera",
+        "Srinivas Vijaykumer Kollepara",
+        "Brian S. Farmer",
+        "Chiranjeevi Santosh Deevi",
+        "John Frederic Blackwell"
+      ],
+      "applicationDate": "2021-04-14",
+      "claimsCount": 23,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Chemical engineering",
+        "Control"
+      ],
+      "score": 11.9166355
+    },
+    {
+      "id": "US-11921524-B2",
+      "title": [
+        "Autonomous concentration control systems and methods of controlling concentration of a gas or particle mixture"
+      ],
+      "abstract": "A method of controlling a concentration or range of concentrations of a liquid or gas in an enclosure is provided. The method includes positioning an injection station within the enclosure. the injection station includes a liquid or gas source, a sprayer assembly and a system that delivers the liquid or gas from the liquid or gas source to the sprayer assembly. A concentration level of the liquid or gas in the environment surrounding the injection station is monitored using a sensor and the sensor providing a signal indicative of the concentration level to a controller. The controller controls the flow of the liquid or gas to the sprayer assembly based on the signal.",
+      "publicationNumber": "US11921524",
+      "publicationDate": "2024-03-05",
+      "assignee": [
+        "Aeroseal, LLC"
+      ],
+      "inventors": [
+        "Mark Peter Modera",
+        "Vijaykumer Kollepara",
+        "Brian S. Farmer",
+        "Chiranjeevi Santosh Deevi",
+        "John Frederic Blackwell"
+      ],
+      "applicationDate": "2021-04-14",
+      "claimsCount": 23,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Chemical engineering",
+        "Control"
+      ],
+      "score": 11.9166355
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "search_id": "search_20260114_154822",
+  "timestamp": "2026-01-14T15:48:22.195194",
+  "query_type": "ai_search",
+  "user_prompt": "PA=(Vantem) AND PD>2015",
+  "minesoft_query": "PA=(Vantem) AND PD>2015",
+  "results_count": 8,
+  "directory": "2026-01-14_vantem_and_2015",
+  "execution_time_ms": 611.2470626831055,
+  "api_endpoint": "query"
+}

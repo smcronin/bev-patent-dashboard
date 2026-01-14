@@ -1,0 +1,125 @@
+{
+  "count": 5,
+  "numFound": 5,
+  "docs": [
+    {
+      "id": "WO-2021113708-A1",
+      "title": [
+        "MOLTEN SALT REACTOR IMPROVEMENTS"
+      ],
+      "abstract": "A method of preheating a feed to a molten material reactor comprises heating a hydrocarbon feed in a first heat exchanger using a cooled product gas to produce a heated hydrocarbon feed stream, pyrolyzing at least a portion of the C2+ hydrocarbons in the heated feed stream in a pyrolysis reactor to produce a pyrolyzed hydrocarbon stream, and heating the pyrolyzed hydrocarbon stream in a second heat exchanger using a product gas to produce a pre-heated feed gas. The heated hydrocarbon feed stream comprises methane and one or more C2+ hydrocarbons.",
+      "publicationNumber": "WO2021113708",
+      "publicationDate": "2021-06-10",
+      "assignee": [
+        "C-ZERO LLC"
+      ],
+      "inventors": [
+        "Fadl SAADI",
+        "Samuel SHANER"
+      ],
+      "applicationDate": "2020-12-04",
+      "claimsCount": 36,
+      "independentClaimsCount": 6,
+      "technologyFields": [
+        "Chemical engineering",
+        "Materials, metallurgy"
+      ],
+      "score": 12.338013
+    },
+    {
+      "id": "WO-2021183959-A1",
+      "title": [
+        "METHODS OF PNEUMATIC CARBON REMOVAL"
+      ],
+      "abstract": "A pyrolysis process comprises introducing one or more chemical reactants into a reactor containing a liquid maintained at a high temperature, producing chemical products in the liquid based on the high temperature, allowing the solid product to grow in particle size, accumulating the solid product in the liquid, and removing the solid product from the reactor while retaining a substantial portion of the liquid within the reactor. The chemical products comprise a solid chemical product that is mixed with the liquid.",
+      "publicationNumber": "WO2021183959",
+      "publicationDate": "2021-09-16",
+      "assignee": [
+        "C-ZERO LLC"
+      ],
+      "inventors": [
+        "Samuel SHANER",
+        "ZACHARY JONES",
+        "ANDREW CALDWELL",
+        "Fadl SAADI"
+      ],
+      "applicationDate": "2021-03-12",
+      "claimsCount": 29,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Chemical engineering",
+        "Materials, metallurgy"
+      ],
+      "score": 12.224857
+    },
+    {
+      "id": "US-20240269635-A1",
+      "title": [
+        "PREVENTION OF SOLID DEPOSITION ON INTERNAL STRUCTURES OF REACTORS"
+      ],
+      "abstract": "A reactor system for high temperature reactions of reactants includes at least one reactant containing carbon. The reactor includes a reactor, a liquid media disposed within the reactor, and a solid carbon reaction product. The liquid media does not react irreversibly with the reactant to form products, and the liquid media wets at least a portion of a surface within the reactor. The solid carbon reaction product does not contact at least the portion of the surface within the reactor where the liquid media wets the portion of the surface within the reactor.",
+      "publicationNumber": "US20240269635",
+      "publicationDate": "2024-08-15",
+      "assignee": [
+        "C-ZERO, INC."
+      ],
+      "inventors": [
+        "Brett PARKINSON",
+        "Andrew Caldwell",
+        "Samuel SHANER",
+        "Eric McFarland"
+      ],
+      "applicationDate": "2022-06-10",
+      "claimsCount": 21,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Chemical engineering"
+      ],
+      "score": 11.634629
+    },
+    {
+      "id": "CN-111311157-A",
+      "title": [
+        "\u4e00\u79cd\u4f9b\u5e94\u94fe\u670d\u52a1\u7ba1\u7406\u7cfb\u7edf"
+      ],
+      "abstract": "\u672c\u53d1\u660e\u516c\u5f00\u4e86\u4e00\u79cd\u4f9b\u5e94\u94fe\u670d\u52a1\u7ba1\u7406\u7cfb\u7edf\u3002\u672c\u53d1\u660e\u5229\u7528\u533a\u5757\u94fe\u6280\u672f\u4e3a\u5e95\u5c42\u652f\u6491\uff0c\u6574\u5408\u4e86\u91c7\u8d2d\u9700\u6c42\u3001\u5ba1\u6279\u3001\u91c7\u8d2d\u6210\u5355\u3001\u8d27\u8fd0\u3001\u63a5\u6536\u3001\u751f\u6210\u878d\u8d44\u62a5\u544a\u3001\u53d1\u9001\u878d\u8d44\u9700\u6c42\u3001\u878d\u8d44\u53d1\u653e\u548c\u4f01\u4e1a\u6e05\u7ed3\u7b97\u5404\u73af\u8282\uff0c\u907f\u514d\u4e86\u5355\u7aef\u7684\u4eba\u5de5\u64cd\u4f5c\uff0c\u8fbe\u6210\u4fe1\u606f\u6d41\u8d44\u91d1\u6d41\u4e00\u81f4\uff0c\u4f18\u5316\u4f01\u4e1a\u3001\u4f9b\u5e94\u5546\u548c\u8d44\u91d1\u65b9\u6d41\u7a0b\uff0c\u52a0\u5feb\u878d\u8d44\u8fc7\u7a0b\uff0c\u63d0\u5347\u670d\u52a1\u6548\u7387\u7684\u76ee\u7684\u3002\u4f9b\u5e94\u94fe\u4e0a\u4e2d\u5c0f\u4f01\u4e1a\u53ef\u51ed\u501f\u533a\u5757\u94fe\u7684\u51ed\u8bc1\u5411\u878d\u8d44\u673a\u6784\u83b7\u5f97\u9ad8\u6548\u7387\u3001\u4f4e\u6210\u672c\u7684\u4f9b\u5e94\u94fe\u91d1\u878d\u670d\u52a1\uff0c\u540c\u65f6\u533a\u5757\u94fe\u6280\u672f\u4fdd\u8bc1\u7968\u636e\u53ef\u4fe1\u53ef\u5151\uff0c\u53c8\u4e0d\u4ea7\u751f\u989d\u5916\u7684\u8d22\u52a1\u8d39\u7528\uff0c\u5f62\u6210\u57fa\u4e8e\u771f\u5b9e\u8d38\u6613\u7684\u6570\u636e\u8d44\u4ea7\u4ef7\u503c\uff0c\u4fbf\u4e8e\u6279\u91cf\u5316\u4e1a\u52a1\u5904\u7406\u548c\u96c6\u56e2\u7edf\u4e00\u5316\u7ba1\u7406\uff0c\u4e14\u7968\u636e\u53ef\u5728\u4e00\u5b9a\u8303\u56f4\u5185\u6d41\u901a\uff0c\u5bf9\u4e2d\u5c0f\u4f01\u4e1a\u7684\u53d1\u5c55\u6709\u975e\u5e38\u79ef\u6781\u7684\u4f5c\u7528\uff0c\u6b64\u5916\uff0c\u8fd8\u53ef\u4ee5\u4fdd\u8bc1\u6574\u4e2a\u4ea4\u6613\u6d41\u7a0b\u900f\u660e\u65e0\u865a\u5047\u4ea4\u6613\u7684\u98ce\u9669\u3002",
+      "publicationNumber": "CN111311157",
+      "publicationDate": "2020-06-19",
+      "assignee": [
+        "C-ZERO Technology (Guangdong) Co., Ltd"
+      ],
+      "inventors": [
+        "JIANG JUN"
+      ],
+      "applicationDate": "2020-02-28",
+      "claimsCount": 8,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "IT methods for management"
+      ],
+      "score": 11.015132
+    },
+    {
+      "id": "CN-111353854-A",
+      "title": [
+        "\u4e00\u79cd\u9152\u5e97\u8ba2\u5355\u667a\u80fd\u7ed3\u7b97\u7ba1\u7406\u7cfb\u7edf"
+      ],
+      "abstract": "\u672c\u53d1\u660e\u516c\u5f00\u4e86\u4e00\u79cd\u9152\u5e97\u8ba2\u5355\u667a\u80fd\u7ed3\u7b97\u7ba1\u7406\u7cfb\u7edf\u3002\u672c\u53d1\u660e\u4e2d\uff0c\u4ece\u8ba2\u5355\u9884\u8ba2\u5230\u652f\u4ed8\uff0c\u5b8c\u6210\u4e00\u4e2a\u95ed\u73af\u7684\u4fe1\u606f\u6d41\uff0c\u4fdd\u8bc1\u8d44\u91d1\u4e0e\u4fe1\u606f\u7684\u4e00\u81f4\uff0c\u4ece\u800c\u51cf\u5c11\u5dee\u9519\u7387\uff0c\u51cf\u5c11\u4e86\u91cd\u590d\u52b3\u52a8\u548c\u624b\u5de5\u64cd\u4f5c\uff0c\u63d0\u9ad8\u4e86\u76f8\u5e94\u73af\u8282\u7684\u6548\u7387\uff1b\u5229\u7528\u667a\u80fd\u79d1\u6280\u548c\u533a\u5757\u94fe\u6280\u672f\u5f00\u521b\u5546\u52a1\u65c5\u884c\u6574\u4f53\u5546\u65c5\u667a\u80fd\u7ed3\u7b97\u529f\u80fd\uff0c\u5e2e\u52a9\u9152\u5e97\u524d\u53f0\u8f7b\u677e\u7ba1\u7406\u5165\u4f4f\u9000\u623f\u6d41\u7a0b\u53ca\u5e2e\u52a9\u8d22\u52a1\u7ba1\u7406\u4eba\u5458\u63d0\u9ad8\u6536\u76ca\u7ba1\u7406\uff1b\u672c\u53d1\u660e\u53ef\u4ee5\u5e2e\u52a9\u4f01\u4e1a\u5546\u65c5\u7ba1\u7406\u4eba\u5458\u548c\u8d22\u52a1\u4eba\u5458\u6267\u884c\u5927\u91cf\u91cd\u590d\u4efb\u52a1\uff0c\u7e41\u7410\u7684\u540e\u53f0\u4eba\u5de5\u6d41\u7a0b\uff0c\u57fa\u4e8e\u89c4\u5219\u7684\u4e1a\u52a1\u6d41\u7a0b\u5c06\u7ec6\u5fae\u3001\u590d\u6742\u548c\u7ecf\u5e38\u4e2d\u65ad\u7684\u8fc7\u7a0b\u81ea\u52a8\u5316\u5e76\u8fdb\u884c\u673a\u5668\u5b66\u4e60\uff1b\u540c\u65f6\u5b9e\u73b0\u964d\u672c\u589e\u6548\u7684\u529f\u80fd\u3002\u5e2e\u52a9\u4f01\u4e1a\u8d22\u52a1\u56e2\u961f\u53d1\u73b0\u9519\u8bef\uff0c\u5bf9\u4e8e\u4f01\u4e1a\u7ba1\u7406\u4eba\u58eb\u66f4\u8f7b\u677e\u5730\u7ba1\u7406\u5e76\u4f18\u5316\u5546\u65c5\u8d39\u7528\u652f\u51fa\uff0c\u7b80\u5316\u5546\u65c5\u7ed3\u7b97\u6d41\u7a0b\uff0c\u63d0\u5347\u4f01\u4e1a\u5408\u89c4\u7ecf\u8425\u6c34\u5e73\u3002",
+      "publicationNumber": "CN111353854",
+      "publicationDate": "2020-06-30",
+      "assignee": [
+        "C-ZERO Technology (Guangdong) Co., Ltd"
+      ],
+      "inventors": [
+        "JIANG JUN"
+      ],
+      "applicationDate": "2020-02-28",
+      "claimsCount": 6,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "IT methods for management"
+      ],
+      "score": 9.030693
+    }
+  ]
+}

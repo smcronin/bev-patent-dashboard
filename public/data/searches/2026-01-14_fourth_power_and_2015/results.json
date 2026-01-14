@@ -1,0 +1,363 @@
+{
+  "count": 13,
+  "numFound": 13,
+  "docs": [
+    {
+      "id": "WO-2024155999-A1",
+      "title": [
+        "BRITTLE MATERIAL VALVES"
+      ],
+      "abstract": "Some aspects of the disclosure provide a valve system that includes a valve made of brittle material, such as ceramic, graphite and the like. In some examples, the valve is made of one or more materials that remain a solid state in a temperature range of 1000\u00b0C to 3000\u00b0C. The valve includes a valve housing with a cavity extending in a length direction of the valve. The valve housing includes a first port aligned with the cavity and a second port that is formed on a side of the cavity. The valve includes a plunger that is movable in the cavity of the valve housing and configured to control a fluid flow between the first port and the second port. Methods of forming the valve and operating the valve are also provided.",
+      "publicationNumber": "WO2024155999",
+      "publicationDate": "2024-07-25",
+      "assignee": [
+        "Fourth Power, Inc."
+      ],
+      "inventors": [
+        "Mike HVASTA",
+        "COLIN KELSALL",
+        "Asegun HENRY",
+        "Sandeep PIDAPARTI",
+        "Joe PATRINOSTRO"
+      ],
+      "applicationDate": "2024-01-22",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Mechanical elements"
+      ],
+      "score": 11.170687
+    },
+    {
+      "id": "WO-2024156003-A1",
+      "title": [
+        "BRITTLE MATERIAL JOINTS WITH DYNAMIC SEALING"
+      ],
+      "abstract": "A joint structure may include a first component and a second component aligned in a first direction, where a first end of the first component is opposed to a first end of the second component. The joint structure may include a packing shell positioned around the first end of the first component and the first end of the second component such that the first component is inserted into the packing shell from the first end and the second component is inserted into the packing shell from the first end. The joint structure may include a first sealing element positioned between the packing shell and the first end of the first component and further extending into the packing shell. The joint structure may include a second sealing element positioned between the packing shell and the first end of the second component and further extending into the packing shell.",
+      "publicationNumber": "WO2024156003",
+      "publicationDate": "2024-07-25",
+      "assignee": [
+        "Fourth Power, Inc."
+      ],
+      "inventors": [
+        "Mike HVASTA",
+        "COLIN KELSALL",
+        "Asegun HENRY",
+        "Sandeep PIDAPARTI",
+        "Joe PATRINOSTRO"
+      ],
+      "applicationDate": "2024-01-22",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Mechanical elements"
+      ],
+      "score": 11.163836
+    },
+    {
+      "id": "WO-2024155997-A1",
+      "title": [
+        "CIRCULATION PUMP MADE FROM BRITTLE MATERIAL"
+      ],
+      "abstract": "Aspect of the disclosure provides a method of pumping a liquid material. The method may include pumping the liquid material by rotating an impeller attached to a shaft assembly. The pump includes the impeller, the shaft assembly, and a pump chamber. The method includes controlling the minimum pressure of the liquid material in the pump chamber to be above a threshold pressure by controlling a pressure of a gas that is supplied to the pump chamber. The shaft assembly includes a first shaft and a second shaft that are separated by a gap and are physically coupled by a coupling component.",
+      "publicationNumber": "WO2024155997",
+      "publicationDate": "2024-07-25",
+      "assignee": [
+        "Fourth Power, Inc."
+      ],
+      "inventors": [
+        "Mike HVASTA",
+        "COLIN KELSALL",
+        "Asegun HENRY",
+        "Sandeep PIDAPARTI",
+        "Joe PATRINOSTRO"
+      ],
+      "applicationDate": "2024-01-22",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Solar energy"
+      ],
+      "score": 11.163836
+    },
+    {
+      "id": "WO-2025151581-A1",
+      "title": [
+        "THERMAL BATTERY SYSTEMS COMPRISING EMITTER UNITS EQUIPPED WITH VAPOR BARRIERS"
+      ],
+      "abstract": "Described herein are thermal battery systems comprising emitter units equipped with vapor barriers. A vapor barrier prevents vapors (e.g., released by the emitter base during its heating) from reaching a TPV receiver when the TPV receiver is inserted inside the emitter unit. For example, the emitter base may comprise graphite, while the vapor barrier may comprise tungsten (at least on the TPV-facing surface). At the emitter unit&apos;s operating temperature of about 2000\u00b0C, the vapor pressure of tungsten is about 10,000 times lower than that of graphite (e.g., 10-7 Pa vs. 10-3 Pa). As such, the graphite emitter base may release appreciable amounts of vapors, which (if not blocked) can deposit on the TPV receiver (operating at less than 100\u00b0C even when inside the emitter unit cavity). The vapor barrier blocks this vapor from reaching the cavity, while the emitter base provides mechanical support to the vapor barrier.",
+      "publicationNumber": "WO2025151581",
+      "publicationDate": "2025-07-17",
+      "assignee": [
+        "Fourth Power, Inc."
+      ],
+      "inventors": [
+        "Colin Clancy KELSALL",
+        "Joe PATRINOSTRO",
+        "Sandeep PIDAPARTI",
+        "Asegun HENRY",
+        "JOHN LLOYD",
+        "TYLER YOUNG",
+        "Mike HVASTA"
+      ],
+      "applicationDate": "2025-01-09",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Semiconductors"
+      ],
+      "score": 11.111033
+    },
+    {
+      "id": "US-20250226784-A1",
+      "title": [
+        "Thermal Battery Systems Comprising Emitter Units Equipped with Vapor Barriers"
+      ],
+      "abstract": "Described herein are thermal battery systems comprising emitter units equipped with vapor barriers. A vapor barrier prevents vapors (e.g., released by the emitter base during its heating) from reaching a TPV receiver when the TPV receiver is inserted inside the emitter unit. For example, the emitter base may comprise graphite, while the vapor barrier may comprise tungsten (at least on the TPV-facing surface). At the emitter unit&apos;s operating temperature of about 2000\u00b0 C., the vapor pressure of tungsten is about 10,000 times lower than that of graphite (e.g., 10\u22127 Pa vs. 10\u22123 Pa). As such, the graphite emitter base may release appreciable amounts of vapors, which (if not blocked) can deposit on the TPV receiver (operating at less than 100\u00b0 C. even when inside the emitter unit cavity). The vapor barrier blocks this vapor from reaching the cavity, while the emitter base provides mechanical support to the vapor barrier.",
+      "publicationNumber": "US20250226784",
+      "publicationDate": "2025-07-10",
+      "assignee": [
+        "Fourth Power, Inc."
+      ],
+      "inventors": [
+        "Colin Clancy Kelsall",
+        "Joe Patrinostro",
+        "Sandeep Pidaparti",
+        "Asegun Henry",
+        "John Lloyd",
+        "Tyler Young",
+        "Mike Hvasta"
+      ],
+      "applicationDate": "2025-01-09",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Solar energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 11.111033
+    },
+    {
+      "id": "US-20240247723-A1",
+      "title": [
+        "BRITTLE MATERIAL VALVES"
+      ],
+      "abstract": "Some aspects of the disclosure provide a valve system that includes a valve made of brittle material, such as ceramic, graphite and the like. In some examples, the valve is made of one or more materials that remain a solid state in a temperature range of 1000\u00b0 C. to 3000\u00b0 C. The valve includes a valve housing with a cavity extending in a length direction of the valve. The valve housing includes a first port aligned with the cavity and a second port that is formed on a side of the cavity. The valve includes a plunger that is movable in the cavity of the valve housing and configured to control a fluid flow between the first port and the second port. Methods of forming the valve and operating the valve are also provided.",
+      "publicationNumber": "US20240247723",
+      "publicationDate": "2024-07-25",
+      "assignee": [
+        "Fourth Power, Inc."
+      ],
+      "inventors": [
+        "Mike Hvasta",
+        "Colin Kelsall",
+        "Asegun Henry",
+        "Sandeep Pidaparti",
+        "Joe Patrinostro"
+      ],
+      "applicationDate": "2024-01-22",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Mechanical elements"
+      ],
+      "score": 10.84689
+    },
+    {
+      "id": "US-20250207596-A1",
+      "title": [
+        "Circulation Pump Made from Brittle Material"
+      ],
+      "abstract": "Aspect of the disclosure provides a method of pumping a liquid material. The method may include pumping the liquid material by rotating an impeller attached to a shaft assembly. The pump includes the impeller, the shaft assembly, and a pump chamber. The method includes controlling the minimum pressure of the liquid material in the pump chamber to be above a threshold pressure by controlling a pressure of a gas that is supplied to the pump chamber. The shaft assembly includes a first shaft and a second shaft that are separated by a gap and are physically coupled by a coupling component.",
+      "publicationNumber": "US20250207596",
+      "publicationDate": "2025-06-26",
+      "assignee": [
+        "Fourth Power, Inc."
+      ],
+      "inventors": [
+        "Mike Hvasta",
+        "Colin Kelsall",
+        "Asegun Henry",
+        "Sandeep Pidaparti",
+        "Joe Patrinostro"
+      ],
+      "applicationDate": "2025-03-12",
+      "claimsCount": 20,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Solar energy"
+      ],
+      "score": 10.840284
+    },
+    {
+      "id": "US-20240247741-A1",
+      "title": [
+        "BRITTLE MATERIAL JOINTS WITH DYNAMIC SEALING"
+      ],
+      "abstract": "A joint structure may include a first component and a second component aligned in a first direction, where a first end of the first component is opposed to a first end of the second component. The joint structure may include a packing shell positioned around the first end of the first component and the first end of the second component such that the first component is inserted into the packing shell from the first end and the second component is inserted into the packing shell from the first end. The joint structure may include a first sealing element positioned between the packing shell and the first end of the first component and further extending into the packing shell. The joint structure may include a second sealing element positioned between the packing shell and the first end of the second component and further extending into the packing shell.",
+      "publicationNumber": "US20240247741",
+      "publicationDate": "2024-07-25",
+      "assignee": [
+        "Fourth Power, Inc."
+      ],
+      "inventors": [
+        "Mike Hvasta",
+        "Colin Kelsall",
+        "Asegun Henry",
+        "Sandeep Pidaparti",
+        "Joe Patrinostro"
+      ],
+      "applicationDate": "2024-01-22",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Mechanical elements"
+      ],
+      "score": 10.840284
+    },
+    {
+      "id": "US-20240247657-A1",
+      "title": [
+        "CIRCULATION PUMP MADE FROM BRITTLE MATERIAL"
+      ],
+      "abstract": "Aspect of the disclosure provides a method of pumping a liquid material. The method may include pumping the liquid material by rotating an impeller attached to a shaft assembly. The pump includes the impeller, the shaft assembly, and a pump chamber. The method includes controlling the minimum pressure of the liquid material in the pump chamber to be above a threshold pressure by controlling a pressure of a gas that is supplied to the pump chamber. The shaft assembly includes a first shaft and a second shaft that are separated by a gap and are physically coupled by a coupling component.",
+      "publicationNumber": "US20240247657",
+      "publicationDate": "2024-07-25",
+      "assignee": [
+        "Fourth Power, Inc."
+      ],
+      "inventors": [
+        "Mike Hvasta",
+        "Colin Kelsall",
+        "Asegun Henry",
+        "Sandeep Pidaparti",
+        "Joe Patrinostro"
+      ],
+      "applicationDate": "2024-01-22",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Solar energy"
+      ],
+      "score": 10.840284
+    },
+    {
+      "id": "US-12467565-B2",
+      "title": [
+        "Brittle material joints with dynamic sealing"
+      ],
+      "abstract": "A joint structure may include a first component and a second component aligned in a first direction, where a first end of the first component is opposed to a first end of the second component. The joint structure may include a packing shell positioned around the first end of the first component and the first end of the second component such that the first component is inserted into the packing shell from the first end and the second component is inserted into the packing shell from the first end. The joint structure may include a first sealing element positioned between the packing shell and the first end of the first component and further extending into the packing shell. The joint structure may include a second sealing element positioned between the packing shell and the first end of the second component and further extending into the packing shell.",
+      "publicationNumber": "US12467565",
+      "publicationDate": "2025-11-11",
+      "assignee": [
+        "Fourth Power, Inc."
+      ],
+      "inventors": [
+        "Mike Hvasta",
+        "Colin Kelsall",
+        "Asegun Henry",
+        "Sandeep Pidaparti",
+        "Joe Patrinostro"
+      ],
+      "applicationDate": "2024-01-22",
+      "claimsCount": 19,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Mechanical elements"
+      ],
+      "score": 9.55817
+    },
+    {
+      "id": "US-12276282-B2",
+      "title": [
+        "Circulation pump made from brittle material"
+      ],
+      "abstract": "Aspect of the disclosure provides a method of pumping a liquid material. The method may include pumping the liquid material by rotating an impeller attached to a shaft assembly. The pump includes the impeller, the shaft assembly, and a pump chamber. The method includes controlling the minimum pressure of the liquid material in the pump chamber to be above a threshold pressure by controlling a pressure of a gas that is supplied to the pump chamber. The shaft assembly includes a first shaft and a second shaft that are separated by a gap and are physically coupled by a coupling component.",
+      "publicationNumber": "US12276282",
+      "publicationDate": "2025-04-15",
+      "assignee": [
+        "Fourth Power, Inc."
+      ],
+      "inventors": [
+        "Mike Hvasta",
+        "Colin Kelsall",
+        "Asegun Henry",
+        "Sandeep Pidaparti",
+        "Joe Patrinostro"
+      ],
+      "applicationDate": "2024-01-22",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Solar energy"
+      ],
+      "score": 9.55817
+    },
+    {
+      "id": "CN-121127677-A",
+      "title": [
+        "\u7531\u8106\u6027\u6750\u6599\u5236\u6210\u7684\u5faa\u73af\u6cf5"
+      ],
+      "abstract": "\u672c\u516c\u5f00\u7684\u65b9\u9762\u63d0\u4f9b\u4e86\u4e00\u79cd\u6cf5\u9001\u6db2\u4f53\u6750\u6599\u7684\u65b9\u6cd5\u3002\u8be5\u65b9\u6cd5\u53ef\u4ee5\u5305\u62ec\u901a\u8fc7\u4f7f\u9644\u63a5\u4e8e\u8f74\u7ec4\u4ef6\u7684\u53f6\u8f6e\u65cb\u8f6c\u6765\u6cf5\u9001\u6db2\u4f53\u6750\u6599\u3002\u6cf5\u5305\u62ec\u53f6\u8f6e\u3001\u8f74\u7ec4\u4ef6\u548c\u6cf5\u5ba4\u3002\u8be5\u65b9\u6cd5\u5305\u62ec\u901a\u8fc7\u63a7\u5236\u4f9b\u5e94\u5230\u6cf5\u5ba4\u7684\u6c14\u4f53\u7684\u538b\u529b\u6765\u63a7\u5236\u6cf5\u5ba4\u4e2d\u7684\u6db2\u4f53\u6750\u6599\u7684\u6700\u5c0f\u538b\u529b\u9ad8\u4e8e\u9608\u503c\u538b\u529b\u3002\u8f74\u7ec4\u4ef6\u5305\u62ec\u7531\u95f4\u9699\u5206\u79bb\u5e76\u901a\u8fc7\u8054\u63a5\u90e8\u4ef6\u7269\u7406\u5730\u8054\u63a5\u7684\u7b2c\u4e00\u8f74\u548c\u7b2c\u4e8c\u8f74\u3002",
+      "publicationNumber": "CN121127677",
+      "publicationDate": "2025-12-12",
+      "assignee": [
+        "Fourth Power Co."
+      ],
+      "inventors": [
+        "Mike Hevasta Tower",
+        "Colin Kyle Saul",
+        "Asagon Henry",
+        "Sandeep Pidaparty",
+        "Joe Patronostro"
+      ],
+      "applicationDate": "2024-01-22",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Solar energy"
+      ],
+      "score": 9.282984
+    },
+    {
+      "id": "CN-117039649-A",
+      "title": [
+        "\u4e00\u79cd\u5e26\u4e92\u611f\u5668\u7684\u67dc\u4f53\u5c01\u5835\u88c5\u7f6e"
+      ],
+      "abstract": "\u672c\u53d1\u660e\u6d89\u53ca\u67dc\u4f53\u5c01\u5835\u6280\u672f\u9886\u57df\uff0c\u5177\u4f53\u4e3a\u4e00\u79cd\u5e26\u4e92\u611f\u5668\u7684\u67dc\u4f53\u5c01\u5835\u88c5\u7f6e\uff0c\u5305\u62ec\u5b89\u88c5\u677f\uff0c\u6240\u8ff0\u5b89\u88c5\u677f\u7684\u524d\u7aef\u9762\u6d3b\u52a8\u8fde\u63a5\u6709\u5916\u58f3\uff0c\u6240\u8ff0\u5916\u58f3\u7684\u5185\u90e8\u5f00\u8bbe\u6709\u73af\u5f62\u7ed3\u6784\u7684\u5b89\u88c5\u8154\uff0c\u6240\u8ff0\u5b89\u88c5\u8154\u5185\u56fa\u5b9a\u6709\u73af\u5f62\u7ed3\u6784\u7684\u4e92\u611f\u5668\u4e3b\u4f53\uff0c\u6240\u8ff0\u5916\u58f3\u5448\u73af\u5f62\u7ed3\u6784\u8bbe\u8ba1\uff0c\u4e2d\u95f4\u8bbe\u7f6e\u6709\u4f9b\u7ebf\u7f06\u63d2\u63a5\u7684\u56fa\u5b9a\u5b54\uff0c\u6240\u8ff0\u56fa\u5b9a\u5b54\u5185\u58c1\u8bbe\u7f6e\u6709\u5939\u6301\u9632\u5c18\u673a\u6784\uff1b\u5939\u6301\u9632\u5c18\u673a\u6784\u5305\u62ec\u4e0e\u56fa\u5b9a\u5b54\u5185\u58c1\u56fa\u5b9a\u80f6\u63a5\u7684\u9632\u5c18\u6c14\u56ca\uff0c\u6240\u8ff0\u5b89\u88c5\u677f\u4e0e\u56fa\u5b9a\u5b54\u5bf9\u5e94\u4f4d\u7f6e\u5f00\u8bbe\u6709\u4e0e\u56fa\u5b9a\u5b54\u5c3a\u5bf8\u4e00\u81f4\u7684\u7a7f\u63d2\u5b54\u3002\u672c\u7533\u8bf7\u901a\u8fc7\u5939\u6301\u9632\u5c18\u673a\u6784\u914d\u5408\u9a71\u52a8\u673a\u6784\u4e00\u914d\u5408\u80fd\u591f\u5bf9\u7a7f\u63d2\u5728\u88c5\u7f6e\u5185\u90e8\u7684\u7ebf\u7f06\u5b9e\u73b0\u67d4\u6027\u5939\u6301\u56fa\u5b9a\uff0c\u907f\u514d\u7ebf\u7f06\u53d7\u5916\u754c\u73af\u5883\u5f71\u54cd\u9020\u6210\u6643\u52a8\u800c\u51fa\u73b0\u78e8\u635f\u65ad\u88c2\u7684\u60c5\u51b5\u53d1\u751f\uff0c\u5e76\u4e14\u901a\u8fc7\u9632\u5c18\u6c14\u56ca\u5305\u88f9\u586b\u5145\u7ebf\u7f06\u4e0e\u56fa\u5b9a\u5b54\u7684\u5b89\u88c5\u7f1d\u9699\u8fdb\u4e00\u6b65\u63d0\u9ad8\u88c5\u7f6e\u7684\u9632\u5c18\u6548\u679c\u3002",
+      "publicationNumber": "CN117039649",
+      "publicationDate": "2023-11-10",
+      "assignee": [
+        "Wuhan Zhongcheng four Electric Technology Co.,Ltd."
+      ],
+      "inventors": [
+        "DAI XIAOKANG",
+        "YAN XIN",
+        "PAN YONGXU",
+        "XIAO YU",
+        "LIU NING",
+        "LI HONG",
+        "Ma Zufeng",
+        "LEI YANQIANG"
+      ],
+      "applicationDate": "2023-04-24",
+      "claimsCount": 10,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 5.5715513
+    }
+  ]
+}

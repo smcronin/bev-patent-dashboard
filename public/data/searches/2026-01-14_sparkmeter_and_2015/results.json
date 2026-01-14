@@ -1,0 +1,84 @@
+{
+  "count": 3,
+  "numFound": 3,
+  "docs": [
+    {
+      "id": "WO-2019236476-A1",
+      "title": [
+        "WIRELESS MESH DATA NETWORK WITH INCREASED TRANSMISSION CAPACITY"
+      ],
+      "abstract": "A method for transmitting node data in a wireless meshed network from a plurality of wireless nodes to at least one consolidating node includes assigning each of the plurality of wireless nodes to one of a plurality of node pools and causing each of the plurality of wireless nodes to transmit node data to one or more other wireless nodes and/or the at least one consolidating node during the assigned time slots. Each wireless node transmits its node data during timeslots which are adjacent to timeslots during which a wireless node from another node pool transmits its node data. The node data for each wireless node includes data originating at the wireless node and node data received from another wireless node of the same node pool which are linearly aggregated using network coding",
+      "publicationNumber": "WO2019236476",
+      "publicationDate": "2019-12-12",
+      "assignee": [
+        "SparkMeter, Inc."
+      ],
+      "inventors": [
+        "JEFFREY A. WEISS",
+        "MAXIMILIAN R.F. KING",
+        "DECLAN OLLER",
+        "PHILIP THOMAS ZUCKER",
+        "BENJAMIN NAIDICH WIENER"
+      ],
+      "applicationDate": "2019-06-03",
+      "claimsCount": 30,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Digital communication"
+      ],
+      "score": 13.431221
+    },
+    {
+      "id": "US-20190373608-A1",
+      "title": [
+        "WIRELESS MESH DATA NETWORK WITH INCREASED TRANSMISSION CAPACITY"
+      ],
+      "abstract": "A method for transmitting node data in a wireless meshed network from a plurality of wireless nodes to at least one consolidating node includes assigning each of the plurality of wireless nodes to one of a plurality of node pools and causing each of the plurality of wireless nodes to transmit node data to one or more other wireless nodes and/or the at least one consolidating node during the assigned time slots. Each wireless node transmits its node data during timeslots which are adjacent to timeslots during which a wireless node from another node pool transmits its node data. The node data for each wireless node includes data originating at the wireless node and node data received from another wireless node of the same node pool which are linearly aggregated using network coding",
+      "publicationNumber": "US20190373608",
+      "publicationDate": "2019-12-05",
+      "assignee": [
+        "SparkMeter, Inc."
+      ],
+      "inventors": [
+        "Jeffrey A. Weiss",
+        "Maximilian R.F. King",
+        "Declan Oller",
+        "Philip Thomas Zucker",
+        "Benjamin Naidich Wiener"
+      ],
+      "applicationDate": "2019-06-03",
+      "claimsCount": 30,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Digital communication"
+      ],
+      "score": 13.431221
+    },
+    {
+      "id": "US-10517092-B1",
+      "title": [
+        "Wireless mesh data network with increased transmission capacity"
+      ],
+      "abstract": "A method for transmitting node data in a wireless meshed network from a plurality of wireless nodes to at least one consolidating node includes assigning each of the plurality of wireless nodes to one of a plurality of node pools and causing each of the plurality of wireless nodes to transmit node data to one or more other wireless nodes and/or the at least one consolidating node during the assigned time slots. Each wireless node transmits its node data during timeslots which are adjacent to timeslots during which a wireless node from another node pool transmits its node data. The node data for each wireless node includes data originating at the wireless node and node data received from another wireless node of the same node pool which are linearly aggregated using network coding.",
+      "publicationNumber": "US10517092",
+      "publicationDate": "2019-12-24",
+      "assignee": [
+        "SparkMeter, Inc."
+      ],
+      "inventors": [
+        "Jeffrey A. Weiss",
+        "Maximilian R. F. King",
+        "Declan Oller",
+        "Philip Thomas Zucker",
+        "Benjamin Naidich Wiener"
+      ],
+      "applicationDate": "2019-06-03",
+      "claimsCount": 30,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Digital communication"
+      ],
+      "score": 13.431221
+    }
+  ]
+}

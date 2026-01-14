@@ -1,0 +1,11 @@
+{
+  "search_id": "search_20260114_154755",
+  "timestamp": "2026-01-14T15:47:55.577914",
+  "query_type": "ai_search",
+  "user_prompt": "PA=(Mission Zero) AND PD>2015",
+  "minesoft_query": "PA=(Mission Zero) AND PD>2015",
+  "results_count": 19,
+  "directory": "2026-01-14_mission_zero_and_2015",
+  "execution_time_ms": 1491.3966655731201,
+  "api_endpoint": "query"
+}

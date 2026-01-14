@@ -1,0 +1,6 @@
+{
+  "query": "PA=(Natel*) AND TAC=(turbine OR hydro* OR energy) AND PD>2015",
+  "query_type": "ai_search",
+  "timestamp": "2026-01-14T15:48:35.471016",
+  "user_prompt": "PA=(Natel*) AND TAC=(turbine OR hydro* OR energy) AND PD>2015"
+}

@@ -1,0 +1,11 @@
+{
+  "search_id": "search_20260114_154823",
+  "timestamp": "2026-01-14T15:48:23.944307",
+  "query_type": "ai_search",
+  "user_prompt": "PA=(Windfall Bio) AND PD>2015",
+  "minesoft_query": "PA=(Windfall Bio) AND PD>2015",
+  "results_count": 9,
+  "directory": "2026-01-14_windfall_bio_and_2015",
+  "execution_time_ms": 1181.872844696045,
+  "api_endpoint": "query"
+}

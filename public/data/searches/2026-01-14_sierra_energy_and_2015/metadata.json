@@ -1,0 +1,11 @@
+{
+  "search_id": "search_20260114_154643",
+  "timestamp": "2026-01-14T15:46:43.643486",
+  "query_type": "ai_search",
+  "user_prompt": "PA=(Sierra Energy) AND PD>2015",
+  "minesoft_query": "PA=(Sierra Energy) AND PD>2015",
+  "results_count": 20,
+  "directory": "2026-01-14_sierra_energy_and_2015",
+  "execution_time_ms": 837.1479511260986,
+  "api_endpoint": "query"
+}

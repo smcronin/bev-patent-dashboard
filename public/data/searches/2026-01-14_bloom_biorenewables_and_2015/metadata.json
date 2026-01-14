@@ -1,0 +1,11 @@
+{
+  "search_id": "search_20260114_154707",
+  "timestamp": "2026-01-14T15:47:07.772169",
+  "query_type": "ai_search",
+  "user_prompt": "PA=(Bloom Biorenewables) AND PD>2015",
+  "minesoft_query": "PA=(Bloom Biorenewables) AND PD>2015",
+  "results_count": 8,
+  "directory": "2026-01-14_bloom_biorenewables_and_2015",
+  "execution_time_ms": 677.8059005737305,
+  "api_endpoint": "query"
+}

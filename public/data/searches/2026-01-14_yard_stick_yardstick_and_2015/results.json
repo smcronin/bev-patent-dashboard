@@ -1,0 +1,353 @@
+{
+  "count": 14,
+  "numFound": 14,
+  "docs": [
+    {
+      "id": "WO-2023076683-A1",
+      "title": [
+        "SYSTEMS AND METHODS FOR SOIL ANALYSIS"
+      ],
+      "abstract": "Systems and methods for analyzing soil are generally provided. In particular, the disclosure provides systems and methods for determining bulk density of soil using rotational soil penetrometers. In some embodiments, the bulk density is determined by obtaining spectroscopic data and penetration torque data from the rotational soil penetrometer, and determining the bulk density of the soil based at least in part on the spectroscopic data and the penetration torque data. Bulk density may be combined with in situ measurements of elemental composition (e.g., carbon content) of soil in order to calculate total quantities of an element (e.g., carbon) in an area&apos;s topsoil. Also disclosed, herein are systems and methods for modeling bulk density and/or carbon content of soil, based at least in part on spectroscopic data and penetration torque data. For example, trained statistical models determination are provided herein.",
+      "publicationNumber": "WO2023076683",
+      "publicationDate": "2023-05-04",
+      "assignee": [
+        "Yard Stick PBC"
+      ],
+      "inventors": [
+        "Kevin, Andrew MEISSNER",
+        "Christopher, Mencke TOLLES",
+        "MARISSA WISEMAN"
+      ],
+      "applicationDate": "2022-10-31",
+      "claimsCount": 88,
+      "independentClaimsCount": 8,
+      "technologyFields": [
+        "Analysis of biological materials",
+        "Measurement"
+      ],
+      "score": 19.473867
+    },
+    {
+      "id": "EP-4427035-A4",
+      "title": [
+        "SYSTEMS AND METHODS FOR SOIL ANALYSIS"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP4427035",
+      "publicationDate": "2025-09-03",
+      "assignee": [
+        "Yard Stick PBC"
+      ],
+      "inventors": [
+        "Kevin, Andrew MEISSNER",
+        "Christopher, Mencke TOLLES",
+        "MARISSA WISEMAN"
+      ],
+      "applicationDate": "2022-10-31",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Analysis of biological materials",
+        "Measurement"
+      ],
+      "score": 19.473867
+    },
+    {
+      "id": "EP-4427035-A1",
+      "title": [
+        "SYSTEMS AND METHODS FOR SOIL ANALYSIS"
+      ],
+      "abstract": "Systems and methods for analyzing soil are generally provided. In particular, the disclosure provides systems and methods for determining bulk density of soil using rotational soil penetrometers. In some embodiments, the bulk density is determined by obtaining spectroscopic data and penetration torque data from the rotational soil penetrometer, and determining the bulk density of the soil based at least in part on the spectroscopic data and the penetration torque data. Bulk density may be combined with in situ measurements of elemental composition (e.g., carbon content) of soil in order to calculate total quantities of an element (e.g., carbon) in an area&apos;s topsoil. Also disclosed, herein are systems and methods for modeling bulk density and/or carbon content of soil, based at least in part on spectroscopic data and penetration torque data. For example, trained statistical models determination are provided herein.",
+      "publicationNumber": "EP4427035",
+      "publicationDate": "2024-09-11",
+      "assignee": [
+        "Yard Stick PBC"
+      ],
+      "inventors": [
+        "Kevin, Andrew MEISSNER",
+        "Christopher, Mencke TOLLES",
+        "MARISSA WISEMAN"
+      ],
+      "applicationDate": "2022-10-31",
+      "claimsCount": 88,
+      "independentClaimsCount": 8,
+      "technologyFields": [
+        "Analysis of biological materials",
+        "Measurement"
+      ],
+      "score": 19.473867
+    },
+    {
+      "id": "WO-2024145344-A1",
+      "title": [
+        "SOIL SAMPLING METHODS AND SYSTEMS"
+      ],
+      "abstract": "Methods and systems for soil sampling are generally provided. Systems and methods described herein may stratify a geographic region together using a clustering method and one or more soil properties to form strata. These strata may then be used to develop an appropriate sampling plan for measuring a desired soil property in the geographic region.",
+      "publicationNumber": "WO2024145344",
+      "publicationDate": "2024-07-04",
+      "assignee": [
+        "Yard Stick PBC"
+      ],
+      "inventors": [
+        "MARISSA WISEMAN",
+        "Michael, Patrick COPE",
+        "Cristine, L.S. MORGAN",
+        "Jason, Paul ACKERSON"
+      ],
+      "applicationDate": "2023-12-27",
+      "claimsCount": 48,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Analysis of biological materials",
+        "Computer technology",
+        "Other special machines"
+      ],
+      "score": 18.535294
+    },
+    {
+      "id": "EP-4643341-A1",
+      "title": [
+        "SOIL SAMPLING METHODS AND SYSTEMS"
+      ],
+      "abstract": "Methods and systems for soil sampling are generally provided. Systems and methods described herein may stratify a geographic region together using a clustering method and one or more soil properties to form strata. These strata may then be used to develop an appropriate sampling plan for measuring a desired soil property in the geographic region.",
+      "publicationNumber": "EP4643341",
+      "publicationDate": "2025-11-05",
+      "assignee": [
+        "Yard Stick PBC"
+      ],
+      "inventors": [
+        "MARISSA WISEMAN",
+        "Michael, Patrick COPE",
+        "Cristine, L.S. MORGAN",
+        "Jason, Paul ACKERSON"
+      ],
+      "applicationDate": "2023-12-27",
+      "claimsCount": 48,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Analysis of biological materials",
+        "Computer technology",
+        "Other special machines"
+      ],
+      "score": 18.535294
+    },
+    {
+      "id": "US-20250123256-A1",
+      "title": [
+        "SYSTEMS AND METHODS FOR SOIL ANALYSIS"
+      ],
+      "abstract": "Systems and methods for analyzing soil are generally provided. In particular, the disclosure provides systems and methods for determining bulk density of soil using rotational soil penetrometers. In some embodiments, the bulk density is determined by obtaining spectroscopic data and penetration torque data from the rotational soil penetrometer, and determining the bulk density of the soil based at least in part on the spectroscopic data and the penetration torque data. Bulk density may be combined with in situ measurements of elemental composition (e.g., carbon content) of soil in order to calculate total quantities of an element (e.g., carbon) in an area&apos;s topsoil. Also disclosed herein are systems and methods for modeling bulk density and/or carbon content of soil, based at least in part on spectroscopic data and penetration torque data. For example, trained statistical models determination are provided herein.",
+      "publicationNumber": "US20250123256",
+      "publicationDate": "2025-04-17",
+      "assignee": [
+        "Yard Stick PBC"
+      ],
+      "inventors": [
+        "Kevin Andrew Meissner",
+        "Christopher Mencke Tolles"
+      ],
+      "applicationDate": "2024-12-05",
+      "claimsCount": 20,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Analysis of biological materials",
+        "Measurement"
+      ],
+      "score": 17.46756
+    },
+    {
+      "id": "BR-122025016544-A2",
+      "title": [
+        "M\u00c9TODO PARA DETERMINAR A DENSIDADE APARENTE DE UM SOLO, M\u00c9TODO PARA TREINAR UM MODELO ESTAT\u00cdSTICO, PENETR\u00d4METRO ROTACIONAL DE SOLO, PENETR\u00d4METRO DE SOLO, E, M\u00d3DULO \u00d3PTICO PARA UM PENETR\u00d4METRO DE SOLO"
+      ],
+      "abstract": "",
+      "publicationNumber": "BR122025016544",
+      "publicationDate": "2025-10-07",
+      "assignee": [
+        "Yard Stick PBC"
+      ],
+      "inventors": [
+        "Kevin Andrew Meissner",
+        "Christopher Mencke Tolles",
+        "Marissa Wiseman"
+      ],
+      "applicationDate": "2022-10-31",
+      "claimsCount": 27,
+      "independentClaimsCount": 10,
+      "technologyFields": [
+        "Analysis of biological materials",
+        "Measurement"
+      ],
+      "score": 17.46756
+    },
+    {
+      "id": "BR-112024008582-A2",
+      "title": [
+        "M\u00c9TODOS PARA DETERMINAR A DENSIDADE APARENTE DE UM SOLO E PARA TREINAR UM MODELO ESTAT\u00cdSTICO, MEIO DE ARMAZENAMENTO LEG\u00cdVEL POR COMPUTADOR N\u00c3O TRANSIT\u00d3RIO, PENETR\u00d4METRO ROTACIONAL DE SOLO, SENSOR DE TORQUE ROTACIONAL, E, PENETR\u00d4METRO DE SOLO"
+      ],
+      "abstract": "",
+      "publicationNumber": "BR112024008582",
+      "publicationDate": "2024-08-13",
+      "assignee": [
+        "Yard Stick PBC"
+      ],
+      "inventors": [
+        "KEVIN ANDREW MEISSNER",
+        "CHRISTOPHER MENCKE TOLLES",
+        "MARISSA WISEMAN"
+      ],
+      "applicationDate": "2022-10-31",
+      "claimsCount": 88,
+      "independentClaimsCount": 8,
+      "technologyFields": [
+        "Analysis of biological materials",
+        "Measurement"
+      ],
+      "score": 17.46756
+    },
+    {
+      "id": "US-20240219364-A1",
+      "title": [
+        "SOIL SAMPLING METHODS AND SYSTEMS"
+      ],
+      "abstract": "Methods and systems for soil sampling are generally provided. Systems and methods described herein may stratify a geographic region together using a clustering method and one or more soil properties to form strata. These strata may then be used to develop an appropriate sampling plan for measuring a desired soil property in the geographic region.",
+      "publicationNumber": "US20240219364",
+      "publicationDate": "2024-07-04",
+      "assignee": [
+        "Yard Stick PBC"
+      ],
+      "inventors": [
+        "Marissa Wiseman",
+        "Michael Patrick Cope",
+        "Cristine L.S. Morgan",
+        "Jason Paul Ackerson"
+      ],
+      "applicationDate": "2023-12-27",
+      "claimsCount": 25,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Analysis of biological materials",
+        "Computer technology"
+      ],
+      "score": 16.73661
+    },
+    {
+      "id": "US-20230132655-A1",
+      "title": [
+        "SYSTEMS AND METHODS FOR SOIL ANALYSIS"
+      ],
+      "abstract": "Systems and methods for analyzing soil are generally provided. In particular, the disclosure provides systems and methods for determining bulk density of soil using rotational soil penetrometers. In some embodiments, the bulk density is determined by obtaining spectroscopic data and penetration torque data from the rotational soil penetrometer, and determining the bulk density of the soil based at least in part on the spectroscopic data and the penetration torque data. Bulk density may be combined with in situ measurements of elemental composition (e.g., carbon content) of soil in order to calculate total quantities of an element (e.g., carbon) in an area&apos;s topsoil. Also disclosed herein are systems and methods for modeling bulk density and/or carbon content of soil, based at least in part on spectroscopic data and penetration torque data. For example, trained statistical models determination are provided herein.",
+      "publicationNumber": "US20230132655",
+      "publicationDate": "2023-05-04",
+      "assignee": [
+        "Yard Stick PBC"
+      ],
+      "inventors": [
+        "Kevin Andrew Meissner",
+        "Christopher Mencke Tolles",
+        "Marissa Wiseman"
+      ],
+      "applicationDate": "2022-10-31",
+      "claimsCount": 39,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Analysis of biological materials",
+        "Measurement"
+      ],
+      "score": 16.215479
+    },
+    {
+      "id": "US-12203916-B2",
+      "title": [
+        "Systems and methods for soil analysis including penetrometer with spiral flighting"
+      ],
+      "abstract": "Systems and methods for analyzing soil are generally provided. In particular, the disclosure provides systems and methods for determining bulk density of soil using rotational soil penetrometers. In some embodiments, the bulk density is determined by obtaining spectroscopic data and penetration torque data from the rotational soil penetrometer, and determining the bulk density of the soil based at least in part on the spectroscopic data and the penetration torque data. Bulk density may be combined with in situ measurements of elemental composition (e.g., carbon content) of soil in order to calculate total quantities of an element (e.g., carbon) in an area&apos;s topsoil. Also disclosed herein are systems and methods for modeling bulk density and/or carbon content of soil, based at least in part on spectroscopic data and penetration torque data. For example, trained statistical models determination are provided herein.",
+      "publicationNumber": "US12203916",
+      "publicationDate": "2025-01-21",
+      "assignee": [
+        "Yard Stick PBC"
+      ],
+      "inventors": [
+        "Kevin Andrew Meissner",
+        "Christopher Mencke Tolles"
+      ],
+      "applicationDate": "2022-10-31",
+      "claimsCount": 24,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Analysis of biological materials",
+        "Measurement"
+      ],
+      "score": 16.215479
+    },
+    {
+      "id": "WO-2022265578-A3",
+      "title": [
+        "METHODS AND SYSTEMS FOR BUSINESS ASSURANCE DATA PROCESSING FOR AUTOMATED STANDARDS FRAMEWORK INTEGRATION"
+      ],
+      "abstract": "Methods, systems, and computer programs are presented for collecting and processing business assurance data using a Software as a Service (SaaS) system. The method includes receiving a request to access the SaaS system from a user. The method includes providing an interface by the SaaS system to a remote device of the user. The business assurance data is represented as items to be filled in via the interface of a provisioned framework. Frameworks are used by both private and governmental organizations to measure and qualify products and/or services of a vendor. The items received via the provisioned framework are mapped and filled into a plurality of target frameworks. The method includes generating a provisioned template representing items filled into the provisioned framework and generating a plurality of target templates corresponding to each of the target frameworks. The items filled in via the interface of the provisioned framework are automatically filled into the plurality of target frameworks. In one example, the mapping implements a matrix to program item relationships that enable the mapping of said items from the provisioned framework to each of the target frameworks.",
+      "publicationNumber": "WO2022265578",
+      "publicationDate": "2023-04-06",
+      "assignee": [
+        "Yardstick (PTE. LTD.)"
+      ],
+      "inventors": [
+        "Jeffrey Neil FARMILO",
+        "Stephen, Laurence WILLIAMS"
+      ],
+      "applicationDate": "2022-06-16",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Computer technology",
+        "Digital communication",
+        "IT methods for management"
+      ],
+      "score": 13.107817
+    },
+    {
+      "id": "WO-2022265578-A2",
+      "title": [
+        "METHODS AND SYSTEMS FOR BUSINESS ASSURANCE DATA PROCESSING FOR AUTOMATED STANDARDS FRAMEWORK INTEGRATION"
+      ],
+      "abstract": "Methods, systems, and computer programs are presented for collecting and processing business assurance data using a Software as a Service (SaaS) system. The method includes receiving a request to access the SaaS system from a user. The method includes providing an interface by the SaaS system to a remote device of the user. The business assurance data is represented as items to be filled in via the interface of a provisioned framework. Frameworks are used by both private and governmental organizations to measure and qualify products and/or services of a vendor. The items received via the provisioned framework are mapped and filled into a plurality of target frameworks. The method includes generating a provisioned template representing items filled into the provisioned framework and generating a plurality of target templates corresponding to each of the target frameworks. The items filled in via the interface of the provisioned framework are automatically filled into the plurality of target frameworks. In one example, the mapping implements a matrix to program item relationships that enable the mapping of said items from the provisioned framework to each of the target frameworks.",
+      "publicationNumber": "WO2022265578",
+      "publicationDate": "2022-12-22",
+      "assignee": [
+        "Yardstick (PTE. LTD.)"
+      ],
+      "inventors": [
+        "Jeffrey Neil FARMILO",
+        "Stephen Laurence WILLIAMS"
+      ],
+      "applicationDate": "2022-06-16",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [],
+      "score": 13.107817
+    },
+    {
+      "id": "US-20220405609-A1",
+      "title": [
+        "METHODS AND SYSTEMS FOR BUSINESS ASSURANCE DATA PROCESSING FOR AUTOMATED STANDARDS FRAMEWORK INTEGRATION"
+      ],
+      "abstract": "Methods, systems, and computer programs are presented for collecting and processing business assurance data using a Software as a Service (SaaS) system. The method includes receiving a request to access the SaaS system from a user. The method includes providing an interface by the SaaS system to a remote device of the user. The business assurance data is represented as items to be filled in via the interface of a provisioned framework. Frameworks are used by both private and governmental organizations to measure and qualify products and/or services of a vendor. The items received via the provisioned framework are mapped and filled into a plurality of target frameworks. The method includes generating a provisioned template representing items filled into the provisioned framework and generating a plurality of target templates corresponding to each of the target frameworks. The items filled in via the interface of the provisioned framework are automatically filled into the plurality of target frameworks. In one example, the mapping implements a matrix to program item relationships that enable the mapping of said items from the provisioned framework to each of the target frameworks.",
+      "publicationNumber": "US20220405609",
+      "publicationDate": "2022-12-22",
+      "assignee": [
+        "Yardstick (PTE. LTD.)"
+      ],
+      "inventors": [
+        "Jeffrey Neil Farmilo",
+        "Stephen Laurence Williams"
+      ],
+      "applicationDate": "2022-06-08",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 13.107817
+    }
+  ]
+}

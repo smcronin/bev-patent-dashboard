@@ -1,0 +1,309 @@
+{
+  "count": 12,
+  "numFound": 12,
+  "docs": [
+    {
+      "id": "WO-2024182100-A1",
+      "title": [
+        "ELECTRIC VEHICLE DETECTION"
+      ],
+      "abstract": "Techniques are presented for the detection of whether an EV is using a household or other user location for charging. A machine learning model is trained on a training population of user locations using historical usage data and a label for a some of the user locations, typically a small proportion, indicating that an EV charges there, where the labels can, for example, be provided by a utility or derived from the EVs&apos; telematics. The trained model can then be applied to un-labeled user locations&apos; electricity usage data to detect EV charging, both assigning a label and a confidence value to the label. If telematics are available, for user locations at which EV charging is detected, the EV charging can be disaggregated from other electricity usage of the user location.",
+      "publicationNumber": "WO2024182100",
+      "publicationDate": "2024-09-06",
+      "assignee": [
+        "Weave Grid, Inc."
+      ],
+      "inventors": [
+        "MARK HENLE",
+        "Burton DEWILDE",
+        "Kira G. OLSEN",
+        "Rohith DESIKAN",
+        "Stephan ELLNER",
+        "APOORV BHARGAVA",
+        "John Marshall TAGGART"
+      ],
+      "applicationDate": "2024-02-07",
+      "claimsCount": 23,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology",
+        "Electrical machinery, apparatus, energy",
+        "IT methods for management",
+        "Transport"
+      ],
+      "score": 15.842463
+    },
+    {
+      "id": "WO-2022010969-A1",
+      "title": [
+        "OPTIMIZED CHARGING OF ELECTRIC VEHICLES OVER DISTRIBUTION GRID"
+      ],
+      "abstract": "Techniques are presented for scheduling the charging of electric vehicles (EVs) that protect the resources of local low voltage distribution networks. From utilities, data on local low voltage distribution networks, such as the rating of a distribution transformer through which a group of EVs are supplied, is provided to a load manager application. Telematics information on vehicle usage is provided from the EVs, such as by way of the original equipment manufacturer. From these data, the load manager application determines schedules for charging the group of EVs through a shared low voltage distribution network so that the capabilities of the local low voltage distribution network are not exceeded while meeting the needs of the EV user. Charging schedules are then transmitted to the on-board control systems of the EVs for implementation.",
+      "publicationNumber": "WO2022010969",
+      "publicationDate": "2022-01-13",
+      "assignee": [
+        "Weave Grid, Inc."
+      ],
+      "inventors": [
+        "APOORV BHARGAVA",
+        "John Marshall TAGGART"
+      ],
+      "applicationDate": "2021-07-07",
+      "claimsCount": 19,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 15.493802
+    },
+    {
+      "id": "EP-4179604-A1",
+      "title": [
+        "OPTIMIZED CHARGING OF ELECTRIC VEHICLES OVER DISTRIBUTION GRID"
+      ],
+      "abstract": "Techniques are presented for scheduling the charging of electric vehicles (EVs) that protect the resources of local low voltage distribution networks. From utilities, data on local low voltage distribution networks, such as the rating of a distribution transformer through which a group of EVs are supplied, is provided to a load manager application. Telematics information on vehicle usage is provided from the EVs, such as by way of the original equipment manufacturer. From these data, the load manager application determines schedules for charging the group of EVs through a shared low voltage distribution network so that the capabilities of the local low voltage distribution network are not exceeded while meeting the needs of the EV user. Charging schedules are then transmitted to the on-board control systems of the EVs for implementation.",
+      "publicationNumber": "EP4179604",
+      "publicationDate": "2023-05-17",
+      "assignee": [
+        "Weave Grid, Inc."
+      ],
+      "inventors": [
+        "APOORV BHARGAVA",
+        "John Marshall TAGGART"
+      ],
+      "applicationDate": "2021-07-07",
+      "claimsCount": 19,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 15.493802
+    },
+    {
+      "id": "AU-2021306282-B2",
+      "title": [
+        "Optimized charging of electric vehicles over distribution grid"
+      ],
+      "abstract": "Techniques are presented for scheduling the charging of electric vehicles (EVs) that protect the resources of local low voltage distribution networks. From utilities, data on local low voltage distribution networks, such as the rating of a distribution transformer through which a group of EVs are supplied, is provided to a load manager application. Telematics information on vehicle usage is provided from the EVs, such as by way of the original equipment manufacturer. From these data, the load manager application determines schedules for charging the group of EVs through a shared low voltage distribution network so that the capabilities of the local low voltage distribution network are not exceeded while meeting the needs of the EV user. Charging schedules are then transmitted to the on-board control systems of the EVs for implementation.",
+      "publicationNumber": "AU2021306282",
+      "publicationDate": "2024-06-06",
+      "assignee": [
+        "Weave Grid, Inc."
+      ],
+      "inventors": [
+        "APOORV BHARGAVA",
+        "John Marshall TAGGART"
+      ],
+      "applicationDate": "2021-07-07",
+      "claimsCount": 19,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 15.493802
+    },
+    {
+      "id": "AU-2021306282-A1",
+      "title": [
+        "Optimized charging of electric vehicles over distribution grid"
+      ],
+      "abstract": "Techniques are presented for scheduling the charging of electric vehicles (EVs) that protect the resources of local low voltage distribution networks. From utilities, data on local low voltage distribution networks, such as the rating of a distribution transformer through which a group of EVs are supplied, is provided to a load manager application. Telematics information on vehicle usage is provided from the EVs, such as by way of the original equipment manufacturer. From these data, the load manager application determines schedules for charging the group of EVs through a shared low voltage distribution network so that the capabilities of the local low voltage distribution network are not exceeded while meeting the needs of the EV user. Charging schedules are then transmitted to the on-board control systems of the EVs for implementation.",
+      "publicationNumber": "AU2021306282",
+      "publicationDate": "2023-02-09",
+      "assignee": [
+        "Weave Grid, Inc."
+      ],
+      "inventors": [
+        "APOORV BHARGAVA",
+        "John Marshall TAGGART"
+      ],
+      "applicationDate": "2021-07-07",
+      "claimsCount": 19,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 15.493802
+    },
+    {
+      "id": "US-20240296378-A1",
+      "title": [
+        "ELECTRIC VEHICLE DETECTION"
+      ],
+      "abstract": "Techniques are presented for the detection of whether an EV is using a household or other user location for charging. A machine learning model is trained on a training population of user locations using historical usage data and a label for a some of the user locations, typically a small proportion, indicating that an EV charges there, where the labels can, for example, be provided by a utility or derived from the EVs&apos; telematics. The trained model can then be applied to un-labeled user locations&apos; electricity usage data to detect EV charging, both assigning a label and a confidence value to the label. If telematics are available, for user locations at which EV charging is detected, the EV charging can be disaggregated from other electricity usage of the user location.",
+      "publicationNumber": "US20240296378",
+      "publicationDate": "2024-09-05",
+      "assignee": [
+        "Weave Grid, Inc."
+      ],
+      "inventors": [
+        "Mark Henle",
+        "Burton DeWilde",
+        "Kira G. Olsen",
+        "Rohith Desikan",
+        "Stephan Ellner",
+        "Apoorv Bhargava",
+        "John Marshall Taggart"
+      ],
+      "applicationDate": "2023-03-01",
+      "claimsCount": 23,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 14.230636
+    },
+    {
+      "id": "CA-3284835-A1",
+      "title": [
+        "ELECTRIC VEHICLE DETECTION"
+      ],
+      "abstract": "",
+      "publicationNumber": "CA3284835",
+      "publicationDate": "2024-09-06",
+      "assignee": [
+        "Weave Grid, Inc."
+      ],
+      "inventors": [
+        "Mark Henle",
+        "Burton DeWilde",
+        "Kira G. Olsen",
+        "Rohith Desikan",
+        "Stephan Ellner",
+        "Apoorv Bhargava",
+        "John Marshall Taggart"
+      ],
+      "applicationDate": "2024-02-07",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Computer technology",
+        "IT methods for management",
+        "Transport"
+      ],
+      "score": 14.230636
+    },
+    {
+      "id": "US-20230219445-A1",
+      "title": [
+        "OPTIMIZED CHARGING OF ELECTRIC VEHICLES OVER DISTRIBUTION GRID"
+      ],
+      "abstract": "Techniques are presented for scheduling the charging of electric vehicles (EVs) that protect the resources of local low voltage distribution networks. From utilities, data on local low voltage distribution networks, such as the rating of a distribution transformer through which a group of EVs are supplied, is provided to a load manager application. Telematics information on vehicle usage is provided from the EVs, such as by way of the original equipment manufacturer. From these data, the load manager application determines schedules for charging the group of EVs through a shared low voltage distribution network so that the capabilities of the local low voltage distribution network are not exceeded while meeting the needs of the EV user. Charging schedules are then transmitted to the on-board control systems of the EVs for implementation.",
+      "publicationNumber": "US20230219445",
+      "publicationDate": "2023-07-13",
+      "assignee": [
+        "Weave Grid, Inc."
+      ],
+      "inventors": [
+        "Apoorv Bhargava",
+        "John Marshall Taggart"
+      ],
+      "applicationDate": "2023-03-14",
+      "claimsCount": 22,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Transport"
+      ],
+      "score": 13.919392
+    },
+    {
+      "id": "US-20220009372-A1",
+      "title": [
+        "OPTIMIZED CHARGING OF ELECTRIC VEHICLES OVER DISTRIBUTION GRID"
+      ],
+      "abstract": "Techniques are presented for scheduling the charging of electric vehicles (EVs) that protect the resources of local low voltage distribution networks. From utilities, data on local low voltage distribution networks, such as the rating of a distribution transformer through which a group of EVs are supplied, is provided to a load manager application. Telematics information on vehicle usage is provided from the EVs, such as by way of the original equipment manufacturer. From these data, the load manager application determines schedules for charging the group of EVs through a shared low voltage distribution network so that the capabilities of the local low voltage distribution network are not exceeded while meeting the needs of the EV user. Charging schedules are then transmitted to the on-board control systems of the EVs for implementation.",
+      "publicationNumber": "US20220009372",
+      "publicationDate": "2022-01-13",
+      "assignee": [
+        "Weave Grid, Inc."
+      ],
+      "inventors": [
+        "Apoorv Bhargava",
+        "John Marshall Taggart"
+      ],
+      "applicationDate": "2020-07-09",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Transport"
+      ],
+      "score": 13.919392
+    },
+    {
+      "id": "US-11970075-B2",
+      "title": [
+        "Optimized charging of electric vehicles over distribution grid"
+      ],
+      "abstract": "Techniques are presented for scheduling the charging of electric vehicles (EVs) that protect the resources of local low voltage distribution networks. From utilities, data on local low voltage distribution networks, such as the rating of a distribution transformer through which a group of EVs are supplied, is provided to a load manager application. Telematics information on vehicle usage is provided from the EVs, such as by way of the original equipment manufacturer. From these data, the load manager application determines schedules for charging the group of EVs through a shared low voltage distribution network so that the capabilities of the local low voltage distribution network are not exceeded while meeting the needs of the EV user. Charging schedules are then transmitted to the on-board control systems of the EVs for implementation.",
+      "publicationNumber": "US11970075",
+      "publicationDate": "2024-04-30",
+      "assignee": [
+        "Weave Grid, Inc."
+      ],
+      "inventors": [
+        "Apoorv Bhargava",
+        "John Marshall Taggart"
+      ],
+      "applicationDate": "2023-03-14",
+      "claimsCount": 22,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Digital communication",
+        "Transport"
+      ],
+      "score": 13.919392
+    },
+    {
+      "id": "US-11642977-B2",
+      "title": [
+        "Optimized charging of electric vehicles over distribution grid"
+      ],
+      "abstract": "Techniques are presented for scheduling the charging of electric vehicles (EVs) that protect the resources of local low voltage distribution networks. From utilities, data on local low voltage distribution networks, such as the rating of a distribution transformer through which a group of EVs are supplied, is provided to a load manager application. Telematics information on vehicle usage is provided from the EVs, such as by way of the original equipment manufacturer. From these data, the load manager application determines schedules for charging the group of EVs through a shared low voltage distribution network so that the capabilities of the local low voltage distribution network are not exceeded while meeting the needs of the EV user. Charging schedules are then transmitted to the on-board control systems of the EVs for implementation.",
+      "publicationNumber": "US11642977",
+      "publicationDate": "2023-05-09",
+      "assignee": [
+        "Weave Grid, Inc."
+      ],
+      "inventors": [
+        "Apoorv Bhargava",
+        "John Marshall Taggart"
+      ],
+      "applicationDate": "2020-07-09",
+      "claimsCount": 19,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Digital communication",
+        "Transport"
+      ],
+      "score": 13.919392
+    },
+    {
+      "id": "CA-3188838-A1",
+      "title": [
+        "OPTIMIZED CHARGING OF ELECTRIC VEHICLES OVER DISTRIBUTION GRID"
+      ],
+      "abstract": "Techniques are presented for scheduling the charging of electric vehicles (EVs) that protect the resources of local low voltage distribution networks. From utilities, data on local low voltage distribution networks, such as the rating of a distribution transformer through which a group of EVs are supplied, is provided to a load manager application. Telematics information on vehicle usage is provided from the EVs, such as by way of the original equipment manufacturer. From these data, the load manager application determines schedules for charging the group of EVs through a shared low voltage distribution network so that the capabilities of the local low voltage distribution network are not exceeded while meeting the needs of the EV user. Charging schedules are then transmitted to the on-board control systems of the EVs for implementation.",
+      "publicationNumber": "CA3188838",
+      "publicationDate": "2022-01-13",
+      "assignee": [
+        "Weave Grid, Inc."
+      ],
+      "inventors": [
+        "APOORV BHARGAVA",
+        "John Marshall TAGGART"
+      ],
+      "applicationDate": "2021-07-07",
+      "claimsCount": 19,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 12.687237
+    }
+  ]
+}

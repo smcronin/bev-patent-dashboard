@@ -1,0 +1,11 @@
+{
+  "search_id": "search_20260114_154835",
+  "timestamp": "2026-01-14T15:48:35.471016",
+  "query_type": "ai_search",
+  "user_prompt": "PA=(Natel*) AND TAC=(turbine OR hydro* OR energy) AND PD>2015",
+  "minesoft_query": "PA=(Natel*) AND TAC=(turbine OR hydro* OR energy) AND PD>2015",
+  "results_count": 63,
+  "directory": "2026-01-14_natel_and_tac_turbine_hydro",
+  "execution_time_ms": 1825.5603313446045,
+  "api_endpoint": "query"
+}
