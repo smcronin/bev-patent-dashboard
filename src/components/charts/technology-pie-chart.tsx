@@ -39,7 +39,7 @@ export function TechnologyPieChart({ data }: TechnologyPieChartProps) {
             color: "#1a1a1a",
             boxShadow: "0 4px 6px -1px rgb(0 0 0 / 0.1)",
           }}
-          formatter={(value: number) => [`${value} patents`, ""]}
+          formatter={(value) => [`${value ?? 0} patents`, ""]}
         />
         <Legend
           layout="vertical"
