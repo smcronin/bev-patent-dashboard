@@ -52,9 +52,9 @@ export function CompanyBarChart({ data, limit = 15 }: CompanyBarChartProps) {
             color: "#1a1a1a",
             boxShadow: "0 4px 6px -1px rgb(0 0 0 / 0.1)",
           }}
-          formatter={(value: number, _, props) => [
-            `${value} patents`,
-            props.payload.fullName,
+          formatter={(value, _, props) => [
+            `${value ?? 0} patents`,
+            props.payload?.fullName ?? "",
           ]}
           labelFormatter={() => ""}
         />
