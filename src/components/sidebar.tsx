@@ -10,12 +10,14 @@ import {
   Search,
   FileText,
   Zap,
+  Brain,
 } from "lucide-react";
 
 const navigation = [
   { name: "Overview", href: "/", icon: LayoutDashboard },
   { name: "Companies", href: "/companies", icon: Building2 },
   { name: "Trends", href: "/trends", icon: TrendingUp },
+  { name: "AI Analysis", href: "/ai-analysis", icon: Brain },
   { name: "Search", href: "/search", icon: Search },
 ];
 

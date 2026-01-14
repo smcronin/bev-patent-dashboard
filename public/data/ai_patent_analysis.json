@@ -1,0 +1,2020 @@
+{
+  "analysis_date": "2026-01-14T16:44:49.035229",
+  "ai_terms_searched": [
+    "artificial intelligence",
+    "machine learning",
+    "deep learning",
+    "neural network",
+    "neural net",
+    "deep neural",
+    "large language model",
+    "language model",
+    "natural language processing",
+    "natural language understanding",
+    "nlp",
+    "transformer model",
+    "attention mechanism",
+    "generative ai",
+    "generative model",
+    "foundation model",
+    "intelligent agent",
+    "autonomous agent",
+    "ai agent",
+    "multi-agent",
+    "reinforcement learning",
+    "q-learning",
+    "policy gradient",
+    "convolutional neural",
+    "recurrent neural",
+    "lstm",
+    "long short-term memory",
+    "gru",
+    "gated recurrent",
+    "autoencoder",
+    "variational autoencoder",
+    "generative adversarial",
+    "gan",
+    "diffusion model",
+    "encoder-decoder",
+    "seq2seq",
+    "sequence to sequence",
+    "supervised learning",
+    "unsupervised learning",
+    "semi-supervised",
+    "self-supervised",
+    "transfer learning",
+    "few-shot learning",
+    "zero-shot",
+    "meta-learning",
+    "federated learning",
+    "ensemble learning",
+    "boosting",
+    "random forest",
+    "gradient boosting",
+    "xgboost",
+    "decision tree",
+    "support vector machine",
+    "svm",
+    "k-nearest neighbor",
+    "knn",
+    "clustering algorithm",
+    "k-means",
+    "dimensionality reduction",
+    "principal component",
+    "pca",
+    "computer vision",
+    "image recognition",
+    "image classification",
+    "object detection",
+    "image segmentation",
+    "semantic segmentation",
+    "instance segmentation",
+    "feature extraction",
+    "feature detection",
+    "predictive model",
+    "predictive analytics",
+    "predictive algorithm",
+    "inference engine",
+    "classification model",
+    "regression model",
+    "trained model",
+    "pre-trained model",
+    "model training",
+    "training data",
+    "training dataset",
+    "gradient descent",
+    "backpropagation",
+    "optimizer",
+    "loss function",
+    "cost function",
+    "hyperparameter",
+    "cross-validation",
+    "overfitting",
+    "regularization",
+    "data augmentation",
+    "feature engineering",
+    "embedding",
+    "word embedding",
+    "vector representation",
+    "tokenization",
+    "anomaly detection",
+    "pattern recognition",
+    "speech recognition",
+    "voice recognition",
+    "sentiment analysis",
+    "recommendation system",
+    "recommender system",
+    "chatbot",
+    "virtual assistant",
+    "robotic learning",
+    "robot learning",
+    "motion planning",
+    "path planning",
+    "autonomous control",
+    "adaptive control",
+    "knowledge graph",
+    "knowledge base",
+    "expert system",
+    "inference system",
+    "reasoning engine",
+    "cognitive computing",
+    "cognitive system",
+    "bayesian network",
+    "bayesian inference",
+    "probabilistic model",
+    "markov model",
+    "hidden markov",
+    "monte carlo",
+    "genetic algorithm",
+    "evolutionary algorithm",
+    "swarm intelligence",
+    "particle swarm",
+    "neural architecture",
+    "model architecture"
+  ],
+  "total_companies_analyzed": 75,
+  "total_patents_analyzed": 4501,
+  "total_ai_patents_found": 93,
+  "overall_ai_percentage": 2.1,
+  "summary_by_company": [
+    {
+      "company": "Sortera",
+      "total_patents": 100,
+      "ai_patent_count": 61,
+      "ai_percentage": 61.0
+    },
+    {
+      "company": "Turntide",
+      "total_patents": 100,
+      "ai_patent_count": 12,
+      "ai_percentage": 12.0
+    },
+    {
+      "company": "Ionq",
+      "total_patents": 100,
+      "ai_patent_count": 4,
+      "ai_percentage": 4.0
+    },
+    {
+      "company": "Electra",
+      "total_patents": 100,
+      "ai_patent_count": 3,
+      "ai_percentage": 3.0
+    },
+    {
+      "company": "Blue Frontier",
+      "total_patents": 40,
+      "ai_patent_count": 2,
+      "ai_percentage": 5.0
+    },
+    {
+      "company": "Kobold Metals",
+      "total_patents": 26,
+      "ai_patent_count": 2,
+      "ai_percentage": 7.7
+    },
+    {
+      "company": "Our Next Energy",
+      "total_patents": 90,
+      "ai_patent_count": 2,
+      "ai_percentage": 2.2
+    },
+    {
+      "company": "Source Global",
+      "total_patents": 100,
+      "ai_patent_count": 2,
+      "ai_percentage": 2.0
+    },
+    {
+      "company": "Terabase Energy",
+      "total_patents": 82,
+      "ai_patent_count": 2,
+      "ai_percentage": 2.4
+    },
+    {
+      "company": "Weave Grid",
+      "total_patents": 12,
+      "ai_patent_count": 2,
+      "ai_percentage": 16.7
+    },
+    {
+      "company": "Commonwealth Fusion Systems",
+      "total_patents": 100,
+      "ai_patent_count": 1,
+      "ai_percentage": 1.0
+    },
+    {
+      "company": "1366 Technologies",
+      "total_patents": 100,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Aeroseal",
+      "total_patents": 5,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Antora Energy",
+      "total_patents": 26,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Arkeabio",
+      "total_patents": 22,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Biomilq",
+      "total_patents": 51,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Bloom Biorenewables",
+      "total_patents": 8,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Brimstone",
+      "total_patents": 49,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "C-Zero",
+      "total_patents": 5,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "C16 Biosciences",
+      "total_patents": 43,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Carboncure",
+      "total_patents": 100,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Circ",
+      "total_patents": 84,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Clearflame",
+      "total_patents": 56,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Conductor",
+      "total_patents": 64,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Cubicpv",
+      "total_patents": 100,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Dandelion Geothermal",
+      "total_patents": 21,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Dioxycle",
+      "total_patents": 88,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Dmc Biotechnologies",
+      "total_patents": 3,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Ecocem",
+      "total_patents": 100,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Electric Hydrogen",
+      "total_patents": 100,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Enverid",
+      "total_patents": 100,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "ESS Inc",
+      "total_patents": 100,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Fervo Energy",
+      "total_patents": 30,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Form Energy",
+      "total_patents": 100,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Fourth Power",
+      "total_patents": 13,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "H2Pro",
+      "total_patents": 49,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Heart Aerospace",
+      "total_patents": 43,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Heirloom Carbon",
+      "total_patents": 17,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Iron",
+      "total_patents": 45,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Lilac Solutions",
+      "total_patents": 100,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Luxwall",
+      "total_patents": 100,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Malta Inc",
+      "total_patents": 100,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Mill Industries",
+      "total_patents": 24,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Mission Zero",
+      "total_patents": 19,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Molten Industries",
+      "total_patents": 23,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Motif Foodworks",
+      "total_patents": 37,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Natel Tac Turbine Hydro",
+      "total_patents": 63,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Nature's Fynd",
+      "total_patents": 100,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Niron Magnetics",
+      "total_patents": 31,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Nobell Foods",
+      "total_patents": 57,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Pivot Bio",
+      "total_patents": 100,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Planted Solar",
+      "total_patents": 28,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Prolific Machines",
+      "total_patents": 32,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Quantumscape",
+      "total_patents": 100,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Quidnet Energy",
+      "total_patents": 87,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Reactive Technologies",
+      "total_patents": 100,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Redwood Materials",
+      "total_patents": 93,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Remo Energy",
+      "total_patents": 13,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Rondo Energy",
+      "total_patents": 100,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Rumin8",
+      "total_patents": 32,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Savor",
+      "total_patents": 93,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Sierra Energy",
+      "total_patents": 20,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Solidia",
+      "total_patents": 100,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Sparkmeter",
+      "total_patents": 3,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Stoke Space",
+      "total_patents": 88,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Sublime Systems",
+      "total_patents": 53,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Sustaera",
+      "total_patents": 17,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Terra Co2",
+      "total_patents": 100,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Vantem",
+      "total_patents": 8,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Veir",
+      "total_patents": 45,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Verdox",
+      "total_patents": 72,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Windfall Bio",
+      "total_patents": 9,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Yard Stick",
+      "total_patents": 14,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Zap Energy",
+      "total_patents": 68,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    },
+    {
+      "company": "Zeroavia",
+      "total_patents": 100,
+      "ai_patent_count": 0,
+      "ai_percentage": 0.0
+    }
+  ],
+  "detailed_results": {
+    "1366 Technologies": {
+      "total_patents": 100,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Aeroseal": {
+      "total_patents": 5,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Antora Energy": {
+      "total_patents": 26,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Arkeabio": {
+      "total_patents": 22,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Biomilq": {
+      "total_patents": 51,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Bloom Biorenewables": {
+      "total_patents": 8,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Blue Frontier": {
+      "total_patents": 40,
+      "ai_patent_count": 2,
+      "ai_patents": [
+        {
+          "patent_id": "WO2025042751",
+          "title": [
+            "MACHINE LEARNING BASED CONTROL SYSTEMS FOR HEATING VENTILATION AND COOLING SYSTEMS"
+          ],
+          "publication_date": "2025-02-27",
+          "ai_terms_found": [
+            "machine learning",
+            "artificial intelligence"
+          ],
+          "ai_term_count": 2
+        },
+        {
+          "patent_id": "US20250060122",
+          "title": [
+            "MACHINE LEARNING BASED CONTROL SYSTEMS FOR HEATING VENTILATION AND COOLING SYSTEMS"
+          ],
+          "publication_date": "2025-02-20",
+          "ai_terms_found": [
+            "machine learning",
+            "artificial intelligence"
+          ],
+          "ai_term_count": 2
+        }
+      ]
+    },
+    "Brimstone": {
+      "total_patents": 49,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "C-Zero": {
+      "total_patents": 5,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "C16 Biosciences": {
+      "total_patents": 43,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Carboncure": {
+      "total_patents": 100,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Circ": {
+      "total_patents": 84,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Clearflame": {
+      "total_patents": 56,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Commonwealth Fusion Systems": {
+      "total_patents": 100,
+      "ai_patent_count": 1,
+      "ai_patents": [
+        {
+          "patent_id": "WO2025122867",
+          "title": [
+            "RF ELECTRICAL MEASUREMENT FOR SUPERCONDUCTOR QUENCH AND TEMPERATURE ANOMALY DETECTION IN MAGNETS"
+          ],
+          "publication_date": "2025-06-12",
+          "ai_terms_found": [
+            "anomaly detection"
+          ],
+          "ai_term_count": 1
+        }
+      ]
+    },
+    "Conductor": {
+      "total_patents": 64,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Cubicpv": {
+      "total_patents": 100,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Dandelion Geothermal": {
+      "total_patents": 21,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Dioxycle": {
+      "total_patents": 88,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Dmc Biotechnologies": {
+      "total_patents": 3,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Ecocem": {
+      "total_patents": 100,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Electra": {
+      "total_patents": 100,
+      "ai_patent_count": 3,
+      "ai_patents": [
+        {
+          "patent_id": "WO2025096588",
+          "title": [
+            "SYSTEMS AND METHODS FOR CELL-BASED MODELING PERFORMANCE OF A BATTERY PACK"
+          ],
+          "publication_date": "2025-05-08",
+          "ai_terms_found": [
+            "machine learning"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "WO2023172735",
+          "title": [
+            "SYSTEMS AND METHODS FOR USING ADAPTIVE MODELING TO PREDICT ENERGY SYSTEM PERFORMANCE"
+          ],
+          "publication_date": "2023-09-14",
+          "ai_terms_found": [
+            "machine learning"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "EP4490528",
+          "title": [
+            "SYSTEMS AND METHODS FOR USING ADAPTIVE MODELING TO PREDICT ENERGY SYSTEM PERFORMANCE"
+          ],
+          "publication_date": "2025-01-15",
+          "ai_terms_found": [
+            "machine learning"
+          ],
+          "ai_term_count": 1
+        }
+      ]
+    },
+    "Electric Hydrogen": {
+      "total_patents": 100,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Enverid": {
+      "total_patents": 100,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "ESS Inc": {
+      "total_patents": 100,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Fervo Energy": {
+      "total_patents": 30,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Form Energy": {
+      "total_patents": 100,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Fourth Power": {
+      "total_patents": 13,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "H2Pro": {
+      "total_patents": 49,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Heart Aerospace": {
+      "total_patents": 43,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Heirloom Carbon": {
+      "total_patents": 17,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Ionq": {
+      "total_patents": 100,
+      "ai_patent_count": 4,
+      "ai_patents": [
+        {
+          "patent_id": "US20250190834",
+          "title": [
+            "SOLVING INEQUALITY CONSTRAINED OPTIMIZATION PROBLEM ON HYBRID QUANTUM-CLASSICAL COMPUTING SYSTEM"
+          ],
+          "publication_date": "2025-06-12",
+          "ai_terms_found": [
+            "cost function"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "US20250190830",
+          "title": [
+            "SYSTEM AND METHOD FOR VARIATIONAL QUANTUM LINEAR SOLVER FOR EQUATIONS MODULO 2"
+          ],
+          "publication_date": "2025-06-12",
+          "ai_terms_found": [
+            "cost function"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "WO2023167707",
+          "title": [
+            "SYSTEM AND METHOD FOR QUANTUM COMPUTING TO GENERATE JOINT PROBABILITY DISTRIBUTIONS"
+          ],
+          "publication_date": "2023-11-23",
+          "ai_terms_found": [
+            "machine learning"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "WO2023167707",
+          "title": [
+            "SYSTEM AND METHOD FOR QUANTUM COMPUTING TO GENERATE JOINT PROBABILITY DISTRIBUTIONS"
+          ],
+          "publication_date": "2023-09-07",
+          "ai_terms_found": [
+            "machine learning"
+          ],
+          "ai_term_count": 1
+        }
+      ]
+    },
+    "Iron": {
+      "total_patents": 45,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Kobold Metals": {
+      "total_patents": 26,
+      "ai_patent_count": 2,
+      "ai_patents": [
+        {
+          "patent_id": "WO2025101789",
+          "title": [
+            "MUON TOMOGRAPHY FOR SUBSURFACE FEATURE DETECTION USING MUON AIR SHOWERS"
+          ],
+          "publication_date": "2025-09-18",
+          "ai_terms_found": [
+            "feature detection"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "WO2025101789",
+          "title": [
+            "MUON TOMOGRAPHY FOR SUBSURFACE FEATURE DETECTION USING MUON AIR SHOWERS"
+          ],
+          "publication_date": "2025-05-15",
+          "ai_terms_found": [
+            "feature detection"
+          ],
+          "ai_term_count": 1
+        }
+      ]
+    },
+    "Lilac Solutions": {
+      "total_patents": 100,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Luxwall": {
+      "total_patents": 100,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Malta Inc": {
+      "total_patents": 100,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Mill Industries": {
+      "total_patents": 24,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Mission Zero": {
+      "total_patents": 19,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Molten Industries": {
+      "total_patents": 23,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Motif Foodworks": {
+      "total_patents": 37,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Natel Tac Turbine Hydro": {
+      "total_patents": 63,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Nature's Fynd": {
+      "total_patents": 100,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Niron Magnetics": {
+      "total_patents": 31,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Nobell Foods": {
+      "total_patents": 57,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Our Next Energy": {
+      "total_patents": 90,
+      "ai_patent_count": 2,
+      "ai_patents": [
+        {
+          "patent_id": "US20230402839",
+          "title": [
+            "ENERGY MANAGEMENT SYSTEM WITH MACHINE LEARNING"
+          ],
+          "publication_date": "2023-12-14",
+          "ai_terms_found": [
+            "machine learning"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "US12415437",
+          "title": [
+            "Energy management system with machine learning"
+          ],
+          "publication_date": "2025-09-16",
+          "ai_terms_found": [
+            "machine learning"
+          ],
+          "ai_term_count": 1
+        }
+      ]
+    },
+    "Pivot Bio": {
+      "total_patents": 100,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Planted Solar": {
+      "total_patents": 28,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Prolific Machines": {
+      "total_patents": 32,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Quantumscape": {
+      "total_patents": 100,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Quidnet Energy": {
+      "total_patents": 87,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Reactive Technologies": {
+      "total_patents": 100,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Redwood Materials": {
+      "total_patents": 93,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Remo Energy": {
+      "total_patents": 13,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Rondo Energy": {
+      "total_patents": 100,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Rumin8": {
+      "total_patents": 32,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Savor": {
+      "total_patents": 93,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Sierra Energy": {
+      "total_patents": 20,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Solidia": {
+      "total_patents": 100,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Sortera": {
+      "total_patents": 100,
+      "ai_patent_count": 61,
+      "ai_patents": [
+        {
+          "patent_id": "US20230010888",
+          "title": [
+            "Vacuum Smelting of Sorted Aluminum"
+          ],
+          "publication_date": "2023-01-12",
+          "ai_terms_found": [
+            "artificial intelligence"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "EP3784419",
+          "title": [
+            "RECYCLING COINS FROM SCRAP"
+          ],
+          "publication_date": "2021-03-03",
+          "ai_terms_found": [
+            "machine learning"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "JP2024116216",
+          "title": [
+            "RECYCLING COINS FROM SCRAP"
+          ],
+          "publication_date": "2024-08-27",
+          "ai_terms_found": [
+            "machine learning"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "WO2024182565",
+          "title": [
+            "SORTING OF ALUMINUM ALLOYS"
+          ],
+          "publication_date": "2024-09-06",
+          "ai_terms_found": [
+            "artificial intelligence"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "WO2024182560",
+          "title": [
+            "SORTING OF ZORBA"
+          ],
+          "publication_date": "2024-09-06",
+          "ai_terms_found": [
+            "artificial intelligence"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "WO2023102202",
+          "title": [
+            "PORTABLE MATERIALS ANALYZER"
+          ],
+          "publication_date": "2023-06-08",
+          "ai_terms_found": [
+            "artificial intelligence"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "WO2023076186",
+          "title": [
+            "METAL SEPARATION IN A SCRAP YARD"
+          ],
+          "publication_date": "2023-05-04",
+          "ai_terms_found": [
+            "neural network",
+            "artificial intelligence"
+          ],
+          "ai_term_count": 2
+        },
+        {
+          "patent_id": "WO2023055425",
+          "title": [
+            "SORTING BASED ON CHEMICAL COMPOSITION"
+          ],
+          "publication_date": "2023-04-06",
+          "ai_terms_found": [
+            "machine learning"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "WO2023055418",
+          "title": [
+            "MULTIPLE STAGE SORTING"
+          ],
+          "publication_date": "2023-04-06",
+          "ai_terms_found": [
+            "machine learning"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "WO2023015000",
+          "title": [
+            "REMOVING AIRBAG MODULES FROM AUTOMOTIVE SCRAP"
+          ],
+          "publication_date": "2023-02-09",
+          "ai_terms_found": [
+            "artificial intelligence"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "WO2023003670",
+          "title": [
+            "MATERIAL HANDLING SYSTEM"
+          ],
+          "publication_date": "2023-01-26",
+          "ai_terms_found": [
+            "neural network",
+            "machine learning"
+          ],
+          "ai_term_count": 2
+        },
+        {
+          "patent_id": "WO2023003669",
+          "title": [
+            "MATERIAL CLASSIFICATION SYSTEM"
+          ],
+          "publication_date": "2023-11-23",
+          "ai_terms_found": [
+            "neural network",
+            "machine learning"
+          ],
+          "ai_term_count": 2
+        },
+        {
+          "patent_id": "WO2023003669",
+          "title": [
+            "MATERIAL CLASSIFICATION SYSTEM"
+          ],
+          "publication_date": "2023-01-26",
+          "ai_terms_found": [
+            "neural network",
+            "machine learning"
+          ],
+          "ai_term_count": 2
+        },
+        {
+          "patent_id": "WO2022251373",
+          "title": [
+            "SORTING OF CONTAMINANTS"
+          ],
+          "publication_date": "2022-12-01",
+          "ai_terms_found": [
+            "machine learning"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "WO2022170273",
+          "title": [
+            "SORTING OF DARK COLORED AND BLACK PLASTICS"
+          ],
+          "publication_date": "2022-08-11",
+          "ai_terms_found": [
+            "machine learning"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "WO2022170262",
+          "title": [
+            "SORTING OF PLASTICS"
+          ],
+          "publication_date": "2022-08-11",
+          "ai_terms_found": [
+            "machine learning"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "US20240342756",
+          "title": [
+            "MULTIPLE STAGE SORTING"
+          ],
+          "publication_date": "2024-10-17",
+          "ai_terms_found": [
+            "artificial intelligence"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "US20240307923",
+          "title": [
+            "MULTIPLE STAGE SORTING"
+          ],
+          "publication_date": "2024-09-19",
+          "ai_terms_found": [
+            "artificial intelligence"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "US20240207899",
+          "title": [
+            "SORTING BETWEEN METAL ALLOYS"
+          ],
+          "publication_date": "2024-06-27",
+          "ai_terms_found": [
+            "machine learning"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "US20240149304",
+          "title": [
+            "CLASSIFYING BETWEEN METAL ALLOYS"
+          ],
+          "publication_date": "2024-05-09",
+          "ai_terms_found": [
+            "machine learning"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "US20230176028",
+          "title": [
+            "PORTABLE MATERIALS ANALYZER"
+          ],
+          "publication_date": "2023-06-08",
+          "ai_terms_found": [
+            "artificial intelligence"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "US20230053268",
+          "title": [
+            "CLASSIFICATION AND SORTING WITH SINGLE-BOARD COMPUTERS"
+          ],
+          "publication_date": "2023-02-16",
+          "ai_terms_found": [
+            "artificial intelligence"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "US20230044783",
+          "title": [
+            "METAL SEPARATION IN A SCRAP YARD"
+          ],
+          "publication_date": "2023-02-09",
+          "ai_terms_found": [
+            "neural network",
+            "artificial intelligence"
+          ],
+          "ai_term_count": 2
+        },
+        {
+          "patent_id": "US20220371057",
+          "title": [
+            "REMOVING AIRBAG MODULES FROM AUTOMOTIVE SCRAP"
+          ],
+          "publication_date": "2022-11-24",
+          "ai_terms_found": [
+            "artificial intelligence"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "US20220355342",
+          "title": [
+            "SORTING OF CONTAMINANTS"
+          ],
+          "publication_date": "2022-11-10",
+          "ai_terms_found": [
+            "machine learning"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "US20220203407",
+          "title": [
+            "SORTING BASED ON CHEMICAL COMPOSITION"
+          ],
+          "publication_date": "2022-06-30",
+          "ai_terms_found": [
+            "machine learning"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "US20220168781",
+          "title": [
+            "MULTIPLE STAGE SORTING"
+          ],
+          "publication_date": "2022-06-02",
+          "ai_terms_found": [
+            "machine learning"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "US12390838",
+          "title": [
+            "Sorting between metal alloys"
+          ],
+          "publication_date": "2025-08-19",
+          "ai_terms_found": [
+            "machine learning"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "US12208421",
+          "title": [
+            "Metal separation in a scrap yard"
+          ],
+          "publication_date": "2025-01-28",
+          "ai_terms_found": [
+            "neural network",
+            "artificial intelligence"
+          ],
+          "ai_term_count": 2
+        },
+        {
+          "patent_id": "US12194506",
+          "title": [
+            "Sorting of contaminants"
+          ],
+          "publication_date": "2025-01-14",
+          "ai_terms_found": [
+            "machine learning"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "US12179237",
+          "title": [
+            "Classifying between metal alloys"
+          ],
+          "publication_date": "2024-12-31",
+          "ai_terms_found": [
+            "machine learning"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "US12109593",
+          "title": [
+            "Classification and sorting with single-board computers"
+          ],
+          "publication_date": "2024-10-08",
+          "ai_terms_found": [
+            "artificial intelligence"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "US12103045",
+          "title": [
+            "Removing airbag modules from automotive scrap"
+          ],
+          "publication_date": "2024-10-01",
+          "ai_terms_found": [
+            "artificial intelligence"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "US12030088",
+          "title": [
+            "Multiple stage sorting"
+          ],
+          "publication_date": "2024-07-09",
+          "ai_terms_found": [
+            "machine learning"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "US12017255",
+          "title": [
+            "Sorting based on chemical composition"
+          ],
+          "publication_date": "2024-06-25",
+          "ai_terms_found": [
+            "machine learning"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "MX2025008765",
+          "title": [
+            "SORTING OF ALUMINUM ALLOYS"
+          ],
+          "publication_date": "2025-09-02",
+          "ai_terms_found": [
+            "artificial intelligence"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "MX2025008764",
+          "title": [
+            "SORTING OF ZORBA"
+          ],
+          "publication_date": "2025-09-02",
+          "ai_terms_found": [
+            "artificial intelligence"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "MX2024004998",
+          "title": [
+            "METAL SEPARATION IN A SCRAP YARD."
+          ],
+          "publication_date": "2024-05-07",
+          "ai_terms_found": [
+            "neural network",
+            "artificial intelligence"
+          ],
+          "ai_term_count": 2
+        },
+        {
+          "patent_id": "MX2024003915",
+          "title": [
+            "MULTIPLE STAGE SORTING."
+          ],
+          "publication_date": "2024-04-26",
+          "ai_terms_found": [
+            "machine learning"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "MX2023009270",
+          "title": [
+            "SORTING OF PLASTICS."
+          ],
+          "publication_date": "2024-01-08",
+          "ai_terms_found": [
+            "machine learning"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "MX2023009269",
+          "title": [
+            "SORTING OF DARK COLORED AND BLACK PLASTICS."
+          ],
+          "publication_date": "2024-01-08",
+          "ai_terms_found": [
+            "machine learning"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "MX2023009130",
+          "title": [
+            "REMOVING AIRBAG MODULES FROM AUTOMOTIVE SCRAP."
+          ],
+          "publication_date": "2023-10-24",
+          "ai_terms_found": [
+            "artificial intelligence"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "MX2023009129",
+          "title": [
+            "SORTING BASED ON CHEMICAL COMPOSITION."
+          ],
+          "publication_date": "2023-10-24",
+          "ai_terms_found": [
+            "machine learning"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "EP4673265",
+          "title": [
+            "SORTING OF ZORBA"
+          ],
+          "publication_date": "2026-01-07",
+          "ai_terms_found": [
+            "artificial intelligence"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "EP4673264",
+          "title": [
+            "SORTING OF ALUMINUM ALLOYS"
+          ],
+          "publication_date": "2026-01-07",
+          "ai_terms_found": [
+            "artificial intelligence"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "EP4441261",
+          "title": [
+            "PORTABLE MATERIALS ANALYZER"
+          ],
+          "publication_date": "2024-10-09",
+          "ai_terms_found": [
+            "artificial intelligence"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "EP4422807",
+          "title": [
+            "METAL SEPARATION IN A SCRAP YARD"
+          ],
+          "publication_date": "2024-09-04",
+          "ai_terms_found": [
+            "neural network",
+            "artificial intelligence"
+          ],
+          "ai_term_count": 2
+        },
+        {
+          "patent_id": "EP4408593",
+          "title": [
+            "MULTIPLE STAGE SORTING"
+          ],
+          "publication_date": "2024-08-07",
+          "ai_terms_found": [
+            "machine learning"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "EP4267319",
+          "title": [
+            "REMOVING AIRBAG MODULES FROM AUTOMOTIVE SCRAP"
+          ],
+          "publication_date": "2023-11-01",
+          "ai_terms_found": [
+            "artificial intelligence"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "EP4267318",
+          "title": [
+            "SORTING BASED ON CHEMICAL COMPOSITION"
+          ],
+          "publication_date": "2023-11-01",
+          "ai_terms_found": [
+            "machine learning"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "AU2024228128",
+          "title": [
+            "SORTING OF ALUMINUM ALLOYS"
+          ],
+          "publication_date": "2025-08-14",
+          "ai_terms_found": [
+            "artificial intelligence"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "AU2024228012",
+          "title": [
+            "SORTING OF ZORBA"
+          ],
+          "publication_date": "2025-08-07",
+          "ai_terms_found": [
+            "artificial intelligence"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "US11260426",
+          "title": [
+            "Identifying coins from scrap"
+          ],
+          "publication_date": "2022-03-01",
+          "ai_terms_found": [
+            "neural network",
+            "machine learning"
+          ],
+          "ai_term_count": 2
+        },
+        {
+          "patent_id": "US20240109103",
+          "title": [
+            "SORTING OF DARK COLORED AND BLACK PLASTICS"
+          ],
+          "publication_date": "2024-04-04",
+          "ai_terms_found": [
+            "machine learning"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "US20220161298",
+          "title": [
+            "SORTING OF PLASTICS"
+          ],
+          "publication_date": "2022-05-26",
+          "ai_terms_found": [
+            "machine learning"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "US12290842",
+          "title": [
+            "Sorting of dark colored and black plastics"
+          ],
+          "publication_date": "2025-05-06",
+          "ai_terms_found": [
+            "machine learning"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "US20220023918",
+          "title": [
+            "MATERIAL HANDLING USING MACHINE LEARNING SYSTEM"
+          ],
+          "publication_date": "2022-01-27",
+          "ai_terms_found": [
+            "neural network",
+            "machine learning"
+          ],
+          "ai_term_count": 2
+        },
+        {
+          "patent_id": "US20210346916",
+          "title": [
+            "MATERIAL HANDLING USING MACHINE LEARNING SYSTEM"
+          ],
+          "publication_date": "2021-11-11",
+          "ai_terms_found": [
+            "neural network",
+            "machine learning"
+          ],
+          "ai_term_count": 2
+        },
+        {
+          "patent_id": "US11975365",
+          "title": [
+            "Computer program product for classifying materials"
+          ],
+          "publication_date": "2024-05-07",
+          "ai_terms_found": [
+            "neural network",
+            "machine learning"
+          ],
+          "ai_term_count": 2
+        },
+        {
+          "patent_id": "JP2025128094",
+          "title": [
+            "PLASTIC SEPARATION"
+          ],
+          "publication_date": "2025-09-02",
+          "ai_terms_found": [
+            "machine learning"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "TWI829131",
+          "title": [
+            "METHOD AND SYSTEM FOR SORTING MATERIALS, AND COMPUTER PROGRAM PRODUCT STORED ON COMPUTER READABLE STORAGE MEDIUM"
+          ],
+          "publication_date": "2024-01-11",
+          "ai_terms_found": [
+            "machine learning"
+          ],
+          "ai_term_count": 1
+        }
+      ]
+    },
+    "Source Global": {
+      "total_patents": 100,
+      "ai_patent_count": 2,
+      "ai_patents": [
+        {
+          "patent_id": "AU2018380168",
+          "title": [
+            "Systems for constructing hierarchical training data sets for use with machine-learning and related methods therefor"
+          ],
+          "publication_date": "2023-11-02",
+          "ai_terms_found": [
+            "training data"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "AU2018380168",
+          "title": [
+            "Systems for constructing hierarchical training data sets for use with machine-learning and related methods therefor"
+          ],
+          "publication_date": "2020-07-23",
+          "ai_terms_found": [
+            "training data"
+          ],
+          "ai_term_count": 1
+        }
+      ]
+    },
+    "Sparkmeter": {
+      "total_patents": 3,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Stoke Space": {
+      "total_patents": 88,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Sublime Systems": {
+      "total_patents": 53,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Sustaera": {
+      "total_patents": 17,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Terabase Energy": {
+      "total_patents": 82,
+      "ai_patent_count": 2,
+      "ai_patents": [
+        {
+          "patent_id": "WO2025235547",
+          "title": [
+            "USE OF RFID TECHNOLOGY, IOT AND DIGITAL TWIN TO TRACK AND MANAGE PRODUCTION, PRODUCTIVITY, SAFETY AND QUALITY ON LARGE PROJECTS"
+          ],
+          "publication_date": "2025-11-13",
+          "ai_terms_found": [
+            "machine learning",
+            "artificial intelligence"
+          ],
+          "ai_term_count": 2
+        },
+        {
+          "patent_id": "US20250342412",
+          "title": [
+            "USE OF RFID TECHNOLOGY, IOT AND DIGITAL TWIN TO TRACK PRODUCTION, PRODUCTIVITY, SAFETY AND QUALITY METRICS ON LARGE SOLAR PROJECTS"
+          ],
+          "publication_date": "2025-11-06",
+          "ai_terms_found": [
+            "machine learning",
+            "artificial intelligence"
+          ],
+          "ai_term_count": 2
+        }
+      ]
+    },
+    "Terra Co2": {
+      "total_patents": 100,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Turntide": {
+      "total_patents": 100,
+      "ai_patent_count": 12,
+      "ai_patents": [
+        {
+          "patent_id": "JP2021106490",
+          "title": [
+            "METHOD AND APPARATUS FOR QUASI-SENSORLESS ADAPTIVE CONTROL OF SWITCHED RELUCTANCE MOTOR DRIVE"
+          ],
+          "publication_date": "2021-07-26",
+          "ai_terms_found": [
+            "adaptive control"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "US20220190765",
+          "title": [
+            "METHOD AND APPARATUS FOR QUASI-SENSORLESS ADAPTIVE CONTROL OF SWITCHED RELUCTANCE MOTOR DRIVES"
+          ],
+          "publication_date": "2022-06-16",
+          "ai_terms_found": [
+            "adaptive control"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "US20200366229",
+          "title": [
+            "APPARATUS FOR QUASI-SENSORLESS ADAPTIVE CONTROL OF SWITCHED RELUCT ANGE MOTOR DRIVES"
+          ],
+          "publication_date": "2020-11-19",
+          "ai_terms_found": [
+            "adaptive control"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "NZ767322",
+          "title": [
+            "Method and apparatus for quasi-sensorless adaptive control of switched reluctance motor drives"
+          ],
+          "publication_date": "2022-05-27",
+          "ai_terms_found": [
+            "adaptive control"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "NZ750882",
+          "title": [
+            "Method and apparatus for quasi-sensorless adaptive control of switched reluctance motor drives"
+          ],
+          "publication_date": "2020-10-30",
+          "ai_terms_found": [
+            "adaptive control"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "EP3883119",
+          "title": [
+            "METHOD AND APPARATUS FOR QUASI-SENSORLESS ADAPTIVE CONTROL OF SWITCHED RELUCTANCE MOTOR DRIVES"
+          ],
+          "publication_date": "2021-10-06",
+          "ai_terms_found": [
+            "adaptive control"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "EP3883119",
+          "title": [
+            "METHOD AND APPARATUS FOR QUASI-SENSORLESS ADAPTIVE CONTROL OF SWITCHED RELUCTANCE MOTOR DRIVES"
+          ],
+          "publication_date": "2021-09-22",
+          "ai_terms_found": [
+            "adaptive control"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "AU2021201190",
+          "title": [
+            "Method and apparatus for quasi-sensorless adaptive control of switched reluctance motor drives"
+          ],
+          "publication_date": "2022-01-20",
+          "ai_terms_found": [
+            "adaptive control"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "AU2021201190",
+          "title": [
+            "Method and apparatus for quasi-sensorless adaptive control of switched reluctance motor drives"
+          ],
+          "publication_date": "2021-03-11",
+          "ai_terms_found": [
+            "adaptive control"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "AU2019271913",
+          "title": [
+            "Method and apparatus for quasi-sensorless adaptive control of switched reluctance motor drives"
+          ],
+          "publication_date": "2020-12-03",
+          "ai_terms_found": [
+            "adaptive control"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "AU2019271913",
+          "title": [
+            "Method and apparatus for quasi-sensorless adaptive control of switched reluctance motor drives"
+          ],
+          "publication_date": "2020-01-02",
+          "ai_terms_found": [
+            "adaptive control"
+          ],
+          "ai_term_count": 1
+        },
+        {
+          "patent_id": "AU2018283901",
+          "title": [
+            "Method and apparatus for quasi-sensorless adaptive control of switched reluctance motor drives"
+          ],
+          "publication_date": "2019-11-07",
+          "ai_terms_found": [
+            "adaptive control"
+          ],
+          "ai_term_count": 1
+        }
+      ]
+    },
+    "Vantem": {
+      "total_patents": 8,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Veir": {
+      "total_patents": 45,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Verdox": {
+      "total_patents": 72,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Weave Grid": {
+      "total_patents": 12,
+      "ai_patent_count": 2,
+      "ai_patents": [
+        {
+          "patent_id": "WO2024182100",
+          "title": [
+            "ELECTRIC VEHICLE DETECTION"
+          ],
+          "publication_date": "2024-09-06",
+          "ai_terms_found": [
+            "trained model",
+            "machine learning"
+          ],
+          "ai_term_count": 2
+        },
+        {
+          "patent_id": "US20240296378",
+          "title": [
+            "ELECTRIC VEHICLE DETECTION"
+          ],
+          "publication_date": "2024-09-05",
+          "ai_terms_found": [
+            "trained model",
+            "machine learning"
+          ],
+          "ai_term_count": 2
+        }
+      ]
+    },
+    "Windfall Bio": {
+      "total_patents": 9,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Yard Stick": {
+      "total_patents": 14,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Zap Energy": {
+      "total_patents": 68,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    },
+    "Zeroavia": {
+      "total_patents": 100,
+      "ai_patent_count": 0,
+      "ai_patents": []
+    }
+  }
+}
