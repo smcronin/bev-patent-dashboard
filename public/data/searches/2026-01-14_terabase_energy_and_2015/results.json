@@ -1,0 +1,2221 @@
+{
+  "count": 82,
+  "numFound": 82,
+  "docs": [
+    {
+      "id": "WO-2024254571-A3",
+      "title": [
+        "SYSTEMS AND METHODS FOR FOUNDATION MAPPING AND REMEDIATION"
+      ],
+      "abstract": "In a large construction site, it can be very challenging to maintain precise installation for multiple piles. If the piles are not installed accurately, subsequent installation process may have to be changed, adjusted, or adapted due to the actual pile construction. Validating installed piles accurately is a very complex and laborious process. System and method embodiments of pile mapping and remediation are disclosed. Three dimensional scanning is used to establish a point cloud for each pile. The point cloud is used for calculating pile installation parameters, which are compared to designed parameters to determine parameter deviations and to generate remediation schemes, which may involve adjust subsequent installation markings or pile re-installation. The implementation of pile mapping and remediation facilitates an on-site installation process with improved efficiency.",
+      "publicationNumber": "WO2024254571",
+      "publicationDate": "2025-04-17",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "ADAM HANSEL",
+        "SOREN JENSEN"
+      ],
+      "applicationDate": "2024-06-08",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Computer technology",
+        "IT methods for management"
+      ],
+      "score": 16.546844
+    },
+    {
+      "id": "WO-2024254571-A2",
+      "title": [
+        "SYSTEMS AND METHODS FOR FOUNDATION MAPPING AND REMEDIATION"
+      ],
+      "abstract": "In a large construction site, it can be very challenging to maintain precise installation for multiple piles. If the piles are not installed accurately, subsequent installation process may have to be changed, adjusted, or adapted due to the actual pile construction. Validating installed piles accurately is a very complex and laborious process. System and method embodiments of pile mapping and remediation are disclosed. Three dimensional scanning is used to establish a point cloud for each pile. The point cloud is used for calculating pile installation parameters, which are compared to designed parameters to determine parameter deviations and to generate remediation schemes, which may involve adjust subsequent installation markings or pile re-installation. The implementation of pile mapping and remediation facilitates an on-site installation process with improved efficiency.",
+      "publicationNumber": "WO2024254571",
+      "publicationDate": "2024-12-12",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "ADAM HANSEL",
+        "SOREN JENSEN"
+      ],
+      "applicationDate": "2024-06-08",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Civil engineering",
+        "Computer technology"
+      ],
+      "score": 16.546844
+    },
+    {
+      "id": "AU-2024283570-A1",
+      "title": [
+        "SYSTEMS AND METHODS FOR FOUNDATION MAPPING AND REMEDIATION"
+      ],
+      "abstract": "In a large construction site, it can be very challenging to maintain precise installation for multiple piles. If the piles are not installed accurately, subsequent installation process may have to be changed, adjusted, or adapted due to the actual pile construction. Validating installed piles accurately is a very complex and laborious process. System and method embodiments of pile mapping and remediation are disclosed. Three dimensional scanning is used to establish a point cloud for each pile. The point cloud is used for calculating pile installation parameters, which are compared to designed parameters to determine parameter deviations and to generate remediation schemes, which may involve adjust subsequent installation markings or pile re-installation. The implementation of pile mapping and remediation facilitates an on-site installation process with improved efficiency.",
+      "publicationNumber": "AU2024283570",
+      "publicationDate": "2025-12-11",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "ADAM HANSEL",
+        "SOREN JENSEN"
+      ],
+      "applicationDate": "2024-06-08",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Computer technology",
+        "IT methods for management"
+      ],
+      "score": 16.546844
+    },
+    {
+      "id": "WO-2023141195-A1",
+      "title": [
+        "CENTRALIZED SOLAR TABLE ASSEMBLY"
+      ],
+      "abstract": "A solar table assembly unit is described that facilitates assembly of a plurality of solar tables in a location remote from a plurality of installation points within a solar system. The assembly unit comprises at least one vertical support structures that is coupled to a central support structure, an upper rail and a lower rail. The central support structure supports a torque tube having a plurality of coupling points. The upper and lower rails allow movement of solar components, such as solar panels, relative to the coupling points. Assembled solar tables may be moved to a mobile transport for subsequent delivery to installation points within the solar system.",
+      "publicationNumber": "WO2023141195",
+      "publicationDate": "2023-07-27",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "BRIAN COLEMAN",
+        "MATTHEW CAMPBELL",
+        "JOHANN FRITZ KARKHECK",
+        "ADAM HANSEL",
+        "SOREN JENSEN"
+      ],
+      "applicationDate": "2023-01-19",
+      "claimsCount": 7,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Handling",
+        "Solar energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 16.53667
+    },
+    {
+      "id": "EP-4463661-A1",
+      "title": [
+        "CENTRALIZED SOLAR TABLE ASSEMBLY"
+      ],
+      "abstract": "A solar table assembly unit is described that facilitates assembly of a plurality of solar tables in a location remote from a plurality of installation points within a solar system. The assembly unit comprises at least one vertical support structures that is coupled to a central support structure, an upper rail and a lower rail. The central support structure supports a torque tube having a plurality of coupling points. The upper and lower rails allow movement of solar components, such as solar panels, relative to the coupling points. Assembled solar tables may be moved to a mobile transport for subsequent delivery to installation points within the solar system.",
+      "publicationNumber": "EP4463661",
+      "publicationDate": "2024-11-20",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "BRIAN COLEMAN",
+        "MATTHEW CAMPBELL",
+        "JOHANN FRITZ KARKHECK",
+        "ADAM HANSEL",
+        "SOREN JENSEN"
+      ],
+      "applicationDate": "2023-01-19",
+      "claimsCount": 7,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Handling",
+        "Solar energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 16.53667
+    },
+    {
+      "id": "AU-2023209790-A1",
+      "title": [
+        "CENTRALIZED SOLAR TABLE ASSEMBLY"
+      ],
+      "abstract": "A solar table assembly unit is described that facilitates assembly of a plurality of solar tables in a location remote from a plurality of installation points within a solar system. The assembly unit comprises at least one vertical support structures that is coupled to a central support structure, an upper rail and a lower rail. The central support structure supports a torque tube having a plurality of coupling points. The upper and lower rails allow movement of solar components, such as solar panels, relative to the coupling points. Assembled solar tables may be moved to a mobile transport for subsequent delivery to installation points within the solar system.",
+      "publicationNumber": "AU2023209790",
+      "publicationDate": "2024-07-04",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "MATTHEW CAMPBELL",
+        "BRIAN COLEMAN",
+        "ADAM HANSEL",
+        "SOREN JENSEN",
+        "JOHANN FRITZ KARKHECK"
+      ],
+      "applicationDate": "2023-01-19",
+      "claimsCount": 7,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Handling",
+        "Solar energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 16.53667
+    },
+    {
+      "id": "WO-2025160314-A1",
+      "title": [
+        "SOLAR TABLE MOBILE TRANSPORT VEHICLE WITH RACK"
+      ],
+      "abstract": "Embodiments of a solar table mobile transport vehicle capable of carrying multiple solar tables are described. Multiple solar tables may be vertically stacked on a rack. Each solar table may be supported by a pair of cantilevered beams such that the solar table may be unloaded from the rack in an unobstructed manner. The rack may be loaded on a mobile transport vehicle for transportation to a point of installation. Solar tables in the rack may be fetched by the mobile transport vehicle or another installation rover for installation. Such a capability of carrying multiple solar tables increases the installation efficiency of solar tables, especially for large solar farm constructions.",
+      "publicationNumber": "WO2025160314",
+      "publicationDate": "2025-07-31",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "Tyler GRUSHKOWITZ",
+        "Noah James Wakeman BYSTROM",
+        "Grant Joseph KIMZEY",
+        "ADAM HANSEL",
+        "SOREN JENSEN"
+      ],
+      "applicationDate": "2025-01-23",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Solar energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 16.232899
+    },
+    {
+      "id": "EP-4367597-A4",
+      "title": [
+        "CENTRALIZED AND COORDINATED INSTALLATION OF SOLAR SYSTEMS"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP4367597",
+      "publicationDate": "2025-03-26",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "ADAM HANSEL",
+        "MATTHEW CAMPBELL",
+        "BRIAN COLEMAN",
+        "ALLAN DALY",
+        "SOREN JENSEN",
+        "Sarika KUMAR",
+        "JOHANN FRITZ KARKHECK"
+      ],
+      "applicationDate": "2022-07-26",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Computer technology",
+        "Solar energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 16.232899
+    },
+    {
+      "id": "EP-4367597-A1",
+      "title": [
+        "CENTRALIZED AND COORDINATED INSTALLATION OF SOLAR SYSTEMS"
+      ],
+      "abstract": "A system for centralized assembly and installation of large-scale solar systems is described. Embodiments of the invention transition the prior art approach of solar table assembly and installation at single location sites to a centralized and coordinated assembly factory that allows a more cost-effective and dynamic process of constructing large-scale solar systems. Additionally, embodiments of the invention provide an improved process of resource and personnel management during the construction process that improves cost and efficiency as conditions change at the construction site.",
+      "publicationNumber": "EP4367597",
+      "publicationDate": "2024-05-15",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "ADAM HANSEL",
+        "MATTHEW CAMPBELL",
+        "BRIAN COLEMAN",
+        "ALLAN DALY",
+        "SOREN JENSEN",
+        "Sarika KUMAR",
+        "JOHANN FRITZ KARKHECK"
+      ],
+      "applicationDate": "2022-07-26",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology",
+        "Solar energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 16.232899
+    },
+    {
+      "id": "AU-2022318755-A1",
+      "title": [
+        "CENTRALIZED AND COORDINATED INSTALLATION OF SOLAR SYSTEMS"
+      ],
+      "abstract": "A system for centralized assembly and installation of large-scale solar systems is described. Embodiments of the invention transition the prior art approach of solar table assembly and installation at single location sites to a centralized and coordinated assembly factory that allows a more cost-effective and dynamic process of constructing large-scale solar systems. Additionally, embodiments of the invention provide an improved process of resource and personnel management during the construction process that improves cost and efficiency as conditions change at the construction site.",
+      "publicationNumber": "AU2022318755",
+      "publicationDate": "2024-02-22",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "MATTHEW CAMPBELL",
+        "BRIAN COLEMAN",
+        "ALLAN DALY",
+        "ADAM HANSEL",
+        "SOREN JENSEN",
+        "JOHANN FRITZ KARKHECK",
+        "Sarika KUMAR"
+      ],
+      "applicationDate": "2022-07-26",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology",
+        "Solar energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 16.232899
+    },
+    {
+      "id": "WO-2025151683-A1",
+      "title": [
+        "SELF-CLOSING PHOTOVOLTAIC MODULE-TO-TORQUE TUBE RAIL"
+      ],
+      "abstract": "In solar systems, the installation process for solar module-to-torque tube is typically implemented manually by an installer. Such a manual process negatively impacts cost-effectiveness and installation consistency, especially for large solar systems. The present invention discloses embodiments of a self-closing rail that facilitates an automatic installation process for a torque tube for improved efficiency. The self-closing rail may use various structures and functions disclosed herein to keep rail arms open such that the torque tube may be unobstructively moved to a correct position for installation. The rail arms may have a shape matching or partially matching the cross-sectional shape of the torque tube for a tight fit of the torque tube.",
+      "publicationNumber": "WO2025151683",
+      "publicationDate": "2025-07-17",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "ADAM HANSEL"
+      ],
+      "applicationDate": "2025-01-09",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Mechanical elements",
+        "Solar energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 16.231106
+    },
+    {
+      "id": "WO-2025144961-A1",
+      "title": [
+        "SYSTEMS AND METHODS FOR SOLAR PANEL TRACKING"
+      ],
+      "abstract": "Solar panels may have manufacturing defects that warrant a recall by solar panel manufacturers. Given the large quantity of solar panels in a solar farm, it is challenging to identify and track those panels affected by the recall. The present invention describes system and method embodiments for solar panel tracking for the convenience of solar panel service or replacement. Panel identifiers of solar panels in a solar table installed on an installation site of a solar farm are scanned such that the panel identifiers of the solar panels may be associated with the geographical information at the installation site. A geographical database for solar panels may be created and updated, with each panel having an entry of panel information and geographical information. When a recall is issued, involved solar panels in the solar farm may be quickly and accurately identified using the geographical database.",
+      "publicationNumber": "WO2025144961",
+      "publicationDate": "2025-07-03",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "ALLAN DALY",
+        "Peter Long MARTIN",
+        "Javid Morteza ALASTI",
+        "SOREN JENSEN"
+      ],
+      "applicationDate": "2024-12-26",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology",
+        "Electrical machinery, apparatus, energy",
+        "IT methods for management",
+        "Solar energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 16.231106
+    },
+    {
+      "id": "WO-2025111259-A1",
+      "title": [
+        "SYSTEMS AND METHODS FOR PROTECTING A SOLAR MODULE"
+      ],
+      "abstract": "Solar panels in a solar farm may suffer damage from severe hail damage during operation. Damaged solar panels need to be repaired or replaced. Given that a solar farm is typically located in remote areas, service or replacement will inevitably take extra time and effort, resulting in additional costs. The present invention discloses systems and methods for solar module protection using protective screens covering the back sides of the solar panels to avoid or minimize severe environmental impacts. Solar panels may be rotated to a protective position with their backsides and protective screens oriented upward. Such implementation provides a practical solution to protect the solar panels from hail damage, and thus, the need for costly repairs or replacement may be avoided or minimized. As a result, the economic efficiency of solar farm operations may be improved significantly.",
+      "publicationNumber": "WO2025111259",
+      "publicationDate": "2025-05-30",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "MATTHEW PAUL CAMPBELL"
+      ],
+      "applicationDate": "2024-11-19",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Solar energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 16.231106
+    },
+    {
+      "id": "WO-2025085752-A1",
+      "title": [
+        "SOLAR TABLE MOBILE TRANSPORT WITH COLLAPSIBLE MANIPULATORS"
+      ],
+      "abstract": "Embodiments of a solar table mobile transport with collapsible manipulators are described. The collapsible manipulators may be scissor lifts, direct lifts, or pivot lifts, that couple to a torque tube of the solar table and provide at least vertical movement of the solar table. Once the mobile transport approaches an installation spot between installation piles, the mobile transport lifts the solar table by unfolding the collapsible manipulators such that that solar table may cross the pile line and the mobile transport can maneuver between the installation piles. The compactness of the mobile transport, especially when the collapsible manipulators are vertically installed, greatly enhances the maneuverability of the mobile transport within the limited space between the piles. Such a capability of mobile transport maneuverability in combination of solar table alignment facilitates an installation efficiency of the solar table.",
+      "publicationNumber": "WO2025085752",
+      "publicationDate": "2025-04-24",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "ADAM HANSEL",
+        "BRIAN COLEMAN",
+        "SOREN JENSEN"
+      ],
+      "applicationDate": "2024-10-18",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Handling",
+        "Solar energy",
+        "Thermal processes and apparatus",
+        "Transport"
+      ],
+      "score": 16.231106
+    },
+    {
+      "id": "WO-2025231252-A1",
+      "title": [
+        "SOLAR TABLE RACK WITH OFF-LOADER"
+      ],
+      "abstract": "Embodiments of a rack stack capable of holding multiple solar tables are described. The rack stack comprises one or more stackable solar table racks, with each solar table rack capable of holding more than one solar table. Each solar table may be supported by a pair of cantilevered beams such that the solar table may be unloaded from the rack in an unobstructed manner. The rack stack may be formed in a centralized factory and transported by a transportation vehicle, e.g., a mobile transport vehicle, a trailer, or a flatbed truck, to an offloading location near installation points of the solar tables. Solar tables in the rack stack may be fetched by a placer vehicle or a forklift via an end effector for installation. The ability of stacking multiple solar tables onto the rack stack improves solar table installation efficiency, especially for large solar farm constructions.",
+      "publicationNumber": "WO2025231252",
+      "publicationDate": "2025-11-06",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "Grant Joseph KIMZEY",
+        "Tyler GRUSHKOWITZ",
+        "Noah James Wakeman BYSTROM",
+        "ADAM HANSEL"
+      ],
+      "applicationDate": "2025-05-01",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Handling",
+        "Semiconductors",
+        "Solar energy"
+      ],
+      "score": 15.901363
+    },
+    {
+      "id": "WO-2024039415-A1",
+      "title": [
+        "SOLAR TABLE CLAMP"
+      ],
+      "abstract": "A clamp is described that couples a torque tube and at least one solar panel within a solar table. The clamp provides an efficient attachment when in a closed position that allows transportation of the solar table from a centralized assembly location to an installation point within a large-scale solar system. The clamp further provides an efficient process solar table mobile transport is described that moves a solar table to a point of installation. The clamp may be efficiently opened by personnel at the installation point to enable access to a section of the torque tube.",
+      "publicationNumber": "WO2024039415",
+      "publicationDate": "2024-02-22",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "BRIAN COLEMAN",
+        "ADAM HANSEL",
+        "SOREN JENSEN"
+      ],
+      "applicationDate": "2023-04-25",
+      "claimsCount": 7,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Solar energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 15.901363
+    },
+    {
+      "id": "MA-70886-A1",
+      "title": [
+        "SOLAR TABLE CLAMP"
+      ],
+      "abstract": "A clamp is described that couples a torque tube and at least one solar panel within a solar table. The clamp provides an efficient attachment when in a closed position that allows transportation of the solar table from a centralized assembly location to an installation point within a large-scale solar system. The clamp further provides an efficient process solar table mobile transport is described that moves a solar table to a point of installation. The clamp may be efficiently opened by personnel at the installation point to enable access to a section of the torque tube.",
+      "publicationNumber": "MA70886",
+      "publicationDate": "2025-10-31",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "BRIAN COLEMAN",
+        "ADAM HANSEL",
+        "SOREN JENSEN"
+      ],
+      "applicationDate": "2023-04-25",
+      "claimsCount": 19,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Mechanical elements",
+        "Solar energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 15.901363
+    },
+    {
+      "id": "AU-2023326312-A1",
+      "title": [
+        "SOLAR TABLE CLAMP"
+      ],
+      "abstract": "A clamp is described that couples a torque tube and at least one solar panel within a solar table. The clamp provides an efficient attachment when in a closed position that allows transportation of the solar table from a centralized assembly location to an installation point within a large-scale solar system. The clamp further provides an efficient process solar table mobile transport is described that moves a solar table to a point of installation. The clamp may be efficiently opened by personnel at the installation point to enable access to a section of the torque tube.",
+      "publicationNumber": "AU2023326312",
+      "publicationDate": "2025-03-20",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "BRIAN COLEMAN",
+        "ADAM HANSEL",
+        "SOREN JENSEN"
+      ],
+      "applicationDate": "2023-04-25",
+      "claimsCount": 7,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Solar energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 15.901363
+    },
+    {
+      "id": "WO-2025212545-A1",
+      "title": [
+        "SYSTEMS AND METHODS FOR SOLAR PANEL ORIENTATION DURING A LOADING PROCESS ONTO A CENTRALIZED ASSEMBLY FRAMEWORK"
+      ],
+      "abstract": "A system for centralized assembly of a solar table is described in which a solar panel is autonomous or semi-autonomously removed from a crate and oriented in such a manner to allow loading the solar panel on an assembly framework with proper alignment is achieved. In some embodiments, a flipping station is used to enable this alignment. In other embodiments, a robotic arm is used with sufficient rotation and movement functionality to allow this alignment.",
+      "publicationNumber": "WO2025212545",
+      "publicationDate": "2025-10-09",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "Cedric BOSS",
+        "Keisuke SHONO",
+        "ADAM HANSEL"
+      ],
+      "applicationDate": "2025-03-31",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Solar energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 15.895444
+    },
+    {
+      "id": "WO-2024096944-A1",
+      "title": [
+        "DEVICES AND METHODS FOR LOADING AN ASSEMBLED SOLAR TABLE ONTO A MOBILE TRANSPORT"
+      ],
+      "abstract": "A solar table loader is described that moves an assembled solar table from an assembly frame to a mobile transport. The solar table loader comprises at least one motor that provides horizontal, vertical, and rotational movements of the solar table to facilitate onboarding of the solar table to the mobile transport.",
+      "publicationNumber": "WO2024096944",
+      "publicationDate": "2024-05-10",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "JOHANN FRITZ KARKHECK",
+        "Sarika KUMAR",
+        "ADAM HANSEL",
+        "SOREN JENSEN"
+      ],
+      "applicationDate": "2023-08-06",
+      "claimsCount": 7,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Handling",
+        "Solar energy",
+        "Thermal processes and apparatus",
+        "Transport"
+      ],
+      "score": 15.895444
+    },
+    {
+      "id": "ES-3023132-R1",
+      "title": [
+        "Dispositivos y m\u00e9todos para cargar una mesa solar montada en un medio de transporte m\u00f3vil"
+      ],
+      "abstract": "",
+      "publicationNumber": "ES3023132",
+      "publicationDate": "2025-10-20",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "Johann Fritz Karkheck",
+        "Sarika KUMAR",
+        "ADAM HANSEL",
+        "SOREN JENSEN"
+      ],
+      "applicationDate": "2023-08-06",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Handling",
+        "Solar energy",
+        "Thermal processes and apparatus",
+        "Transport"
+      ],
+      "score": 15.895444
+    },
+    {
+      "id": "ES-3023132-A2",
+      "title": [
+        "DEVICES AND METHODS FOR LOADING AN ASSEMBLED SOLAR TABLE ONTO A MOBILE TRANSPORT"
+      ],
+      "abstract": "A solar table loader is described that moves an assembled solar table from an assembly frame to a mobile transport. The solar table loader comprises at least one motor that provides horizontal, vertical, and rotational movements of the solar table to facilitate onboarding of the solar table to the mobile transport.",
+      "publicationNumber": "ES3023132",
+      "publicationDate": "2025-05-29",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "Johann Fritz Karkheck",
+        "Sarika KUMAR",
+        "ADAM HANSEL",
+        "SOREN JENSEN"
+      ],
+      "applicationDate": "2023-08-06",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Handling",
+        "Solar energy",
+        "Thermal processes and apparatus",
+        "Transport"
+      ],
+      "score": 15.895444
+    },
+    {
+      "id": "AU-2023372777-A1",
+      "title": [
+        "DEVICES AND METHODS FOR LOADING AN ASSEMBLED SOLAR TABLE ONTO A MOBILE TRANSPORT"
+      ],
+      "abstract": "A solar table loader is described that moves an assembled solar table from an assembly frame to a mobile transport. The solar table loader comprises at least one motor that provides horizontal, vertical, and rotational movements of the solar table to facilitate onboarding of the solar table to the mobile transport.",
+      "publicationNumber": "AU2023372777",
+      "publicationDate": "2025-05-22",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "ADAM HANSEL",
+        "SOREN JENSEN",
+        "JOHANN FRITZ KARKHECK",
+        "Sarika KUMAR"
+      ],
+      "applicationDate": "2023-08-06",
+      "claimsCount": 7,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Handling",
+        "Solar energy",
+        "Thermal processes and apparatus",
+        "Transport"
+      ],
+      "score": 15.895444
+    },
+    {
+      "id": "WO-2025235547-A1",
+      "title": [
+        "USE OF RFID TECHNOLOGY, IOT AND DIGITAL TWIN TO TRACK AND MANAGE PRODUCTION, PRODUCTIVITY, SAFETY AND QUALITY ON LARGE PROJECTS"
+      ],
+      "abstract": "Given the remote location, large surface areas, and repetitive nature of assembling and installation works for a typical large solar project, it is vital to track production, productivity, logistics, safety, and quality to meet requirement of project cost, progress, safety, etc. The invention enables passive, real-time, objective, and accurate data feed from the field to the project supervision team (foremen, superintendents, construction managers, project managers) in a combined hardware and software product. The present disclosure describes system and method embodiments that utilize algorithms, artificial intelligence, and machine learning to translate data feed into actionable insights delivered through a hybrid edge and centralized platform. This enables appropriate actions for solar project supervision and management in a timely manner, which results in increased production rates, increased productivity, a safer work environment and a higher quality project.",
+      "publicationNumber": "WO2025235547",
+      "publicationDate": "2025-11-13",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "MATTHEW PAUL CAMPBELL",
+        "ALLAN DALY",
+        "Pierre Michel Daniel GOUSSELAND",
+        "Peter Thomas May-Ostendorp",
+        "Devin Greene SMITH"
+      ],
+      "applicationDate": "2025-05-06",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Computer technology",
+        "Digital communication",
+        "IT methods for management"
+      ],
+      "score": 15.72495
+    },
+    {
+      "id": "WO-2025235546-A1",
+      "title": [
+        "SOLAR TABLE BUFFER"
+      ],
+      "abstract": "System and method embodiments of off-loading completed solar tables from the assembly area for improved assembling efficiency are disclosed. An assembly and off-loading system may comprise an assembly stage for solar table assembling, a table buffer section, and a table off-loading section. The table buffer section is an extra section of conveyance and support to allow assembled solar tables to move out of the assembly area from the path of incoming torque tubes. The table off-loading section is where the assembled solar table is off-loaded onto a mobile transport. The table buffer section decouples the table assembly process from table off-loading, thus eliminating potential interference/blocking by table off-loading or mobile transport parking to subsequent table assembly processes. Consequently, the assembly of subsequent solar tables may be carried out without interruption or interference, and overall assembly efficiency increases.",
+      "publicationNumber": "WO2025235546",
+      "publicationDate": "2025-11-13",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "DYLAN HARPER",
+        "JOHANN FRITZ KARKHECK"
+      ],
+      "applicationDate": "2025-05-06",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Handling",
+        "Solar energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 15.72495
+    },
+    {
+      "id": "WO-2024229311-A1",
+      "title": [
+        "AUTOMATIC WEDGE LOADER"
+      ],
+      "abstract": "During an installation of solar panels, multiple mounting brackets are attached to solar panel frames. An installer may use a wedge through module frame and mounting bracket slots to securely attach a mounting bracket to a panel frame. A typically installation process is implemented manually with a wedge loaded individually for installation. The cost-effectiveness of this approach works fine within smaller solar deployments but struggles to cost-effectively scale to large solar systems as described below. Embodiments of automatic wedge loading are disclosed for solar panel installation with improved efficiency. The implementation of automatic wedge loading provides an easy and streamlined method to reload wedges on an installation tool. An installer may continue installation process almost un-interruption with ample loaded wedge magazines.",
+      "publicationNumber": "WO2024229311",
+      "publicationDate": "2024-11-07",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "SOREN JENSEN"
+      ],
+      "applicationDate": "2024-05-03",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Machine tools"
+      ],
+      "score": 15.72495
+    },
+    {
+      "id": "WO-2025006512-A3",
+      "title": [
+        "SOLAR TABLE MOBILE TRANSPORT WITH SIDESHIFT"
+      ],
+      "abstract": "A solar table mobile transport with sideshift capability is described that moves a solar table to a point of installation. The solar table mobile transport comprises multiple motors that allow movement within a three-dimensional coordinate system as well as provide angular controls of pitch, yaw and roll. Extended horizontal movement of the solar table is provided by a sideshift element that extends the solar table beyond an edge of a transport component of the solar table mobile transport.",
+      "publicationNumber": "WO2025006512",
+      "publicationDate": "2025-04-03",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "ADAM HANSEL",
+        "Tyler GRUSHKOWITZ",
+        "BRIAN COLEMAN",
+        "SOREN JENSEN"
+      ],
+      "applicationDate": "2024-06-25",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Handling",
+        "Solar energy",
+        "Transport"
+      ],
+      "score": 15.604384
+    },
+    {
+      "id": "WO-2025006512-A2",
+      "title": [
+        "SOLAR TABLE MOBILE TRANSPORT WITH SIDESHIFT"
+      ],
+      "abstract": "A solar table mobile transport with sideshift capability is described that moves a solar table to a point of installation. The solar table mobile transport comprises multiple motors that allow movement within a three-dimensional coordinate system as well as provide angular controls of pitch, yaw and roll. Extended horizontal movement of the solar table is provided by a sideshift element that extends the solar table beyond an edge of a transport component of the solar table mobile transport.",
+      "publicationNumber": "WO2025006512",
+      "publicationDate": "2025-01-02",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "ADAM HANSEL",
+        "Tyler GRUSHKOWITZ",
+        "BRIAN COLEMAN",
+        "SOREN JENSEN"
+      ],
+      "applicationDate": "2024-06-25",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [],
+      "score": 15.604384
+    },
+    {
+      "id": "WO-2024136925-A1",
+      "title": [
+        "SYSTEMS AND METHODS FOR THREADING A TORQUE TUBE THROUGH U-BOLT AND MODULE RAIL DEVICES"
+      ],
+      "abstract": "A system and method for threading a torque tube through an opening within a U-bolt and module rail device is described. The system and method provide aligned horizontal movement of the torque tube across an assembly frame resulting in the torque tube being threaded through a plurality of U-bolt and module rail devices. After the threading process is complete, the threaded U-bolt and module rail devices are secured in place on the torque tube to allow coupling of solar panels to the module rails.",
+      "publicationNumber": "WO2024136925",
+      "publicationDate": "2024-06-27",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "JENNIFER JUNE BULLOCKUS",
+        "DYLAN HARPER",
+        "JOHANN FRITZ KARKHECK",
+        "ADAM HANSEL"
+      ],
+      "applicationDate": "2023-08-06",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Solar energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 15.604384
+    },
+    {
+      "id": "WO-2024054259-A1",
+      "title": [
+        "SOLAR MODULE CRATE TRANSPORT AND MONITORING STRUCTURE"
+      ],
+      "abstract": "A solar module crate transport is described that securely moves a solar module crate within a large-scale solar system. The solar module crate transport comprises an angled base, at least three vertical support structures, at least one vehicle receptacle and at least one monitoring device. The at least one monitoring device may provide a variety of monitoring functionality that allows remote monitoring of an installation location within the large-scale solar system. This monitoring allows visibility into resources, including solar modules, and personnel at an installation location within the large-scale solar system.",
+      "publicationNumber": "WO2024054259",
+      "publicationDate": "2024-03-14",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "ADAM HANSEL",
+        "ALLAN DALY",
+        "PETER MAY-OSTENDORP",
+        "STEVEN MALINOSKI",
+        "SOREN JENSEN"
+      ],
+      "applicationDate": "2023-04-25",
+      "claimsCount": 23,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Handling",
+        "Transport"
+      ],
+      "score": 15.604384
+    },
+    {
+      "id": "EP-4639759-A1",
+      "title": [
+        "SYSTEMS AND METHODS FOR THREADING A TORQUE TUBE THROUGH U-BOLT AND MODULE RAIL DEVICES"
+      ],
+      "abstract": "A system and method for threading a torque tube through an opening within a U-bolt and module rail device is described. The system and method provide aligned horizontal movement of the torque tube across an assembly frame resulting in the torque tube being threaded through a plurality of U-bolt and module rail devices. After the threading process is complete, the threaded U-bolt and module rail devices are secured in place on the torque tube to allow coupling of solar panels to the module rails.",
+      "publicationNumber": "EP4639759",
+      "publicationDate": "2025-10-29",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "JENNIFER JUNE BULLOCKUS",
+        "DYLAN HARPER",
+        "JOHANN FRITZ KARKHECK",
+        "ADAM HANSEL"
+      ],
+      "applicationDate": "2023-08-06",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Solar energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 15.604384
+    },
+    {
+      "id": "AU-2023412924-A1",
+      "title": [
+        "SYSTEMS AND METHODS FOR THREADING A TORQUE TUBE THROUGH U-BOLT AND MODULE RAIL DEVICES"
+      ],
+      "abstract": "A system and method for threading a torque tube through an opening within a U-bolt and module rail device is described. The system and method provide aligned horizontal movement of the torque tube across an assembly frame resulting in the torque tube being threaded through a plurality of U-bolt and module rail devices. After the threading process is complete, the threaded U-bolt and module rail devices are secured in place on the torque tube to allow coupling of solar panels to the module rails.",
+      "publicationNumber": "AU2023412924",
+      "publicationDate": "2025-07-10",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "JENNIFER JUNE BULLOCKUS",
+        "ADAM HANSEL",
+        "DYLAN HARPER",
+        "JOHANN FRITZ KARKHECK"
+      ],
+      "applicationDate": "2023-08-06",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Solar energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 15.604384
+    },
+    {
+      "id": "AU-2023338741-A1",
+      "title": [
+        "SOLAR MODULE CRATE TRANSPORT AND MONITORING STRUCTURE"
+      ],
+      "abstract": "A solar module crate transport is described that securely moves a solar module crate within a large-scale solar system. The solar module crate transport comprises an angled base, at least three vertical support structures, at least one vehicle receptacle and at least one monitoring device. The at least one monitoring device may provide a variety of monitoring functionality that allows remote monitoring of an installation location within the large-scale solar system. This monitoring allows visibility into resources, including solar modules, and personnel at an installation location within the large-scale solar system.",
+      "publicationNumber": "AU2023338741",
+      "publicationDate": "2025-03-27",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "ALLAN DALY",
+        "ADAM HANSEL",
+        "SOREN JENSEN",
+        "STEVEN MALINOSKI",
+        "PETER MAY-OSTENDORP"
+      ],
+      "applicationDate": "2023-04-25",
+      "claimsCount": 23,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Handling",
+        "Transport"
+      ],
+      "score": 15.604384
+    },
+    {
+      "id": "WO-2023009485-A1",
+      "title": [
+        "CENTRALIZED AND COORDINATED INSTALLATION OF SOLAR SYSTEMS"
+      ],
+      "abstract": "A system for centralized assembly and installation of large-scale solar systems is described. Embodiments of the invention transition the prior art approach of solar table assembly and installation at single location sites to a centralized and coordinated assembly factory that allows a more cost-effective and dynamic process of constructing large-scale solar systems. Additionally, embodiments of the invention provide an improved process of resource and personnel management during the construction process that improves cost and efficiency as conditions change at the construction site.",
+      "publicationNumber": "WO2023009485",
+      "publicationDate": "2023-02-02",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "MATTHEW CAMPBELL",
+        "BRIAN COLEMAN",
+        "ALLAN DALY",
+        "SOREN JENSEN",
+        "Sarika KUMAR",
+        "JOHANN FRITZ KARKHECK"
+      ],
+      "applicationDate": "2022-07-26",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology",
+        "Solar energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 15.4692545
+    },
+    {
+      "id": "WO-2023034540-A1",
+      "title": [
+        "SOLAR TABLE MOBILE TRANSPORT"
+      ],
+      "abstract": "A solar table mobile transport is described that moves a solar table to a point of installation. The solar table mobile transport comprises multiple motors that allow movement within a three-dimensional coordinate system as well as provide angular controls of pitch, yaw and roll. These motors enable at least one alignment process used to install the solar table to a mounting structure within a solar system.",
+      "publicationNumber": "WO2023034540",
+      "publicationDate": "2023-03-09",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "MATTHEW CAMPBELL",
+        "BRIAN COLEMAN",
+        "Tianya ZHAO",
+        "ADAM HANSEL",
+        "SOREN JENSEN"
+      ],
+      "applicationDate": "2022-09-01",
+      "claimsCount": 7,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Solar energy",
+        "Transport"
+      ],
+      "score": 15.430197
+    },
+    {
+      "id": "US-20240278704-A1",
+      "title": [
+        "SOLAR TABLE MOBILE TRANSPORT"
+      ],
+      "abstract": "A solar table mobile transport is described that moves a solar table to a point of installation. The solar table mobile transport comprises multiple motors that allow movement within a three-dimensional coordinate system as well as provide angular controls of pitch, yaw and roll. These motors enable at least one alignment process used to install the solar table to a mounting structure within a solar system.",
+      "publicationNumber": "US20240278704",
+      "publicationDate": "2024-08-22",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "Matthew Campbell",
+        "Brian Coleman",
+        "Tianyu ZHAO",
+        "Adam Hansel",
+        "Soren Jensen"
+      ],
+      "applicationDate": "2024-03-25",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Solar energy",
+        "Thermal processes and apparatus",
+        "Transport"
+      ],
+      "score": 15.430197
+    },
+    {
+      "id": "US-20240270146-A1",
+      "title": [
+        "SOLAR TABLE MOBILE TRANSPORT"
+      ],
+      "abstract": "A solar table mobile transport is described that moves a solar table to a point of installation. The solar table mobile transport comprises multiple motors that allow movement within a three-dimensional coordinate system as well as provide angular controls of pitch, yaw and roll. These motors enable at least one alignment process used to install the solar table to a mounting structure within a solar system.",
+      "publicationNumber": "US20240270146",
+      "publicationDate": "2024-08-15",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "Matthew Campbell",
+        "Brian Coleman",
+        "Tianyu ZHAO",
+        "Adam Hansel",
+        "Soren Jensen"
+      ],
+      "applicationDate": "2024-03-25",
+      "claimsCount": 21,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Solar energy",
+        "Thermal processes and apparatus",
+        "Transport"
+      ],
+      "score": 15.430197
+    },
+    {
+      "id": "EP-4371231-A4",
+      "title": [
+        "SOLAR TABLE MOBILE TRANSPORT"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP4371231",
+      "publicationDate": "2025-05-21",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "MATTHEW CAMPBELL",
+        "BRIAN COLEMAN",
+        "Tianya ZHAO",
+        "ADAM HANSEL",
+        "SOREN JENSEN"
+      ],
+      "applicationDate": "2022-09-01",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Solar energy",
+        "Transport"
+      ],
+      "score": 15.430197
+    },
+    {
+      "id": "EP-4371231-A1",
+      "title": [
+        "SOLAR TABLE MOBILE TRANSPORT"
+      ],
+      "abstract": "A solar table mobile transport is described that moves a solar table to a point of installation. The solar table mobile transport comprises multiple motors that allow movement within a three-dimensional coordinate system as well as provide angular controls of pitch, yaw and roll. These motors enable at least one alignment process used to install the solar table to a mounting structure within a solar system.",
+      "publicationNumber": "EP4371231",
+      "publicationDate": "2024-05-22",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "MATTHEW CAMPBELL",
+        "BRIAN COLEMAN",
+        "Tianya ZHAO",
+        "ADAM HANSEL",
+        "SOREN JENSEN"
+      ],
+      "applicationDate": "2022-09-01",
+      "claimsCount": 7,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Solar energy",
+        "Transport"
+      ],
+      "score": 15.430197
+    },
+    {
+      "id": "AU-2025237996-A1",
+      "title": [
+        "SOLAR TABLE MOBILE TRANSPORT"
+      ],
+      "abstract": "P0577AU01 A mobile transport for moving a solar table, the mobile transport comprising: a transport component having a vehicular segment and a driving system, the transport component being operable to move the solar table from a first location to a point of installation under control of the driving system; and an attachment component coupled to the transport component, the attachment component comprising at least one attaching element that securely attaches to the solar table and at least one motor that supports at least one alignment process implemented during an installation of the solar table to at least one mounting structure; wherein the at least one attaching element comprises a plurality of end effectors that couple to at least one of a torque tube, a purlin and/or a beam within the solar table with independent motion control; and wherein the attachment component extends vertically above the transport component and at a forward angle such that the at least one attaching element is located in front of the transport component.",
+      "publicationNumber": "AU2025237996",
+      "publicationDate": "2025-10-16",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "MATTHEW CAMPBELL",
+        "BRIAN COLEMAN",
+        "ADAM HANSEL",
+        "SOREN JENSEN",
+        "Tianya ZHAO"
+      ],
+      "applicationDate": "2025-09-25",
+      "claimsCount": 10,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Solar energy",
+        "Transport"
+      ],
+      "score": 15.430197
+    },
+    {
+      "id": "AU-2022340639-B2",
+      "title": [
+        "SOLAR TABLE MOBILE TRANSPORT"
+      ],
+      "abstract": "A solar table mobile transport is described that moves a solar table to a point of installation. The solar table mobile transport comprises multiple motors that allow movement within a three-dimensional coordinate system as well as provide angular controls of pitch, yaw and roll. These motors enable at least one alignment process used to install the solar table to a mounting structure within a solar system.",
+      "publicationNumber": "AU2022340639",
+      "publicationDate": "2025-06-26",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "MATTHEW CAMPBELL",
+        "BRIAN COLEMAN",
+        "ADAM HANSEL",
+        "SOREN JENSEN",
+        "Tianya ZHAO"
+      ],
+      "applicationDate": "2022-09-01",
+      "claimsCount": 18,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Solar energy",
+        "Transport"
+      ],
+      "score": 15.430197
+    },
+    {
+      "id": "AU-2022340639-A1",
+      "title": [
+        "SOLAR TABLE MOBILE TRANSPORT"
+      ],
+      "abstract": "A solar table mobile transport is described that moves a solar table to a point of installation. The solar table mobile transport comprises multiple motors that allow movement within a three-dimensional coordinate system as well as provide angular controls of pitch, yaw and roll. These motors enable at least one alignment process used to install the solar table to a mounting structure within a solar system.",
+      "publicationNumber": "AU2022340639",
+      "publicationDate": "2024-02-22",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "MATTHEW CAMPBELL",
+        "BRIAN COLEMAN",
+        "ADAM HANSEL",
+        "SOREN JENSEN",
+        "Tianya ZHAO"
+      ],
+      "applicationDate": "2022-09-01",
+      "claimsCount": 7,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Solar energy",
+        "Transport"
+      ],
+      "score": 15.430197
+    },
+    {
+      "id": "US-20260005640-A1",
+      "title": [
+        "AUTOMATED PILE MARKER"
+      ],
+      "abstract": "In a large construction site, it can be challenging to maintain precise installation for multiple piles. If the piles are not installed accurately, subsequent installation process may have to be changed, adjusted, or adapted due to the actual pile construction. System and method embodiments of pile marking for subsequent bracket installation are disclosed. A laser marker is installed on a pile in a row of piles to emit one or more laser projections onto a pile to generate one or more marks based on one or more offsets that are established during piles scanning and validation. These marks may be used to ensure correct subsequent bracket and solar table installation.",
+      "publicationNumber": "US20260005640",
+      "publicationDate": "2026-01-01",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "Brandon Roy Hunter",
+        "Adam Hansel",
+        "Soren Jensen"
+      ],
+      "applicationDate": "2025-09-04",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Measurement",
+        "Solar energy"
+      ],
+      "score": 14.85854
+    },
+    {
+      "id": "US-20240411943-A1",
+      "title": [
+        "SYSTEMS AND METHODS FOR FOUNDATION MAPPING AND REMEDIATION"
+      ],
+      "abstract": "In a large construction site, it can be very challenging to maintain precise installation for multiple piles. If the piles are not installed accurately, subsequent installation process may have to be changed, adjusted, or adapted due to the actual pile construction. Validating installed piles accurately is a very complex and laborious process. System and method embodiments of pile mapping and remediation are disclosed. Three dimensional scanning is used to establish a point cloud for each pile. The point cloud is used for calculating pile installation parameters, which are compared to designed parameters to determine parameter deviations and to generate remediation schemes, which may involve adjust subsequent installation markings or pile re-installation. The implementation of pile mapping and remediation facilitates an on-site installation process with improved efficiency.",
+      "publicationNumber": "US20240411943",
+      "publicationDate": "2024-12-12",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "Adam Hansel",
+        "Soren Jensen"
+      ],
+      "applicationDate": "2023-06-09",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 14.85854
+    },
+    {
+      "id": "IN-202417062807-A",
+      "title": [
+        "CENTRALIZED SOLAR TABLE ASSEMBLY"
+      ],
+      "abstract": "A solar table assembly unit is described that facilitates assembly of a plurality of solar tables in a location remote from a plurality of installation points within a solar system. The assembly unit comprises at least one vertical support structures that is coupled to a central support structure, an upper rail and a lower rail. The central support structure supports a torque tube having a plurality of coupling points. The upper and lower rails allow movement of solar components, such as solar panels, relative to the coupling points. Assembled solar tables may be moved to a mobile transport for subsequent delivery to installation points within the solar system.",
+      "publicationNumber": "IN202417062807",
+      "publicationDate": "2024-12-20",
+      "assignee": [
+        "TERABASE ENERGY INC"
+      ],
+      "inventors": [
+        "COLEMAN BRIAN",
+        "CAMPBELL MATTHEW",
+        "KARKHECK JOHANN FRITZ",
+        "HANSEL ADAM",
+        "JENSEN SOREN"
+      ],
+      "applicationDate": "2024-08-20",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Handling",
+        "Solar energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 14.84956
+    },
+    {
+      "id": "BR-112024014367-A2",
+      "title": [
+        "MONTAGEM DE PAINEL SOLAR CENTRALIZADO"
+      ],
+      "abstract": "",
+      "publicationNumber": "BR112024014367",
+      "publicationDate": "2024-10-15",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "MATTHEW CAMPBELL",
+        "BRIAN COLEMAN",
+        "JOHANN FRITZ KARKHECK",
+        "ADAM HANSEL",
+        "SOREN JENSEN"
+      ],
+      "applicationDate": "2023-01-19",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Handling",
+        "Solar energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 14.84956
+    },
+    {
+      "id": "US-20250236230-A1",
+      "title": [
+        "SOLAR TABLE MOBILE TRANSPORT VEHICLE WITH RACK"
+      ],
+      "abstract": "Embodiments of a solar table mobile transport vehicle capable of carrying multiple solar tables are described. Multiple solar tables may be vertically stacked on a rack. Each solar table may be supported by a pair of cantilevered beams such that the solar table may be unloaded from the rack in an unobstructed manner. The rack may be loaded on a mobile transport vehicle for transportation to a point of installation. Solar tables in the rack may be fetched by the mobile transport vehicle or another installation rover for installation. Such a capability of carrying multiple solar tables increases the installation efficiency of solar tables, especially for large solar farm constructions.",
+      "publicationNumber": "US20250236230",
+      "publicationDate": "2025-07-24",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "Tyler Grushkowitz",
+        "Noah James Wakeman Bystrom",
+        "Grant Joseph Kimzey",
+        "Adam Hansel",
+        "Soren Jensen"
+      ],
+      "applicationDate": "2024-01-24",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Transport"
+      ],
+      "score": 14.578619
+    },
+    {
+      "id": "IN-202417007984-A",
+      "title": [
+        "CENTRALIZED AND COORDINATED INSTALLATION OF SOLAR SYSTEMS"
+      ],
+      "abstract": "A system for centralized assembly and installation of large-scale solar systems is described. Embodiments of the invention transition the prior art approach of solar table assembly and installation at single location sites to a centralized and coordinated assembly factory that allows a more cost-effective and dynamic process of constructing large-scale solar systems. Additionally, embodiments of the invention provide an improved process of resource and personnel management during the construction process that improves cost and efficiency as conditions change at the construction site.",
+      "publicationNumber": "IN202417007984",
+      "publicationDate": "2024-03-22",
+      "assignee": [
+        "TERABASE ENERGY INC"
+      ],
+      "inventors": [
+        "HANSEL ADAM",
+        "CAMPBELL MATTHEW",
+        "COLEMAN BRIAN",
+        "DALY ALLAN",
+        "JENSEN SOREN",
+        "KUMAR SARIKA",
+        "KARKHECK JOHANN FRITZ"
+      ],
+      "applicationDate": "2024-02-06",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 14.578619
+    },
+    {
+      "id": "BR-112024000785-A2",
+      "title": [
+        "INSTALA\u00c7\u00c3O CENTRALIZADA E COORDENADA DE SISTEMAS SOLARES"
+      ],
+      "abstract": "",
+      "publicationNumber": "BR112024000785",
+      "publicationDate": "2024-04-09",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "MATTHEW CAMPBELL",
+        "BRIAN COLEMAN",
+        "ALLAN DALY",
+        "SOREN JENSEN",
+        "SARIKA KUMAR",
+        "ADAM HANSEL",
+        "JOHANN FRITZ KARKHECK"
+      ],
+      "applicationDate": "2022-07-26",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology",
+        "Solar energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 14.578619
+    },
+    {
+      "id": "US-20250233543-A1",
+      "title": [
+        "SELF-CLOSING PHOTOVOLTAIC MODULE-TO-TORQUE TUBE RAIL"
+      ],
+      "abstract": "In solar systems, the installation process for solar module-to-torque tube is typically implemented manually by an installer. Such a manual process negatively impacts cost-effectiveness and installation consistency, especially for large solar systems. The present invention discloses embodiments of a self-closing rail that facilitates an automatic installation process for a torque tube for improved efficiency. The self-closing rail may use various structures and functions disclosed herein to keep rail arms open such that the torque tube may be unobstructively moved to a correct position for installation. The rail arms may have a shape matching or partially matching the cross-sectional shape of the torque tube for a tight fit of the torque tube.",
+      "publicationNumber": "US20250233543",
+      "publicationDate": "2025-07-17",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "Adam Hansel"
+      ],
+      "applicationDate": "2024-09-09",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Solar energy"
+      ],
+      "score": 14.577234
+    },
+    {
+      "id": "US-20250221084-A1",
+      "title": [
+        "SYSTEMS AND METHODS FOR SOLAR PANEL TRACKING"
+      ],
+      "abstract": "Solar panels may have manufacturing defects that warrant a recall by solar panel manufacturers. Given the large quantity of solar panels in a solar farm, it is challenging to identify and track those panels affected by the recall. The present invention describes system and method embodiments for solar panel tracking for the convenience of solar panel service or replacement. Panel identifiers of solar panels in a solar table installed on an installation site of a solar farm are scanned such that the panel identifiers of the solar panels may be associated with the geographical information at the installation site. A geographical database for solar panels may be created and updated, with each panel having an entry of panel information and geographical information. When a recall is issued, involved solar panels in the solar farm may be quickly and accurately identified using the geographical database.",
+      "publicationNumber": "US20250221084",
+      "publicationDate": "2025-07-03",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "Allan Daly",
+        "Peter Long Martin",
+        "Javid Morteza Alasti",
+        "Soren Jensen"
+      ],
+      "applicationDate": "2023-12-27",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology",
+        "Semiconductors"
+      ],
+      "score": 14.577234
+    },
+    {
+      "id": "US-20250167723-A1",
+      "title": [
+        "SYSTEMS AND METHODS FOR PROTECTING A SOLAR MODULE"
+      ],
+      "abstract": "Solar panels in a solar farm may suffer damage from severe hail damage during operation. Damaged solar panels need to be repaired or replaced. Given that a solar farm is typically located in remote areas, service or replacement will inevitably take extra time and effort, resulting in additional costs. The present invention discloses systems and methods for solar module protection using protective screens covering the back sides of the solar panels to avoid or minimize severe environmental impacts. Solar panels may be rotated to a protective position with their backsides and protective screens oriented upward. Such implementation provides a practical solution to protect the solar panels from hail damage, and thus, the need for costly repairs or replacement may be avoided or minimized. As a result, the economic efficiency of solar farm operations may be improved significantly.",
+      "publicationNumber": "US20250167723",
+      "publicationDate": "2025-05-22",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "Matthew Paul Campbell"
+      ],
+      "applicationDate": "2023-11-20",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Solar energy"
+      ],
+      "score": 14.577234
+    },
+    {
+      "id": "US-20250128930-A1",
+      "title": [
+        "SOLAR TABLE MOBILE TRANSPORT WITH COLLAPSIBLE MANIPULATORS"
+      ],
+      "abstract": "Embodiments of a solar table mobile transport with collapsible manipulators are described. The collapsible manipulators may be scissor lifts, direct lifts, or pivot lifts, that couple to a torque tube of the solar table and provide at least vertical movement of the solar table. Once the mobile transport approaches an installation spot between installation piles, the mobile transport lifts the solar table by unfolding the collapsible manipulators such that that solar table may cross the pile line and the mobile transport can maneuver between the installation piles. The compactness of the mobile transport, especially when the collapsible manipulators are vertically installed, greatly enhances the maneuverability of the mobile transport within the limited space between the piles. Such a capability of mobile transport maneuverability in combination of solar table alignment facilitates an installation efficiency of the solar table.",
+      "publicationNumber": "US20250128930",
+      "publicationDate": "2025-04-24",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "Adam Hansel",
+        "Brian Coleman",
+        "Soren Jensen"
+      ],
+      "applicationDate": "2023-10-18",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Handling",
+        "Solar energy"
+      ],
+      "score": 14.577234
+    },
+    {
+      "id": "WO-2026006643-A1",
+      "title": [
+        "FULLY AUTOMATED FACTORY FOR SOLAR PLANT"
+      ],
+      "abstract": "A large solar farm comprises one or more solar arrays, each with hundreds of rows of solar modules. Construction of a solar farm is a process that typically involves labor-intensive work that requires a large amount of human effort for solar table assembling and installation. The present invention discloses fully automatic factory embodiments to improve centralized solar table assembling efficiency for large solar plants. An automatic factory may comprise a panel conveyor, a torque tube dispenser, a table assembly station, and a table delivery zone for automatic solar table assembling, dispatching, and storing. The application of the described embodiments may improve installation efficiency, assembly quality, and safety during the installation process so that the overall construction process for large solar plants may be completed efficiently and safely with high quality.",
+      "publicationNumber": "WO2026006643",
+      "publicationDate": "2026-01-02",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "ADAM HANSEL",
+        "Cedric BOSS",
+        "BRIAN COLEMAN",
+        "SOREN JENSEN"
+      ],
+      "applicationDate": "2025-06-26",
+      "claimsCount": 1,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Handling",
+        "Solar energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 14.283511
+    },
+    {
+      "id": "US-20260005644-A1",
+      "title": [
+        "FULLY AUTOMATED FACTORY FOR SOLAR PLANT"
+      ],
+      "abstract": "A large solar farm comprises one or more solar arrays, each with hundreds of rows of solar modules. Construction of a solar farm is a process that typically involves labor-intensive work that requires a large amount of human effort for solar table assembling and installation. The present invention discloses fully automatic factory embodiments to improve centralized solar table assembling efficiency for large solar plants. An automatic factory may comprise a panel conveyor, a torque tube dispenser, a table assembly station, and a table delivery zone for automatic solar table assembling, dispatching, and storing. The application of the described embodiments may improve installation efficiency, assembly quality, and safety during the installation process so that the overall construction process for large solar plants may be completed efficiently and safely with high quality.",
+      "publicationNumber": "US20260005644",
+      "publicationDate": "2026-01-01",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "Adam Hansel",
+        "Cedric Boss",
+        "Brian Coleman",
+        "Soren Jensen"
+      ],
+      "applicationDate": "2024-06-27",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Solar energy"
+      ],
+      "score": 14.283511
+    },
+    {
+      "id": "US-20250340381-A1",
+      "title": [
+        "SOLAR TABLE RACK WITH OFF-LOADER"
+      ],
+      "abstract": "Embodiments of a rack stack capable of holding multiple solar tables are described. The rack stack comprises one or more stackable solar table racks, with each solar table rack capable of holding more than one solar table. Each solar table may be supported by a pair of cantilevered beams such that the solar table may be unloaded from the rack in an unobstructed manner. The rack stack may be formed in a centralized factory and transported by a transportation vehicle, e.g., a mobile transport vehicle, a trailer, or a flatbed truck, to an offloading location near installation points of the solar tables. Solar tables in the rack stack may be fetched by a placer vehicle or a forklift via an end effector for installation. The ability of stacking multiple solar tables onto the rack stack improves solar table installation efficiency, especially for large solar farm constructions.",
+      "publicationNumber": "US20250340381",
+      "publicationDate": "2025-11-06",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "Grant Joseph Kimzey",
+        "Tyler Grushkowitz",
+        "Noah James Wakeman Bystrom",
+        "Adam Hansel"
+      ],
+      "applicationDate": "2024-05-02",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Handling"
+      ],
+      "score": 14.283511
+    },
+    {
+      "id": "US-20250085026-A1",
+      "title": [
+        "SOLAR TABLE CLAMP"
+      ],
+      "abstract": "A clamp is described that couples a torque tube and at least one solar panel within a solar table. The clamp provides an efficient attachment when in a closed position that allows transportation of the solar table from a centralized assembly location to an installation point within a large-scale solar system. The clamp further provides an efficient process solar table mobile transport is described that moves a solar table to a point of installation. The clamp may be efficiently opened by personnel at the installation point to enable access to a section of the torque tube.",
+      "publicationNumber": "US20250085026",
+      "publicationDate": "2025-03-13",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "Brian Coleman",
+        "Adam Hansel",
+        "Soren Jensen"
+      ],
+      "applicationDate": "2024-11-25",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Solar energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 14.283511
+    },
+    {
+      "id": "WO-2026006385-A1",
+      "title": [
+        "HIGH STOW SOLAR TRACKER WITH HAIL PROTECTION"
+      ],
+      "abstract": "System and method embodiments are described for solar panel protection against severe environmental impacts. A tracker controller may be configured to rotate a solar tracker comprising a group of solar panels to a safe position to diminish hail impact during a hailstorm. Such a rotation may be implemented using one or more motors to drive arc gears coupled to a pair of supporting purlins that support the group of solar panels. The tracker may comprise a bumper rail placed on the top when the tracker is at the safe position for hail impact absorption. Implementing solar panel protection provides a practical solution to protect solar panels from damage. Thus, the need for costly repair or replacement may be avoided, minimized, or decreased. As a result, the economic efficiency of solar power plant operations may be improved significantly.",
+      "publicationNumber": "WO2026006385",
+      "publicationDate": "2026-01-02",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "ADAM HANSEL",
+        "BRIAN COLEMAN",
+        "DYLAN HARPER",
+        "Johann, Fritz KARKHECK",
+        "Mark, Peter SCHROEDER",
+        "MATTHEW, PAUL CAMPBELL",
+        "SOREN JENSEN"
+      ],
+      "applicationDate": "2025-06-25",
+      "claimsCount": 1,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Solar energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 14.278034
+    },
+    {
+      "id": "US-20250392251-A1",
+      "title": [
+        "HIGH STOW SOLAR TRACKER WITH HAIL PROTECTION"
+      ],
+      "abstract": "System and method embodiments are described for solar panel protection against severe environmental impacts. A tracker controller may be configured to rotate a solar tracker comprising a group of solar panels to a safe position to diminish hail impact during a hailstorm. Such a rotation may be implemented using one or more motors to drive arc gears coupled to a pair of supporting purlins that support the group of solar panels. The tracker may comprise a bumper rail placed on the top when the tracker is at the safe position for hail impact absorption. Implementing solar panel protection provides a practical solution to protect solar panels from damage. Thus, the need for costly repair or replacement may be avoided, minimized, or decreased. As a result, the economic efficiency of solar power plant operations may be improved significantly.",
+      "publicationNumber": "US20250392251",
+      "publicationDate": "2025-12-25",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "Adam Hansel",
+        "Brian Coleman",
+        "Dylan HARPER",
+        "Johann Fritz Karkheck",
+        "Mark Peter Shroeder",
+        "Matthew Paul Campbell",
+        "Soren Jensen"
+      ],
+      "applicationDate": "2024-06-25",
+      "claimsCount": 5,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Solar energy"
+      ],
+      "score": 14.278034
+    },
+    {
+      "id": "US-20250304376-A1",
+      "title": [
+        "SYSTEMS AND METHODS FOR SOLAR PANEL ORIENTATION DURING A LOADING PROCESS ONTO A CENTRALIZED ASSEMBLY FRAMEWORK"
+      ],
+      "abstract": "A system for centralized assembly of a solar table is described in which a solar panel is autonomous or semi-autonomously removed from a crate and oriented in such a manner to allow loading the solar panel on an assembly framework with proper alignment is achieved. In some embodiments, a flipping station is used to enable this alignment. In other embodiments, a robotic arm is used with sufficient rotation and movement functionality to allow this alignment.",
+      "publicationNumber": "US20250304376",
+      "publicationDate": "2025-10-02",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "Cedric Boss",
+        "Keisuke Shono",
+        "Adam Hansel"
+      ],
+      "applicationDate": "2024-04-01",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Handling",
+        "Solar energy"
+      ],
+      "score": 14.278034
+    },
+    {
+      "id": "IN-202517048677-A",
+      "title": [
+        "DEVICES AND METHODS FOR LOADING AN ASSEMBLED SOLAR TABLE ONTO A MOBILE TRANSPORT"
+      ],
+      "abstract": "A solar table loader is described that moves an assembled solar table from an assembly frame to a mobile transport. The solar table loader comprises at least one motor that provides horizontal, vertical, and rotational movements of the solar table to facilitate onboarding of the solar table to the mobile transport.",
+      "publicationNumber": "IN202517048677",
+      "publicationDate": "2025-06-06",
+      "assignee": [
+        "TERABASE ENERGY INC"
+      ],
+      "inventors": [
+        "KARKHECK JOHANN FRITZ",
+        "KUMAR SARIKA",
+        "HANSEL ADAM",
+        "JENSEN SOREN"
+      ],
+      "applicationDate": "2025-05-20",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Handling",
+        "Solar energy",
+        "Thermal processes and apparatus",
+        "Transport"
+      ],
+      "score": 14.278034
+    },
+    {
+      "id": "US-20250343501-A1",
+      "title": [
+        "SOLAR TABLE BUFFER"
+      ],
+      "abstract": "System and method embodiments of off-loading completed solar tables from the assembly area for improved assembling efficiency are disclosed. An assembly and off-loading system may comprise an assembly stage for solar table assembling, a table buffer section, and a table off-loading section. The table buffer section is an extra section of conveyance and support to allow assembled solar tables to move out of the assembly area from the path of incoming torque tubes. The table off-loading section is where the assembled solar table is off-loaded onto a mobile transport. The table buffer section decouples the table assembly process from table off-loading, thus eliminating potential interference/blocking by table off-loading or mobile transport parking to subsequent table assembly processes. Consequently, the assembly of subsequent solar tables may be carried out without interruption or interference, and overall assembly efficiency increases.",
+      "publicationNumber": "US20250343501",
+      "publicationDate": "2025-11-06",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "Dylan HARPER",
+        "Johann Fritz Karkheck"
+      ],
+      "applicationDate": "2024-05-06",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Solar energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 14.12628
+    },
+    {
+      "id": "US-20250342412-A1",
+      "title": [
+        "USE OF RFID TECHNOLOGY, IOT AND DIGITAL TWIN TO TRACK PRODUCTION, PRODUCTIVITY, SAFETY AND QUALITY METRICS ON LARGE SOLAR PROJECTS"
+      ],
+      "abstract": "Given the remote location, large surface areas, and repetitive nature of assembling and installation works for a typical large solar project, it is vital to track production, productivity, logistics, safety, and quality to meet requirement of project cost, progress, safety, etc. The invention enables passive, real-time, objective, and accurate data feed from the field to the project supervision team (foremen, superintendents, construction managers, project managers) in a combined hardware and software product. The present disclosure describes system and method embodiments that utilize algorithms, artificial intelligence, and machine learning to translate data feed into actionable insights delivered through a hybrid edge and centralized platform. This enables appropriate actions for solar project supervision and management in a timely manner, which results in increased production rates, increased productivity, a safer work environment and a higher quality project.",
+      "publicationNumber": "US20250342412",
+      "publicationDate": "2025-11-06",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "Matthew Paul Campbell",
+        "Allan Daly",
+        "Pierre Michel Daniel Gousseland",
+        "Peter Thomas May-Ostendorp",
+        "Davin Greene Smith"
+      ],
+      "applicationDate": "2024-05-06",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "IT methods for management"
+      ],
+      "score": 14.12628
+    },
+    {
+      "id": "US-20240372501-A1",
+      "title": [
+        "AUTOMATIC WEDGE LOADER"
+      ],
+      "abstract": "During an installation of solar panels, multiple mounting brackets are attached to solar panel frames. An installer may use a wedge through module frame and mounting bracket slots to securely attach a mounting bracket to a panel frame. A typically installation process is implemented manually with a wedge loaded individually for installation. The cost-effectiveness of this approach works fine within smaller solar deployments but struggles to cost-effectively scale to large solar systems as described below. Embodiments of automatic wedge loading are disclosed for solar panel installation with improved efficiency. The implementation of automatic wedge loading provides an easy and streamlined method to reload wedges on an installation tool. An installer may continue installation process almost un-interruption with ample loaded wedge magazines.",
+      "publicationNumber": "US20240372501",
+      "publicationDate": "2024-11-07",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "Soren Jensen"
+      ],
+      "applicationDate": "2023-05-04",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Solar energy"
+      ],
+      "score": 14.12628
+    },
+    {
+      "id": "US-12136899-B1",
+      "title": [
+        "Automatic wedge loader"
+      ],
+      "abstract": "During an installation of solar panels, multiple mounting brackets are attached to solar panel frames. An installer may use a wedge through module frame and mounting bracket slots to securely attach a mounting bracket to a panel frame. A typically installation process is implemented manually with a wedge loaded individually for installation. The cost-effectiveness of this approach works fine within smaller solar deployments but struggles to cost-effectively scale to large solar systems as described below. Embodiments of automatic wedge loading are disclosed for solar panel installation with improved efficiency. The implementation of automatic wedge loading provides an easy and streamlined method to reload wedges on an installation tool. An installer may continue installation process almost un-interruption with ample loaded wedge magazines.",
+      "publicationNumber": "US12136899",
+      "publicationDate": "2024-11-05",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "Soren Jensen"
+      ],
+      "applicationDate": "2023-05-04",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Solar energy"
+      ],
+      "score": 14.12628
+    },
+    {
+      "id": "US-20250335863-A1",
+      "title": [
+        "SOLAR MODULE CRATE TRANSPORT AND MONITORING STRUCTURE"
+      ],
+      "abstract": "A solar module crate transport is described that securely moves a solar module crate within a large-scale solar system. The solar module crate transport comprises an angled base, at least three vertical support structures, at least one vehicle receptacle and at least one monitoring device. The at least one monitoring device may provide a variety of monitoring functionality that allows remote monitoring of an installation location within the large-scale solar system. This monitoring allows visibility into resources, including solar modules, and personnel at an installation location within the large-scale solar system.",
+      "publicationNumber": "US20250335863",
+      "publicationDate": "2025-10-30",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "Adam Hansel",
+        "Allan Daly",
+        "Peter Thomas May-Ostendorp",
+        "Steven Malinoski",
+        "Soren Jensen"
+      ],
+      "applicationDate": "2025-07-07",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Computer technology",
+        "Handling",
+        "IT methods for management"
+      ],
+      "score": 14.018527
+    },
+    {
+      "id": "US-20240424971-A1",
+      "title": [
+        "SOLAR TABLE MOBILE TRANSPORT WITH SIDESHIFT AND WINGS"
+      ],
+      "abstract": "A solar table mobile transport with sideshift capability is described that moves a solar table to a point of installation. The solar table mobile transport comprises multiple motors that allow movement within a three-dimensional coordinate system as well as provide angular controls of pitch, yaw, and roll. Extended horizontal movement of the solar table is provided by a sideshift element that extends the solar table beyond an edge of a transport component of the solar table mobile transport. The mobile transport may incorporate wings to prevent the solar table from rotating during transportation. The wings may be adjustable such that the solar table may be maneuvered in height and pitch/roll/yaw angle into an installation instance before unloading. Such a capability of sideshft in combination of instance adjustment facilitates an installation process of the solar table.",
+      "publicationNumber": "US20240424971",
+      "publicationDate": "2024-12-26",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "Adam Hansel",
+        "Tyler Grushkowitz",
+        "Brian Coleman",
+        "Soren Jensen"
+      ],
+      "applicationDate": "2023-09-20",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Solar energy",
+        "Transport"
+      ],
+      "score": 14.018527
+    },
+    {
+      "id": "US-20240424969-A1",
+      "title": [
+        "SOLAR TABLE MOBILE TRANSPORT WITH SIDESHIFT"
+      ],
+      "abstract": "A solar table mobile transport with sideshift capability is described that moves a solar table to a point of installation. The solar table mobile transport comprises multiple motors that allow movement within a three-dimensional coordinate system as well as provide angular controls of pitch, yaw and roll. Extended horizontal movement of the solar table is provided by a sideshift element that extends the solar table beyond an edge of a transport component of the solar table mobile transport.",
+      "publicationNumber": "US20240424969",
+      "publicationDate": "2024-12-26",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "Adam Hansel",
+        "Tyler Grushkowitz",
+        "Brian Coleman",
+        "Soren Jensen"
+      ],
+      "applicationDate": "2023-06-26",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Transport"
+      ],
+      "score": 14.018527
+    },
+    {
+      "id": "US-20240078501-A1",
+      "title": [
+        "SOLAR MODULE CRATE TRANSPORT AND MONITORING STRUCTURE"
+      ],
+      "abstract": "A solar module crate transport is described that securely moves a solar module crate within a large-scale solar system. The solar module crate transport comprises an angled base, at least three vertical support structures, at least one vehicle receptacle and at least one monitoring device. The at least one monitoring device may provide a variety of monitoring functionality that allows remote monitoring of an installation location within the large-scale solar system. This monitoring allows visibility into resources, including solar modules, and personnel at an installation location within the large-scale solar system.",
+      "publicationNumber": "US20240078501",
+      "publicationDate": "2024-03-07",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "Adam Hansel",
+        "Allan Daly",
+        "Peter May-Ostendorp",
+        "Steven Malinoski",
+        "Soren Jensen"
+      ],
+      "applicationDate": "2022-09-06",
+      "claimsCount": 23,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology",
+        "Handling",
+        "IT methods for management"
+      ],
+      "score": 14.018527
+    },
+    {
+      "id": "US-12354050-B2",
+      "title": [
+        "Solar module crate transport and monitoring structure"
+      ],
+      "abstract": "A solar module crate transport is described that securely moves a solar module crate within a large-scale solar system. The solar module crate transport comprises an angled base, at least three vertical support structures, at least one vehicle receptacle and at least one monitoring device. The at least one monitoring device may provide a variety of monitoring functionality that allows remote monitoring of an installation location within the large-scale solar system. This monitoring allows visibility into resources, including solar modules, and personnel at an installation location within the large-scale solar system.",
+      "publicationNumber": "US12354050",
+      "publicationDate": "2025-07-08",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "Adam Hansel",
+        "Allan Daly",
+        "Peter May-Ostendorp",
+        "Steven Malinoski",
+        "Soren Jensen"
+      ],
+      "applicationDate": "2022-09-06",
+      "claimsCount": 22,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Computer technology",
+        "Handling",
+        "IT methods for management"
+      ],
+      "score": 14.018527
+    },
+    {
+      "id": "US-11938576-B1",
+      "title": [
+        "Systems and methods for threading a torque tube through U-bolt and module rail devices"
+      ],
+      "abstract": "A system and method for threading a torque tube through an opening within a U-bolt and module rail device is described. The system and method provide aligned horizontal movement of the torque tube across an assembly frame resulting in the torque tube being threaded through a plurality of U-bolt and module rail devices. After the threading process is complete, the threaded U-bolt and module rail devices are secured in place on the torque tube to allow coupling of solar panels to the module rails.",
+      "publicationNumber": "US11938576",
+      "publicationDate": "2024-03-26",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "Jennifer June Bullockus",
+        "Dylan HARPER",
+        "Johann Fritz Karkheck",
+        "Adam Hansel"
+      ],
+      "applicationDate": "2022-12-20",
+      "claimsCount": 12,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Machine tools",
+        "Solar energy"
+      ],
+      "score": 14.018527
+    },
+    {
+      "id": "AU-2024309665-A1",
+      "title": [
+        "SOLAR TABLE MOBILE TRANSPORT WITH SIDESHIFT"
+      ],
+      "abstract": "",
+      "publicationNumber": "AU2024309665",
+      "publicationDate": "2025-01-02",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "BRIAN COLEMAN",
+        "Tyler GRUSHKOWITZ",
+        "ADAM HANSEL",
+        "SOREN JENSEN"
+      ],
+      "applicationDate": "2024-06-25",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Handling",
+        "Solar energy",
+        "Transport"
+      ],
+      "score": 14.018527
+    },
+    {
+      "id": "US-12466302-B2",
+      "title": [
+        "Solar table mobile transport"
+      ],
+      "abstract": "A solar table mobile transport is described that moves a solar table to a point of installation. The solar table mobile transport comprises multiple motors that allow movement within a three-dimensional coordinate system as well as provide angular controls of pitch, yaw and roll. These motors enable at least one alignment process used to install the solar table to a mounting structure within a solar system.",
+      "publicationNumber": "US12466302",
+      "publicationDate": "2025-11-11",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "Matthew Campbell",
+        "Brian Coleman",
+        "Tianyu ZHAO",
+        "Adam Hansel",
+        "Soren Jensen"
+      ],
+      "applicationDate": "2024-03-25",
+      "claimsCount": 7,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Solar energy",
+        "Thermal processes and apparatus",
+        "Transport"
+      ],
+      "score": 13.863472
+    },
+    {
+      "id": "IN-202417007985-A",
+      "title": [
+        "SOLAR TABLE MOBILE TRANSPORT"
+      ],
+      "abstract": "A solar table mobile transport is described that moves a solar table to a point of installation. The solar table mobile transport comprises multiple motors that allow movement within a three-dimensional coordinate system as well as provide angular controls of pitch, yaw and roll. These motors enable at least one alignment process used to install the solar table to a mounting structure within a solar system.",
+      "publicationNumber": "IN202417007985",
+      "publicationDate": "2024-03-08",
+      "assignee": [
+        "TERABASE ENERGY INC"
+      ],
+      "inventors": [
+        "CAMPBELL MATTHEW",
+        "COLEMAN BRIAN",
+        "ZHAO TIANYA",
+        "HANSEL ADAM",
+        "JENSEN SOREN"
+      ],
+      "applicationDate": "2024-02-06",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Solar energy"
+      ],
+      "score": 13.863472
+    },
+    {
+      "id": "BR-112024003911-A2",
+      "title": [
+        "TRANSPORTE M\u00d3VEL DE PAINEL SOLAR"
+      ],
+      "abstract": "",
+      "publicationNumber": "BR112024003911",
+      "publicationDate": "2024-06-04",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "MATTHEW CAMPBELL",
+        "BRIAN COLEMAN",
+        "TIANYA ZHAO",
+        "ADAM HANSEL",
+        "SOREN JENSEN"
+      ],
+      "applicationDate": "2022-09-01",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Solar energy",
+        "Transport"
+      ],
+      "score": 13.863472
+    },
+    {
+      "id": "US-20230238912-A1",
+      "title": [
+        "CENTRALIZED SOLAR TABLE ASSEMBLY"
+      ],
+      "abstract": "A solar table assembly unit is described that facilitates assembly of a plurality of solar tables in a location remote from a plurality of installation points within a solar system. The assembly unit comprises at least one vertical support structures that is coupled to a central support structure, an upper rail and a lower rail. The central support structure supports a torque tube having a plurality of coupling points. The upper and lower rails allow movement of solar components, such as solar panels, relative to the coupling points. Assembled solar tables may be moved to a mobile transport for subsequent delivery to installation points within the solar system.",
+      "publicationNumber": "US20230238912",
+      "publicationDate": "2023-07-27",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "Matthew Campbell",
+        "Brian Coleman",
+        "Johann Fritz Karkheck",
+        "Adam Hansel",
+        "Soren Jensen"
+      ],
+      "applicationDate": "2022-01-22",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Solar energy"
+      ],
+      "score": 13.794594
+    },
+    {
+      "id": "US-20230029665-A1",
+      "title": [
+        "CENTRALIZED AND COORDINATED INSTALLATION OF SOLAR SYSTEMS"
+      ],
+      "abstract": "A system for centralized assembly and installation of large-scale solar systems is described. Embodiments of the invention transition the prior art approach of solar table assembly and installation at single location sites to a centralized and coordinated assembly factory that allows a more cost-effective and dynamic process of constructing large-scale solar systems. Additionally, embodiments of the invention provide an improved process of resource and personnel management during the construction process that improves cost and efficiency as conditions change at the construction site.",
+      "publicationNumber": "US20230029665",
+      "publicationDate": "2023-02-02",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "Matthew Campbell",
+        "Brian Coleman",
+        "Allan Daly",
+        "Soren Jensen",
+        "Adam Hansel",
+        "Sarika Kumar",
+        "Johann Fritz Karkheck"
+      ],
+      "applicationDate": "2021-07-30",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "IT methods for management",
+        "Solar energy"
+      ],
+      "score": 13.5457325
+    },
+    {
+      "id": "US-20240053061-A1",
+      "title": [
+        "SOLAR TABLE CLAMP"
+      ],
+      "abstract": "A clamp is described that couples a torque tube and at least one solar panel within a solar table. The clamp provides an efficient attachment when in a closed position that allows transportation of the solar table from a centralized assembly location to an installation point within a large-scale solar system. The clamp further provides an efficient process solar table mobile transport is described that moves a solar table to a point of installation. The clamp may be efficiently opened by personnel at the installation point to enable access to a section of the torque tube.",
+      "publicationNumber": "US20240053061",
+      "publicationDate": "2024-02-15",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "Brian Coleman",
+        "Adam Hansel",
+        "Soren Jensen"
+      ],
+      "applicationDate": "2022-08-15",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Solar energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 13.26916
+    },
+    {
+      "id": "US-12152809-B2",
+      "title": [
+        "Solar table clamp"
+      ],
+      "abstract": "A clamp is described that couples a torque tube and at least one solar panel within a solar table. The clamp provides an efficient attachment when in a closed position that allows transportation of the solar table from a centralized assembly location to an installation point within a large-scale solar system. The clamp further provides an efficient process solar table mobile transport is described that moves a solar table to a point of installation. The clamp may be efficiently opened by personnel at the installation point to enable access to a section of the torque tube.",
+      "publicationNumber": "US12152809",
+      "publicationDate": "2024-11-26",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "Brian Coleman",
+        "Adam Hansel",
+        "Soren Jensen"
+      ],
+      "applicationDate": "2022-08-15",
+      "claimsCount": 15,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Solar energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 13.26916
+    },
+    {
+      "id": "US-20240150160-A1",
+      "title": [
+        "DEVICES AND METHODS FOR LOADING AN ASSEMBLED SOLAR TABLE ONTO A MOBILE TRANSPORT"
+      ],
+      "abstract": "A solar table loader is described that moves an assembled solar table from an assembly frame to a mobile transport. The solar table loader comprises at least one motor that provides horizontal, vertical, and rotational movements of the solar table to facilitate onboarding of the solar table to the mobile transport.",
+      "publicationNumber": "US20240150160",
+      "publicationDate": "2024-05-09",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "Johann Fritz Karkheck",
+        "Sarika Kumar",
+        "Adam Hansel",
+        "Soren Jensen"
+      ],
+      "applicationDate": "2022-11-03",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Handling"
+      ],
+      "score": 13.265945
+    },
+    {
+      "id": "US-20230066547-A1",
+      "title": [
+        "SOLAR TABLE MOBILE TRANSPORT"
+      ],
+      "abstract": "A solar table mobile transport is described that moves a solar table to a point of installation. The solar table mobile transport comprises multiple motors that allow movement within a three-dimensional coordinate system as well as provide angular controls of pitch, yaw and roll. These motors enable at least one alignment process used to install the solar table to a mounting structure within a solar system.",
+      "publicationNumber": "US20230066547",
+      "publicationDate": "2023-03-02",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "Matthew Campbell",
+        "Brian Coleman",
+        "Tianya Zhao",
+        "Adam Hansel",
+        "Soren Jensen"
+      ],
+      "applicationDate": "2021-09-01",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Solar energy",
+        "Thermal processes and apparatus",
+        "Transport"
+      ],
+      "score": 12.881453
+    },
+    {
+      "id": "US-11999284-B2",
+      "title": [
+        "Solar table mobile transport"
+      ],
+      "abstract": "A solar table mobile transport is described that moves a solar table to a point of installation. The solar table mobile transport comprises multiple motors that allow movement within a three-dimensional coordinate system as well as provide angular controls of pitch, yaw and roll. These motors enable at least one alignment process used to install the solar table to a mounting structure within a solar system.",
+      "publicationNumber": "US11999284",
+      "publicationDate": "2024-06-04",
+      "assignee": [
+        "Terabase Energy, Inc."
+      ],
+      "inventors": [
+        "Matthew Campbell",
+        "Brian Coleman",
+        "Tianya Zhao",
+        "Adam Hansel",
+        "Soren Jensen"
+      ],
+      "applicationDate": "2021-09-01",
+      "claimsCount": 18,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Solar energy",
+        "Thermal processes and apparatus",
+        "Transport"
+      ],
+      "score": 12.881453
+    }
+  ]
+}

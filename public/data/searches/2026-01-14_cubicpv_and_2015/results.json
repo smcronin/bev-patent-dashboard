@@ -1,0 +1,2492 @@
+{
+  "count": 411,
+  "numFound": 411,
+  "docs": [
+    {
+      "id": "WO-2023097089-A1",
+      "title": [
+        "LEAD-SEQUESTRATION MATERIAL FOR PEROVSKITE DEVICES"
+      ],
+      "abstract": "A composition that includes a binding material and a lead-sequestration compound attached to the binding material, the lead-sequestration compound including one or more lead binding groups selected from the group consisting of: a carboxylate, a phosphate, a sulfide, a sulfate, and any combination thereof.",
+      "publicationNumber": "WO2023097089",
+      "publicationDate": "2023-06-01",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "MICHAEL, D. IRWIN",
+        "MINH TU NGUYEN"
+      ],
+      "applicationDate": "2022-11-28",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Semiconductors",
+        "Solar energy"
+      ],
+      "score": 12.341299
+    },
+    {
+      "id": "US-20230167308-A1",
+      "title": [
+        "LEAD-SEQUESTRATION MATERIAL FOR PEROVSKITE DEVICES"
+      ],
+      "abstract": "A composition that includes a binding material and a lead-sequestration compound attached to the binding material, the lead-sequestration compound including one or more lead binding groups selected from the group consisting of: a carboxylate, a phosphate, a sulfide, a sulfate, and any combination thereof.",
+      "publicationNumber": "US20230167308",
+      "publicationDate": "2023-06-01",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "Michael D. IRWIN",
+        "Minh Tu Nguyen"
+      ],
+      "applicationDate": "2022-11-28",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Basic materials chemistry"
+      ],
+      "score": 12.341299
+    },
+    {
+      "id": "MX-2024006441-A",
+      "title": [
+        "LEAD-SEQUESTRATION MATERIAL FOR PEROVSKITE DEVICES."
+      ],
+      "abstract": "A composition that includes a binding material and a lead-sequestration compound attached to the binding material, the lead-sequestration compound including one or more lead binding groups selected from the group consisting of: a carboxylate, a phosphate, a sulfide, a sulfate, and any combination thereof.",
+      "publicationNumber": "MX2024006441",
+      "publicationDate": "2024-06-19",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "IRWIN MICHAEL D.",
+        "NGUYEN MINH TU"
+      ],
+      "applicationDate": "2022-11-28",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Semiconductors",
+        "Solar energy"
+      ],
+      "score": 12.341299
+    },
+    {
+      "id": "EP-4437046-A4",
+      "title": [
+        "LEAD-SEQUESTRATION MATERIAL FOR PEROVSKITE DEVICES"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP4437046",
+      "publicationDate": "2025-10-22",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "MICHAEL, D. IRWIN",
+        "MINH TU NGUYEN"
+      ],
+      "applicationDate": "2022-11-28",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Semiconductors"
+      ],
+      "score": 12.341299
+    },
+    {
+      "id": "EP-4437046-A1",
+      "title": [
+        "LEAD-SEQUESTRATION MATERIAL FOR PEROVSKITE DEVICES"
+      ],
+      "abstract": "A composition that includes a binding material and a lead-sequestration compound attached to the binding material, the lead-sequestration compound including one or more lead binding groups selected from the group consisting of: a carboxylate, a phosphate, a sulfide, a sulfate, and any combination thereof.",
+      "publicationNumber": "EP4437046",
+      "publicationDate": "2024-10-02",
+      "assignee": [
+        "CubicPV Inc."
+      ],
+      "inventors": [
+        "MICHAEL, D. IRWIN",
+        "MINH TU NGUYEN"
+      ],
+      "applicationDate": "2022-11-28",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Semiconductors",
+        "Solar energy"
+      ],
+      "score": 12.341299
+    },
+    {
+      "id": "AU-2022396298-A1",
+      "title": [
+        "LEAD-SEQUESTRATION MATERIAL FOR PEROVSKITE DEVICES"
+      ],
+      "abstract": "A composition that includes a binding material and a lead-sequestration compound attached to the binding material, the lead-sequestration compound including one or more lead binding groups selected from the group consisting of: a carboxylate, a phosphate, a sulfide, a sulfate, and any combination thereof.",
+      "publicationNumber": "AU2022396298",
+      "publicationDate": "2024-06-06",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "MICHAEL, D. IRWIN",
+        "MINH TU NGUYEN"
+      ],
+      "applicationDate": "2022-11-28",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Semiconductors",
+        "Solar energy"
+      ],
+      "score": 12.341299
+    },
+    {
+      "id": "MX-2022006349-A",
+      "title": [
+        "REUSABLE INTERFACE FOR SOLAR CELL TEST AND CHARACTERIZATION."
+      ],
+      "abstract": "Reusable interfaces and methods for photosensitive device testing are disclosed. The reusable interface includes a removable lid, an opening, a bed configured to hold one or more photosensitive devices. The electrically conductive contacts are configured to interface with the one or more photosensitive devices.",
+      "publicationNumber": "MX2022006349",
+      "publicationDate": "2022-09-09",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "IRWIN MICHAEL DAVID",
+        "LOVELACE JEROME R."
+      ],
+      "applicationDate": "2020-11-27",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Measurement",
+        "Medical technology",
+        "Solar energy"
+      ],
+      "score": 12.000157
+    },
+    {
+      "id": "EP-4066377-A4",
+      "title": [
+        "REUSABLE INTERFACE FOR SOLAR CELL TEST AND CHARACTERIZATION"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP4066377",
+      "publicationDate": "2024-03-06",
+      "assignee": [
+        "CubicPV Inc."
+      ],
+      "inventors": [
+        "MICHAEL DAVID IRWIN",
+        "JEROME R. LOVELACE"
+      ],
+      "applicationDate": "2020-11-27",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Measurement",
+        "Solar energy"
+      ],
+      "score": 12.000157
+    },
+    {
+      "id": "EP-4066377-A1",
+      "title": [
+        "REUSABLE INTERFACE FOR SOLAR CELL TEST AND CHARACTERIZATION"
+      ],
+      "abstract": "Reusable interfaces and methods for photosensitive device testing are disclosed. The reusable interface includes a removable lid, an opening, a bed configured to hold one or more photosensitive devices. The electrically conductive contacts are configured to interface with the one or more photosensitive devices.",
+      "publicationNumber": "EP4066377",
+      "publicationDate": "2022-10-05",
+      "assignee": [
+        "CubicPV Inc."
+      ],
+      "inventors": [
+        "MICHAEL DAVID IRWIN",
+        "JEROME R. LOVELACE"
+      ],
+      "applicationDate": "2020-11-27",
+      "claimsCount": 21,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Measurement",
+        "Solar energy"
+      ],
+      "score": 12.000157
+    },
+    {
+      "id": "AU-2020391512-A1",
+      "title": [
+        "Reusable interface for solar cell test and characterization"
+      ],
+      "abstract": "Reusable interfaces and methods for photosensitive device testing are disclosed. The reusable interface includes a removable lid, an opening, a bed configured to hold one or more photosensitive devices. The electrically conductive contacts are configured to interface with the one or more photosensitive devices.",
+      "publicationNumber": "AU2020391512",
+      "publicationDate": "2022-06-09",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "MICHAEL DAVID IRWIN",
+        "JEROME R. LOVELACE"
+      ],
+      "applicationDate": "2020-11-27",
+      "claimsCount": 21,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Measurement",
+        "Solar energy"
+      ],
+      "score": 12.000157
+    },
+    {
+      "id": "US-10549476-B2",
+      "title": [
+        "Methods and apparati for handling, heating and cooling a substrate upon which a pattern is made by a tool in heat flowable material coating, including substrate transport, tool laydown, tool tensioning and tool retraction"
+      ],
+      "abstract": "A workpiece is transported using a porous belt, which belt delivers a workpiece to a chuck, upon which the workpiece is held by vacuum. The belt can be porous PTFE. A flexible stamp is preheated, before it is applied to a workpiece, by drawing the stamp toward a heated plate, for instance by vacuum.",
+      "publicationNumber": "US10549476",
+      "publicationDate": "2020-02-04",
+      "assignee": [
+        "1366 TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "Emanuel M. Sachs",
+        "Peter E. Kane",
+        "Holly G. Gates",
+        "Damian W. Harris",
+        "Benjamin F. Polito",
+        "Hector A. Inirio"
+      ],
+      "applicationDate": "2012-09-22",
+      "claimsCount": 15,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Optics",
+        "Other special machines"
+      ],
+      "score": 11.602308
+    },
+    {
+      "id": "WO-2023097087-A1",
+      "title": [
+        "METHODS FOR FORMING PEROVSKITE MATERIAL LAYERS"
+      ],
+      "abstract": "A method including depositing a lead halide precursor ink onto a substrate; drying the lead halide precursor ink to form a first thin film; annealing the first thin film; and forming a perovskite material layer, wherein forming the perovskite material layer includes: depositing a benzylammonium halide precursor ink onto the first thin film; drying the benzylammonium halide precursor ink; depositing a formamidinium halide precursor ink onto the benzylammonium halide precursor ink; drying the formamidinium halide precursor ink to form a second thin film; and annealing the second thin film.",
+      "publicationNumber": "WO2023097087",
+      "publicationDate": "2023-06-01",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "MICHAEL D. IRWIN",
+        "MINH TU NGUYEN",
+        "VIVEK V. DHAS",
+        "ERIN SANEHIRA",
+        "Marissa MITCHELL"
+      ],
+      "applicationDate": "2022-11-28",
+      "claimsCount": 1,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Semiconductors"
+      ],
+      "score": 11.459689
+    },
+    {
+      "id": "US-20230167326-A1",
+      "title": [
+        "Methods for Forming Perovskite Material Layers"
+      ],
+      "abstract": "A method including depositing a lead halide precursor ink onto a substrate; drying the lead halide precursor ink to form a first thin film; annealing the first thin film; and forming a perovskite material layer, wherein forming the perovskite material layer includes: depositing a benzylammonium halide precursor ink onto the first thin film; drying the benzylammonium halide precursor ink; depositing a formamidinium halide precursor ink onto the benzylammonium halide precursor ink; drying the formamidinium halide precursor ink to form a second thin film; and annealing the second thin film.",
+      "publicationNumber": "US20230167326",
+      "publicationDate": "2023-06-01",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "Michael D. IRWIN",
+        "Minh Tu Nguyen",
+        "Vivek V. Dhas",
+        "Erin Senehira",
+        "Marissa Mitchell"
+      ],
+      "applicationDate": "2022-11-28",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Materials, metallurgy"
+      ],
+      "score": 11.459689
+    },
+    {
+      "id": "MX-2024006442-A",
+      "title": [
+        "METHODS FOR FORMING PEROVSKITE MATERIAL LAYERS."
+      ],
+      "abstract": "A method including depositing a lead halide precursor ink onto a substrate; drying the lead halide precursor ink to form a first thin film; annealing the first thin film; and forming a perovskite material layer, wherein forming the perovskite material layer includes: depositing a benzylammonium halide precursor ink onto the first thin film; drying the benzylammonium halide precursor ink; depositing a formamidinium halide precursor ink onto the benzylammonium halide precursor ink; drying the formamidinium halide precursor ink to form a second thin film; and annealing the second thin film.",
+      "publicationNumber": "MX2024006442",
+      "publicationDate": "2024-06-19",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "IRWIN MICHAEL D.",
+        "DHAS VIVEK V.",
+        "SANEHIRA ERIN",
+        "NGUYEN MINH TU",
+        "MITCHELL MARISSA"
+      ],
+      "applicationDate": "2022-11-28",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Materials, metallurgy",
+        "Semiconductors"
+      ],
+      "score": 11.459689
+    },
+    {
+      "id": "MX-2022006367-A",
+      "title": [
+        "2D PEROVSKITE TANDEM PHOTOVOLTAIC DEVICES."
+      ],
+      "abstract": "A photovoltaic device includes a first electrode, a first photoactive material layer, one or more interfacial layers, a second photoactive material layer comprising a 2-D perovskite material having the formula (C&apos;)\u00ce\u00b1(C)<i>b</i>M<i>n</i>X3<i>n</i>+1 and a second electrode. C&apos; is a bulky organic cation, C is a small organic or inorganic cation, M is a metal, X is a halide, \u00ce\u00b1 and<i> b</i> are real numbers, and <i>n</i> is an integer.",
+      "publicationNumber": "MX2022006367",
+      "publicationDate": "2022-09-09",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "IRWIN MICHAEL DAVID",
+        "MIELCZAREK KAMIL",
+        "CAO DUYEN HANH"
+      ],
+      "applicationDate": "2020-11-20",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Semiconductors"
+      ],
+      "score": 11.459689
+    },
+    {
+      "id": "MX-2022006339-A",
+      "title": [
+        "NON-FULLERENE ACCEPTORS (NFAS) AS INTERFACIAL LAYERS IN PEROVSKITE SEMICONDUCTOR DEVICES."
+      ],
+      "abstract": "A method for producing an organic non-fullerene electron transport compound includes mixing naphthalene-1,4,5,8-tetracarboxylic dianhydride and an amine compound in dimethylformamide. The method also includes heating the mixture to a temperature greater than or equal to 70\u00c2\u00b0 and less than or equal to 160\u00c2\u00b0 C for an amount of time greater than or equal to 1 hour and less than or equal to 24 hours. The method further includes isolating an organic non-fullerene electron transport compound reaction product.",
+      "publicationNumber": "MX2022006339",
+      "publicationDate": "2022-09-09",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "IRWIN MICHAEL DAVID",
+        "NGUYEN MINH TU",
+        "MIELCZAREK KAMIL"
+      ],
+      "applicationDate": "2020-11-23",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Organic fine chemistry",
+        "Semiconductors"
+      ],
+      "score": 11.459689
+    },
+    {
+      "id": "EP-4437812-A4",
+      "title": [
+        "METHODS FOR FORMING PEROVSKITE MATERIAL LAYERS"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP4437812",
+      "publicationDate": "2025-10-08",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "MICHAEL D. IRWIN",
+        "MINH TU NGUYEN",
+        "VIVEK V. DHAS",
+        "ERIN SANEHIRA",
+        "Marissa MITCHELL"
+      ],
+      "applicationDate": "2022-11-28",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Materials, metallurgy",
+        "Semiconductors"
+      ],
+      "score": 11.459689
+    },
+    {
+      "id": "EP-4437812-A1",
+      "title": [
+        "METHODS FOR FORMING PEROVSKITE MATERIAL LAYERS"
+      ],
+      "abstract": "A method including depositing a lead halide precursor ink onto a substrate; drying the lead halide precursor ink to form a first thin film; annealing the first thin film; and forming a perovskite material layer, wherein forming the perovskite material layer includes: depositing a benzylammonium halide precursor ink onto the first thin film; drying the benzylammonium halide precursor ink; depositing a formamidinium halide precursor ink onto the benzylammonium halide precursor ink; drying the formamidinium halide precursor ink to form a second thin film; and annealing the second thin film.",
+      "publicationNumber": "EP4437812",
+      "publicationDate": "2024-10-02",
+      "assignee": [
+        "CubicPV Inc."
+      ],
+      "inventors": [
+        "MICHAEL D. IRWIN",
+        "MINH TU NGUYEN",
+        "VIVEK V. DHAS",
+        "ERIN SANEHIRA",
+        "Marissa MITCHELL"
+      ],
+      "applicationDate": "2022-11-28",
+      "claimsCount": 1,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Semiconductors"
+      ],
+      "score": 11.459689
+    },
+    {
+      "id": "EP-4066284-A4",
+      "title": [
+        "2D PEROVSKITE TANDEM PHOTOVOLTAIC DEVICES"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP4066284",
+      "publicationDate": "2023-12-20",
+      "assignee": [
+        "CubicPV Inc."
+      ],
+      "inventors": [
+        "MICHAEL DAVID IRWIN",
+        "DUYEN HANH CAO",
+        "Kamil MIELCZAREK"
+      ],
+      "applicationDate": "2020-11-20",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Semiconductors"
+      ],
+      "score": 11.459689
+    },
+    {
+      "id": "EP-4066284-A1",
+      "title": [
+        "2D PEROVSKITE TANDEM PHOTOVOLTAIC DEVICES"
+      ],
+      "abstract": "A photovoltaic device includes a first electrode, a first photoactive material layer, one or more interfacial layers, a second photoactive material layer comprising a 2-D perovskite material having the formula (C&apos;)\u03b1(C)bMnX3n+1 and a second electrode. C&apos; is a bulky organic cation, C is a small organic or inorganic cation, M is a metal, X is a halide, \u03b1 and b are real numbers, and n is an integer.",
+      "publicationNumber": "EP4066284",
+      "publicationDate": "2022-10-05",
+      "assignee": [
+        "CubicPV Inc."
+      ],
+      "inventors": [
+        "MICHAEL DAVID IRWIN",
+        "DUYEN HANH CAO",
+        "Kamil MIELCZAREK"
+      ],
+      "applicationDate": "2020-11-20",
+      "claimsCount": 30,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Semiconductors"
+      ],
+      "score": 11.459689
+    },
+    {
+      "id": "EP-4065580-A4",
+      "title": [
+        "NON-FULLERENE ACCEPTORS (NFAS) AS INTERFACIAL LAYERS IN PEROVSKITE SEMICONDUCTOR DEVICES"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP4065580",
+      "publicationDate": "2024-01-10",
+      "assignee": [
+        "CubicPV Inc."
+      ],
+      "inventors": [
+        "MICHAEL DAVID IRWIN",
+        "MINH TU NGUYEN",
+        "Kamil MIELCZAREK"
+      ],
+      "applicationDate": "2020-11-23",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Organic fine chemistry",
+        "Semiconductors"
+      ],
+      "score": 11.459689
+    },
+    {
+      "id": "EP-4065580-A1",
+      "title": [
+        "NON-FULLERENE ACCEPTORS (NFAS) AS INTERFACIAL LAYERS IN PEROVSKITE SEMICONDUCTOR DEVICES"
+      ],
+      "abstract": "A method for producing an organic non-fullerene electron transport compound includes mixing naphthalene-1,4,5,8-tetracarboxylic dianhydride and an amine compound in dimethylformamide. The method also includes heating the mixture to a temperature greater than or equal to 70\u00b0 and less than or equal to 160\u00b0 C for an amount of time greater than or equal to 1 hour and less than or equal to 24 hours. The method further includes isolating an organic non-fullerene electron transport compound reaction product.",
+      "publicationNumber": "EP4065580",
+      "publicationDate": "2022-10-05",
+      "assignee": [
+        "CubicPV Inc."
+      ],
+      "inventors": [
+        "MICHAEL DAVID IRWIN",
+        "MINH TU NGUYEN",
+        "Kamil MIELCZAREK"
+      ],
+      "applicationDate": "2020-11-23",
+      "claimsCount": 30,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Organic fine chemistry",
+        "Semiconductors"
+      ],
+      "score": 11.459689
+    },
+    {
+      "id": "AU-2022398322-A1",
+      "title": [
+        "METHODS FOR FORMING PEROVSKITE MATERIAL LAYERS"
+      ],
+      "abstract": "A method including depositing a lead halide precursor ink onto a substrate; drying the lead halide precursor ink to form a first thin film; annealing the first thin film; and forming a perovskite material layer, wherein forming the perovskite material layer includes: depositing a benzylammonium halide precursor ink onto the first thin film; drying the benzylammonium halide precursor ink; depositing a formamidinium halide precursor ink onto the benzylammonium halide precursor ink; drying the formamidinium halide precursor ink to form a second thin film; and annealing the second thin film.",
+      "publicationNumber": "AU2022398322",
+      "publicationDate": "2024-06-06",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "VIVEK V. DHAS",
+        "MICHAEL D. IRWIN",
+        "Marissa MITCHELL",
+        "MINH TU NGUYEN",
+        "ERIN SANEHIRA"
+      ],
+      "applicationDate": "2022-11-28",
+      "claimsCount": 1,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Semiconductors"
+      ],
+      "score": 11.459689
+    },
+    {
+      "id": "AU-2020394379-A1",
+      "title": [
+        "Non-fullerene acceptors (NFAs) as interfacial layers in perovskite semiconductor devices"
+      ],
+      "abstract": "A method for producing an organic non-fullerene electron transport compound includes mixing naphthalene-1,4,5,8-tetracarboxylic dianhydride and an amine compound in dimethylformamide. The method also includes heating the mixture to a temperature greater than or equal to 70\u00b0 and less than or equal to 160\u00b0 C for an amount of time greater than or equal to 1 hour and less than or equal to 24 hours. The method further includes isolating an organic non-fullerene electron transport compound reaction product.",
+      "publicationNumber": "AU2020394379",
+      "publicationDate": "2022-06-09",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "MICHAEL DAVID IRWIN",
+        "Kamil MIELCZAREK",
+        "MINH TU NGUYEN"
+      ],
+      "applicationDate": "2020-11-23",
+      "claimsCount": 30,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Organic fine chemistry",
+        "Semiconductors"
+      ],
+      "score": 11.459689
+    },
+    {
+      "id": "AU-2020391436-A1",
+      "title": [
+        "2D perovskite tandem photovoltaic devices"
+      ],
+      "abstract": "A photovoltaic device includes a first electrode, a first photoactive material layer, one or more interfacial layers, a second photoactive material layer comprising a 2-D perovskite material having the formula (C&apos;)\u03b1(C)",
+      "publicationNumber": "AU2020391436",
+      "publicationDate": "2022-06-09",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "DUYEN HANH CAO",
+        "MICHAEL DAVID IRWIN",
+        "Kamil MIELCZAREK"
+      ],
+      "applicationDate": "2020-11-20",
+      "claimsCount": 30,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Semiconductors"
+      ],
+      "score": 11.459689
+    },
+    {
+      "id": "EP-3883939-C0",
+      "title": [
+        "ENHANCED PEROVSKITE MATERIALS FOR PHOTOVOLTAIC DEVICES"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP3883939",
+      "publicationDate": "2025-11-26",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "MICHAEL, D. IRWIN",
+        "MICHAEL HOLLAND",
+        "NICHOLAS ANDERSON"
+      ],
+      "applicationDate": "2019-11-08",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Organic fine chemistry",
+        "Semiconductors",
+        "Surface technology, coating"
+      ],
+      "score": 11.399877
+    },
+    {
+      "id": "AU-2019384692-B2",
+      "title": [
+        "Enhanced perovskite materials for photovoltaic devices"
+      ],
+      "abstract": "",
+      "publicationNumber": "AU2019384692",
+      "publicationDate": "2025-09-11",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "NICHOLAS ANDERSON",
+        "MICHAEL HOLLAND",
+        "MICHAEL D. IRWIN"
+      ],
+      "applicationDate": "2019-11-08",
+      "claimsCount": 20,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Organic fine chemistry",
+        "Semiconductors"
+      ],
+      "score": 11.399877
+    },
+    {
+      "id": "AU-2019384692-A8",
+      "title": [
+        "Enhanced perovskite materials for photovoltaic devices"
+      ],
+      "abstract": "A perovskite material that has a perovskite crystal lattice having a formula of C",
+      "publicationNumber": "AU2019384692",
+      "publicationDate": "2021-06-10",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "NICHOLAS ANDERSON",
+        "MICHAEL HOLLAND",
+        "MICHAEL D. IRWIN"
+      ],
+      "applicationDate": "2019-11-08",
+      "claimsCount": 30,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Organic fine chemistry",
+        "Semiconductors",
+        "Solar energy"
+      ],
+      "score": 11.399877
+    },
+    {
+      "id": "AU-2019383351-A8",
+      "title": [
+        "Enhanced perovskite materials for photovoltaic devices"
+      ],
+      "abstract": "A perovskite material that has a perovskite crystal lattice having a formula of C",
+      "publicationNumber": "AU2019383351",
+      "publicationDate": "2021-06-10",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "NICHOLAS ANDERSON",
+        "MICHAEL HOLLAND",
+        "MICHAEL D. IRWIN"
+      ],
+      "applicationDate": "2019-11-08",
+      "claimsCount": 30,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Organic fine chemistry",
+        "Semiconductors",
+        "Solar energy"
+      ],
+      "score": 11.399877
+    },
+    {
+      "id": "WO-2023215617-A1",
+      "title": [
+        "IONIC LIQUID PEROVSKITE DEVICES"
+      ],
+      "abstract": "A method including forming a lead halide precursor ink comprising a group 1 metal halide, a lead halide, an ionic liquid, and a solvent; depositing the lead halide precursor ink onto a substrate; drying the lead halide precursor ink to form a lead halide film; and annealing the lead halide film.",
+      "publicationNumber": "WO2023215617",
+      "publicationDate": "2023-11-09",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "ZHAOFU FEI",
+        "MICHAEL D. IRWIN",
+        "Xiao-xin GAO",
+        "Paul J. DYSON",
+        "MOHAMMAD KHAJA NAZEERUDDIN"
+      ],
+      "applicationDate": "2023-05-05",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Semiconductors"
+      ],
+      "score": 11.397963
+    },
+    {
+      "id": "US-20250289998-A1",
+      "title": [
+        "IONIC LIQUID PEROVSKITE DEVICES"
+      ],
+      "abstract": "A method including forming a lead halide precursor ink comprising a group 1 metal halide, a lead halide, an ionic liquid, and a solvent; depositing the lead halide precursor ink onto a substrate; drying the lead halide precursor ink to form a lead halide film; and annealing the lead halide film.",
+      "publicationNumber": "US20250289998",
+      "publicationDate": "2025-09-18",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "Michael D. IRWIN",
+        "Xiao-Xin GAO",
+        "Zhaofu Fei",
+        "Paul J. DYSON",
+        "Mohammad Khaja Nazeeruddin"
+      ],
+      "applicationDate": "2025-03-20",
+      "claimsCount": 19,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Surface technology, coating"
+      ],
+      "score": 11.397963
+    },
+    {
+      "id": "US-20230357632-A1",
+      "title": [
+        "IONIC LIQUID PEROVSKITE DEVICES"
+      ],
+      "abstract": "A method including forming a lead halide precursor ink comprising a group 1 metal halide, a lead halide, an ionic liquid, and a solvent; depositing the lead halide precursor ink onto a substrate; drying the lead halide precursor ink to form a lead halide film; and annealing the lead halide film.",
+      "publicationNumber": "US20230357632",
+      "publicationDate": "2023-11-09",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "Michael D. IRWIN",
+        "Xiao-Xin GAO",
+        "Zhaofu Fei",
+        "Paul J. DYSON",
+        "Mohammad Khaja Nazeeruddin"
+      ],
+      "applicationDate": "2023-05-05",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Surface technology, coating"
+      ],
+      "score": 11.397963
+    },
+    {
+      "id": "PL-3884080-T3",
+      "title": [
+        "NICKEL OXIDE SOL-GEL INK"
+      ],
+      "abstract": "",
+      "publicationNumber": "PL3884080",
+      "publicationDate": "2024-09-09",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "MICHAEL D. IRWIN",
+        "ERIN SANEHIRA"
+      ],
+      "applicationDate": "2019-11-14",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Materials, metallurgy",
+        "Semiconductors",
+        "Surface technology, coating"
+      ],
+      "score": 11.397963
+    },
+    {
+      "id": "MX-2024013681-A",
+      "title": [
+        "IONIC LIQUID PEROVSKITE DEVICES"
+      ],
+      "abstract": "A method including forming a lead halide precursor ink comprising a group 1 metal halide, a lead halide, an ionic liquid, and a solvent; depositing the lead halide precursor ink onto a substrate; drying the lead halide precursor ink to form a lead halide film; and annealing the lead halide film.",
+      "publicationNumber": "MX2024013681",
+      "publicationDate": "2025-02-10",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "FEI ZHAOFU",
+        "IRWIN MICHAEL D.",
+        "GAO XIAO - XIN",
+        "DYSON PAUL J.",
+        "NAZEERUDDIN MOHAMMAD KHAJA"
+      ],
+      "applicationDate": "2024-11-05",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Semiconductors"
+      ],
+      "score": 11.397963
+    },
+    {
+      "id": "ES-2984027-T3",
+      "title": [
+        "Tinta sol-gel de \u00f3xido de n\u00edquel"
+      ],
+      "abstract": "Una composici\u00f3n para usar en una preparaci\u00f3n de una capa de \u00f3xido de n\u00edquel que incluye Ni(N03)2.nH2O, donde n es 0, 4, 6 o 9, al menos un acetato de metal y una combinaci\u00f3n de disolventes que incluye un diol, una amina alcoh\u00f3lica y agua. (Traducci\u00f3n autom\u00e1tica con Google Translate, sin valor legal)",
+      "publicationNumber": "ES2984027",
+      "publicationDate": "2024-10-28",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "MICHAEL IRWIN",
+        "ERIN SANEHIRA"
+      ],
+      "applicationDate": "2019-11-14",
+      "claimsCount": 12,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Materials, metallurgy",
+        "Semiconductors",
+        "Surface technology, coating"
+      ],
+      "score": 11.397963
+    },
+    {
+      "id": "EP-4520147-A1",
+      "title": [
+        "IONIC LIQUID PEROVSKITE DEVICES"
+      ],
+      "abstract": "A method including forming a lead halide precursor ink comprising a group 1 metal halide, a lead halide, an ionic liquid, and a solvent; depositing the lead halide precursor ink onto a substrate; drying the lead halide precursor ink to form a lead halide film; and annealing the lead halide film.",
+      "publicationNumber": "EP4520147",
+      "publicationDate": "2025-03-12",
+      "assignee": [
+        "CubicPV Inc."
+      ],
+      "inventors": [
+        "MICHAEL D. IRWIN",
+        "Xiao-xin GAO",
+        "ZHAOFU FEI",
+        "Paul J. DYSON",
+        "MOHAMMAD KHAJA NAZEERUDDIN"
+      ],
+      "applicationDate": "2023-05-05",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Semiconductors"
+      ],
+      "score": 11.397963
+    },
+    {
+      "id": "EP-4422378-A3",
+      "title": [
+        "NICKEL OXIDE SOL-GEL INK"
+      ],
+      "abstract": "The invention relates to a method for preparing a nickel oxide precursor ink, the method comprising: preparing a solvent comprising diols and alcohol amines; adding nickel nitrate into the solvent to form a nickel nitrate containing solution; adding at least one metal acetate into the nickel nitrate containing solution to form a nickel nitrate and metal acetate containing solution; adding water to the nickel nitrate and metal acetate containing solution to form a nickel oxide precursor mixture; heating the nickel oxide precursor mixture to 60 to 75 Celsius; and cooling the nickel oxide precursor mixture to form the nickel oxide precursor ink.",
+      "publicationNumber": "EP4422378",
+      "publicationDate": "2024-11-27",
+      "assignee": [
+        "CubicPV Inc."
+      ],
+      "inventors": [
+        "MICHAEL, D. IRWIN",
+        "ERIN SANEHIRA"
+      ],
+      "applicationDate": "2019-11-14",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Materials, metallurgy",
+        "Semiconductors",
+        "Surface technology, coating"
+      ],
+      "score": 11.397963
+    },
+    {
+      "id": "EP-4422378-A2",
+      "title": [
+        "NICKEL OXIDE SOL-GEL INK"
+      ],
+      "abstract": "The invention relates to a method for preparing a nickel oxide precursor ink, the method comprising: preparing a solvent comprising diols and alcohol amines; adding nickel nitrate into the solvent to form a nickel nitrate containing solution; adding at least one metal acetate into the nickel nitrate containing solution to form a nickel nitrate and metal acetate containing solution; adding water to the nickel nitrate and metal acetate containing solution to form a nickel oxide precursor mixture; heating the nickel oxide precursor mixture to 60 to 75 Celsius; and cooling the nickel oxide precursor mixture to form the nickel oxide precursor ink.",
+      "publicationNumber": "EP4422378",
+      "publicationDate": "2024-08-28",
+      "assignee": [
+        "CubicPV Inc."
+      ],
+      "inventors": [
+        "MICHAEL, D. IRWIN",
+        "ERIN SANEHIRA"
+      ],
+      "applicationDate": "2019-11-14",
+      "claimsCount": 14,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Semiconductors"
+      ],
+      "score": 11.397963
+    },
+    {
+      "id": "EP-3884080-C0",
+      "title": [
+        "NICKEL OXIDE SOL-GEL INK"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP3884080",
+      "publicationDate": "2024-07-10",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "MICHAEL, D. IRWIN",
+        "ERIN SANEHIRA"
+      ],
+      "applicationDate": "2019-11-14",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Materials, metallurgy",
+        "Semiconductors",
+        "Surface technology, coating"
+      ],
+      "score": 11.397963
+    },
+    {
+      "id": "AU-2023264045-A1",
+      "title": [
+        "IONIC LIQUID PEROVSKITE DEVICES"
+      ],
+      "abstract": "A method including forming a lead halide precursor ink comprising a group 1 metal halide, a lead halide, an ionic liquid, and a solvent; depositing the lead halide precursor ink onto a substrate; drying the lead halide precursor ink to form a lead halide film; and annealing the lead halide film.",
+      "publicationNumber": "AU2023264045",
+      "publicationDate": "2024-11-21",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "Paul J. DYSON",
+        "ZHAOFU FEI",
+        "Xiao-xin GAO",
+        "MICHAEL D. IRWIN",
+        "MOHAMMAD KHAJA NAZEERUDDIN"
+      ],
+      "applicationDate": "2023-05-05",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Semiconductors"
+      ],
+      "score": 11.397963
+    },
+    {
+      "id": "AU-2019384104-B2",
+      "title": [
+        "Nickel oxide sol-gel ink"
+      ],
+      "abstract": "",
+      "publicationNumber": "AU2019384104",
+      "publicationDate": "2025-09-04",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "MICHAEL D. IRWIN",
+        "ERIN SANEHIRA"
+      ],
+      "applicationDate": "2019-11-14",
+      "claimsCount": 20,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Surface technology, coating"
+      ],
+      "score": 11.397963
+    },
+    {
+      "id": "AU-2019384104-A1",
+      "title": [
+        "Nickel oxide sol-gel ink"
+      ],
+      "abstract": "A composition for use in a preparation of a nickel oxide layer that includes Ni(N0",
+      "publicationNumber": "AU2019384104",
+      "publicationDate": "2021-06-10",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "MICHAEL D. IRWIN",
+        "ERIN SANEHIRA"
+      ],
+      "applicationDate": "2019-11-14",
+      "claimsCount": 30,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Semiconductors",
+        "Surface technology, coating"
+      ],
+      "score": 11.397963
+    },
+    {
+      "id": "VN-109965-A1",
+      "title": [
+        "THI\u1ebeT B\u1eca PEROVSKIT V\u00c0 CH\u1ebe PH\u1ea8M CH\u1ee8A H\u1ee2P CH\u1ea4T C\u00c0NG HO\u00c1 CH\u00cc, V\u00c0 PH\u01af\u01a0NG PH\u00c1P T\u1ea0O RA L\u1edaP V\u1eacT LI\u1ec6U C\u00c0NG HO\u00c1 CH\u00cc"
+      ],
+      "abstract": "Ch\u1ebf ph\u1ea9m bao g\u1ed3m v\u1eadt li\u1ec7u li\u00ean k\u1ebft v\u00e0 h\u1ee3p ch\u1ea5t c\u00e0ng h\u00f3a ch\u00ec g\u1eafn v\u1edbi v\u1eadt li\u1ec7u li\u00ean k\u1ebft, h\u1ee3p ch\u1ea5t c\u00e0ng h\u00f3a ch\u00ec n\u00e0y bao g\u1ed3m m\u1ed9t ho\u1eb7c nhi\u1ec1u nh\u00f3m li\u00ean k\u1ebft ch\u00ec \u0111\u01b0\u1ee3c ch\u1ecdn t\u1eeb nh\u00f3m bao g\u1ed3m: carboxylat, phosphat, sulfua, sulfat, v\u00e0 t\u1ed5 h\u1ee3p b\u1ea5t k\u1ef3 c\u1ee7a ch\u00fang.",
+      "publicationNumber": "VN109965",
+      "publicationDate": "2025-03-25",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "MICHAEL, D. IRWIN",
+        "MINH TU NGUYEN"
+      ],
+      "applicationDate": "2022-11-28",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 11.095267
+    },
+    {
+      "id": "IN-202417048149-A",
+      "title": [
+        "LEAD-SEQUESTRATION MATERIAL FOR PEROVSKITE DEVICES"
+      ],
+      "abstract": "A composition that includes a binding material and a lead-sequestration compound attached to the binding material, the lead-sequestration compound including one or more lead binding groups selected from the group consisting of: a carboxylate, a phosphate, a sulfide, a sulfate, and any combination thereof.",
+      "publicationNumber": "IN202417048149",
+      "publicationDate": "2024-12-20",
+      "assignee": [
+        "CUBICPV INC"
+      ],
+      "inventors": [
+        "IRWIN MICHAEL D",
+        "NGUYEN MINH TU"
+      ],
+      "applicationDate": "2024-06-21",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Analysis of biological materials",
+        "Electrical machinery, apparatus, energy",
+        "Medical technology",
+        "Pharmaceuticals"
+      ],
+      "score": 11.095267
+    },
+    {
+      "id": "VN-90884-A1",
+      "title": [
+        "GIAO DI\u1ec6N T\u00c1I S\u1eec D\u1ee4NG \u0110\u01af\u1ee2C V\u00c0 PH\u01af\u01a0NG PH\u00c1P \u0110\u1ec2 TH\u1eec NGHI\u1ec6M THI\u1ebeT B\u1eca NH\u1ea0Y QUANG"
+      ],
+      "abstract": "S\u00e1ng ch\u1ebf \u0111\u1ec1 c\u1eadp \u0111\u1ebfn giao di\u1ec7n t\u00e1i s\u1eed d\u1ee5ng \u0111\u01b0\u1ee3c v\u00e0 ph\u01b0\u01a1ng ph\u00e1p \u0111\u1ec3 th\u1eed nghi\u1ec7m thi\u1ebft b\u1ecb nh\u1ea1y quang. Giao di\u1ec7n t\u00e1i s\u1eed d\u1ee5ng \u0111\u01b0\u1ee3c bao g\u1ed3m n\u1eafp th\u00e1o r\u1eddi \u0111\u01b0\u1ee3c, l\u1ed7 m\u1edf, \u0111\u1ebf \u0111\u01b0\u1ee3c c\u1ea5u t\u1ea1o \u0111\u1ec3 ch\u1ee9a m\u1ed9t ho\u1eb7c nhi\u1ec1u thi\u1ebft b\u1ecb nh\u1ea1y quang. C\u00e1c ti\u1ebfp \u0111i\u1ec3m d\u1eabn \u0111i\u1ec7n \u0111\u01b0\u1ee3c c\u1ea5u t\u1ea1o \u0111\u1ec3 giao ti\u1ebfp v\u1edbi m\u1ed9t ho\u1eb7c nhi\u1ec1u thi\u1ebft b\u1ecb nh\u1ea1y quang.",
+      "publicationNumber": "VN90884",
+      "publicationDate": "2022-11-25",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "MICHAEL DAVID IRWIN",
+        "JEROME R. LOVELACE"
+      ],
+      "applicationDate": "2020-11-27",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 10.791588
+    },
+    {
+      "id": "MY-PI2022002681-A0",
+      "title": [
+        "REUSABLE INTERFACE FOR SOLAR CELL TEST AND CHARACTERIZATION"
+      ],
+      "abstract": "",
+      "publicationNumber": "MYPI2022002681",
+      "publicationDate": "2021-05-27",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "MICHAEL DAVID IRWIN",
+        "JEROME R. LOVELACE"
+      ],
+      "applicationDate": "2020-11-27",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Measurement",
+        "Solar energy"
+      ],
+      "score": 10.791588
+    },
+    {
+      "id": "JP-2018514496-A5",
+      "title": [],
+      "abstract": "",
+      "publicationNumber": "JP2018514496",
+      "publicationDate": "2019-06-06",
+      "assignee": [],
+      "inventors": [],
+      "applicationDate": "2016-04-28",
+      "claimsCount": 14,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Surface technology, coating"
+      ],
+      "score": 10.791588
+    },
+    {
+      "id": "IN-202217029840-A",
+      "title": [
+        "REUSABLE INTERFACE FOR SOLAR CELL TEST AND CHARACTERIZATION"
+      ],
+      "abstract": "Reusable interfaces and methods for photosensitive device testing are disclosed. The reusable interface includes a removable lid, an opening, a bed configured to hold one or more photosensitive devices. The electrically conductive contacts are configured to interface with the one or more photosensitive devices.",
+      "publicationNumber": "IN202217029840",
+      "publicationDate": "2022-09-02",
+      "assignee": [
+        "CUBICPV INC"
+      ],
+      "inventors": [
+        "IRWIN MICHAEL DAVID",
+        "LOVELACE JEROME R"
+      ],
+      "applicationDate": "2022-05-24",
+      "claimsCount": 21,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Semiconductors"
+      ],
+      "score": 10.791588
+    },
+    {
+      "id": "JP-2024543927-A",
+      "title": [
+        "\u30da\u30ed\u30d6\u30b9\u30ab\u30a4\u30c8\u88c5\u7f6e\u7528\u306e\u925b\u9694\u96e2\u6750\u6599"
+      ],
+      "abstract": "\u7d44\u6210\u7269\u306f\u3001\u7d50\u5408\u6750\u6599\u3068\u3001\u8a72\u7d50\u5408\u6750\u6599\u306b\u4ed8\u7740\u3055\u308c\u305f\u925b\u9694\u96e2\u5316\u5408\u7269\u3068\u3092\u6709\u3059\u308b\u3002\u925b\u9694\u96e2\u5316\u5408\u7269\u306f\u3001\u30ab\u30eb\u30dc\u30f3\u9178\u5869\u3001\u30ea\u30f3\u9178\u5869\u3001\u786b\u5316\u7269\u3001\u786b\u9178\u5869\u3001\u304a\u3088\u3073\u3053\u308c\u3089\u306e\u4efb\u610f\u306e\u7d44\u307f\u5408\u308f\u305b\u304b\u3089\u306a\u308b\u7fa4\u304b\u3089\u9078\u629e\u3055\u308c\u305f1\u3064\u4ee5\u4e0a\u306e\u925b\u7d50\u5408\u57fa\u3092\u542b\u3080\u3002",
+      "publicationNumber": "JP2024543927",
+      "publicationDate": "2024-11-26",
+      "assignee": [
+        "\u30ad\u30e5\u30fc\u30d3\u30c3\u30af\u30d4\u30fc\u30d6\u30a4 \u30a4\u30f3\u30b3\u30fc\u30dd\u30ec\u30a4\u30c6\u30c3\u30c9"
+      ],
+      "inventors": [
+        "\u30a2\u30fc\u30a6\u30a3\u30f3\uff0c\u30de\u30a4\u30b1\u30eb\uff0c\u30c7\u30a3\u30fc\uff0e",
+        "\u30b0\u30a8\u30f3\uff0c\u30df\u30f3 \u30c8\u30a5"
+      ],
+      "applicationDate": "2022-11-28",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Semiconductors"
+      ],
+      "score": 10.745726
+    },
+    {
+      "id": "JP-7315467-B2",
+      "title": [
+        "\u5149\u8d77\u96fb\u529b\u30c7\u30d0\u30a4\u30b9\u306e\u30ab\u30d7\u30bb\u30eb\u5316"
+      ],
+      "abstract": "\u7b2c\uff11\u306e\u96fb\u6975\u3001 \u7b2c\uff12\u306e\u96fb\u6975\u3001 \u524d\u8a18\u7b2c\uff11\u306e\u96fb\u6975\u3068\u524d\u8a18\u7b2c\uff12\u306e\u96fb\u6975\u3068\u306e\u9593\u306b\u5c11\u306a\u304f\u3068\u3082\u90e8\u5206\u7684\u306b\u914d\u7f6e\u3055\u308c\u305f\u6d3b\u6027\u5c64\u3001 \u524d\u8a18\u7b2c\uff11\u306e\u96fb\u6975\u3068\u524d\u8a18\u7b2c\uff12\u306e\u96fb\u6975\u3068\u306e\u9593\u306b\u5c11\u306a\u304f\u3068\u3082\u90e8\u5206\u7684\u306b\u914d\u7f6e\u3055\u308c\u305f\u754c\u9762\u5c64\u3001\u53ca\u3073 \u524d\u8a18\u7b2c\uff11\u53c8\u306f\u7b2c\uff12\u306e\u96fb\u6975\u306e\u3046\u3061\u306e\uff11\u3064\u3068\u5c01\u6b62\u6750\u5c64\u3068\u306e\u9593\u306b\u5c11\u306a\u304f\u3068\u3082\u90e8\u5206\u7684\u306b\u63a5\u89e6\u3057\u3066\u914d\u7f6e\u3055\u308c\u305f\u975e\u5316\u5b66\u91cf\u8ad6\u7684\u9178\u5316\u7269\u5c64\u3001\u3092\u542b\u3080\u5149\u8d77\u96fb\u529b\u30c7\u30d0\u30a4\u30b9\u3002\u524d\u8a18\u5149\u8d77\u96fb\u529b\u30c7\u30d0\u30a4\u30b9\u306e\u524d\u8a18\u6d3b\u6027\u5c64\u306f\u3001\u5149\u6d3b\u6027\u6750\u6599\u3092\u542b\u3080\u3002\u3010\u9078\u629e\u56f3\u3011 \u56f3\uff12\uff12",
+      "publicationNumber": "JP7315467",
+      "publicationDate": "2023-07-26",
+      "assignee": [
+        "\u30cf\u30f3\u30c8 \u30da\u30ed\u30f4\u30b9\u30ab\u30a4\u30c8 \u30c6\u30af\u30ce\u30ed\u30b8\u30fc\u30ba\uff0c\u30a8\u30eb\uff0e\u30a8\u30eb\uff0e\u30b7\u30fc\uff0e"
+      ],
+      "inventors": [
+        "\u30a2\u30fc\u30a6\u30a3\u30f3\uff0c\u30de\u30a4\u30b1\u30eb\uff0c\u30c7\u30a3\u30fc\uff0e",
+        "\u30df\u30fc\u30eb\u30af\u30b6\u30ec\u30af\uff0c\u30ab\u30df\u30eb"
+      ],
+      "applicationDate": "2018-04-11",
+      "claimsCount": 12,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Semiconductors"
+      ],
+      "score": 10.741608
+    },
+    {
+      "id": "MX-2022006348-A",
+      "title": [
+        "CROSS LINKED SURFACE COATING AND INTERFACIAL LAYER FOR A PEROVSKITE MATERIAL PHOTOVOLTAIC DEVICE."
+      ],
+      "abstract": "A photovoltaic device includes a photoactive material comprising a perovskite material and an interfacial layer comprising a cross-linked polymer that comprises a fullerene or fullerene derivative, a cross-linking agent, and one or more polymers selected from the group consisting of polystyrene, [6,6]-phenyl-C61 -butyric acid methyl ester, poly(4-vinylphenol), [6,6]-phenyl-C61- butyric acid, and any combination thereof.",
+      "publicationNumber": "MX2022006348",
+      "publicationDate": "2022-09-09",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "IRWIN MICHAEL DAVID",
+        "MIELCZAREK KAMIL",
+        "ANDERSON NICHOLAS CHARLES"
+      ],
+      "applicationDate": "2020-11-23",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Semiconductors"
+      ],
+      "score": 10.6536045
+    },
+    {
+      "id": "MX-2022005807-A",
+      "title": [
+        "PEROVSKITE MATERIAL PHOTOVOLTAIC DEVICE AND METHOD FOR ASSEMBLY."
+      ],
+      "abstract": "A method for manufacturing a photovoltaic device includes fabricating a first photovoltaic device portion with a first perovskite material layer having a first face, and fabricating a second photovoltaic device portion with a second perovskite material layer having a second face. Then first photovoltaic device portion and the second photovoltaic device portion are arranged such that the first face is in contact with the second face. Finally, the first photovoltaic device portion and second photovoltaic device portion are compressed at a pressure sufficient to fuse the first perovskite material to the second perovskite material.",
+      "publicationNumber": "MX2022005807",
+      "publicationDate": "2022-08-16",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "HOLLAND MICHAEL",
+        "IRWIN MICHAEL"
+      ],
+      "applicationDate": "2020-11-04",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Organic fine chemistry",
+        "Semiconductors"
+      ],
+      "score": 10.6536045
+    },
+    {
+      "id": "ES-2955826-T3",
+      "title": [
+        "Sistema y m\u00e9todo para probar la degradaci\u00f3n de un dispositivo fotosensible"
+      ],
+      "abstract": "El rendimiento de los dispositivos fotosensibles a lo largo del tiempo se puede probar configurando un sistema de prueba de dispositivos fotosensibles que incluya una placa de fuente de luz que exponga los dispositivos fotosensibles dentro de un contenedor a una intensidad de luz espec\u00edfica. La intensidad de la luz se puede ajustar mediante una fuente de energ\u00eda programable seg\u00fan uno o m\u00e1s umbrales. Una prueba puede tener una duraci\u00f3n determinada y las mediciones de rendimiento se toman a intervalos predeterminados durante toda su duraci\u00f3n. Se puede registrar la retroalimentaci\u00f3n del sistema de prueba del dispositivo fotosensible para determinar si se debe aumentar la intensidad de la luz, detener la prueba, continuarla y si se deben alterar una o m\u00e1s condiciones ambientales. Las mediciones pueden enviarse a un cliente para su an\u00e1lisis y visualizaci\u00f3n a un usuario. (Traducci\u00f3n autom\u00e1tica con Google Translate, sin valor legal)",
+      "publicationNumber": "ES2955826",
+      "publicationDate": "2023-12-07",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "MICHAEL IRWIN",
+        "Jerome LOVELACE",
+        "Kamil MIELCZAREK"
+      ],
+      "applicationDate": "2016-09-26",
+      "claimsCount": 6,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Audio-visual technology",
+        "Electrical machinery, apparatus, energy",
+        "Solar energy"
+      ],
+      "score": 10.6536045
+    },
+    {
+      "id": "EP-4290765-A3",
+      "title": [
+        "SYSTEM FOR TESTING PHOTOSENSITIVE DEVICE DEGRADATION"
+      ],
+      "abstract": "The performance of photosensitive devices over time may be tested by configuring a photosensitive device test system that includes a light source plate that exposes photosensitive devices within a container to a specified light intensity. The light intensity may be adjusted by a programmable power source according to one or more thresholds. A test may last for a set duration with performance measurements being taken at predetermined intervals throughout the duration. Feedback from the photosensitive device test system may be recorded to determine whether to increase light intensity, to stop testing, to continue testing, and whether one or more environmental conditions should be altered. Measurements may be sent to a client for analysis and display to a user.",
+      "publicationNumber": "EP4290765",
+      "publicationDate": "2024-04-10",
+      "assignee": [
+        "CubicPV Inc."
+      ],
+      "inventors": [
+        "MICHAEL, D. IRWIN",
+        "Jerome LOVELACE",
+        "Kamil MIELCZAREK"
+      ],
+      "applicationDate": "2016-09-26",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Audio-visual technology",
+        "Electrical machinery, apparatus, energy",
+        "Solar energy"
+      ],
+      "score": 10.6536045
+    },
+    {
+      "id": "EP-4290765-A2",
+      "title": [
+        "SYSTEM FOR TESTING PHOTOSENSITIVE DEVICE DEGRADATION"
+      ],
+      "abstract": "The performance of photosensitive devices over time may be tested by configuring a photosensitive device test system that includes a light source plate that exposes photosensitive devices within a container to a specified light intensity. The light intensity may be adjusted by a programmable power source according to one or more thresholds. A test may last for a set duration with performance measurements being taken at predetermined intervals throughout the duration. Feedback from the photosensitive device test system may be recorded to determine whether to increase light intensity, to stop testing, to continue testing, and whether one or more environmental conditions should be altered. Measurements may be sent to a client for analysis and display to a user.",
+      "publicationNumber": "EP4290765",
+      "publicationDate": "2023-12-13",
+      "assignee": [
+        "CubicPV Inc."
+      ],
+      "inventors": [
+        "MICHAEL, D. IRWIN",
+        "Jerome LOVELACE",
+        "Kamil MIELCZAREK"
+      ],
+      "applicationDate": "2016-09-26",
+      "claimsCount": 15,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Solar energy"
+      ],
+      "score": 10.6536045
+    },
+    {
+      "id": "EP-4066290-A4",
+      "title": [
+        "CROSS LINKED SURFACE COATING AND INTERFACIAL LAYER FOR A PEROVSKITE MATERIAL PHOTOVOLTAIC DEVICE"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP4066290",
+      "publicationDate": "2024-03-06",
+      "assignee": [
+        "CubicPV Inc."
+      ],
+      "inventors": [
+        "MICHAEL DAVID IRWIN",
+        "Kamil MIELCZAREK",
+        "NICHOLAS CHARLES ANDERSON"
+      ],
+      "applicationDate": "2020-11-23",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Macromolecular chemistry, polymers",
+        "Semiconductors"
+      ],
+      "score": 10.6536045
+    },
+    {
+      "id": "EP-4066290-A2",
+      "title": [
+        "CROSS LINKED SURFACE COATING AND INTERFACIAL LAYER FOR A PEROVSKITE MATERIAL PHOTOVOLTAIC DEVICE"
+      ],
+      "abstract": "A photovoltaic device includes a photoactive material comprising a perovskite material and an interfacial layer comprising a cross-linked polymer that comprises a fullerene or fullerene derivative, a cross-linking agent, and one or more polymers selected from the group consisting of polystyrene, [6,6]-phenyl-C61 -butyric acid methyl ester, poly(4-vinylphenol), [6,6]-phenyl-C61- butyric acid, and any combination thereof.",
+      "publicationNumber": "EP4066290",
+      "publicationDate": "2022-10-05",
+      "assignee": [
+        "CubicPV Inc."
+      ],
+      "inventors": [
+        "MICHAEL DAVID IRWIN",
+        "Kamil MIELCZAREK",
+        "NICHOLAS CHARLES ANDERSON"
+      ],
+      "applicationDate": "2020-11-23",
+      "claimsCount": 30,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Semiconductors"
+      ],
+      "score": 10.6536045
+    },
+    {
+      "id": "EP-4059066-A4",
+      "title": [
+        "PEROVSKITE MATERIAL PHOTOVOLTAIC DEVICE AND METHOD FOR ASSEMBLY"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP4059066",
+      "publicationDate": "2023-12-20",
+      "assignee": [
+        "CubicPV Inc."
+      ],
+      "inventors": [
+        "MICHAEL IRWIN",
+        "MICHAEL HOLLAND"
+      ],
+      "applicationDate": "2020-11-04",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Organic fine chemistry",
+        "Semiconductors"
+      ],
+      "score": 10.6536045
+    },
+    {
+      "id": "EP-4059066-A1",
+      "title": [
+        "PEROVSKITE MATERIAL PHOTOVOLTAIC DEVICE AND METHOD FOR ASSEMBLY"
+      ],
+      "abstract": "A method for manufacturing a photovoltaic device includes fabricating a first photovoltaic device portion with a first perovskite material layer having a first face, and fabricating a second photovoltaic device portion with a second perovskite material layer having a second face. Then first photovoltaic device portion and the second photovoltaic device portion are arranged such that the first face is in contact with the second face. Finally, the first photovoltaic device portion and second photovoltaic device portion are compressed at a pressure sufficient to fuse the first perovskite material to the second perovskite material.",
+      "publicationNumber": "EP4059066",
+      "publicationDate": "2022-09-21",
+      "assignee": [
+        "CubicPV Inc."
+      ],
+      "inventors": [
+        "MICHAEL IRWIN",
+        "MICHAEL HOLLAND"
+      ],
+      "applicationDate": "2020-11-04",
+      "claimsCount": 30,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Organic fine chemistry",
+        "Semiconductors"
+      ],
+      "score": 10.6536045
+    },
+    {
+      "id": "EP-3958461-C0",
+      "title": [
+        "SYSTEM FOR TESTING PHOTOSENSITIVE DEVICE DEGRADATION"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP3958461",
+      "publicationDate": "2023-08-23",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "MICHAEL, D. IRWIN",
+        "Jerome LOVELACE",
+        "Kamil MIELCZAREK"
+      ],
+      "applicationDate": "2016-09-26",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Audio-visual technology",
+        "Electrical machinery, apparatus, energy",
+        "Solar energy"
+      ],
+      "score": 10.6536045
+    },
+    {
+      "id": "AU-2020393864-A1",
+      "title": [
+        "Cross linked surface coating and interfacial layer for a perovskite material photovoltaic device"
+      ],
+      "abstract": "A photovoltaic device includes a photoactive material comprising a perovskite material and an interfacial layer comprising a cross-linked polymer that comprises a fullerene or fullerene derivative, a cross-linking agent, and one or more polymers selected from the group consisting of polystyrene, [6,6]-phenyl-C61 -butyric acid methyl ester, poly(4-vinylphenol), [6,6]-phenyl-C61- butyric acid, and any combination thereof.",
+      "publicationNumber": "AU2020393864",
+      "publicationDate": "2022-06-09",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "NICHOLAS CHARLES ANDERSON",
+        "MICHAEL DAVID IRWIN",
+        "Kamil MIELCZAREK"
+      ],
+      "applicationDate": "2020-11-23",
+      "claimsCount": 30,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Semiconductors"
+      ],
+      "score": 10.6536045
+    },
+    {
+      "id": "AU-2020382543-A1",
+      "title": [
+        "Perovskite material photovoltaic device and method for assembly"
+      ],
+      "abstract": "A method for manufacturing a photovoltaic device includes fabricating a first photovoltaic device portion with a first perovskite material layer having a first face, and fabricating a second photovoltaic device portion with a second perovskite material layer having a second face. Then first photovoltaic device portion and the second photovoltaic device portion are arranged such that the first face is in contact with the second face. Finally, the first photovoltaic device portion and second photovoltaic device portion are compressed at a pressure sufficient to fuse the first perovskite material to the second perovskite material.",
+      "publicationNumber": "AU2020382543",
+      "publicationDate": "2022-05-26",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "MICHAEL HOLLAND",
+        "MICHAEL IRWIN"
+      ],
+      "applicationDate": "2020-11-04",
+      "claimsCount": 30,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Organic fine chemistry",
+        "Semiconductors"
+      ],
+      "score": 10.6536045
+    },
+    {
+      "id": "MX-342454-B",
+      "title": [
+        "SENSORS FOR PASSIVE ELECTROSEISMIC AND SEISMOELECTRIC SURVEYING."
+      ],
+      "abstract": "An apparatus includes a conductive plate operable to generate a reference signal and a shield configured to surround at least a portion of the conductive plate and to attenuate at least a portion of a horizontal electromagnetic signal. The apparatus also includes an electrode configured to be electrically coupled to the shield and to a ground, where the electrode is responsive to a vertical electromagnetic signal, and the vertical electromagnetic signal generated by a subsurface earth formation in response to an electroseismic or seismoeleetric conversion of a passive electromagnetic source signal, The apparatus also includes an amplifier comprising a first input and a second, input, where the first input is configured to electrically couple to the conductive plate and the second input is configured to electrically couple to the electrode.",
+      "publicationNumber": "MX342454",
+      "publicationDate": "2016-09-29",
+      "assignee": [
+        "Hunt Energy Enterprises, L.L.C."
+      ],
+      "inventors": [
+        "MOHAMMAD RAHMAN",
+        "ROBERT ENGLAND",
+        "ARTHUR THOMPSON",
+        "ALAN KATZ",
+        "NAGA P. DEVINENI"
+      ],
+      "applicationDate": "2013-12-04",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Measurement"
+      ],
+      "score": 10.627119
+    },
+    {
+      "id": "US-20220140246-A1",
+      "title": [
+        "NON-FULLERENE ACCEPTORS (NFAS) AS INTERFACIAL LAYERS IN PEROVSKITE SEMICONDUCTOR DEVICES"
+      ],
+      "abstract": "A method for producing an organic non-fullerene electron transport compound includes mixing naphthalene-1,4,5,8-tetracarboxylic dianhydride and an amine compound in dimethylformamide. The method also includes heating the mixture to a temperature greater than or equal to 70\u00b0 and less than or equal to 160\u00b0 C. for an amount of time greater than or equal to 1 hour and less than or equal to 24 hours. The method further includes isolating an organic non-fullerene electron transport compound reaction product.",
+      "publicationNumber": "US20220140246",
+      "publicationDate": "2022-05-05",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "Michael David Irwin",
+        "Minh Tu Nguyen",
+        "Kamil Mielczarek"
+      ],
+      "applicationDate": "2022-01-19",
+      "claimsCount": 24,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Organic fine chemistry",
+        "Semiconductors"
+      ],
+      "score": 10.619902
+    },
+    {
+      "id": "MY-207123-A",
+      "title": [
+        "BI-AND TRI-LAYER INTERFACIAL LAYRES IN PEROVSKITE MATERIAL DEVICES"
+      ],
+      "abstract": "Photovoltaic devices such as solar cells, hybrid solar cell-batteries, and other such devices may include an active layer (4450) disposed between two electrodes. The active layer (4450) may have perovskite material and other material such as mesoporous material, interfacial layers (2626), thin-coat interfacial layers, and combinations thereof. The perovskite material may be photoactive. The perovskite material may be disposed between two or more other materials in the photovoltaic device. Inclusion of these materials in various arrangements within an active layer (4450) of a photovoltaic device may improve device performance. Other materials may be included to further improve device performance, such as, for example: additional perovskites, and additional interfacial layers (2626). (The most illustrative drawings: Figure 11)",
+      "publicationNumber": "MY207123",
+      "publicationDate": "2025-01-31",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "MICHAEL, D. IRWIN",
+        "Jerred, A. CHUTE",
+        "Vivek, V. DHAS"
+      ],
+      "applicationDate": "2015-11-19",
+      "claimsCount": 17,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 10.6082325
+    },
+    {
+      "id": "US-20180019365-A1",
+      "title": [
+        "METHODS FOR CREATING A SEMICONDUCTOR WAFER HAVING PROFILED DOPING AND WAFERS AND SOLAR CELL COMPONENTS HAVING A PROFILED FIELD, SUCH AS DRIFT AND BACK SURFACE"
+      ],
+      "abstract": "A semiconductor wafer forms on a mold containing a dopant. The dopant dopes a melt region adjacent the mold. There, dopant concentration is higher than in the melt bulk. A wafer starts solidifying. Dopant diffuses poorly in solid semiconductor. After a wafer starts solidifying, dopant can not enter the melt. Afterwards, the concentration of dopant in the melt adjacent the wafer surface is less than what was present where the wafer began to form. New wafer regions grow from a melt region whose dopant concentration lessens over time. This establishes a dopant gradient in the wafer, with higher concentration adjacent the mold. The gradient can be tailored. A gradient gives rise to a field that can function as a drift or back surface field. Solar collectors can have open grid conductors and better optical reflectors on the back surface, made possible by the intrinsic back surface field.",
+      "publicationNumber": "US20180019365",
+      "publicationDate": "2018-01-18",
+      "assignee": [
+        "1366 TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "Ralf Jonczyk",
+        "KERNAN D BRIAN",
+        "G.D. Stephen Hudelson",
+        "Richard L. Wallace",
+        "ADAM M LORENZ"
+      ],
+      "applicationDate": "2015-10-14",
+      "claimsCount": 29,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Semiconductors",
+        "Solar energy"
+      ],
+      "score": 10.525843
+    },
+    {
+      "id": "US-10770613-B2",
+      "title": [
+        "Methods for creating a semiconductor wafer having profiled doping and wafers and solar cell components having a profiled field, such as drift and back surface"
+      ],
+      "abstract": "A semiconductor wafer forms on a mold containing a dopant. The dopant dopes a melt region adjacent the mold. There, dopant concentration is higher than in the melt bulk. A wafer starts solidifying. Dopant diffuses poorly in solid semiconductor. After a wafer starts solidifying, dopant can not enter the melt. Afterwards, the concentration of dopant in the melt adjacent the wafer surface is less than what was present where the wafer began to form. New wafer regions grow from a melt region whose dopant concentration lessens over time. This establishes a dopant gradient in the wafer, with higher concentration adjacent the mold. The gradient can be tailored. A gradient gives rise to a field that can function as a drift or back surface field. Solar collectors can have open grid conductors and better optical reflectors on the back surface, made possible by the intrinsic back surface field.",
+      "publicationNumber": "US10770613",
+      "publicationDate": "2020-09-08",
+      "assignee": [
+        "1366 TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "Ralf Jonczyk",
+        "Brian D. Kernan",
+        "G.D. Stephen Hudelson",
+        "Adam M. Lorenz",
+        "Emanuel M. Sachs"
+      ],
+      "applicationDate": "2019-09-04",
+      "claimsCount": 26,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Semiconductors",
+        "Solar energy",
+        "Surface technology, coating"
+      ],
+      "score": 10.525843
+    },
+    {
+      "id": "US-10439095-B2",
+      "title": [
+        "Methods for creating a semiconductor wafer having profiled doping and wafers and solar cell components having a profiled field, such as drift and back surface"
+      ],
+      "abstract": "A semiconductor wafer forms on a mold containing a dopant. The dopant dopes a melt region adjacent the mold. There, dopant concentration is higher than in the melt bulk. A wafer starts solidifying. Dopant diffuses poorly in solid semiconductor. After a wafer starts solidifying, dopant cannot enter the melt. Afterwards, the concentration of dopant in the melt adjacent the wafer surface is less than what was present where the wafer began to form. New wafer regions grow from a melt region whose dopant concentration lessens over time. This establishes a dopant gradient in the wafer, with higher concentration adjacent the mold. The gradient can be tailored. A gradient gives rise to a field that can function as a drift or back surface field. Solar collectors can have open grid conductors and better optical reflectors on the back surface, made possible by the intrinsic back surface field.",
+      "publicationNumber": "US10439095",
+      "publicationDate": "2019-10-08",
+      "assignee": [
+        "1366 TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "Ralf Jonczyk",
+        "Brian D. Kernan",
+        "G. D. Stephen Hudelson",
+        "Adam M. Lorenz",
+        "Emanuel M. Sachs"
+      ],
+      "applicationDate": "2015-10-14",
+      "claimsCount": 20,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Semiconductors",
+        "Solar energy",
+        "Surface technology, coating"
+      ],
+      "score": 10.525843
+    },
+    {
+      "id": "JP-2025129149-A",
+      "title": [
+        "CROSS-LINKED SURFACE COATING AND INTERFACIAL LAYER FOR PEROVSKITE MATERIAL PHOTOVOLTAIC DEVICE"
+      ],
+      "abstract": "To provide a PV that can incorporate a layer of perovskite material as a photoactive layer that generates electricity when exposed to light, and to allow an additional layer within a PV device to assist in the transport of charge from the photoactive layer, wherein the choice of the charge transport layer can affect the performance and durability of the PV device.SOLUTION: A photovoltaic device includes a photoactive material including a perovskite material, and an interfacial layer including a cross-linked polymer including a fullerene or a fullerene derivative, a cross-linker, and one or more polymers selected from the group consisting of polystyrene, [6,6]-phenyl-C61-butyric acid methyl ester, poly(4-vinylphenol), [6,6]-phenyl-C61-butyric acid, and any combination thereof.SELECTED DRAWING: None",
+      "publicationNumber": "JP2025129149",
+      "publicationDate": "2025-09-04",
+      "assignee": [
+        "CUBICPV INC"
+      ],
+      "inventors": [
+        "MICHAEL DAVID IRWIN",
+        "Kamil MIELCZAREK",
+        "NICHOLAS CHARLES ANDERSON"
+      ],
+      "applicationDate": "2025-05-07",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Macromolecular chemistry, polymers",
+        "Semiconductors"
+      ],
+      "score": 10.463675
+    },
+    {
+      "id": "JP-2023504041-A",
+      "title": [
+        "\u592a\u967d\u96fb\u6c60\u306e\u30c6\u30b9\u30c8\u53ca\u3073\u7279\u6027\u8a55\u4fa1\u306e\u305f\u3081\u306e\u518d\u5229\u7528\u53ef\u80fd\u306a\u30a4\u30f3\u30bf\u30fc\u30d5\u30a7\u30a4\u30b9"
+      ],
+      "abstract": "\u611f\u5149\u6027\u30c7\u30d0\u30a4\u30b9\u306e\u30c6\u30b9\u30c8\u306e\u305f\u3081\u306e\u518d\u5229\u7528\u53ef\u80fd\u306a\u30a4\u30f3\u30bf\u30fc\u30d5\u30a7\u30a4\u30b9\u53ca\u3073\u65b9\u6cd5\u3092\u958b\u793a\u3059\u308b\u3002\u518d\u5229\u7528\u53ef\u80fd\u306a\u30a4\u30f3\u30bf\u30fc\u30d5\u30a7\u30a4\u30b9\u306f\u3001\u53d6\u308a\u5916\u3057\u53ef\u80fd\u306a\u84cb\u3068\u3001\u958b\u53e3\u90e8\u3068\u3001\uff11\u3064\u53c8\u306f\u8907\u6570\u306e\u611f\u5149\u6027\u30c7\u30d0\u30a4\u30b9\u3092\u4fdd\u6301\u3059\u308b\u3088\u3046\u306b\u69cb\u6210\u3055\u308c\u308b\u30d9\u30c3\u30c9\u3068\u3092\u542b\u3080\u3002\u5c0e\u96fb\u6027\u63a5\u70b9\u306f\u3001\uff11\u3064\u53c8\u306f\u8907\u6570\u306e\u611f\u5149\u6027\u30c7\u30d0\u30a4\u30b9\u3068\u30a4\u30f3\u30bf\u30fc\u30d5\u30a7\u30a4\u30b9\u63a5\u7d9a\u3059\u308b\u3088\u3046\u306b\u69cb\u6210\u3055\u308c\u308b\u3002",
+      "publicationNumber": "JP2023504041",
+      "publicationDate": "2023-02-01",
+      "assignee": [
+        "\u30ad\u30e5\u30fc\u30d3\u30c3\u30af\u30d4\u30fc\u30d6\u30a4 \u30a4\u30f3\u30b3\u30fc\u30dd\u30ec\u30a4\u30c6\u30c3\u30c9"
+      ],
+      "inventors": [
+        "\u30a2\u30fc\u30a6\u30a3\u30f3\uff0c\u30de\u30a4\u30b1\u30eb \u30c7\u30a4\u30f4\u30a3\u30c3\u30c9",
+        "\u30e9\u30f4\u30ec\u30fc\u30b9\uff0c\u30b8\u30a7\u30ed\u30fc\u30e0 \u30a2\u30fc\u30eb\uff0e"
+      ],
+      "applicationDate": "2020-11-27",
+      "claimsCount": 21,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Solar energy"
+      ],
+      "score": 10.452658
+    },
+    {
+      "id": "KR-102627245-B1",
+      "title": [
+        "\uad11\uae30\uc804\ub825 \ub514\ubc14\uc774\uc2a4 \ucea1\uc290\ud654"
+      ],
+      "abstract": "\uc81c1 \uc804\uadf9, \uc81c2 \uc804\uadf9, \uc81c1 \uc804\uadf9\uacfc \uc81c2 \uc804\uadf9 \uc0ac\uc774\uc5d0 \uc801\uc5b4\ub3c4 \ubd80\ubd84\uc801\uc73c\ub85c \ubc30\uce58\ub41c \ud65c\uc131 \uce35, \uc81c1 \uc804\uadf9\uacfc \uc81c2 \uc804\uadf9 \uc0ac\uc774\uc5d0 \uc801\uc5b4\ub3c4 \ubd80\ubd84\uc801\uc73c\ub85c \ubc30\uce58\ub41c \uacc4\uba74 \uce35, \ubc0f \uc81c1 \uc804\uadf9 \ub610\ub294 \uc81c2 \uc804\uadf9 \uc911 1\uac1c\uc640 \ucea1\uc290\ud654\uc81c \uce35 \uc0ac\uc774\uc5d0 \uc801\uc5b4\ub3c4 \ubd80\ubd84\uc801\uc73c\ub85c \ubc30\uce58\ub418\uace0 \uadf8\uc640 \uc811\ucd09\ud558\ub294 \ube44-\ud654\ud559\ub7c9\ub860\uc801 \uc625\uc2dc\ub4dc \uce35\uc744 \ud3ec\ud568\ud558\ub294 \uad11\uae30\uc804\ub825 \ub514\ubc14\uc774\uc2a4. \uad11\uae30\uc804\ub825 \ub514\ubc14\uc774\uc2a4\uc758 \ud65c\uc131 \uce35\uc740 \uad11\ud65c\uc131 \ubb3c\uc9c8\uc744 \ud3ec\ud568\ud55c\ub2e4.",
+      "publicationNumber": "KR102627245",
+      "publicationDate": "2024-01-18",
+      "assignee": [
+        "\ud050\ube45\ud53c\ube0c\uc774 \uc778\ud06c."
+      ],
+      "inventors": [
+        "\ub9c8\uc774\ud074, \ub514. \uc5b4\uc708",
+        "\uce74\ubc00 \ubbf8\uc5d8\uc790\ub808\ud06c"
+      ],
+      "applicationDate": "2018-04-11",
+      "claimsCount": 30,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Semiconductors"
+      ],
+      "score": 10.426807
+    },
+    {
+      "id": "VN-90900-A1",
+      "title": [
+        "CH\u1ebe PH\u1ea8M CH\u1ee8A H\u1ee2P CH\u1ea4T V\u1eacN CHUY\u1ec2N \u0110I\u1ec6N T\u1eec KH\u00d4NG CH\u1ee8A FULLEREN H\u1eeeU C\u01a0 V\u00c0 PH\u01af\u01a0NG PH\u00c1P S\u1ea2N XU\u1ea4T H\u1ee2P CH\u1ea4T N\u00c0Y"
+      ],
+      "abstract": "S\u00e1ng ch\u1ebf \u0111\u1ec1 xu\u1ea5t ch\u1ebf ph\u1ea9m ch\u1ee9a h\u1ee3p ch\u1ea5t v\u1eadn chuy\u1ec3n \u0111i\u1ec7n t\u1eed kh\u00f4ng ch\u1ee9a fulleren h\u1eefu c\u01a1 v\u00e0 ph\u01b0\u01a1ng ph\u00e1p s\u1ea3n xu\u1ea5t h\u1ee3p ch\u1ea5t n\u00e0y. Ph\u01b0\u01a1ng ph\u00e1p s\u1ea3n xu\u1ea5t h\u1ee3p ch\u1ea5t v\u1eadn chuy\u1ec3n \u0111i\u1ec7n t\u1eed kh\u00f4ng ch\u1ee9a fulleren h\u1eefu c\u01a1 bao g\u1ed3m b\u01b0\u1edbc tr\u1ed9n naphtalen1,4,5,8- tetracarboxylic dianhydrit v\u00e0 h\u1ee3p ch\u1ea5t amin trong dimetylformamit. Ph\u01b0\u01a1ng ph\u00e1p n\u00e0y c\u0169ng bao g\u1ed3m bao g\u1ed3m b\u01b0\u1edbc gia nhi\u1ec7t h\u1ed7n h\u1ee3p \u0111\u1ebfn nhi\u1ec7t \u0111\u1ed9 l\u1edbn h\u01a1n ho\u1eb7c b\u1eb1ng 70\u00b0 v\u00e0 nh\u1ecf h\u01a1n ho\u1eb7c b\u1eb1ng 160\u00b0 C trong kho\u1ea3ng th\u1eddi gian l\u1edbn h\u01a1n ho\u1eb7c b\u1eb1ng 1 gi\u1edd v\u00e0 nh\u1ecf h\u01a1n ho\u1eb7c b\u1eb1ng 24 gi\u1edd. Ph\u01b0\u01a1ng ph\u00e1p n\u00e0y c\u00f2n bao g\u1ed3m b\u01b0\u1edbc ph\u00e2n l\u1eadp s\u1ea3n ph\u1ea9m ph\u1ea3n \u1ee9ng h\u1ee3p ch\u1ea5t v\u1eadn chuy\u1ec3n \u0111i\u1ec7n t\u1eed kh\u00f4ng ch\u1ee9a fulleren h\u1eefu c\u01a1.",
+      "publicationNumber": "VN90900",
+      "publicationDate": "2022-11-25",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "MINH TU NGUYEN",
+        "Kamil MIELCZAREK"
+      ],
+      "applicationDate": "2020-11-23",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 10.310514
+    },
+    {
+      "id": "VN-90145-A1",
+      "title": [
+        "THI\u1ebeT B\u1eca QUANG \u0110I\u1ec6N N\u1ed0I TI\u1ebeP PEROVSKIT 2D"
+      ],
+      "abstract": "Thi\u1ebft b\u1ecb quang \u0111i\u1ec7n bao g\u1ed3m \u0111i\u1ec7n c\u1ef1c th\u1ee9 nh\u1ea5t, l\u1edbp v\u1eadt li\u1ec7u quang ho\u1ea1t th\u1ee9 nh\u1ea5t, m\u1ed9t ho\u1eb7c nhi\u1ec1u l\u1edbp ph\u00e2n c\u00e1ch, l\u1edbp v\u1eadt li\u1ec7u quang ho\u1ea1t th\u1ee9 hai g\u1ed3m c\u00f3 v\u1eadt li\u1ec7u perovskit 2-D c\u00f3 c\u00f4ng th\u1ee9c (C\u2019)a(C)bMnX3n+1 v\u00e0 \u0111i\u1ec7n c\u1ef1c th\u1ee9 hai. C\u2019 l\u00e0 cation h\u1eefu c\u01a1 c\u1ee1 l\u1edbn, C l\u00e0 cation h\u1eefu c\u01a1 ho\u1eb7c v\u00f4 c\u01a1 c\u1ee1 nh\u1ecf, M l\u00e0 kim lo\u1ea1i, X l\u00e0 halogenua, a v\u00e0 b l\u00e0 c\u00e1c s\u1ed1 th\u1ef1c, v\u00e0 n l\u00e0 s\u1ed1 nguy\u00ean.",
+      "publicationNumber": "VN90145",
+      "publicationDate": "2022-10-25",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "DUYEN HANH CAO",
+        "Kamil MIELCZAREK"
+      ],
+      "applicationDate": "2020-11-20",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 10.310514
+    },
+    {
+      "id": "VN-112834-A1",
+      "title": [
+        "PH\u01af\u01a0NG PH\u00c1P T\u1ea0O RA C\u00c1C L\u1edaP V\u1eacT LI\u1ec6U PEROVSKIT"
+      ],
+      "abstract": "Ph\u01b0\u01a1ng ph\u00e1p bao g\u1ed3m c\u00e1c b\u01b0\u1edbc: l\u1eafng \u0111\u1ecdng m\u1ef1c ti\u1ec1n ch\u1ea5t ch\u00ec halogenua tr\u00ean n\u1ec1n; l\u00e0m kh\u00f4 m\u1ef1c ti\u1ec1n ch\u1ea5t ch\u00ec halogenua \u0111\u1ec3 t\u1ea1o th\u00e0nh m\u00e0ng m\u1ecfng th\u1ee9 nh\u1ea5t; nung m\u00e0ng m\u1ecfng th\u1ee9 nh\u1ea5t; v\u00e0 t\u1ea1o ra l\u1edbp v\u1eadt li\u1ec7u perovskit, trong \u0111\u00f3 b\u01b0\u1edbc t\u1ea1o ra l\u1edbp v\u1eadt li\u1ec7u perovskit bao g\u1ed3m c\u00e1c b\u01b0\u1edbc: l\u1eafng \u0111\u1ecdng m\u1ef1c ti\u1ec1n ch\u1ea5t halogenua benzylamoni tr\u00ean m\u00e0ng m\u1ecfng th\u1ee9 nh\u1ea5t; l\u00e0m kh\u00f4 m\u1ef1c ti\u1ec1n ch\u1ea5t halogenua benzylamoni; l\u1eafng \u0111\u1ecdng m\u1ef1c ti\u1ec1n ch\u1ea5t halogenua formamidinium tr\u00ean m\u1ef1c ti\u1ec1n ch\u1ea5t halogenua benzylamoni; l\u00e0m kh\u00f4 m\u1ef1c ti\u1ec1n ch\u1ea5t halogenua formamidinium \u0111\u1ec3 t\u1ea1o th\u00e0nh m\u00e0ng m\u1ecfng th\u1ee9 hai; v\u00e0 nung m\u00e0ng m\u1ecfng th\u1ee9 hai.",
+      "publicationNumber": "VN112834",
+      "publicationDate": "2025-07-25",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "MICHAEL D. IRWIN",
+        "MINH TU NGUYEN",
+        "VIVEK V. DHAS",
+        "ERIN SANEHIRA",
+        "Marissa MITCHELL"
+      ],
+      "applicationDate": "2022-11-28",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 10.310514
+    },
+    {
+      "id": "MY-PI2022002686-A0",
+      "title": [
+        "2D PEROVSKITE TANDEM PHOTOVOLTAIC DEVICES"
+      ],
+      "abstract": "",
+      "publicationNumber": "MYPI2022002686",
+      "publicationDate": "2021-05-26",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "DUYEN HANH CAO",
+        "MICHAEL DAVID IRWIN",
+        "Kamil MIELCZAREK"
+      ],
+      "applicationDate": "2020-11-20",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Semiconductors"
+      ],
+      "score": 10.310514
+    },
+    {
+      "id": "MY-PI2022002683-A0",
+      "title": [
+        "NON-FULLERENE ACCEPTORS (NFAS) AS INTERFACIAL LAYERS IN PEROVSKITE SEMICONDUCTOR DEVICES"
+      ],
+      "abstract": "",
+      "publicationNumber": "MYPI2022002683",
+      "publicationDate": "2021-05-27",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "MICHAEL DAVID IRWIN",
+        "Kamil MIELCZAREK",
+        "MINH TU NGUYEN"
+      ],
+      "applicationDate": "2020-11-23",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Organic fine chemistry",
+        "Semiconductors"
+      ],
+      "score": 10.310514
+    },
+    {
+      "id": "IN-202417046838-A",
+      "title": [
+        "METHODS FOR FORMING PEROVSKITE MATERIAL LAYERS"
+      ],
+      "abstract": "A method including depositing a lead halide precursor ink onto a substrate; drying the lead halide precursor ink to form a first thin film; annealing the first thin film; and forming a perovskite material layer, wherein forming the perovskite material layer includes: depositing a benzylammonium halide precursor ink onto the first thin film; drying the benzylammonium halide precursor ink; depositing a formamidinium halide precursor ink onto the benzylammonium halide precursor ink; drying the formamidinium halide precursor ink to form a second thin film; and annealing the second thin film.",
+      "publicationNumber": "IN202417046838",
+      "publicationDate": "2024-12-20",
+      "assignee": [
+        "CUBICPV INC"
+      ],
+      "inventors": [
+        "IRWIN MICHAEL D",
+        "NGUYEN MINH TU",
+        "DHAS VIVEK V",
+        "SANEHIRA ERIN",
+        "MITCHELL MARISSA"
+      ],
+      "applicationDate": "2024-06-18",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Semiconductors",
+        "Solar energy"
+      ],
+      "score": 10.310514
+    },
+    {
+      "id": "IN-202217030313-A",
+      "title": [
+        "NON-FULLERENE ACCEPTORS (NFAS) AS INTERFACIAL LAYERS IN PEROVSKITE SEMICONDUCTOR DEVICES"
+      ],
+      "abstract": "A method for producing an organic non-fullerene electron transport compound includes mixing naphthalene-1,4,5,8-tetracarboxylic dianhydride and an amine compound in dimethylformamide. The method also includes heating the mixture to a temperature greater than or equal to 70? and less than or equal to 160? C for an amount of time greater than or equal to 1 hour and less than or equal to 24 hours. The method further includes isolating an organic non-fullerene electron transport compound reaction product.",
+      "publicationNumber": "IN202217030313",
+      "publicationDate": "2022-09-09",
+      "assignee": [
+        "CUBICPV INC"
+      ],
+      "inventors": [
+        "IRWIN MICHAEL DAVID",
+        "NGUYEN MINH TU",
+        "MIELCZAREK KAMIL"
+      ],
+      "applicationDate": "2022-05-26",
+      "claimsCount": 30,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Basic materials chemistry"
+      ],
+      "score": 10.310514
+    },
+    {
+      "id": "IN-202217029841-A",
+      "title": [
+        "2D PEROVSKITE TANDEM PHOTOVOLTAIC DEVICES"
+      ],
+      "abstract": "A photovoltaic device includes a first electrode, a first photoactive material layer, one or more interfacial layers, a second photoactive material layer comprising a 2-D perovskite material having the formula (C&apos;)a(C)bMnX3n+1 and a second electrode. C&apos; is a bulky organic cation, C is a small organic or inorganic cation, M is a metal, X is a halide, a and b are real numbers, and n is an integer.",
+      "publicationNumber": "IN202217029841",
+      "publicationDate": "2022-09-02",
+      "assignee": [
+        "CUBICPV INC"
+      ],
+      "inventors": [
+        "IRWIN MICHAEL DAVID",
+        "CAO DUYEN HANH",
+        "MIELCZAREK KAMIL"
+      ],
+      "applicationDate": "2022-05-24",
+      "claimsCount": 1,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Semiconductors"
+      ],
+      "score": 10.310514
+    },
+    {
+      "id": "MY-208126-A",
+      "title": [
+        "ENHANCED PEROVSKITE MATERIALS FOR PHOTOVOLTAIC DEVICES"
+      ],
+      "abstract": "A perovskite material that has a perovskite crystal lattice having a formula of CxMyXz, where x, y, and z, are real numbers, and 1,4-diammonium butane cation cations disposed within or at a surface of the perovskite crystal lattice. C comprises one or more cations selected from the group consisting of Group 1 metals, Group 2 metals, ammonium, formamidinium, guanidinium, and ethene tetramine. M comprises one or more metals each selected from the group consisting of Be, Mg, Ca, Sr, Ba, Fe, Cd, Co, Ni, Cu, Ag, Au, Hg, Sn, Ge, Ga, Pb, In, Tl, Sb, Bi, Ti, Zn, Cd, Hg, and Zr and combinations thereof. X comprises one or more anions each selected from the group consisting of halides, sulfides, selenides, and combinations thereof.",
+      "publicationNumber": "MY208126",
+      "publicationDate": "2025-04-17",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "MICHAEL, D. IRWIN",
+        "MICHAEL HOLLAND",
+        "NICHOLAS ANDERSON"
+      ],
+      "applicationDate": "2019-11-08",
+      "claimsCount": 30,
+      "independentClaimsCount": 4,
+      "technologyFields": [],
+      "score": 10.257097
+    },
+    {
+      "id": "MY-206572-A",
+      "title": [
+        "PEROVSKITE MATERIAL LAYER PROCESSING"
+      ],
+      "abstract": "A method for processing a perovskite photoactive layer. The method comprises depositing a lead salt precursor onto a substrate to form a lead salt thin film, depositing a second salt precursor onto the lead salt thin film, annealing the substrate to form a perovskite material.(The most illustrative drawing: Figure 1)",
+      "publicationNumber": "MY206572",
+      "publicationDate": "2024-12-23",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "MICHAEL, D. IRWIN",
+        "Jerred, A. CHUTE",
+        "Vivek, V. DHAS"
+      ],
+      "applicationDate": "2016-07-06",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [],
+      "score": 10.257097
+    },
+    {
+      "id": "EP-3883939-B1",
+      "title": [
+        "ENHANCED PEROVSKITE MATERIALS FOR PHOTOVOLTAIC DEVICES"
+      ],
+      "abstract": "A perovskite material that has a perovskite crystal lattice having a formula of CxMyXz, where x, y, and z, are real numbers. Bulky organic cations reside near a surface or a grain boundary of the perovskite crystal lattice. C includes one or more cations selected from the group consisting of Group 1 metals, Group 2 metals, methylammonium, formamidinium, guanidinium, and ethene tetramine. M includes one or more metals each selected from the group consisting of Be, Mg, Ca, Sr, Ba, Fe, Cd, Co, Ni, Cu, Ag, Au, Hg, Sn, Ge, Ga, Pb, In, Tl, Sb, Bi, Ti, Zn, Cd, Hg, and Zr and combinations thereof. X includes one or more anions each selected from the group consisting of halides, sulfides, selenides, and combinations thereof.",
+      "publicationNumber": "EP3883939",
+      "publicationDate": "2025-11-26",
+      "assignee": [
+        "CubicPV Inc."
+      ],
+      "inventors": [
+        "MICHAEL, D. IRWIN",
+        "MICHAEL HOLLAND",
+        "NICHOLAS ANDERSON"
+      ],
+      "applicationDate": "2019-11-08",
+      "claimsCount": 15,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Organic fine chemistry",
+        "Semiconductors",
+        "Surface technology, coating"
+      ],
+      "score": 10.257097
+    },
+    {
+      "id": "VN-116210-A1",
+      "title": [
+        "THI\u1ebeT B\u1eca PEROVSKITE C\u00d3 CH\u1ea4T L\u1eceNG ION"
+      ],
+      "abstract": "Ph\u01b0\u01a1ng ph\u00e1p bao g\u1ed3m b\u01b0\u1edbc t\u1ea1o ra m\u1ef1c ti\u1ec1n ch\u1ea5t ch\u00ec halogenua ch\u1ee9a halogenua kim lo\u1ea1i nh\u00f3m 1, ch\u00ec halogenua, ch\u1ea5t l\u1ecfng ion, v\u00e0 dung m\u00f4i; l\u1eafng \u0111\u1ecdng m\u1ef1c ti\u1ec1n ch\u1ea5t ch\u00ec halogenua l\u00ean n\u1ec1n; l\u00e0m kh\u00f4 m\u1ef1c ti\u1ec1n ch\u1ea5t ch\u00ec halogenua \u0111\u1ec3 t\u1ea1o th\u00e0nh m\u00e0ng ch\u00ec halogenua; v\u00e0 nung m\u00e0ng ch\u00ec halogenua n\u00e0y.",
+      "publicationNumber": "VN116210",
+      "publicationDate": "2025-09-25",
+      "assignee": [],
+      "inventors": [
+        "CUBICPV INC."
+      ],
+      "applicationDate": "2023-05-05",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 10.255539
+    },
+    {
+      "id": "US-12359122-B2",
+      "title": [
+        "Ionic liquid perovskite devices"
+      ],
+      "abstract": "A method including forming a lead halide precursor ink comprising a group 1 metal halide, a lead halide, an ionic liquid, and a solvent; depositing the lead halide precursor ink onto a substrate; drying the lead halide precursor ink to form a lead halide film; and annealing the lead halide film.",
+      "publicationNumber": "US12359122",
+      "publicationDate": "2025-07-15",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "Michael D. IRWIN",
+        "Xiao-Xin GAO",
+        "Zhaofu Fei",
+        "Paul J. DYSON",
+        "Mohammad Khaja Nazeeruddin"
+      ],
+      "applicationDate": "2023-05-05",
+      "claimsCount": 19,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Surface technology, coating"
+      ],
+      "score": 10.255539
+    },
+    {
+      "id": "MY-PI2024006313-A0",
+      "title": [
+        "IONIC LIQUID PEROVSKITE DEVICES"
+      ],
+      "abstract": "A method including forming a lead halide precursor ink comprising a group 1 metal halide, a lead halide, an ionic liquid, and a solvent; depositing the lead halide precursor ink onto a substrate; drying the lead halide precursor ink to form a lead halide film; and annealing the lead halide film.",
+      "publicationNumber": "MYPI2024006313",
+      "publicationDate": "2023-11-06",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "Michael D. IRWIN",
+        "Xiao-Xin GAO",
+        "ZHAOFU FEI",
+        "Paul J. DYSON",
+        "MOHAMMAD KHAJA NAZEERUDDIN"
+      ],
+      "applicationDate": "2023-05-05",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 10.255539
+    },
+    {
+      "id": "MY-204070-A",
+      "title": [
+        "NICKEL OXIDE SOL-GEL INK"
+      ],
+      "abstract": "A composition for use in a preparation of a nickel oxide layer that includes Ni(NO\u2083)\u2082 nH\u2082O, wherein n is 0, 4, 6 or 9, at least one metal acetate, and a solvent combination that includes a diol, an alcohol amine, and water. The most illustrative drawing: Figure 15",
+      "publicationNumber": "MY204070",
+      "publicationDate": "2024-08-06",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "MICHAEL, D. IRWIN",
+        "ERIN SANEHIRA"
+      ],
+      "applicationDate": "2019-11-14",
+      "claimsCount": 12,
+      "independentClaimsCount": 2,
+      "technologyFields": [],
+      "score": 10.255539
+    },
+    {
+      "id": "IN-202417095198-A",
+      "title": [
+        "IONIC LIQUID PEROVSKITE DEVICES"
+      ],
+      "abstract": "A method including forming a lead halide precursor ink comprising a group 1 metal halide, a lead halide, an ionic liquid, and a solvent; depositing the lead halide precursor ink onto a substrate; drying the lead halide precursor ink to form a lead halide film; and annealing the lead halide film.",
+      "publicationNumber": "IN202417095198",
+      "publicationDate": "2025-02-14",
+      "assignee": [
+        "CUBICPV INC"
+      ],
+      "inventors": [
+        "IRWIN MICHAEL D",
+        "Gao Xiao Xin",
+        "FEI ZHAOFU",
+        "DYSON PAUL J",
+        "NAZEERUDDIN MOHAMMAD KHAJA"
+      ],
+      "applicationDate": "2024-12-03",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Semiconductors"
+      ],
+      "score": 10.255539
+    },
+    {
+      "id": "EP-3884080-B1",
+      "title": [
+        "NICKEL OXIDE SOL-GEL INK"
+      ],
+      "abstract": "A composition for use in a preparation of a nickel oxide layer that includes Ni(N03)2 . n\u03972\u039f, wherein n is 0, 4, 6 or 9, at least one metal acetate, and a solvent combination that includes a diol, an alcohol amine, and water.",
+      "publicationNumber": "EP3884080",
+      "publicationDate": "2024-07-10",
+      "assignee": [
+        "CubicPV Inc."
+      ],
+      "inventors": [
+        "MICHAEL, D. IRWIN",
+        "ERIN SANEHIRA"
+      ],
+      "applicationDate": "2019-11-14",
+      "claimsCount": 12,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Materials, metallurgy",
+        "Semiconductors",
+        "Surface technology, coating"
+      ],
+      "score": 10.255539
+    },
+    {
+      "id": "CA-3252587-A1",
+      "title": [
+        "IONIC LIQUID PEROVSKITE DEVICES"
+      ],
+      "abstract": "A method including forming a lead halide precursor ink comprising a group 1 metal halide, a lead halide, an ionic liquid, and a solvent; depositing the lead halide precursor ink onto a substrate; drying the lead halide precursor ink to form a lead halide film; and annealing the lead halide film.",
+      "publicationNumber": "CA3252587",
+      "publicationDate": "2023-11-09",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "Michael D. IRWIN",
+        "Xiao-Xin GAO",
+        "Zhaofu Fei",
+        "Paul J. DYSON",
+        "Mohammad Khaja Nazeeruddin"
+      ],
+      "applicationDate": "2023-05-05",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Semiconductors"
+      ],
+      "score": 10.255539
+    },
+    {
+      "id": "US-20180119309-A1",
+      "title": [
+        "METHOD FOR MAINTAINING CONTAINED VOLUME OF MOLTEN MATERIAL FROM WHICH MATERIAL IS DEPLETED AND REPLENISHED"
+      ],
+      "abstract": "A main crucible of molten semiconductor is replenished from a supply crucible maintained such that there are always two phases of solid and liquid semiconductor within the supply crucible. Heat added to melt the solid material results in the solid material changing phase to liquid, but will not result in any significant elevation in temperature of the liquid within the supply crucible. The temperature excursions are advantageously small, being less than that which would cause problems with the formed product. The solid product material acts as a sort of temperature buffer, to maintain the supply liquid temperature automatically and passively at or very near to the phase transition temperature. For silicon, excursions are kept to less than 90\u00b0 C., and even as small as 50\u00b0 C. The methods also are useful with germanium. Prior art silicon methods that entirely melt the semiconductor experience excursions exceeding 100\u00b0 C.",
+      "publicationNumber": "US20180119309",
+      "publicationDate": "2018-05-03",
+      "assignee": [
+        "1366 TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "Ralf Jonczyk",
+        "RICHARD L WALLACE",
+        "DAVID S HARVEY"
+      ],
+      "applicationDate": "2016-04-28",
+      "claimsCount": 30,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Surface technology, coating"
+      ],
+      "score": 10.239445
+    },
+    {
+      "id": "US-10633765-B2",
+      "title": [
+        "Method for maintaining contained volume of molten material from which material is depleted and replenished"
+      ],
+      "abstract": "A main crucible of molten semiconductor is replenished from a supply crucible maintained such that there are always two phases of solid and liquid semiconductor within the supply crucible. Heat added to melt the solid material results in the solid material changing phase to liquid, but will not result in any significant elevation in temperature of the liquid within the supply crucible. The temperature excursions are advantageously small, being less than that which would cause problems with the formed product. The solid product material acts as a sort of temperature buffer, to maintain the supply liquid temperature automatically and passively at or very near to the phase transition temperature. For silicon, excursions are kept to less than 90\u00b0 C., and even as small as 50\u00b0 C. The methods also are useful with germanium. Prior art silicon methods that entirely melt the semiconductor experience excursions exceeding 100\u00b0 C.",
+      "publicationNumber": "US10633765",
+      "publicationDate": "2020-04-28",
+      "assignee": [
+        "1366 TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "Ralf Jonczyk",
+        "RICHARD L WALLACE",
+        "DAVID S HARVEY"
+      ],
+      "applicationDate": "2016-04-28",
+      "claimsCount": 29,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Other special machines",
+        "Surface technology, coating"
+      ],
+      "score": 10.239445
+    },
+    {
+      "id": "US-20240128076-A1",
+      "title": [
+        "Enhanced Perovskite Materials for Photovoltaic Devices"
+      ],
+      "abstract": "A perovskite material that has a perovskite crystal lattice having a formula of CxMyXz, and alkyl polyammonium cations disposed within or at a surface of the perovskite crystal lattice; wherein x, y, and z, are real numbers; C comprises one or more cations selected from the group consisting of Group 1 metals, Group 2 metals, ammonium, formamidinium, guanidinium, and ethene tetramine; M comprises one or more metals each selected from the group consisting of Be, Mg, Ca, Sr, Ba, Fe, Cd, Co, Ni, Cu, Ag, Au, Hg, Sn, Ge, Ga, Pb, In, Tl, Sb, Bi, Ti, Zn, Cd, Hg, and Zr, and combinations thereof; and X comprises one or more anions each selected from the group consisting of halides, pseudohalides, chalcogenides, and combinations thereof.",
+      "publicationNumber": "US20240128076",
+      "publicationDate": "2024-04-18",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "Michael D. IRWIN",
+        "Michael Holland",
+        "Nicholas Anderson"
+      ],
+      "applicationDate": "2023-12-20",
+      "claimsCount": 15,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Organic fine chemistry",
+        "Semiconductors",
+        "Surface technology, coating"
+      ],
+      "score": 10.17182
+    },
+    {
+      "id": "US-20230162974-A1",
+      "title": [
+        "Enhanced Perovskite Materials for Photovoltaic Devices"
+      ],
+      "abstract": "A perovskite material that has a perovskite crystal lattice having a formula of CxMyXz, and alkyl polyammonium cations disposed within or at a surface of the perovskite crystal lattice; wherein x, y, and z, are real numbers; C comprises one or more cations selected from the group consisting of Group 1 metals, Group 2 metals, ammonium, formamidinium, guanidinium, and ethene tetramine; M comprises one or more metals each selected from the group consisting of Be, Mg, Ca, Sr, Ba, Fe, Cd, Co, Ni, Cu, Ag, Au, Hg, Sn, Ge, Ga, Pb, In, Tl, Sb, Bi, Ti, Zn, Cd, Hg, and Zr, and combinations thereof and X comprises one or more anions each selected from the group consisting of halides, pseudohalides, chalcogenides, and combinations thereof.",
+      "publicationNumber": "US20230162974",
+      "publicationDate": "2023-05-25",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "Michael D. IRWIN",
+        "Michael Holland",
+        "Nicholas Anderson"
+      ],
+      "applicationDate": "2023-01-23",
+      "claimsCount": 30,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Organic fine chemistry",
+        "Semiconductors",
+        "Surface technology, coating"
+      ],
+      "score": 10.17182
+    },
+    {
+      "id": "US-20240392135-A1",
+      "title": [
+        "NICKEL OXIDE SOL-GEL INK"
+      ],
+      "abstract": "A method for preparing a nickel oxide precursor ink comprising: preparing a solvent comprising diols and alcohol amines; adding nickel nitrate into the solvent to form a nickel nitrate containing solution; adding at least one metal acetate into the nickel nitrate containing solution to form a nickel nitrate and metal acetate containing solution; adding water to the nickel nitrate and metal acetate containing solution to form a nickel oxide precursor mixture; heating the nickel oxide precursor mixture to 60 to 75 Celsius; and cooling the nickel oxide precursor mixture to form the nickel oxide precursor ink.",
+      "publicationNumber": "US20240392135",
+      "publicationDate": "2024-11-28",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "Michael D. IRWIN",
+        "Erin Sanehira"
+      ],
+      "applicationDate": "2024-07-31",
+      "claimsCount": 1,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Materials, metallurgy",
+        "Surface technology, coating"
+      ],
+      "score": 10.167401
+    },
+    {
+      "id": "US-20230312936-A1",
+      "title": [
+        "NICKEL OXIDE SOL-GEL INK"
+      ],
+      "abstract": "A method for preparing a nickel oxide precursor ink comprising: preparing a solvent comprising diols and alcohol amines; adding nickel nitrate into the solvent to form a nickel nitrate containing solution; adding at least one metal acetate into the nickel nitrate containing solution to form a nickel nitrate and metal acetate containing solution; adding water to the nickel nitrate and metal acetate containing solution to form a nickel oxide precursor mixture; heating the nickel oxide precursor mixture to 60 to 75 Celsius; and cooling the nickel oxide precursor mixture to form the nickel oxide precursor ink.",
+      "publicationNumber": "US20230312936",
+      "publicationDate": "2023-10-05",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "Michael Irwin",
+        "Erin Sanehira"
+      ],
+      "applicationDate": "2023-06-08",
+      "claimsCount": 6,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Materials, metallurgy",
+        "Semiconductors",
+        "Surface technology, coating"
+      ],
+      "score": 10.167401
+    },
+    {
+      "id": "AU-2018250421-B2",
+      "title": [
+        "SYSTEM AND METHOD FOR TESTING PHOTOSENSITIVE DEVICE DEGRADATION"
+      ],
+      "abstract": "The performance of photosensitive devices over time may be tested by configuring a photosensitive device test system that includes a light source plate that 5 exposes photosensitive devices within a container to a specified light intensity. The light intensity may be adjusted by a programmable power source according to one or more thresholds. A test may last for a set duration with performance measurements being taken at predetermined intervals throughout the duration. Feedback from the photosensitive device test system may be recorded to determine whether to increase 10 light intensity, to stop testing, to continue testing, and whether one or more environmental conditions should be altered. Measurements may be sent to a client for analysis and display to a user.",
+      "publicationNumber": "AU2018250421",
+      "publicationDate": "2019-10-31",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "MICHAEL D. IRWIN",
+        "Jerome LOVELACE",
+        "Kamil MIELCZAREK"
+      ],
+      "applicationDate": "2018-10-17",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Audio-visual technology",
+        "Electrical machinery, apparatus, energy",
+        "Solar energy"
+      ],
+      "score": 10.163206
+    },
+    {
+      "id": "AU-2018204249-B2",
+      "title": [
+        "SYSTEM AND METHOD FOR TESTING PHOTOSENSITIVE DEVICE DEGRADATION"
+      ],
+      "abstract": "The performance of photosensitive devices over time may be tested by configuring a photosensitive device test system that includes a light source plate that 5 exposes photosensitive devices within a container to a specified light intensity. The light intensity may be adjusted by a programmable power source according to one or more thresholds. A test may last for a set duration with performance measurements being taken at predetermined intervals throughout the duration. Feedback from the photosensitive device test system may be recorded to determine whether to increase 10 light intensity, to stop testing, to continue testing, and whether one or more environmental conditions should be altered. Measurements may be sent to a client for analysis and display to a user.",
+      "publicationNumber": "AU2018204249",
+      "publicationDate": "2018-07-19",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "MICHAEL D. IRWIN",
+        "Jerome LOVELACE",
+        "Kamil MIELCZAREK"
+      ],
+      "applicationDate": "2018-06-14",
+      "claimsCount": 4,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Audio-visual technology",
+        "Electrical machinery, apparatus, energy",
+        "Solar energy"
+      ],
+      "score": 10.163206
+    },
+    {
+      "id": "AU-2016325716-B2",
+      "title": [
+        "System and method for testing photosensitive device degradation"
+      ],
+      "abstract": "The performance of photosensitive devices over time may be tested by configuring a photosensitive device test system that includes a light source plate that exposes photosensitive devices within a container to a specified light intensity. The light intensity may be adjusted by a programmable power source according to one or more thresholds. A test may last for a set duration with performance measurements being taken at predetermined intervals throughout the duration. Feedback from the photosensitive device test system may be recorded to determine whether to increase light intensity, to stop testing, to continue testing, and whether one or more environmental conditions should be altered. Measurements may be sent to a client for analysis and display to a user.",
+      "publicationNumber": "AU2016325716",
+      "publicationDate": "2018-07-26",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "MICHAEL D. IRWIN",
+        "Jerome LOVELACE",
+        "Kamil MIELCZAREK"
+      ],
+      "applicationDate": "2016-09-26",
+      "claimsCount": 4,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Audio-visual technology",
+        "Electrical machinery, apparatus, energy",
+        "Solar energy"
+      ],
+      "score": 10.163206
+    },
+    {
+      "id": "KR-20240114762-A",
+      "title": [
+        "\ud398\ub85c\ube0c\uc2a4\uce74\uc774\ud2b8 \uc7a5\uce58\ub97c \uc704\ud55c \ub0a9-\uaca9\ub9ac \ubb3c\uc9c8"
+      ],
+      "abstract": "\uacb0\ud569 \ubb3c\uc9c8, \ubc0f \uacb0\ud569 \ubb3c\uc9c8\uc5d0 \ubd80\ucc29\ub41c \ub0a9-\uaca9\ub9ac \ud654\ud569\ubb3c\ub85c\uc11c, \uce74\ub974\ubcf5\uc2e4\ub808\uc774\ud2b8, \ud3ec\uc2a4\ud398\uc774\ud2b8, \uc220\ud53c\ub4dc, \uc220\ud398\uc774\ud2b8 \ubc0f \uadf8\uc758 \uc784\uc758\uc758 \uc870\ud569\uc73c\ub85c \uc774\ub8e8\uc5b4\uc9c4 \uad70\uc73c\ub85c\ubd80\ud130 \uc120\ud0dd\ub41c \ud558\ub098 \uc774\uc0c1\uc758 \ub0a9 \uacb0\ud569 \uae30\ub97c \ud3ec\ud568\ud558\ub294 \ub0a9-\uaca9\ub9ac \ud654\ud569\ubb3c\uc744 \ud3ec\ud568\ud558\ub294 \uc870\uc131\ubb3c\uc774 \uc81c\uacf5\ub41c\ub2e4.",
+      "publicationNumber": "KR20240114762",
+      "publicationDate": "2024-07-24",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "IRWIN MICHAEL D.",
+        "NGUYEN MINH TU"
+      ],
+      "applicationDate": "2022-11-28",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Semiconductors"
+      ],
+      "score": 10.114555
+    },
+    {
+      "id": "US-9643342-B2",
+      "title": [
+        "Apparati for fabricating thin semiconductor bodies from molten material"
+      ],
+      "abstract": "A pressure differential can be applied across a mold sheet and a semiconductor (e.g. silicon) wafer (e.g. for solar cell) is formed thereon. Relaxation of the pressure differential can allow release of the wafer. The mold sheet may be cooler than the melt. Heat is extracted through the thickness of the forming wafer. The temperature of the solidifying body is substantially uniform across its width, resulting in low stresses and dislocation density and higher crystallographic quality. The mold sheet can allow flow of gas through it. The melt can be introduced to the sheet by: full area contact with the top of a melt; traversing a partial area contact of melt with the mold sheet, whether horizontal or vertical, or in between; and by dipping the mold into a melt. The grain size can be controlled by many means.",
+      "publicationNumber": "US9643342",
+      "publicationDate": "2017-05-09",
+      "assignee": [
+        "1366 TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "Emanuel M. Sachs",
+        "Richard L. Wallace",
+        "Eerik T. Hantsoo",
+        "Adam M. Lorenz",
+        "G. D. Stephen Hudelson",
+        "Ralf Jonczyk"
+      ],
+      "applicationDate": "2014-04-11",
+      "claimsCount": 14,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Other special machines",
+        "Surface technology, coating"
+      ],
+      "score": 10.06859
+    }
+  ]
+}

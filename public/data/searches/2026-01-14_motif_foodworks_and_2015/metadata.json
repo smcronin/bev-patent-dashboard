@@ -1,0 +1,11 @@
+{
+  "search_id": "search_20260114_121939",
+  "timestamp": "2026-01-14T12:19:39.787347",
+  "query_type": "ai_search",
+  "user_prompt": "PA=(Motif FoodWorks) AND PD>2015",
+  "minesoft_query": "PA=(Motif FoodWorks) AND PD>2015",
+  "results_count": 37,
+  "directory": "2026-01-14_motif_foodworks_and_2015",
+  "execution_time_ms": 1577.1739482879639,
+  "api_endpoint": "query"
+}

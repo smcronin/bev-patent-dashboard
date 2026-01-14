@@ -1,0 +1,2246 @@
+{
+  "count": 138,
+  "numFound": 138,
+  "docs": [
+    {
+      "id": "WO-2025019826-A1",
+      "title": [
+        "EXTRACTION OF ALKALI FROM SILICATES"
+      ],
+      "abstract": "Described is a method for extracting alkali from silicates under carbon neutral conditions. The method involves providing a reaction mixture containing an alkali-bearing aluminosilicate composition and an alkali base composition. The reaction mixture is treated with a combined activation and leaching process to form a concentrated alkali-silicate solution and an alkali aluminosilicate solid residue, where carbon dioxide is produced as a carbon dioxide reusable co-product from the activation. The alkali aluminosilicate solid residue is reacted with a first portion of the carbon dioxide reusable co-product to form an alkali leached aluminosilicate composition, thereby extracting alkali from the alkali-bearing aluminosilicate composition. Also described are methods of making inorganic polymer cement and concrete from the products and/or co-products produced by the method of extracting.",
+      "publicationNumber": "WO2025019826",
+      "publicationDate": "2025-01-23",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "DONALD JOHN LAKE",
+        "Eliar MOSAFERI",
+        "Joshua DAVIES"
+      ],
+      "applicationDate": "2024-07-19",
+      "claimsCount": 64,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 19.954536
+    },
+    {
+      "id": "US-20250026657-A1",
+      "title": [
+        "EXTRACTION OF ALKALI FROM SILICATES"
+      ],
+      "abstract": "Described is a method for extracting alkali from silicates under carbon neutral conditions. The method involves providing a reaction mixture containing an alkali-bearing aluminosilicate composition and an alkali base composition. The reaction mixture is treated with a combined activation and leaching process to form a concentrated alkali-silicate solution and an alkali aluminosilicate solid residue, where carbon dioxide is produced as a carbon dioxide reusable co-product from the activation. The alkali aluminosilicate solid residue is reacted with a first portion of the carbon dioxide reusable co-product to form an alkali leached aluminosilicate composition, thereby extracting alkali from the alkali-bearing aluminosilicate composition. Also described are methods of making inorganic polymer cement and concrete from the products and/or co-products produced by the method of extracting.",
+      "publicationNumber": "US20250026657",
+      "publicationDate": "2025-01-23",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "Donald John Lake",
+        "Eliar Mosaferi",
+        "Joshua DAVIES"
+      ],
+      "applicationDate": "2024-07-19",
+      "claimsCount": 36,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 19.954536
+    },
+    {
+      "id": "WO-2017158493-A1",
+      "title": [
+        "ELECTROLYTIC CELLS AND USES THEREOF FOR THE TREATMENT OF ACID MINE DRAINAGE AND FOR SEQUESTERING CO2"
+      ],
+      "abstract": "Described herein are electrochemical cells for environmental remediation, including the treatment of acid mine drainage and sequestration of carbon dioxide. The electrolytic cells may comprise two, three or four chambers, each chamber being separated by a cationic exchange membrane (CEM) or an anionic exchange membrane (AEM). Also described are methods for obtaining solid metal carbonate compounds from sulfate compounds, methods for sequestering CO2, methods for obtaining solid metal carbonate compounds, methods for obtaining iron carbonate from iron sulfate, methods for reducing trivalent metal compounds to divalent metal compounds, and electrochemical systems for carrying out such methods.",
+      "publicationNumber": "WO2017158493",
+      "publicationDate": "2017-09-21",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGIES LTD."
+      ],
+      "inventors": [
+        "DONALD LAKE",
+        "LEE GROAT",
+        "ANDREW CARNE",
+        "WILLIAM DOUGLAS EATON"
+      ],
+      "applicationDate": "2017-03-13",
+      "claimsCount": 100,
+      "independentClaimsCount": 16,
+      "technologyFields": [
+        "Surface technology, coating"
+      ],
+      "score": 19.044523
+    },
+    {
+      "id": "AU-2013251290-B2",
+      "title": [
+        "Processing of sulfide-rich waste using CO2-enriched gases to sequester CO2, reduce environmental impacts including acid rock drainage and to produce valuable reaction products"
+      ],
+      "abstract": "Processing of sulfate and/or sulfide-rich waste using C0 2-enriched gases to sequester C0 2, reduce environmental impacts including acid rock drainage, and produce valuable reaction products Abstract A process for stabilizing a waste material rich in a metal-sulfate compound and/or rich in a metal-sulfide compound and sequestering CO 2 comprises exposing the material to a C0 2 enriched gas mixture, reacting the C0 2-enriched gas mixture with the metal sulfide minerals and forming a C0 2-depleted gas mixture and a carbonate-containing compound and at least one product selected from the group consisting of a purified metal or a metal-rich compound suitable for smelting or refining, sulfuric acid, sulfur and sulfurous acid, and system and apparatus therefor. 11316896v2 k -N Ha K N ~4\". $8 C &apos;;:: ~, j K? >1 a / fl Rib 0 t In S N) 4- I. $8 & ~. -~ bzz~ / &apos;N,~$ cn",
+      "publicationNumber": "AU2013251290",
+      "publicationDate": "2017-02-23",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGIES LTD."
+      ],
+      "inventors": [
+        "WILLIAM DOUGLAS EATON"
+      ],
+      "applicationDate": "2013-11-04",
+      "claimsCount": 21,
+      "independentClaimsCount": 6,
+      "technologyFields": [
+        "Environmental technology",
+        "Materials, metallurgy"
+      ],
+      "score": 19.044523
+    },
+    {
+      "id": "US-9695050-B2",
+      "title": [
+        "Methods and systems using electrochemical cells for processing metal sulfate compounds from mine waste and sequestering CO2"
+      ],
+      "abstract": "Systems and methods are provided for processing metal sulfate compounds and sequestering CO2. These systems and processes involve one or more electrochemical cells for producing an alkali-containing catholyte and involve a CO2 absorption reactor operatively connected to the electrochemical cell and to a CO2 source. The CO2 absorption reactor receives the alkali-containing catholyte and CO2 gas for forming an alkaline carbonate solution. The alkaline carbonate solution is directed to a vessel where it reacts with an acidic sulfate solution comprising metal ions resulting in precipitation of solid metal carbonate compounds. The acidic sulfate solution may comprise sulfide leachates from acid mine drainage, sulfide mine tailings and/or reacted pyrite concentrate. The acidic sulfate solution may be circulated through an optional SO2 reduction reactor prior to reaction in the vessel. The SO2 reduction reactor reduces trivalent metal compounds present in the acidic sulfate solution to divalent metal compounds.",
+      "publicationNumber": "US9695050",
+      "publicationDate": "2017-07-04",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGIES LTD."
+      ],
+      "inventors": [
+        "Donald Lake",
+        "Lee Groat",
+        "Andrew Carne",
+        "William Douglas Eaton"
+      ],
+      "applicationDate": "2016-03-14",
+      "claimsCount": 25,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Environmental technology",
+        "Materials, metallurgy"
+      ],
+      "score": 18.972736
+    },
+    {
+      "id": "BR-132024026018-E2",
+      "title": [
+        "M\u00c9TODO DE FABRICA\u00c7\u00c3O DE UM REAGENTE CIMENT\u00cdCIO A PARTIR DE MATERIAIS DE ALUMINOSSILICATO"
+      ],
+      "abstract": "",
+      "publicationNumber": "BR132024026018",
+      "publicationDate": "2025-07-08",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "Donald John Lake"
+      ],
+      "applicationDate": "2024-12-12",
+      "claimsCount": 20,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 18.631878
+    },
+    {
+      "id": "US-9284621-B2",
+      "title": [
+        "Processing of sulfate and/or sulfide-rich waste using CO2-enriched gases to sequester CO2, reduce environmental impacts including acid rock drainage and produce reaction products"
+      ],
+      "abstract": "A process is provided for stabilizing a sulfate and/or sulfide-rich waste material, comprising metal sulfide minerals, and sequestering CO2 comprises exposing the material to a CO2-enriched gas mixture, reacting the CO2-enriched gas mixture with the metal sulfide minerals and forming a CO2-depleted gas mixture and a carbon-containing compound and at least one product selected from the group consisting of a purified metal or a metal-rich compound suitable for smelting or refining, sulfuric acid, sulfur and sulfurous acid, and system and apparatus therefor.",
+      "publicationNumber": "US9284621",
+      "publicationDate": "2016-03-15",
+      "assignee": [
+        "STRATEGIC METALS LTD."
+      ],
+      "inventors": [
+        "William Douglas Eaton"
+      ],
+      "applicationDate": "2013-11-04",
+      "claimsCount": 21,
+      "independentClaimsCount": 6,
+      "technologyFields": [
+        "Environmental technology",
+        "Machine tools",
+        "Materials, metallurgy"
+      ],
+      "score": 18.571404
+    },
+    {
+      "id": "US-20160194208-A1",
+      "title": [
+        "METHODS AND SYSTEMS USING ELECTROCHEMICAL CELLS FOR PROCESSING METAL SULFATE COMPOUNDS FROM MINE WASTE AND SEQUESTERING CO2"
+      ],
+      "abstract": "Systems and methods are provided for processing metal sulfate compounds and sequestering CO2. These systems and processes involve one or more electrochemical cells for producing an alkali-containing catholyte and involve a CO2 absorption reactor operatively connected to the electrochemical cell and to a CO2 source. The CO2 absorption reactor receives the alkali-containing catholyte and CO2 gas for forming an alkaline carbonate solution. The alkaline carbonate solution is directed to a vessel where it reacts with an acidic sulfate solution comprising metal ions resulting in precipitation of solid metal carbonate compounds. The acidic sulfate solution may comprise sulfide leachates from acid mine drainage, sulfide mine tailings and/or reacted pyrite concentrate. The acidic sulfate solution may be circulated through an optional SO2 reduction reactor prior to reaction in the vessel. The SO2 reduction reactor reduces trivalent metal compounds present in the acidic sulfate solution to divalent metal compounds.",
+      "publicationNumber": "US20160194208",
+      "publicationDate": "2016-07-07",
+      "assignee": [
+        "STRATEGIC METALS LTD."
+      ],
+      "inventors": [
+        "Donald Lake",
+        "Lee Groat",
+        "Andrew Carne",
+        "William Douglas Eaton"
+      ],
+      "applicationDate": "2016-03-14",
+      "claimsCount": 25,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 18.195686
+    },
+    {
+      "id": "ZA-202501922-B",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "The invention provides for a method of reducing CO2 in cement production, comprising the steps of forming a cementitious reagent which is a non-crystalline solid and has a particle distribution with D[3,2] of 20 \u03bcm or less; and adding the cementitious reagent to a binder. In some embodiments, the cementitious reagent may be in the form of a powder.",
+      "publicationNumber": "ZA202501922",
+      "publicationDate": "2025-12-17",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "DONALD JOHN LAKE"
+      ],
+      "applicationDate": "2025-02-26",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 18.129715
+    },
+    {
+      "id": "ZA-202304571-B",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "Described are cementitious reagent materials produced from globally abundant inorganic feedstocks. Also described are methods for the manufacture of such cementitious reagent materials and forming the reagent materials as microspheroidal glassy particles. Also described are apparatuses, systems and methods for the thermochemical production of glassy cementitious reagents with spheroidal morphology. The apparatuses, systems and methods makes use of an in-flight melting/quenching technology such that solid particles are flown in suspension, melted in suspension, and then quenched in suspension. The cementitious reagents can be used in concrete to substantially reduce the CO2 emission associated with cement production.",
+      "publicationNumber": "ZA202304571",
+      "publicationDate": "2025-09-25",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "DONALD JOHN LAKE"
+      ],
+      "applicationDate": "2023-04-20",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 18.129715
+    },
+    {
+      "id": "ZA-202201321-B",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "Described are cementitious reagent materials produced from globally abundant inorganic feedstocks. Also described are methods for the manufacture of such cementitious reagent materials and forming the reagent materials as microspheroidal glassy particles. Also described are apparatuses, systems and methods for the thermochemical production of glassy cementitious reagents with spheroidal morphology. The apparatuses, systems and methods makes use of an in-flight melting/quenching technology such that solid particles are flown in suspension, melted in suspension, and then quenched in suspension. The cementitious reagents can be used in concrete to substantially reduce the CO2 emission associated with cement production.",
+      "publicationNumber": "ZA202201321",
+      "publicationDate": "2025-07-30",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "DONALD LAKE"
+      ],
+      "applicationDate": "2022-01-27",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 18.129715
+    },
+    {
+      "id": "WO-2022140155-A1",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "Described are cementitious reagent materials produced from globally abundant inorganic feedstocks. Also described are methods for the manufacture of such cementitious reagent materials and forming the reagent materials as microspheroidal glassy particles. Also described are apparatuses, systems and methods for the thermochemical production of glassy cementitious reagents with spheroidal morphology. The apparatuses, systems and methods make use of an in-flight melting/quenching technology such that solid particles are flown in suspension, melted in suspension, and then quenched in suspension. The cementitious reagents can be used in concrete to substantially reduce the CO2 emission associated with cement production.",
+      "publicationNumber": "WO2022140155",
+      "publicationDate": "2022-06-30",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "DONALD JOHN LAKE"
+      ],
+      "applicationDate": "2021-12-16",
+      "claimsCount": 20,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Civil engineering"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "WO-2022140154-A1",
+      "title": [
+        "ALKALI SULFATE-ACTIVATED BLENDED CEMENT"
+      ],
+      "abstract": "Described are cementitious reagent materials produced from globally abundant inorganic feedstocks. Also described are methods for the manufacture of such cementitious reagent materials and forming the reagent materials as microspheroidal glassy particles. Also described are apparatuses, systems and methods for the thermochemical production of glassy cementitious reagents with spheroidal morphology. The apparatuses, systems and methods make use of an in-flight melting/quenching technology such that solid particles are flown in suspension, melted in suspension, and then quenched in suspension. The cementitious reagents may be combined with Portland cement and an alkali activator to form a blended cement. The cementitious reagents can be used in concrete to substantially reduce the CO2 emission associated with cement production.",
+      "publicationNumber": "WO2022140154",
+      "publicationDate": "2022-06-30",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "DONALD JOHN LAKE",
+        "MADHUVANDHI RAVI"
+      ],
+      "applicationDate": "2021-12-16",
+      "claimsCount": 18,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "WO-2020264516-A1",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "Described are cementitious reagent materials produced from globally abundant inorganic feedstocks. Also described are methods for the manufacture of such cementitious reagent materials and forming the reagent materials as microspheroidal glassy particles. Also described are apparatuses, systems and methods for the thermochemical production of glassy cementitious reagents with spheroidal morphology. The apparatuses, systems and methods makes use of an in-flight melting/quenching technology such that solid particles are flown in suspension, melted in suspension, and then quenched in suspension. The cementitious reagents can be used in concrete to substantially reduce the CO2 emission associated with cement production.",
+      "publicationNumber": "WO2020264516",
+      "publicationDate": "2020-12-30",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "DONALD LAKE"
+      ],
+      "applicationDate": "2020-06-29",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "US-20250361179-A1",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "Described are cementitious reagent materials produced from globally abundant inorganic feedstocks. Also described are methods for the manufacture of such cementitious reagent materials and forming the reagent materials as microspheroidal glassy particles. Also described are apparatuses, systems and methods for the thermochemical production of glassy cementitious reagents with spheroidal morphology. The apparatuses, systems and methods makes use of an in-flight melting/quenching technology such that solid particles are flown in suspension, melted in suspension, and then quenched in suspension. The cementitious reagents can be used in concrete to substantially reduce the CO2 emission associated with cement production.",
+      "publicationNumber": "US20250361179",
+      "publicationDate": "2025-11-27",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "Donald John Lake"
+      ],
+      "applicationDate": "2025-07-03",
+      "claimsCount": 16,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Chemical engineering",
+        "Materials, metallurgy",
+        "Other special machines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "US-20250223224-A1",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "Described are cementitious reagent materials produced from globally abundant inorganic feedstocks. Also described are methods for the manufacture of such cementitious reagent materials and forming the reagent materials as microspheroidal glassy particles. Also described are apparatuses, systems and methods for the thermochemical production of glassy cementitious reagents with spheroidal morphology. The apparatuses, systems and methods makes use of an in-flight melting/quenching technology such that solid particles are flown in suspension, melted in suspension, and then quenched in suspension. The cementitious reagents can be used in concrete to substantially reduce the CO2 emission associated with cement production.",
+      "publicationNumber": "US20250223224",
+      "publicationDate": "2025-07-10",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "Donald John Lake"
+      ],
+      "applicationDate": "2025-03-28",
+      "claimsCount": 19,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Chemical engineering",
+        "Materials, metallurgy",
+        "Other special machines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "US-20250162938-A1",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "Described are cementitious reagent materials produced from globally abundant inorganic feedstocks. Also described are methods for the manufacture of such cementitious reagent materials and forming the reagent materials as microspheroidal glassy particles. Also described are apparatuses, systems and methods for the thermochemical production of glassy cementitious reagents with spheroidal morphology. The apparatuses, systems and methods make use of an in-flight melting/quenching technology such that solid particles are flown in suspension, melted in suspension, and then quenched in suspension. The cementitious reagents can be used in concrete to substantially reduce the CO2 emission associated with cement production.",
+      "publicationNumber": "US20250162938",
+      "publicationDate": "2025-05-22",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "Donald John Lake"
+      ],
+      "applicationDate": "2025-01-17",
+      "claimsCount": 16,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "US-20250122122-A1",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "Described are cementitious reagent materials produced from globally abundant inorganic feedstocks. Also described are methods for the manufacture of such cementitious reagent materials and forming the reagent materials as microspheroidal glassy particles. Also described are apparatuses, systems and methods for the thermochemical production of glassy cementitious reagents with spheroidal morphology. The apparatuses, systems and methods makes use of an in-flight melting/quenching technology such that solid particles are flown in suspension, melted in suspension, and then quenched in suspension. The cementitious reagents can be used in concrete to substantially reduce the CO2 emission associated with cement production.",
+      "publicationNumber": "US20250122122",
+      "publicationDate": "2025-04-17",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "Donald John Lake"
+      ],
+      "applicationDate": "2024-12-19",
+      "claimsCount": 21,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Chemical engineering",
+        "Materials, metallurgy",
+        "Other special machines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "US-20240132402-A1",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "Described are cementitious reagent materials produced from globally abundant inorganic feedstocks. Also described are methods for the manufacture of such cementitious reagent materials and forming the reagent materials as microspheroidal glassy particles. Also described are apparatuses, systems and methods for the thermochemical production of glassy cementitious reagents with spheroidal morphology. The apparatuses, systems and methods make use of an in-flight melting/quenching technology such that solid particles are flown in suspension, melted in suspension, and then quenched in suspension. The cementitious reagents can be used in concrete to substantially reduce the CO2 emission associated with cement production.",
+      "publicationNumber": "US20240132402",
+      "publicationDate": "2024-04-25",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "Donald John Lake"
+      ],
+      "applicationDate": "2023-12-27",
+      "claimsCount": 15,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "US-20230365465-A1",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "Described are cementitious reagent materials produced from globally abundant inorganic feedstocks. Also described are methods for the manufacture of such cementitious reagent materials and forming the reagent materials as microspheroidal glassy particles. Also described are apparatuses, systems and methods for the thermochemical production of glassy cementitious reagents with spheroidal morphology. The apparatuses, systems and methods makes use of an in-flight melting/quenching technology such that solid particles are flown in suspension, melted in suspension, and then quenched in suspension. The cementitious reagents can be used in concrete to substantially reduce the CO2 emission associated with cement production.",
+      "publicationNumber": "US20230365465",
+      "publicationDate": "2023-11-16",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "Donald John Lake"
+      ],
+      "applicationDate": "2023-07-24",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Chemical engineering",
+        "Materials, metallurgy",
+        "Other special machines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "US-20230192544-A1",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "Described are cementitious reagent materials produced from globally abundant inorganic feedstocks. Also described are methods for the manufacture of such cementitious reagent materials and forming the reagent materials as microspheroidal glassy particles. Also described are apparatuses, systems and methods for the thermochemical production of glassy cementitious reagents with spheroidal morphology. The apparatuses, systems and methods make use of an in-flight melting/quenching technology such that solid particles are flown in suspension, melted in suspension, and then quenched in suspension. The cementitious reagents can be used in concrete to substantially reduce the CO2 emission associated with cement production.",
+      "publicationNumber": "US20230192544",
+      "publicationDate": "2023-06-22",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "Donald John Lake"
+      ],
+      "applicationDate": "2023-02-07",
+      "claimsCount": 18,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "US-20230131433-A1",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "Described are cementitious reagent materials produced from globally abundant inorganic feedstocks. Also described are methods for the manufacture of such cementitious reagent materials and forming the reagent materials as microspheroidal glassy particles. Also described are apparatuses, systems and methods for the thermochemical production of glassy cementitious reagents with spheroidal morphology. The apparatuses, systems and methods makes use of an in-flight melting/quenching technology such that solid particles are flown in suspension, melted in suspension, and then quenched in suspension. The cementitious reagents can be used in concrete to substantially reduce the CO2 emission associated with cement production.",
+      "publicationNumber": "US20230131433",
+      "publicationDate": "2023-04-27",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "Donald John Lake"
+      ],
+      "applicationDate": "2022-12-15",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Chemical engineering",
+        "Materials, metallurgy",
+        "Other special machines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "US-20230012477-A1",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "Described are cementitious reagent materials produced from globally abundant inorganic feedstocks. Also described are methods for the manufacture of such cementitious reagent materials and forming the reagent materials as microspheroidal glassy particles. Also described are apparatuses, systems and methods for the thermochemical production of glassy cementitious reagents with spheroidal morphology. The apparatuses, systems and methods makes use of an in-flight melting/quenching technology such that solid particles are flown in suspension, melted in suspension, and then quenched in suspension. The cementitious reagents can be used in concrete to substantially reduce the CO2 emission associated with cement production.",
+      "publicationNumber": "US20230012477",
+      "publicationDate": "2023-01-19",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "Donald John Lake"
+      ],
+      "applicationDate": "2022-09-08",
+      "claimsCount": 19,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Chemical engineering",
+        "Materials, metallurgy",
+        "Other special machines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "US-20220332639-A1",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "Described are cementitious reagent materials produced from globally abundant inorganic feedstocks. Also described are methods for the manufacture of such cementitious reagent materials and forming the reagent materials as microspheroidal glassy particles. Also described are apparatuses, systems and methods for the thermochemical production of glassy cementitious reagents with spheroidal morphology. The apparatuses, systems and methods make use of an in-flight melting/quenching technology such that solid particles are flown in suspension, melted in suspension, and then quenched in suspension. The cementitious reagents can be used in concrete to substantially reduce the CO2 emission associated with cement production.",
+      "publicationNumber": "US20220332639",
+      "publicationDate": "2022-10-20",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "Donald John Lake"
+      ],
+      "applicationDate": "2022-04-14",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "US-20220212988-A1",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "Described are cementitious reagent materials produced from globally abundant inorganic feedstocks. Also described are methods for the manufacture of such cementitious reagent materials and forming the reagent materials as microspheroidal glassy particles. Also described are apparatuses, systems and methods for the thermochemical production of glassy cementitious reagents with spheroidal morphology. The apparatuses, systems and methods make use of an in-flight melting/quenching technology such that solid particles are flown in suspension, melted in suspension, and then quenched in suspension. The cementitious reagents can be used in concrete to substantially reduce the CO2 emission associated with cement production.",
+      "publicationNumber": "US20220212988",
+      "publicationDate": "2022-07-07",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "Donald John Lake"
+      ],
+      "applicationDate": "2022-03-14",
+      "claimsCount": 20,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Chemical engineering",
+        "Materials, metallurgy",
+        "Other special machines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "US-20220055946-A1",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "Described are cementitious reagent materials produced from globally abundant inorganic feedstocks. Also described are methods for the manufacture of such cementitious reagent materials and forming the reagent materials as microspheroidal glassy particles. Also described are apparatuses, systems and methods for the thermochemical production of glassy cementitious reagents with spheroidal morphology. The apparatuses, systems and methods makes use of an in-flight melting/quenching technology such that solid particles are flown in suspension, melted in suspension, and then quenched in suspension. The cementitious reagents can be used in concrete to substantially reduce the CO2 emission associated with cement production.",
+      "publicationNumber": "US20220055946",
+      "publicationDate": "2022-02-24",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "Donald John Lake"
+      ],
+      "applicationDate": "2021-11-02",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Chemical engineering",
+        "Materials, metallurgy",
+        "Other special machines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "US-20220041504-A1",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "Described are cementitious reagent materials produced from globally abundant inorganic feedstocks. Also described are methods for the manufacture of such cementitious reagent materials and forming the reagent materials as microspheroidal glassy particles. Also described are apparatuses, systems and methods for the thermochemical production of glassy cementitious reagents with spheroidal morphology. The apparatuses, systems and methods makes use of an in-flight melting/quenching technology such that solid particles are flown in suspension, melted in suspension, and then quenched in suspension. The cementitious reagents can be used in concrete to substantially reduce the CO2 emission associated with cement production.",
+      "publicationNumber": "US20220041504",
+      "publicationDate": "2022-02-10",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "Donald John Lake"
+      ],
+      "applicationDate": "2021-10-26",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Chemical engineering",
+        "Materials, metallurgy",
+        "Other special machines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "US-20210340062-A1",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "Described are cementitious reagent materials produced from globally abundant inorganic feedstocks. Also described are methods for the manufacture of such cementitious reagent materials and forming the reagent materials as microspheroidal glassy particles. Also described are apparatuses, systems and methods for the thermochemical production of glassy cementitious reagents with spheroidal morphology. The apparatuses, systems and methods make use of an in-flight melting/quenching technology such that solid particles are flown in suspension, melted in suspension, and then quenched in suspension. The cementitious reagents can be used in concrete to substantially reduce the CO2 emission associated with cement production.",
+      "publicationNumber": "US20210340062",
+      "publicationDate": "2021-11-04",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "Donald John Lake"
+      ],
+      "applicationDate": "2021-07-07",
+      "claimsCount": 20,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "US-20210331972-A1",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "Described are cementitious reagent materials produced from globally abundant inorganic feedstocks. Also described are methods for the manufacture of such cementitious reagent materials and forming the reagent materials as microspheroidal glassy particles. Also described are apparatuses, systems and methods for the thermochemical production of glassy cementitious reagents with spheroidal morphology. The apparatuses, systems and methods make use of an in-flight melting/quenching technology such that solid particles are flown in suspension, melted in suspension, and then quenched in suspension. The cementitious reagents can be used in concrete to substantially reduce the CO2 emission associated with cement production.",
+      "publicationNumber": "US20210331972",
+      "publicationDate": "2021-10-28",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "Donald John Lake"
+      ],
+      "applicationDate": "2021-07-07",
+      "claimsCount": 20,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "US-20210331971-A1",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "Described are cementitious reagent materials produced from globally abundant inorganic feedstocks. Also described are methods for the manufacture of such cementitious reagent materials and forming the reagent materials as microspheroidal glassy particles. Also described are apparatuses, systems and methods for the thermochemical production of glassy cementitious reagents with spheroidal morphology. The apparatuses, systems and methods make use of an in-flight melting/quenching technology such that solid particles are flown in suspension, melted in suspension, and then quenched in suspension. The cementitious reagents can be used in concrete to substantially reduce the CO2 emission associated with cement production.",
+      "publicationNumber": "US20210331971",
+      "publicationDate": "2021-10-28",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "Donald John Lake"
+      ],
+      "applicationDate": "2021-07-07",
+      "claimsCount": 20,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "US-20210292235-A1",
+      "title": [
+        "ALKALI SULFATE-ACTIVATED BLENDED CEMENT"
+      ],
+      "abstract": "Described are cementitious reagent materials produced from globally abundant inorganic feedstocks. Also described are methods for the manufacture of such cementitious reagent materials and forming the reagent materials as microspheroidal glassy particles. Also described are apparatuses, systems and methods for the thermochemical production of glassy cementitious reagents with spheroidal morphology. The apparatuses, systems and methods make use of an in-flight melting/quenching technology such that solid particles are flown in suspension, melted in suspension, and then quenched in suspension. The cementitious reagents may be combined with Portland cement and an alkali activator to form a blended cement. The cementitious reagents can be used in concrete to substantially reduce the C02 emission associated with cement production.",
+      "publicationNumber": "US20210292235",
+      "publicationDate": "2021-09-23",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "Donald John Lake",
+        "Madhuvandhi Ravi"
+      ],
+      "applicationDate": "2021-03-29",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "US-20210253474-A1",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "Described are cementitious reagent materials produced from globally abundant inorganic feedstocks. Also described are methods for the manufacture of such cementitious reagent materials and forming the reagent materials as microspheroidal glassy particles. Also described are apparatuses, systems and methods for the thermochemical production of glassy cementitious reagents with spheroidal morphology. The apparatuses, systems and methods make use of an in-flight melting/quenching technology such that solid particles are flown in suspension, melted in suspension, and then quenched in suspension. The cementitious reagents can be used in concrete to substantially reduce the CO2 emission associated with cement production.",
+      "publicationNumber": "US20210253474",
+      "publicationDate": "2021-08-19",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "Donald John Lake"
+      ],
+      "applicationDate": "2020-12-18",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "US-20210114929-A1",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "Described are cementitious reagent materials produced from globally abundant inorganic feedstocks. Also described are methods for the manufacture of such cementitious reagent materials and forming the reagent materials as microspheroidal glassy particles. Also described are apparatuses, systems and methods for the thermochemical production of glassy cementitious reagents with spheroidal morphology. The apparatuses, systems and methods makes use of an in-flight melting/quenching technology such that solid particles are flown in suspension, melted in suspension, and then quenched in suspension. The cementitious reagents can be used in concrete to substantially reduce the CO2 emission associated with cement production.",
+      "publicationNumber": "US20210114929",
+      "publicationDate": "2021-04-22",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "Donald John Lake"
+      ],
+      "applicationDate": "2020-12-18",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "US-20210114928-A1",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "Described are cementitious reagent materials produced from globally abundant inorganic feedstocks. Also described are methods for the manufacture of such cementitious reagent materials and forming the reagent materials as microspheroidal glassy particles. Also described are apparatuses, systems and methods for the thermochemical production of glassy cementitious reagents with spheroidal morphology. The apparatuses, systems and methods makes use of an in-flight melting/quenching technology such that solid particles are flown in suspension, melted in suspension, and then quenched in suspension. The cementitious reagents can be used in concrete to substantially reduce the CO2 emission associated with cement production.",
+      "publicationNumber": "US20210114928",
+      "publicationDate": "2021-04-22",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "Donald John Lake"
+      ],
+      "applicationDate": "2020-12-18",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "US-20210107833-A1",
+      "title": [
+        "ALKALI SULFATE-ACTIVATED BLENDED CEMENT"
+      ],
+      "abstract": "Described are cementitious reagent materials produced from globally abundant inorganic feedstocks. Also described are methods for the manufacture of such cementitious reagent materials and forming the reagent materials as microspheroidal glassy particles. Also described are apparatuses, systems and methods for the thermochemical production of glassy cementitious reagents with spheroidal morphology. The apparatuses, systems and methods make use of an in-flight melting/quenching technology such that solid particles are flown in suspension, melted in suspension, and then quenched in suspension. The cementitious reagents may be combined with Portland cement and an alkali activator to form a blended cement. The cementitious reagents can be used in concrete to substantially reduce the CO2 emission associated with cement production.",
+      "publicationNumber": "US20210107833",
+      "publicationDate": "2021-04-15",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "Donald John Lake",
+        "Madhuvandhi Ravi"
+      ],
+      "applicationDate": "2020-12-21",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "US-20210107830-A1",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "Described are cementitious reagent materials produced from globally abundant inorganic feedstocks. Also described are methods for the manufacture of such cementitious reagent materials and forming the reagent materials as microspheroidal glassy particles. Also described are apparatuses, systems and methods for the thermochemical production of glassy cementitious reagents with spheroidal morphology. The apparatuses, systems and methods make use of an in-flight melting/quenching technology such that solid particles are flown in suspension, melted in suspension, and then quenched in suspension. The cementitious reagents can be used in concrete to substantially reduce the CO2 emission associated with cement production.",
+      "publicationNumber": "US20210107830",
+      "publicationDate": "2021-04-15",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "Donald John Lake"
+      ],
+      "applicationDate": "2020-12-21",
+      "claimsCount": 20,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "US-20210032162-A1",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "Described are cementitious reagent materials produced from globally abundant inorganic feedstocks. Also described are methods for the manufacture of such cementitious reagent materials and forming the reagent materials as microspheroidal glassy particles. Also described are apparatuses, systems and methods for the thermochemical production of glassy cementitious reagents with spheroidal morphology. The apparatuses, systems and methods makes use of an in-flight melting/quenching technology such that solid particles are flown in suspension, melted in suspension, and then quenched in suspension. The cementitious reagents can be used in concrete to substantially reduce the CO2 emission associated with cement production.",
+      "publicationNumber": "US20210032162",
+      "publicationDate": "2021-02-04",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "Donald Lake"
+      ],
+      "applicationDate": "2020-06-29",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "PL-3990411-T3",
+      "title": [
+        "METHOD OF MANUFACTURING CEMENTITIOUS REAGENTS"
+      ],
+      "abstract": "",
+      "publicationNumber": "PL3990411",
+      "publicationDate": "2024-04-08",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "DONALD LAKE"
+      ],
+      "applicationDate": "2020-06-29",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "PH-12021553246-A1",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "Described are cementitious reagent materials produced from globally abundant inorganic feedstocks. Also described are methods for the manufacture of such cementitious reagent materials and forming the reagent materials as microspheroidal glassy particles. Also described are apparatuses, systems and methods for the thermochemical production of glassy cementitious reagents with spheroidal morphology. The apparatuses, systems and methods makes use of an in-flight melting/quenching technology such that solid particles are flown in suspension, melted in suspension, and then quenched in suspension. The cementitious reagents can be used in concrete to substantially reduce the CO2 emission associated with cement production.",
+      "publicationNumber": "PH12021553246",
+      "publicationDate": "2022-08-08",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "DONALD LAKE"
+      ],
+      "applicationDate": "2020-06-29",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "NZ-800094-A",
+      "title": [
+        "Cementitious reagents, methods of manufacturing and uses thereof"
+      ],
+      "abstract": "The present disclosure is related to cementitious reagents, and more particularly, to the creation of relatively homogeneous cementitious reagent materials and cementitious materials from abundant heterogeneous feedstocks. Also described are methods for the manufacture of such cementitious reagent materials and forming the reagent materials as microspheroidal glassy particles. Also described are apparatuses, systems and methods for the thermochemical production of glassy cementitious reagents with spheroidal morphology. The apparatuses, systems and methods makes use of an in-flight melting/quenching technology such that solid particles are flown in suspension, melted in suspension, and then quenched in suspension. The cementitious reagents can be used in concrete to substantially reduce the CO2 emission associated with cement production. one such method of reducing CO2 in cement production, comprising the steps of: forming a cementitious reagent, wherein the cementitious reagent: (i) is a non-crystalline solid; (ii) has a particle distribution with D[3,2] of 20 \u00b5m or less; (iii) has less than about 10 wt% CaO; and (iv) is formed by heating an aluminosilicate material to a liquid phase temperature of about 1000-1600 \u00b0C; and adding the cementitious reagent to a binder.",
+      "publicationNumber": "NZ800094",
+      "publicationDate": "2025-02-28",
+      "assignee": [
+        "Terra CO2 Technology Holdings Inc."
+      ],
+      "inventors": [
+        "DONALD LAKE"
+      ],
+      "applicationDate": "2020-06-29",
+      "claimsCount": 15,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "NZ-798978-A",
+      "title": [
+        "Cementitious reagents, methods of manufacturing and uses thereof"
+      ],
+      "abstract": "Described are cementitious reagent materials produced from globally abundant inorganic feedstocks. Also described are methods for the manufacture of such cementitious reagent materials and forming the reagent materials as microspheroidal glassy particles. Also described are apparatuses, systems and methods for the thermochemical production of glassy cementitious reagents with spheroidal morphology. The apparatuses, systems and methods make use of an in-flight melting/quenching technology such that solid particles are flown in suspension, melted in suspension, and then quenched in suspension. The cementitious reagents can be used in concrete to substantially reduce the CO2 emission associated with cement production. A cementitious material comprising: microspheroidal glassy particles having a mean roundness (R) >0.7, and a molar composition containing Si and Al and optionally one or more of Fe, Ca, Mg, Na, and K, wherein the microspheroidal glassy particles have a Sauter mean diameter D[3,2] of from about 1 to about 20 micrometers and are formed by heating an aluminosilicate material to a liquid phase temperature of about 1000-1600 \u00b0C.",
+      "publicationNumber": "NZ798978",
+      "publicationDate": "2023-09-29",
+      "assignee": [
+        "Terra CO2 Technology Holdings Inc."
+      ],
+      "inventors": [
+        "DONALD LAKE"
+      ],
+      "applicationDate": "2020-06-29",
+      "claimsCount": 13,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "NZ-784593-A",
+      "title": [
+        "Cementitious reagents, methods of manufacturing and uses thereof"
+      ],
+      "abstract": "Described are cementitious reagent materials produced from globally abundant inorganic feedstocks. Also described are methods for the manufacture of such cementitious reagent materials and forming the reagent materials as microspheroidal glassy particles. Also described are apparatuses, systems and methods for the thermochemical production of glassy cementitious reagents with spheroidal morphology. The apparatuses, systems and methods make use of an in-flight melting/quenching technology such that solid particles are flown in suspension, melted in suspension, and then quenched in suspension. The cementitious reagents can be used in concrete to substantially reduce the CO2 emission associated with cement production. A method comprising: introducing a particulate feedstock into a chamber; heating the feedstock within the chamber to form molten particles; and cooling the molten particles to form microspheroidal glassy particles having a mean roundness (R)>0.7, and a molar composition containing Si and Al and optionally one or more of Fe, Ca, Mg, Na, and K, wherein the particulate feedstock is suspended within the chamber in a flame comprising an oxidant gas and a combustible fuel.",
+      "publicationNumber": "NZ784593",
+      "publicationDate": "2023-09-29",
+      "assignee": [
+        "Terra CO2 Technology Holdings Inc."
+      ],
+      "inventors": [
+        "DONALD LAKE"
+      ],
+      "applicationDate": "2020-06-29",
+      "claimsCount": 25,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "MX-2025009769-A",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "Described are cementitious reagent materials produced from globally abundant inorganic feedstocks. Also described are methods for the manufacture of such cementitious reagent materials and forming the reagent materials as microspheroidal glassy particles. Also described are apparatuses, systems and methods for the thermochemical production of glassy cementitious reagents with spheroidal morphology. The apparatuses, systems and methods makes use of an in-flight melting/quenching technology such that solid particles are flown in suspension, melted in suspension, and then quenched in suspension. The cementitious reagents can be used in concrete to substantially reduce the CO<sub>2</sub> emission associated with cement production.",
+      "publicationNumber": "MX2025009769",
+      "publicationDate": "2025-09-02",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "LAKE DONALD"
+      ],
+      "applicationDate": "2022-01-03",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Chemical engineering",
+        "Materials, metallurgy",
+        "Other special machines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "MX-2025007493-A",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "Described are cementitious reagent materials produced from globally abundant inorganic feedstocks. Also described are methods for the manufacture of such cementitious reagent materials and forming the reagent materials as microspheroidal glassy particles. Also described are apparatuses, systems and methods for the thermochemical production of glassy cementitious reagents with spheroidal morphology. The apparatuses, systems and methods makes use of an in-flight melting/quenching technology such that solid particles are flown in suspension, melted in suspension, and then quenched in suspension. The cementitious reagents can be used in concrete to substantially reduce the CO<sub>2</sub> emission associated with cement production.",
+      "publicationNumber": "MX2025007493",
+      "publicationDate": "2025-07-01",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "LAKE DONALD"
+      ],
+      "applicationDate": "2022-01-03",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "MX-2025007490-A",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "Described are cementitious reagent materials produced from globally abundant inorganic feedstocks. Also described are methods for the manufacture of such cementitious reagent materials and forming the reagent materials as microspheroidal glassy particles. Also described are apparatuses, systems and methods for the thermochemical production of glassy cementitious reagents with spheroidal morphology. The apparatuses, systems and methods makes use of an in-flight melting/quenching technology such that solid particles are flown in suspension, melted in suspension, and then quenched in suspension. The cementitious reagents can be used in concrete to substantially reduce the CO<sub>2</sub> emission associated with cement production.",
+      "publicationNumber": "MX2025007490",
+      "publicationDate": "2025-07-01",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "LAKE DONALD"
+      ],
+      "applicationDate": "2022-01-03",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "MX-2025002428-A",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "Described are cementitious reagent materials produced from globally abundant inorganic feedstocks. Also described are methods for the manufacture of such cementitious reagent materials and forming the reagent materials as microspheroidal glassy particles. Also described are apparatuses, systems and methods for the thermochemical production of glassy cementitious reagents with spheroidal morphology. The apparatuses, systems and methods makes use of an in-flight melting/quenching technology such that solid particles are flown in suspension, melted in suspension, and then quenched in suspension. The cementitious reagents can be used in concrete to substantially reduce the CO<sub>2</sub> emission associated with cement production.",
+      "publicationNumber": "MX2025002428",
+      "publicationDate": "2025-04-02",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "LAKE DONALD"
+      ],
+      "applicationDate": "2022-01-03",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Materials, metallurgy",
+        "Other special machines"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "MX-2022000184-A",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF."
+      ],
+      "abstract": "Described are cementitious reagent materials produced from globally abundant inorganic feedstocks. Also described are methods for the manufacture of such cementitious reagent materials and forming the reagent materials as microspheroidal glassy particles. Also described are apparatuses, systems and methods for the thermochemical production of glassy cementitious reagents with spheroidal morphology. The apparatuses, systems and methods makes use of an in-flight melting/quenching technology such that solid particles are flown in suspension, melted in suspension, and then quenched in suspension. The cementitious reagents can be used in concrete to substantially reduce the CO<sub>2</sub> emission associated with cement production.",
+      "publicationNumber": "MX2022000184",
+      "publicationDate": "2022-05-20",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "LAKE DONALD"
+      ],
+      "applicationDate": "2020-06-29",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "IL-303105-B2",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "",
+      "publicationNumber": "IL303105",
+      "publicationDate": "2025-03-01",
+      "assignee": [
+        "Terra CO2 Technology Holdings Inc."
+      ],
+      "inventors": [],
+      "applicationDate": "2023-05-21",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Materials, metallurgy",
+        "Other special machines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "IL-303105-B1",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "",
+      "publicationNumber": "IL303105",
+      "publicationDate": "2024-11-01",
+      "assignee": [
+        "Terra CO2 Technology Holdings Inc."
+      ],
+      "inventors": [],
+      "applicationDate": "2023-05-21",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Materials, metallurgy",
+        "Other special machines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "IL-303105-A",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "",
+      "publicationNumber": "IL303105",
+      "publicationDate": "2023-07-01",
+      "assignee": [
+        "Terra CO2 Technology Holdings Inc."
+      ],
+      "inventors": [],
+      "applicationDate": "2023-05-21",
+      "claimsCount": 9,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Materials, metallurgy",
+        "Other special machines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "IL-303104-B2",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "",
+      "publicationNumber": "IL303104",
+      "publicationDate": "2025-03-01",
+      "assignee": [
+        "Terra CO2 Technology Holdings Inc."
+      ],
+      "inventors": [],
+      "applicationDate": "2023-05-21",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Materials, metallurgy",
+        "Other special machines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "IL-303104-B1",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "",
+      "publicationNumber": "IL303104",
+      "publicationDate": "2024-11-01",
+      "assignee": [
+        "Terra CO2 Technology Holdings Inc."
+      ],
+      "inventors": [],
+      "applicationDate": "2023-05-21",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Materials, metallurgy",
+        "Other special machines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "IL-303104-A",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "",
+      "publicationNumber": "IL303104",
+      "publicationDate": "2023-07-01",
+      "assignee": [
+        "Terra CO2 Technology Holdings Inc."
+      ],
+      "inventors": [],
+      "applicationDate": "2023-05-21",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Materials, metallurgy",
+        "Other special machines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "IL-303074-B2",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "",
+      "publicationNumber": "IL303074",
+      "publicationDate": "2025-03-01",
+      "assignee": [
+        "Terra CO2 Technology Holdings Inc."
+      ],
+      "inventors": [],
+      "applicationDate": "2023-05-20",
+      "claimsCount": 20,
+      "independentClaimsCount": 20,
+      "technologyFields": [
+        "Materials, metallurgy",
+        "Other special machines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "IL-303074-B1",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "",
+      "publicationNumber": "IL303074",
+      "publicationDate": "2024-11-01",
+      "assignee": [
+        "Terra CO2 Technology Holdings Inc."
+      ],
+      "inventors": [],
+      "applicationDate": "2023-05-20",
+      "claimsCount": 20,
+      "independentClaimsCount": 20,
+      "technologyFields": [
+        "Materials, metallurgy",
+        "Other special machines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "IL-303074-A",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "",
+      "publicationNumber": "IL303074",
+      "publicationDate": "2023-07-01",
+      "assignee": [
+        "Terra CO2 Technology Holdings Inc."
+      ],
+      "inventors": [],
+      "applicationDate": "2023-05-20",
+      "claimsCount": 20,
+      "independentClaimsCount": 20,
+      "technologyFields": [
+        "Materials, metallurgy",
+        "Other special machines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "IL-303073-B2",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "",
+      "publicationNumber": "IL303073",
+      "publicationDate": "2025-03-01",
+      "assignee": [
+        "Terra CO2 Technology Holdings Inc."
+      ],
+      "inventors": [],
+      "applicationDate": "2023-05-20",
+      "claimsCount": 20,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Materials, metallurgy",
+        "Other special machines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "IL-303073-B1",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "",
+      "publicationNumber": "IL303073",
+      "publicationDate": "2024-11-01",
+      "assignee": [
+        "Terra CO2 Technology Holdings Inc."
+      ],
+      "inventors": [],
+      "applicationDate": "2023-05-20",
+      "claimsCount": 20,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Materials, metallurgy",
+        "Other special machines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "IL-303073-A",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "",
+      "publicationNumber": "IL303073",
+      "publicationDate": "2023-07-01",
+      "assignee": [
+        "Terra CO2 Technology Holdings Inc."
+      ],
+      "inventors": [],
+      "applicationDate": "2023-05-20",
+      "claimsCount": 20,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Materials, metallurgy",
+        "Other special machines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "IL-289443-B2",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "",
+      "publicationNumber": "IL289443",
+      "publicationDate": "2025-02-01",
+      "assignee": [
+        "Terra CO2 Technology Holdings Inc."
+      ],
+      "inventors": [],
+      "applicationDate": "2021-12-27",
+      "claimsCount": 28,
+      "independentClaimsCount": 6,
+      "technologyFields": [
+        "Materials, metallurgy",
+        "Other special machines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "IL-289443-B1",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "",
+      "publicationNumber": "IL289443",
+      "publicationDate": "2024-10-01",
+      "assignee": [
+        "Terra CO2 Technology Holdings Inc."
+      ],
+      "inventors": [],
+      "applicationDate": "2021-12-27",
+      "claimsCount": 28,
+      "independentClaimsCount": 6,
+      "technologyFields": [
+        "Materials, metallurgy",
+        "Other special machines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "IL-289443-A",
+      "title": [
+        "Cementitious reagents, methods of manufacturing and uses thereof"
+      ],
+      "abstract": "",
+      "publicationNumber": "IL289443",
+      "publicationDate": "2022-02-01",
+      "assignee": [
+        "Terra CO2 Technology Holdings Inc."
+      ],
+      "inventors": [],
+      "applicationDate": "2021-12-27",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 18.129715
+    },
+    {
+      "id": "ES-2964315-T3",
+      "title": [
+        "M\u00e9todo de fabricaci\u00f3n de reactivos cementosos"
+      ],
+      "abstract": "Se describen materiales reactivos cementosos producidos a partir de materias primas inorg\u00e1nicas abundantes en todo el mundo. Tambi\u00e9n se describen m\u00e9todos para la fabricaci\u00f3n de dichos materiales reactivos cementosos y la formaci\u00f3n de los materiales reactivos como part\u00edculas v\u00edtreas microesferoidales. Tambi\u00e9n se describen aparatos, sistemas y m\u00e9todos para la producci\u00f3n termoqu\u00edmica de reactivos cementosos v\u00edtreos con morfolog\u00eda esferoidal. Los aparatos, sistemas y m\u00e9todos hacen uso de una tecnolog\u00eda de fusi\u00f3n/enfriamiento en vuelo de manera que las part\u00edculas s\u00f3lidas se hacen volar en suspensi\u00f3n, se funden en suspensi\u00f3n y luego se enfr\u00edan en suspensi\u00f3n. Los reactivos cementosos se pueden utilizar en el hormig\u00f3n para reducir sustancialmente las emisiones de CO2 asociadas con la producci\u00f3n de cemento. (Traducci\u00f3n autom\u00e1tica con Google Translate, sin valor legal)",
+      "publicationNumber": "ES2964315",
+      "publicationDate": "2024-04-05",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "DONALD LAKE"
+      ],
+      "applicationDate": "2020-06-29",
+      "claimsCount": 3,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "EP-4675044-A2",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "A method comprising: entraining solid aluminosilicate feedstock particles in a conveying gas stream; optionally pre-heating the aluminosilicate feedstock particles to a temperature insufficient to substantially melt the solid particles; flowing the aluminosilicate feedstock particles through a burner or combustion zone; heating the aluminosilicate feedstock particles to a temperature sufficient to melt the solid particles and form molten particles; and cooling the molten particles to form microspheroidal glassy particles having a mean roundness (R) > 0.7, and a molar composition containing Si and Al and optionally one or more of Fe, Ca, Mg, Na, and K, wherein: 0.4<SiSi+Al+Fe+Ca+Mg+Na+K<0.9; and 0.1<AlSi+Al+Fe+Ca+Mg+Na+K<0.3.",
+      "publicationNumber": "EP4675044",
+      "publicationDate": "2026-01-07",
+      "assignee": [
+        "Terra CO2 Technology Holdings, Inc."
+      ],
+      "inventors": [
+        "DONALD JOHN LAKE"
+      ],
+      "applicationDate": "2021-12-16",
+      "claimsCount": 11,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Civil engineering"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "EP-4263942-A4",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP4263942",
+      "publicationDate": "2024-10-23",
+      "assignee": [
+        "Terra CO2 Technology Holdings, Inc."
+      ],
+      "inventors": [
+        "DONALD JOHN LAKE"
+      ],
+      "applicationDate": "2021-12-16",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Civil engineering"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "EP-4263942-A1",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "Described are cementitious reagent materials produced from globally abundant inorganic feedstocks. Also described are methods for the manufacture of such cementitious reagent materials and forming the reagent materials as microspheroidal glassy particles. Also described are apparatuses, systems and methods for the thermochemical production of glassy cementitious reagents with spheroidal morphology. The apparatuses, systems and methods make use of an in-flight melting/quenching technology such that solid particles are flown in suspension, melted in suspension, and then quenched in suspension. The cementitious reagents can be used in concrete to substantially reduce the CO2 emission associated with cement production.",
+      "publicationNumber": "EP4263942",
+      "publicationDate": "2023-10-25",
+      "assignee": [
+        "Terra CO2 Technology Holdings, Inc."
+      ],
+      "inventors": [
+        "DONALD JOHN LAKE"
+      ],
+      "applicationDate": "2021-12-16",
+      "claimsCount": 20,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Civil engineering"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "EP-4212493-A1",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "Provided is a cementitious reagent comprising: microspheroidal glassy particles having a molar composition containing Si and Al and optionally one or more of Fe, Ca, Mg, Na, and K, wherein: about 0.067<SiSi+Al+Fe+Ca+Mg+Na+K<about0.95; and about 0<AlSi+Al+Fe+Ca+Mg+Na+K< about 0.488.",
+      "publicationNumber": "EP4212493",
+      "publicationDate": "2023-07-19",
+      "assignee": [
+        "Terra CO2 Technology Holdings, Inc."
+      ],
+      "inventors": [
+        "DONALD LAKE"
+      ],
+      "applicationDate": "2020-06-29",
+      "claimsCount": 14,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "EP-4212492-A1",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "Provided is a method for producing a cementitious reagent from aluminosilicate materials, comprising the steps of: (i) providing a solid aluminosilicate material; (ii) in-flight melting/quenching said solid aluminosilicate material to melt said material into a liquid and thereafter to quench said liquid to obtain a molten/quenched powder comprising solid microspheroidal glassy particles; thereby obtaining a cementitious reagent with said powder of microspheroidal glassy particles; wherein said particles comprise a molar composition comprising Si and Al and optionally one or more of Fe, Ca, Mg, Na and K, such that: about 0.067<SiSi+Al+Fe+Ca+Mg+Na+K<about0.095; and about0<AlSi+Al+Fe+Ca+Mg+Na+K<about0.488.",
+      "publicationNumber": "EP4212492",
+      "publicationDate": "2023-07-19",
+      "assignee": [
+        "Terra CO2 Technology Holdings, Inc."
+      ],
+      "inventors": [
+        "DONALD LAKE"
+      ],
+      "applicationDate": "2020-06-29",
+      "claimsCount": 15,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "EP-3990411-A1",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "Described are cementitious reagent materials produced from globally abundant inorganic feedstocks. Also described are methods for the manufacture of such cementitious reagent materials and forming the reagent materials as microspheroidal glassy particles. Also described are apparatuses, systems and methods for the thermochemical production of glassy cementitious reagents with spheroidal morphology. The apparatuses, systems and methods makes use of an in-flight melting/quenching technology such that solid particles are flown in suspension, melted in suspension, and then quenched in suspension. The cementitious reagents can be used in concrete to substantially reduce the CO2 emission associated with cement production.",
+      "publicationNumber": "EP3990411",
+      "publicationDate": "2022-05-04",
+      "assignee": [
+        "Terra CO2 Technology Holdings, Inc."
+      ],
+      "inventors": [
+        "DONALD LAKE"
+      ],
+      "applicationDate": "2020-06-29",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "CO-2022000689-A2",
+      "title": [
+        "Reactivos de cemento, m\u00e9todos de fabricaci\u00f3n y usos de los mismos"
+      ],
+      "abstract": "Se describen materiales reactivos de cemento producidos a partir de materias primas inorg\u00e1nicas abundantes a nivel mundial. Tambi\u00e9n se describen m\u00e9todos para la fabricaci\u00f3n de los materiales reactivos de cemento y la formaci\u00f3n de los materiales reactivos como part\u00edculas v\u00edtreas microesferoidales. Tambi\u00e9n se describen aparatos, sistemas y m\u00e9todos para la producci\u00f3n termoqu\u00edmica de reactivos de cemento v\u00edtreo con morfolog\u00eda esferoidal. Los aparatos, sistemas y m\u00e9todos hacen uso de una tecnolog\u00eda de fusi\u00f3n/templado en vuelo de modo que las part\u00edculas s\u00f3lidas se hacen volar en suspensi\u00f3n, se funden en suspensi\u00f3n y luego se templan en suspensi\u00f3n. Los reactivos de cemento se pueden usar en concreto para reducir sustancialmente la emisi\u00f3n de CO2 asociada con la producci\u00f3n de cemento.",
+      "publicationNumber": "CO2022000689",
+      "publicationDate": "2022-04-29",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "DONALD LAKE"
+      ],
+      "applicationDate": "2022-01-26",
+      "claimsCount": 20,
+      "independentClaimsCount": 11,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "CL-2023000325-A1",
+      "title": [
+        "Reactivos cementosos, m\u00e9todos de fabricaci\u00f3n y usos de los mismos (div. solicitud 2021-03481)"
+      ],
+      "abstract": "Se describen materiales reactivos cementosos producidos a partir de materias primas inorg\u00e1nicas abundantes mundialmente. Tambi\u00e9n se describen m\u00e9todos para fabricar dichos materiales y formar los materiales reactivos como part\u00edculas v\u00edtreas microesferoidales. Tambi\u00e9n define aparatos, sistemas para la producci\u00f3n termoqu\u00edmica dichos reactivos cementosos. Los reactivos cementosos pueden utilizarse en hormig\u00f3n para reducir sustancialmente la emisi\u00f3n de CO2 asociada a la producci\u00f3n de cemento.",
+      "publicationNumber": "CL2023000325",
+      "publicationDate": "2023-08-04",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "DONALD LAKE"
+      ],
+      "applicationDate": "2023-02-01",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "CL-2023000324-A1",
+      "title": [
+        "Reactivos cementosos, m\u00e9todos de fabricaci\u00f3n y usos de los mismos (div. solicitud 2021-03481)"
+      ],
+      "abstract": "Se describen materiales reactivos cementosos producidos a partir de materias primas inorg\u00e1nicas abundantes mundialmente. Tambi\u00e9n se describen m\u00e9todos para fabricar dichos materiales y formar los materiales reactivos como part\u00edculas v\u00edtreas microesferoidales. Tambi\u00e9n define aparatos, sistemas para la producci\u00f3n termoqu\u00edmica dichos reactivos cementosos. Los reactivos cementosos pueden utilizarse en hormig\u00f3n para reducir sustancialmente la emisi\u00f3n de CO2 asociada a la producci\u00f3n de cemento.",
+      "publicationNumber": "CL2023000324",
+      "publicationDate": "2023-08-04",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "DONALD LAKE"
+      ],
+      "applicationDate": "2023-02-01",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "CL-2023000323-A1",
+      "title": [
+        "Reactivos cementosos, m\u00e9todos de fabricaci\u00f3n y usos de los mismos (div. solicitud 2021-03481)"
+      ],
+      "abstract": "Se describen materiales reactivos cementosos producidos a partir de materias primas inorg\u00e1nicas abundantes mundialmente. Tambi\u00e9n se describen m\u00e9todos para fabricar dichos materiales y formar los materiales reactivos como part\u00edculas v\u00edtreas microesferoidales. Tambi\u00e9n define aparatos, sistemas para la producci\u00f3n termoqu\u00edmica dichos reactivos cementosos. Los reactivos cementosos pueden utilizarse en hormig\u00f3n para reducir sustancialmente la emisi\u00f3n de CO2 asociada a la producci\u00f3n de cemento.",
+      "publicationNumber": "CL2023000323",
+      "publicationDate": "2023-08-04",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "DONALD LAKE"
+      ],
+      "applicationDate": "2023-02-01",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "CL-2023000322-A1",
+      "title": [
+        "Reactivos cementosos, m\u00e9todos de fabricaci\u00f3n y usos de los mismos (div. solicitud 2021-03481)"
+      ],
+      "abstract": "Se describen materiales reactivos cementosos producidos a partir de materias primas inorg\u00e1nicas abundantes mundialmente. Tambi\u00e9n se describen m\u00e9todos para fabricar dichos materiales y formar los materiales reactivos como part\u00edculas v\u00edtreas microesferoidales. Tambi\u00e9n define aparatos, sistemas para la producci\u00f3n termoqu\u00edmica dichos reactivos cementosos. Los reactivos cementosos pueden utilizarse en hormig\u00f3n para reducir sustancialmente la emisi\u00f3n de CO2 asociada a la producci\u00f3n de cemento.",
+      "publicationNumber": "CL2023000322",
+      "publicationDate": "2023-08-04",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "DONALD LAKE"
+      ],
+      "applicationDate": "2023-02-01",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "CL-2023000321-A1",
+      "title": [
+        "Reactivos cementosos, m\u00e9todos de fabricaci\u00f3n y usos de los mismos (div. solicitud 2021-03481)"
+      ],
+      "abstract": "Se describen materiales reactivos cementosos producidos a partir de materias primas inorg\u00e1nicas abundantes mundialmente. Tambi\u00e9n se describen m\u00e9todos para fabricar dichos materiales y formar los materiales reactivos como part\u00edculas v\u00edtreas microesferoidales. Tambi\u00e9n define aparatos, sistemas para la producci\u00f3n termoqu\u00edmica dichos reactivos cementosos. Los reactivos cementosos pueden utilizarse en hormig\u00f3n para reducir sustancialmente la emisi\u00f3n de CO2 asociada a la producci\u00f3n de cemento.",
+      "publicationNumber": "CL2023000321",
+      "publicationDate": "2023-08-04",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "DONALD LAKE"
+      ],
+      "applicationDate": "2023-02-01",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "CL-2021003481-A1",
+      "title": [
+        "Reactivos cementosos, m\u00e9todos de fabricaci\u00f3n y usos de los mismos"
+      ],
+      "abstract": "Se describen materiales reactivos cementosos producidos a partir de materias primas inorg\u00e1nicas abundantes mundialmente. Tambi\u00e9n se describen m\u00e9todos para fabricar dichos materiales y formar los materiales reactivos como part\u00edculas v\u00edtreas microesferoidales. Tambi\u00e9n define aparatos, sistemas para la producci\u00f3n termoqu\u00edmica dichos reactivos cementosos. Los reactivos cementosos pueden utilizarse en hormig\u00f3n para reducir sustancialmente la emisi\u00f3n de CO2 asociada a la producci\u00f3n de cemento.",
+      "publicationNumber": "CL2021003481",
+      "publicationDate": "2022-08-26",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "DONALD LAKE"
+      ],
+      "applicationDate": "2021-12-24",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "BR-122022006030-A2",
+      "title": [
+        "REAGENTES CIMENT\u00cdCIOS, M\u00c9TODOS DE FABRICA\u00c7\u00c3O E SEUS USOS"
+      ],
+      "abstract": "REAGENTES CIMENT\u00cdCIOS, M\u00c9TODOS DE FABRICA\u00c7\u00c3O E SEUS USOS S\u00e3o descritos materiais reagentes ciment\u00edcios produzidos a partir de mat\u00e9rias-primas inorg\u00e2nicas globalmente abundantes. Tamb\u00e9m s\u00e3o descritos m\u00e9todos para a fabrica\u00e7\u00e3o de tais materiais reagentes ciment\u00edcios e forma\u00e7\u00e3o dos materiais reagentes, como part\u00edculas v\u00edtreas microesferoidais. Tamb\u00e9m s\u00e3o descritos aparelhos, sistemas e m\u00e9todos para a produ\u00e7\u00e3o termoqu\u00edmica de reagentes ciment\u00edcios v\u00edtreos com morfologia esferoidal. Os aparelhos, sistemas e m\u00e9todos fazem uso de uma tecnologia de fus\u00e3o/ arrefecimento em voo, de modo que as part\u00edculas s\u00f3lidas voem em suspens\u00e3o, sejam fundidas em suspens\u00e3o e, em seguida, arrefecidas em suspens\u00e3o. Os reagentes ciment\u00edcios podem ser usados em concreto para reduzir substancialmente a emiss\u00e3o de CO2 associada \u00e0 produ\u00e7\u00e3o ciment\u00edcia.",
+      "publicationNumber": "BR122022006030",
+      "publicationDate": "2024-03-05",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC"
+      ],
+      "inventors": [
+        "DONALD JOHN LAKE"
+      ],
+      "applicationDate": "2020-06-29",
+      "claimsCount": 8,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "BR-112021026455-A2",
+      "title": [
+        "Reagentes ciment\u00edcios, m\u00e9todos de fabrica\u00e7\u00e3o e seus usos"
+      ],
+      "abstract": "reagentes ciment\u00edcios, m\u00e9todos de fabrica\u00e7\u00e3o e seus usos. s\u00e3o descritos materiais reagentes ciment\u00edcios produzidos a partir de mat\u00e9rias-primas inorg\u00e2nicas globalmente abundantes. tamb\u00e9m s\u00e3o descritos m\u00e9todos para a fabrica\u00e7\u00e3o de tais materiais reagentes ciment\u00edcios e forma\u00e7\u00e3o dos materiais reagentes, como part\u00edculas v\u00edtreas microesferoidais. tamb\u00e9m s\u00e3o descritos aparelhos, sistemas e m\u00e9todos para a produ\u00e7\u00e3o termoqu\u00edmica de reagentes ciment\u00edcios v\u00edtreos com morfologia esferoidal. os aparelhos, sistemas e m\u00e9todos fazem uso de uma tecnologia de fus\u00e3o/ arrefecimento em voo, de modo que as part\u00edculas s\u00f3lidas voem em suspens\u00e3o, sejam fundidas em suspens\u00e3o e, em seguida, arrefecidas em suspens\u00e3o. os reagentes ciment\u00edcios podem ser usados em concreto para reduzir substancialmente a emiss\u00e3o de co2 associada \u00e0 produ\u00e7\u00e3o ciment\u00edcia.",
+      "publicationNumber": "BR112021026455",
+      "publicationDate": "2022-04-12",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "Donald John Lake"
+      ],
+      "applicationDate": "2020-06-29",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "AU-2025270988-A1",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "Described are cementitious reagent materials produced from globally abundant inorganic feedstocks. Also described are methods for the manufacture of such cementitious reagent materials and forming the reagent materials as microspheroidal glassy particles. Also described are apparatuses, systems and methods for the thermochemical production of glassy cementitious reagents with spheroidal morphology. The apparatuses, systems and methods makes use of an in-flight melting/quenching technology such that solid particles are flown in suspension, melted in suspension, and then quenched in suspension. The cementitious reagents can be used in concrete to substantially reduce the CO2 emission associated with cement production.",
+      "publicationNumber": "AU2025270988",
+      "publicationDate": "2025-12-11",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "DONALD LAKE"
+      ],
+      "applicationDate": "2025-11-18",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "AU-2024200853-B2",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "#$%^&*AU2024200853B220250925.pdf##### ABSTRACT Described are cementitious reagent materials produced from globally abundant inorganic feedstocks. Also described are methods for the manufacture of such cementitious reagent materials and forming the reagent materials as microspheroidal glassy particles. Also described are apparatuses, systems and methods for the thermochemical production of glassy cementitious reagents with spheroidal morphology. The apparatuses, systems and methods makes use of an in-flight melting/quenching technology such that solid particles are flown in suspension, melted in suspension, and then quenched in suspension. The cementitious reagents can be used in concrete to substantially reduce the CO2 emission associated with cement production. ABSTRACT Described are cementitious reagent materials produced from globally abundant inorganic feedstocks. Also described are methods for the manufacture of such cementitious reagent materials and forming the reagent materials as microspheroidal glassy particles. Also described are apparatuses, systems and methods for the thermochemical production of glassy cementitious reagents with spheroidal morphology. The apparatuses, systems and methods makes use of an in-flight melting/quenching technology such that solid particles are flown in suspension, melted in suspension, and then quenched in suspension. The cementitious reagents can be used in concrete to substantially reduce the CO2 emission associated with cement production.20 24 20 08 53 09 F eb 2 02 4 A B S T R A C T 2 0 2 4 2 0 0 8 5 3 0 9 F e b 2 0 2 4 D e s c r i b e d a r e c e m e n t i t i o u s r e a g e n t m a t e r i a l s p r o d u c e d f r o m g l o b a l l y a b u n d a n t i n o r g a n i c f e e d s t o c k s . A l s o d e s c r i b e d a r e m e t h o d s f o r t h e m a n u f a c t u r e o f s u c h c e m e n t i t i o u s r e a g e n t m a t e r i a l s a n d f o r m i n g t h e r e a g e n t m a t e r i a l s a s m i c r o s p h e r o i d a l g l a s s y p a r t i c l e s . A l s o d e s c r i b e d a r e a p p a r a t u s e s , s y s t e m s a n d m e t h o d s f o r t h e t h e r m o c h e m i c a l p r o d u c t i o n o f g l a s s y c e m e n t i t i o u s r e a g e n t s w i t h s p h e r o i d a l m o r p h o l o g y . T h e a p p a r a t u s e s , s y s t e m s a n d m e t h o d s m a k e s u s e o f a n i n - f l i g h t m e l t i n g / q u e n c h i n g t e c h n o l o g y s u c h t h a t s o l i d p a r t i c l e s a r e f l o w n i n s u s p e n s i o n , m e l t e d i n s u s p e n s i o n , a n d t h e n q u e n c h e d i n s u s p e n s i o n . T h e c e m e n t i t i o u s r e a g e n t s c a n b e u s e d i n c o n c r e t e t o s u b s t a n t i a l l y r e d u c e t h e C O 2 e m i s s i o n a s s o c i a t e d w i t h c e m e n t p r o d u c t i o n .",
+      "publicationNumber": "AU2024200853",
+      "publicationDate": "2025-09-25",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "DONALD LAKE"
+      ],
+      "applicationDate": "2024-02-09",
+      "claimsCount": 20,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "AU-2024200853-A1",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "Described are cementitious reagent materials produced from globally abundant inorganic feedstocks. Also described are methods for the manufacture of such cementitious reagent materials and forming the reagent materials as microspheroidal glassy particles. Also described are apparatuses, systems and methods for the thermochemical production of glassy cementitious reagents with spheroidal morphology. The apparatuses, systems and methods makes use of an in-flight melting/quenching technology such that solid particles are flown in suspension, melted in suspension, and then quenched in suspension. The cementitious reagents can be used in concrete to substantially reduce the C02 emission associated with cement production.",
+      "publicationNumber": "AU2024200853",
+      "publicationDate": "2024-02-29",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "DONALD LAKE"
+      ],
+      "applicationDate": "2024-02-09",
+      "claimsCount": 20,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "AU-2022263528-B2",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "Described are cementitious reagent materials produced from globally abundant inorganic feedstocks. Also described are methods for the manufacture of such cementitious reagent materials and forming the reagent materials as microspheroidal glassy particles. Also described are apparatuses, systems and methods for the thermochemical production of glassy cementitious reagents with spheroidal morphology. The apparatuses, systems and methods makes use of an in flight melting/quenching technology such that solid particles are flown in suspension, melted in suspension, and then quenched in suspension. The cementitious reagents can be used in concrete to substantially reduce the C02 emission associated with cement production.",
+      "publicationNumber": "AU2022263528",
+      "publicationDate": "2024-03-14",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "DONALD LAKE"
+      ],
+      "applicationDate": "2022-11-03",
+      "claimsCount": 15,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "AU-2022263528-A1",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "Described are cementitious reagent materials produced from globally abundant inorganic feedstocks. Also described are methods for the manufacture of such cementitious reagent materials and forming the reagent materials as microspheroidal glassy particles. Also described are apparatuses, systems and methods for the thermochemical production of glassy cementitious reagents with spheroidal morphology. The apparatuses, systems and methods makes use of an in flight melting/quenching technology such that solid particles are flown in suspension, melted in suspension, and then quenched in suspension. The cementitious reagents can be used in concrete to substantially reduce the C02 emission associated with cement production.",
+      "publicationNumber": "AU2022263528",
+      "publicationDate": "2022-12-08",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "DONALD LAKE"
+      ],
+      "applicationDate": "2022-11-03",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "AU-2022204367-B2",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "Described are cementitious reagent materials produced from globally abundant inorganic feedstocks. Also described are methods for the manufacture of such cementitious reagent materials and forming the reagent materials as microspheroidal glassy particles. Also described are apparatuses, systems and methods for the thermochemical production of glassy cementitious reagents with spheroidal morphology. The apparatuses, systems and methods makes use of an in-flight melting/quenching technology such that solid particles are flown in suspension, melted in suspension, and then quenched in suspension. The cementitious reagents can be used in concrete to substantially reduce the C02 emission associated with cement production.",
+      "publicationNumber": "AU2022204367",
+      "publicationDate": "2023-02-02",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "DONALD LAKE"
+      ],
+      "applicationDate": "2022-06-22",
+      "claimsCount": 20,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "AU-2022204367-A1",
+      "title": [
+        "CEMENTITIOUS REAGENTS, METHODS OF MANUFACTURING AND USES THEREOF"
+      ],
+      "abstract": "Described are cementitious reagent materials produced from globally abundant inorganic feedstocks. Also described are methods for the manufacture of such cementitious reagent materials and forming the reagent materials as microspheroidal glassy particles. Also described are apparatuses, systems and methods for the thermochemical production of glassy cementitious reagents with spheroidal morphology. The apparatuses, systems and methods makes use of an in-flight melting/quenching technology such that solid particles are flown in suspension, melted in suspension, and then quenched in suspension. The cementitious reagents can be used in concrete to substantially reduce the C02 emission associated with cement production.",
+      "publicationNumber": "AU2022204367",
+      "publicationDate": "2022-07-14",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "DONALD LAKE"
+      ],
+      "applicationDate": "2022-06-22",
+      "claimsCount": 30,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "AU-2020303728-B2",
+      "title": [
+        "Cementitious reagents, methods of manufacturing and uses thereof"
+      ],
+      "abstract": "Described are cementitious reagent materials produced from globally abundant inorganic feedstocks. Also described are methods for the manufacture of such cementitious reagent materials and forming the reagent materials as microspheroidal glassy particles. Also described are apparatuses, systems and methods for the thermochemical production of glassy cementitious reagents with spheroidal morphology. The apparatuses, systems and methods makes use of an in-flight melting/quenching technology such that solid particles are flown in suspension, melted in suspension, and then quenched in suspension. The cementitious reagents can be used in concrete to substantially reduce the CO",
+      "publicationNumber": "AU2020303728",
+      "publicationDate": "2022-08-04",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "DONALD LAKE"
+      ],
+      "applicationDate": "2020-06-29",
+      "claimsCount": 27,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "AU-2020303728-A1",
+      "title": [
+        "Cementitious reagents, methods of manufacturing and uses thereof"
+      ],
+      "abstract": "Described are cementitious reagent materials produced from globally abundant inorganic feedstocks. Also described are methods for the manufacture of such cementitious reagent materials and forming the reagent materials as microspheroidal glassy particles. Also described are apparatuses, systems and methods for the thermochemical production of glassy cementitious reagents with spheroidal morphology. The apparatuses, systems and methods makes use of an in-flight melting/quenching technology such that solid particles are flown in suspension, melted in suspension, and then quenched in suspension. The cementitious reagents can be used in concrete to substantially reduce the CO",
+      "publicationNumber": "AU2020303728",
+      "publicationDate": "2022-02-24",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "DONALD LAKE"
+      ],
+      "applicationDate": "2020-06-29",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "AR-129259-A2",
+      "title": [
+        "REACTIVOS CEMENTICIOS, HORMIG\u00d3N S\u00d3LIDO Y M\u00c9TODOS DE MANUFACTURA DE LOS REACTIVOS CEMENTICIOS"
+      ],
+      "abstract": "Se describen materiales reactivos cementicios producidos a partir de materias primas inorg\u00e1nicas abundantes globalmente. Tambi\u00e9n se describen m\u00e9todos para la manufactura de tales materiales reactivos cementicios y la formaci\u00f3n de los materiales reactivos como part\u00edculas v\u00edtreas microesferoidales. Tambi\u00e9n se describen aparatos, sistemas y m\u00e9todos para la producci\u00f3n termoqu\u00edmica de reactivos cementicios v\u00edtreos con morfolog\u00eda esferoidal. Los aparatos, sistemas y m\u00e9todos utilizan una tecnolog\u00eda de fusi\u00f3n / enfriado r\u00e1pido sobre la marcha de tal manera que las part\u00edculas s\u00f3lidas se ponen en suspensi\u00f3n, son fundidas en suspensi\u00f3n, y entonces enfriadas r\u00e1pidamente en suspensi\u00f3n. Los reactivos cementicios se pueden utilizar en hormig\u00f3n para reducir sustancialmente las emisiones de CO\u2082 asociadas a la producci\u00f3n de cemento.",
+      "publicationNumber": "AR129259",
+      "publicationDate": "2024-08-07",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "DONALD JOHN LAKE"
+      ],
+      "applicationDate": "2023-05-08",
+      "claimsCount": 48,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "AR-124428-A1",
+      "title": [
+        "CEMENTO MEZCLADO ACTIVADO CON SULFATO ALCALINO"
+      ],
+      "abstract": "Se describen materiales reactivos cementicios producidos a partir de materias primas inorg\u00e1nicas abundantes globalmente. Tambi\u00e9n se describen m\u00e9todos para la manufactura de tales materiales reactivos cementicios y la formaci\u00f3n de los materiales reactivos como part\u00edculas v\u00edtreas microesferoidales. Tambi\u00e9n se describen aparatos, sistemas y m\u00e9todos para la producci\u00f3n termoqu\u00edmica de reactivos cementicios v\u00edtreos con morfolog\u00eda esferoidal. Los aparatos, sistemas y m\u00e9todos utilizan una tecnolog\u00eda de fusi\u00f3n / enfriado r\u00e1pido sobre la marcha de tal manera que las part\u00edculas s\u00f3lidas se ponen en suspensi\u00f3n, son fundidas en suspensi\u00f3n, y entonces enfriadas r\u00e1pidamente en suspensi\u00f3n. Los reactivos cementicios pueden ser combinados con cemento Portland y un activador alcalino para formar un cemento mezclado. Los reactivos cementicios se pueden utilizar en hormig\u00f3n para reducir sustancialmente las emisiones de CO\u2082 asociadas a la producci\u00f3n de cemento.",
+      "publicationNumber": "AR124428",
+      "publicationDate": "2023-03-29",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "DONALD JOHN LAKE",
+        "MADHUVANDHI RAVI"
+      ],
+      "applicationDate": "2021-12-20",
+      "claimsCount": 18,
+      "independentClaimsCount": 7,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "AR-124427-A1",
+      "title": [
+        "REACTIVOS CEMENTICIOS, M\u00c9TODOS DE MANUFACTURA Y USOS DE LOS MISMOS"
+      ],
+      "abstract": "Se describen materiales reactivos cementicios producidos a partir de materias primas inorg\u00e1nicas abundantes globalmente. Tambi\u00e9n se describen m\u00e9todos para la manufactura de tales materiales reactivos cementicios y la formaci\u00f3n de los materiales reactivos como part\u00edculas v\u00edtreas microesferoidales. Tambi\u00e9n se describen aparatos, sistemas y m\u00e9todos para la producci\u00f3n termoqu\u00edmica de reactivos cementicios v\u00edtreos con morfolog\u00eda esferoidal. Los aparatos, sistemas y m\u00e9todos utilizan una tecnolog\u00eda de fusi\u00f3n / enfriado r\u00e1pido sobre la marcha de tal manera que las part\u00edculas s\u00f3lidas se ponen en suspensi\u00f3n, son fundidas en suspensi\u00f3n, y entonces enfriadas r\u00e1pidamente en suspensi\u00f3n. Los reactivos cementicios se pueden utilizar en hormig\u00f3n para reducir sustancialmente las emisiones de CO\u2082 asociadas a la producci\u00f3n de cemento.",
+      "publicationNumber": "AR124427",
+      "publicationDate": "2023-03-29",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "DONALD JOHN LAKE"
+      ],
+      "applicationDate": "2021-12-20",
+      "claimsCount": 20,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 18.129715
+    },
+    {
+      "id": "VN-97359-A1",
+      "title": [
+        "CH\u1ea4T PH\u1ea2N \u1ee8NG XI M\u0102NG V\u00c0 B\u00ca T\u00d4NG R\u1eaeN"
+      ],
+      "abstract": "S\u00e1ng ch\u1ebf \u0111\u1ec1 c\u1eadp \u0111\u1ebfn ch\u1ea5t ho\u1ea1t h\u00f3a xi m\u0103ng, bao g\u1ed3m c\u00e1c h\u1ea1t th\u1ee7y tinh vi c\u1ea7u,c\u00f3 \u0111\u1ed9 tr\u00f2n trung b\u00ecnh (R) > 0,7, v\u00e0 th\u00e0nh ph\u1ea7n mol ch\u1ee9a Si v\u00e0 Al v\u00e0 t\u00f9y \u00fd m\u1ed9t ho\u1eb7c nhi\u1ec1u nguy\u00ean t\u1ed1 trong s\u1ed1 Fe, Ca, Mg, Na, v\u00e0 K, v\u1edbi lu\u1ee3ng sao cho th\u1ecfa m\u00e3n \u0111i\u1ec1u ki\u1ec7n: kho\u1ea3ng 0,067 < <img file=\"VN97359A_A0001.tif\"/> <kho\u1ea3ng 0,95; v\u00e0 kho\u1ea3ng 0 < <img file=\"VN97359A_A0002.tif\"/> <kho\u1ea3ng 0,488. S\u00e1ng ch\u1ebf c\u0169ng \u0111\u1ec1 c\u1eadp \u0111\u1ebfn b\u00ea t\u00f4ng r\u1eafn, bao g\u1ed3m ch\u1ea5t ho\u1ea1t h\u00f3a xi m\u0103ng n\u00eau tr\u00ean.",
+      "publicationNumber": "VN97359",
+      "publicationDate": "2023-08-25",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "DONALD LAKE"
+      ],
+      "applicationDate": "2020-06-29",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 17.419846
+    },
+    {
+      "id": "VN-96766-A1",
+      "title": [
+        "PH\u01af\u01a0NG PH\u00c1P S\u1ea2N XU\u1ea4T C\u00c1C H\u1ea0T TH\u1ee6Y TINH VI C\u1ea6U"
+      ],
+      "abstract": "S\u00e1ng ch\u1ebf \u0111\u1ec1 c\u1eadp \u0111\u1ebfn ph\u01b0\u01a1ng ph\u00e1p s\u1ea3n xu\u1ea5t c\u00e1c h\u1ea1t th\u1ee7y tinh vi c\u1ea7u, bao g\u1ed3m c\u00e1c b\u01b0\u1edbc: \u0111\u01b0a c\u00e1c h\u1ea1t nguy\u00ean li\u1ec7u nh\u00f4m silicat r\u1eafn v\u00e0o bu\u1ed3ng n\u1ea5u ch\u1ea3y, nung n\u00f3ng c\u00e1c h\u1ea1t nguy\u00ean li\u1ec7u nh\u00f4m silicat n\u00e0y trong bu\u1ed3ng n\u1ea5u ch\u1ea3y \u0111\u1ec3 t\u1ea1o th\u00e0nh c\u00e1c h\u1ea1t n\u00f3ng ch\u1ea3y, v\u00e0 l\u00e0m ngu\u1ed9i c\u00e1c h\u1ea1t n\u00f3ng ch\u1ea3y thu \u0111\u01b0\u1ee3c trong bu\u1ed3ng l\u00e0m ngu\u1ed9i nhanh.",
+      "publicationNumber": "VN96766",
+      "publicationDate": "2023-07-25",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "DONALD LAKE"
+      ],
+      "applicationDate": "2020-06-29",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 17.419846
+    },
+    {
+      "id": "VN-93895-A1",
+      "title": [
+        "CH\u1ea4T HO\u1ea0T H\u00d3A XI M\u0102NG V\u00c0 B\u00ca T\u00d4NG \u0110\u1eb6C"
+      ],
+      "abstract": "S\u00e1ng ch\u1ebf \u0111\u1ec1 c\u1eadp \u0111\u1ebfn ch\u1ea5t ho\u1ea1t h\u00f3a xi m\u0103ng \u0111\u01b0\u1ee3c s\u1ea3n xu\u1ea5t t\u1eeb c\u00e1c ngu\u1ed3n nguy\u00ean li\u1ec7u v\u00f4 c\u01a1 d\u1ed3i d\u00e0o tr\u00ean to\u00e0n c\u1ea7u. S\u00e1ng ch\u1ebf c\u0169ng \u0111\u1ec1 c\u1eadp \u0111\u1ebfn b\u00ea t\u00f4ng \u0111\u1eb7c l\u00e0m t\u1eeb ch\u1ea5t ho\u1ea1t h\u00f3a xi m\u0103ng n\u00e0y. Ch\u1ea5t ho\u1ea1t h\u00f3a xi m\u0103ng n\u00e0y c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c s\u1eed d\u1ee5ng trong b\u00ea t\u00f4ng \u0111\u1ec3 gi\u1ea3m \u0111\u00e1ng k\u1ec3 l\u01b0\u1ee3ng kh\u00ed th\u1ea3i CO2 li\u00ean quan \u0111\u1ebfn vi\u1ec7c s\u1ea3n xu\u1ea5t xi m\u0103ng.",
+      "publicationNumber": "VN93895",
+      "publicationDate": "2023-04-25",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "DONALD LAKE"
+      ],
+      "applicationDate": "2020-06-29",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 17.419846
+    },
+    {
+      "id": "VN-88455-A1",
+      "title": [
+        "CH\u1ea4T PH\u1ea2N \u1ee8NG XI M\u0102NG V\u00c0 PH\u01af\u01a0NG PH\u00c1P S\u1ea2N XU\u1ea4T"
+      ],
+      "abstract": "S\u00e1ng ch\u1ebf \u0111\u1ec1 c\u1eadp \u0111\u1ebfn ch\u1ea5t ph\u1ea3n \u1ee9ng xi m\u0103ng \u0111\u01b0\u1ee3c s\u1ea3n xu\u1ea5t t\u1eeb c\u00e1c ngu\u1ed3n nguy\u00ean li\u1ec7u v\u00f4 c\u01a1 d\u1ed3i d\u00e0o tr\u00ean to\u00e0n c\u1ea7u. S\u00e1ng ch\u1ebf c\u0169ng \u0111\u1ec1 c\u1eadp \u0111\u1ebfn ph\u01b0\u01a1ng ph\u00e1p s\u1ea3n xu\u1ea5t nguy\u00ean li\u1ec7u ph\u1ea3n \u1ee9ng xi m\u0103ng nh\u01b0 v\u1eady v\u00e0 t\u1ea1o ra nguy\u00ean li\u1ec7u ph\u1ea3n \u1ee9ng d\u01b0\u1edbi d\u1ea1ng c\u00e1c h\u1ea1t th\u1ee7y tinh vi c\u1ea7u. S\u00e1ng ch\u1ebf c\u0169ng \u0111\u1ec1 c\u1eadp \u0111\u1ebfn c\u00e1c thi\u1ebft b\u1ecb, h\u1ec7 th\u1ed1ng v\u00e0 ph\u01b0\u01a1ng ph\u00e1p s\u1ea3n xu\u1ea5t nhi\u1ec7t h\u00f3a ch\u1ea5t ph\u1ea3n \u1ee9ng xi m\u0103ng th\u1ee7y tinh c\u00f3 h\u00ecnh th\u00e1i h\u00ecnh c\u1ea7u. C\u00e1c thi\u1ebft b\u1ecb, h\u1ec7 th\u1ed1ng v\u00e0 ph\u01b0\u01a1ng ph\u00e1p s\u1eed d\u1ee5ng c\u00f4ng ngh\u1ec7 l\u00e0m tan ch\u1ea3y / l\u00e0m ngu\u1ed9i khi bay sao cho c\u00e1c h\u1ea1t r\u1eafn \u0111\u01b0\u1ee3c bay trong huy\u1ec1n ph\u00f9, tan ch\u1ea3y trong huy\u1ec1n ph\u00f9, v\u00e0 sau \u0111\u00f3 \u0111\u01b0\u1ee3c d\u1eadp t\u1eaft trong huy\u1ec1n ph\u00f9. Ch\u1ea5t ph\u1ea3n \u1ee9ng xi m\u0103ng c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c s\u1eed d\u1ee5ng trong b\u00ea t\u00f4ng \u0111\u1ec3 gi\u1ea3m \u0111\u00e1ng k\u1ec3 l\u01b0\u1ee3ng kh\u00ed th\u1ea3i CO2 li\u00ean quan \u0111\u1ebfn vi\u1ec7c s\u1ea3n xu\u1ea5t xi m\u0103ng.",
+      "publicationNumber": "VN88455",
+      "publicationDate": "2022-08-25",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "DONALD LAKE"
+      ],
+      "applicationDate": "2020-06-29",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 17.419846
+    },
+    {
+      "id": "VN-112536-A1",
+      "title": [
+        "PH\u01af\u01a0NG PH\u00c1P GI\u1ea2M PH\u00c1T TH\u1ea2I CO2 TRONG QU\u00c1 TR\u00ccNH S\u1ea2N XU\u1ea4T XI M\u0102NG V\u00c0 S\u1ea2N XU\u1ea4T B\u00ca T\u00d4NG"
+      ],
+      "abstract": "S\u00e1ng ch\u1ebf \u0111\u1ec1 c\u1eadp \u0111\u1ebfn ph\u01b0\u01a1ng ph\u00e1p gi\u1ea3m ph\u00e1t th\u1ea3i CO2 trong qu\u00e1 tr\u00ecnh s\u1ea3n xu\u1ea5t xi m\u0103ng v\u00e0 s\u1ea3n xu\u1ea5t b\u00ea t\u00f4ng, bao g\u1ed3m b\u01b0\u1edbc t\u1ea1o ra ch\u1ea5t ho\u1ea1t h\u00f3a xi m\u0103ng, trong \u0111\u00f3 ch\u1ea5t ho\u1ea1t h\u00f3a xi m\u0103ng n\u00e0y l\u00e0 ch\u1ea5t r\u1eafn kh\u00f4ng k\u1ebft tinh, \u1edf d\u1ea1ng b\u1ed9t, c\u00f3 ph\u00e2n b\u1ed1 c\u1ee1 h\u1ea1t v\u1edbi D[3,2] b\u1eb1ng ho\u1eb7c nh\u1ecf h\u01a1n 20 \u00b5m, v\u00e0 ch\u1ee9a \u00edt h\u01a1n 10% kh\u1ed1i l\u01b0\u1ee3ng CaO; v\u00e0 b\u01b0\u1edbc b\u1ed5 sung ch\u1ea5t ho\u1ea1t h\u00f3a xi m\u0103ng n\u00e0y v\u00e0o ch\u1ea5t k\u1ebft d\u00ednh.",
+      "publicationNumber": "VN112536",
+      "publicationDate": "2025-06-25",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "DONALD LAKE"
+      ],
+      "applicationDate": "2020-06-29",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 17.419846
+    },
+    {
+      "id": "VN-10050397-B",
+      "title": [
+        "PH\u01af\u01a0NG PH\u00c1P S\u1ea2N XU\u1ea4T C\u00c1C H\u1ea0T TH\u1ee6Y TINH VI C\u1ea6U"
+      ],
+      "abstract": "S\u00e1ng ch\u1ebf \u0111\u1ec1 c\u1eadp \u0111\u1ebfn ph\u01b0\u01a1ng ph\u00e1p s\u00e0n xu\u1ea5t c\u00e1c h\u1ea1t th\u1ee7y tinh vi c\u1ea7u, bao g\u1ed3m c\u00e1c b\u01b0\u1edbc: dua c\u00e1c h\u1ea1t nguy\u00ean li\u1ec7u nh\u00f4m silicat r\u1eafn v\u00e0o bu\u1ed3ng n\u1ea5u ch\u1ea3y, nung n\u00f3ng c\u00e1c h\u1ea1t nguy\u00ean li\u1ec7u nh\u00f4m silicat n\u00e0y trong bu\u1ed3ng nau ch\u00e0y \u0111\u00e8 t\u1ea1o th\u00e0nh c\u00e1c h\u1ea1t n\u00f3ng ch\u1ea3y, v\u00e0 l\u00e0m ngu\u1ed9i c\u00e1c h\u1ea1t n\u00f3ng ch\u1ea3y thu \u0111\u01b0\u1ee3c trong bu\u1ed3ng l\u00e0m ngu\u1ed9i nhanh.",
+      "publicationNumber": "VN10050397",
+      "publicationDate": "2025-08-25",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "DONALD LAKE"
+      ],
+      "applicationDate": "2020-06-29",
+      "claimsCount": 16,
+      "independentClaimsCount": 1,
+      "technologyFields": [],
+      "score": 17.419846
+    },
+    {
+      "id": "VN-10046295-B",
+      "title": [
+        "PH\u01af\u01a0NG PH\u00c1P S\u1ea2N XU\u1ea4T C\u00c1C H\u1ea0T TH\u1ee6Y TINH VI C\u1ea6U"
+      ],
+      "abstract": "S\u00e1ng ch\u1ebf \u0111\u1ec1 c\u1eadp d\u1ebfn ph\u01b0\u01a1ng ph\u00e1p s\u00e0n xu\u1ea5t c\u00e1c h\u1ea1t th\u00fay tinh vi c\u1ea7u b\u0103ng c\u00e1ch s\u1ee9 d\u1ee5ng c\u00f4ng ngh\u1ec7 n\u1ea5u ch\u00e0y/l\u00e0m ngu\u1ed9i nhanh sao cho c\u00e1c h\u1ea1t r\u1eb3n \u0111\u01b0\u1ee3c phun th\u1ea3nh tr\u1ea1ng th\u00e1i l\u01a1 l\u1eebng, \u0111\u01b0\u1ee3c n\u1ea5u ch\u00e0y \u1edd tr\u1ea1ng th\u00e1i l\u01a1 l\u1eedng, v\u00e0 sau \u0111\u00f3 d\u01b0\u1ef1c l\u00e0m ngu\u1ed9i \u1edf tr\u1ea1ng th\u00e1i l\u01a1 l\u1eefng. C\u00e1c h\u1ea1i th\u1ee7y tinh vi c\u1ea9u n\u00e0y c\u00f3 th\u1ec1 \u0111\u01b0\u1ee3c s\u1eeb d\u1ee5ng trong chai ho\u1ea1t h\u00f3a xi m\u00e3ng d\u1ebb gi\u1ea3m d\u00e1ng k\u1ebf l\u01b0\u1ee3ng kh\u00ed th\u00e0i CO2 trong qu\u00e1 tr\u00ecnh s\u00e1n xu\u1ea5t xi m\u0103ng.",
+      "publicationNumber": "VN10046295",
+      "publicationDate": "2025-05-26",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "DONALD LAKE"
+      ],
+      "applicationDate": "2020-06-29",
+      "claimsCount": 27,
+      "independentClaimsCount": 7,
+      "technologyFields": [],
+      "score": 17.419846
+    },
+    {
+      "id": "VN-10041650-B",
+      "title": [
+        "CH\u1ea4T HO\u1ea0T H\u00d3A XI M\u0102NG V\u00c0 B\u00ca T\u00d4NG \u0110\u1eb6C"
+      ],
+      "abstract": "S\u00e1ng ch\u1ebf \u0111\u1ec1 c\u1eadp \u0111\u1ebfn ch\u1ea5t ho\u1ea1t h\u00f3a xi m\u0103ng \u0111\u01b0\u1ee3c s\u1ea3n xu\u1ea5t t\u1eeb c\u00e1c ngu\u1ed3n nguy\u00ean li\u1ec7u v\u00f4 c\u01a1 d\u1ed3i d\u00e0o tr\u00ean to\u00e0n c\u1ea7u. S\u00e1ng ch\u1ebf c\u0169ng \u0111\u1ec1 c\u1eadp \u0111\u1ebfn b\u00ea t\u00f4ng \u0111\u1eb7c l\u00e0m t\u1eeb ch\u1ea5t ho\u1ea1t h\u00f3a xi m\u0103ng n\u00e0y. Ch\u1ea5t ho\u1ea1t h\u00f3a xi m\u0103ng n\u00e0y c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c s\u1eed d\u1ee5ng trong b\u00ea t\u00f4ng \u0111\u1ec3 gi\u1ea3m \u0111\u00e1ng k\u1ec3 l\u01b0\u1ee3ng kh\u00ed th\u1ea3i CO 2 li\u00ean quan \u0111\u1ebfn vi\u1ec7c s\u1ea3n xu\u1ea5t xi m\u0103ng.",
+      "publicationNumber": "VN10041650",
+      "publicationDate": "2024-11-25",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "DONALD LAKE"
+      ],
+      "applicationDate": "2020-06-29",
+      "claimsCount": 20,
+      "independentClaimsCount": 4,
+      "technologyFields": [],
+      "score": 17.419846
+    },
+    {
+      "id": "US-12234185-B2",
+      "title": [
+        "Cementitious reagents, methods of manufacturing and uses thereof"
+      ],
+      "abstract": "Described are cementitious reagent materials produced from globally abundant inorganic feedstocks. Also described are methods for the manufacture of such cementitious reagent materials and forming the reagent materials as microspheroidal glassy particles. Also described are apparatuses, systems and methods for the thermochemical production of glassy cementitious reagents with spheroidal morphology. The apparatuses, systems and methods make use of an in-flight melting/quenching technology such that solid particles are flown in suspension, melted in suspension, and then quenched in suspension. The cementitious reagents can be used in concrete to substantially reduce the CO2 emission associated with cement production.",
+      "publicationNumber": "US12234185",
+      "publicationDate": "2025-02-25",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "Donald John Lake"
+      ],
+      "applicationDate": "2023-12-27",
+      "claimsCount": 15,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 17.419846
+    },
+    {
+      "id": "US-12227452-B2",
+      "title": [
+        "Cementitious reagents, methods of manufacturing and uses thereof"
+      ],
+      "abstract": "Described are cementitious reagent materials produced from globally abundant inorganic feedstocks. Also described are methods for the manufacture of such cementitious reagent materials and forming the reagent materials as microspheroidal glassy particles. Also described are apparatuses, systems and methods for the thermochemical production of glassy cementitious reagents with spheroidal morphology. The apparatuses, systems and methods makes use of an in-flight melting/quenching technology such that solid particles are flown in suspension, melted in suspension, and then quenched in suspension. The cementitious reagents can be used in concrete to substantially reduce the CO2 emission associated with cement production.",
+      "publicationNumber": "US12227452",
+      "publicationDate": "2025-02-18",
+      "assignee": [
+        "TERRA CO2 TECHNOLOGY HOLDINGS, INC."
+      ],
+      "inventors": [
+        "Donald John Lake"
+      ],
+      "applicationDate": "2023-07-24",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Chemical engineering",
+        "Materials, metallurgy",
+        "Other special machines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 17.419846
+    }
+  ]
+}

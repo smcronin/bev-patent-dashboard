@@ -1,0 +1,11 @@
+{
+  "search_id": "search_20260114_122014",
+  "timestamp": "2026-01-14T12:20:14.768140",
+  "query_type": "ai_search",
+  "user_prompt": "PA=(ArkeaBio) AND PD>2015",
+  "minesoft_query": "PA=(ArkeaBio) AND PD>2015",
+  "results_count": 22,
+  "directory": "2026-01-14_arkeabio_and_2015",
+  "execution_time_ms": 3145.519971847534,
+  "api_endpoint": "query"
+}

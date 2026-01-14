@@ -1,0 +1,2335 @@
+{
+  "count": 274,
+  "numFound": 274,
+  "docs": [
+    {
+      "id": "WO-2025019690-A3",
+      "title": [
+        "HYDROGEN TANK PRESSURE FLOW MONITORING, AND THERMAL PUMPING OF LIQUID HYDROGEN"
+      ],
+      "abstract": "A hydrogen (H2) tank monitoring system includes first and second sensors are configured to sense a condition of the quantity of H2 within the tank. A computerized analysis and detection module cross-checks sensor data from the first sensor with sensor data from the second sensor to detect an abnormal condition within the tank. Also described is a liquid hydrogen (LH2) fuel storage system for a fuel cell-powered vehicle and includes a main LH2 storage fuel tank configured for close to ambient pressure storage of LH2, and one or more gas accumulator tanks (GATs) smaller than the main LH2 storage fuel tank and configured for elevated pressure storage of LH2 and for feeding pressurized LH2 to the fuel cell.",
+      "publicationNumber": "WO2025019690",
+      "publicationDate": "2025-05-15",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [
+        "Stephen LAWES",
+        "Aritra DALAL",
+        "VALERY MIFTAKHOV"
+      ],
+      "applicationDate": "2024-07-18",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 13.678684
+    },
+    {
+      "id": "WO-2025019690-A2",
+      "title": [
+        "HYDROGEN TANK PRESSURE FLOW MONITORING, AND THERMAL PUMPING OF LIQUID HYDROGEN"
+      ],
+      "abstract": "A hydrogen (H2) tank monitoring system includes first and second sensors are configured to sense a condition of the quantity of H2 within the tank. A computerized analysis and detection module cross-checks sensor data from the first sensor with sensor data from the second sensor to detect an abnormal condition within the tank. Also described is a liquid hydrogen (LH2) fuel storage system for a fuel cell-powered vehicle and includes a main LH2 storage fuel tank configured for close to ambient pressure storage of LH2, and one or more gas accumulator tanks (GATs) smaller than the main LH2 storage fuel tank and configured for elevated pressure storage of LH2 and for feeding pressurized LH2 to the fuel cell.",
+      "publicationNumber": "WO2025019690",
+      "publicationDate": "2025-01-23",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [
+        "Stephen LAWES",
+        "Aritra DALAL",
+        "VALERY MIFTAKHOV"
+      ],
+      "applicationDate": "2024-07-18",
+      "claimsCount": 11,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology",
+        "Transport"
+      ],
+      "score": 13.678684
+    },
+    {
+      "id": "WO-2023209314-A1",
+      "title": [
+        "COOLING SYSTEM FOR FUEL CELL ONBOARD A VEHICLE INCLUDING AUXILIARY EVAPORATIVE COOLER"
+      ],
+      "abstract": "A cooling system for a fuel cell onboard a vehicle includes a coolant circuit and an auxiliary evaporative cooler. The coolant circuit is configured to circulate a coolant including a phase change material therethrough and through a portion of the fuel cell to absorb heat from the fuel cell. The auxiliary evaporative cooler includes a coolant channel in fluid communication with the coolant circuit, an airflow channel in fluid communication with an ambient environment, and a selectively permeable membrane that physically separates the coolant channel from the airflow channel and is selectively permeable to the phase change material. The auxiliary evaporative cooler is configured to evaporatively cool the coolant flowing through the coolant channel by promoting evaporation and transport of the phase change material from the coolant flowing through the coolant channel, through the selectively permeable membrane, and into an ambient airflow flowing through the airflow channel.",
+      "publicationNumber": "WO2023209314",
+      "publicationDate": "2023-11-02",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [
+        "Seied Masoud AMELI",
+        "MICHAEL PATTERSON",
+        "Matthew Graham LEGG",
+        "Christian Bailey"
+      ],
+      "applicationDate": "2022-04-29",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.117302
+    },
+    {
+      "id": "GB-2635966-A",
+      "title": [
+        "Cooling system for fuel cell onboard a vehicle including auxiliary evaporative cooler"
+      ],
+      "abstract": "A cooling system for a fuel cell onboard a vehicle includes a coolant circuit and an auxiliary evaporative cooler. The coolant circuit is configured to circulate a coolant including a phase change material therethrough and through a portion of the fuel cell to absorb heat from the fuel cell. The auxiliary evaporative cooler includes a coolant channel in fluid communication with the coolant circuit, an airflow channel in fluid communication with an ambient environment, and a selectively permeable membrane that physically separates the coolant channel from the airflow channel and is selectively permeable to the phase change material. The auxiliary evaporative cooler is configured to evaporatively cool the coolant flowing through the coolant channel by promoting evaporation and transport of the phase change material from the coolant flowing through the coolant channel, through the selectively permeable membrane, and into an ambient airflow flowing through the airflow channel.",
+      "publicationNumber": "GB2635966",
+      "publicationDate": "2025-06-04",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [
+        "Seied Masoud Ameli",
+        "MICHAEL PATTERSON",
+        "MATTHEW GRAHAM LEGG",
+        "Christian Bailey"
+      ],
+      "applicationDate": "2022-04-29",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.117302
+    },
+    {
+      "id": "GB-202417113-D0",
+      "title": [
+        "Cooling system for fuel cell onboard a vehicle including auxiliary evaporative cooler"
+      ],
+      "abstract": "",
+      "publicationNumber": "GB202417113",
+      "publicationDate": "2025-01-08",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [],
+      "applicationDate": "2022-04-29",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 13.117302
+    },
+    {
+      "id": "GB-2631953-A",
+      "title": [
+        "Hydrogen tank pressure flow monitoring"
+      ],
+      "abstract": "A hydrogen tank monitoring system 100 includes a fuel cell system including a fuel cell 110; a fuel tank 111; and first and second sensors 120 which are configured to sense a condition of at least one of the fuel tank or the quantity of hydrogen within the fuel system. A computerized analysis and detection module 140 is in communication with the first and second sensors and cross-checks sensor data from the first sensor with sensor data from the second sensor to detect an abnormal condition within the fuel cell system or the quantity of hydrogen in the fuel cell system. The module may be configured to cross-check sensor data in order to detect sensor failure. The fuel tank may be positioned on an aircraft. The detected abnormal condition could include determining a leak in the fuel tank based on monitoring pressure over time. A method of mapping error conditions of a hydrogen fuel cell system includes identifying a system design of a hydrogen fuel cell system; correlating proper behaviour of the system with at least two measured sensor signals; setting allowable variation limits to the at least two measured sensor signals; and correlating measured sensor signals with desired behaviour.",
+      "publicationNumber": "GB2631953",
+      "publicationDate": "2025-01-22",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [
+        "Stephen Lawes",
+        "ARITRA DALAL"
+      ],
+      "applicationDate": "2023-07-18",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.896212
+    },
+    {
+      "id": "GB-202501270-D0",
+      "title": [
+        "Hydrogen heat exchanger systems and methods for fuel cells"
+      ],
+      "abstract": "",
+      "publicationNumber": "GB202501270",
+      "publicationDate": "2025-03-12",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [],
+      "applicationDate": "2025-01-29",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 12.896212
+    },
+    {
+      "id": "GB-202409971-D0",
+      "title": [
+        "Proton exchange membrane fuel cells bipolar plate assembly"
+      ],
+      "abstract": "",
+      "publicationNumber": "GB202409971",
+      "publicationDate": "2024-08-21",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [],
+      "applicationDate": "2024-07-09",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 12.896212
+    },
+    {
+      "id": "GB-202310996-D0",
+      "title": [
+        "Hydrogen tank pressure flow monitoring"
+      ],
+      "abstract": "",
+      "publicationNumber": "GB202310996",
+      "publicationDate": "2023-08-30",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [],
+      "applicationDate": "2023-07-18",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 12.896212
+    },
+    {
+      "id": "WO-2025116977-A9",
+      "title": [
+        "AERODYNAMIC HYDROGEN TANKS, AND CRYOGENIC INSULATED PIPES"
+      ],
+      "abstract": "A cryogenic fuel tank for retrofitting a conventional fossil fuel-powered aircraft, or for a purposely built aircraft to run on hydrogen has an aerodynamically shaped outer surface including an ogive shaped nose cone, and a tapered tail cone, wherein the tapered tail cone includes actively adjustable elements for adjusting aerodynamic characteristics of the cryogenic fuel tank. The cryogenic fuel tank is configured to be attached below wings of the aircraft, through support pylons, which include sensors configured to measure forces applied by the cryogenic fuel tank to the airframe. The cryogenic fuel tank includes a nozzle and valve configured to vent gas from the cryogenic fuel tank by expansion through the nozzle in the event that the cryogenic fuel tank is jettisoned from the aircraft. Also disclosed is a cryogenic insulated pipe having a conformally-bonded aerogel paper layer on an outer surface of the pipe. The conformally-bonded aerogel paper layer is conformally-bonded to the pipe outer surface in a pre-applied resin layer. An insulative blanket is applied over the aerogel paper, and a breathable protective layer is applied over the insulative blanket.",
+      "publicationNumber": "WO2025116977",
+      "publicationDate": "2025-07-31",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [
+        "Jack David Victor MAYNARD",
+        "Gabriel Devault",
+        "Jacob T. NEEDELS"
+      ],
+      "applicationDate": "2024-06-21",
+      "claimsCount": 16,
+      "independentClaimsCount": 2,
+      "technologyFields": [],
+      "score": 12.532042
+    },
+    {
+      "id": "WO-2025116977-A3",
+      "title": [
+        "AERODYNAMIC HYDROGEN TANKS, AND CRYOGENIC INSULATED PIPES"
+      ],
+      "abstract": "A cryogenic insulated pipe having a conformally-bonded aerogel paper layer on an outer surface of the pipe. The conformally-bonded aerogel paper layer is conformally-bonded to the pipe outer surface in a pre-applied resin layer. An insulative blanket is applied over the aerogel paper, and a breathable protective layer is applied over the insulative blanket. Also disclosed is a cryogenic fuel tank for retrofitting a conventional fossil fuel-powered aircraft, or for a purposely built aircraft to run on hydrogen has an aerodynamically shaped outer surface including an ogive shaped nose cone, and a tapered tail cone, wherein the tapered tail cone includes actively adjustable elements for adjusting aerodynamic characteristics of the cryogenic fuel tank. The cryogenic fuel tank is configured to be attached below wings of the aircraft, through support pylons, which include sensors configured to measure forces applied by the cryogenic fuel tank to the airframe. The cryogenic fuel tank includes a nozzle and valve configured to vent gas from the cryogenic fuel tank by expansion through the nozzle in the event that the cryogenic fuel tank is j ettisoned from the aircraft.",
+      "publicationNumber": "WO2025116977",
+      "publicationDate": "2025-10-09",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [
+        "Jack David Victor MAYNARD",
+        "Gabriel Devault",
+        "Jacob T. NEEDELS"
+      ],
+      "applicationDate": "2024-06-21",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Surface technology, coating"
+      ],
+      "score": 12.532042
+    },
+    {
+      "id": "WO-2025116977-A2",
+      "title": [
+        "AERODYNAMIC HYDROGEN TANKS, AND CRYOGENIC INSULATED PIPES"
+      ],
+      "abstract": "A cryogenic fuel tank for retrofitting a conventional fossil fuel-powered aircraft, or for a purposely built aircraft to run on hydrogen has an aerodynamically shaped outer surface including an ogive shaped nose cone, and a tapered tail cone, wherein the tapered tail cone includes actively adjustable elements for adjusting aerodynamic characteristics of the cryogenic fuel tank. The cryogenic fuel tank is configured to be attached below wings of the aircraft, through support pylons, which include sensors configured to measure forces applied by the cryogenic fuel tank to the airframe. The cryogenic fuel tank includes a nozzle and valve configured to vent gas from the cryogenic fuel tank by expansion through the nozzle in the event that the cryogenic fuel tank is jettisoned from the aircraft. Also disclosed is a cryogenic insulated pipe having a conformally-bonded aerogel paper layer on an outer surface of the pipe. The conformally-bonded aerogel paper layer is conformally-bonded to the pipe outer surface in a pre-applied resin layer. An insulative blanket is applied over the aerogel paper, and a breathable protective layer is applied over the insulative blanket.",
+      "publicationNumber": "WO2025116977",
+      "publicationDate": "2025-06-05",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [
+        "Jack David Victor MAYNARD",
+        "Gabriel Devault",
+        "Jacob T. NEEDELS"
+      ],
+      "applicationDate": "2024-06-21",
+      "claimsCount": 16,
+      "independentClaimsCount": 2,
+      "technologyFields": [],
+      "score": 12.532042
+    },
+    {
+      "id": "WO-2024172838-A3",
+      "title": [
+        "CRYOGENIC THERMO-STRUCTURAL INSULATION SYSTEM"
+      ],
+      "abstract": "Disclosed is a cryogenic storage tank including an inner wall (50) and an outer wall (52) defining a space (56), wherein the space is filled at least in part with dried-in-place hollow glass microspheres which provides both insulating and structural properties to maintain the space, and methods for forming the cryogenic storage tank. Also disclosed is a cryogenic storage tank including an inner wall and an outer wall defining a space, wherein the inner wall and outer wall are spaced from one another by magnetic repulsion. In one embodiment the inner wall includes a high temperature superconducting material embedded in or on a surface of the inner wall, and the outer wall has a conventional magnet embedded in or on a surface of the outer wall.",
+      "publicationNumber": "WO2024172838",
+      "publicationDate": "2025-01-02",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [
+        "Jack David Victor MAYNARD",
+        "RUDOLF JACOBUS COERTZE",
+        "Christian Bailey"
+      ],
+      "applicationDate": "2023-11-07",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Mechanical elements"
+      ],
+      "score": 12.532042
+    },
+    {
+      "id": "WO-2024172838-A2",
+      "title": [
+        "CRYOGENIC THERMO-STRUCTURAL INSULATION SYSTEM"
+      ],
+      "abstract": "Disclosed is a cryogenic storage tank including an inner wall and an outer wall defining a space, wherein the space is filled at least in part with dried-in-place hollow glass microspheres which provides both insulating and structural properties to maintain the space, and methods for forming the cryogenic storage tank. Also disclosed is a cryogenic storage tank including an inner wall and an outer wall defining a space, wherein the inner wall and outer wall are spaced from one another by magnetic repulsion. In one embodiment the inner wall includes a high temperature superconducting material embedded in or on a surface of the inner wall, and the outer wall has a conventional magnet embedded in or on a surface of the outer wall.",
+      "publicationNumber": "WO2024172838",
+      "publicationDate": "2024-08-22",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [
+        "Jack David Victor MAYNARD",
+        "RUDOLF JACOBUS COERTZE",
+        "Christian Bailey"
+      ],
+      "applicationDate": "2023-11-07",
+      "claimsCount": 15,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Mechanical elements"
+      ],
+      "score": 12.532042
+    },
+    {
+      "id": "WO-2022236336-A1",
+      "title": [
+        "COOLING ARCHITECTURE FOR HYDROGEN FUEL CELL-POWERED AIRCRAFT"
+      ],
+      "abstract": "A cooling architecture for an integrated hydrogen-electric engine having a radiator and a hydrogen fuel cell includes a turbine and a manifold. The turbine is disposed in fluid communication with the hydrogen fuel cell. The turbine is configured to compress a predetermined amount of air and direct a first portion of the predetermined amount of the compressed air to the fuel cell for generating electricity that powers the integrated hydrogen-electric engine. The manifold is disposed in fluid communication with the turbine and positioned to direct a second portion of the predetermined amount of compressed air to the radiator for removing heat from the radiator.",
+      "publicationNumber": "WO2022236336",
+      "publicationDate": "2022-11-10",
+      "assignee": [
+        "ZeroAvia, Inc."
+      ],
+      "inventors": [
+        "Ritish TEJPAL"
+      ],
+      "applicationDate": "2022-05-06",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 12.292882
+    },
+    {
+      "id": "WO-2022216474-A1",
+      "title": [
+        "MANAGING HYDROGEN FUEL IN HYDROGEN FUEL CELL-POWERED AIRCRAFT"
+      ],
+      "abstract": "Method and system for managing hydrogen fuel in hydrogen fuel cell-powered aircraft is disclosed. The method identifies unused hydrogen fuel in a fuel tank of the aircraft. Determines an amount of the unused hydrogen fuel in the fuel tank of the aircraft. Transfers the amount of the unused hydrogen fuel from the fuel tank of the aircraft into a hydrogen fuel cell of the aircraft and converts the amount of the unused hydrogen fuel into electricity via the hydrogen fuel cell of the aircraft.",
+      "publicationNumber": "WO2022216474",
+      "publicationDate": "2022-10-13",
+      "assignee": [
+        "ZeroAvia, Inc."
+      ],
+      "inventors": [
+        "VALERY MIFTAKHOV",
+        "Gabriel DE VAULT"
+      ],
+      "applicationDate": "2022-03-29",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 12.292882
+    },
+    {
+      "id": "WO-2022182332-A1",
+      "title": [
+        "FUEL CELL - BATTERY HYBRID SYSTEM FOR TRANSPORTATION USE"
+      ],
+      "abstract": "A power generating system includes a hydrogen fuel cell and rechargeable battery connected together in series to be used as a load following system without the use of a DC-DC converter. The hydrogen fuel cell&apos;s cathode air compressor is driven off of the output of this power generation system. The system is wired in series with the use of switches and bypass diodes and limits the system output voltage so that the maximum voltage of downstream components is not exceeded. The system further includes an isolated DC-DC converter to charge the rechargeable battery with the hydrogen fuel cell.",
+      "publicationNumber": "WO2022182332",
+      "publicationDate": "2022-09-01",
+      "assignee": [
+        "ZeroAvia, Inc."
+      ],
+      "inventors": [
+        "VALERY MIFTAKHOV",
+        "Vadim Beloigorodsky",
+        "ILYA GRISHASHVILI"
+      ],
+      "applicationDate": "2021-02-23",
+      "claimsCount": 15,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 12.292882
+    },
+    {
+      "id": "GB-202415238-D0",
+      "title": [
+        "Fuel cell performance enhancement through O2 enrichment from LH2 cooling interface"
+      ],
+      "abstract": "",
+      "publicationNumber": "GB202415238",
+      "publicationDate": "2024-11-27",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [],
+      "applicationDate": "2024-10-16",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 12.292882
+    },
+    {
+      "id": "GB-202414767-D0",
+      "title": [
+        "Multilayer sheet bipolar plate"
+      ],
+      "abstract": "",
+      "publicationNumber": "GB202414767",
+      "publicationDate": "2024-11-20",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [],
+      "applicationDate": "2024-10-08",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 12.292882
+    },
+    {
+      "id": "EP-4334211-A1",
+      "title": [
+        "COOLING ARCHITECTURE FOR HYDROGEN FUEL CELL-POWERED AIRCRAFT"
+      ],
+      "abstract": "A cooling architecture for an integrated hydrogen-electric engine having a radiator and a hydrogen fuel cell includes a turbine and a manifold. The turbine is disposed in fluid communication with the hydrogen fuel cell. The turbine is configured to compress a predetermined amount of air and direct a first portion of the predetermined amount of the compressed air to the fuel cell for generating electricity that powers the integrated hydrogen-electric engine. The manifold is disposed in fluid communication with the turbine and positioned to direct a second portion of the predetermined amount of compressed air to the radiator for removing heat from the radiator.",
+      "publicationNumber": "EP4334211",
+      "publicationDate": "2024-03-13",
+      "assignee": [
+        "ZeroAvia, Inc."
+      ],
+      "inventors": [
+        "Ritish TEJPAL"
+      ],
+      "applicationDate": "2022-05-06",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 12.292882
+    },
+    {
+      "id": "EP-4298703-A1",
+      "title": [
+        "FUEL CELL - BATTERY HYBRID SYSTEM FOR TRANSPORTATION USE"
+      ],
+      "abstract": "A power generating system includes a hydrogen fuel cell and rechargeable battery connected together in series to be used as a load following system without the use of a DC-DC converter. The hydrogen fuel cell&apos;s cathode air compressor is driven off of the output of this power generation system. The system is wired in series with the use of switches and bypass diodes and limits the system output voltage so that the maximum voltage of downstream components is not exceeded. The system further includes an isolated DC-DC converter to charge the rechargeable battery with the hydrogen fuel cell.",
+      "publicationNumber": "EP4298703",
+      "publicationDate": "2024-01-03",
+      "assignee": [
+        "ZeroAvia, Inc."
+      ],
+      "inventors": [
+        "VALERY MIFTAKHOV",
+        "Vadim Beloigorodsky",
+        "ILYA GRISHASHVILI"
+      ],
+      "applicationDate": "2021-02-23",
+      "claimsCount": 15,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 12.292882
+    },
+    {
+      "id": "WO-2022236337-A3",
+      "title": [
+        "SYSTEMS AND METHODS FOR REGULATING VOLTAGE FOR HYDROGEN-ELECTRIC ENGINES"
+      ],
+      "abstract": "A hydrogen-electric engine includes a fuel cell stack including a plurality of fuel cells. Each fuel cell of the plurality of fuel cells includes an anode and a cathode. The hydrogen-electric engine also includes an air compressor system configured to supply compressed air to the cathode, a hydrogen fuel source configured to supply hydrogen gas, an elongated shaft supporting the air compressor system and the fuel cell stack, and a motor assembly disposed in electrical communication with the fuel cell stack. Each fuel cell generates a voltage, as an open cell voltage, by forming water with the supplied compressed air and the supplied hydrogen gas and is electrically coupled with a clamp circuit.",
+      "publicationNumber": "WO2022236337",
+      "publicationDate": "2023-04-27",
+      "assignee": [
+        "ZeroAvia, Inc."
+      ],
+      "inventors": [
+        "Stephen LAWES",
+        "Ritish TEJPAL"
+      ],
+      "applicationDate": "2022-05-07",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology",
+        "Transport"
+      ],
+      "score": 12.103149
+    },
+    {
+      "id": "WO-2022236337-A2",
+      "title": [
+        "SYSTEMS AND METHODS FOR REGULATING VOLTAGE FOR HYDROGEN-ELECTRIC ENGINES"
+      ],
+      "abstract": "A hydrogen-electric engine includes a fuel cell stack including a plurality of fuel cells. Each fuel cell of the plurality of fuel cells includes an anode and a cathode. The hydrogen-electric engine also includes an air compressor system configured to supply compressed air to the cathode, a hydrogen fuel source configured to supply hydrogen gas, an elongated shaft supporting the air compressor system and the fuel cell stack, and a motor assembly disposed in electrical communication with the fuel cell stack. Each fuel cell generates a voltage, as an open cell voltage, by forming water with the supplied compressed air and the supplied hydrogen gas and is electrically coupled with a clamp circuit.",
+      "publicationNumber": "WO2022236337",
+      "publicationDate": "2022-11-10",
+      "assignee": [
+        "ZeroAvia, Inc."
+      ],
+      "inventors": [
+        "Stephen LAWES",
+        "Ritish TEJPAL"
+      ],
+      "applicationDate": "2022-05-07",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [],
+      "score": 12.103149
+    },
+    {
+      "id": "WO-2022212599-A3",
+      "title": [
+        "PREDICTIVE FUEL CELL MANAGEMENT SYSTEM"
+      ],
+      "abstract": "A system and method for predictive fuel cell management system for an integrated hydrogen-electric engine is disclosed. The system includes a fuel cell stack having a plurality of fuel cells and a computer having a memory and one or more processors. The one or more processors configured to predict, during a first phase of energy demand on the integrated hydrogen-electric engine, an impending occurrence of a second phase of energy demand on the integrated hydrogen-electric engine, wherein the second phase of energy demand includes a predetermined energy demand; and generate a predetermined amount of energy from the plurality of fuel cells based on the predicted second phase of energy demand prior to starting the second phase of energy demand to improve energy efficiency and performance of the integrated hydrogen-electric engine.",
+      "publicationNumber": "WO2022212599",
+      "publicationDate": "2023-01-19",
+      "assignee": [
+        "ZEROAVIA LTD."
+      ],
+      "inventors": [
+        "VALERY MIFTAKHOV",
+        "Stephen LAWES"
+      ],
+      "applicationDate": "2022-03-30",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.103149
+    },
+    {
+      "id": "WO-2022212599-A2",
+      "title": [
+        "PREDICTIVE FUEL CELL MANAGEMENT SYSTEM"
+      ],
+      "abstract": "A system and method for predictive fuel cell management system for an integrated hydrogen-electric engine is disclosed. The system includes a fuel cell stack having a plurality of fuel cells and a computer having a memory and one or more processors. The one or more processors configured to predict, during a first phase of energy demand on the integrated hydrogen-electric engine, an impending occurrence of a second phase of energy demand on the integrated hydrogen-electric engine, wherein the second phase of energy demand includes a predetermined energy demand; and generate a predetermined amount of energy from the plurality of fuel cells based on the predicted second phase of energy demand prior to starting the second phase of energy demand to improve energy efficiency and performance of the integrated hydrogen-electric engine.",
+      "publicationNumber": "WO2022212599",
+      "publicationDate": "2022-10-06",
+      "assignee": [
+        "ZEROAVIA LTD."
+      ],
+      "inventors": [
+        "VALERY MIFTAKHOV",
+        "Stephen LAWES"
+      ],
+      "applicationDate": "2022-03-30",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [],
+      "score": 12.103149
+    },
+    {
+      "id": "WO-2022212422-A1",
+      "title": [
+        "MULTIPLE ENERGY SOURCE MANAGEMENT SYSTEM"
+      ],
+      "abstract": "A multiple energy source management system for an integrated hydrogen-electric engine is disclosed, the system includes a first and a second energy source providing energy to the integrated hydrogen-electric engine. A pre-charge load to provide an energy demand to a selected energy source. A sensor monitoring a power output from the first and/or second energy source. A relay to switch between the first and second energy sources. A computer system to receive an output energy of the first energy source, determine if the output energy is below a threshold value, switch the relay from the first state to the third state for a predetermined period of time, based on the determination, pre-charge the second energy source by the pre-charge load; and switch the relay to the second state after the predetermined period of time.",
+      "publicationNumber": "WO2022212422",
+      "publicationDate": "2022-10-06",
+      "assignee": [
+        "ZEROAVIA LTD."
+      ],
+      "inventors": [
+        "Kevin LE BRAS",
+        "Ritish TEJPAL"
+      ],
+      "applicationDate": "2022-03-29",
+      "claimsCount": 32,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.103149
+    },
+    {
+      "id": "WO-2022212321-A1",
+      "title": [
+        "TURBOEXPANDER IN COMPRESSED GAS FUELED SYSTEMS"
+      ],
+      "abstract": "Leveraging a turboexpander to provide additional functionality in compressed gas fueled systems is disclosed. The system includes a compressed gas storage device storing a compressed gas at a first pressure. A turboexpander operably coupled with the compressed gas storage device, the turboexpander comprising a turbine coupled with a drive shaft, the turboexpander to maintain the compressed gas below a threshold temperature limit as it controllably expands the compressed gas from the first pressure to the second pressure via an amount of work obtained from a rotation of the turbine and the drive shaft. A compressed gas receiving device to receive the compressed gas at the second pressure from the turboexpander and generate an amount of electrical energy from the compressed gas.",
+      "publicationNumber": "WO2022212321",
+      "publicationDate": "2022-10-06",
+      "assignee": [
+        "ZeroAvia, Inc."
+      ],
+      "inventors": [
+        "VALERY MIFTAKHOV",
+        "Gabriel Devault"
+      ],
+      "applicationDate": "2022-03-29",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Transport"
+      ],
+      "score": 12.103149
+    },
+    {
+      "id": "WO-2022177577-A1",
+      "title": [
+        "MODULAR ELECTRIC POWERTRAIN CONVERSION FOR AIRCRAFT"
+      ],
+      "abstract": "An aircraft power plant includes a monolithic powertrain block with a composition of individual modules grouped by functionality. The aircraft power plant further includes electric motors, high power motor controllers, logical control electronics (a drivetrain computer), a cooling system, a hydraulics system, a low voltage power system, and ahigh voltage power source. The engine mounting frame of the aircraft is the main structure for mounting all individual modules.",
+      "publicationNumber": "WO2022177577",
+      "publicationDate": "2022-08-25",
+      "assignee": [
+        "ZeroAvia, Inc."
+      ],
+      "inventors": [
+        "HENRY GRISHASHVILI",
+        "VALERY MIFTAKHOV"
+      ],
+      "applicationDate": "2021-02-22",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Transport"
+      ],
+      "score": 12.103149
+    },
+    {
+      "id": "EP-4334990-A2",
+      "title": [
+        "SYSTEMS AND METHODS FOR REGULATING VOLTAGE FOR HYDROGEN-ELECTRIC ENGINES"
+      ],
+      "abstract": "A hydrogen-electric engine includes a fuel cell stack including a plurality of fuel cells. Each fuel cell of the plurality of fuel cells includes an anode and a cathode. The hydrogen-electric engine also includes an air compressor system configured to supply compressed air to the cathode, a hydrogen fuel source configured to supply hydrogen gas, an elongated shaft supporting the air compressor system and the fuel cell stack, and a motor assembly disposed in electrical communication with the fuel cell stack. Each fuel cell generates a voltage, as an open cell voltage, by forming water with the supplied compressed air and the supplied hydrogen gas and is electrically coupled with a clamp circuit.",
+      "publicationNumber": "EP4334990",
+      "publicationDate": "2024-03-13",
+      "assignee": [
+        "ZeroAvia, Inc."
+      ],
+      "inventors": [
+        "Stephen LAWES",
+        "Ritish TEJPAL"
+      ],
+      "applicationDate": "2022-05-07",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology",
+        "Transport"
+      ],
+      "score": 12.103149
+    },
+    {
+      "id": "EP-4315464-A2",
+      "title": [
+        "PREDICTIVE FUEL CELL MANAGEMENT SYSTEM"
+      ],
+      "abstract": "A system and method for predictive fuel cell management system for an integrated hydrogen-electric engine is disclosed. The system includes a fuel cell stack having a plurality of fuel cells and a computer having a memory and one or more processors. The one or more processors configured to predict, during a first phase of energy demand on the integrated hydrogen-electric engine, an impending occurrence of a second phase of energy demand on the integrated hydrogen-electric engine, wherein the second phase of energy demand includes a predetermined energy demand; and generate a predetermined amount of energy from the plurality of fuel cells based on the predicted second phase of energy demand prior to starting the second phase of energy demand to improve energy efficiency and performance of the integrated hydrogen-electric engine.",
+      "publicationNumber": "EP4315464",
+      "publicationDate": "2024-02-07",
+      "assignee": [
+        "Zeroavia Ltd."
+      ],
+      "inventors": [
+        "VALERY MIFTAKHOV",
+        "Stephen LAWES"
+      ],
+      "applicationDate": "2022-03-30",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.103149
+    },
+    {
+      "id": "WO-2024020423-A1",
+      "title": [
+        "CAPTURE OF HYDROGEN BOILOFF"
+      ],
+      "abstract": "A hydrogen boiloff capture system. The hydrogen boiloff capture system having a cryogenic tank for storing liquid hydrogen. The hydrogen boiloff capture system also includes an intermediate tank fluidically coupled with the cryogenic tank. The intermediate tank is configured to receive hydrogen gas boiloff from the cryogenic tank. The intermediate tank is further configured to provide the hydrogen gas boiloff to a lighter-than-air craft to regulate buoyancy of the lighter-than-air craft. The intermediate tank is also configured to provide the hydrogen gas boiloff to a hydrogen fuel cell coupled to the lighter-than-air craft.",
+      "publicationNumber": "WO2024020423",
+      "publicationDate": "2024-01-25",
+      "assignee": [
+        "ZeroAvia, Inc."
+      ],
+      "inventors": [
+        "Gabriel Devault",
+        "BOB LEE MACKEY"
+      ],
+      "applicationDate": "2023-07-18",
+      "claimsCount": 5,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Mechanical elements",
+        "Transport"
+      ],
+      "score": 11.991488
+    },
+    {
+      "id": "WO-2023064944-A1",
+      "title": [
+        "LIGHTER-THAN-AIR CRAFT WITH HYDROGEN PROPULSION"
+      ],
+      "abstract": "A lighter-than-air craft including an envelope. A mixture of helium and hydrogen disposed within the envelope. The mixture having a ratio of helium to hydrogen such that the mixture is nonflammable during operating conditions for the lighter-than-air craft. The mixture provides buoyancy for the lighter-than-air craft. A hydrogen fuel cell fluidically coupled with the mixture and configured to utilize the mixture to generate electricity. A propulsion system is coupled to the envelope, and the propulsion system is configured to provide propulsion for the lighter-than-air craft. The propulsion system is electrically coupled with the hydrogen fuel cell and receives electricity generated by the hydrogen fuel cell. The propulsion system is configured to utilize the electricity in providing the propulsion to the lighter-than-air craft.",
+      "publicationNumber": "WO2023064944",
+      "publicationDate": "2023-04-20",
+      "assignee": [
+        "ZeroAvia, Inc."
+      ],
+      "inventors": [
+        "VALERY MIFTAKHOV",
+        "BOB LEE MACKEY"
+      ],
+      "applicationDate": "2022-10-14",
+      "claimsCount": 18,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology",
+        "Transport"
+      ],
+      "score": 11.991488
+    },
+    {
+      "id": "US-20250271523-A1",
+      "title": [
+        "ELECTRICALLY-POWERED TURBOMACHINE ASSEMBLIES"
+      ],
+      "abstract": "An electrically-powered turbine assembly includes a fixed housing; an air compressor including a compressor stator fixed to the housing; a turbine including a turbine stator fixed to the housing; a central shaft supported by the compressor stator and affixed to the turbine stator; an electric motor including an electric motor stator fixed to the central shaft, said electric motor having a rotating shell; an air compressor rotor affixed to the rotating electric motor shell; and a turbine rotor affixed to the rotating electric motor shell. The electrically-powered turbine assembly preferably includes one or more fuel cells as an electric power source. The electrically-powered turbine assembly may be used to power an aircraft.",
+      "publicationNumber": "US20250271523",
+      "publicationDate": "2025-08-28",
+      "assignee": [
+        "ZeroAvia, Inc."
+      ],
+      "inventors": [
+        "Jonathan Leopold Nutzati FONTAINE",
+        "Aleksey PETLENKO"
+      ],
+      "applicationDate": "2025-05-05",
+      "claimsCount": 19,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Measurement",
+        "Medical technology"
+      ],
+      "score": 11.991488
+    },
+    {
+      "id": "US-20250266476-A1",
+      "title": [
+        "CONDENSER-BASED ANODE HYDROGEN PRECONDITIONING"
+      ],
+      "abstract": "Disclosed is a hydrogen feed conditioning system for a hydrogen fuel cell in which fresh hydrogen from storage and recycled hydrogen from an anode exhaust of the fuel cell are mixed and fed to an anode feed of the fuel cell. A stream of recycled hydrogen is first passed through a hydrogen/water separator configured to reduce an amount of water vapor in the recycled hydrogen stream. The system includes a condenser for the anode exhaust stream upstream of the hydrogen water separator.",
+      "publicationNumber": "US20250266476",
+      "publicationDate": "2025-08-21",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [
+        "James Holt",
+        "Matt Legg"
+      ],
+      "applicationDate": "2025-02-20",
+      "claimsCount": 19,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 11.991488
+    },
+    {
+      "id": "US-20250137593-A1",
+      "title": [
+        "MOBILE REFUELING WITH HYDROGEN CASCADE ARCHITECTURE, AND VACUUM CONDITIONING FOR LIQUID HYDROGEN STORAGE SYSTEMS"
+      ],
+      "abstract": "A method and system for mobile storage and dispensing of hydrogen (H2) for refueling H2-powered vehicles includes a compressor system having a plurality of compressor stages in fluid communication with at least a portion of manifold valves in locations between compressor stages. A booster compression stage positioned downstream of the compressor system is in fluid communication between at least two of the manifold valves. A plurality of H2 storage banks is positioned downstream of the compressor system and the booster compressor stage. Low-pressure H2 is pressurized by the compressor system and/or the booster compressor stage to a working pressure and stored within the H2 storage banks. Upon a decrease of the H2 in one or more of the H2 storage banks from the working pressure, the H2 is repressurized by the booster compressor stage. Also disclosed is a ground-based cryogenic tank and a method of manufacturing a ground-based cryogenic tank.",
+      "publicationNumber": "US20250137593",
+      "publicationDate": "2025-05-01",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [
+        "Arnab Chatterjee",
+        "Aritra Dalal",
+        "Parker Bryant",
+        "John Edward GALLAGHER"
+      ],
+      "applicationDate": "2024-10-25",
+      "claimsCount": 29,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Mechanical elements"
+      ],
+      "score": 11.991488
+    },
+    {
+      "id": "US-20250074607-A1",
+      "title": [
+        "ELECTRICALLY-POWERED TURBOMACHINE ASSEMBLIES"
+      ],
+      "abstract": "An electrically-powered turbine assembly includes a fixed housing; an air compressor including a compressor stator fixed to the housing; a turbine including a turbine stator fixed to the housing; a central shaft supported by the compressor stator and affixed to the turbine stator; an electric motor including an electric motor stator fixed to the central shaft, said electric motor having a rotating shell; an air compressor rotor affixed to the rotating electric motor shell; and a turbine rotor affixed to the rotating electric motor shell. The electrically-powered turbine assembly preferably includes one or more fuel cells as an electric power source. The electrically-powered turbine assembly may be used to power an aircraft.",
+      "publicationNumber": "US20250074607",
+      "publicationDate": "2025-03-06",
+      "assignee": [
+        "ZeroAvia, Inc."
+      ],
+      "inventors": [
+        "Jonathan Leopold Nutzati FONTAINE",
+        "Aleksey PETLENKO"
+      ],
+      "applicationDate": "2024-04-30",
+      "claimsCount": 20,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Transport"
+      ],
+      "score": 11.991488
+    },
+    {
+      "id": "US-20250058886-A1",
+      "title": [
+        "CENTRIFUGAL COMPRESSOR-TURBINE BACK-TO-BACK"
+      ],
+      "abstract": "An integrated hydrogen FC electric engine includes a centrifugal compressor and a turbine rotatably mounted, back-to-back on a common shaft; and one or more FCs arranged around an outside of the rotatably mounted centrifugal compressor and the rotatably mounted turbine. The integrated hydrogen FC electric engine is compact enough to fit into the nacelle of an aircraft.",
+      "publicationNumber": "US20250058886",
+      "publicationDate": "2025-02-20",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [
+        "Asif Mohammad SADIK",
+        "Jonathan Leopold Nutzati FONTAINE"
+      ],
+      "applicationDate": "2024-08-15",
+      "claimsCount": 17,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Fuel cells technology",
+        "Transport"
+      ],
+      "score": 11.991488
+    },
+    {
+      "id": "GB-2638830-A",
+      "title": [
+        "Mobile refueling with hydrogen cascade architecture, and vacuum conditioning for liquid hydrogen storage systems"
+      ],
+      "abstract": "A method of manufacturing a ground-based cryogenic tanks 10 for storing hydrogen (h2) comprising bonding an activated carbon to an outside wall 22 of an inner chamber 20, bake-out conditioning the inner chamber, then generating a vacuum between the inner chamber and an outer chamber 30, and passive-pumping the interior volume with a non-evaporable getter 40. Also disclosed is a mobile storage and dispensing system for refuelling hydrogen powered vehicles, comprising a manifold with a plurality of valves, a compressor system with a plurality of compression stages, a booster compression stage, and a plurality of H2 storage banks, where low-pressure H2 is pressurised by the compression system or booster to a working pressure, and stored in one of the H2 storage banks, and on a decrease of H2 pressure in one or more of the H2 banks, the H2 is repressurised by the booster stage.",
+      "publicationNumber": "GB2638830",
+      "publicationDate": "2025-09-03",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [
+        "ARNAB CHATTERJEE",
+        "ARITRA DALAL",
+        "Parker Bryant",
+        "JOHN EDWARD GALLAGHER"
+      ],
+      "applicationDate": "2024-10-25",
+      "claimsCount": 15,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Mechanical elements"
+      ],
+      "score": 11.991488
+    },
+    {
+      "id": "GB-2638427-A",
+      "title": [
+        "Condenser-based anode hydrogen preconditioning"
+      ],
+      "abstract": "A hydrogen feed conditioning system 50 in which fresh hydrogen from storage 56 and recycled hydrogen from a fuel cell anode exhaust 60 are mixed and fed to an anode feed 79, wherein a stream comprising the recycled hydrogen is first passed through a hydrogen/water separator 54 to reduce an amount of water vapour in the stream, and wherein the system includes a condenser 52 for the exhaust stream, performed by or upstream of the separator. The exhaust stream may be cooled by heat exchange with the fresh hydrogen in the condenser. The two streams may be mixed, optionally in a venturi tube, after the fresh hydrogen has passed through the condenser and the recycled hydrogen has passed through the separator. The fresh hydrogen may be passed directly to the venturi tube, or via a heat exchanger. The relative humidity of the mixture may be 30-60 %; the temperature may be -40 to +80 \u00b0C. The heat exchanger may comprise an elongated chamber having a cooling tube. Also claimed are a method using the system and installation of the system on a vehicle, optionally an aircraft.",
+      "publicationNumber": "GB2638427",
+      "publicationDate": "2025-08-27",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [
+        "JAMES HOLT",
+        "MATTHEW LEGG"
+      ],
+      "applicationDate": "2024-02-21",
+      "claimsCount": 21,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.991488
+    },
+    {
+      "id": "GB-2634387-A",
+      "title": [
+        "Centrifugal compressor-turbine back-to-back; inrunner axial compressor; and conformed integrated fuel cell system"
+      ],
+      "abstract": "A hydrogen fuel cell electric engine 50 comprising a centrifugal compressor and a turbine rotatably mounted, back-to-back on a common shaft with one or more fuel cells 60A, 60B arranged around an outside of the centrifugal compressor 52 and turbine 54. The fuel cells may be arranged with their cathode 62A, 62B sides closer to the common shaft wherein airflow from the rotatably mounted centrifugal compressor may be directed through the cathode to the turbine and/or wherein an anode tail oxidizer (Fig 4B, 68) may combust anode exhaust hydrogen with cathode exhaust air and delivers exhaust to the turbine. There is also claimed an electrically powered turbomachine assembly comprising a fixed housing, a compressor including one or more rotors and one of more stators fixed to the housing, a turbine including one or more rotors and one or more stators fixed to the housing, and a central shaft supported the one or more compressor stators and the one or more turbine stators. The electrically powered turbomachine assembly further comprises one or more electric motors and one or more fuel cells arrange on an outside of the housing. There is also claimed a fuel cell powered vehicle.",
+      "publicationNumber": "GB2634387",
+      "publicationDate": "2025-04-09",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [
+        "ASIF MOHAMMAD SADIK",
+        "Jonathan Leopold Nutzati",
+        "Aleksey Petlenko"
+      ],
+      "applicationDate": "2024-08-15",
+      "claimsCount": 15,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.991488
+    },
+    {
+      "id": "GB-202415717-D0",
+      "title": [
+        "Mobile refuelling with hydrogen cascade architecture, and vacuum conditioning for liquid hydrogen storage systems"
+      ],
+      "abstract": "",
+      "publicationNumber": "GB202415717",
+      "publicationDate": "2024-12-11",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [],
+      "applicationDate": "2024-10-25",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 11.991488
+    },
+    {
+      "id": "WO-2022212575-A1",
+      "title": [
+        "EXHAUST WATER VAPOR MANAGEMENT FOR HYDROGEN FUEL CELL-POWERED AIRCRAFT"
+      ],
+      "abstract": "An aircraft includes a fuel cell-powered electric engine system configured to power the aircraft and produce water vapor exhaust, and an exhaust system configured to receive the water vapor exhaust, condense the water vapor into ice or water, and expel the ice or water from the aircraft such that water vapor cloud formation is inhibited. A method of powering an aircraft includes operating a fuel cell-powered electric engine system to power the aircraft, condensing water vapor exhaust of the fuel cell-powered electric engine system into ice or water, and expelling the ice or water from the aircraft such that water vapor cloud formation is inhibited.",
+      "publicationNumber": "WO2022212575",
+      "publicationDate": "2022-10-06",
+      "assignee": [
+        "ZEROAVIA LTD."
+      ],
+      "inventors": [
+        "VALERY MIFTAKHOV"
+      ],
+      "applicationDate": "2022-03-30",
+      "claimsCount": 36,
+      "independentClaimsCount": 8,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Other special machines",
+        "Transport"
+      ],
+      "score": 11.957037
+    },
+    {
+      "id": "US-20250083824-A1",
+      "title": [
+        "FUEL CELL INTEGRATED IN WING LEADING EDGE"
+      ],
+      "abstract": "Ram air cooling demands of a fuel-cell-powered aircraft are reduced by conducting exothermic heat generated by the fuel cells to a leading edge and/or trailing edge of the aircraft wings. The beat also may be used to deice the wings.",
+      "publicationNumber": "US20250083824",
+      "publicationDate": "2025-03-13",
+      "assignee": [
+        "ZeroAvia, Inc."
+      ],
+      "inventors": [
+        "Valery Miftakhov",
+        "Bob L. Mackey",
+        "Christian Bailey"
+      ],
+      "applicationDate": "2023-09-12",
+      "claimsCount": 19,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 11.957037
+    },
+    {
+      "id": "GB-2635442-A",
+      "title": [
+        "Fuel cell stacks integrated in aircraft wings"
+      ],
+      "abstract": "A fuel cell powered aircraft system comprising a fuel cell assembly carried within a wing of an aircraft 10, wherein the fuel cell 12 is in thermal contact with a surface of the wing 14. Also disclosed is a ram air cooling method by conducting exothermic heat generated by the fuel cells to a leading edge and/or trailing edge of the aircraft wings. The heat also may be used to de-ice the wings. In another aspect of the disclosure a fuel cell-powered aircraft system has integrated air-cooled fuel cell stacks positioned within an interior space of at least one wing of an aircraft. An airflow path is positioned in contact with at least a heat exchanger of the fuel cell stack. The induced flow of air through the airflow path cools the heat exchanger. The efficiently-induced flow of air for cooling the fuel cell stack has a zero or minimal drag penalty.",
+      "publicationNumber": "GB2635442",
+      "publicationDate": "2025-05-14",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [
+        "VALERY MIFTAKHOV",
+        "Bob L Mackey",
+        "Christian Bailey",
+        "JONATHAN LEOPOLD NUTZATI FONTAINE",
+        "JOSE RODRIGUES",
+        "Bradley Clark Riordan"
+      ],
+      "applicationDate": "2024-09-12",
+      "claimsCount": 13,
+      "independentClaimsCount": 6,
+      "technologyFields": [
+        "Transport"
+      ],
+      "score": 11.957037
+    },
+    {
+      "id": "GB-202413445-D0",
+      "title": [
+        "Fuel cell stacks integrated in aircraft wings"
+      ],
+      "abstract": "",
+      "publicationNumber": "GB202413445",
+      "publicationDate": "2024-10-30",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [],
+      "applicationDate": "2024-09-12",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 11.957037
+    },
+    {
+      "id": "EP-4312512-A1",
+      "title": [
+        "EXHAUST WATER VAPOR MANAGEMENT FOR HYDROGEN FUEL CELL-POWERED AIRCRAFT"
+      ],
+      "abstract": "An aircraft includes a fuel cell-powered electric engine system configured to power the aircraft and produce water vapor exhaust, and an exhaust system configured to receive the water vapor exhaust, condense the water vapor into ice or water, and expel the ice or water from the aircraft such that water vapor cloud formation is inhibited. A method of powering an aircraft includes operating a fuel cell-powered electric engine system to power the aircraft, condensing water vapor exhaust of the fuel cell-powered electric engine system into ice or water, and expelling the ice or water from the aircraft such that water vapor cloud formation is inhibited.",
+      "publicationNumber": "EP4312512",
+      "publicationDate": "2024-02-07",
+      "assignee": [
+        "Zeroavia Ltd."
+      ],
+      "inventors": [
+        "VALERY MIFTAKHOV"
+      ],
+      "applicationDate": "2022-03-30",
+      "claimsCount": 36,
+      "independentClaimsCount": 8,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Other special machines",
+        "Transport"
+      ],
+      "score": 11.957037
+    },
+    {
+      "id": "DE-112022007413-T5",
+      "title": [
+        "Schub durch Wasserstoff-Brennstoffzellen-Abfall"
+      ],
+      "abstract": "Ein integrierter Wasserstoff-Elektromotor mit einem Luftkompressorsystem, einer Wasserstoffbrennstoffquelle, einer Brennstoffzelle, einem W\u00e4rmetauscher, einer verl\u00e4ngerten Welle, einer Motorbaugruppe und einer Brennkammer mit einer Turbine hinter der Brennstoffzelle, die derart konfiguriert ist, dass sie unverbranntes Wasserstoffgas im Brennstoffzellenabfall verbrennt oder katalytisch reagieren l\u00e4sst, um die Turbine anzutreiben und der Welle zus\u00e4tzliches Drehmoment zu verleihen. Der W\u00e4rmetauscher steht in Fl\u00fcssigkeitsverbindung mit der Wasserstoffbrennstoffquelle und der Brennstoffzelle. Die verl\u00e4ngerte Welle ist mit dem Luftkompressor und/oder einem Antrieb verbunden. Die Motorbaugruppe steht in elektrischer Verbindung mit der Brennstoffzelle.",
+      "publicationNumber": "DE112022007413",
+      "publicationDate": "2025-04-24",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [
+        "Gabriel Devault",
+        "Valery Miftakhov",
+        "Christian Bailey",
+        "Bob L. Mackey",
+        "Asif Sadik"
+      ],
+      "applicationDate": "2022-06-23",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Transport"
+      ],
+      "score": 11.957037
+    },
+    {
+      "id": "DE-112022007412-T5",
+      "title": [
+        "KOMPRESSOR-BYPASS F\u00dcR DEN EINSATZ IN GERINGER H\u00d6HE"
+      ],
+      "abstract": "Ein integrierter Wasserstoff-Elektromotor umfasst ein Luftkompressorsystem, eine Wasserstoff-Brennstoffquelle, eine Brennstoffzelle , eine verl\u00e4ngerte Welle, die mit dem Luftkompressorsystem oder einem Antrieb verbunden ist, und eine Motorbaugruppe, die in elektrischer Verbindung mit der Brennstoffzelle steht wobei das Luftkompressorsystem eine Vielzahl von elektrisch angetriebenen Kompressoren umfasst, die derart konfiguriert sind, dass sie in Reihe oder parallel laufen.",
+      "publicationNumber": "DE112022007412",
+      "publicationDate": "2025-05-08",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [
+        "Rudolf Coertze",
+        "Asif Sadik",
+        "Christian Bailey",
+        "Gabriel Devault",
+        "Kevin-Patxi Le-Bras",
+        "Bob L. Mackey"
+      ],
+      "applicationDate": "2022-06-23",
+      "claimsCount": 20,
+      "independentClaimsCount": 6,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Transport"
+      ],
+      "score": 11.957037
+    },
+    {
+      "id": "WO-2024158541-A1",
+      "title": [
+        "COATINGS FOR ALUMINUM-BASED BIPOLAR PLATES"
+      ],
+      "abstract": "A High Temperature Proton Exchange Membrane (HT-PEM) fuel cell includes a Proton Exchange Membrane (PEM); an anode catalyst layer on one surface of the PEM, and a cathode catalyst layer on the opposite surface of the PEM; Gas Diffusion Layers (GDLs) on outside surfaces of the anode and the cathode layers; and Bipolar Plates (BPPs) on outside surfaces of the GDLs. One or more contacting surfaces of the Membrane Exchange Assembly (MEA) subcomponents are coated, at least in part, with an electrically conductive polymer composite material that softens at or below the operating temperature of the HT-PEM. Also disclosed is a fuel cell bipolar plate (BPP) that includes a plurality of gaseous media coolant flow channels which have deflection barriers configured to cause the gaseous media coolant to divide and flow horizontally around a deflection barrier in a direction of an adjacent gaseous media coolant flow channel.",
+      "publicationNumber": "WO2024158541",
+      "publicationDate": "2024-08-02",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [
+        "Denis NIKITIN",
+        "Viktor BELOUSOV",
+        "SERGEI SHUBENKOV",
+        "Aleksandar VASILEV",
+        "Ilya KOSAREV",
+        "Artem RIAZANTSEV",
+        "Boris MELKUMYAN",
+        "Dmitry PUTINTSEV",
+        "SERGEI PANOV"
+      ],
+      "applicationDate": "2024-01-05",
+      "claimsCount": 18,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.884256
+    },
+    {
+      "id": "WO-2023209315-A1",
+      "title": [
+        "COOLING SYSTEM FOR FUEL CELL ONBOARD A VEHICLE INCLUDING AUXILIARY EVAPORATIVE COOLING"
+      ],
+      "abstract": "A cooling system for a fuel cell onboard a vehicle includes a plenum, a coolant circuit, and a liquid-to-air heat exchanger. The plenum is configured to receive an airflow from an ambient environment. The coolant circuit is configured to circulate a coolant through the coolant circuit and through a portion of the fuel cell. The liquid-to-air heat exchanger includes a thermally conductive wall having a first side that at least partially defines an airflow channel in fluid communication with the plenum and an opposite second side that at least partially defines a coolant channel in fluid communication with the coolant circuit. The first side of the thermally conductive wall includes a porous wick. When a working fluid is introduced into the porous wick, the porous wick is configured to evaporatively cool the coolant flowing through the coolant channel by promoting evaporation of the working fluid therefrom.",
+      "publicationNumber": "WO2023209315",
+      "publicationDate": "2023-11-02",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [
+        "Seied Masoud AMELI",
+        "MICHAEL PATTERSON",
+        "Matthew Graham LEGG"
+      ],
+      "applicationDate": "2022-04-29",
+      "claimsCount": 20,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 11.820175
+    },
+    {
+      "id": "WO-2022216854-A3",
+      "title": [
+        "JUMP-STARTING A HYDROGEN FUEL CELL-POWERED AIRCRAFT"
+      ],
+      "abstract": "A method for jump-starting a hydrogen fuel cell-powered aircraft is disclosed. The method accesses a fuel cell stack containing latent oxygen therein. Accesses a hydrogen fuel source and provides hydrogen from the hydrogen fuel source into the fuel cell stack causing the hydrogen to mix with the latent oxygen in the fuel cell stack and generate a voltage. The voltage is then provided to a component of the hydrogen fuel cell-powered aircraft such that additional oxygen is introduced to the fuel stack.",
+      "publicationNumber": "WO2022216854",
+      "publicationDate": "2023-01-05",
+      "assignee": [
+        "ZeroAvia, Inc."
+      ],
+      "inventors": [
+        "Stephen LAWES",
+        "Ritish TEJPAL"
+      ],
+      "applicationDate": "2022-04-06",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 11.820175
+    },
+    {
+      "id": "WO-2022216854-A2",
+      "title": [
+        "JUMP-STARTING A HYDROGEN FUEL CELL-POWERED AIRCRAFT"
+      ],
+      "abstract": "A method for jump-starting a hydrogen fuel cell-powered aircraft is disclosed. The method accesses a fuel cell stack containing latent oxygen therein. Accesses a hydrogen fuel source and provides hydrogen from the hydrogen fuel source into the fuel cell stack causing the hydrogen to mix with the latent oxygen in the fuel cell stack and generate a voltage. The voltage is then provided to a component of the hydrogen fuel cell-powered aircraft such that additional oxygen is introduced to the fuel stack.",
+      "publicationNumber": "WO2022216854",
+      "publicationDate": "2022-10-13",
+      "assignee": [
+        "ZeroAvia, Inc."
+      ],
+      "inventors": [
+        "Stephen LAWES",
+        "Ritish TEJPAL"
+      ],
+      "applicationDate": "2022-04-06",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [],
+      "score": 11.820175
+    },
+    {
+      "id": "US-20250329767-A1",
+      "title": [
+        "CURVED (INVOLUTE) FUEL CELL STACK PLACEMENT DESIGN"
+      ],
+      "abstract": "Disclosed is an air-cooled fuel cell (FC) stack including a plurality of FCs arranged in a stack in a curved pattern. The plurality of FC stacks are arranged spaced from one another in a curved pattern, preferably a spiral pattern, more preferably an involute pattern. Also disclosed is an integrated FC electric engine for a vehicle such as an aircraft including a centrifugal compressor and a turbine rotatably mounted on a shaft, and one or more curved FC stacks arranged to an outside of the rotatably mounted centrifugal compressor and the rotatably mounted turbine.",
+      "publicationNumber": "US20250329767",
+      "publicationDate": "2025-10-23",
+      "assignee": [
+        "ZeroAvia, Inc."
+      ],
+      "inventors": [
+        "Sergei SHUBENKOV",
+        "Jonathan Leopold Nutzati FONTAINE",
+        "Ilya Kosarev"
+      ],
+      "applicationDate": "2025-04-11",
+      "claimsCount": 18,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 11.820175
+    },
+    {
+      "id": "GB-2636571-A",
+      "title": [
+        "Anti-enrichment composite cryoline"
+      ],
+      "abstract": "A cryogenic insulated pipe 26 having a conformally-bonded aerogel paper layer 30 on an outer surface of the pipe. Aspects include: the conformally-bonded aerogel paper layer is conformally bonded to the pipe outer surface in a pre-applied resin layer 28; An insulative blanket 32 is applied over the aerogel paper, and a breathable protective layer 34 is applied over the insulative blanket 32. Bonding the aerogel paper directly to the outer surface of a cryogenic pipe prevents ambient oxygen condensation and concentration at the cryogenic pipe surface. This in turn may minimize the risk of flammability, degraded performance and failure/debris.",
+      "publicationNumber": "GB2636571",
+      "publicationDate": "2025-06-25",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [
+        "JACK DAVID VICTOR MAYNARD"
+      ],
+      "applicationDate": "2023-12-11",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Mechanical elements",
+        "Surface technology, coating"
+      ],
+      "score": 11.820175
+    },
+    {
+      "id": "GB-2636284-A",
+      "title": [
+        "Cooling system for fuel cell onboard a vehicle including auxiliary evaporative cooling"
+      ],
+      "abstract": "A cooling system for a fuel cell onboard a vehicle includes a plenum, a coolant circuit, and a liquid-to-air heat exchanger. The plenum is configured to receive an airflow from an ambient environment. The coolant circuit is configured to circulate a coolant through the coolant circuit and through a portion of the fuel cell. The liquid-to-air heat exchanger includes a thermally conductive wall having a first side that at least partially defines an airflow channel in fluid communication with the plenum and an opposite second side that at least partially defines a coolant channel in fluid communication with the coolant circuit. The first side of the thermally conductive wall includes a porous wick. When a working fluid is introduced into the porous wick, the porous wick is configured to evaporatively cool the coolant flowing through the coolant channel by promoting evaporation of the working fluid therefrom.",
+      "publicationNumber": "GB2636284",
+      "publicationDate": "2025-06-11",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [
+        "Seied Masoud Ameli",
+        "MICHAEL PATTERSON",
+        "MATTHEW GRAHAM LEGG"
+      ],
+      "applicationDate": "2022-04-29",
+      "claimsCount": 20,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 11.820175
+    },
+    {
+      "id": "GB-2627008-B",
+      "title": [
+        "Flux pinning superconducting LH2 tank"
+      ],
+      "abstract": "",
+      "publicationNumber": "GB2627008",
+      "publicationDate": "2025-04-30",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [
+        "Rudolf Jacobus Coertze",
+        "Christian Bailey"
+      ],
+      "applicationDate": "2023-02-13",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Mechanical elements",
+        "Transport"
+      ],
+      "score": 11.820175
+    },
+    {
+      "id": "GB-2627008-A",
+      "title": [
+        "Flux pinning superconducting LH2 tank"
+      ],
+      "abstract": "A cryogenic storage tank, such as a hydrogen fuel cell for an aircraft, includes an inner wall 52, and an outer wall 54 defining a space, wherein the inner wall and outer wall are spaced from one another by magnetic repulsion. In one embodiment the inner wall includes a high temperature superconducting material 62 embedded in or on a surface of the inner wall, and the outer wall has conventional magnetic material 56 embedded in or on a surface of the outer wall. The tank may also comprise ties or filaments 64, which may be elastic and are strong enough to maintain the inner tank in place when the tank is empty, but not when it is filled.",
+      "publicationNumber": "GB2627008",
+      "publicationDate": "2024-08-14",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [
+        "Rudolf Jacobus Coertze",
+        "Christian Bailey"
+      ],
+      "applicationDate": "2023-02-13",
+      "claimsCount": 22,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Mechanical elements",
+        "Transport"
+      ],
+      "score": 11.820175
+    },
+    {
+      "id": "GB-2626044-B",
+      "title": [
+        "Cryogenic thermo-structural insulation system"
+      ],
+      "abstract": "",
+      "publicationNumber": "GB2626044",
+      "publicationDate": "2025-04-23",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [
+        "JACK DAVID VICTOR MAYNARD"
+      ],
+      "applicationDate": "2023-01-16",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Mechanical elements"
+      ],
+      "score": 11.820175
+    },
+    {
+      "id": "GB-2626044-A",
+      "title": [
+        "Cryogenic thermo-structural insulation system"
+      ],
+      "abstract": "Disclosed is a cryogenic storage tank including an inner wall 50 and an outer wall 54 defining a space, wherein the space is filled at least in part with dried-in-place hollow glass microspheres 58 which provides both insulating and structural properties to maintain the space, and methods for forming the cryogenic storage tank. In some embodiments, the glass microspheres may be applied by wrapping the first wall in a flexible bladder (52, figure 3) then injecting a putty comprising the glass microspheres in a volatile organic solvent, before driving off the solvent to form a high angle of repose material.",
+      "publicationNumber": "GB2626044",
+      "publicationDate": "2024-07-10",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [
+        "JACK DAVID VICTOR MAYNARD"
+      ],
+      "applicationDate": "2023-01-16",
+      "claimsCount": 12,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Mechanical elements"
+      ],
+      "score": 11.820175
+    },
+    {
+      "id": "GB-2621054-A",
+      "title": [
+        "Jump-starting a hydrogen fuel cell-powered aircraft"
+      ],
+      "abstract": "A method for jump-starting a hydrogen fuel cell-powered aircraft is disclosed. The method accesses a fuel cell stack containing latent oxygen therein. Accesses a hydrogen fuel source and provides hydrogen from the hydrogen fuel source into the fuel cell stack causing the hydrogen to mix with the latent oxygen in the fuel cell stack and generate a voltage. The voltage is then provided to a component of the hydrogen fuel cell-powered aircraft such that additional oxygen is introduced to the fuel stack.",
+      "publicationNumber": "GB2621054",
+      "publicationDate": "2024-01-31",
+      "assignee": [
+        "ZeroAvia, Inc."
+      ],
+      "inventors": [
+        "Stephen Lawes",
+        "Ritish Tejpal"
+      ],
+      "applicationDate": "2022-04-06",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 11.820175
+    },
+    {
+      "id": "GB-202505620-D0",
+      "title": [
+        "Curved (involute) fuel cell stack placement design"
+      ],
+      "abstract": "",
+      "publicationNumber": "GB202505620",
+      "publicationDate": "2025-05-28",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [],
+      "applicationDate": "2025-04-15",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 11.820175
+    },
+    {
+      "id": "GB-202417118-D0",
+      "title": [
+        "Cooling system for fuel cell onboard a vehicle including auxiliary evaporative cooling"
+      ],
+      "abstract": "",
+      "publicationNumber": "GB202417118",
+      "publicationDate": "2025-01-08",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [],
+      "applicationDate": "2022-04-29",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 11.820175
+    },
+    {
+      "id": "GB-202318873-D0",
+      "title": [
+        "Anti-enrichment composite cryoline"
+      ],
+      "abstract": "",
+      "publicationNumber": "GB202318873",
+      "publicationDate": "2024-01-24",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [],
+      "applicationDate": "2023-12-11",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 11.820175
+    },
+    {
+      "id": "GB-202317026-D0",
+      "title": [
+        "Jump-starting a hydrogen fuel cell-powered aircraft"
+      ],
+      "abstract": "",
+      "publicationNumber": "GB202317026",
+      "publicationDate": "2023-12-20",
+      "assignee": [
+        "ZeroAvia, Inc."
+      ],
+      "inventors": [],
+      "applicationDate": "2022-04-06",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 11.820175
+    },
+    {
+      "id": "GB-202302035-D0",
+      "title": [
+        "Flux pinning superconducting LH2 tank"
+      ],
+      "abstract": "",
+      "publicationNumber": "GB202302035",
+      "publicationDate": "2023-03-29",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [],
+      "applicationDate": "2023-02-13",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 11.820175
+    },
+    {
+      "id": "GB-202300636-D0",
+      "title": [
+        "Cryogenic thermo-structural insulation system"
+      ],
+      "abstract": "",
+      "publicationNumber": "GB202300636",
+      "publicationDate": "2023-03-01",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [],
+      "applicationDate": "2023-01-16",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 11.820175
+    },
+    {
+      "id": "US-20250253362-A1",
+      "title": [
+        "COOLING SYSTEM FOR FUEL CELL ONBOARD A VEHICLE INCLUDING AUXILIARY EVAPORATIVE COOLER"
+      ],
+      "abstract": "A cooling system for a fuel cell onboard a vehicle includes a coolant circuit and an auxiliary evaporative cooler. The coolant circuit is configured to circulate a coolant including a phase change material therethrough and through a portion of the fuel cell to absorb heat from the fuel cell. The auxiliary evaporative cooler includes a coolant channel in fluid communication with the coolant circuit, an airflow channel in fluid communication with an ambient environment, and a selectively permeable membrane that physically separates the coolant channel from the airflow channel and is selectively permeable to the phase change material. The auxiliary evaporative cooler is configured to evaporatively cool the coolant flowing through the coolant channel by promoting evaporation and transport of the phase change material from the coolant flowing through the coolant channel, through the selectively permeable membrane, and into an ambient airflow flowing through the airflow channel.",
+      "publicationNumber": "US20250253362",
+      "publicationDate": "2025-08-07",
+      "assignee": [
+        "ZEROAVIA LTD."
+      ],
+      "inventors": [
+        "Seied Masoud Ameli",
+        "Michael Patterson",
+        "Matthew Graham LEGG",
+        "Christian Bailey"
+      ],
+      "applicationDate": "2022-04-29",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 11.785812
+    },
+    {
+      "id": "US-20230227142-A1",
+      "title": [
+        "GIMBALING CYCLIC THRUST VECTORING"
+      ],
+      "abstract": "A propulsion system for a lighter-than-air craft including a motor outputting a driving force including one or more rotors. This propulsion system is a free-pivoting, swashplate-controlled system interconnecting the motor and the one or more rotors for lighter-than-air aircraft.",
+      "publicationNumber": "US20230227142",
+      "publicationDate": "2023-07-20",
+      "assignee": [
+        "ZeroAvia, Inc."
+      ],
+      "inventors": [
+        "Gabriel Valentine DEVAULT-STRONG"
+      ],
+      "applicationDate": "2023-01-17",
+      "claimsCount": 1,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Transport"
+      ],
+      "score": 11.785812
+    },
+    {
+      "id": "WO-2023220432-A3",
+      "title": [
+        "START UP METHOD AND APPARATUS TO PRE-HEAT FUEL CELL"
+      ],
+      "abstract": "A fuel cell includes a heat exchanger loop configured to circulate a heat exchanger fluid from the compressed cathode air feed to the fuel cell to pre-heat the fuel cell during fuel cell start up. Also disclosed is a fuel cell including a humidifier mated to inlet and outlet ports of the fuel cell stack. Also disclosed is a fuel cell system having audio, image, or strain sensors external to the fuel cell surface, configured for detecting a change in the external surface of the fuel cell indicative of a fault condition.",
+      "publicationNumber": "WO2023220432",
+      "publicationDate": "2024-01-11",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [
+        "BOB L. MACKEY",
+        "VALERY MIFTAKHOV",
+        "Callum Woods Larson RITCHIE",
+        "Christian Bailey",
+        "Kevin-Patxi LE BRAS",
+        "Aleksey PETLENKO",
+        "Asif Mohammad SADIK",
+        "Jonathan Leopold Nutzati FONTAINE",
+        "Stephen LAWES",
+        "Gareth COATES",
+        "Aajay SANKAR"
+      ],
+      "applicationDate": "2023-05-12",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 11.702192
+    },
+    {
+      "id": "WO-2023220432-A2",
+      "title": [
+        "RUN FUEL CELL COOLANT THROUGH CATHODE INTERCOOLER"
+      ],
+      "abstract": "A fuel cell includes a heat exchanger loop configured to circulate a heat exchanger fluid from the compressed cathode air feed to the fuel cell to pre-heat the fuel cell during fuel cell start up. Also disclosed is a fuel cell including a humidifier mated to inlet and outlet ports of the fuel cell stack. Also disclosed is a fuel cell system having audio, image, or strain sensors external to the fuel cell surface, configured for detecting a change in the external surface of the fuel cell indicative of a fault condition.",
+      "publicationNumber": "WO2023220432",
+      "publicationDate": "2023-11-16",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [
+        "BOB L. MACKEY",
+        "VALERY MIFTAKHOV",
+        "Callum Woods Larson RITCHIE",
+        "Christian Bailey",
+        "Kevin-Patxi LE BRAS",
+        "Aleksey PETLENKO",
+        "Asif Mohammad SADIK",
+        "Jonathan Leopold Nutzati FONTAINE",
+        "Stephen LAWES",
+        "Gareth COATES",
+        "Aajay SANKAR"
+      ],
+      "applicationDate": "2023-05-12",
+      "claimsCount": 16,
+      "independentClaimsCount": 7,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 11.702192
+    },
+    {
+      "id": "WO-2023209317-A1",
+      "title": [
+        "COOLING SYSTEM FOR FUEL CELL ONBOARD A VEHICLE INCLUDING EVAPORATIVE COOLING DEVICE"
+      ],
+      "abstract": "A cooling system for a fuel cell onboard a vehicle includes a coolant circuit and an evaporative cooling device including an evaporation chamber and a thermally conductive conduit extending through the evaporation chamber. The coolant circuit is configured to circulate a coolant through the coolant circuit and through a portion of the fuel cell. The thermally conductive conduit has an inner surface that at least partially defines a coolant channel in fluid communication with the coolant circuit and an opposite outer surface exposed to an environment within the evaporation chamber. When a working fluid is applied to the outer surface of the thermally conductive conduit within the evaporation chamber, the evaporative cooling device is configured to evaporatively cool the coolant flowing through the coolant channel by promoting evaporation of the working fluid from the outer surface of the thermally conductive conduit.",
+      "publicationNumber": "WO2023209317",
+      "publicationDate": "2023-11-02",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [
+        "Seied Masoud AMELI",
+        "MICHAEL PATTERSON",
+        "Matthew Graham LEGG",
+        "Christian Bailey"
+      ],
+      "applicationDate": "2022-04-29",
+      "claimsCount": 20,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 11.702192
+    },
+    {
+      "id": "WO-2023209316-A1",
+      "title": [
+        "COOLING SYSTEM FOR FUEL CELL ONBOARD A VEHICLE INCLUDING THERMAL ENERGY STORAGE DEVICE"
+      ],
+      "abstract": "A cooling system for a fuel cell onboard a vehicle includes a coolant circuit and a thermal energy storage device in fluid communication with the coolant circuit. The coolant circuit defines a coolant passageway and is configured to circulate a coolant through the coolant passageway and through a portion of the fuel cell to absorb heat from the fuel cell. The thermal energy storage device includes a phase change material configured to store thermal energy released from the coolant flowing through the coolant circuit and through the thermal energy storage device in the form of latent heat. The phase change material is configured to dissipate thermal energy stored therein to a circumambient airflow flowing relative to the vehicle when the vehicle is moving.",
+      "publicationNumber": "WO2023209316",
+      "publicationDate": "2023-11-02",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [
+        "Matthew Graham LEGG",
+        "MICHAEL PATTERSON",
+        "Seied Masoud AMELI",
+        "Christian Bailey"
+      ],
+      "applicationDate": "2022-04-29",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 11.702192
+    },
+    {
+      "id": "WO-2022245427-A9",
+      "title": [
+        "REFUELING SYSTEM FOR HYDROGEN FUEL CELL-POWERED AIRCRAFT"
+      ],
+      "abstract": "A refueling system for hydrogen fuel cell-powered aircraft is disclosed. The system includes a compressor to receive a source of low temperature, high pressure hydrogen gas and compress the low temperature, high pressure hydrogen gas into a higher temperature, higher pressure hydrogen gas. A compression chamber within the compressor to receive the higher temperature, higher pressure hydrogen gas from the compressor. A valve coupled with the compression chamber to reduce the pressure of the higher temperature, higher pressure hydrogen gas to a higher temperature, lower pressure hydrogen gas. A storage container on an aircraft to receive the higher temperature, lower pressure hydrogen gas via the pressure relief valve. A heat exchanger in thermal cooperation with the compression chamber, the heat exchanger configured to absorb heat from the compression chamber and convert the heat into storable energy.",
+      "publicationNumber": "WO2022245427",
+      "publicationDate": "2023-01-26",
+      "assignee": [
+        "ZEROAVIA LTD."
+      ],
+      "inventors": [
+        "VALERY MIFTAKHOV",
+        "SERGEY KISELEV"
+      ],
+      "applicationDate": "2022-03-25",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Mechanical elements",
+        "Transport"
+      ],
+      "score": 11.702192
+    },
+    {
+      "id": "WO-2022245427-A3",
+      "title": [
+        "REFUELING SYSTEM FOR HYDROGEN FUEL CELL-POWERED AIRCRAFT"
+      ],
+      "abstract": "A refueling system for hydrogen fuel cell-powered aircraft is disclosed. The system includes a compressor to receive a source of low temperature, high pressure hydrogen gas and compress the low temperature, high pressure hydrogen gas into a higher temperature, higher pressure hydrogen gas. A compression chamber within the compressor to receive the higher temperature, higher pressure hydrogen gas from the compressor. A valve coupled with the compression chamber to reduce the pressure of the higher temperature, higher pressure hydrogen gas to a higher temperature, lower pressure hydrogen gas. A storage container on an aircraft to receive the higher temperature, lower pressure hydrogen gas via the pressure relief valve. A heat exchanger in thermal cooperation with the compression chamber, the heat exchanger configured to absorb heat from the compression chamber and convert the heat into storable energy.",
+      "publicationNumber": "WO2022245427",
+      "publicationDate": "2023-03-02",
+      "assignee": [
+        "ZEROAVIA LTD."
+      ],
+      "inventors": [
+        "VALERY MIFTAKHOV",
+        "SERGEY KISELEV"
+      ],
+      "applicationDate": "2022-03-25",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Mechanical elements",
+        "Transport"
+      ],
+      "score": 11.702192
+    },
+    {
+      "id": "WO-2022245427-A2",
+      "title": [
+        "REFUELING SYSTEM FOR HYDROGEN FUEL CELL-POWERED AIRCRAFT"
+      ],
+      "abstract": "A refueling system for hydrogen fuel cell-powered aircraft is disclosed. The system includes a compressor to receive a source of low temperature, high pressure hydrogen gas and compress the low temperature, high pressure hydrogen gas into a higher temperature, higher pressure hydrogen gas. A compression chamber within the compressor to receive the higher temperature, higher pressure hydrogen gas from the compressor. A valve coupled with the compression chamber to reduce the pressure of the higher temperature, higher pressure hydrogen gas to a higher temperature, lower pressure hydrogen gas. A storage container on an aircraft to receive the higher temperature, lower pressure hydrogen gas via the pressure relief valve. A heat exchanger in thermal cooperation with the compression chamber, the heat exchanger configured to absorb heat from the compression chamber and convert the heat into storable energy.",
+      "publicationNumber": "WO2022245427",
+      "publicationDate": "2022-11-24",
+      "assignee": [
+        "ZEROAVIA LTD."
+      ],
+      "inventors": [
+        "VALERY MIFTAKHOV",
+        "SERGEY KISELEV"
+      ],
+      "applicationDate": "2022-03-25",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [],
+      "score": 11.702192
+    },
+    {
+      "id": "US-20250323352-A1",
+      "title": [
+        "HYBRID FC-BATTERY SYSTEM WITHOUT POWER ELECTRONICS"
+      ],
+      "abstract": "A DC-DC converter-free hybrid fuel cell (PC)-energy storage (ES) system (FC-ES) is used for powering an electric device, wherein the PC and ES are electrically connected and configured so that the PC and ES intrinsically absorb and control system transients through state-of-charge cross-overs. The electric device preferably is a vehicle, and in particular a hydrogen fuel-cell-powered aircraft.",
+      "publicationNumber": "US20250323352",
+      "publicationDate": "2025-10-16",
+      "assignee": [
+        "ZeroAvia, Inc."
+      ],
+      "inventors": [
+        "Gabriel Devault",
+        "Michael Dana Sarnoff-Wood"
+      ],
+      "applicationDate": "2024-04-16",
+      "claimsCount": 15,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 11.702192
+    },
+    {
+      "id": "US-20250316730-A1",
+      "title": [
+        "RUN FUEL CELL COOLANT THROUGH CATHODE INTERCOOLER"
+      ],
+      "abstract": "A fuel cell includes a heat exchanger loop configured to circulate a heat exchanger fluid from the compressed cathode air feed to the fuel cell to pre-heat the fuel cell during fuel cell start up. Also disclosed is a fuel cell including a humidifier mated to inlet and outlet ports of the fuel cell stack. Also disclosed is a fuel cell system having audio, image, or strain sensors external to the fuel cell surface, configured for detecting a change in the external surface of the fuel cell indicative of a fault condition.",
+      "publicationNumber": "US20250316730",
+      "publicationDate": "2025-10-09",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [
+        "Stephen LAWES",
+        "Gareth Coates",
+        "Aajay SANKAR"
+      ],
+      "applicationDate": "2023-05-12",
+      "claimsCount": 14,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 11.702192
+    },
+    {
+      "id": "US-20240429415-A1",
+      "title": [
+        "DETECTING A FAULT CONDITION IN A FUEL CELL SYSTEM"
+      ],
+      "abstract": "A fuel cell system having at least one fuel cell with an external surface; and one or more of audio, image, or strain sensors external to the fuel cell surface, configured for detecting a change in the external surface of the fuel cell indicative of a fault condition. The at last one sensor may include a visual camera, an IR camera, an IR detector, or a UV-responsive camera, or an ultrasound transducer, a piezoelectric sensor and a vibration sensor, or a surface acoustic wave detector, or a mass spectrometer.",
+      "publicationNumber": "US20240429415",
+      "publicationDate": "2024-12-26",
+      "assignee": [
+        "ZeroAvia, Inc."
+      ],
+      "inventors": [
+        "Prasanna Kumar DARISHA",
+        "Alex Lo",
+        "Valery Miftakhov",
+        "Christian Bailey"
+      ],
+      "applicationDate": "2024-09-06",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology",
+        "Transport"
+      ],
+      "score": 11.702192
+    },
+    {
+      "id": "US-20240170695-A1",
+      "title": [
+        "FUEL CELL WITH INTEGRATED BALANCE OF PLANT COMPONENTS"
+      ],
+      "abstract": "A fuel cell system includes a plurality of fuel cell stacks mechanically and electrically assembled to one another to provide a desired power and output voltage, and including a humidifier directly mated to inlet and outlet ports the individual fuel cell stacks.",
+      "publicationNumber": "US20240170695",
+      "publicationDate": "2024-05-23",
+      "assignee": [
+        "ZeroAvia, Inc."
+      ],
+      "inventors": [
+        "Aleksey PETLENKO",
+        "Asif Mohammad SADIK",
+        "Jonathan Leopold Nutzati FONTAINE"
+      ],
+      "applicationDate": "2022-11-17",
+      "claimsCount": 19,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 11.702192
+    },
+    {
+      "id": "US-20230369616-A1",
+      "title": [
+        "DETECTING A FAULT CONDITION IN A FUEL CELL SYSTEM"
+      ],
+      "abstract": "A fuel cell system having at least one fuel cell having an external surface; and one or more of audio, image, or strain sensors external to the fuel cell surface, configured for detecting a change in the external surface of the fuel cell indicative of a fault condition. The at last one sensor may include a visual camera, an IR camera, an IR detector, or a UV-responsive camera, or an ultrasound transducer, a piezoelectric sensor and a vibration sensor, or a surface acoustic wave detector, or a mass spectrometer.",
+      "publicationNumber": "US20230369616",
+      "publicationDate": "2023-11-16",
+      "assignee": [
+        "ZeroAvia, Inc."
+      ],
+      "inventors": [
+        "Bob L. Mackey",
+        "Valery Miftakhov",
+        "Callum Woods Larson RITCHIE",
+        "Christian Bailey",
+        "Kevin-Patxi LE BRAS"
+      ],
+      "applicationDate": "2022-05-13",
+      "claimsCount": 19,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 11.702192
+    },
+    {
+      "id": "GB-2637388-A",
+      "title": [
+        "Cooling system for fuel cell onboard a vehicle including thermal energy storage device"
+      ],
+      "abstract": "A cooling system for a fuel cell onboard a vehicle includes a coolant circuit and a thermal energy storage device in fluid communication with the coolant circuit. The coolant circuit defines a coolant passageway and is configured to circulate a coolant through the coolant passageway and through a portion of the fuel cell to absorb heat from the fuel cell. The thermal energy storage device includes a phase change material configured to store thermal energy released from the coolant flowing through the coolant circuit and through the thermal energy storage device in the form of latent heat. The phase change material is configured to dissipate thermal energy stored therein to a circumambient airflow flowing relative to the vehicle when the vehicle is moving.",
+      "publicationNumber": "GB2637388",
+      "publicationDate": "2025-07-23",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [
+        "MATTHEW GRAHAM LEGG",
+        "MICHAEL PATTERSON",
+        "Seied Masoud Ameli",
+        "Christian Bailey"
+      ],
+      "applicationDate": "2022-04-29",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 11.702192
+    },
+    {
+      "id": "GB-2635967-A",
+      "title": [
+        "Cooling system for fuel cell onboard a vehicle including evaporative cooling device"
+      ],
+      "abstract": "A cooling system for a fuel cell onboard a vehicle includes a coolant circuit and an evaporative cooling device including an evaporation chamber and a thermally conductive conduit extending through the evaporation chamber. The coolant circuit is configured to circulate a coolant through the coolant circuit and through a portion of the fuel cell. The thermally conductive conduit has an inner surface that at least partially defines a coolant channel in fluid communication with the coolant circuit and an opposite outer surface exposed to an environment within the evaporation chamber. When a working fluid is applied to the outer surface of the thermally conductive conduit within the evaporation chamber, the evaporative cooling device is configured to evaporatively cool the coolant flowing through the coolant channel by promoting evaporation of the working fluid from the outer surface of the thermally conductive conduit.",
+      "publicationNumber": "GB2635967",
+      "publicationDate": "2025-06-04",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [
+        "Seied Masoud Ameli",
+        "MICHAEL PATTERSON",
+        "MATTHEW GRAHAM LEGG",
+        "Christian Bailey"
+      ],
+      "applicationDate": "2022-04-29",
+      "claimsCount": 20,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 11.702192
+    },
+    {
+      "id": "GB-2634658-A",
+      "title": [
+        "Start up method and apparatus to pre-heat fuel cell"
+      ],
+      "abstract": "A fuel cell includes a heat exchanger loop configured to circulate a heat exchanger fluid from the compressed cathode air feed to the fuel cell to pre-heat the fuel cell during fuel cell start up. Also disclosed is a fuel cell including a humidifier mated to inlet and outlet ports of the fuel cell stack. Also disclosed is a fuel cell system having audio, image, or strain sensors external to the fuel cell surface, configured for detecting a change in the external surface of the fuel cell indicative of a fault condition.",
+      "publicationNumber": "GB2634658",
+      "publicationDate": "2025-04-16",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [
+        "Bob L Mackey",
+        "VALERY MIFTAKHOV",
+        "Callum Woods Larson Ritchie",
+        "Christian Bailey",
+        "Kevin-Patxi Le Bras",
+        "Aleksey Petlenko",
+        "ASIF MOHAMMAD SADIK",
+        "JONATHAN LEOPOLD NUTZATI FONTAINE"
+      ],
+      "applicationDate": "2023-05-12",
+      "claimsCount": 16,
+      "independentClaimsCount": 7,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 11.702192
+    },
+    {
+      "id": "GB-2628548-B",
+      "title": [
+        "Preheating fuel cell using heat from an air compressor"
+      ],
+      "abstract": "",
+      "publicationNumber": "GB2628548",
+      "publicationDate": "2025-05-28",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [
+        "Stephen Lawes",
+        "Gareth Coates",
+        "AAJAY SANKAR"
+      ],
+      "applicationDate": "2023-03-27",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 11.702192
+    },
+    {
+      "id": "GB-2628548-A",
+      "title": [
+        "Run fuel cell coolant through cathode intercooler"
+      ],
+      "abstract": "A fuel cell system 10 comprises a cathode 14 and anode 16, a cathode air feed 20 and anode gas feed 24, a cathode air feed compressor 28, and a heat exchanger 30 loop configured to extract heat from the compressed cathode air feed. The heat exchanger loop is configured to circulate a heat exchanger fluid from the compressed cathode air feed to the fuel cell to pre-heat the fuel cell during fuel cell start-up. Also disclosed is a method for pre-heating a fuel cell during start-up using this fuel cell system. The heat exchanger loop may also be used to pre-heat the anode gas and cathode air feeds, and may be configured to heat or cool the respective feeds to minimize thermal differences and stresses in the fuel cell. This arrangement is especially useful for high temperature (HT-PEM) hydrogen fuel cells, such as those used in fuel cell powered vehicles, particularly fuel cell powered aircraft.",
+      "publicationNumber": "GB2628548",
+      "publicationDate": "2024-10-02",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [
+        "Stephen Lawes",
+        "Gareth Coates",
+        "AAJAY SANKAR"
+      ],
+      "applicationDate": "2023-03-27",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 11.702192
+    },
+    {
+      "id": "GB-202418294-D0",
+      "title": [
+        "Start up method and apparatus to pre-heat fuel cell"
+      ],
+      "abstract": "",
+      "publicationNumber": "GB202418294",
+      "publicationDate": "2025-01-29",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [],
+      "applicationDate": "2023-05-12",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 11.702192
+    },
+    {
+      "id": "GB-202417120-D0",
+      "title": [
+        "Cooling system for fuel cell onboard a vehicle including evaporative cooling device"
+      ],
+      "abstract": "",
+      "publicationNumber": "GB202417120",
+      "publicationDate": "2025-01-08",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [],
+      "applicationDate": "2022-04-29",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 11.702192
+    },
+    {
+      "id": "GB-202417119-D0",
+      "title": [
+        "Cooling system for fuel cell onboard a vehicle including thermal energy storage device"
+      ],
+      "abstract": "",
+      "publicationNumber": "GB202417119",
+      "publicationDate": "2025-01-08",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [],
+      "applicationDate": "2022-04-29",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 11.702192
+    },
+    {
+      "id": "GB-202304457-D0",
+      "title": [
+        "Run fuel cell coolant through cathode intercooler"
+      ],
+      "abstract": "",
+      "publicationNumber": "GB202304457",
+      "publicationDate": "2023-05-10",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [],
+      "applicationDate": "2023-03-27",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 11.702192
+    },
+    {
+      "id": "WO-2023249660-A1",
+      "title": [
+        "COMPRESSOR BYPASS FOR LOW ALTITUDE OPERATIONS"
+      ],
+      "abstract": "An integrated hydrogen-electric engine includes, an air compressor system; a hydrogen fuel source; a fuel cell; an elongated shaft connected to the air compressor system or a propulsor; and a motor assembly disposed in electrical communication with the fuel cell, wherein the air compressor system includes a plurality of electrically driven compressors configured to run in series or parallel.",
+      "publicationNumber": "WO2023249660",
+      "publicationDate": "2023-12-28",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [
+        "RUDOLF COERTZE",
+        "Asif SADIK",
+        "Christian Bailey",
+        "Gabriel Devault",
+        "Kevin-Patxi LE BRAS",
+        "BOB, L. MACKEY"
+      ],
+      "applicationDate": "2022-06-23",
+      "claimsCount": 20,
+      "independentClaimsCount": 6,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Transport"
+      ],
+      "score": 11.601097
+    },
+    {
+      "id": "WO-2023249659-A1",
+      "title": [
+        "THRUST FROM HYDROGEN FUEL CELL WASTE"
+      ],
+      "abstract": "An integrated hydrogen-electric engine including an air compressor system, a hydrogen fuel source, a fuel cell, a heat exchanger, an elongated shaft, a motor assembly and a combustion chamber including a turbine downstream of the fuel cell configured to burn or catalytically react unburned hydrogen gas in the fuel cell waste, to drive the turbine to add additional torque to the shaft. The heat exchanger is disposed in fluid communication with the hydrogen fuel source and the fuel cell. The elongated shaft is connected to the air compressor and/or a propulsor. The motor assembly is disposed in electrical communication with the fuel cell.",
+      "publicationNumber": "WO2023249659",
+      "publicationDate": "2023-12-28",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [
+        "Gabriel Devault",
+        "VALERY MIFTAKHOV",
+        "Asif SADIK",
+        "Christian Bailey",
+        "BOB, L. MACKEY"
+      ],
+      "applicationDate": "2022-06-23",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.601097
+    },
+    {
+      "id": "US-20250158092-A1",
+      "title": [
+        "AIR-COOLED FUEL CELL SYSTEM AND METHOD FOR OPERATING SAME"
+      ],
+      "abstract": "The invention relates to air-cooled fuel cell systems, in particular to mid-and high temperature fuel cells with operating temperatures ranging from 100 to 1.000\u00b0 C. and to methods for operating an air-cooled fuel cell system. The air-cooled fuel cell system comprising at least one fuel cell stack (1) with a gaseous heat carrier distribution system (2), an anode gas distribution system (3) and a cathode gas distribution system (4); a burner (14); an expander (9; 24); a motor; a compressor (8; 23); a gaseous heat carrier recirculation system (5) connected to the gaseous heat carrier distribution system (2) and intended for mixing a gas stream delivered to the gaseous heat carrier distribution system and providing additional pressure thereto, and means for separating gas streams and controlling their flowrate. The technical effect improves reliability and operating efficiency of a fuel cell in any climatic conditions and in a broad range of aviation altitudes.",
+      "publicationNumber": "US20250158092",
+      "publicationDate": "2025-05-15",
+      "assignee": [
+        "ZeroAvia, Inc."
+      ],
+      "inventors": [
+        "Sergei SHUBENKOV",
+        "Sergei PANOV",
+        "Aleksey Ivanenko",
+        "Alexander Todorov",
+        "Ilya Kosarev",
+        "Brian Benicewicz",
+        "Rhonda Staudt",
+        "John Anthony Vogel"
+      ],
+      "applicationDate": "2022-02-16",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.589175
+    },
+    {
+      "id": "US-11933325-B1",
+      "title": [
+        "Thermal pumping of liquid hydrogen"
+      ],
+      "abstract": "A liquid hydrogen (LH2) fuel storage system for a fuel cell-powered vehicle, and method includes a main LH2 storage fuel tank configured for close to ambient pressure storage of LH2, and one or more gas accumulator tanks (GATs) smaller than the main LH2 storage fuel tank and configured for elevated pressure storage of LH2 and for feeding pressurized LH2 to the fuel cell, wherein the one or more GATs each have a cooling interface configured to cool the GAT employing LH2 from the main LH2 storage fuel tank, and a heating interface configured to heat contents of the GAT with warm working fluid from the fuel cell-powered vehicle whereby to raise pressure of the LH2 in the GAT to a working pressure for feeding the LH2 to the fuel cell.",
+      "publicationNumber": "US11933325",
+      "publicationDate": "2024-03-19",
+      "assignee": [
+        "ZeroAvia, Inc."
+      ],
+      "inventors": [
+        "Valery Miftakhov"
+      ],
+      "applicationDate": "2023-08-11",
+      "claimsCount": 14,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Mechanical elements"
+      ],
+      "score": 11.589175
+    },
+    {
+      "id": "WO-2024261627-A1",
+      "title": [
+        "HIGH TEMPERATURE PROTON EXCHANGE MEMBRANE AND DIRECT CELL DEPOSITION AND MANUFACTURING PROCESS"
+      ],
+      "abstract": "The invention of the current application is directed to a high temperature proton exchange membrane (HTPEM) fuel cell and manufacturing process thereof. The fuel cell includes at least one bipolar plate (BPP) layer, at least one gas diffusion layer (GDL) at least one catalyst layer, and a membrane layer. Additionally, the invention of the current application is directed to a manufacturing process which joins each layer of a (HTPEM) fuel cell in a stacked formation wherein in some embodiments the GDL, catalyst layers, and a membrane layer are pre-casts into a membrane electrode assembly MEA. The resulting (HTPEM) fuel cell has a lower passive area without the need for bulky and heavy gaskets and subgaskets.",
+      "publicationNumber": "WO2024261627",
+      "publicationDate": "2024-12-26",
+      "assignee": [
+        "ZEROAVIA LTD."
+      ],
+      "inventors": [
+        "SERGEI SHUBENKOV",
+        "Victor BELOUSOV",
+        "Aleksandar Vasilev TODOROV"
+      ],
+      "applicationDate": "2024-06-17",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.547516
+    },
+    {
+      "id": "WO-2024020421-A1",
+      "title": [
+        "FUEL TANK HEAT DISSIPATION SYSTEM FOR FUEL CELL COOLING"
+      ],
+      "abstract": "A fuel tank heat dissipation system for fuel cell (FC) cooling is disclosed. In one example, at least one FC is in thermal communication with an intermediary heat exchanger. A fuel tank is also in fluid communication with the intermediary heat exchanger. A fluid is used to receive heat from the intermediary heat exchanger and flow along a first fluid path to the fuel tank. A nozzle is used to spray the fluid about an interior surface of the fuel tank, where the spray of the fluid about the interior of the fuel tank allows the fluid to dissipate the heat. A second fluid path from the fuel tank to the intermediary heat exchanger, the second fluid path to return the fluid that has dissipated the heat to the intermediary heat exchanger.",
+      "publicationNumber": "WO2024020421",
+      "publicationDate": "2024-01-25",
+      "assignee": [
+        "ZeroAvia, Inc."
+      ],
+      "inventors": [
+        "VALERY MIFTAKHOV",
+        "BOB LEE MACKEY"
+      ],
+      "applicationDate": "2023-07-18",
+      "claimsCount": 13,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 11.547516
+    },
+    {
+      "id": "WO-2022056107-A1",
+      "title": [
+        "SYSTEMS AND METHODS FOR INTEGRATED FUEL CELL STACK AND BATTERY MANAGEMENT FOR TRANSPORTATION USE"
+      ],
+      "abstract": "An integrated fuel cell power delivery system includes a first power source configured to supply power to a propulsion inverter, a second power source configured to supply power to the propulsion inverter, a disconnect operably connected to the second power source, a bypass diode operably connected to the first power source and the second power source, a sensor that detects an output voltage of the integrated fuel cell power system, a processor, and a memory. The memory includes instructions stored thereon, which when executed by the processor, cause the integrated fuel cell power system to access a signal from the sensor, determine if the accessed first signal is greater than a first threshold voltage, and operably disconnect an output of the second power source to the integrated fuel cell power system by the disconnect based on the determination.",
+      "publicationNumber": "WO2022056107",
+      "publicationDate": "2022-03-17",
+      "assignee": [
+        "ZeroAvia, Inc."
+      ],
+      "inventors": [
+        "VALERY MIFTAKHOV"
+      ],
+      "applicationDate": "2021-09-09",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.547516
+    },
+    {
+      "id": "WO-2021188247-A3",
+      "title": [
+        "ELECTRIC ACCELERATION ASSIST FOR SHORT TAKEOFF AND LANDING CAPABILITIES IN FIXED-WING AIRCRAFT"
+      ],
+      "abstract": "A system for managing the ground roll of the landing gear of an aircraft includes an electrical motor, a battery, and an electronic motor controller. The electrical motor is operably associated with landing gear and configured to control the rotation associated therewith. The battery is operably coupled to the electrical motor and configured to supply power thereto. The electronic motor controller is configured to control the flow of electrical power between the battery and the electrical motor and the resultant torque associated with the electrical motor. The electronic motor controller is adapted to communicate with the throttle control of the aircraft. The electronic motor controller cooperates with one or more aircraft controls to provide power to the electrical motor as needed to control the rotation of the landing gear during aircraft takeoff or aircraft landing.",
+      "publicationNumber": "WO2021188247",
+      "publicationDate": "2022-01-06",
+      "assignee": [
+        "ZeroAvia, Inc."
+      ],
+      "inventors": [
+        "VALERY MIFTAKHOV"
+      ],
+      "applicationDate": "2021-02-18",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Transport"
+      ],
+      "score": 11.547516
+    },
+    {
+      "id": "WO-2021188247-A2",
+      "title": [
+        "ELECTRIC ACCELERATION ASSIST FOR SHORT TAKEOFF AND LANDING CAPABILITIES IN FIXED-WING AIRCRAFT"
+      ],
+      "abstract": "A system for managing the ground roll of the landing gear of an aircraft includes an electrical motor, a battery, and an electronic motor controller. The electrical motor is operably associated with landing gear and configured to control the rotation associated therewith. The battery is operably coupled to the electrical motor and configured to supply power thereto. The electronic motor controller is configured to control the flow of electrical power between the battery and the electrical motor and the resultant torque associated with the electrical motor. The electronic motor controller is adapted to communicate with the throttle control of the aircraft. The electronic motor controller cooperates with one or more aircraft controls to provide power to the electrical motor as needed to control the rotation of the landing gear during aircraft takeoff or aircraft landing.",
+      "publicationNumber": "WO2021188247",
+      "publicationDate": "2021-09-23",
+      "assignee": [
+        "ZeroAvia, Inc."
+      ],
+      "inventors": [
+        "VALERY MIFTAKHOV"
+      ],
+      "applicationDate": "2021-02-18",
+      "claimsCount": 13,
+      "independentClaimsCount": 3,
+      "technologyFields": [],
+      "score": 11.547516
+    },
+    {
+      "id": "US-20250349870-A1",
+      "title": [
+        "EMITTERS FOR CELL VOLTAGE MONITORING"
+      ],
+      "abstract": "A system for monitoring a voltage condition of a fuel cell (FC) stack includes at least two FCs operating together in series. At least one light-emitting diode (LED) is in electrical communication with the at least two FCs. At least one sensor is in visual communication with the at least one LED to receive a visual emission from the at least one LED. At least one processor is in communication with the at least one sensor. The at least one processor has a computer-readable memory and a power supply. A brightness of the at least one LED is determined by a voltage condition of the at least two FCs.",
+      "publicationNumber": "US20250349870",
+      "publicationDate": "2025-11-13",
+      "assignee": [
+        "ZeroAvia, Inc."
+      ],
+      "inventors": [
+        "Valery Miftakhov"
+      ],
+      "applicationDate": "2024-05-07",
+      "claimsCount": 26,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Computer technology",
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 11.547516
+    },
+    {
+      "id": "US-20250105320-A1",
+      "title": [
+        "DYNAMIC FUEL CELL STACK SWITCHING"
+      ],
+      "abstract": "A method and system of dynamic fuel cell stack switching includes monitoring a fuel cell voltage of a hydrogen fuel cell stack system. When the fuel cell voltage is outside a voltage range, the fuel cell voltage is adjusted by electrically bypassing at least one fuel cell stack within the hydrogen fuel cell stack system, or by electrically connecting the at least one fuel cell stack to the hydrogen fuel cell stack system. For a bypassed fuel cell stack, a hydration level of the electrically bypassed fuel cell stack is monitored.",
+      "publicationNumber": "US20250105320",
+      "publicationDate": "2025-03-27",
+      "assignee": [
+        "ZEROAVIA LTD"
+      ],
+      "inventors": [
+        "Aleksandr KIKHTENKO",
+        "Gareth Coates",
+        "Pablo DE FELIPE",
+        "Bob L. Mackey",
+        "Julia Di"
+      ],
+      "applicationDate": "2024-09-20",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 11.547516
+    }
+  ]
+}

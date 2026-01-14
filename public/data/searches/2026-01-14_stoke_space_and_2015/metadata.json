@@ -1,0 +1,11 @@
+{
+  "search_id": "search_20260114_121635",
+  "timestamp": "2026-01-14T12:16:35.313326",
+  "query_type": "ai_search",
+  "user_prompt": "PA=(Stoke Space) AND PD>2015",
+  "minesoft_query": "PA=(Stoke Space) AND PD>2015",
+  "results_count": 88,
+  "directory": "2026-01-14_stoke_space_and_2015",
+  "execution_time_ms": 1654.301404953003,
+  "api_endpoint": "query"
+}

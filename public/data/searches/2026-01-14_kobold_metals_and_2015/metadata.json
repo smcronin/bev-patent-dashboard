@@ -1,0 +1,11 @@
+{
+  "search_id": "search_20260114_121957",
+  "timestamp": "2026-01-14T12:19:57.460411",
+  "query_type": "ai_search",
+  "user_prompt": "PA=(KoBold Metals) AND PD>2015",
+  "minesoft_query": "PA=(KoBold Metals) AND PD>2015",
+  "results_count": 26,
+  "directory": "2026-01-14_kobold_metals_and_2015",
+  "execution_time_ms": 437.8044605255127,
+  "api_endpoint": "query"
+}

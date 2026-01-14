@@ -1,0 +1,2726 @@
+{
+  "count": 223,
+  "numFound": 223,
+  "docs": [
+    {
+      "id": "WO-2022195540-A1",
+      "title": [
+        "COMPOSITIONS AND METHODS TO COUPLE CARBON DIOXIDE CAPTURE AND WASTE HEAT"
+      ],
+      "abstract": "Systems and methods for utilizing some or all of waste heat from a process in a temperature swing process to release carbon dioxide from a sorbent in a carbon dioxide capture system; the process supplying the waste heat can be a process that utilizes carbon dioxide, for example a carbon dioxide mineralization process, and in some cases the carbon dioxide released from the sorbent may be used in the carbon dioxide mineralization process.",
+      "publicationNumber": "WO2022195540",
+      "publicationDate": "2022-09-22",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "DEAN PAUL FORGERON",
+        "Travis Aaron JANKE",
+        "GEORGE SEAN MONKMAN"
+      ],
+      "applicationDate": "2022-03-17",
+      "claimsCount": 79,
+      "independentClaimsCount": 75,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 14.143481
+    },
+    {
+      "id": "WO-2021071980-A1",
+      "title": [
+        "METHODS AND COMPOSITIONS FOR TREATMENT OF CONCRETE RECLAIMED WATER"
+      ],
+      "abstract": "Provided herein are compositions and methods for carbonating wash water (reclaimed water) produced in the manufacture and use of concrete, and subsequent uses of the carbonated reclaimed water, including its use in production and use of further batches of concrete.",
+      "publicationNumber": "WO2021071980",
+      "publicationDate": "2021-04-15",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "Alex HANMORE",
+        "GEORGE SEAN MONKMAN",
+        "PAUL J. SANDBERG",
+        "DEAN PAUL FORGERON",
+        "KEVIN CAIL",
+        "Travis Aaron JANKE"
+      ],
+      "applicationDate": "2020-10-07",
+      "claimsCount": 28,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Other special machines"
+      ],
+      "score": 12.650803
+    },
+    {
+      "id": "MX-2022003950-A",
+      "title": [
+        "METHODS AND COMPOSITIONS FOR TREATMENT OF CONCRETE RECLAIMED WATER."
+      ],
+      "abstract": "Provided herein are compositions and methods for carbonating wash water (reclaimed water) produced in the manufacture and use of concrete, and subsequent uses of the carbonated reclaimed water, including its use in production and use of further batches of concrete.",
+      "publicationNumber": "MX2022003950",
+      "publicationDate": "2022-06-16",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "FORGERON DEAN PAUL",
+        "MONKMAN GEORGE SEAN",
+        "Sandberg Paul J.",
+        "CAIL KEVIN",
+        "HANMORE ALEX",
+        "JANKE TRAVIS AARON"
+      ],
+      "applicationDate": "2020-10-07",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Other special machines"
+      ],
+      "score": 12.650803
+    },
+    {
+      "id": "EP-4041511-A4",
+      "title": [
+        "METHODS AND COMPOSITIONS FOR TREATMENT OF CONCRETE RECLAIMED WATER"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP4041511",
+      "publicationDate": "2023-12-06",
+      "assignee": [
+        "Carboncure Technologies Inc."
+      ],
+      "inventors": [
+        "Alex HANMORE",
+        "GEORGE SEAN MONKMAN",
+        "PAUL J. SANDBERG",
+        "DEAN PAUL FORGERON",
+        "KEVIN CAIL",
+        "Travis Aaron JANKE"
+      ],
+      "applicationDate": "2020-10-07",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Chemical engineering",
+        "Environmental technology",
+        "Materials, metallurgy",
+        "Other special machines"
+      ],
+      "score": 12.650803
+    },
+    {
+      "id": "EP-4041511-A1",
+      "title": [
+        "METHODS AND COMPOSITIONS FOR TREATMENT OF CONCRETE RECLAIMED WATER"
+      ],
+      "abstract": "Provided herein are compositions and methods for carbonating wash water (reclaimed water) produced in the manufacture and use of concrete, and subsequent uses of the carbonated reclaimed water, including its use in production and use of further batches of concrete.",
+      "publicationNumber": "EP4041511",
+      "publicationDate": "2022-08-17",
+      "assignee": [
+        "Carboncure Technologies Inc."
+      ],
+      "inventors": [
+        "Alex HANMORE",
+        "GEORGE SEAN MONKMAN",
+        "PAUL J. SANDBERG",
+        "DEAN PAUL FORGERON",
+        "KEVIN CAIL",
+        "Travis Aaron JANKE"
+      ],
+      "applicationDate": "2020-10-07",
+      "claimsCount": 28,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Other special machines"
+      ],
+      "score": 12.650803
+    },
+    {
+      "id": "AU-2020363709-A1",
+      "title": [
+        "Methods and compositions for treatment of concrete reclaimed water"
+      ],
+      "abstract": "Provided herein are compositions and methods for carbonating wash water (reclaimed water) produced in the manufacture and use of concrete, and subsequent uses of the carbonated reclaimed water, including its use in production and use of further batches of concrete.",
+      "publicationNumber": "AU2020363709",
+      "publicationDate": "2022-05-12",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "KEVIN CAIL",
+        "DEAN PAUL FORGERON",
+        "Alex HANMORE",
+        "Travis Aaron JANKE",
+        "GEORGE SEAN MONKMAN",
+        "PAUL J. SANDBERG"
+      ],
+      "applicationDate": "2020-10-07",
+      "claimsCount": 28,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Other special machines"
+      ],
+      "score": 12.650803
+    },
+    {
+      "id": "WO-2022011064-A1",
+      "title": [
+        "METHODS AND COMPOSITIONS FOR ASSESSEMENT OF CONCRETE CARBONATION"
+      ],
+      "abstract": "Provided herein are methods and compositions for determining and reporting carbon dioxide sequestered and/or carbon dioxide avoided in operations involving concrete, including concrete raw material transport, concrete production, and concrete use.",
+      "publicationNumber": "WO2022011064",
+      "publicationDate": "2022-01-13",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "Eric WITT",
+        "GEORGE SEAN MONKMAN",
+        "DEAN PAUL FORGERON",
+        "Brad VICKERS"
+      ],
+      "applicationDate": "2021-07-07",
+      "claimsCount": 30,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Materials, metallurgy",
+        "Other special machines"
+      ],
+      "score": 12.5660925
+    },
+    {
+      "id": "US-20250191701-A1",
+      "title": [
+        "METHODS AND COMPOSITIONS FOR ASSESSEMENT OF CONCRETE CARBONATION"
+      ],
+      "abstract": "Provided herein are methods and compositions for determining and reporting carbon dioxide sequestered and/or carbon dioxide avoided in operations involving concrete, including concrete raw material transport, concrete production, and concrete use.",
+      "publicationNumber": "US20250191701",
+      "publicationDate": "2025-06-12",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "George Sean Monkman",
+        "Dean Paul Forgeron",
+        "Brad VICKERS"
+      ],
+      "applicationDate": "2024-11-01",
+      "claimsCount": 28,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Analysis of biological materials",
+        "Computer technology",
+        "Materials, metallurgy"
+      ],
+      "score": 12.5660925
+    },
+    {
+      "id": "US-20220415449-A9",
+      "title": [
+        "METHODS AND COMPOSITIONS FOR ASSESSEMENT OF CONCRETE CARBONATION"
+      ],
+      "abstract": "Provided herein are methods and compositions for determining and reporting carbon dioxide sequestered and/or carbon dioxide avoided in operations involving concrete, including concrete raw material transport, concrete production, and concrete use.",
+      "publicationNumber": "US20220415449",
+      "publicationDate": "2022-12-29",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "George Sean Monkman",
+        "Dean Paul Forgeron",
+        "Brad VICKERS"
+      ],
+      "applicationDate": "2021-07-07",
+      "claimsCount": 29,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Analysis of biological materials",
+        "Computer technology",
+        "Materials, metallurgy"
+      ],
+      "score": 12.5660925
+    },
+    {
+      "id": "US-20220013196-A1",
+      "title": [
+        "METHODS AND COMPOSITIONS FOR ASSESSEMENT OF CONCRETE CARBONATION"
+      ],
+      "abstract": "Provided herein are methods and compositions for determining and reporting carbon dioxide sequestered and/or carbon dioxide avoided in operations involving concrete, including concrete raw material transport, concrete production, and concrete use.",
+      "publicationNumber": "US20220013196",
+      "publicationDate": "2022-01-13",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "George Sean Monkman",
+        "Dean Paul Forgeron",
+        "Brad VICKERS"
+      ],
+      "applicationDate": "2021-07-07",
+      "claimsCount": 29,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Analysis of biological materials",
+        "Computer technology",
+        "Materials, metallurgy"
+      ],
+      "score": 12.5660925
+    },
+    {
+      "id": "EP-4178776-A4",
+      "title": [
+        "METHODS AND COMPOSITIONS FOR ASSESSEMENT OF CONCRETE CARBONATION"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP4178776",
+      "publicationDate": "2024-07-10",
+      "assignee": [
+        "Carboncure Technologies Inc."
+      ],
+      "inventors": [
+        "GEORGE SEAN MONKMAN",
+        "DEAN PAUL FORGERON",
+        "Brad VICKERS"
+      ],
+      "applicationDate": "2021-07-07",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Analysis of biological materials",
+        "IT methods for management",
+        "Materials, metallurgy",
+        "Other special machines"
+      ],
+      "score": 12.5660925
+    },
+    {
+      "id": "EP-4178776-A1",
+      "title": [
+        "METHODS AND COMPOSITIONS FOR ASSESSEMENT OF CONCRETE CARBONATION"
+      ],
+      "abstract": "Provided herein are methods and compositions for determining and reporting carbon dioxide sequestered and/or carbon dioxide avoided in operations involving concrete, including concrete raw material transport, concrete production, and concrete use.",
+      "publicationNumber": "EP4178776",
+      "publicationDate": "2023-05-17",
+      "assignee": [
+        "Carboncure Technologies Inc."
+      ],
+      "inventors": [
+        "GEORGE SEAN MONKMAN",
+        "DEAN PAUL FORGERON",
+        "Brad VICKERS"
+      ],
+      "applicationDate": "2021-07-07",
+      "claimsCount": 30,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Materials, metallurgy",
+        "Other special machines"
+      ],
+      "score": 12.5660925
+    },
+    {
+      "id": "WO-2021250640-A1",
+      "title": [
+        "METHODS AND COMPOSITIONS FOR DELIVERY OF CARBON DIOXIDE"
+      ],
+      "abstract": "A system for delivering carbon dioxide into the concrete is herein disclosed. The system comprises injection of liquid carbon dioxide via an orifice configured to convert the liquid to solid and gaseous carbon dioxide. The injection parameters are monitored and adapted via sensors which send signals to a processing unit in order to achieve a precise or reproducible dose of carbon dioxide in a desired ratio of solid to gaseous carbon dioxide.",
+      "publicationNumber": "WO2021250640",
+      "publicationDate": "2021-12-16",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "DEAN PAUL FORGERON",
+        "Brad VICKERS",
+        "Brandon Burns",
+        "Josh BROWN",
+        "GEORGE SEAN MONKMAN",
+        "KEVIN CAIL"
+      ],
+      "applicationDate": "2021-06-14",
+      "claimsCount": 33,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Chemical engineering",
+        "Other special machines"
+      ],
+      "score": 12.495815
+    },
+    {
+      "id": "US-20220001578-A1",
+      "title": [
+        "METHODS AND COMPOSITIONS FOR DELIVERY OF CARBON DIOXIDE"
+      ],
+      "abstract": "Provided herein are methods, apparatus, and systems for delivering carbon dioxide as a mixture of solid and gaseous carbon dioxide to a destination.",
+      "publicationNumber": "US20220001578",
+      "publicationDate": "2022-01-06",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "Dean Paul Forgeron",
+        "Brad VICKERS",
+        "BRANDON BURNS",
+        "Josh BROWN",
+        "George Sean Monkman",
+        "Kevin Cail"
+      ],
+      "applicationDate": "2021-06-11",
+      "claimsCount": 33,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Other special machines"
+      ],
+      "score": 12.495815
+    },
+    {
+      "id": "EP-4164781-A4",
+      "title": [
+        "METHODS AND COMPOSITIONS FOR DELIVERY OF CARBON DIOXIDE"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP4164781",
+      "publicationDate": "2024-07-10",
+      "assignee": [
+        "Carboncure Technologies Inc."
+      ],
+      "inventors": [
+        "DEAN PAUL FORGERON",
+        "Brad VICKERS",
+        "Brandon Burns",
+        "Josh BROWN",
+        "GEORGE SEAN MONKMAN",
+        "KEVIN CAIL"
+      ],
+      "applicationDate": "2021-06-14",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Chemical engineering",
+        "Materials, metallurgy",
+        "Other special machines"
+      ],
+      "score": 12.495815
+    },
+    {
+      "id": "EP-4164781-A1",
+      "title": [
+        "METHODS AND COMPOSITIONS FOR DELIVERY OF CARBON DIOXIDE"
+      ],
+      "abstract": "A system for delivering carbon dioxide into the concrete is herein disclosed. The system comprises injection of liquid carbon dioxide via an orifice configured to convert the liquid to solid and gaseous carbon dioxide. The injection parameters are monitored and adapted via sensors which send signals to a processing unit in order to achieve a precise or reproducible dose of carbon dioxide in a desired ratio of solid to gaseous carbon dioxide.",
+      "publicationNumber": "EP4164781",
+      "publicationDate": "2023-04-19",
+      "assignee": [
+        "Carboncure Technologies Inc."
+      ],
+      "inventors": [
+        "DEAN PAUL FORGERON",
+        "Brad VICKERS",
+        "Brandon Burns",
+        "Josh BROWN",
+        "GEORGE SEAN MONKMAN",
+        "KEVIN CAIL"
+      ],
+      "applicationDate": "2021-06-14",
+      "claimsCount": 33,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Chemical engineering",
+        "Other special machines"
+      ],
+      "score": 12.495815
+    },
+    {
+      "id": "WO-2023064403-A1",
+      "title": [
+        "COMPOSITIONS AND METHODS UTILIZING ALTERNATIVE SOURCES OF CARBON DIOXIDE FOR SEQUESTRATION"
+      ],
+      "abstract": "Provided herein are systems and methods for use of carbon dioxide, such as carbon dioxide containing one or more contaminants, e.g., produced in processes where the carbon dioxide comes directly or indirectly from the atmosphere, in one or more systems to perform one or more processes that binds the carbon dioxide or one or more carbon dioxide reaction products with one or more reactants to produce one or more carbon dioxide sequestration products, for example, products that permanently sequester the carbon dioxide.",
+      "publicationNumber": "WO2023064403",
+      "publicationDate": "2023-04-20",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "Casey James LEIST",
+        "DEAN PAUL FORGERON",
+        "ROBERT NIVEN",
+        "GEORGE SEAN MONKMAN"
+      ],
+      "applicationDate": "2022-10-12",
+      "claimsCount": 104,
+      "independentClaimsCount": 11,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology",
+        "Environmental technology",
+        "Materials, metallurgy"
+      ],
+      "score": 12.358256
+    },
+    {
+      "id": "US-20240425412-A1",
+      "title": [
+        "COMPOSITIONS AND METHODS UTILIZING ALTERNATIVE SOURCES OF CARBON DIOXIDE FOR SEQUESTRATION"
+      ],
+      "abstract": "Provided herein are systems and methods for use of carbon dioxide, such as carbon dioxide containing one or more contaminants, e.g., produced in processes where the carbon dioxide comes directly or indirectly from the atmosphere, in one or more systems to perform one or more processes that binds the carbon dioxide or one or more carbon dioxide reaction products with one or more reactants to produce one or more carbon dioxide sequestration products, for example, products that permanently sequester the carbon dioxide.",
+      "publicationNumber": "US20240425412",
+      "publicationDate": "2024-12-26",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "Dean Paul Forgeron",
+        "Casey James Leist",
+        "Robert Niven",
+        "George Sean Monkman"
+      ],
+      "applicationDate": "2022-10-12",
+      "claimsCount": 104,
+      "independentClaimsCount": 11,
+      "technologyFields": [
+        "Biotechnology",
+        "Environmental technology",
+        "Materials, metallurgy"
+      ],
+      "score": 12.358256
+    },
+    {
+      "id": "MX-2024004475-A",
+      "title": [
+        "COMPOSITIONS AND METHODS UTILIZING ALTERNATIVE SOURCES OF CARBON DIOXIDE FOR SEQUESTRATION."
+      ],
+      "abstract": "Provided herein are systems and methods for use of carbon dioxide, such as carbon dioxide containing one or more contaminants, e.g., produced in processes where the carbon dioxide comes directly or indirectly from the atmosphere, in one or more systems to perform one or more processes that binds the carbon dioxide or one or more carbon dioxide reaction products with one or more reactants to produce one or more carbon dioxide sequestration products, for example, products that permanently sequester the carbon dioxide.",
+      "publicationNumber": "MX2024004475",
+      "publicationDate": "2024-05-09",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "FORGERON DEAN PAUL",
+        "MONKMAN GEORGE SEAN",
+        "LEIST CASEY JAMES",
+        "NIVEN ROBERT"
+      ],
+      "applicationDate": "2022-10-12",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology",
+        "Environmental technology",
+        "Materials, metallurgy"
+      ],
+      "score": 12.358256
+    },
+    {
+      "id": "EP-4416119-A1",
+      "title": [
+        "COMPOSITIONS AND METHODS UTILIZING ALTERNATIVE SOURCES OF CARBON DIOXIDE FOR SEQUESTRATION"
+      ],
+      "abstract": "Provided herein are systems and methods for use of carbon dioxide, such as carbon dioxide containing one or more contaminants, e.g., produced in processes where the carbon dioxide comes directly or indirectly from the atmosphere, in one or more systems to perform one or more processes that binds the carbon dioxide or one or more carbon dioxide reaction products with one or more reactants to produce one or more carbon dioxide sequestration products, for example, products that permanently sequester the carbon dioxide.",
+      "publicationNumber": "EP4416119",
+      "publicationDate": "2024-08-21",
+      "assignee": [
+        "Carboncure Technologies Inc."
+      ],
+      "inventors": [
+        "Casey James LEIST",
+        "DEAN PAUL FORGERON",
+        "ROBERT NIVEN",
+        "GEORGE SEAN MONKMAN"
+      ],
+      "applicationDate": "2022-10-12",
+      "claimsCount": 104,
+      "independentClaimsCount": 11,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology",
+        "Environmental technology",
+        "Materials, metallurgy"
+      ],
+      "score": 12.358256
+    },
+    {
+      "id": "AU-2022364803-A1",
+      "title": [
+        "COMPOSITIONS AND METHODS UTILIZING ALTERNATIVE SOURCES OF CARBON DIOXIDE FOR SEQUESTRATION"
+      ],
+      "abstract": "Provided herein are systems and methods for use of carbon dioxide, such as carbon dioxide containing one or more contaminants, e.g., produced in processes where the carbon dioxide comes directly or indirectly from the atmosphere, in one or more systems to perform one or more processes that binds the carbon dioxide or one or more carbon dioxide reaction products with one or more reactants to produce one or more carbon dioxide sequestration products, for example, products that permanently sequester the carbon dioxide.",
+      "publicationNumber": "AU2022364803",
+      "publicationDate": "2024-05-16",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "DEAN PAUL FORGERON",
+        "Casey James LEIST",
+        "GEORGE SEAN MONKMAN",
+        "ROBERT NIVEN"
+      ],
+      "applicationDate": "2022-10-12",
+      "claimsCount": 104,
+      "independentClaimsCount": 11,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology",
+        "Environmental technology",
+        "Materials, metallurgy"
+      ],
+      "score": 12.358256
+    },
+    {
+      "id": "WO-2024030519-A3",
+      "title": [
+        "CONCRETE ADMIXTURES"
+      ],
+      "abstract": "Provided are methods and compositions utilizing one or more admixtures in combination with carbon dioxide in cement mixes, such as cement mixes comprising aggregates (concrete), for example carbon dioxide at a dose of 0.01 to 5% by weight cement and one or more admixtures.",
+      "publicationNumber": "WO2024030519",
+      "publicationDate": "2024-03-14",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "KEVIN CAIL",
+        "GEORGE SEAN MONKMAN",
+        "PAUL J. SANDBERG",
+        "Alex HANMORE",
+        "Diane PRAUGHT"
+      ],
+      "applicationDate": "2023-08-02",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Chemical engineering",
+        "Materials, metallurgy"
+      ],
+      "score": 12.302042
+    },
+    {
+      "id": "WO-2024030519-A2",
+      "title": [
+        "CONCRETE ADMIXTURES"
+      ],
+      "abstract": "Provided are methods and compositions utilizing one or more admixtures in combination with carbon dioxide in cement mixes, such as cement mixes comprising aggregates (concrete), for example carbon dioxide at a dose of 0.01 to 5% by weight cement and one or more admixtures.",
+      "publicationNumber": "WO2024030519",
+      "publicationDate": "2024-02-08",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "KEVIN CAIL",
+        "GEORGE SEAN MONKMAN",
+        "PAUL J. SANDBERG",
+        "Alex HANMORE",
+        "Diane PRAUGHT"
+      ],
+      "applicationDate": "2023-08-02",
+      "claimsCount": 80,
+      "independentClaimsCount": 9,
+      "technologyFields": [
+        "Semiconductors"
+      ],
+      "score": 12.302042
+    },
+    {
+      "id": "MX-2025001368-A",
+      "title": [
+        "CONCRETE ADMIXTURES"
+      ],
+      "abstract": "Provided are methods and compositions utilizing one or more admixtures in combination with carbon dioxide in cement mixes, such as cement mixes comprising aggregates (concrete), for example carbon dioxide at a dose of 0.01 to 5% by weight cement and one or more admixtures.",
+      "publicationNumber": "MX2025001368",
+      "publicationDate": "2025-04-02",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "MONKMAN GEORGE SEAN",
+        "Sandberg Paul J.",
+        "SARGAM YOGIRAJ",
+        "HANMORE ALEX",
+        "PRAUGHT DIANE",
+        "CAIL KEVIN"
+      ],
+      "applicationDate": "2025-01-31",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Chemical engineering",
+        "Materials, metallurgy"
+      ],
+      "score": 12.302042
+    },
+    {
+      "id": "EP-4565545-A2",
+      "title": [
+        "CONCRETE ADMIXTURES"
+      ],
+      "abstract": "Provided are methods and compositions utilizing one or more admixtures in combination with carbon dioxide in cement mixes, such as cement mixes comprising aggregates (concrete), for example carbon dioxide at a dose of 0.01 to 5% by weight cement and one or more admixtures.",
+      "publicationNumber": "EP4565545",
+      "publicationDate": "2025-06-11",
+      "assignee": [
+        "Carboncure Technologies Inc."
+      ],
+      "inventors": [
+        "GEORGE SEAN MONKMAN",
+        "PAUL J. SANDBERG",
+        "Alex HANMORE",
+        "Diane PRAUGHT",
+        "Yogiraj SARGAM",
+        "KEVIN CAIL"
+      ],
+      "applicationDate": "2023-08-02",
+      "claimsCount": 80,
+      "independentClaimsCount": 9,
+      "technologyFields": [
+        "Chemical engineering",
+        "Materials, metallurgy"
+      ],
+      "score": 12.302042
+    },
+    {
+      "id": "AU-2023319996-A1",
+      "title": [
+        "CONCRETE ADMIXTURES"
+      ],
+      "abstract": "Provided are methods and compositions utilizing one or more admixtures in combination with carbon dioxide in cement mixes, such as cement mixes comprising aggregates (concrete), for example carbon dioxide at a dose of 0.01 to 5% by weight cement and one or more admixtures.",
+      "publicationNumber": "AU2023319996",
+      "publicationDate": "2025-02-20",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "KEVIN CAIL",
+        "Alex HANMORE",
+        "GEORGE SEAN MONKMAN",
+        "Diane PRAUGHT",
+        "PAUL J. SANDBERG",
+        "Yogiraj SARGAM"
+      ],
+      "applicationDate": "2023-08-02",
+      "claimsCount": 80,
+      "independentClaimsCount": 9,
+      "technologyFields": [
+        "Chemical engineering",
+        "Materials, metallurgy"
+      ],
+      "score": 12.302042
+    },
+    {
+      "id": "US-20180258000-A1",
+      "title": [
+        "SYSTEM AND METHOD OF APPLYING CARBON DIOXIDE DURING THE PRODUCTION OF CONCRETE"
+      ],
+      "abstract": "The present disclosure involves systems and methods for applying CO2 to concrete, which may be performed in-situ or through a separate, stand-alone process. According to another embodiment disclosed herein, a system and method for applying CO2 to one or more materials used in the production of concrete is also provided.",
+      "publicationNumber": "US20180258000",
+      "publicationDate": "2018-09-13",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "Michael Lee",
+        "Eric Alan Burton"
+      ],
+      "applicationDate": "2017-11-30",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Chemical engineering",
+        "Materials, metallurgy",
+        "Other special machines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 12.190992
+    },
+    {
+      "id": "US-20170158569-A1",
+      "title": [
+        "SYSTEM AND METHOD OF APPLYING CARBON DIOXIDE DURING THE PRODUCTION OF CONCRETE"
+      ],
+      "abstract": "The present disclosure involves systems and methods for applying CO2 to concrete, which may be performed in-situ or through a separate, stand-alone process. According to another embodiment disclosed herein, a system and method for applying CO2 to one or more materials used in the production of concrete is also provided.",
+      "publicationNumber": "US20170158569",
+      "publicationDate": "2017-06-08",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "Michael Lee",
+        "Eric Alan Burton"
+      ],
+      "applicationDate": "2017-02-16",
+      "claimsCount": 23,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Chemical engineering",
+        "Materials, metallurgy",
+        "Other special machines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 12.190992
+    },
+    {
+      "id": "EP-2951122-A4",
+      "title": [
+        "SYSTEM AND METHOD OF APPLYING CARBON DIOXIDE DURING THE PRODUCTION OF CONCRETE"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP2951122",
+      "publicationDate": "2017-03-08",
+      "assignee": [
+        "Carboncure Technologies Inc."
+      ],
+      "inventors": [
+        "MICHAEL LEE",
+        "Eric, Alan BURTON"
+      ],
+      "applicationDate": "2014-02-03",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Chemical engineering",
+        "Materials, metallurgy",
+        "Other special machines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 12.190992
+    },
+    {
+      "id": "WO-2020217232-A1",
+      "title": [
+        "CARBONATION OF CONCRETE AGGREGATES"
+      ],
+      "abstract": "Provided herein are methods and compositions for carbonation of recycled concrete aggregates (RCA) to produce carbonated RCA. In addition, uses of the carbonated RCA, such as in building materials, and building materials containing RCA, are included. Carbonation of RCA may be used alone or may be used in combination with other carbonation processes associated with concrete manufacture, such as carbonation of wet concrete mixes and/or carbonation of concrete wash water.",
+      "publicationNumber": "WO2020217232",
+      "publicationDate": "2020-10-29",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "MICHAEL THOMAS",
+        "GEORGE SEAN MONKMAN",
+        "Alex HANMORE",
+        "DEAN FORGERON"
+      ],
+      "applicationDate": "2020-04-27",
+      "claimsCount": 43,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 11.785805
+    },
+    {
+      "id": "US-20240360035-A1",
+      "title": [
+        "CARBONATION OF CONCRETE AGGREGATES"
+      ],
+      "abstract": "Provided herein are methods and compositions for carbonation of recycled concrete aggregates (RCA) to produce carbonated RCA. In addition, uses of the carbonated RCA, such as in building materials, and building materials containing RCA, are included. Carbonation of RCA may be used alone or may be used in combination with other carbonation processes associated with concrete manufacture, such as carbonation of wet concrete mixes and/or carbonation of concrete wash water.",
+      "publicationNumber": "US20240360035",
+      "publicationDate": "2024-10-31",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "Michael Thomas",
+        "George Sean Monkman",
+        "Alex HANMORE",
+        "Dean Paul Forgeron"
+      ],
+      "applicationDate": "2024-07-08",
+      "claimsCount": 30,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Materials, metallurgy",
+        "Other special machines"
+      ],
+      "score": 11.785805
+    },
+    {
+      "id": "US-20230212085-A1",
+      "title": [
+        "INTEGRATED CARBON DIOXIDE CAPTURE"
+      ],
+      "abstract": "A method/system for sequestering carbon dioxide from cement and lime production facilities wherein carbon dioxide from flue gases originating from cement or lime production facilities is recovered and transported to a building materials production facility where it is sequestered.",
+      "publicationNumber": "US20230212085",
+      "publicationDate": "2023-07-06",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "George Sean Monkman",
+        "Robert Niven",
+        "Kevin Cail",
+        "John Kline"
+      ],
+      "applicationDate": "2023-03-10",
+      "claimsCount": 25,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Environmental technology",
+        "Materials, metallurgy"
+      ],
+      "score": 11.785805
+    },
+    {
+      "id": "US-20220194852-A1",
+      "title": [
+        "CARBONATION OF CONCRETE AGGREGATES"
+      ],
+      "abstract": "Provided herein are methods and compositions for carbonation of recycled concrete aggregates (RCA) to produce carbonated RCA. In addition, uses of the carbonated RCA, such as in building materials, and building materials containing RCA, are included. Carbonation of RCA may be used alone or may be used in combination with other carbonation processes associated with concrete manufacture, such as carbonation of wet concrete mixes and/or carbonation of concrete wash water.",
+      "publicationNumber": "US20220194852",
+      "publicationDate": "2022-06-23",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "Michael Thomas",
+        "George Sean Monkman",
+        "Alex HANMORE",
+        "Dean Paul Forgeron"
+      ],
+      "applicationDate": "2020-04-27",
+      "claimsCount": 24,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Materials, metallurgy",
+        "Other special machines"
+      ],
+      "score": 11.785805
+    },
+    {
+      "id": "US-20200223760-A1",
+      "title": [
+        "INTEGRATED CARBON DIOXIDE CAPTURE"
+      ],
+      "abstract": "A method/system for sequestering carbon dioxide from cement and lime production facilities wherein carbon dioxide from flue gases originating from cement or lime production facilities is recovered and transported to a building materials production facility where it is sequestered.",
+      "publicationNumber": "US20200223760",
+      "publicationDate": "2020-07-16",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "George Sean Monkman",
+        "Robert Niven",
+        "Kevin Cail",
+        "John Kline"
+      ],
+      "applicationDate": "2019-11-14",
+      "claimsCount": 9,
+      "independentClaimsCount": 6,
+      "technologyFields": [
+        "Environmental technology",
+        "Materials, metallurgy"
+      ],
+      "score": 11.785805
+    },
+    {
+      "id": "US-20170015598-A1",
+      "title": [
+        "INTEGRATED CARBON DIOXIDE CAPTURE"
+      ],
+      "abstract": "A method/system for sequestering carbon dioxide from cement and lime production facilities wherein carbon dioxide from flue gases originating from cement or lime production facilities is recovered and transported to a building materials production facility where it is sequestered.",
+      "publicationNumber": "US20170015598",
+      "publicationDate": "2017-01-19",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "George Sean Monkman",
+        "Robert Niven",
+        "Kevin Cail",
+        "John Kline"
+      ],
+      "applicationDate": "2016-06-16",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Environmental technology",
+        "Materials, metallurgy"
+      ],
+      "score": 11.785805
+    },
+    {
+      "id": "EP-3959185-A4",
+      "title": [
+        "CARBONATION OF CONCRETE AGGREGATES"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP3959185",
+      "publicationDate": "2023-05-31",
+      "assignee": [
+        "Carboncure Technologies Inc."
+      ],
+      "inventors": [
+        "Alex HANMORE",
+        "MICHAEL THOMAS",
+        "GEORGE SEAN MONKMAN",
+        "DEAN FORGERON"
+      ],
+      "applicationDate": "2020-04-27",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 11.785805
+    },
+    {
+      "id": "EP-3959185-A1",
+      "title": [
+        "CARBONATION OF CONCRETE AGGREGATES"
+      ],
+      "abstract": "Provided herein are methods and compositions for carbonation of recycled concrete aggregates (RCA) to produce carbonated RCA. In addition, uses of the carbonated RCA, such as in building materials, and building materials containing RCA, are included. Carbonation of RCA may be used alone or may be used in combination with other carbonation processes associated with concrete manufacture, such as carbonation of wet concrete mixes and/or carbonation of concrete wash water.",
+      "publicationNumber": "EP3959185",
+      "publicationDate": "2022-03-02",
+      "assignee": [
+        "Carboncure Technologies Inc."
+      ],
+      "inventors": [
+        "Alex HANMORE",
+        "MICHAEL THOMAS",
+        "GEORGE SEAN MONKMAN",
+        "DEAN FORGERON"
+      ],
+      "applicationDate": "2020-04-27",
+      "claimsCount": 43,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 11.785805
+    },
+    {
+      "id": "EP-3129126-A4",
+      "title": [
+        "INTEGRATED CARBON DIOXIDE CAPTURE"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP3129126",
+      "publicationDate": "2018-11-21",
+      "assignee": [
+        "Carboncure Technologies Inc."
+      ],
+      "inventors": [
+        "GEORGE SEAN MONKMAN",
+        "ROBERT NIVEN",
+        "KEVIN CAIL",
+        "JOHN KLINE"
+      ],
+      "applicationDate": "2015-03-16",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Environmental technology",
+        "Materials, metallurgy"
+      ],
+      "score": 11.785805
+    },
+    {
+      "id": "EP-3129126-A1",
+      "title": [
+        "INTEGRATED CARBON DIOXIDE CAPTURE"
+      ],
+      "abstract": "A method/system for sequestering carbon dioxide from cement and lime production facilities wherein carbon dioxide from flue gases originating from cement or lime production facilities is recovered and transported to a building materials production facility where it is sequestered.",
+      "publicationNumber": "EP3129126",
+      "publicationDate": "2017-02-15",
+      "assignee": [
+        "Carboncure Technologies Inc."
+      ],
+      "inventors": [
+        "GEORGE SEAN MONKMAN",
+        "ROBERT NIVEN",
+        "KEVIN CAIL",
+        "JOHN KLINE"
+      ],
+      "applicationDate": "2015-03-16",
+      "claimsCount": 9,
+      "independentClaimsCount": 6,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 11.785805
+    },
+    {
+      "id": "IN-202227026447-A",
+      "title": [
+        "METHODS AND COMPOSITIONS FOR TREATMENT OF CONCRETE RECLAIMED WATER"
+      ],
+      "abstract": "Provided herein are compositions and methods for carbonating wash water (reclaimed water) produced in the manufacture and use of concrete, and subsequent uses of the carbonated reclaimed water, including its use in production and use of further batches of concrete.",
+      "publicationNumber": "IN202227026447",
+      "publicationDate": "2022-08-19",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC"
+      ],
+      "inventors": [
+        "HANMORE ALEX",
+        "MONKMAN GEORGE SEAN",
+        "SANDBERG PAUL J",
+        "FORGERON DEAN PAUL",
+        "CAIL KEVIN",
+        "JANKE TRAVIS AARON"
+      ],
+      "applicationDate": "2022-05-06",
+      "claimsCount": 28,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Medical technology",
+        "Pharmaceuticals"
+      ],
+      "score": 11.385645
+    },
+    {
+      "id": "US-12521908-B2",
+      "title": [
+        "Methods and compositions for delivery of carbon dioxide"
+      ],
+      "abstract": "Provided herein are methods, apparatus, and systems for delivering carbon dioxide as a mixture of solid and gaseous carbon dioxide to a destination. In particular, provided herein are kits for retrofitting a concrete operation to supply gaseous and solid carbon dioxide to concrete in the operation, where the kit includes a conduit to connect to a source of liquid carbon dioxide and to a carbon dioxide injector, the carbon dioxide injector, a second conduit to connect with the carbon dioxide injector, a third conduit to connect with the second conduit, and an intermediate processing unit.",
+      "publicationNumber": "US12521908",
+      "publicationDate": "2026-01-13",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "Dean Paul Forgeron",
+        "Brad VICKERS",
+        "BRANDON BURNS",
+        "Josh BROWN",
+        "George Sean Monkman",
+        "Kevin Cail"
+      ],
+      "applicationDate": "2021-06-11",
+      "claimsCount": 10,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Other special machines"
+      ],
+      "score": 11.247379
+    },
+    {
+      "id": "JP-WO2023064403-A5",
+      "title": [],
+      "abstract": "",
+      "publicationNumber": "JPWO2023064403",
+      "publicationDate": "2025-09-08",
+      "assignee": [],
+      "inventors": [],
+      "applicationDate": null,
+      "claimsCount": 26,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Environmental technology",
+        "Materials, metallurgy"
+      ],
+      "score": 11.124918
+    },
+    {
+      "id": "BR-112024007104-A2",
+      "title": [
+        "COMPOSI\u00c7\u00d5ES E M\u00c9TODOS QUE UTILIZAM FONTES ALTERNATIVAS DE DI\u00d3XIDO DE CARBONO PARA SEQUESTRO"
+      ],
+      "abstract": "",
+      "publicationNumber": "BR112024007104",
+      "publicationDate": "2024-09-17",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "CASEY JAMES LEIST",
+        "DEAN PAUL FORGERON",
+        "ROBERT NIVEN",
+        "GEORGE SEAN MONKMAN"
+      ],
+      "applicationDate": "2022-10-12",
+      "claimsCount": 104,
+      "independentClaimsCount": 12,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology",
+        "Environmental technology",
+        "Materials, metallurgy"
+      ],
+      "score": 11.124918
+    },
+    {
+      "id": "KR-20240117079-A",
+      "title": [
+        "\uaca9\ub9ac\ub97c \uc704\ud574 \uc774\uc0b0\ud654\ud0c4\uc18c\uc758 \ub300\uccb4 \uacf5\uae09\uc6d0\uc744 \ud65c\uc6a9\ud558\ub294 \uc870\uc131\ubb3c \ubc0f \ubc29\ubc95"
+      ],
+      "abstract": "\ubcf8 \uba85\uc138\uc11c\uc5d0\ub294 \uc774\uc0b0\ud654\ud0c4\uc18c, \uc608\ub97c \ub4e4\uc5b4, \uc774\uc0b0\ud654\ud0c4\uc18c\uac00 \ub300\uae30\ub85c\ubd80\ud130 \uc9c1\uc811\uc801\uc73c\ub85c \ub610\ub294 \uac04\uc811\uc801\uc73c\ub85c \uc720\ub798\ub418\ub294 \uacf5\uc815\uc5d0\uc11c \uc0dd\uc131\ub41c \uac83\uacfc \uac19\uc740, \ud558\ub098 \uc774\uc0c1\uc758 \uc624\uc5fc\ubb3c\uc9c8\uc744 \ud568\uc720\ud558\ub294 \uc774\uc0b0\ud654\ud0c4\uc18c\ub97c, \ud558\ub098 \uc774\uc0c1\uc758 \ubc18\uc751\ubb3c\uacfc \uc774\uc0b0\ud654\ud0c4\uc18c \ub610\ub294 \ud558\ub098 \uc774\uc0c1\uc758 \uc774\uc0b0\ud654\ud0c4\uc18c \ubc18\uc751 \uc0b0\ubb3c\uc744 \uacb0\ud569\uc2dc\ucf1c \ud558\ub098 \uc774\uc0c1\uc758 \uc774\uc0b0\ud654\ud0c4\uc18c \uaca9\ub9ac \uc81c\ud488, \uc608\ub97c \ub4e4\uc5b4, \uc774\uc0b0\ud654\ud0c4\uc18c\ub97c \uc601\uad6c\uc801\uc73c\ub85c \uaca9\ub9ac\uc2dc\ud0a4\ub294 \uc81c\ud488\uc744 \uc0dd\uc131\ud558\ub294 \ud558\ub098 \uc774\uc0c1\uc758 \uacf5\uc815\uc744 \uc218\ud589\ud558\uae30 \uc704\ud55c \ud558\ub098 \uc774\uc0c1\uc758 \uc2dc\uc2a4\ud15c\uc5d0 \uc0ac\uc6a9\ud558\uae30 \uc704\ud55c \uc2dc\uc2a4\ud15c \ubc0f \ubc29\ubc95\uc774 \uc81c\uacf5\ub41c\ub2e4.",
+      "publicationNumber": "KR20240117079",
+      "publicationDate": "2024-07-31",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "LEIST CASEY JAMES",
+        "FORGERON DEAN PAUL",
+        "NIVEN ROBERT",
+        "MONKMAN GEORGE SEAN"
+      ],
+      "applicationDate": "2022-10-12",
+      "claimsCount": 104,
+      "independentClaimsCount": 10,
+      "technologyFields": [
+        "Environmental technology",
+        "Materials, metallurgy"
+      ],
+      "score": 11.090818
+    },
+    {
+      "id": "MY-PI2025000773-A0",
+      "title": [
+        "CONCRETE ADMIXTURES"
+      ],
+      "abstract": "Provided are methods and compositions utilizing one or more admixtures in combination with carbon dioxide in cement mixes, such as cement mixes comprising aggregates (concrete), for example carbon dioxide at a dose of 0.01 to 5% by weight cement and one or more admixtures. Figure 1",
+      "publicationNumber": "MYPI2025000773",
+      "publicationDate": "2024-02-02",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "KEVIN CAIL",
+        "GEORGE SEAN MONKMAN",
+        "PAUL J. SANDBERG",
+        "Alex HANMORE",
+        "Diane PRAUGHT",
+        "Yogiraj SARGAM"
+      ],
+      "applicationDate": "2023-08-02",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 11.074779
+    },
+    {
+      "id": "IN-202527016392-A",
+      "title": [
+        "CONCRETE ADMIXTURES"
+      ],
+      "abstract": "Provided are methods and compositions utilizing one or more admixtures in combination with carbon dioxide in cement mixes, such as cement mixes comprising aggregates (concrete), for example carbon dioxide at a dose of 0.01 to 5% by weight cement and one or more admixtures.",
+      "publicationNumber": "IN202527016392",
+      "publicationDate": "2025-03-28",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC"
+      ],
+      "inventors": [
+        "MONKMAN GEORGE SEAN",
+        "SANDBERG PAUL J",
+        "HANMORE ALEX",
+        "PRAUGHT DIANE",
+        "SARGAM YOGIRAJ",
+        "CAIL KEVIN"
+      ],
+      "applicationDate": "2025-02-25",
+      "claimsCount": 80,
+      "independentClaimsCount": 27,
+      "technologyFields": [
+        "Chemical engineering",
+        "Materials, metallurgy"
+      ],
+      "score": 11.074779
+    },
+    {
+      "id": "CA-3263512-A1",
+      "title": [
+        "CONCRETE ADMIXTURES"
+      ],
+      "abstract": "",
+      "publicationNumber": "CA3263512",
+      "publicationDate": "2024-02-08",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "George Sean Monkman",
+        "Paul J. Sandberg",
+        "Alex HANMORE",
+        "Diane PRAUGHT",
+        "Yogiraj SARGAM",
+        "Kevin Cail"
+      ],
+      "applicationDate": "2023-08-02",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Chemical engineering",
+        "Materials, metallurgy"
+      ],
+      "score": 11.074779
+    },
+    {
+      "id": "BR-112025002062-A2",
+      "title": [
+        "MISTURAS DE ADI\u00c7\u00c3O DE CONCRETO"
+      ],
+      "abstract": "",
+      "publicationNumber": "BR112025002062",
+      "publicationDate": "2025-09-16",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "KEVIN CAIL",
+        "GEORGE SEAN MONKMAN",
+        "PAUL J. SANDBERG",
+        "ALEX HANMORE",
+        "DIANE PRAUGHT",
+        "YOGIRAJ SARGAM"
+      ],
+      "applicationDate": "2023-08-02",
+      "claimsCount": 80,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Chemical engineering",
+        "Materials, metallurgy"
+      ],
+      "score": 11.074779
+    },
+    {
+      "id": "WO-2018232507-A1",
+      "title": [
+        "METHODS AND COMPOSITIONS FOR TREATMENT OF CONCRETE WASH WATER"
+      ],
+      "abstract": "The invention provides methods and compositions for treating wash water from concrete production with carbon dioxide. The treated wash water can be reused as mix water in fresh batches of concrete.",
+      "publicationNumber": "WO2018232507",
+      "publicationDate": "2018-12-27",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "GEORGE SEAN MONKMAN",
+        "PAUL J. SANDBERG",
+        "KEVIN CAIL",
+        "DEAN PAUL FORGERON",
+        "MARK MACDONALD"
+      ],
+      "applicationDate": "2018-06-20",
+      "claimsCount": 111,
+      "independentClaimsCount": 19,
+      "technologyFields": [
+        "Chemical engineering",
+        "Environmental technology",
+        "Materials, metallurgy"
+      ],
+      "score": 11.068295
+    },
+    {
+      "id": "WO-2017000075-A1",
+      "title": [
+        "CARBONATED FLY ASH AS A CEMENT REPLACEMENT"
+      ],
+      "abstract": "A process for producing a blended binder material containing high calcium fly ash, in particular ASTM Class C fly ash, is provided. The process comprises: (i) carbonating the fly ash with carbon dioxide; and (ii) combining the carbonated fly ash with a cement binder such as Portland cement. The carbonation process improves the performance of the high calcium fly ash and thus allows for higher amounts of the fly ash to be used with the cement binder in cement mix compositions such as concrete. The results presented herein demonstrate the benefits of the carbonation process on the rate of cement hydration, and on the compressive strength and the dimensional stability of the resulting cement products.",
+      "publicationNumber": "WO2017000075",
+      "publicationDate": "2017-01-05",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "GEORGE SEAN MONKMAN",
+        "DEAN PAUL FORGERON",
+        "MARK MACDONALD",
+        "KEVIN CAIL",
+        "PAUL J. SANDBERG"
+      ],
+      "applicationDate": "2016-06-30",
+      "claimsCount": 9,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Materials, metallurgy",
+        "Other special machines"
+      ],
+      "score": 11.068295
+    },
+    {
+      "id": "US-20250114973-A1",
+      "title": [
+        "METHODS AND COMPOSITIONS FOR TREATMENT OF CONCRETE WASH WATER"
+      ],
+      "abstract": "The invention provides methods and compositions for treating wash water from concrete production with carbon dioxide. The treated wash water can be reused as mix water in fresh batches of concrete.",
+      "publicationNumber": "US20250114973",
+      "publicationDate": "2025-04-10",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "George Sean Monkman",
+        "Paul J. Sandberg",
+        "Kevin Cail",
+        "Dean Paul Forgeron",
+        "Mark MacDonald"
+      ],
+      "applicationDate": "2024-12-13",
+      "claimsCount": 30,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Environmental technology",
+        "Materials, metallurgy",
+        "Other special machines"
+      ],
+      "score": 11.068295
+    },
+    {
+      "id": "US-20240025077-A1",
+      "title": [
+        "METHODS AND COMPOSITIONS FOR TREATMENT OF CONCRETE WASH WATER"
+      ],
+      "abstract": "The invention provides methods and compositions for treating wash water from concrete production with carbon dioxide. The treated wash water can be reused as mix water in fresh batches of concrete.",
+      "publicationNumber": "US20240025077",
+      "publicationDate": "2024-01-25",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "George Sean Monkman",
+        "Paul J. Sandberg",
+        "Kevin Cail",
+        "Dean Paul Forgeron",
+        "Mark MacDonald"
+      ],
+      "applicationDate": "2023-07-28",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Environmental technology",
+        "Materials, metallurgy",
+        "Other special machines"
+      ],
+      "score": 11.068295
+    },
+    {
+      "id": "US-20170165870-A1",
+      "title": [
+        "CARBON DIOXIDE TREATMENT OF CONCRETE UPSTREAM FROM PRODUCT MOLD"
+      ],
+      "abstract": "Fresh concrete is treated with carbon dioxide prior to delivery to a product mold for forming concrete products. Carbon dioxide gas is directed through a manifold, which may be coupled to a feedbox or a hopper, upstream from the product mold. Treating the fresh concrete with the carbon dioxide gas while it is in a loose state prior to placement in the product mold may generally promote uniform and enhanced carbon dioxide uptake.",
+      "publicationNumber": "US20170165870",
+      "publicationDate": "2017-06-15",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "Robert Niven",
+        "George Sean Monkman",
+        "Dean Paul Forgeron"
+      ],
+      "applicationDate": "2016-10-03",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Materials, metallurgy",
+        "Other special machines"
+      ],
+      "score": 11.068295
+    },
+    {
+      "id": "SG-11201912759R-A",
+      "title": [
+        "METHODS AND COMPOSITIONS FOR TREATMENT OF CONCRETE WASH WATER"
+      ],
+      "abstract": "",
+      "publicationNumber": "SG11201912759R",
+      "publicationDate": "2020-01-30",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "DEAN PAUL FORGERON",
+        "MARK MACDONALD",
+        "GEORGE SEAN MONKMAN",
+        "PAUL J. SANDBERG",
+        "KEVIN CAIL"
+      ],
+      "applicationDate": "2018-06-20",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Chemical engineering",
+        "Environmental technology",
+        "Materials, metallurgy"
+      ],
+      "score": 11.068295
+    },
+    {
+      "id": "MX-2024002655-A",
+      "title": [
+        "METHODS AND COMPOSITIONS FOR TREATMENT OF CONCRETE WASH WATER."
+      ],
+      "abstract": "The invention provides methods and compositions for treating wash water from concrete production with carbon dioxide. The treated wash water can be reused as mix water in fresh batches of concrete.",
+      "publicationNumber": "MX2024002655",
+      "publicationDate": "2024-03-19",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "FORGERON DEAN PAUL",
+        "MONKMAN GEORGE SEAN",
+        "Sandberg Paul J.",
+        "CAIL KEVIN",
+        "MACDONALD MARK"
+      ],
+      "applicationDate": "2019-12-19",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Chemical engineering",
+        "Environmental technology",
+        "Materials, metallurgy"
+      ],
+      "score": 11.068295
+    },
+    {
+      "id": "MX-2019015651-A",
+      "title": [
+        "METHODS AND COMPOSITIONS FOR TREATMENT OF CONCRETE WASH WATER."
+      ],
+      "abstract": "The invention provides methods and compositions for treating wash water from concrete production with carbon dioxide. The treated wash water can be reused as mix water in fresh batches of concrete.",
+      "publicationNumber": "MX2019015651",
+      "publicationDate": "2020-08-03",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "FORGERON DEAN PAUL",
+        "MONKMAN GEORGE SEAN",
+        "Sandberg Paul J.",
+        "CAIL KEVIN",
+        "MACDONALD MARK"
+      ],
+      "applicationDate": "2018-06-20",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Environmental technology",
+        "Materials, metallurgy"
+      ],
+      "score": 11.068295
+    },
+    {
+      "id": "EP-4516472-A3",
+      "title": [
+        "METHODS FOR TREATMENT OF CONCRETE WASH WATER"
+      ],
+      "abstract": "The invention provides methods and compositions for treating wash water from concrete production with carbon dioxide. The treated wash water can be reused as mix water in fresh batches of concrete.",
+      "publicationNumber": "EP4516472",
+      "publicationDate": "2025-05-21",
+      "assignee": [
+        "Carboncure Technologies Inc."
+      ],
+      "inventors": [
+        "GEORGE SEAN MONKMAN",
+        "PAUL J. SANDBERG",
+        "KEVIN CAIL",
+        "DEAN PAUL FORGERON",
+        "MARK MACDONALD"
+      ],
+      "applicationDate": "2018-06-20",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Environmental technology",
+        "Materials, metallurgy",
+        "Other special machines"
+      ],
+      "score": 11.068295
+    },
+    {
+      "id": "EP-4516472-A2",
+      "title": [
+        "METHODS FOR TREATMENT OF CONCRETE WASH WATER"
+      ],
+      "abstract": "The invention provides methods and compositions for treating wash water from concrete production with carbon dioxide. The treated wash water can be reused as mix water in fresh batches of concrete.",
+      "publicationNumber": "EP4516472",
+      "publicationDate": "2025-03-05",
+      "assignee": [
+        "Carboncure Technologies Inc."
+      ],
+      "inventors": [
+        "GEORGE SEAN MONKMAN",
+        "PAUL J. SANDBERG",
+        "KEVIN CAIL",
+        "DEAN PAUL FORGERON",
+        "MARK MACDONALD"
+      ],
+      "applicationDate": "2018-06-20",
+      "claimsCount": 15,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Other special machines"
+      ],
+      "score": 11.068295
+    },
+    {
+      "id": "EP-4237385-A4",
+      "title": [
+        "CARBONATION OF CONCRETE PRODUCTS"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP4237385",
+      "publicationDate": "2024-10-23",
+      "assignee": [
+        "Carboncure Technologies Inc."
+      ],
+      "inventors": [
+        "MICHAEL THOMAS",
+        "George, Sean MONKMAN",
+        "Soley EINARSDOTTIR",
+        "Dean, Paul FORGERON",
+        "Alex HANMORE"
+      ],
+      "applicationDate": "2021-10-29",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 11.068295
+    },
+    {
+      "id": "EP-4237385-A1",
+      "title": [
+        "CARBONATION OF CONCRETE PRODUCTS"
+      ],
+      "abstract": "Provided herein are methods and compositions for carbonation of recycled concrete aggregates (RCA) to produce carbonated RCA. In addition, uses of the carbonated RCA, such as in building materials, and building materials containing RCA, are included. Carbonation of RCA may be used alone or may be used in combination with other carbonation processes associated with concrete manufacture, such as carbonation of wet concrete mixes and/or carbonation of concrete wash water.",
+      "publicationNumber": "EP4237385",
+      "publicationDate": "2023-09-06",
+      "assignee": [
+        "Carboncure Technologies Inc."
+      ],
+      "inventors": [
+        "MICHAEL THOMAS",
+        "George, Sean MONKMAN",
+        "Soley EINARSDOTTIR",
+        "Dean, Paul FORGERON",
+        "Alex HANMORE"
+      ],
+      "applicationDate": "2021-10-29",
+      "claimsCount": 55,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 11.068295
+    },
+    {
+      "id": "EP-3642170-C0",
+      "title": [
+        "METHODS FOR TREATMENT OF CONCRETE WASH WATER"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP3642170",
+      "publicationDate": "2025-01-15",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "GEORGE SEAN MONKMAN",
+        "PAUL J. SANDBERG",
+        "KEVIN CAIL",
+        "DEAN PAUL FORGERON",
+        "MARK MACDONALD"
+      ],
+      "applicationDate": "2018-06-20",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Environmental technology",
+        "Materials, metallurgy",
+        "Other special machines"
+      ],
+      "score": 11.068295
+    },
+    {
+      "id": "EP-3642170-A4",
+      "title": [
+        "METHODS AND COMPOSITIONS FOR TREATMENT OF CONCRETE WASH WATER"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP3642170",
+      "publicationDate": "2021-03-10",
+      "assignee": [
+        "Carboncure Technologies Inc."
+      ],
+      "inventors": [
+        "GEORGE SEAN MONKMAN",
+        "PAUL J. SANDBERG",
+        "KEVIN CAIL",
+        "DEAN PAUL FORGERON",
+        "MARK MACDONALD"
+      ],
+      "applicationDate": "2018-06-20",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Chemical engineering",
+        "Environmental technology",
+        "Materials, metallurgy",
+        "Other special machines"
+      ],
+      "score": 11.068295
+    },
+    {
+      "id": "EP-3642170-A1",
+      "title": [
+        "METHODS AND COMPOSITIONS FOR TREATMENT OF CONCRETE WASH WATER"
+      ],
+      "abstract": "The invention provides methods and compositions for treating wash water from concrete production with carbon dioxide. The treated wash water can be reused as mix water in fresh batches of concrete.",
+      "publicationNumber": "EP3642170",
+      "publicationDate": "2020-04-29",
+      "assignee": [
+        "Carboncure Technologies Inc."
+      ],
+      "inventors": [
+        "GEORGE SEAN MONKMAN",
+        "PAUL J. SANDBERG",
+        "KEVIN CAIL",
+        "DEAN PAUL FORGERON",
+        "MARK MACDONALD"
+      ],
+      "applicationDate": "2018-06-20",
+      "claimsCount": 111,
+      "independentClaimsCount": 19,
+      "technologyFields": [
+        "Chemical engineering",
+        "Environmental technology",
+        "Materials, metallurgy"
+      ],
+      "score": 11.068295
+    },
+    {
+      "id": "CL-2019003804-A1",
+      "title": [
+        "M\u00e9todos y composiciones para tratamiento de agua de lavado de concreto."
+      ],
+      "abstract": "LA INVENCI\u00d3N PROPORCIONA M\u00c9TODOS Y COMPOSICIONES PARA TRATAR AGUA DE LAVADO DE LA PRODUCCI\u00d3N DE CONCRETO CON DI\u00d3XIDO DE CARBONO. EL AGUA DE LAVADO TRATADA SE PUEDE REUTILIZAR COMO AGUA DE MEZCLA EN LOTES FRESCOS DE CONCRETO.",
+      "publicationNumber": "CL2019003804",
+      "publicationDate": "2020-07-17",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "GEORGE SEAN MONKMAN",
+        "PAUL J. SANDBERG",
+        "KEVIN CAIL",
+        "DEAN PAUL FORGERON",
+        "MARK MACDONALD"
+      ],
+      "applicationDate": "2019-12-20",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Chemical engineering",
+        "Environmental technology",
+        "Materials, metallurgy"
+      ],
+      "score": 11.068295
+    },
+    {
+      "id": "AU-2024204515-A1",
+      "title": [
+        "Methods and compositions for treatment of concrete wash water"
+      ],
+      "abstract": "The invention provides methods and compositions for treating wash water from concrete production with carbon dioxide. The treated wash water can be reused as mix water in fresh batches of concrete.",
+      "publicationNumber": "AU2024204515",
+      "publicationDate": "2024-07-18",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "KEVIN CAIL",
+        "DEAN PAUL FORGERON",
+        "MARK MACDONALD",
+        "GEORGE SEAN MONKMAN",
+        "PAUL J. SANDBERG"
+      ],
+      "applicationDate": "2024-06-28",
+      "claimsCount": 60,
+      "independentClaimsCount": 10,
+      "technologyFields": [
+        "Environmental technology",
+        "Materials, metallurgy"
+      ],
+      "score": 11.068295
+    },
+    {
+      "id": "AU-2022201059-B2",
+      "title": [
+        "Methods and compositions for treatment of concrete wash water"
+      ],
+      "abstract": "The invention provides methods and compositions for treating wash water from concrete production with carbon dioxide. The treated wash water can be reused as mix water in fresh batches of concrete.",
+      "publicationNumber": "AU2022201059",
+      "publicationDate": "2024-03-28",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "KEVIN CAIL",
+        "DEAN PAUL FORGERON",
+        "MARK MACDONALD",
+        "GEORGE SEAN MONKMAN",
+        "PAUL J. SANDBERG"
+      ],
+      "applicationDate": "2022-02-17",
+      "claimsCount": 17,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Environmental technology",
+        "Materials, metallurgy"
+      ],
+      "score": 11.068295
+    },
+    {
+      "id": "AU-2022201059-A1",
+      "title": [
+        "Methods and compositions for treatment of concrete wash water"
+      ],
+      "abstract": "The invention provides methods and compositions for treating wash water from concrete production with carbon dioxide. The treated wash water can be reused as mix water in fresh batches of concrete.",
+      "publicationNumber": "AU2022201059",
+      "publicationDate": "2022-03-10",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "KEVIN CAIL",
+        "DEAN PAUL FORGERON",
+        "MARK MACDONALD",
+        "GEORGE SEAN MONKMAN",
+        "PAUL J. SANDBERG"
+      ],
+      "applicationDate": "2022-02-17",
+      "claimsCount": 111,
+      "independentClaimsCount": 19,
+      "technologyFields": [
+        "Environmental technology",
+        "Materials, metallurgy"
+      ],
+      "score": 11.068295
+    },
+    {
+      "id": "AU-2018288555-A1",
+      "title": [
+        "Methods and compositions for treatment of concrete wash water"
+      ],
+      "abstract": "",
+      "publicationNumber": "AU2018288555",
+      "publicationDate": "2020-01-30",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "KEVIN CAIL",
+        "DEAN PAUL FORGERON",
+        "MARK MACDONALD",
+        "GEORGE SEAN MONKMAN",
+        "PAUL J. SANDBERG"
+      ],
+      "applicationDate": "2018-06-20",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Chemical engineering",
+        "Environmental technology",
+        "Materials, metallurgy"
+      ],
+      "score": 11.068295
+    },
+    {
+      "id": "KR-20250044743-A",
+      "title": [
+        "\ucf58\ud06c\ub9ac\ud2b8 \ud63c\ud654\uc81c"
+      ],
+      "abstract": "\uc2dc\uba58\ud2b8 \ud63c\ud569\ubb3c\uc5d0\uc11c \uc774\uc0b0\ud654\ud0c4\uc18c\uc640 \ud568\uaed8 \ud558\ub098 \uc774\uc0c1\uc758 \ud63c\ud654\uc81c\ub97c \ud65c\uc6a9\ud558\ub294 \ubc29\ubc95 \ubc0f \uc870\uc131\ubb3c\uc774 \uc81c\uacf5\ub418\uba70, \uc608\ub97c \ub4e4\uc5b4 \uc2dc\uba58\ud2b8 \ud63c\ud569\ubb3c\uc740 \uace8\uc7ac(\ucf58\ud06c\ub9ac\ud2b8), \uc608\ub97c \ub4e4\uc5b4 \uc911\ub7c9 \uae30\uc900\uc73c\ub85c 0.01 \ub0b4\uc9c0 5%\uc758 \ud22c\uc5ec\ub7c9\uc758 \uc774\uc0b0\ud654\ud0c4\uc18c \ubc0f \ud558\ub098 \uc774\uc0c1\uc758 \ud63c\ud654\uc81c\ub97c \ud3ec\ud568\ud55c\ub2e4.",
+      "publicationNumber": "KR20250044743",
+      "publicationDate": "2025-04-01",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "MONKMAN GEORGE SEAN",
+        "Sandberg Paul J.",
+        "HANMORE ALEX",
+        "PRAUGHT DIANE",
+        "SARGAM YOGIRAJ",
+        "CAIL KEVIN"
+      ],
+      "applicationDate": "2023-08-02",
+      "claimsCount": 80,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 11.0413
+    },
+    {
+      "id": "JP-7742161-B2",
+      "title": [
+        "\u30b3\u30f3\u30af\u30ea\u30fc\u30c8\u518d\u751f\u6c34\u306e\u51e6\u7406\u306e\u305f\u3081\u306e\u65b9\u6cd5\u53ca\u3073\u7d44\u6210\u7269"
+      ],
+      "abstract": "\u672c\u660e\u7d30\u66f8\u3067\u306f\u3001\u30b3\u30f3\u30af\u30ea\u30fc\u30c8\u306e\u751f\u7523\u53ca\u3073\u4f7f\u7528\u306e\u969b\u306b\u751f\u6210\u3055\u308c\u308b\u6d17\u6d44\u6c34\uff08\u518d\u751f\u6c34\uff09\u3092\u70ad\u9178\u5316\u3059\u308b\u305f\u3081\u306e\u7d44\u6210\u7269\u53ca\u3073\u65b9\u6cd5\u3001\u306a\u3089\u3073\u306b\u305d\u308c\u306b\u7d9a\u304f\u3001\u30b3\u30f3\u30af\u30ea\u30fc\u30c8\u306e\u66f4\u306a\u308b\u30d0\u30c3\u30c1\u306e\u88fd\u9020\u53ca\u3073\u4f7f\u7528\u306b\u304a\u3051\u308b\u305d\u306e\u4f7f\u7528\u3092\u542b\u3080\u3001\u70ad\u9178\u5316\u518d\u751f\u6c34\u306e\u4f7f\u7528\u304c\u63d0\u4f9b\u3055\u308c\u308b\u3002 \u3010\u9078\u629e\u56f3\u3011\u56f3\uff11",
+      "publicationNumber": "JP7742161",
+      "publicationDate": "2025-09-19",
+      "assignee": [
+        "\u30ab\u30fc\u30dc\u30f3\u30ad\u30e5\u30a2 \u30c6\u30af\u30ce\u30ed\u30b8\u30fc\u30ba \u30a4\u30f3\u30b3\u30fc\u30dd\u30ec\u30a4\u30c6\u30c3\u30c9"
+      ],
+      "inventors": [
+        "\u30cf\u30f3\u30e2\u30a2 \u30a2\u30ec\u30c3\u30af\u30b9",
+        "\u30e2\u30f3\u30af\u30de\u30f3 \u30b8\u30e7\u30fc\u30b8 \u30b7\u30e7\u30fc\u30f3",
+        "\u30b5\u30f3\u30c9\u30d0\u30fc\u30b0 \u30dd\u30fc\u30eb \u30b8\u30a7\u30a4\uff0e",
+        "\u30d5\u30a9\u30eb\u30b8\u30e5\u30ed\u30f3 \u30c7\u30a3\u30fc\u30f3 \u30dd\u30fc\u30eb",
+        "\u30b1\u30a4\u30eb \u30b1\u30d3\u30f3",
+        "\u30e4\u30f3\u30b1 \u30c8\u30e9\u30f4\u30a3\u30b9 \u30a2\u30fc\u30ed\u30f3"
+      ],
+      "applicationDate": "2020-10-07",
+      "claimsCount": 24,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Environmental technology",
+        "Other special machines"
+      ],
+      "score": 11.031209
+    },
+    {
+      "id": "JP-2022552221-A",
+      "title": [
+        "\u30b3\u30f3\u30af\u30ea\u30fc\u30c8\u518d\u751f\u6c34\u306e\u51e6\u7406\u306e\u305f\u3081\u306e\u65b9\u6cd5\u53ca\u3073\u7d44\u6210\u7269"
+      ],
+      "abstract": "\u672c\u660e\u7d30\u66f8\u3067\u306f\u3001\u30b3\u30f3\u30af\u30ea\u30fc\u30c8\u306e\u751f\u7523\u53ca\u3073\u4f7f\u7528\u306e\u969b\u306b\u751f\u6210\u3055\u308c\u308b\u6d17\u6d44\u6c34\uff08\u518d\u751f\u6c34\uff09\u3092\u70ad\u9178\u5316\u3059\u308b\u305f\u3081\u306e\u7d44\u6210\u7269\u53ca\u3073\u65b9\u6cd5\u3001\u306a\u3089\u3073\u306b\u305d\u308c\u306b\u7d9a\u304f\u3001\u30b3\u30f3\u30af\u30ea\u30fc\u30c8\u306e\u66f4\u306a\u308b\u30d0\u30c3\u30c1\u306e\u88fd\u9020\u53ca\u3073\u4f7f\u7528\u306b\u304a\u3051\u308b\u305d\u306e\u4f7f\u7528\u3092\u542b\u3080\u3001\u70ad\u9178\u5316\u518d\u751f\u6c34\u306e\u4f7f\u7528\u304c\u63d0\u4f9b\u3055\u308c\u308b\u3002 \u3010\u9078\u629e\u56f3\u3011\u56f3\uff11",
+      "publicationNumber": "JP2022552221",
+      "publicationDate": "2022-12-15",
+      "assignee": [
+        "\u30ab\u30fc\u30dc\u30f3\u30ad\u30e5\u30a2 \u30c6\u30af\u30ce\u30ed\u30b8\u30fc\u30ba \u30a4\u30f3\u30b3\u30fc\u30dd\u30ec\u30a4\u30c6\u30c3\u30c9"
+      ],
+      "inventors": [
+        "\u30cf\u30f3\u30e2\u30a2 \u30a2\u30ec\u30c3\u30af\u30b9",
+        "\u30e2\u30f3\u30af\u30de\u30f3 \u30b8\u30e7\u30fc\u30b8 \u30b7\u30e7\u30fc\u30f3",
+        "\u30b5\u30f3\u30c9\u30d0\u30fc\u30b0 \u30dd\u30fc\u30eb \u30b8\u30a7\u30a4\uff0e",
+        "\u30d5\u30a9\u30eb\u30b8\u30e5\u30ed\u30f3 \u30c7\u30a3\u30fc\u30f3 \u30dd\u30fc\u30eb",
+        "\u30b1\u30a4\u30eb \u30b1\u30d3\u30f3",
+        "\u30e4\u30f3\u30b1 \u30c8\u30e9\u30f4\u30a3\u30b9 \u30a2\u30fc\u30ed\u30f3"
+      ],
+      "applicationDate": "2020-10-07",
+      "claimsCount": 28,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Environmental technology",
+        "Other special machines"
+      ],
+      "score": 11.031209
+    },
+    {
+      "id": "WO-2025171190-A1",
+      "title": [
+        "COMPOSITIONS AND METHODS FOR UTILIZING CO2"
+      ],
+      "abstract": "Provided herein are systems and methods for contacting particles of a composition comprising solid cementitious material and exogenous carbon dioxide while the particles are treated to reduce the size of the particles. Further, provided herein are cement composition comprises one or more carbonates produced by the disclosed systems and methods.",
+      "publicationNumber": "WO2025171190",
+      "publicationDate": "2025-08-14",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "Sandy Gabriel Carrero VARGAS",
+        "KEVIN CAIL",
+        "DEAN PAUL FORGERON",
+        "Yogiraj SARGAM"
+      ],
+      "applicationDate": "2025-02-06",
+      "claimsCount": 68,
+      "independentClaimsCount": 8,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 11.026246
+    },
+    {
+      "id": "WO-2020124054-A1",
+      "title": [
+        "METHODS AND COMPOSITIONS FOR DELIVERY OF CARBON DIOXIDE"
+      ],
+      "abstract": "Provided herein are methods, apparatus, and systems for delivering carbon dioxide as a mixture of solid and gaseous carbon dioxide to a destination.",
+      "publicationNumber": "WO2020124054",
+      "publicationDate": "2020-06-18",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "DEAN FORGERON",
+        "Brad VICKERS",
+        "Brandon Burns",
+        "Josh BROWN",
+        "Sean George MONKMAN",
+        "KEVIN CAIL"
+      ],
+      "applicationDate": "2019-12-13",
+      "claimsCount": 63,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Chemical engineering",
+        "Handling",
+        "Materials, metallurgy",
+        "Mechanical elements"
+      ],
+      "score": 11.026246
+    },
+    {
+      "id": "WO-2017177324-A1",
+      "title": [
+        "METHODS AND COMPOSITIONS FOR TREATMENT OF CONCRETE WASH WATER"
+      ],
+      "abstract": "The invention provides methods and compositions for treating wash water from concrete production with carbon dioxide. The treated wash water can be reused as mix water in fresh batches of concrete.",
+      "publicationNumber": "WO2017177324",
+      "publicationDate": "2017-10-19",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "MARK MACDONALD",
+        "GEORGE SEAN MONKMAN",
+        "KEVIN CAIL",
+        "DEAN PAUL FORGERON"
+      ],
+      "applicationDate": "2017-04-11",
+      "claimsCount": 25,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Materials, metallurgy",
+        "Other special machines"
+      ],
+      "score": 11.026246
+    },
+    {
+      "id": "WO-2017041176-A1",
+      "title": [
+        "PRECARBONATION OF CEMENT MIXES"
+      ],
+      "abstract": "The invention provides methods and compositions for carbonation of a wet cement mix. The wet cement mix may be carbonated prior to addition of aggregates, admixture, SCM, and/or other components to produce a carbonated concrete mix. The methods and compositions may include high shear mixing of a cement or concrete mix, either during or before carbonation.",
+      "publicationNumber": "WO2017041176",
+      "publicationDate": "2017-03-16",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "GEORGE SEAN MONKMAN",
+        "KEVIN CAIL",
+        "PAUL J. SANDBERG",
+        "MARK MACDONALD",
+        "JOSHUA JEREMY BROWN"
+      ],
+      "applicationDate": "2016-09-08",
+      "claimsCount": 29,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Other special machines"
+      ],
+      "score": 11.026246
+    },
+    {
+      "id": "US-20250187229-A1",
+      "title": [
+        "METHODS AND COMPOSITIONS FOR TREATMENT OF CONCRETE WASH WATER"
+      ],
+      "abstract": "The invention provides methods and compositions for treating wash water from concrete production with carbon dioxide. The treated wash water can be reused as mix water in fresh batches of concrete.",
+      "publicationNumber": "US20250187229",
+      "publicationDate": "2025-06-12",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "George Sean Monkman",
+        "Mark MacDonald",
+        "Dean Paul Forgeron"
+      ],
+      "applicationDate": "2024-12-07",
+      "claimsCount": 29,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Environmental technology",
+        "Materials, metallurgy",
+        "Other special machines"
+      ],
+      "score": 11.026246
+    },
+    {
+      "id": "US-20240100737-A1",
+      "title": [
+        "METHODS AND COMPOSITIONS FOR TREATMENT OF CONCRETE WASH WATER"
+      ],
+      "abstract": "The invention provides methods and compositions for treating wash water from concrete production with carbon dioxide. The treated wash water can be reused as mix water in fresh batches of concrete.",
+      "publicationNumber": "US20240100737",
+      "publicationDate": "2024-03-28",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "George Sean Monkman",
+        "Mark MacDonald",
+        "Dean Paul Forgeron"
+      ],
+      "applicationDate": "2023-05-30",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Environmental technology",
+        "Materials, metallurgy",
+        "Other special machines"
+      ],
+      "score": 11.026246
+    },
+    {
+      "id": "US-20220065527-A1",
+      "title": [
+        "METHODS AND COMPOSITIONS FOR DELIVERY OF CARBON DIOXIDE"
+      ],
+      "abstract": "Provided herein are methods, apparatus, and systems for delivering carbon dioxide as a mixture of solid and gaseous carbon dioxide to a destination.",
+      "publicationNumber": "US20220065527",
+      "publicationDate": "2022-03-03",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "Dean Paul Forgeron",
+        "Brad VICKERS",
+        "BRANDON BURNS",
+        "Josh BROWN",
+        "George Sean Monkman",
+        "Kevin Cail"
+      ],
+      "applicationDate": "2019-12-13",
+      "claimsCount": 63,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Chemical engineering",
+        "Handling",
+        "Materials, metallurgy",
+        "Mechanical elements",
+        "Other special machines"
+      ],
+      "score": 11.026246
+    },
+    {
+      "id": "US-20190168416-A1",
+      "title": [
+        "METHODS AND COMPOSITIONS FOR TREATMENT OF CONCRETE WASH WATER"
+      ],
+      "abstract": "The invention provides methods and compositions for treating wash water from concrete production with carbon dioxide. The treated wash water can be reused as mix water in fresh batches of concrete.",
+      "publicationNumber": "US20190168416",
+      "publicationDate": "2019-06-06",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "George Sean Monkman",
+        "Mark MacDonald",
+        "Dean Paul Forgeron"
+      ],
+      "applicationDate": "2018-10-09",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Environmental technology",
+        "Materials, metallurgy",
+        "Other special machines"
+      ],
+      "score": 11.026246
+    },
+    {
+      "id": "US-20190077045-A1",
+      "title": [
+        "PRECARBONATION OF CEMENT MIXES"
+      ],
+      "abstract": "The invention provides methods and compositions for carbonation of a wet cement mix. The wet cement mix may be carbonated prior to addition of aggregates, admixture, SCM, and/or other components to produce a carbonated concrete mix. The methods and compositions may include high shear mixing of a cement or concrete mix, either during or before carbonation.",
+      "publicationNumber": "US20190077045",
+      "publicationDate": "2019-03-14",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "George Sean Monkman",
+        "Kevin Cail",
+        "Paul J. Sandberg",
+        "Mark MacDonald",
+        "Joshua Jeremy Brown"
+      ],
+      "applicationDate": "2018-03-05",
+      "claimsCount": 29,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Chemical engineering",
+        "Other special machines"
+      ],
+      "score": 11.026246
+    },
+    {
+      "id": "SG-11202106201S-A",
+      "title": [
+        "METHODS AND COMPOSITIONS FOR DELIVERY OF CARBON DIOXIDE"
+      ],
+      "abstract": "",
+      "publicationNumber": "SG11202106201S",
+      "publicationDate": "2021-07-29",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "DEAN FORGERON",
+        "Brad VICKERS",
+        "Brandon Burns",
+        "Josh BROWN",
+        "Sean George MONKMAN",
+        "KEVIN CAIL"
+      ],
+      "applicationDate": "2019-12-13",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Chemical engineering",
+        "Handling",
+        "Materials, metallurgy",
+        "Mechanical elements"
+      ],
+      "score": 11.026246
+    },
+    {
+      "id": "SG-11201810010P-A",
+      "title": [
+        "METHODS AND COMPOSITIONS FOR TREATMENT OF CONCRETE WASH WATER"
+      ],
+      "abstract": "INTERNATIONAL APPLICATION PUBLISHED UNDER THE PATENT COOPERATION TREATY (PCT) (19) World Intellectual Property \u2014, Organization MD 1101111 0 11101 0I0 11111 HO 11111 0 111 HOB 11111 001 010 HI 111110 HOED International Bureau ... .... ..Yjd ...... ... (10) International Publication Number (43) International Publication Date WO 2017/177324 Al 19 October 2017(19.10.2017) WIPO I PCT (51) (21) (22) (25) (26) (30) (71) (72) International Patent Classification: (81) Designated States (unless otherwise indicated, for every B28C 5/00 (2006.01) B28C 7/02 (2006.01) kind of national protection available): AE, AG, AL, AM, B28C 5/42 (2006.01) C04B 40/02 (2006.01) AO, AT, AU, AZ, BA, BB, BG, BH, BN, BR, BW, BY, BZ, CA, CH, CL, CN, CO, CR, CU, CZ, DE, DJ, DK, DM, International Application Number: DO, DZ, EC, EE, EG, ES, FI, GB, GD, GE, GH, GM, GT, PCT/CA2017/050445 HN, HR, HU, ID, IL, IN, IR, IS, JP, KE, KG, KH, KN, International Filing Date: KP, KR, KW, KZ, LA, LC, LK, LR, LS, LU, LY, MA, 11 April 2017 (11.04.2017) MD, ME, MG, MK, MN, MW, MX, MY, MZ, NA, NG, NI, NO, NZ, OM, PA, PE, PG, PH, PL, PT, QA, RO, RS, Filing Language: English RU, RW, SA, SC, SD, SE, SG, SK, SL, SM, ST, SV, SY, Publication Language: English TH, TJ, TM, TN, TR, TT, TZ, UA, UG, US, UZ, VC, VN, ZA, ZM, ZW. Priority Data: 62/321,013 11 April 2016 (11.04.2016) US (84) Designated States (unless otherwise indicated, for every kind of regional protection available): ARIPO (BW, GH, Applicant: CARBONCURE TECHNOLOGIES INC. GM, KE, LR, LS, MW, MZ, NA, RW, SD, SL, ST, SZ, [CA/CA]; 60 Trider Crescent, Dartmouth, Nova Scotia TZ, UG, ZM, ZW), Eurasian (AM, AZ, BY, KG, KZ, RU, B3B 1R6 (CA). TJ, TM), European (AL, AT, BE, BG, CH, CY, CZ, DE, Inventors: MACDONALD, Mark; 2705 Windsor St., DK, EE, ES, FI, FR, GB, GR, HR, HU, IE, IS, IT, LT, LU, Halifax, Nova Scotia B3K 5E1 (CA). MONKMAN, LV, MC, MK, MT, NL, NO, PL, PT, RO, RS, SE, SI, SK, George Sean; 4445 Rue Chambord, Montreal, Quebec H2J SM, TR), OAPI (BF, BJ, CF, CG, CI, CM, GA, GN, GQ, 3M5 (CA). CALL, Kevin; 5113 Redbriar Ct., Sarasota, GW, KM, ML, MR, NE, SN, TD, TG). Florida 34238 (US). FORGERON, Dean Paul; 13 Round Declarations under Rule 4.17: Tuit Rd., White&apos;s Lake, Nova Scotia B3T 1W2 (CA). \u2014 as to applicant&apos;s entitlement to apply for and be granted a Agent: BERESKIN & PARR LLP/S.E.N.C.R.L., S.R.L.; patent (Rule 4.1700) 40 King Street West, 40th Floor, Toronto, Ontario M5H Published: 3Y2 (CA). \u2014 with international search report (Art. 21(3)) (74) Title: METHODS AND COMPOSITIONS FOR TREATMENT OF CONCRETE WASH WATER Figure 1 .A g ed1Day-Urrtreated HAgdl4 Day- I-W.2W 3 Aga 1 1722-20182221222 a Agplf 4 Day1,802 Treated (54) 182 , 14O El g 1120 1 &apos; i 100 23 0 21 .4 11&apos; ei en IN IN 1 IN 1-1 (57) = oxide. ei 2 80 1 0 (3 D W D 0 0 \u00ae o 20 a o 1.000 1.025 1 050 1.075 1.100 1.125 Mix Water Specific Gravity (witless/ : The invention provides methods and compositions for treating wash water from concrete production with carbon di- The treated wash water can be reused as mix water in fresh batches of concrete. O",
+      "publicationNumber": "SG11201810010P",
+      "publicationDate": "2018-12-28",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "MARK MACDONALD",
+        "GEORGE SEAN MONKMAN",
+        "KEVIN CAIL",
+        "DEAN PAUL FORGERON"
+      ],
+      "applicationDate": "2017-04-11",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Materials, metallurgy",
+        "Other special machines"
+      ],
+      "score": 11.026246
+    },
+    {
+      "id": "SG-10202010009X-A",
+      "title": [
+        "METHODS AND COMPOSITIONS FOR TREATMENT OF CONCRETE WASH WATER"
+      ],
+      "abstract": "",
+      "publicationNumber": "SG10202010009X",
+      "publicationDate": "2020-11-27",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "MARK MACDONALD",
+        "GEORGE SEAN MONKMAN",
+        "KEVIN CAIL",
+        "DEAN PAUL FORGERON"
+      ],
+      "applicationDate": "2017-04-11",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 11.026246
+    },
+    {
+      "id": "PH-12021551350-A1",
+      "title": [
+        "METHODS AND COMPOSITIONS FOR DELIVERY OF CARBON DIOXIDE"
+      ],
+      "abstract": "Provided herein are methods, apparatus, and systems for delivering carbon dioxide as a mixture of solid and gaseous carbon dioxide to a destination.",
+      "publicationNumber": "PH12021551350",
+      "publicationDate": "2022-05-16",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "Josh BROWN",
+        "Brandon Burns",
+        "KEVIN CAIL",
+        "DEAN FORGERON",
+        "Sean George MONKMAN",
+        "Brad VICKERS"
+      ],
+      "applicationDate": "2019-12-13",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Chemical engineering",
+        "Handling",
+        "Materials, metallurgy",
+        "Mechanical elements"
+      ],
+      "score": 11.026246
+    },
+    {
+      "id": "PE-20211745-A1",
+      "title": [
+        "METODOS Y COMPOSICIONES PARA SUMINISTRAR DIOXIDO DE CARBONO"
+      ],
+      "abstract": "En la presente se proporcionan metodos, aparatos y sistemas para suministrar dioxido de carbono como una mezcla de dioxido de carbono solido y gaseoso a un destino.",
+      "publicationNumber": "PE20211745",
+      "publicationDate": "2021-09-06",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "DEAN FORGERON",
+        "Brad VICKERS",
+        "Brandon Burns",
+        "Josh BROWN",
+        "Sean George MONKMAN",
+        "KEVIN CAIL"
+      ],
+      "applicationDate": "2019-12-13",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Chemical engineering",
+        "Handling",
+        "Materials, metallurgy",
+        "Mechanical elements"
+      ],
+      "score": 11.026246
+    },
+    {
+      "id": "MX-2024013934-A",
+      "title": [
+        "METHODS AND COMPOSITIONS FOR DELIVERY OF CARBON DIOXIDE"
+      ],
+      "abstract": "Provided herein are methods, apparatus, and systems for delivering carbon dioxide as a mixture of solid and gaseous carbon dioxide to a destination.",
+      "publicationNumber": "MX2024013934",
+      "publicationDate": "2025-02-10",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "FORGERON DEAN",
+        "BROWN JOSH",
+        "VICKERS BRAD",
+        "BURNS BRANDON",
+        "MONKMAN SEAN GEORGE",
+        "CAIL KEVIN"
+      ],
+      "applicationDate": "2021-06-11",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Chemical engineering",
+        "Handling",
+        "Materials, metallurgy",
+        "Mechanical elements"
+      ],
+      "score": 11.026246
+    },
+    {
+      "id": "MX-2023013923-A",
+      "title": [
+        "METHODS AND COMPOSITIONS FOR TREATMENT OF CONCRETE WASH WATER."
+      ],
+      "abstract": "The invention provides methods and compositions for treating wash water from concrete production with carbon dioxide. The treated wash water can be reused as mix water in fresh batches of concrete.",
+      "publicationNumber": "MX2023013923",
+      "publicationDate": "2023-12-08",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "CAIL Kevin,",
+        "MONKMAN George Sean,",
+        "FORGERON Dean Paul,",
+        "MACDONALD MARK"
+      ],
+      "applicationDate": "2018-10-11",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Materials, metallurgy",
+        "Other special machines"
+      ],
+      "score": 11.026246
+    },
+    {
+      "id": "MX-2021006988-A",
+      "title": [
+        "METHODS AND COMPOSITIONS FOR DELIVERY OF CARBON DIOXIDE."
+      ],
+      "abstract": "Provided herein are methods, apparatus, and systems for delivering carbon dioxide as a mixture of solid and gaseous carbon dioxide to a destination.",
+      "publicationNumber": "MX2021006988",
+      "publicationDate": "2021-10-19",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "FORGERON DEAN",
+        "VICKERS BRAD",
+        "BURNS BRANDON",
+        "MONKMAN SEAN GEORGE",
+        "CAIL KEVIN",
+        "BROWN JOSH"
+      ],
+      "applicationDate": "2019-12-13",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Chemical engineering",
+        "Handling",
+        "Materials, metallurgy",
+        "Mechanical elements"
+      ],
+      "score": 11.026246
+    },
+    {
+      "id": "MX-2018012464-A",
+      "title": [
+        "METHODS AND COMPOSITIONS FOR TREATMENT OF CONCRETE WASH WATER."
+      ],
+      "abstract": "The invention provides methods and compositions for treating wash water from concrete production with carbon dioxide. The treated wash water can be reused as mix water in fresh batches of concrete.",
+      "publicationNumber": "MX2018012464",
+      "publicationDate": "2019-08-01",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "CAIL Kevin",
+        "MACDONALD Mark",
+        "MONKMAN George Sean",
+        "FORGERON Dean Paul"
+      ],
+      "applicationDate": "2017-04-11",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Other special machines"
+      ],
+      "score": 11.026246
+    },
+    {
+      "id": "MA-53762-B1",
+      "title": [
+        "PROC\u00c9D\u00c9S ET COMPOSITIONS POUR L&apos;ADMINISTRATION DE DIOXYDE DE CARBONE"
+      ],
+      "abstract": "L&apos;invention concerne des proc\u00e9d\u00e9s, un appareil et des syst\u00e8mes pour distribuer du dioxyde de carbone en tant que m\u00e9lange de dioxyde de carbone solide et gazeux \u00e0 une destination.",
+      "publicationNumber": "MA53762",
+      "publicationDate": "2023-06-28",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "DEAN FORGERON",
+        "Brad VICKERS",
+        "Brandon Burns",
+        "Josh BROWN",
+        "Sean George MONKMAN",
+        "KEVIN CAIL",
+        "DEAN FORGERON",
+        "Brad VICKERS",
+        "Brandon Burns",
+        "Josh BROWN",
+        "Sean George MONKMAN",
+        "KEVIN CAIL"
+      ],
+      "applicationDate": "2019-12-13",
+      "claimsCount": 8,
+      "independentClaimsCount": 7,
+      "technologyFields": [
+        "Handling",
+        "Materials, metallurgy",
+        "Mechanical elements",
+        "Other special machines"
+      ],
+      "score": 11.026246
+    },
+    {
+      "id": "MA-53762-A1",
+      "title": [
+        "Proc\u00e9d\u00e9s et compositions pour l&apos;administration de dioxyde de carbone"
+      ],
+      "abstract": "L&apos;invention concerne des proc\u00e9d\u00e9s, un appareil et des syst\u00e8mes pour distribuer du dioxyde de carbone en tant que m\u00e9lange de dioxyde de carbone solide et gazeux \u00e0 une destination.",
+      "publicationNumber": "MA53762",
+      "publicationDate": "2023-02-28",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "DEAN FORGERON",
+        "Brad VICKERS",
+        "Brandon Burns",
+        "Josh BROWN",
+        "Sean George MONKMAN",
+        "KEVIN CAIL",
+        "DEAN FORGERON",
+        "Brad VICKERS",
+        "Brandon Burns",
+        "Josh BROWN",
+        "Sean George MONKMAN",
+        "KEVIN CAIL"
+      ],
+      "applicationDate": "2019-12-13",
+      "claimsCount": 17,
+      "independentClaimsCount": 16,
+      "technologyFields": [
+        "Handling",
+        "Materials, metallurgy",
+        "Mechanical elements",
+        "Other special machines"
+      ],
+      "score": 11.026246
+    },
+    {
+      "id": "IL-283905-A",
+      "title": [
+        "Methods and compositions for delivery of carbon dioxide"
+      ],
+      "abstract": "",
+      "publicationNumber": "IL283905",
+      "publicationDate": "2021-07-29",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [],
+      "applicationDate": "2021-06-10",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 11.026246
+    },
+    {
+      "id": "EP-3894343-A4",
+      "title": [
+        "METHODS AND COMPOSITIONS FOR DELIVERY OF CARBON DIOXIDE"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP3894343",
+      "publicationDate": "2022-08-31",
+      "assignee": [
+        "Carboncure Technologies Inc."
+      ],
+      "inventors": [
+        "DEAN FORGERON",
+        "Brad VICKERS",
+        "Brandon Burns",
+        "Josh BROWN",
+        "Sean George MONKMAN",
+        "KEVIN CAIL"
+      ],
+      "applicationDate": "2019-12-13",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Chemical engineering",
+        "Materials, metallurgy",
+        "Mechanical elements",
+        "Other consumer goods",
+        "Other special machines"
+      ],
+      "score": 11.026246
+    },
+    {
+      "id": "EP-3894343-A1",
+      "title": [
+        "METHODS AND COMPOSITIONS FOR DELIVERY OF CARBON DIOXIDE"
+      ],
+      "abstract": "Provided herein are methods, apparatus, and systems for delivering carbon dioxide as a mixture of solid and gaseous carbon dioxide to a destination.",
+      "publicationNumber": "EP3894343",
+      "publicationDate": "2021-10-20",
+      "assignee": [
+        "Carboncure Technologies Inc."
+      ],
+      "inventors": [
+        "DEAN FORGERON",
+        "Brad VICKERS",
+        "Brandon Burns",
+        "Josh BROWN",
+        "Sean George MONKMAN",
+        "KEVIN CAIL"
+      ],
+      "applicationDate": "2019-12-13",
+      "claimsCount": 63,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Chemical engineering",
+        "Handling",
+        "Materials, metallurgy",
+        "Mechanical elements"
+      ],
+      "score": 11.026246
+    },
+    {
+      "id": "EP-3442761-A4",
+      "title": [
+        "METHODS AND COMPOSITIONS FOR TREATMENT OF CONCRETE WASH WATER"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP3442761",
+      "publicationDate": "2019-12-11",
+      "assignee": [
+        "Carboncure Technologies Inc."
+      ],
+      "inventors": [
+        "MARK MACDONALD",
+        "GEORGE SEAN MONKMAN",
+        "KEVIN CAIL",
+        "DEAN PAUL FORGERON"
+      ],
+      "applicationDate": "2017-04-11",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Materials, metallurgy",
+        "Other special machines"
+      ],
+      "score": 11.026246
+    },
+    {
+      "id": "EP-3442761-A1",
+      "title": [
+        "METHODS AND COMPOSITIONS FOR TREATMENT OF CONCRETE WASH WATER"
+      ],
+      "abstract": "The invention provides methods and compositions for treating wash water from concrete production with carbon dioxide. The treated wash water can be reused as mix water in fresh batches of concrete.",
+      "publicationNumber": "EP3442761",
+      "publicationDate": "2019-02-20",
+      "assignee": [
+        "Carboncure Technologies Inc."
+      ],
+      "inventors": [
+        "MARK MACDONALD",
+        "GEORGE SEAN MONKMAN",
+        "KEVIN CAIL",
+        "DEAN PAUL FORGERON"
+      ],
+      "applicationDate": "2017-04-11",
+      "claimsCount": 25,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Materials, metallurgy",
+        "Other special machines"
+      ],
+      "score": 11.026246
+    },
+    {
+      "id": "CO-2021009084-A2",
+      "title": [
+        "M\u00e9todos y composiciones para suministrar di\u00f3xido de carbono"
+      ],
+      "abstract": "En la presente se proporcionan m\u00e9todos, aparatos y sistemas para suministrar di\u00f3xido de carbono como una mezcla de di\u00f3xido de carbono s\u00f3lido y gaseoso a un destino.",
+      "publicationNumber": "CO2021009084",
+      "publicationDate": "2021-09-09",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "KEVIN CAIL",
+        "DEAN FORGERON",
+        "Brad VICKERS",
+        "Brandon Burns",
+        "Josh BROWN",
+        "Sean George MONKMAN"
+      ],
+      "applicationDate": "2021-07-12",
+      "claimsCount": 63,
+      "independentClaimsCount": 29,
+      "technologyFields": [
+        "Chemical engineering",
+        "Handling",
+        "Mechanical elements"
+      ],
+      "score": 11.026246
+    },
+    {
+      "id": "CL-2020003376-A1",
+      "title": [
+        "M\u00e9todos y composiciones para suministrar di\u00f3xido de carbono"
+      ],
+      "abstract": "En la presente se proporcionan m\u00e9todos, aparatos y sistemas para suministrar di\u00f3xido de carbono como una mezcla de di\u00f3xido de carbono s\u00f3lido y gaseoso a un destino.",
+      "publicationNumber": "CL2020003376",
+      "publicationDate": "2021-05-28",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "DEAN FORGERON",
+        "Brad VICKERS",
+        "Brandon Burns",
+        "Josh BROWN",
+        "Sean George MONKMAN",
+        "KEVIN CAIL"
+      ],
+      "applicationDate": "2020-12-23",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Chemical engineering",
+        "Handling",
+        "Materials, metallurgy",
+        "Mechanical elements"
+      ],
+      "score": 11.026246
+    },
+    {
+      "id": "BR-112021011497-A2",
+      "title": [
+        "M\u00c9TODOS E COMPOSI\u00c7\u00d5ES PARA DISTRIBUI\u00c7\u00c3O DE DI\u00d3XIDO DE CARBONO"
+      ],
+      "abstract": "M\u00c9TODOS E COMPOSI\u00c7\u00d5ES PARA DISTRIBUI\u00c7\u00c3O DE DI\u00d3XIDO DE CARBONO. S\u00e3o fornecidos, neste documento, m\u00e9todos, aparelhos e sistemas para distribui\u00e7\u00e3o de di\u00f3xido de carbono como uma mistura de di\u00f3xido de carbono s\u00f3lido e gasoso a um destino.",
+      "publicationNumber": "BR112021011497",
+      "publicationDate": "2021-08-31",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "Dean Forgeron",
+        "Brad VICKERS",
+        "BRANDON BURNS",
+        "Josh BROWN",
+        "SEAN GEORGE MONKMAN",
+        "Kevin Cail"
+      ],
+      "applicationDate": "2019-12-13",
+      "claimsCount": 63,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Chemical engineering",
+        "Handling",
+        "Materials, metallurgy",
+        "Mechanical elements"
+      ],
+      "score": 11.026246
+    },
+    {
+      "id": "AU-2019397557-B2",
+      "title": [
+        "Methods and compositions for delivery of carbon dioxide"
+      ],
+      "abstract": "Provided herein are methods, apparatus, and systems for delivering carbon dioxide as a mixture of solid and gaseous carbon dioxide to a destination.",
+      "publicationNumber": "AU2019397557",
+      "publicationDate": "2025-08-28",
+      "assignee": [
+        "CARBONCURE TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "Josh BROWN",
+        "Brandon Burns",
+        "KEVIN CAIL",
+        "DEAN FORGERON",
+        "Sean George MONKMAN",
+        "Brad VICKERS"
+      ],
+      "applicationDate": "2019-12-13",
+      "claimsCount": 27,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Chemical engineering",
+        "Handling",
+        "Materials, metallurgy",
+        "Mechanical elements"
+      ],
+      "score": 11.026246
+    }
+  ]
+}

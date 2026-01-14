@@ -1,0 +1,50 @@
+"use client";
+
+import { cn } from "@/lib/utils";
+import { ReactNode } from "react";
+
+interface CardProps {
+  children: ReactNode;
+  className?: string;
+}
+
+export function Card({ children, className }: CardProps) {
+  return (
+    <div
+      className={cn(
+        "rounded-xl border border-[var(--border)] bg-[var(--card)] text-[var(--card-foreground)] shadow-lg",
+        className
+      )}
+    >
+      {children}
+    </div>
+  );
+}
+
+export function CardHeader({ children, className }: CardProps) {
+  return (
+    <div className={cn("flex flex-col space-y-1.5 p-6", className)}>
+      {children}
+    </div>
+  );
+}
+
+export function CardTitle({ children, className }: CardProps) {
+  return (
+    <h3 className={cn("text-lg font-semibold leading-none tracking-tight", className)}>
+      {children}
+    </h3>
+  );
+}
+
+export function CardDescription({ children, className }: CardProps) {
+  return (
+    <p className={cn("text-sm text-[var(--muted-foreground)]", className)}>
+      {children}
+    </p>
+  );
+}
+
+export function CardContent({ children, className }: CardProps) {
+  return <div className={cn("p-6 pt-0", className)}>{children}</div>;
+}

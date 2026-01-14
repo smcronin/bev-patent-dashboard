@@ -1,0 +1,2487 @@
+{
+  "count": 647,
+  "numFound": 647,
+  "docs": [
+    {
+      "id": "EP-4664366-A1",
+      "title": [
+        "METHODS AND APPARATUSES FOR INTERCONNECT FACTORY FOR PHOTONIC INTERLINKS"
+      ],
+      "abstract": "Aspects of the present disclosure relate generally to systems and methods for entangling a first set of interconnect qubits with a second set of interconnect qubits, entangling a first set of memory ions and the first set of interconnect qubits, collecting the first set of memory qubits into a parcel, distilling the parcel and one or more additional parcels into one or more distilled parcels, transferring the one or more distilled parcels to a computation system to execute one or more quantum algorithms using resource states in the distilled parcels, entangling, during the execution of the one or more quantum algorithms, a third set of interconnect qubits with a fourth set of interconnect qubits, and entangling, during the execution of the one or more quantum algorithms, a second set of memory ions with the third set of interconnect ions.",
+      "publicationNumber": "EP4664366",
+      "publicationDate": "2025-12-17",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Ilia KHAIT",
+        "Jason Madjdi AMINI",
+        "Ryan BOWLER"
+      ],
+      "applicationDate": "2025-06-10",
+      "claimsCount": 15,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 12.342985
+    },
+    {
+      "id": "US-20250085644-A1",
+      "title": [
+        "METHODS AND APPARATUSES FOR MICROFABRICATION AND LASER WRITING ALIGNMENT"
+      ],
+      "abstract": "Aspects of the present disclosure may include a method and/or a system for spatially aligning microfabrication processes and laser writing processes on a wafer by preparing a pattern of alignment features across a wafer with known relative locations and orientations between elements of the pattern, aligning one or more laser writing processes to the alignment patterns, laser writing features into the wafer based on the prior process alignment, aligning one or more microfabrication processes to the microfabrication alignment patterns, and processing the wafer via the microfabrication steps using the results of the prior alignment step.",
+      "publicationNumber": "US20250085644",
+      "publicationDate": "2025-03-13",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Jason Madjdi AMINI"
+      ],
+      "applicationDate": "2024-09-12",
+      "claimsCount": 16,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Optics",
+        "Semiconductors"
+      ],
+      "score": 11.968505
+    },
+    {
+      "id": "US-20240370759-A1",
+      "title": [
+        "AUTOMATION DESIGN FOR ACHIEVING LONG TERM STABLE OPERATION OF QUANTUM COMPUTERS"
+      ],
+      "abstract": "Aspects of the present disclosure relate generally to systems and methods for use in the implementation and/or operation of quantum information processing (QIP) systems. To optimize the performance of QIP systems or quantum computers in terms of both fidelity and algorithm uptime or throughput, described are techniques to stabilize continuous and discrete errors from drifting and/or noisy secondary observables to achieve long term stable operation.",
+      "publicationNumber": "US20240370759",
+      "publicationDate": "2024-11-07",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Shantanu DEBNATH",
+        "Aleksey Blinov",
+        "Coleman Collins",
+        "Kevin Antony LANDSMAN",
+        "Jason Hieu Van NGUYEN",
+        "Hermann UYS",
+        "Kristin M. Beck",
+        "Peter Lukas Wilhelm Maunz",
+        "Matthew Keesan"
+      ],
+      "applicationDate": "2022-10-20",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 11.968505
+    },
+    {
+      "id": "US-20240169241-A1",
+      "title": [
+        "Addition of Qubit States Using Entangled Quaternionic Roots of Single-Qubit Gates"
+      ],
+      "abstract": "Systems and methods are provided for performing addition of qubit states using entangled quaternionic roots of single qubit gates. A method includes identifying a single qubit gate in a quantum circuit of a quantum computer, wherein the quantum circuit includes two summand qubits entangled with a third qubit that stores a measurable non-linear sum of the two summand qubits. The method includes mapping the single qubit gate to a representative gate that is phase-equivalent to the single qubit gate, mapping the representative gate to a unit quaternion, calculating an nth root of the unit quaternion, and mapping the nth root of the unit quaternion to a unitary matrix that represents a fractional single qubit gate. The method includes configuring the quantum circuit to include at least one fractional single qubit gate representing the unitary matrix in place of the single qubit gate for performing the addition.",
+      "publicationNumber": "US20240169241",
+      "publicationDate": "2024-05-23",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Dominic Widdows",
+        "Andrii MAKSYMOV"
+      ],
+      "applicationDate": "2023-02-28",
+      "claimsCount": 18,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 11.968505
+    },
+    {
+      "id": "US-20230419147-A1",
+      "title": [
+        "ION CHAIN MOTIONAL MODE MEASUREMENT BY FAST SCAN WITH MAXIMUM WEIGHT MATCHING METHOD"
+      ],
+      "abstract": "A method of performing a computational process using a quantum computer includes measuring a coupling strength of each trapped ion in an ion chain and each motional mode of the ion chain, wherein the trapped ions comprises first trapped ions that are addressable by laser beams, and second trapped ions that are not addressable by laser beams, computing a first map of the first trapped ions to the motional modes, wherein the motional mode comprises first motional modes that are allocated by the first map and second motional modes that are unallocated by the first map, measuring frequencies of the first motional modes, computing a second map of the first trapped ions to the second motional modes, measuring frequencies of the second motional modes, and outputting the measured frequencies of the motional modes, to be used for computing a pulse to be applied to the ion chain.",
+      "publicationNumber": "US20230419147",
+      "publicationDate": "2023-12-28",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Ming Li",
+        "Omar SHEHAB",
+        "Yunseong NAM"
+      ],
+      "applicationDate": "2022-11-08",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 11.968505
+    },
+    {
+      "id": "US-20220120629-A1",
+      "title": [
+        "TECHNIQUES FOR MEASURING COLLISION RATE WITH SPATIAL FILTERING OF SCATTERED LIGHT"
+      ],
+      "abstract": "Aspects of the present disclosure describe techniques for measuring collision rate with spatial filtering of scattered light. For example, a method for characterizing vacuum in a chamber is described that includes generating, inside the chamber, a potential well having a single, shallow potential region within which an ion is trapped, the shallow potential region having a lowest potential of the potential well, optically monitoring the ion within the potential well, detecting, based on the optically monitoring, a movement of the ion away from the shallow potential region in response to a collision with a background gas, and determining a pressure inside the chamber based on a rate of detected movements of the ion.",
+      "publicationNumber": "US20220120629",
+      "publicationDate": "2022-04-21",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Neal Pisenti",
+        "Kenneth Wright",
+        "Jason Madjdi AMINI",
+        "Jwo-Sy Chen"
+      ],
+      "applicationDate": "2020-10-16",
+      "claimsCount": 29,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Computer technology",
+        "Measurement"
+      ],
+      "score": 11.968505
+    },
+    {
+      "id": "US-20200242207-A1",
+      "title": [
+        "TRACKING REFERENCES TO INFORMATION STORAGE RESOURCES IN A QUANTUM CIRCUIT"
+      ],
+      "abstract": "Technologies are described herein to track information storage resources in a quantum circuit during compile time or runtime of a program by which quantum algorithms are built.",
+      "publicationNumber": "US20200242207",
+      "publicationDate": "2020-07-30",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Omar SHEHAB",
+        "Andrew Ducore",
+        "Matthew Keesan"
+      ],
+      "applicationDate": "2019-01-24",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 11.968505
+    },
+    {
+      "id": "US-20250190834-A1",
+      "title": [
+        "SOLVING INEQUALITY CONSTRAINED OPTIMIZATION PROBLEM ON HYBRID QUANTUM-CLASSICAL COMPUTING SYSTEM"
+      ],
+      "abstract": "A method of performing computation in a hybrid quantum-classical computing system includes computing an approximate cost function of an optimization problem with variables constrained by an inequality, wherein the inequality constraint is included using a polynomial approximation of a Heaviside step function, mapping the approximate cost function of the optimization problem to a model Hamiltonian, setting a quantum processor in an initial state, executing one or more iterations, each iteration including applying a parametrized quantum circuit to the quantum processor based on a set of variational parameters and the model Hamiltonian, measuring an expectation value of the model Hamiltonian, and replacing the set of the variational parameters with another set of variational parameters, and outputting the set of the variational parameters after executing the one or more iterations.",
+      "publicationNumber": "US20250190834",
+      "publicationDate": "2025-06-12",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Ananth Prakash KAUSHIK"
+      ],
+      "applicationDate": "2024-01-25",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 11.794453
+    },
+    {
+      "id": "US-20250124322-A1",
+      "title": [
+        "SYSTEM AND METHOD FOR BACKGROUND-FREE QUBIT STATE MEASUREMENT"
+      ],
+      "abstract": "Aspects of the present disclosure relate generally to systems and methods for use in the implementation and/or operation of quantum information processing (QIP) systems, and more particularly, for background-free qubit measurement. In some aspects, a method includes controlling a photon source oriented to direct photons towards ion(s) in an ion trap to produce photons having a first wavelength for a first time period; stopping the photon source from producing photons having the first wavelength; activating a photon detector configured to detect photons having the first wavelength; controlling the photon source to produce photons having a second wavelength different than the first wavelength for a second time period; detecting photons having the first wavelength during the second time period; and determining, based on detection of photons having the first wavelength during the second time period, that at least one of the one or more ions is in a |1> state.",
+      "publicationNumber": "US20250124322",
+      "publicationDate": "2025-04-17",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Jeremy SAGE",
+        "Jonathan MIZRAHI"
+      ],
+      "applicationDate": "2024-10-04",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 11.794453
+    },
+    {
+      "id": "US-20250037896-A1",
+      "title": [
+        "SYSTEMS AND METHODS FOR MEMS-BASED SCALABLE LARGE FIELD-OF-VIEW PARALLEL QUANTUM GATE CONTROL SYSTEM"
+      ],
+      "abstract": "Aspects of the present disclosure relate generally to systems and methods for use in the implementation and/or operation of quantum information processing (QIP) systems, and more particularly, to various aspects of optical addressing systems configured to individually address multiple ions of a chain of ions trapped within an ion trap. In some aspects, the trapped ions have non-equidistant spacing.",
+      "publicationNumber": "US20250037896",
+      "publicationDate": "2025-01-30",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Joachim Welte",
+        "Kai Makoto Hudek"
+      ],
+      "applicationDate": "2024-07-26",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology",
+        "Engines, pumps, turbines",
+        "Micro-structural and nano-technology"
+      ],
+      "score": 11.794453
+    },
+    {
+      "id": "US-20240282475-A1",
+      "title": [
+        "SYSTEMS AND METHODS FOR BEAM SHAPING FOR LARGE ASPECT RATIO WITH A SINGLE CYLINDRICAL LENS"
+      ],
+      "abstract": "Aspects of the present disclosure relate generally to systems and methods for use in the implementation and/or operation of quantum information processing (QIP) systems, and more particularly, for beam shaping for large aspect ratios with a single cylindrical lens. In some aspects, a QIP system includes a laser source, a cylindrical lens, and an ion trap. The laser source produces a Gaussian laser beam. The cylindrical lens is aligned with at least a portion of the laser beam and shapes the laser beam into a beam having an anamorphic shape. The ion trap includes a plurality of trapped ions addressable by the beam. The cylindrical lens orients the beam relative to the ion trap such that a fast axis of the beam is aligned with an axis of the plurality of trapped ions, and a slow axis of the beam is traverse to the plurality of trapped ions.",
+      "publicationNumber": "US20240282475",
+      "publicationDate": "2024-08-22",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Joachim Welte"
+      ],
+      "applicationDate": "2024-02-15",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology",
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.794453
+    },
+    {
+      "id": "US-20230304927-A1",
+      "title": [
+        "FAST SINGLE-MODE SPECTROSCOPY"
+      ],
+      "abstract": "Aspects of the present disclosure relate generally to systems and methods for use in the implementation and/or operation of quantum information processing (QIP) systems, and more particularly, to a fast single-mode spectroscopy technique that may be used in trapped-ion QIP systems. A method is described that includes performing a first measurement scan (full scan) across all motional modes of an ion chain in a trap followed by a second measurement scan on a single motional mode of the motional modes (single-mode scan). The second measurement scan determines a frequency shift associated with the single motional mode, which is applied to adjust the frequencies of all the motional modes. An implementation of two-qubit gates for quantum computations is based on the adjusted frequencies. A quantum computer or QIP system is also described that is configured to implement and perform the method described above.",
+      "publicationNumber": "US20230304927",
+      "publicationDate": "2023-09-28",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Jason Hieu Van NGUYEN",
+        "Kevin Antony LANDSMAN",
+        "Hermann UYS",
+        "Shantanu DEBNATH",
+        "Peter Lukas Wilhelm Maunz"
+      ],
+      "applicationDate": "2022-12-28",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Computer technology",
+        "Measurement"
+      ],
+      "score": 11.794453
+    },
+    {
+      "id": "US-20200220546-A1",
+      "title": [
+        "FLEXIBLE TOUCH SENSORS AND METHODS FOR WIDE-FIELD IMAGING OF ATOM OR ION TRAP"
+      ],
+      "abstract": "The disclosure describes various aspects of different techniques for flexible touch sensors and method for wide-field imaging of an atom or ion trap. A touch sensor is described for controlling movement of a control element for use with the trap that includes an outer structure and an inner structure that holds the control element and moves within the outer structure. The trap is inside an ultra-high vacuum (UHV) environment and the outer and inner structures are outside the UHV environment and separated by a UHV window. The control element or elements are brought into proximity of the UHV window in connection with controlling targets at the trap. The inner structure can stop moving within the outer structure to avoid damaging of the UHV window with the control element(s) in response to the inner structure being in physical contact with or within a set proximity of the outer structure.",
+      "publicationNumber": "US20200220546",
+      "publicationDate": "2020-07-09",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Jaime David Wong-Campos",
+        "Phillip Douglas SOLOMON",
+        "Jason Madjdi AMINI",
+        "Kai HUDEK"
+      ],
+      "applicationDate": "2019-12-30",
+      "claimsCount": 32,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Basic communication processes",
+        "Computer technology"
+      ],
+      "score": 11.794453
+    },
+    {
+      "id": "US-20190214949-A1",
+      "title": [
+        "TUNABLE, MECHANICALLY STABLE RADIO-FREQUENCY AMPLIFIER"
+      ],
+      "abstract": "The disclosure describes various aspects of a tunable, mechanically stable radio-frequency (RF) amplifier. More specifically, the disclosure describes an RF amplifier designed to be tunable and mechanically stable to match and maintain stable driving of an ion trap for quantum processing applications. A precision actuator is used to finely tune the RF amplifier input in a repeatable and mechanically stable way to match the ion trap resonance. Low-loss tangent materials and torch annealing techniques are used to make the amplifier section mechanically stable.",
+      "publicationNumber": "US20190214949",
+      "publicationDate": "2019-07-11",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Kai HUDEK"
+      ],
+      "applicationDate": "2019-01-08",
+      "claimsCount": 28,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Basic communication processes",
+        "Computer technology"
+      ],
+      "score": 11.794453
+    },
+    {
+      "id": "US-20250201436-A1",
+      "title": [
+        "METHODS AND APPARATUSES FOR ALIGNMENT OF ION CHAIN TO DETECTOR ARRAY BY SHELVING"
+      ],
+      "abstract": "Aspects of the present disclosure may include methods and systems for applying a first plurality of light beams to transition the plurality of ions to a bright state, detecting first positions of the plurality of ions using the plurality of photodetectors, applying a second plurality of light beams to shelve a first subset of the plurality of ions to a metastable dark state, capturing at least one image of the plurality of ions after the applying of the second plurality of light beams, determining second positions of the plurality of ions based on the at least one image, and aligning a second subset of the plurality of ions to the plurality of photodetectors based on the second positions.",
+      "publicationNumber": "US20250201436",
+      "publicationDate": "2025-06-19",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Michael Lurie GOLDMAN"
+      ],
+      "applicationDate": "2024-12-18",
+      "claimsCount": 9,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology",
+        "Engines, pumps, turbines",
+        "Measurement"
+      ],
+      "score": 11.674984
+    },
+    {
+      "id": "US-20250166863-A1",
+      "title": [
+        "Methods and Apparatuses for Optical Stabilization of Stray Charge Environment"
+      ],
+      "abstract": "Aspects of the present disclosure may include a method and/or a system for selecting a wavelength for a saturation beam, selecting a first intensity for the saturation beam, emitting the saturation beam at the first intensity, at an angle with respect to a surface of an ion trap, toward the surface of the ion trap, wherein the ion trap includes a plurality of trapped ions associated with a quantum information processing (QIP) system, and performing a first computation based on the plurality of trapped ions during an emission of the saturation beam at the first intensity.",
+      "publicationNumber": "US20250166863",
+      "publicationDate": "2025-05-22",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Aaron Michael ROSS",
+        "Adam Daniel WEST",
+        "Jonathan Albert MIZRAHI",
+        "Kevin Anthony LANDSMAN",
+        "Michael Lurie GOLDMAN"
+      ],
+      "applicationDate": "2024-02-08",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology",
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.674984
+    },
+    {
+      "id": "US-20240095570-A1",
+      "title": [
+        "SYSTEM AND METHOD FOR QUANTUM CIRCUIT DESIGN FOR COGNITIVE INTERFERENCE EFFECTS"
+      ],
+      "abstract": "A system and method is provided for designing and configuring a quantum circuit that models known \u201cinterference effects\u201d between mutually exclusive events whose outcome is not yet known. An exemplary method includes applying a laser to an ion trap to set a probability of a single event by rotating at least one qubit; configuring the quantum circuit to connect a plurality of events, such that an outcome of the single event dictates an output of a subsequent event to be more or less likely to occur; configuring the quantum circuit to entangle the respective plurality of events such that a plurality of states representing different potential events interfere with one another, including an interference between incompatible outcomes of at least two of the plurality of events; and configuring the quantum circuit to measures the respective outcomes to model a result when the quantum computer determines an outcome of an event, such that possible outcomes of other events are removed.",
+      "publicationNumber": "US20240095570",
+      "publicationDate": "2024-03-21",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Dominic Widdows",
+        "Jyoti RANI",
+        "Daiwei ZHU"
+      ],
+      "applicationDate": "2023-09-18",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 11.674984
+    },
+    {
+      "id": "US-20230213988-A1",
+      "title": [
+        "SIDE-BAND COOLING CONFIGURATION FOR TRAPPED IONS"
+      ],
+      "abstract": "A system and method is provided for use in the implementation and/or operation of quantum information processing (QIP) systems, and more particularly, to design or configure an optimal side-band cooling operation for trapped ions. A method is described that involves applying a first cooling operation on the trapped ion chain and subsequently applying a second cooling operation on the trapped ion chain that includes applying to each cooling ion in the trapped ion chain, as part of a side-band cooling pulse sequence, at least one analysis pulse followed by a corresponding batch with one or more side-band cooling pulses, wherein each analysis pulse is configured to determine a detuning and pulse duration of the one or more side-band cooling pulses of the corresponding batch. A quantum computer or QIP system is also described that enables the operation of the method described above.",
+      "publicationNumber": "US20230213988",
+      "publicationDate": "2023-07-06",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Shantanu DEBNATH",
+        "Jason Hieu Van NGUYEN",
+        "Peter Lukas Wilhelm Maunz",
+        "Kevin Antony LANDSMAN",
+        "Hermann UYS"
+      ],
+      "applicationDate": "2022-12-29",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Computer technology",
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.674984
+    },
+    {
+      "id": "US-20230039901-A1",
+      "title": [
+        "MICROMOTION AND STRAY FIELD COMPENSATION OF A TRAPPED ION CHAIN"
+      ],
+      "abstract": "Techniques to address the problem of having micromotion and stray fields affect trapped ions and the operation of QIP systems based on trapped ions are described. For example, one technique or approach may involve collecting scattered photons off the ions using a resonant or near-resonant oscillating electric field (e.g., a laser beam or a microwave source) with some projection in the axis or direction of micromotion that one wishes to reduce. Another technique or approach may include raising and lowering the trapping potentials to see how the ion position changes. The information collected from these techniques may be used to provide appropriate adjustments. Accordingly, the present disclosure describes methods, scripts, or techniques that minimize the effects of micromotion.",
+      "publicationNumber": "US20230039901",
+      "publicationDate": "2023-02-09",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Kevin Antony LANDSMAN",
+        "Aleksey Blinov",
+        "Shantanu DEBNATH",
+        "Vandiver Chaplin",
+        "Kristin Marie BECK",
+        "Andrew Maps DUCORE",
+        "Melissa Jameson",
+        "Jason Hieu Van NGUYEN",
+        "Felix Tripier"
+      ],
+      "applicationDate": "2022-08-03",
+      "claimsCount": 20,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 11.674984
+    },
+    {
+      "id": "US-20210056455-A1",
+      "title": [
+        "QUANTUM APPROXIMATE CHAOS OPTIMIZATION FOR USE IN A HYBRID COMPUTING SYSTEM"
+      ],
+      "abstract": "Embodiments described herein are generally related to a method and a system for performing a computation using a hybrid quantum-classical computing system, and, more specifically, to providing an approximate solution to a combinatorial optimization problem using a hybrid quantum-classical computing system that includes a group of trapped ions. A hybrid quantum-classical computing system that is able to provide a solution to a combinatorial optimization problem may include a classical computer, a system controller, and a quantum processor. The methods and systems described herein include an efficient method for an optimization routine executed by the classical computer in solving a problem in a hybrid quantum-classical computing system, which can provide improvement over the conventional method for an optimization by conventional stochastic optimization methods.",
+      "publicationNumber": "US20210056455",
+      "publicationDate": "2021-02-25",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Omar SHEHAB"
+      ],
+      "applicationDate": "2020-08-13",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 11.674984
+    },
+    {
+      "id": "US-20210013020-A1",
+      "title": [
+        "OPTICAL ALIGNMENT USING REFLECTIVE DOVE PRISMS"
+      ],
+      "abstract": "Aspects of the present disclosure describe techniques for optical alignment using a reflective dove prism. For example, a system for optical alignment is described that includes an assembly having a housing with three separate, reflecting structures positioned to produce three reflections of one or more laser beams or one or more images, and a controller configured to control a rotation of the assembly about a pivot point to produce a tilt in orientation of the one or more lasers beams or the one or more images that is twice an angle of rotation of the assembly. Another system and a method for aligning laser beams using a housing with three separate, reflecting structures in a trapped ion quantum information processing (QIP) system are also described.",
+      "publicationNumber": "US20210013020",
+      "publicationDate": "2021-01-14",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Jaime David Wong-Campos",
+        "Kai HUDEK",
+        "Shantanu DEBNATH"
+      ],
+      "applicationDate": "2020-06-16",
+      "claimsCount": 21,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology",
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 11.674984
+    },
+    {
+      "id": "EP-4672095-A1",
+      "title": [
+        "LOW-COST NOISE REDUCTION IN CLIFFORD CIRCUITS"
+      ],
+      "abstract": "A method of implementing an n-qubit Clifford unitary on a quantum processor comprising a first block of n qubits, a second block of n qubits, a third block of n qubits, and an ancilla qubit includes preparing n Bell states each on a pair of a qubit in the second block and a qubit in the third block, applying an n-qubit Clifford circuit that corresponds to the n-qubit Clifford unitary, to the third block, measuring one or more stabilizers supported on the second block and the third block, applying controlled-NOT gates each on a pair of a qubit in the first block and a qubit in the second block, applying a Hadamard gate on each qubit in the first block, measuring the first block and the second block, and applying an n-qubit Pauli operator to the third block based on the measurement of the first block and the second block.",
+      "publicationNumber": "EP4672095",
+      "publicationDate": "2025-12-31",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Nicolas Guillaume DELFOSSE",
+        "Edwin THAM",
+        "Aharon BRODUTCH",
+        "Gregory BAIMETOV"
+      ],
+      "applicationDate": "2025-06-26",
+      "claimsCount": 15,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 11.674984
+    },
+    {
+      "id": "WO-2023205218-A1",
+      "title": [
+        "MULTI-LAYER ION TRAP ON SHAPED GLASS OR DIELECTRIC SUBSTRATE"
+      ],
+      "abstract": "Aspects of the present disclosure describe devices trapping devices for use in quantum information processing (QIP) architectures, and more particularly, to the use and fabrication of a multi-layer ion trap on shaped glass or dielectric substrate (100). A method for fabricating the ion trap is described that includes preparing a back surface of the substrate, building a multi-layer stack on the top surface of the substrate, and completing the back etch to break through the substrate and etching through a metal (140) and dielectric (150) in the multi-layer stack to complete the formation of the ion trap. Shaping of the ion trap may also include trap narrowing features, wings, and/or undercutting. An ion trap fabricated using this approach may be used in a QIP system to trap atomic species provided through a hole in the back of the substrate for use as qubits in quantum operations and computations.",
+      "publicationNumber": "WO2023205218",
+      "publicationDate": "2023-10-26",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Jason Madjdi AMINI",
+        "Jonathan Albert MIZRAHI",
+        "JEREMY MATTHEW SAGE",
+        "James Walker STEERE"
+      ],
+      "applicationDate": "2023-04-19",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology",
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.587947
+    },
+    {
+      "id": "US-20250061362-A1",
+      "title": [
+        "METHOD AND SYSTEM FOR M\u00d8LMER-S\u00d8RENSEN GATE TOMOGRAPHY PROTOCOL"
+      ],
+      "abstract": "Aspects of the present disclosure relate generally to systems and methods for use in the implementation and/or operation of quantum information processing (QIP) systems, and more particularly, to the use of quantum process imperfection feedback for quantum process estimation in quantum elements and/or quantum computations in QIP systems.",
+      "publicationNumber": "US20250061362",
+      "publicationDate": "2025-02-20",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Erik Nielsen"
+      ],
+      "applicationDate": "2024-08-13",
+      "claimsCount": 25,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 11.587947
+    },
+    {
+      "id": "US-20250053062-A1",
+      "title": [
+        "METHODS AND APPARATUSES FOR ACOUSTO-OPTIC DEVICE BEAM DISPLACEMENT AND ANGLE COMPENSATION"
+      ],
+      "abstract": "Aspects of the present disclosure may include a method and/or a system for providing an acousto-optic deflector (AOD), emitting, toward a first deflector plate, a source beam, deflect the source beam, via the first deflector plate, to generate a deflected source beam toward the AOD, diffract, via the AOD, the deflected source beam to generate at least one diffracted beam, toward a second deflector plate, and deflect the at least one diffracted beam, via the second deflector plate, to generate a deflected diffraction light, wherein the source beam and the deflected diffraction light are collinear or substantially collinear.",
+      "publicationNumber": "US20250053062",
+      "publicationDate": "2025-02-13",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Joachim Welte",
+        "Kai Makoto Hudek",
+        "Jessica Marie PEHR"
+      ],
+      "applicationDate": "2024-08-07",
+      "claimsCount": 18,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Optics"
+      ],
+      "score": 11.587947
+    },
+    {
+      "id": "US-20240344926-A1",
+      "title": [
+        "AUTOMATED TESTING OF OPTICAL ASSEMBLIES"
+      ],
+      "abstract": "The disclosure describes various aspects of different for automated testing of optical assemblies. A system is described that includes an arm (e.g., a motorized arm) configured to be positioned over an optical assembly having a base plate with multiple optical elements that form one or more optical beam paths. The system also includes at least one optical tool that is configured to be removably attached to the arm and has a measurement instrument to perform a specified test on at least one of the optical beam paths. The arm is configured to adjust its position over the optical assembly to move the optical tool to the correct place to perform the specified test. The system may also include an optical tool changer configured to hold the optical tool in a tool holder when not attached to the arm and to hold additional optical tools in respective tool holders.",
+      "publicationNumber": "US20240344926",
+      "publicationDate": "2024-10-17",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Jonathan Albert MIZRAHI",
+        "Kai HUDEK"
+      ],
+      "applicationDate": "2024-04-08",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Measurement"
+      ],
+      "score": 11.587947
+    },
+    {
+      "id": "US-20240249040-A1",
+      "title": [
+        "OPTIMAL FAULT-TOLERANT IMPLEMENTATIONS OF HEISENBERG INTERACTIONS AND CONTROLLED-Z^a GATES"
+      ],
+      "abstract": "The disclosure describes various aspects of techniques for optimal fault-tolerant implementations of controlled-Z\u03b1 gates and Heisenberg interactions. Improvements in the implementation of the controlled-Z\u03b1 gate can be made by using a clean ancilla and in-circuit measurement. Various examples are described that depend on whether the implementation is with or without measurement and feedforward. The implementation of the Heisenberg interaction can leverage the improved controlled-Z\u03b1 gate implementation. These implementations can cut down significantly the implementation costs associated with fault-tolerant quantum computing systems.",
+      "publicationNumber": "US20240249040",
+      "publicationDate": "2024-07-25",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Yunseong NAM",
+        "Dmitri MASLOV"
+      ],
+      "applicationDate": "2023-10-09",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 11.587947
+    },
+    {
+      "id": "US-20240159524-A1",
+      "title": [
+        "ACTIVE PIEZO STABILIZATION OF AN ION TRAP"
+      ],
+      "abstract": "Aspects of the present disclosure relate generally to systems and methods for use in the implementation and/or operation of quantum information processing (QIP) systems, and more particularly, to provide stabilization of a position of an ion trap via displacement of one or more piezoelectric elements.",
+      "publicationNumber": "US20240159524",
+      "publicationDate": "2024-05-16",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Kai Makoto Hudek",
+        "Jason Madjdi AMINI"
+      ],
+      "applicationDate": "2023-11-09",
+      "claimsCount": 22,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology",
+        "Measurement"
+      ],
+      "score": 11.587947
+    },
+    {
+      "id": "US-20240086754-A1",
+      "title": [
+        "VERTICAL DISPLACEMENT MEASUREMENT FOR CRYOGENIC INTERFEROMETRIC STABILIZATION"
+      ],
+      "abstract": "Aspects of the present disclosure relate generally to systems and methods for use in the implementation and/or operation of quantum information processing (QIP) systems, and more particularly, to the implementation and operation of vertical displacement measurement techniques for cryogenic interferometric stabilization in QIP systems.",
+      "publicationNumber": "US20240086754",
+      "publicationDate": "2024-03-14",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Sarah Margaret KREIKEMEIER"
+      ],
+      "applicationDate": "2022-12-22",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology",
+        "Mechanical elements"
+      ],
+      "score": 11.587947
+    },
+    {
+      "id": "US-20230343577-A1",
+      "title": [
+        "MULTI-LAYER ION TRAP ON SHAPED GLASS OR DIELECTRIC SUBSTRATE"
+      ],
+      "abstract": "Aspects of the present disclosure describe devices trapping devices for use in quantum information processing (QIP) architectures, and more particularly, to the use and fabrication of a multi-layer ion trap on shaped glass or dielectric substrate. A method for fabricating the ion trap is described that includes preparing a back surface of the substrate, building a multi-layer stack on the top surface of the substrate, and completing the back etch to break through the substrate and etching through a metal and dielectric in the multi-layer stack to complete the formation of the ion trap. Shaping of the ion trap may also include trap narrowing features, wings, and/or undercutting. An ion trap fabricated using this approach may be used in a QIP system to trap atomic species provided through a hole in the back of the substrate for use as qubits in quantum operations and computations.",
+      "publicationNumber": "US20230343577",
+      "publicationDate": "2023-10-26",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Jason Madjdi AMINI",
+        "Jonathan Albert MIZRAHI",
+        "Jeremy Matthew SAGE",
+        "James Walker STEERE"
+      ],
+      "applicationDate": "2023-04-18",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology",
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 11.587947
+    },
+    {
+      "id": "US-20220383173-A1",
+      "title": [
+        "PORT SERVER FOR HETEROGENEOUS HARDWARE"
+      ],
+      "abstract": "Systems and techniques are provided for a port server for heterogeneous hardware. A port server may include computing devices that may include multiple connection types. Storage devices may be connected to the computing devices. The computing devices may receive a communication from an external computing device intended for a hardware device of a heterogenous system over one of the connection types. The communication may be sent to the hardware device of the heterogenous system using one of the connection types. A response may be received from the hardware device of the heterogenous system over the connection type used to send the communication to the hardware device. The response from the hardware device of the heterogenous system may be sent to the external computing device over the connection type over which the communication was received from the external computing device.",
+      "publicationNumber": "US20220383173",
+      "publicationDate": "2022-12-01",
+      "assignee": [
+        "IonQ Inc."
+      ],
+      "inventors": [
+        "Stewart Allen",
+        "Aleksey Blinov",
+        "Felix Tripier"
+      ],
+      "applicationDate": "2021-05-28",
+      "claimsCount": 24,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Computer technology",
+        "Digital communication",
+        "Micro-structural and nano-technology"
+      ],
+      "score": 11.587947
+    },
+    {
+      "id": "US-20200214157-A1",
+      "title": [
+        "TECHNIQUES FOR MAKING HERMETIC FEEDTHROUGHS FOR ENCLOSURES"
+      ],
+      "abstract": "The disclosure describes various aspects of techniques that can be used for making hermetic feedthroughs for enclosures. For example, a panel that provides a hermetic seal to a system enclosure can include an enclosure board made of a printed circuit board (PCB) and configured to have a size and shape that precisely covers an access to the system enclosure, the enclosure board including multiple inner connectors on an inner side of the PCB facing the inside of the system enclosure and multiple outer connectors on an outer side of the PCB facing the outside the system enclosure for feeding one or more of signals or fluids (e.g., gases, liquids, vacuum) through the PCB by having inner and outer connectors connected through the PCB. The panel may further include a gasket fitting the size and shape of the enclosure board and used with the enclosure board to provide the hermetic seal.",
+      "publicationNumber": "US20200214157",
+      "publicationDate": "2020-07-02",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Phillip SOLOMON",
+        "Kai HUDEK",
+        "Jason Madjdi AMINI"
+      ],
+      "applicationDate": "2019-12-09",
+      "claimsCount": 27,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Audio-visual technology",
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 11.587947
+    },
+    {
+      "id": "US-20200209105-A1",
+      "title": [
+        "AUTOMATED TESTING OF OPTICAL ASSEMBLIES"
+      ],
+      "abstract": "The disclosure describes various aspects of different for automated testing of optical assemblies. A system is described that includes an arm (e.g., a motorized arm) configured to be positioned over an optical assembly having a base plate with multiple optical elements that form one or more optical beam paths. The system also includes at least one optical tool that is configured to be removably attached to the arm and has a measurement instrument to perform a specified test on at least one of the optical beam paths. The arm is configured to adjust its position over the optical assembly to move the optical tool to the correct place to perform the specified test. The system may also include an optical tool changer configured to hold the optical tool in a tool holder when not attached to the arm and to hold additional optical tools in respective tool holders.",
+      "publicationNumber": "US20200209105",
+      "publicationDate": "2020-07-02",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Jonathan Albert MIZRAHI",
+        "Kai HUDEK"
+      ],
+      "applicationDate": "2019-12-23",
+      "claimsCount": 31,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Measurement"
+      ],
+      "score": 11.587947
+    },
+    {
+      "id": "US-20190340532-A1",
+      "title": [
+        "QUANTUM COMPUTER SIMULATOR CHARACTERIZATION"
+      ],
+      "abstract": "The disclosure describes various aspects of quantum computer simulators. In an aspect, a method for characterizing a quantum computer simulator includes identifying simulator processes supported by the quantum computer simulator, generating, for each simulator process, characteristic curves for different gates or quantum operations, the characteristic curves including information for predicting the time it takes to simulate each of the gates or quantum operations in a respective simulator process, and providing the characteristic curves to select one of the simulator processes to simulate a circuit, quantum program, or quantum algorithm that uses at least some of the gates or quantum operations. In another aspect, a method for optimizing simulations in a quantum computer simulator is described where a simulator process is selected for simulation of a circuit, quantum program, or quantum algorithm based on characteristic curves that predict a time it takes for the simulation to be carried out.",
+      "publicationNumber": "US20190340532",
+      "publicationDate": "2019-11-07",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Andrew Maps DUCORE",
+        "Yuensong NAM",
+        "Omar SHEHAB",
+        "Matthew Joseph KEESAN",
+        "Stewart O. Allen"
+      ],
+      "applicationDate": "2019-05-02",
+      "claimsCount": 30,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 11.587947
+    },
+    {
+      "id": "US-20190258757-A1",
+      "title": [
+        "OPTIMAL FAULT-TOLERANT IMPLEMENTATIONS OF HEISENBERG INTERACTIONS AND CONTROLLED-Z\u00aa GATES"
+      ],
+      "abstract": "The disclosure describes various aspects of techniques for optimal fault-tolerant implementations of controlled-Za gates and Heisenberg interactions. Improvements in the implementation of the controlled-Za gate can be made by using a clean ancilla and in-circuit measurement. Various examples are described that depend on whether the implementation is with or without measurement and feedforward. The implementation of the Heisenberg interaction can leverage the improved controlled-Za gate implementation. These implementations can cut down significantly the implementation costs associated with fault-tolerant quantum computing systems.",
+      "publicationNumber": "US20190258757",
+      "publicationDate": "2019-08-22",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Yunseong NAM",
+        "Dmitri MASLOV"
+      ],
+      "applicationDate": "2019-02-13",
+      "claimsCount": 33,
+      "independentClaimsCount": 11,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 11.587947
+    },
+    {
+      "id": "EP-4511851-A1",
+      "title": [
+        "MULTI-LAYER ION TRAP ON SHAPED GLASS OR DIELECTRIC SUBSTRATE"
+      ],
+      "abstract": "Aspects of the present disclosure describe devices trapping devices for use in quantum information processing (QIP) architectures, and more particularly, to the use and fabrication of a multi-layer ion trap on shaped glass or dielectric substrate (100). A method for fabricating the ion trap is described that includes preparing a back surface of the substrate, building a multi-layer stack on the top surface of the substrate, and completing the back etch to break through the substrate and etching through a metal (140) and dielectric (150) in the multi-layer stack to complete the formation of the ion trap. Shaping of the ion trap may also include trap narrowing features, wings, and/or undercutting. An ion trap fabricated using this approach may be used in a QIP system to trap atomic species provided through a hole in the back of the substrate for use as qubits in quantum operations and computations.",
+      "publicationNumber": "EP4511851",
+      "publicationDate": "2025-02-26",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Jason Madjdi AMINI",
+        "Jonathan Albert MIZRAHI",
+        "JEREMY MATTHEW SAGE",
+        "James Walker STEERE"
+      ],
+      "applicationDate": "2023-04-19",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology",
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.587947
+    },
+    {
+      "id": "US-20220137390-A1",
+      "title": [
+        "OPTICAL BEAM ANGLE AND POSITION CONTROL SYSTEM"
+      ],
+      "abstract": "Aspects of the present disclosure describe techniques for independently controlling an angle (e.g., change in tilt) and/or position (e.g., change in lateral position) of an optical beam. For example, an optical beam control system may include a telescope with rotatable mirrors and lenses configured to provide a path to an optical beam to produce an output optical beam, which in turn is made into parallel optical beams following a diffractive optical element. The optical beam control system may also include a detector system to a beam angle and/or a beam position of one of the parallel optical beams to generate feedback signal or signals to control a rotation of one or more of the mirrors in the telescope such as to adjust the beam angle, the beam position, or both of the parallel optical beams. The optical beam control system may be part of a quantum information processing (QIP) system.",
+      "publicationNumber": "US20220137390",
+      "publicationDate": "2022-05-05",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Jungsang Kim",
+        "Kai HUDEK",
+        "Jaime David Wong-Campos"
+      ],
+      "applicationDate": "2021-07-13",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology",
+        "Optics"
+      ],
+      "score": 11.246446
+    },
+    {
+      "id": "WO-2020237056-A1",
+      "title": [
+        "AMPLITUDE, FREQUENCY, AND PHASE MODULATED SIMULTANEOUS ENTANGLING GATES FOR TRAPPED-ION QUANTUM COMPUTERS"
+      ],
+      "abstract": "A method of performing a computation using a quantum computer includes generating a plurality of laser pulses used to be individually applied to each of a plurality of trapped ions that are aligned in a first direction, each of the trapped ions having two frequency-separated states defining a qubit, and applying the generated plurality of laser pulses to the plurality of trapped ions to perform simultaneous pair-wise entangling gate operations on the plurality of trapped ions. Generating the plurality of laser pulses includes adjusting an amplitude value and a detuning frequency value of each of the plurality of laser pulses based on values of pair-wise entanglement interaction in the plurality of trapped ions that is to be caused by the plurality of laser pulses.",
+      "publicationNumber": "WO2020237056",
+      "publicationDate": "2020-11-26",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Yunseong Nam",
+        "Reinhold BLUMEL",
+        "Nikodem GRZESIAK"
+      ],
+      "applicationDate": "2020-05-21",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 11.2178
+    },
+    {
+      "id": "WO-2020237054-A1",
+      "title": [
+        "STABILIZATION OF ENTANGLING GATES FOR TRAPPED-ION QUANTUM COMPUTERS"
+      ],
+      "abstract": "A method of performing a computation using a quantum computer includes generating a first laser pulse and a second laser pulse to cause entanglement interaction between a first trapped ion and a second trapped ion of a plurality of trapped ions that are aligned in a first direction, each of the plurality of trapped ions having two frequency- separated states defining a qubit, and applying the generated first laser pulse to the first trapped ion and the generated second laser pulse to the second trapped ion. Generating the first laser pulse and the second laser pulse includes stabilizing the entanglement interaction between the first and second trapped ions against fluctuations in frequencies of collective motional modes of the plurality of trapped ions in a second direction that is perpendicular to the first direction.",
+      "publicationNumber": "WO2020237054",
+      "publicationDate": "2020-11-26",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Yunseong Nam",
+        "Reinhold BLUMEL",
+        "Nikodem GRZESIAK"
+      ],
+      "applicationDate": "2020-05-21",
+      "claimsCount": 25,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 11.2178
+    },
+    {
+      "id": "WO-2020236231-A1",
+      "title": [
+        "SIMULTANEOUSLY ENTANGLING GATES FOR TRAPPED-ION QUANTUM COMPUTERS"
+      ],
+      "abstract": "A method of performing simultaneous entangling gate operations in a trapped-ion quantum computer includes selecting a gate duration value and a detuning frequency of pulses to be individually applied to a plurality of participating ions in a chain of trapped ions to simultaneously entangle a plurality of pairs of ions among the plurality of participating ions by one or more predetermined values of entanglement interaction, determining amplitudes of the pulses, based on the selected gate duration value, the selected detuning frequency, and the frequencies of the motional modes of the chain of trapped ions, generating the pulses having the determined amplitudes, and applying the generated pulses to the plurality of participating ions for the selected gate duration value. Each of the trapped ions in the chain has two frequency-separated states defining a qubit, and motional modes of the chain of trapped ions each have a distinct frequency.",
+      "publicationNumber": "WO2020236231",
+      "publicationDate": "2020-11-26",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Yunseong Nam",
+        "Reinhold BLUMEL",
+        "Nikodem GRZESIAK"
+      ],
+      "applicationDate": "2020-01-27",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 11.2178
+    },
+    {
+      "id": "WO-2020236230-A1",
+      "title": [
+        "AMPLITUDE, FREQUENCY, AND PHASE MODULATED ENTANGLING GATES FOR TRAPPED-ION QUANTUM COMPUTERS"
+      ],
+      "abstract": "A method of performing an entangling operation between two trapped ions in a quantum computer includes selecting a gate duration value of a pulse to be applied to a first ion and a second ion in a chain of trapped ions, determining one or more tones of the pulse, each tone comprising an amplitude value and a detuning frequency value, based on the selected gate duration value and frequencies of the motional modes of the chain of trapped ions, generating the pulse having the one or more tones, each tone comprising the determined amplitude and the determined detuning frequency values, and applying the generated pulse to the first and second ions for the gate duration value. Each of the trapped ions has two frequency-separated states defining a qubit, and motional modes of the chain of trapped ions each have a distinct frequency.",
+      "publicationNumber": "WO2020236230",
+      "publicationDate": "2020-11-26",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Yunseong Nam",
+        "Reinhold BLUMEL",
+        "Nikodem GRZESIAK"
+      ],
+      "applicationDate": "2020-01-27",
+      "claimsCount": 40,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 11.2178
+    },
+    {
+      "id": "US-20250363405-A1",
+      "title": [
+        "SWAPPING QUANTUM INFORMATION BETWEEN MIXED SPECIES OR ISOTOPES ION PAIRS USING NON-ADIABATIC GATES"
+      ],
+      "abstract": "Aspects of the present disclosure relate generally to systems and methods for interconnecting mixed species qubit entanglements with non-adiabatic gates. The method includes entangling at least a pair of interconnect qubits using photonic interconnects via a reconfigurable photonic entangler configured to entangle a pair of communication qubits from QPUs such that photons entangled with interconnect qubit states are collected in optical fibers. Each QPU includes non-interconnect qubits, an interconnect qubit coupled to the reconfigurable photonic entangler with an optical fiber, and a non-adiabatic gate coupling the interconnect qubit to the plurality of non-interconnect qubits. The method includes transferring information from the pair of entangled interconnect qubits to a respective non-communication qubit using the non-adiabatic gate. The method includes executing at least one quantum computation on at least one of the plurality of QPUs using a non-interconnect qubit as a resource for at least one gate between the plurality of QPUs.",
+      "publicationNumber": "US20250363405",
+      "publicationDate": "2025-11-27",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Cesar Ricardo Viteri",
+        "Alexander Kevin Ratcliffe",
+        "Isam Daniel Moore",
+        "Ezad Shojaee"
+      ],
+      "applicationDate": "2025-05-21",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Computer technology",
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.2178
+    },
+    {
+      "id": "US-20250151637-A1",
+      "title": [
+        "METHODS AND APPARATUSES FOR DIRECT D-STATE EXCITATION SCHEME FOR INDIVIDUAL PHOTON EXTRACTION"
+      ],
+      "abstract": "Aspects of the present disclosure may include methods and systems for applying a first light to transition at least one trapped ion of a first quantum processing unit from a ground state to an intermediate state via a narrow quadrupole transition, applying a second light to transition the at least one trapped ion from the intermediate state to an excited state, and directing at least one photon, emitted from the trapped ion relaxing from the excited state back to the ground state, toward a second quantum processing unit to entangle the first quantum processing unit and the second quantum processing unit.",
+      "publicationNumber": "US20250151637",
+      "publicationDate": "2025-05-08",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "James David SIVERNS",
+        "Ryan Steven Bowler"
+      ],
+      "applicationDate": "2024-11-05",
+      "claimsCount": 12,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Semiconductors"
+      ],
+      "score": 11.2178
+    },
+    {
+      "id": "US-20240160031-A1",
+      "title": [
+        "PIEZO-BASED BEAM STABILIZATION FOR CRYOGENIC ENVIRONMENTS"
+      ],
+      "abstract": "Aspects of the present disclosure relate generally to systems and methods for use in the implementation and/or operation of quantum information processing (QIP) systems, and more particularly, to various aspects of methods and systems for piezoelectric-based (or piezo-based) beam stabilization for cryogenic environments used in QIP systems.",
+      "publicationNumber": "US20240160031",
+      "publicationDate": "2024-05-16",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Sarah Margaret KREIKEMEIER",
+        "Kai Makoto Hudek"
+      ],
+      "applicationDate": "2023-02-03",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Optics"
+      ],
+      "score": 11.2178
+    },
+    {
+      "id": "US-20230129122-A1",
+      "title": [
+        "REMOVING A TRANSLATION ERROR BETWEEN A PROGRAMMED STRENGTH AND AN APPLIED STRENGTH OF QUANTUM GATES"
+      ],
+      "abstract": "Aspects of the present disclosure relate generally to systems and methods for use in the implementation and/or operation of quantum information processing (QIP) systems, and more particularly, to techniques for removing or correcting for translation errors between a programmed strength and an applied strength of quantum gates. A method is described that includes determining, for each quantum gate in a quantum operation, a non-linearity between an applied strength of a laser beam used for the respective quantum gate and a programmed strength intended to be applied by the laser beam for the respective quantum gate. The method further includes linearizing the non-linearity for each quantum gate and storing linearization information in memory. Moreover, the method includes applying the linearization information to correct for the non-linearity when implementing each quantum gate as part of the quantum operation. A system is also described that is configured to implement the method described above.",
+      "publicationNumber": "US20230129122",
+      "publicationDate": "2023-04-27",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Shantanu DEBNATH",
+        "Vandiver Chaplin",
+        "Kristin M. Beck",
+        "Melissa Jameson",
+        "Jason Hieu Van NGUYEN"
+      ],
+      "applicationDate": "2022-10-20",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Basic communication processes",
+        "Computer technology"
+      ],
+      "score": 11.2178
+    },
+    {
+      "id": "US-20230029117-A1",
+      "title": [
+        "STABILIZATION OF ENTANGLING GATES FOR TRAPPED-ION QUANTUM COMPUTERS"
+      ],
+      "abstract": "A method of performing a computation using a quantum computer includes generating a first laser pulse and a second laser pulse to cause entanglement interaction between a first trapped ion and a second trapped ion of a plurality of trapped ions that are aligned in a first direction, each of the plurality of trapped ions having two frequency- separated states defining a qubit, and applying the generated first laser pulse to the first trapped ion and the generated second laser pulse to the second trapped ion. Generating the first laser pulse and the second laser pulse includes stabilizing the entanglement interaction between the first and second trapped ions against fluctuations in frequencies of collective motional modes of the plurality of trapped ions in a second direction that is perpendicular to the first direction.",
+      "publicationNumber": "US20230029117",
+      "publicationDate": "2023-01-26",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Yunseong NAM",
+        "Reinhold BLUMEL",
+        "Nikodem GRZESIAK"
+      ],
+      "applicationDate": "2022-09-15",
+      "claimsCount": 17,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Computer technology",
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Micro-structural and nano-technology",
+        "Optics",
+        "Telecommunications"
+      ],
+      "score": 11.2178
+    },
+    {
+      "id": "US-20220284335-A1",
+      "title": [
+        "AMPLITUDE, FREQUENCY, AND PHASE MODULATED SIMULTANEOUS ENTANGLING GATES FOR TRAPPED-ION QUANTUM COMPUTERS"
+      ],
+      "abstract": "A method of performing a computation using a quantum computer includes generating a plurality of laser pulses used to be individually applied to each of a plurality of trapped ions that are aligned in a first direction, each of the trapped ions having two frequency-separated states defining a qubit, and applying the generated plurality of laser pulses to the plurality of trapped ions to perform simultaneous pair-wise entangling gate operations on the plurality of trapped ions. Generating the plurality of laser pulses includes adjusting an amplitude value and a detuning frequency value of each of the plurality of laser pulses based on values of pair-wise entanglement interaction in the plurality of trapped ions that is to be caused by the plurality of laser pulses.",
+      "publicationNumber": "US20220284335",
+      "publicationDate": "2022-09-08",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Yunseong NAM",
+        "Reinhold BLUMEL",
+        "Nikodem GRZESIAK"
+      ],
+      "applicationDate": "2022-05-17",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology",
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Micro-structural and nano-technology",
+        "Optics",
+        "Telecommunications"
+      ],
+      "score": 11.2178
+    },
+    {
+      "id": "US-20220284334-A1",
+      "title": [
+        "SIMULTANEOUSLY ENTANGLING GATES FOR TRAPPED-ION QUANTUM COMPUTERS"
+      ],
+      "abstract": "A method of performing simultaneous entangling gate operations in a trapped-ion quantum computer includes selecting a gate duration value and a detuning frequency of pulses to be individually applied to a plurality of participating ions in a chain of trapped ions to simultaneously entangle a plurality of pairs of ions among the plurality of participating ions by one or more predetermined values of entanglement interaction, determining amplitudes of the pulses, based on the selected gate duration value, the selected detuning frequency, and the frequencies of the motional modes of the chain of trapped ions, generating the pulses having the determined amplitudes, and applying the generated pulses to the plurality of participating ions for the selected gate duration value. Each of the trapped ions in the chain has two frequency-separated states defining a qubit, and motional modes of the chain of trapped ions each have a distinct frequency.",
+      "publicationNumber": "US20220284334",
+      "publicationDate": "2022-09-08",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Yunseong NAM",
+        "Reinhold BLUMEL",
+        "Nikodem GRZESIAK"
+      ],
+      "applicationDate": "2022-05-17",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Computer technology",
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Micro-structural and nano-technology",
+        "Optics",
+        "Telecommunications"
+      ],
+      "score": 11.2178
+    },
+    {
+      "id": "US-20200372392-A1",
+      "title": [
+        "AMPLITUDE, FREQUENCY, AND PHASE MODULATED SIMULTANEOUS ENTANGLING GATES FOR TRAPPED-ION QUANTUM COMPUTERS"
+      ],
+      "abstract": "A method of performing a computation using a quantum computer includes generating a plurality of laser pulses used to be individually applied to each of a plurality of trapped ions that are aligned in a first direction, each of the trapped ions having two frequency-separated states defining a qubit, and applying the generated plurality of laser pulses to the plurality of trapped ions to perform simultaneous pair-wise entangling gate operations on the plurality of trapped ions. Generating the plurality of laser pulses includes adjusting an amplitude value and a detuning frequency value of each of the plurality of laser pulses based on values of pair-wise entanglement interaction in the plurality of trapped ions that is to be caused by the plurality of laser pulses.",
+      "publicationNumber": "US20200372392",
+      "publicationDate": "2020-11-26",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Yunseong NAM",
+        "Reinhold BLUMEL",
+        "Nikodem GRZESIAK"
+      ],
+      "applicationDate": "2020-04-21",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 11.2178
+    },
+    {
+      "id": "US-20200372391-A1",
+      "title": [
+        "STABILIZATION OF ENTANGLING GATES FOR TRAPPED-ION QUANTUM COMPUTERS"
+      ],
+      "abstract": "A method of performing a computation using a quantum computer includes generating a first laser pulse and a second laser pulse to cause entanglement interaction between a first trapped ion and a second trapped ion of a plurality of trapped ions that are aligned in a first direction, each of the plurality of trapped ions having two frequency-separated states defining a qubit, and applying the generated first laser pulse to the first trapped ion and the generated second laser pulse to the second trapped ion. Generating the first laser pulse and the second laser pulse includes stabilizing the entanglement interaction between the first and second trapped ions against fluctuations in frequencies of collective motional modes of the plurality of trapped ions in a second direction that is perpendicular to the first direction.",
+      "publicationNumber": "US20200372391",
+      "publicationDate": "2020-11-26",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Yunseong NAM",
+        "Reinhold BLUMEL",
+        "Nikodem GRZESIAK"
+      ],
+      "applicationDate": "2020-04-21",
+      "claimsCount": 25,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology",
+        "Engines, pumps, turbines",
+        "Optics"
+      ],
+      "score": 11.2178
+    },
+    {
+      "id": "US-20200372389-A1",
+      "title": [
+        "SIMULTANEOUSLY ENTANGLING GATES FOR TRAPPED-ION QUANTUM COMPUTERS"
+      ],
+      "abstract": "A method of performing simultaneous entangling gate operations in a trapped-ion quantum computer includes selecting a gate duration value and a detuning frequency of pulses to be individually applied to a plurality of participating ions in a chain of trapped ions to simultaneously entangle a plurality of pairs of ions among the plurality of participating ions by one or more predetermined values of entanglement interaction, determining amplitudes of the pulses, based on the selected gate duration value, the selected detuning frequency, and the frequencies of the motional modes of the chain of trapped ions, generating the pulses having the determined amplitudes, and applying the generated pulses to the plurality of participating ions for the selected gate duration value. Each of the trapped ions in the chain has two frequency-separated states defining a qubit, and motional modes of the chain of trapped ions each have a distinct frequency.",
+      "publicationNumber": "US20200372389",
+      "publicationDate": "2020-11-26",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Yunseong NAM",
+        "Reinhold BLUMEL",
+        "Nikodem GRZESIAK"
+      ],
+      "applicationDate": "2019-09-20",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 11.2178
+    },
+    {
+      "id": "US-20200369517-A1",
+      "title": [
+        "AMPLITUDE, FREQUENCY, AND PHASE MODULATED ENTANGLING GATES FOR TRAPPED-ION QUANTUM COMPUTERS"
+      ],
+      "abstract": "A method of performing an entangling operation between two trapped ions in a quantum computer includes selecting a gate duration value of a pulse to be applied to a first ion and a second ion in a chain of trapped ions, determining one or more tones of the pulse, each tone comprising an amplitude value and a detuning frequency value, based on the selected gate duration value and frequencies of the motional modes of the chain of trapped ions, generating the pulse having the one or more tones, each tone comprising the determined amplitude and the determined detuning frequency values, and applying the generated pulse to the first and second ions for the gate duration value. Each of the trapped ions has two frequency-separated states defining a qubit, and motional modes of the chain of trapped ions each have a distinct frequency.",
+      "publicationNumber": "US20200369517",
+      "publicationDate": "2020-11-26",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Yunseong NAM",
+        "Reinhold BLUMEL",
+        "Nikodem GRZESIAK"
+      ],
+      "applicationDate": "2019-09-20",
+      "claimsCount": 40,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Computer technology",
+        "Electrical machinery, apparatus, energy",
+        "Micro-structural and nano-technology",
+        "Telecommunications"
+      ],
+      "score": 11.2178
+    },
+    {
+      "id": "EP-4654091-A1",
+      "title": [
+        "SWAPPING QUANTUM INFORMATION BETWEEN MIXED SPECIES OR ISOTOPES ION PAIRS USING NON-ADIABATIC GATES"
+      ],
+      "abstract": "Aspects of the present disclosure relate to interconnecting mixed species qubit entanglements with non-adiabatic gates. Methods include entangling at least a pair of interconnect qubits using photonic interconnects via a reconfigurable photonic entangler configured to entangle a pair of communication qubits from a plurality of quantum processing units (QPUs) such that photons entangled with interconnect qubit states are collected in optical fibers. Each QPU includes non-interconnect qubits, an interconnect qubit coupled to the reconfigurable photonic entangler with an optical fiber, and a non-adiabatic gate coupling the interconnect qubit to the plurality of non-interconnect qubits. Methods also include transferring information from the pair of entangled interconnect qubits to a respective non-communication qubit using the non-adiabatic gate. Methods further include executing at least one quantum computation on at least one of the plurality of QPUs using a non-interconnect qubit as a resource for at least one gate between the plurality of QPUs.",
+      "publicationNumber": "EP4654091",
+      "publicationDate": "2025-11-26",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Cesar Ricardo VITERI",
+        "Alexander Kevin RATCLIFFE",
+        "Isam Daniel MOORE",
+        "Ezad SHOJAEE"
+      ],
+      "applicationDate": "2025-05-21",
+      "claimsCount": 15,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Computer technology",
+        "Telecommunications"
+      ],
+      "score": 11.2178
+    },
+    {
+      "id": "EP-3973475-A1",
+      "title": [
+        "AMPLITUDE, FREQUENCY, AND PHASE MODULATED SIMULTANEOUS ENTANGLING GATES FOR TRAPPED-ION QUANTUM COMPUTERS"
+      ],
+      "abstract": "A method of performing a computation using a quantum computer includes generating a plurality of laser pulses used to be individually applied to each of a plurality of trapped ions that are aligned in a first direction, each of the trapped ions having two frequency-separated states defining a qubit, and applying the generated plurality of laser pulses to the plurality of trapped ions to perform simultaneous pair-wise entangling gate operations on the plurality of trapped ions. Generating the plurality of laser pulses includes adjusting an amplitude value and a detuning frequency value of each of the plurality of laser pulses based on values of pair-wise entanglement interaction in the plurality of trapped ions that is to be caused by the plurality of laser pulses.",
+      "publicationNumber": "EP3973475",
+      "publicationDate": "2022-03-30",
+      "assignee": [
+        "Ionq Inc."
+      ],
+      "inventors": [
+        "Yunseong Nam",
+        "Reinhold BLUMEL",
+        "Nikodem GRZESIAK"
+      ],
+      "applicationDate": "2020-05-21",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 11.2178
+    },
+    {
+      "id": "EP-3973474-A1",
+      "title": [
+        "STABILIZATION OF ENTANGLING GATES FOR TRAPPED-ION QUANTUM COMPUTERS"
+      ],
+      "abstract": "A method of performing a computation using a quantum computer includes generating a first laser pulse and a second laser pulse to cause entanglement interaction between a first trapped ion and a second trapped ion of a plurality of trapped ions that are aligned in a first direction, each of the plurality of trapped ions having two frequency- separated states defining a qubit, and applying the generated first laser pulse to the first trapped ion and the generated second laser pulse to the second trapped ion. Generating the first laser pulse and the second laser pulse includes stabilizing the entanglement interaction between the first and second trapped ions against fluctuations in frequencies of collective motional modes of the plurality of trapped ions in a second direction that is perpendicular to the first direction.",
+      "publicationNumber": "EP3973474",
+      "publicationDate": "2022-03-30",
+      "assignee": [
+        "Ionq Inc."
+      ],
+      "inventors": [
+        "Yunseong Nam",
+        "Reinhold BLUMEL",
+        "Nikodem GRZESIAK"
+      ],
+      "applicationDate": "2020-05-21",
+      "claimsCount": 25,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 11.2178
+    },
+    {
+      "id": "EP-3973473-A1",
+      "title": [
+        "SIMULTANEOUSLY ENTANGLING GATES FOR TRAPPED-ION QUANTUM COMPUTERS"
+      ],
+      "abstract": "A method of performing simultaneous entangling gate operations in a trapped-ion quantum computer includes selecting a gate duration value and a detuning frequency of pulses to be individually applied to a plurality of participating ions in a chain of trapped ions to simultaneously entangle a plurality of pairs of ions among the plurality of participating ions by one or more predetermined values of entanglement interaction, determining amplitudes of the pulses, based on the selected gate duration value, the selected detuning frequency, and the frequencies of the motional modes of the chain of trapped ions, generating the pulses having the determined amplitudes, and applying the generated pulses to the plurality of participating ions for the selected gate duration value. Each of the trapped ions in the chain has two frequency-separated states defining a qubit, and motional modes of the chain of trapped ions each have a distinct frequency.",
+      "publicationNumber": "EP3973473",
+      "publicationDate": "2022-03-30",
+      "assignee": [
+        "Ionq Inc."
+      ],
+      "inventors": [
+        "Yunseong Nam",
+        "Reinhold BLUMEL",
+        "Nikodem GRZESIAK"
+      ],
+      "applicationDate": "2020-01-27",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 11.2178
+    },
+    {
+      "id": "EP-3973472-A1",
+      "title": [
+        "AMPLITUDE, FREQUENCY, AND PHASE MODULATED ENTANGLING GATES FOR TRAPPED-ION QUANTUM COMPUTERS"
+      ],
+      "abstract": "A method of performing an entangling operation between two trapped ions in a quantum computer includes selecting a gate duration value of a pulse to be applied to a first ion and a second ion in a chain of trapped ions, determining one or more tones of the pulse, each tone comprising an amplitude value and a detuning frequency value, based on the selected gate duration value and frequencies of the motional modes of the chain of trapped ions, generating the pulse having the one or more tones, each tone comprising the determined amplitude and the determined detuning frequency values, and applying the generated pulse to the first and second ions for the gate duration value. Each of the trapped ions has two frequency-separated states defining a qubit, and motional modes of the chain of trapped ions each have a distinct frequency.",
+      "publicationNumber": "EP3973472",
+      "publicationDate": "2022-03-30",
+      "assignee": [
+        "Ionq Inc."
+      ],
+      "inventors": [
+        "Yunseong Nam",
+        "Reinhold BLUMEL",
+        "Nikodem GRZESIAK"
+      ],
+      "applicationDate": "2020-01-27",
+      "claimsCount": 40,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 11.2178
+    },
+    {
+      "id": "WO-2020023477-A1",
+      "title": [
+        "LASER CAVITY REPETITION RATE TUNING AND HIGH-BANDWIDTH STABILIZATION"
+      ],
+      "abstract": "The disclosure describes aspects of laser cavity repetition rate tuning and high-bandwidth stabilization of pulsed lasers. In one aspect, an output optical coupler is described that includes a cavity output coupler mirror, a piezoelectric actuator coupled to the cavity output coupler mirror, a locking assembly within which the cavity output coupler mirror and the piezoelectric actuator are positioned, and one or more components coupled to the locking assembly. The components are configured to provide multiple positional degrees of freedom for tuning a frequency comb spectrum of the pulsed laser (e.g., tuning a repetition rate) by adjusting at least one position of the locking assembly with the cavity output coupler mirror. A method of adjusting an output optical coupler in a pulsed laser is also described. These techniques may be used in different applications, including quantum information processing.",
+      "publicationNumber": "WO2020023477",
+      "publicationDate": "2020-01-30",
+      "assignee": [
+        "UNIVERSITY OF MARYLAND, COLLEGE PARK"
+      ],
+      "inventors": [
+        "CHRISTOPHER MONROE",
+        "KAI HUDEK",
+        "Jonathan MIZRAHI",
+        "Marko CETINA",
+        "Sarah Margaret KREIKEMEIER",
+        "MICHAEL GOLDMAN",
+        "KRISTEN BECK"
+      ],
+      "applicationDate": "2019-07-23",
+      "claimsCount": 34,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Optics"
+      ],
+      "score": 11.214198
+    },
+    {
+      "id": "US-20200028312-A1",
+      "title": [
+        "LASER CAVITY REPETITION RATE TUNING AND HIGH-BANDWIDTH STABILIZATION"
+      ],
+      "abstract": "The disclosure describes aspects of laser cavity repetition rate tuning and high-bandwidth stabilization of pulsed lasers. In one aspect, an output optical coupler is described that includes a cavity output coupler mirror, a piezoelectric actuator coupled to the cavity output coupler mirror, a locking assembly within which the cavity output coupler mirror and the piezoelectric actuator are positioned, and one or more components coupled to the locking assembly. The components are configured to provide multiple positional degrees of freedom for tuning a frequency comb spectrum of the pulsed laser (e.g., tuning a repetition rate) by adjusting at least one position of the locking assembly with the cavity output coupler mirror. A method of adjusting an output optical coupler in a pulsed laser is also described. These techniques may be used in different applications, including quantum information processing.",
+      "publicationNumber": "US20200028312",
+      "publicationDate": "2020-01-23",
+      "assignee": [
+        "UNIVERSITY OF MARYLAND, COLLEGE PARK"
+      ],
+      "inventors": [
+        "Christopher Monroe",
+        "Kai HUDEK",
+        "Jonathan MIZRAHI",
+        "Marko CETINA",
+        "Sarah Margaret KREIKEMEIER",
+        "Michael Goldman",
+        "Kristin BECK"
+      ],
+      "applicationDate": "2019-07-22",
+      "claimsCount": 34,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Optics"
+      ],
+      "score": 11.214198
+    },
+    {
+      "id": "US-20190205783-A1",
+      "title": [
+        "USE OF GLOBAL INTERACTIONS IN EFFICIENT QUANTUM CIRCUIT CONSTRUCTIONS"
+      ],
+      "abstract": "The disclosure describes various aspects of techniques for using global interactions in efficient quantum circuit constructions. More specifically, this disclosure describes ways to use a global entangling operator to efficiently implement circuitry common to a selection of important quantum algorithms. The circuits may be constructed with global Ising entangling gates (e.g., global M\u00f8lmer-S\u00f8renson gates or GMS gates) and arbitrary addressable single-qubit gates. Examples of the types of circuits that can be implemented include stabilizer circuits, Toffoli-4 gates, Toffoli-n gates, quantum Fourier transformation (QTF) circuits, and quantum Fourier adder (QFA) circuits. In certain instances, the use of global operations can substantially improve the entangling gate count.",
+      "publicationNumber": "US20190205783",
+      "publicationDate": "2019-07-04",
+      "assignee": [
+        "UNIVERSITY OF MARYLAND, COLLEGE PARK"
+      ],
+      "inventors": [
+        "Yunseong NAM",
+        "Dmitri MASLOV"
+      ],
+      "applicationDate": "2018-12-27",
+      "claimsCount": 30,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 11.214198
+    },
+    {
+      "id": "FI-3827489-T3",
+      "title": [
+        "LASER CAVITY REPETITION RATE TUNING AND HIGH-BANDWIDTH STABILIZATION"
+      ],
+      "abstract": "",
+      "publicationNumber": "FI3827489",
+      "publicationDate": "2024-02-16",
+      "assignee": [
+        "UNIVERSITY OF MARYLAND, COLLEGE PARK"
+      ],
+      "inventors": [
+        "CHRISTOPHER MONROE",
+        "KAI HUDEK",
+        "Jonathan MIZRAHI",
+        "Marko CETINA",
+        "Sarah Margaret KREIKEMEIER",
+        "MICHAEL GOLDMAN",
+        "KRISTEN BECK"
+      ],
+      "applicationDate": "2019-07-23",
+      "claimsCount": 15,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Computer technology",
+        "Optics"
+      ],
+      "score": 11.214198
+    },
+    {
+      "id": "ES-2971125-T3",
+      "title": [
+        "Ajuste de la frecuencia de repetici\u00f3n de la cavidad del l\u00e1ser y estabilizaci\u00f3n de gran ancho de banda"
+      ],
+      "abstract": "La divulgaci\u00f3n describe aspectos del ajuste de la tasa de repetici\u00f3n de la cavidad del l\u00e1ser y la estabilizaci\u00f3n de alto ancho de banda de l\u00e1seres pulsados. En un aspecto, se describe un acoplador \u00f3ptico de salida que incluye un espejo acoplador de salida de cavidad, un actuador piezoel\u00e9ctrico acoplado al espejo acoplador de salida de cavidad, un conjunto de bloqueo dentro del cual se colocan el espejo acoplador de salida de cavidad y el actuador piezoel\u00e9ctrico, y uno o m\u00e1s componentes acoplados al conjunto de bloqueo. Los componentes est\u00e1n configurados para proporcionar m\u00faltiples grados de libertad posicionales para sintonizar un espectro de peine de frecuencia del l\u00e1ser pulsado (por ejemplo, sintonizar una tasa de repetici\u00f3n) ajustando al menos una posici\u00f3n del conjunto de bloqueo con el espejo acoplador de salida de la cavidad. Tambi\u00e9n se describe un m\u00e9todo para ajustar un acoplador \u00f3ptico de salida en un l\u00e1ser pulsado. Estas t\u00e9cnicas se pueden utilizar en diferentes aplicaciones, incluido el procesamiento de informaci\u00f3n cu\u00e1ntica. (Traducci\u00f3n autom\u00e1tica con Google Translate, sin valor legal)",
+      "publicationNumber": "ES2971125",
+      "publicationDate": "2024-06-03",
+      "assignee": [
+        "UNIVERSITY OF MARYLAND, COLLEGE PARK"
+      ],
+      "inventors": [
+        "CHRISTOPHER MONROE",
+        "KAI HUDEK",
+        "Jonathan MIZRAHI",
+        "Marko CETINA",
+        "Sarah Margaret KREIKEMEIER",
+        "MICHAEL GOLDMAN",
+        "KRISTEN BECK"
+      ],
+      "applicationDate": "2019-07-23",
+      "claimsCount": 15,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Computer technology",
+        "Optics"
+      ],
+      "score": 11.214198
+    },
+    {
+      "id": "EP-3827489-A1",
+      "title": [
+        "LASER CAVITY REPETITION RATE TUNING AND HIGH-BANDWIDTH STABILIZATION"
+      ],
+      "abstract": "The disclosure describes aspects of laser cavity repetition rate tuning and high-bandwidth stabilization of pulsed lasers. In one aspect, an output optical coupler is described that includes a cavity output coupler mirror, a piezoelectric actuator coupled to the cavity output coupler mirror, a locking assembly within which the cavity output coupler mirror and the piezoelectric actuator are positioned, and one or more components coupled to the locking assembly. The components are configured to provide multiple positional degrees of freedom for tuning a frequency comb spectrum of the pulsed laser (e.g., tuning a repetition rate) by adjusting at least one position of the locking assembly with the cavity output coupler mirror. A method of adjusting an output optical coupler in a pulsed laser is also described. These techniques may be used in different applications, including quantum information processing.",
+      "publicationNumber": "EP3827489",
+      "publicationDate": "2021-06-02",
+      "assignee": [
+        "University of Maryland, College Park"
+      ],
+      "inventors": [
+        "CHRISTOPHER MONROE",
+        "KAI HUDEK",
+        "Jonathan MIZRAHI",
+        "Marko CETINA",
+        "Sarah Margaret KREIKEMEIER",
+        "MICHAEL GOLDMAN",
+        "KRISTEN BECK"
+      ],
+      "applicationDate": "2019-07-23",
+      "claimsCount": 34,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Optics"
+      ],
+      "score": 11.214198
+    },
+    {
+      "id": "DK-3827489-T3",
+      "title": [
+        "Laserhulrumsimpulsfrekvenstuning og stabilisering ved h\u00f8j b\u00e5ndbredde"
+      ],
+      "abstract": "",
+      "publicationNumber": "DK3827489",
+      "publicationDate": "2024-03-04",
+      "assignee": [
+        "UNIVERSITY OF MARYLAND, COLLEGE PARK"
+      ],
+      "inventors": [
+        "CHRISTOPHER MONROE",
+        "KAI HUDEK",
+        "Jonathan MIZRAHI",
+        "Marko CETINA",
+        "Sarah Margaret KREIKEMEIER",
+        "MICHAEL GOLDMAN",
+        "KRISTEN BECK"
+      ],
+      "applicationDate": "2019-07-23",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Computer technology",
+        "Optics"
+      ],
+      "score": 11.214198
+    },
+    {
+      "id": "US-20210382210-A1",
+      "title": [
+        "PARABOLIC CASSEGRAIN-TYPE REFLECTOR FOR ABLATION LOADING"
+      ],
+      "abstract": "Aspects of the present disclosure describe techniques for using a parabolic Cassegrain-type reflector for ablation. For example, a system for ablation loading of a trap is described that includes a reflector having a hole aligned with a loading aperture of the trap, and an atomic source positioned at a focal point of the reflector, where one or more laser beams are reflected from a reflective front side of the reflector and focused on a surface of the atomic source to produce an atomic plume, and the atomic plume once produced passing through the hole in the reflector and through a loading aperture of the trap for loading the trap. A method for ablation loading of a trap within a chamber in a trapped ion system is also described.",
+      "publicationNumber": "US20210382210",
+      "publicationDate": "2021-12-09",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Kenneth Wright",
+        "Jason Madjdi AMINI",
+        "Jungsang Kim"
+      ],
+      "applicationDate": "2021-06-08",
+      "claimsCount": 21,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Optics",
+        "Solar energy"
+      ],
+      "score": 11.132259
+    },
+    {
+      "id": "WO-2025221285-A2",
+      "title": [
+        "MAINTENANCE OF ESTABLISHED, PAIRWISE QUANTUM ENTANGLEMENT BUFFERS FOR EFFICIENT QUANTUM ENTANGLEMENT DISTRIBUTION"
+      ],
+      "abstract": "Techniques for generating and maintaining a buffer of on-demand, pairwise quantum entanglement instances using programmable optical switchboard architectures within quantum repeaters are disclosed. A rate of establishing pairwise quantum entanglement instances between quantum repeaters of a quantum entanglement network may be higher than both a rate of decay of said instances and a rate of consumption of said instances for providing distributed quantum entanglement, such that on-demand distribution of quantum entanglement may be provided for customers. Furthermore, an optical switchboard with a given quantum repeater may be configured to route between any of the quantum memory locations provided within the quantum repeater, such that an optimization of the usage of such buffers of quantum entanglement instances may be ensured.",
+      "publicationNumber": "WO2025221285",
+      "publicationDate": "2025-10-23",
+      "assignee": [
+        "IonQ Inc."
+      ],
+      "inventors": [
+        "Mihir Keshav BHASKAR",
+        "DAVID SARKIS LEVONIAN"
+      ],
+      "applicationDate": "2024-09-20",
+      "claimsCount": 15,
+      "independentClaimsCount": 2,
+      "technologyFields": [],
+      "score": 11.109968
+    },
+    {
+      "id": "WO-2020018752-A9",
+      "title": [
+        "QUANTUM HYBRID COMPUTATION"
+      ],
+      "abstract": "Technologies are described herein to implement quantum hybrid computations. Embodiments include receiving a hybrid program, assigning respective functions corresponding to the hybrid program to either of CPU processing or QPU processing, scheduling processing for the respective functions, initiating execution of the hybrid program, and collating results of the execution of the classical-quantum hybrid program.",
+      "publicationNumber": "WO2020018752",
+      "publicationDate": "2020-10-29",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Andrew Maps DUCORE",
+        "Matthew KEESAN",
+        "Yunseong Nam",
+        "Omar SHEHAB"
+      ],
+      "applicationDate": "2019-07-18",
+      "claimsCount": 24,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 11.109968
+    },
+    {
+      "id": "WO-2020018752-A1",
+      "title": [
+        "QUANTUM HYBRID COMPUTATION"
+      ],
+      "abstract": "Technologies are described herein to implement quantum hybrid computations. Embodiments include receiving a hybrid program, assigning respective functions corresponding to the hybrid program to either of CPU processing or Q.PU processing, scheduling processing for the respective functions, initiating execution of the hybrid program, and collating results of the execution of the classical-quantum hybrid program.",
+      "publicationNumber": "WO2020018752",
+      "publicationDate": "2020-01-23",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Andrew Maps DUCORE",
+        "Matthew KEESAN",
+        "Yunseong Nam",
+        "Omar SHEHAB"
+      ],
+      "applicationDate": "2019-07-18",
+      "claimsCount": 24,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 11.109968
+    },
+    {
+      "id": "US-20250356227-A1",
+      "title": [
+        "OPTIMIZING QUANTUM RESOURCES FOR CALIBRATION OF A FULLY CONNECTED QPU"
+      ],
+      "abstract": "Aspects of the present disclosure relate generally to systems and methods for use in the implementation and/or operation of quantum information processing (QIP) systems, and more particularly, to techniques for optimizing the quantum resources that are used for the calibration of a fully connected quantum processing unit or QPU.",
+      "publicationNumber": "US20250356227",
+      "publicationDate": "2025-11-20",
+      "assignee": [
+        "IonQ. Inc."
+      ],
+      "inventors": [
+        "Kenneth Wright",
+        "Neal Pisenti"
+      ],
+      "applicationDate": "2023-06-08",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 11.109968
+    },
+    {
+      "id": "US-20250190830-A1",
+      "title": [
+        "SYSTEM AND METHOD FOR VARIATIONAL QUANTUM LINEAR SOLVER FOR EQUATIONS MODULO 2"
+      ],
+      "abstract": "A system and method is provided for solving systems of binary-valued linear equations using a quantum information processing (QIP) system. The present disclosure describes solving linear systems modulo 2 on a quantum computer. An exemplary method includes defining a quantum circuit implementing matrix-vector products with a number of gates proportional to the number of non-zero entries in the coefficient matrix and then deriving a variational cost function that may be optimized to produce a solution to the given system. Compared to other quantum linear solvers, the present disclosure may work on matrices of any size and rank.",
+      "publicationNumber": "US20250190830",
+      "publicationDate": "2025-06-12",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Willie ABOUMRAD",
+        "Dominic Widdows"
+      ],
+      "applicationDate": "2024-12-10",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 11.109968
+    },
+    {
+      "id": "US-20240211789-A1",
+      "title": [
+        "METHODS AND APPARATUSES FOR RAPID MEASUREMENT OF THE MOTIONAL MODE PHASE IN TRAPPED ION CHAINS"
+      ],
+      "abstract": "Aspects of the present disclosure may include a method and/or a system for selecting a first ion of the plurality of ions in the ion chain, selecting a second ion of the plurality of ions in the ion chain, applying a first carrier \u03c0/2 pulse to the first ion, applying a first red sideband \u03c0 pulse to the first ion, applying a second red sideband \u03c0 pulse to the second ion, applying a second carrier \u03c0/2 pulse to the second ion, and scanning a phase of the second carrier \u03c0/2 pulse.",
+      "publicationNumber": "US20240211789",
+      "publicationDate": "2024-06-27",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Hermann UYS",
+        "Peter Lukas Wilhelm Maunz"
+      ],
+      "applicationDate": "2022-12-23",
+      "claimsCount": 9,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 11.109968
+    },
+    {
+      "id": "US-20240169248-A1",
+      "title": [
+        "SYSTEM AND METHOD FOR ERROR CORRECTION IN QUANTUM COMPUTING"
+      ],
+      "abstract": "As system is provided for performing a method of receiving a superposition state defined by a sum of a plurality of addends, wherein each addend of the plurality of addends is a product between a corresponding coefficient of a plurality of coefficients and a corresponding state of a plurality of states encoded with block unary encoding. The system may identify at least one error state, of the plurality of states, having a string value that is not a block unary code string of a set of block unary code strings. The system may compute an updated superposition state based on the plurality of states without the error state.",
+      "publicationNumber": "US20240169248",
+      "publicationDate": "2024-05-23",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "SONIKA JOHRI"
+      ],
+      "applicationDate": "2023-08-10",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Basic communication processes",
+        "Computer technology"
+      ],
+      "score": 11.109968
+    },
+    {
+      "id": "US-20230200016-A1",
+      "title": [
+        "NON-CONTACT DISPLACEMENT MEASUREMENT FOR CRYOGENIC STABILIZATION"
+      ],
+      "abstract": "Aspects of the present disclosure relate generally to systems and methods for use in the implementation and/or operation of quantum information processing (QIP) systems, and more particularly, to the implementation and operation of a non-contact displacement measurement technique for cryogenic stabilization in QIP systems.",
+      "publicationNumber": "US20230200016",
+      "publicationDate": "2023-06-22",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Sarah Margaret KREIKEMEIER",
+        "Kai Makoto Hudek"
+      ],
+      "applicationDate": "2022-12-21",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Audio-visual technology",
+        "Computer technology",
+        "Mechanical elements"
+      ],
+      "score": 11.109968
+    },
+    {
+      "id": "US-20220172098-A1",
+      "title": [
+        "SYSTEM AND METHOD FOR ERROR CORRECTION IN QUANTUM COMPUTING"
+      ],
+      "abstract": "As system is provided for performing a method of receiving a superposition state defined by a sum of a plurality of addends, wherein each addend of the plurality of addends is a product between a corresponding coefficient of a plurality of coefficients and a corresponding state of a plurality of states encoded with block unary encoding. The system may identify at least one error state, of the plurality of states, having a string value that is not a block unary code string of a set of block unary code strings. The system may compute an updated superposition state based on the plurality of states without the error state.",
+      "publicationNumber": "US20220172098",
+      "publicationDate": "2022-06-02",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "SONIKA JOHRI"
+      ],
+      "applicationDate": "2021-11-29",
+      "claimsCount": 18,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Basic communication processes",
+        "Computer technology"
+      ],
+      "score": 11.109968
+    },
+    {
+      "id": "US-20210357799-A1",
+      "title": [
+        "QUANTUM HYBRID COMPUTATION"
+      ],
+      "abstract": "Technologies are described herein to implement quantum hybrid computations. Embodiments include receiving a hybrid program, assigning respective functions corresponding to the hybrid program to either of CPU processing or QPU processing, scheduling processing for the respective functions, initiating execution of the hybrid program, and collating results of the execution of the classical-quantum hybrid program.",
+      "publicationNumber": "US20210357799",
+      "publicationDate": "2021-11-18",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Andrew Maps DUCORE",
+        "Matthew Joseph KEESAN",
+        "Yunseong NAM",
+        "Omar SHEHAB"
+      ],
+      "applicationDate": "2021-07-30",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 11.109968
+    },
+    {
+      "id": "US-20200372390-A1",
+      "title": [
+        "NOISE REDUCED CIRCUITS FOR TRAPPED-ION QUANTUM COMPUTERS"
+      ],
+      "abstract": "Embodiments described herein are generally related to a method and a system for performing a computation using a hybrid quantum-classical computing system, and, more specifically, to providing an approximate solution to an optimization problem using a hybrid quantum-classical computing system that includes a group of trapped ions. A hybrid quantum-classical computing system that is able to provide a solution to a combinatorial optimization problem may include a classical computer, a system controller, and a quantum processor. The methods and systems described herein include an efficient and noise resilient method for constructing trial states in the quantum processor in solving a problem in a hybrid quantum-classical computing system, which provides improvement over the conventional method for computation in a hybrid quantum-classical computing system.",
+      "publicationNumber": "US20200372390",
+      "publicationDate": "2020-11-26",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Omar SHEHAB",
+        "Isaac Hyun KIM"
+      ],
+      "applicationDate": "2019-09-20",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 11.109968
+    },
+    {
+      "id": "US-20200026551-A1",
+      "title": [
+        "QUANTUM HYBRID COMPUTATION"
+      ],
+      "abstract": "Technologies are described herein to implement quantum hybrid computations. Embodiments include receiving a hybrid program, assigning respective functions corresponding to the hybrid program to either of CPU processing or QPU processing, scheduling processing for the respective functions, initiating execution of the hybrid program, and collating results of the execution of the classical-quantum hybrid program.",
+      "publicationNumber": "US20200026551",
+      "publicationDate": "2020-01-23",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Andrew Maps DUCORE",
+        "Matthew Joseph KEESAN",
+        "Yunseong NAM",
+        "Omar SHEHAB"
+      ],
+      "applicationDate": "2018-07-18",
+      "claimsCount": 24,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 11.109968
+    },
+    {
+      "id": "EP-3824387-A4",
+      "title": [
+        "QUANTUM HYBRID COMPUTATION"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP3824387",
+      "publicationDate": "2022-05-04",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Andrew Maps DUCORE",
+        "Matthew KEESAN",
+        "Yunseong Nam",
+        "Omar SHEHAB"
+      ],
+      "applicationDate": "2019-07-18",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 11.109968
+    },
+    {
+      "id": "EP-3824387-A1",
+      "title": [
+        "QUANTUM HYBRID COMPUTATION"
+      ],
+      "abstract": "Technologies are described herein to implement quantum hybrid computations. Embodiments include receiving a hybrid program, assigning respective functions corresponding to the hybrid program to either of CPU processing or Q.PU processing, scheduling processing for the respective functions, initiating execution of the hybrid program, and collating results of the execution of the classical-quantum hybrid program.",
+      "publicationNumber": "EP3824387",
+      "publicationDate": "2021-05-26",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Andrew Maps DUCORE",
+        "Matthew KEESAN",
+        "Yunseong Nam",
+        "Omar SHEHAB"
+      ],
+      "applicationDate": "2019-07-18",
+      "claimsCount": 24,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 11.109968
+    },
+    {
+      "id": "WO-2024206719-A9",
+      "title": [
+        "INTERFACE FOR CALIBRATION AND CONTROL IN QUANTUM INFORMATION SYSTEMS"
+      ],
+      "abstract": "Aspects of the present disclosure relate generally to systems, apparatuses, devices, and methods for use in the implementation and/or operation of quantum information processing (QIP) systems, and more particularly, to an interface for calibration and control in quantum information systems.",
+      "publicationNumber": "WO2024206719",
+      "publicationDate": "2025-10-02",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Neal Carden PISENTI",
+        "John King GAMBLE",
+        "VANDIVER CHAPLIN",
+        "Matthew EBERT"
+      ],
+      "applicationDate": "2024-03-28",
+      "claimsCount": 22,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Computer technology",
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.066306
+    },
+    {
+      "id": "WO-2024206719-A1",
+      "title": [
+        "INTERFACE FOR CALIBRATION AND CONTROL IN QUANTUM INFORMATION SYSTEMS"
+      ],
+      "abstract": "Aspects of the present disclosure relate generally to systems, apparatuses, devices, and methods for use in the implementation and/or operation of quantum information processing (QIP) systems, and more particularly, to an interface for calibration and control in quantum information systems.",
+      "publicationNumber": "WO2024206719",
+      "publicationDate": "2024-10-03",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Neal Carden PISENTI",
+        "John King GAMBLE",
+        "VANDIVER CHAPLIN",
+        "Matthew EBERT"
+      ],
+      "applicationDate": "2024-03-28",
+      "claimsCount": 22,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Computer technology",
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.066306
+    },
+    {
+      "id": "WO-2024206715-A1",
+      "title": [
+        "CALIBRATIONS DURING TANDEM EXECUTION OF QUANTUM CIRCUITS"
+      ],
+      "abstract": "Aspects of the present disclosure relate generally to systems and methods for use in the implementation and/or operation of quantum information processing (QIP) systems, and more particularly, calibrations during tandem execution of quantum circuits.",
+      "publicationNumber": "WO2024206715",
+      "publicationDate": "2024-10-03",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Neal Carden PISENTI",
+        "John King GAMBLE",
+        "DAVID PAUL CAMPAGNA"
+      ],
+      "applicationDate": "2024-03-28",
+      "claimsCount": 21,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Computer technology",
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.066306
+    },
+    {
+      "id": "WO-2024206708-A1",
+      "title": [
+        "CLOSED-LOOP CONTROL AND CALIBRATION IN QUANTUM INFORMATION PROCESSING SYSTEMS"
+      ],
+      "abstract": "Aspects of the present disclosure relate generally to systems, apparatuses, devices, and methods for use in the implementation and/or operation of quantum information processing (QIP) systems, and more particularly, to closed-loop control and calibration in quantum information processing systems.",
+      "publicationNumber": "WO2024206708",
+      "publicationDate": "2024-10-03",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Neal Carden PISENTI",
+        "John King GAMBLE"
+      ],
+      "applicationDate": "2024-03-28",
+      "claimsCount": 25,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology",
+        "Control",
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.066306
+    },
+    {
+      "id": "WO-2023215010-A9",
+      "title": [
+        "UNIVERSAL GATE PULSE FOR TWO-QUBIT GATES ON A TRAPPED-ION QUANTUM COMPUTER"
+      ],
+      "abstract": "A method for performing at least a portion of a computational process includes computing a pulse function of a pulse to be applied to a first pair of trapped ions in a first ion chain based on a phase-space condition, wherein the phase-space condition is derived using equi-spaced synthetic frequencies in a frequency interval that includes a range set by a highest and a lowest motional mode frequency of the first ion chain, generating the pulse based on the computed pulse function, and applying the generated pulse to each of a second pair of trapped ions in a second ion chain to perform an entangling gate operation between the second pair of trapped ions in the second ion chain.",
+      "publicationNumber": "WO2023215010",
+      "publicationDate": "2024-02-01",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Reinhold BL\u00dcMEL",
+        "Nikodem GRZESIAK",
+        "MING LI",
+        "Andrii MAKSYMOV",
+        "Yunseong Nam"
+      ],
+      "applicationDate": "2022-10-24",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 11.066306
+    },
+    {
+      "id": "WO-2023215010-A3",
+      "title": [
+        "UNIVERSAL GATE PULSE FOR TWO-QUBIT GATES ON A TRAPPED-ION QUANTUM COMPUTER"
+      ],
+      "abstract": "A method for performing at least a portion of a computational process includes computing a pulse function of a pulse to be applied to a first pair of trapped ions in a first ion chain based on a phase-space condition, wherein the phase-space condition is derived using equi-spaced synthetic frequencies in a frequency interval that includes a range set by a highest and a lowest motional mode frequency of the first ion chain, generating the pulse based on the computed pulse function, and applying the generated pulse to each of a second pair of trapped ions in a second ion chain to perform an entangling gate operation between the second pair of trapped ions in the second ion chain.",
+      "publicationNumber": "WO2023215010",
+      "publicationDate": "2024-02-29",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Reinhold BL\u00dcMEL",
+        "Nikodem GRZESIAK",
+        "MING LI",
+        "Andrii MAKSYMOV",
+        "Yunseong Nam"
+      ],
+      "applicationDate": "2022-10-24",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 11.066306
+    },
+    {
+      "id": "WO-2023215010-A2",
+      "title": [
+        "UNIVERSAL GATE PULSE FOR TWO-QUBIT GATES ON A TRAPPED-ION QUANTUM COMPUTER"
+      ],
+      "abstract": "A method for performing at least a portion of a computational process includes computing a pulse function of a pulse to be applied to a first pair of trapped ions in a first ion chain based on a phase-space condition, wherein the phase-space condition is derived using equi-spaced synthetic frequencies in a frequency interval that includes a range set by a highest and a lowest motional mode frequency of the first ion chain, generating the pulse based on the computed pulse function, and applying the generated pulse to each of a second pair of trapped ions in a second ion chain to perform an entangling gate operation between the second pair of trapped ions in the second ion chain.",
+      "publicationNumber": "WO2023215010",
+      "publicationDate": "2023-11-09",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Reinhold BL\u00dcMEL",
+        "Nikodem GRZESIAK",
+        "MING LI",
+        "Andrii MAKSYMOV",
+        "Yunseong Nam"
+      ],
+      "applicationDate": "2022-10-24",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [],
+      "score": 11.066306
+    },
+    {
+      "id": "WO-2023167707-A3",
+      "title": [
+        "SYSTEM AND METHOD FOR QUANTUM COMPUTING TO GENERATE JOINT PROBABILITY DISTRIBUTIONS"
+      ],
+      "abstract": "Aspects of the present disclosure relate generally to systems and methods for use in the implementation and/or operation of quantum information processing (QIP) systems, and more particularly, to the computation of joint probability distributions with quantum computers. Improvements in the computation of joint probability distributions are described by designing quantum machine learning algorithms to model copulas. Moreover, any copula is shown to be naturally mapped to a multipartite maximally entangled state. A variational ansatz referred to herein as a \"qopula\" creates arbitrary correlations between variables while maintaining the copula structure starting from a set of Bell pairs for two variables, or Greenberger-Home-Zeilinger (GHZ) states for multiple variables. Generative learning algorithms may be demonstrated on quantum computers, and more particularly, in trapped-ion quantum computers. The approach described herein is shown to have advantages over classical models.",
+      "publicationNumber": "WO2023167707",
+      "publicationDate": "2023-11-23",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "SONIKA JOHRI",
+        "DAVID BACON"
+      ],
+      "applicationDate": "2022-08-16",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 11.066306
+    },
+    {
+      "id": "WO-2023167707-A2",
+      "title": [
+        "SYSTEM AND METHOD FOR QUANTUM COMPUTING TO GENERATE JOINT PROBABILITY DISTRIBUTIONS"
+      ],
+      "abstract": "Aspects of the present disclosure relate generally to systems and methods for use in the implementation and/or operation of quantum information processing (QIP) systems, and more particularly, to the computation of joint probability distributions with quantum computers. Improvements in the computation of joint probability distributions are described by designing quantum machine learning algorithms to model copulas. Moreover, any copula is shown to be naturally mapped to a multipartite maximally entangled state. A variational ansatz referred to herein as a \"qopula\" creates arbitrary correlations between variables while maintaining the copula structure starting from a set of Bell pairs for two variables, or Greenberger-Home-Zeilinger (GHZ) states for multiple variables. Generative learning algorithms may be demonstrated on quantum computers, and more particularly, in trapped-ion quantum computers. The approach described herein is shown to have advantages over classical models.",
+      "publicationNumber": "WO2023167707",
+      "publicationDate": "2023-09-07",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "SONIKA JOHRI",
+        "DAVID BACON"
+      ],
+      "applicationDate": "2022-08-16",
+      "claimsCount": 20,
+      "independentClaimsCount": 1,
+      "technologyFields": [],
+      "score": 11.066306
+    },
+    {
+      "id": "WO-2023107995-A1",
+      "title": [
+        "PARALLEL SIDEBAND COOLING OF MULTIPLE TRAPPED-ION MOTIONAL MODES WITH DEFLECTORS"
+      ],
+      "abstract": "Aspects of the present disclosure relate generally to parallel sideband cooling of multiple trapped-ion motional modes with deflectors (e.g., acousto-optic deflectors or AODs) in quantum information processing (QIP) systems. A method and a system are described in which for an ion chain a first group of ions (e.g., middle section of the ion chain) and a second group of ions (e.g., outer sections of the ion chain) are identified. The method and system include performing sideband cooling by applying, to the first group of ions, a first pair of optical beams using a first pair of AODs, and applying, to the second group of ions, a second pair of optical beams using a second pair of AODs. For each AOD, an acousto-optic modulator (AOM) may be placed upstream to provide frequency modulation for matching frequency differences for correct detuning as part of the sideband cooling operation.",
+      "publicationNumber": "WO2023107995",
+      "publicationDate": "2023-06-15",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "JEREMY MATTHEW SAGE",
+        "KAI MAKOTO HUDEK"
+      ],
+      "applicationDate": "2022-12-07",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Computer technology",
+        "Micro-structural and nano-technology",
+        "Optics"
+      ],
+      "score": 11.066306
+    },
+    {
+      "id": "WO-2021034843-A1",
+      "title": [
+        "FAST INTENSITY STABILIZATION OF MULTIPLE CONTROLLER BEAMS"
+      ],
+      "abstract": "Aspects of the present disclosure describe techniques for fast stabilization of multiple controller beams with continuous integrating filter. For example, a method is described for intensity stabilization of laser beams (e.g., ion controller beams) in a trapped ion system, where the method includes applying a linear array of laser beams to respective ions in a linear array of ions in a trap, performing, in response to the laser beams being applied, parallel measurements on the ions, the parallel measurements including multiple, separate measurements on each of the ions to identify fluctuations in intensity in the respective laser beams at each ion, and adjusting the intensity of one or more of the laser beams in response to fluctuations being identified from the parallel measurements. A corresponding system for intensity stabilization of laser beams in a trapped ion system is also described.",
+      "publicationNumber": "WO2021034843",
+      "publicationDate": "2021-02-25",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Jonathan Albert MIZRAHI",
+        "NEAL PISENTI"
+      ],
+      "applicationDate": "2020-08-18",
+      "claimsCount": 28,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 11.066306
+    },
+    {
+      "id": "US-20250077925-A1",
+      "title": [
+        "CALIBRATIONS DURING TANDEM EXECUTION OF QUANTUM CIRCUITS"
+      ],
+      "abstract": "Aspects of the present disclosure relate generally to systems and methods for use in the implementation and/or operation of quantum information processing (QIP) systems, and more particularly, calibrations during tandem execution of quantum circuits.",
+      "publicationNumber": "US20250077925",
+      "publicationDate": "2025-03-06",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Neal Carden PISENTI",
+        "John King Gamble",
+        "David Paul Campagna"
+      ],
+      "applicationDate": "2024-03-28",
+      "claimsCount": 21,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Computer technology",
+        "Measurement"
+      ],
+      "score": 11.066306
+    },
+    {
+      "id": "US-20240330732-A1",
+      "title": [
+        "PREDICTIVE MODELING OF A CONTROL AGENT FOR A QUANTUM COMPUTER"
+      ],
+      "abstract": "Aspects of the present disclosure relate generally to systems, apparatuses, devices, and methods for use in the implementation and/or operation of quantum information processing (QIP) systems, and more particularly, to predictive modeling of a control agent for a quantum computer.",
+      "publicationNumber": "US20240330732",
+      "publicationDate": "2024-10-03",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Neal Carden PISENTI",
+        "John King Gamble"
+      ],
+      "applicationDate": "2024-03-28",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 11.066306
+    },
+    {
+      "id": "US-20240330731-A1",
+      "title": [
+        "EFFICIENT UTILIZATION OF QUBIT RESOURCES FOR EXECUTION OF QUANTUM CIRCUITS"
+      ],
+      "abstract": "Aspects of the present disclosure relate generally to systems and methods for use in the implementation and/or operation of quantum information processing (QIP) systems, and more particularly, efficient utilization of qubit resources for execution of quantum circuits.",
+      "publicationNumber": "US20240330731",
+      "publicationDate": "2024-10-03",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Neal Carden PISENTI",
+        "John King Gamble",
+        "David Paul Campagna"
+      ],
+      "applicationDate": "2024-03-28",
+      "claimsCount": 20,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 11.066306
+    },
+    {
+      "id": "US-20240121504-A1",
+      "title": [
+        "CAMERA SERVER FOR HETEROGENEOUS CAMERAS"
+      ],
+      "abstract": "Systems and techniques are provided for a camera server for heterogeneous cameras. Image data may be received from a first camera and second image data from a second camera of a heterogenous system that may be a trapped ion quantum computer. The first camera may observe trapped ions. The second camera may observe optical systems and laser beams. The second image data may have a different format than the first image data. The image data and the second image data may be converted into a format for a common data structure for image data. The image data may be sent in the format for the common data structure for image data to client computing devices. The second image data may be sent in the format for the common data structure for image data to additional client computing devices.",
+      "publicationNumber": "US20240121504",
+      "publicationDate": "2024-04-11",
+      "assignee": [
+        "IonQ Inc."
+      ],
+      "inventors": [
+        "Melissa Jameson",
+        "Aleksey Blinov"
+      ],
+      "applicationDate": "2023-03-13",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Audio-visual technology",
+        "Computer technology"
+      ],
+      "score": 11.066306
+    },
+    {
+      "id": "US-20240110876-A1",
+      "title": [
+        "CORRECTION OF LIGHT-SHIFT EFFECTS IN TRAPPED-ION QUANTUM GATES"
+      ],
+      "abstract": "Aspects of the present disclosure relate generally to systems and methods for use in the implementation and/or operation of quantum information processing (QIP) systems, and more particularly, to the correction of light-shift effects in trapped-ion quantum gates. Techniques are described for light-shift correction of single qubit gates when the gates are implemented using counter-propagating Raman laser beams and when the gates are implemented using co-propagating Raman laser beams. Moreover, techniques are also described for light-shift correction of two-qubit gates.",
+      "publicationNumber": "US20240110876",
+      "publicationDate": "2024-04-04",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Shantanu DEBNATH",
+        "Vandiver Chaplin"
+      ],
+      "applicationDate": "2023-12-14",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Computer technology",
+        "Measurement"
+      ],
+      "score": 11.066306
+    },
+    {
+      "id": "US-20240079845-A1",
+      "title": [
+        "FAST INTENSITY STABILIZATION OF MULTIPLE CONTROLLER BEAMS WITH CONTINUOUS INTEGRATING FILTER"
+      ],
+      "abstract": "Aspects of the present disclosure describe techniques for fast stabilization of multiple controller beams with continuous integrating filter. For example, a method is described for intensity stabilization of laser beams (e.g., ion controller beams) in a trapped ion system, where the method includes applying a linear array of laser beams to respective ions in a linear array of ions in a trap, performing, in response to the laser beams being applied, parallel measurements on the ions, the parallel measurements including multiple, separate measurements on each of the ions to identify fluctuations in intensity in the respective laser beams at each ion, and adjusting the intensity of one or more of the laser beams in response to fluctuations being identified from the parallel measurements. A corresponding system for intensity stabilization of laser beams in a trapped ion system is also described.",
+      "publicationNumber": "US20240079845",
+      "publicationDate": "2024-03-07",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Jonathan Albert MIZRAHI",
+        "Neal Pisenti"
+      ],
+      "applicationDate": "2023-11-10",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Optics"
+      ],
+      "score": 11.066306
+    },
+    {
+      "id": "US-20240054380-A1",
+      "title": [
+        "PARALLEL SIDEBAND COOLING OF MULTIPLE TRAPPED-ION MOTIONAL MODES WITH DEFLECTORS"
+      ],
+      "abstract": "Aspects of the present disclosure relate generally to parallel sideband cooling of multiple trapped-ion motional modes with deflectors (e.g., acousto-optic deflectors or AODs) in quantum information processing (QIP) systems. A method and a system are described in which for an ion chain a first group of ions (e.g., middle section of the ion chain) and a second group of ions (e.g., outer sections of the ion chain) are identified. The method and system include performing sideband cooling by applying, to the first group of ions, a first pair of optical beams using a first pair of AODs, and applying, to the second group of ions, a second pair of optical beams using a second pair of AODs. For each AOD, an acousto-optic modulator (AOM) may be placed upstream to provide frequency modulation for matching frequency differences for correct detuning as part of the sideband cooling operation.",
+      "publicationNumber": "US20240054380",
+      "publicationDate": "2024-02-15",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Jeremy Matthew SAGE",
+        "Kai HUDEK"
+      ],
+      "applicationDate": "2022-12-06",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 11.066306
+    },
+    {
+      "id": "US-20230401478-A1",
+      "title": [
+        "UNIVERSAL GATE PULSE FOR TWO-QUBIT GATES ON A TRAPPED-ION QUANTUM COMPUTER"
+      ],
+      "abstract": "A method for performing at least a portion of a computational process includes computing a pulse function of a pulse to be applied to a first pair of trapped ions in a first ion chain based on a phase-space condition, wherein the phase-space condition is derived using equi-spaced synthetic frequencies in a frequency interval that includes a range set by a highest and a lowest motional mode frequency of the first ion chain, generating the pulse based on the computed pulse function, and applying the generated pulse to each of a second pair of trapped ions in a second ion chain to perform an entangling gate operation between the second pair of trapped ions in the second ion chain.",
+      "publicationNumber": "US20230401478",
+      "publicationDate": "2023-12-14",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Reinhold BL\u00dcMEL",
+        "Nikodem GRZESIAK",
+        "Ming Li",
+        "Andrii MAKSYMOV",
+        "Yunseong NAM"
+      ],
+      "applicationDate": "2022-10-21",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 11.066306
+    },
+    {
+      "id": "US-20230334116-A1",
+      "title": [
+        "STABILIZED ENTANGLING OPERATIONS IN A QUANTUM COMPUTING SYSTEM"
+      ],
+      "abstract": "A method of performing a quantum computation process includes computing first Fourier coefficients of a first pulse function of a first control pulse and second Fourier coefficients of a second pulse function of a second control pulse based on a condition for closure of phase space trajectories and a condition for stabilization of phase-space closure, and computing a first linear combination of the computed first Fourier coefficients and a second linear combination of the computed second Fourier coefficients based on a condition for non-zero degree of entanglement, a condition for stabilization of the degree of entanglement, and a condition for minimized power, applying the first control pulse having the computed first pulse function to a first trapped ion of a pair of trapped ions, and the second control pulse having the computed second pulse function to a second trapped ion of a pair of trapped ions.",
+      "publicationNumber": "US20230334116",
+      "publicationDate": "2023-10-19",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Reinhold BLUMEL",
+        "Yunseong NAM",
+        "Andrii MAKSYMOV"
+      ],
+      "applicationDate": "2023-03-07",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 11.066306
+    },
+    {
+      "id": "US-20230132301-A1",
+      "title": [
+        "CORRECTION OF LIGHT-SHIFT EFFECTS IN TRAPPED-ION QUANTUM GATES"
+      ],
+      "abstract": "Aspects of the present disclosure relate generally to systems and methods for use in the implementation and/or operation of quantum information processing (QIP) systems, and more particularly, to the correction of light-shift effects in trapped-ion quantum gates. Techniques are described for light-shift correction of single qubit gates when the gates are implemented using counter-propagating Raman laser beams and when the gates are implemented using co-propagating Raman laser beams. Moreover, techniques are also described for light-shift correction of two-qubit gates.",
+      "publicationNumber": "US20230132301",
+      "publicationDate": "2023-04-27",
+      "assignee": [
+        "IonQ, Inc."
+      ],
+      "inventors": [
+        "Shantanu DEBNATH",
+        "Vandiver Chaplin"
+      ],
+      "applicationDate": "2022-10-20",
+      "claimsCount": 20,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Computer technology",
+        "Measurement"
+      ],
+      "score": 11.066306
+    }
+  ]
+}

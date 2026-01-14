@@ -1,0 +1,784 @@
+{
+  "count": 31,
+  "numFound": 31,
+  "docs": [
+    {
+      "id": "WO-2021081400-A1",
+      "title": [
+        "MAGNETIC FIELD PARTICLE CONFINEMENT IN ROTARY TUBE FURNACE"
+      ],
+      "abstract": "Disclosed herein is a rotary tube furnace configured to facilitate a chemical reaction between a solid mass and a gas in the furnace. The rotary tube furnace may comprise a reaction chamber extending through the furnace, the reaction chamber configured to control ingress and egress of each of the solid mass and the gas in the reaction chamber; a passage way configured to supply the solid mass to the reaction chamber; a passage way configured to supply the gas to the reaction chamber and circulate the gas through the reaction chamber; a heater providing heat to the reaction chamber and configured to control a reaction temperature in the reaction chamber; a magnetic field source in proximity to the reaction chamber for generating a magnetic field to one or more reaction zones of the reaction chamber; wherein the reaction chamber provides for mixing the solid mass and the gas.",
+      "publicationNumber": "WO2021081400",
+      "publicationDate": "2021-04-29",
+      "assignee": [
+        "NIRON MAGNETICS, INC."
+      ],
+      "inventors": [
+        "RICHARD W. GREGER"
+      ],
+      "applicationDate": "2020-10-23",
+      "claimsCount": 15,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Chemical engineering"
+      ],
+      "score": 20.663805
+    },
+    {
+      "id": "WO-2023183401-A1",
+      "title": [
+        "MAGNETIC CIRCUIT WITH MORE THAN ONE MAGNET TYPE"
+      ],
+      "abstract": "This disclosure provides systems, methods, and apparatus, including: a first magnet with a first remanence value and a first coercivity value, the first magnet having a first cross-sectional area substantially normal to a direction of magnetization of the first magnet; and a second magnet positioned in series with the first magnet, the second magnet with a second remanence value and a second coercivity value that is less than the first coercivity value, the second magnet having a second cross-sectional area substantially normal to a direction of magnetization of the second magnet. A ratio of the first cross-sectional area to the second cross-sectional area is equal to or greater than a ratio of the second remanence value to the first remanence value.",
+      "publicationNumber": "WO2023183401",
+      "publicationDate": "2023-09-28",
+      "assignee": [
+        "NIRON MAGNETICS, INC."
+      ],
+      "inventors": [
+        "BRUNO P. LEQUESNE"
+      ],
+      "applicationDate": "2023-03-22",
+      "claimsCount": 24,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Audio-visual technology",
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 19.943033
+    },
+    {
+      "id": "EP-4497148-A1",
+      "title": [
+        "MAGNETIC CIRCUIT WITH MORE THAN ONE MAGNET TYPE"
+      ],
+      "abstract": "This disclosure provides systems, methods, and apparatus, including: a first magnet with a first remanence value and a first coercivity value, the first magnet having a first cross-sectional area substantially normal to a direction of magnetization of the first magnet; and a second magnet positioned in series with the first magnet, the second magnet with a second remanence value and a second coercivity value that is less than the first coercivity value, the second magnet having a second cross-sectional area substantially normal to a direction of magnetization of the second magnet. A ratio of the first cross-sectional area to the second cross-sectional area is equal to or greater than a ratio of the second remanence value to the first remanence value.",
+      "publicationNumber": "EP4497148",
+      "publicationDate": "2025-01-29",
+      "assignee": [
+        "Niron Magnetics, Inc."
+      ],
+      "inventors": [
+        "BRUNO P. LEQUESNE"
+      ],
+      "applicationDate": "2023-03-22",
+      "claimsCount": 24,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Audio-visual technology",
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 19.943033
+    },
+    {
+      "id": "US-20220379278-A1",
+      "title": [
+        "MAGNETIC FIELD PARTICLE CONFINEMENT IN ROTARY TUBE FURNACE"
+      ],
+      "abstract": "Disclosed herein is a rotary tube furnace configured to facilitate a chemical reaction between a solid mass and a gas in the furnace. The rotary tube furnace may comprise a reaction chamber extending through the furnace, the reaction chamber configured to control ingress and egress of each of the solid mass and the gas in the reaction chamber; a passage way configured to supply the solid mass to the reaction chamber; a passage way configured to supply the gas to the reaction chamber and circulate the gas through the reaction chamber; a heater providing heat to the reaction chamber and configured to control a reaction temperature in the reaction chamber; a magnetic field source in proximity to the reaction chamber for generating a magnetic field to one or more reaction zones of the reaction chamber; wherein the reaction chamber provides for mixing the solid mass and the gas.",
+      "publicationNumber": "US20220379278",
+      "publicationDate": "2022-12-01",
+      "assignee": [
+        "NIRON MAGNETICS, INC."
+      ],
+      "inventors": [
+        "Richard W. Greger"
+      ],
+      "applicationDate": "2020-10-23",
+      "claimsCount": 15,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Chemical engineering"
+      ],
+      "score": 19.913885
+    },
+    {
+      "id": "WO-2020237192-A1",
+      "title": [
+        "COERCIVITY-ENHANCED IRON NITRIDE NANOPARTICLES WITH HIGH SATURATION MAGNETIZATION"
+      ],
+      "abstract": "Iron nitride nanoparticles and magnet materials made from iron nitride nanoparticles are described. The iron nitride nanoparticles have a core and a shell morphology. The shell is configured to provide a means to nitride the core. The magnetic materials are characterized as having an Msat greater than about 160 emu/g and a coercivity greater than about 700 Oe.",
+      "publicationNumber": "WO2020237192",
+      "publicationDate": "2020-11-26",
+      "assignee": [
+        "NIRON MAGNETICS, INC."
+      ],
+      "inventors": [
+        "FRANCIS JOHNSON",
+        "YIMING WU",
+        "JOHN M. LARSON",
+        "L. Anderson BLACKBURN"
+      ],
+      "applicationDate": "2020-05-22",
+      "claimsCount": 17,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Materials, metallurgy",
+        "Surface technology, coating"
+      ],
+      "score": 19.647324
+    },
+    {
+      "id": "US-20250329484-A1",
+      "title": [
+        "COERCIVITY-ENHANCED IRON NITRIDE NANOPARTICLES WITH HIGH SATURATION MAGNETIZATION"
+      ],
+      "abstract": "Iron nitride nanoparticles and magnet materials made from iron nitride nanoparticles are described. The iron nitride nanoparticles have a core and a shell morphology. The shell is configured to provide a means to nitride the core. The magnetic materials are characterized as having an Msat greater than about 160 emu/g and a coercivity greater than about 700 Oe.",
+      "publicationNumber": "US20250329484",
+      "publicationDate": "2025-10-23",
+      "assignee": [
+        "NIRON MAGNETICS, INC."
+      ],
+      "inventors": [
+        "Francis Johnson",
+        "Yiming Wu",
+        "John Michael LARSON",
+        "L. Anderson BLACKBURN"
+      ],
+      "applicationDate": "2025-06-13",
+      "claimsCount": 17,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Materials, metallurgy",
+        "Surface technology, coating"
+      ],
+      "score": 19.647324
+    },
+    {
+      "id": "EP-3973083-A4",
+      "title": [
+        "COERCIVITY-ENHANCED IRON NITRIDE NANOPARTICLES WITH HIGH SATURATION MAGNETIZATION"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP3973083",
+      "publicationDate": "2023-10-25",
+      "assignee": [
+        "Niron Magnetics, Inc."
+      ],
+      "inventors": [
+        "FRANCIS JOHNSON",
+        "YIMING WU",
+        "John Michael LARSON",
+        "L. Anderson BLACKBURN"
+      ],
+      "applicationDate": "2020-05-22",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Materials, metallurgy",
+        "Surface technology, coating"
+      ],
+      "score": 19.647324
+    },
+    {
+      "id": "EP-3973083-A1",
+      "title": [
+        "COERCIVITY-ENHANCED IRON NITRIDE NANOPARTICLES WITH HIGH SATURATION MAGNETIZATION"
+      ],
+      "abstract": "Iron nitride nanoparticles and magnet materials made from iron nitride nanoparticles are described. The iron nitride nanoparticles have a core and a shell morphology. The shell is configured to provide a means to nitride the core. The magnetic materials are characterized as having an Msat greater than about 160 emu/g and a coercivity greater than about 700 Oe.",
+      "publicationNumber": "EP3973083",
+      "publicationDate": "2022-03-30",
+      "assignee": [
+        "Niron Magnetics, Inc."
+      ],
+      "inventors": [
+        "FRANCIS JOHNSON",
+        "YIMING WU",
+        "John Michael LARSON",
+        "L. Anderson BLACKBURN"
+      ],
+      "applicationDate": "2020-05-22",
+      "claimsCount": 17,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Materials, metallurgy",
+        "Surface technology, coating"
+      ],
+      "score": 19.647324
+    },
+    {
+      "id": "WO-2025178978-A1",
+      "title": [
+        "VARIABLE-FLUX-INTENSIFYING ELECTRIC MACHINES USING IRON NITRIDE PERMANENT MAGNETS"
+      ],
+      "abstract": "A rotor for an electric machine has a plurality of pairs of magnets disposed in the rotor near an outer portion of the rotor. The magnets have a coercivity (Hci) of 2,000 Oe to 4,000 Oe, are positioned such that magnetic poles are in line with a rotational axis of the rotor, and are affixed to the rotor by a high-permeable material. Each magnet pair has like magnetic poles facing each other, and each magnet has a longitudinal axis that aligns with a d-axis of the rotor. The rotor includes first nonmagnetic and nonconductive components with a longitudinal axis that aligns with a q-axis of the rotor, and second nonmagnetic and nonconductive components with a curved region that is concave with respect to a surface of the rotor. The magnets are centered relative to the second nonmagnetic and nonconductive components to be disposed in the curved region.",
+      "publicationNumber": "WO2025178978",
+      "publicationDate": "2025-08-28",
+      "assignee": [
+        "NIRON MAGNETICS, INC."
+      ],
+      "inventors": [
+        "ANTHONY CHARLES MORCOS"
+      ],
+      "applicationDate": "2025-02-19",
+      "claimsCount": 26,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 19.61684
+    },
+    {
+      "id": "WO-2021168438-A9",
+      "title": [
+        "ANISOTROPIC IRON NITRIDE PERMANENT MAGNETS"
+      ],
+      "abstract": "Disclosed herein is a permanent magnet comprising: a plurality of aligned iron nitride nanoparticles wherein the iron nitride nanoparticles include \u03b1\"-Fe16N2 phase domains; wherein a ratio of integrated intensities of an \u03b1\"-Fe16N2 (004) x-ray diffraction peak to an \u03b1\"- \u03b1\"-Fe16N2 (202) x-ray diffraction peak for the aligned iron nitride nanoparticles is greater than at least 7%, wherein the diffraction vector is parallel to alignment direction, and wherein the iron nitride nanoparticles exhibit a squareness measured parallel to the alignment direction that is greater than a squareness measured perpendicular to the alignment direction.",
+      "publicationNumber": "WO2021168438",
+      "publicationDate": "2021-10-07",
+      "assignee": [
+        "NIRON MAGNETICS, INC."
+      ],
+      "inventors": [
+        "FRANCIS JOHNSON",
+        "RICHARD W. GREGER",
+        "JOHN M. LARSON",
+        "YIMING WU",
+        "FAN ZHANG",
+        "Kathryn Sara DAMIEN"
+      ],
+      "applicationDate": "2021-02-22",
+      "claimsCount": 26,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 19.61684
+    },
+    {
+      "id": "WO-2021168438-A1",
+      "title": [
+        "ANISOTROPIC IRON NITRIDE PERMANENT MAGNETS"
+      ],
+      "abstract": "Disclosed herein is a permanent magnet comprising: a plurality of aligned iron nitride nanoparticles wherein the iron nitride nanoparticles include \u03b1\"-Fe16N2 phase domains; wherein a ratio of integrated intensities of an \u03b1\"-Fe16N2 (004) x-ray diffraction peak to an \u03b1\"- \u03b1\"-Fe16N2 (202) x-ray diffraction peak for the aligned iron nitride nanoparticles is greater than at least 7%, wherein the diffraction vector is parallel to alignment direction, and wherein the iron nitride nanoparticles exhibit a squareness measured parallel to the alignment direction that is greater than a squareness measured perpendicular to the alignment direction.",
+      "publicationNumber": "WO2021168438",
+      "publicationDate": "2021-08-26",
+      "assignee": [
+        "NIRON MAGNETICS, INC."
+      ],
+      "inventors": [
+        "FRANCIS JOHNSON",
+        "RICHARD W. GREGER",
+        "JOHN M. LARSON",
+        "YIMING WU",
+        "FAN ZHANG",
+        "Kathryn Sara DAMIEN"
+      ],
+      "applicationDate": "2021-02-22",
+      "claimsCount": 26,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 19.61684
+    },
+    {
+      "id": "EP-4107765-A1",
+      "title": [
+        "ANISOTROPIC IRON NITRIDE PERMANENT MAGNETS"
+      ],
+      "abstract": "Disclosed herein is a permanent magnet comprising: a plurality of aligned iron nitride nanoparticles wherein the iron nitride nanoparticles include \u03b1\"-Fe16N2 phase domains; wherein a ratio of integrated intensities of an \u03b1\"-Fe16N2 (004) x-ray diffraction peak to an \u03b1\"- \u03b1\"-Fe16N2 (202) x-ray diffraction peak for the aligned iron nitride nanoparticles is greater than at least 7%, wherein the diffraction vector is parallel to alignment direction, and wherein the iron nitride nanoparticles exhibit a squareness measured parallel to the alignment direction that is greater than a squareness measured perpendicular to the alignment direction.",
+      "publicationNumber": "EP4107765",
+      "publicationDate": "2022-12-28",
+      "assignee": [
+        "Niron Magnetics, Inc."
+      ],
+      "inventors": [
+        "FRANCIS JOHNSON",
+        "RICHARD W. GREGER",
+        "JOHN M. LARSON",
+        "YIMING WU",
+        "FAN ZHANG",
+        "Kathryn Sara DAMIEN"
+      ],
+      "applicationDate": "2021-02-22",
+      "claimsCount": 26,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 19.61684
+    },
+    {
+      "id": "US-20230307970-A1",
+      "title": [
+        "MAGNETIC CIRCUIT WITH MORE THAN ONE MAGNET TYPE"
+      ],
+      "abstract": "This disclosure provides systems, methods, and apparatus, including: a first magnet with a first remanence value and a first coercivity value, the first magnet having a first cross-sectional area substantially normal to a direction of magnetization of the first magnet; and a second magnet positioned in series with the first magnet, the second magnet with a second remanence value and a second coercivity value that is less than the first coercivity value, the second magnet having a second cross-sectional area substantially normal to a direction of magnetization of the second magnet. A ratio of the first cross-sectional area to the second cross-sectional area is equal to or greater than a ratio of the second remanence value to the first remanence value.",
+      "publicationNumber": "US20230307970",
+      "publicationDate": "2023-09-28",
+      "assignee": [
+        "NIRON MAGNETICS, INC."
+      ],
+      "inventors": [
+        "Bruno P. LEQUESNE"
+      ],
+      "applicationDate": "2022-03-22",
+      "claimsCount": 24,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 19.22131
+    },
+    {
+      "id": "JP-2025023983-A",
+      "title": [
+        "Coercivity-enhanced iron nitride nanoparticles with high saturation magnetization"
+      ],
+      "abstract": "To provide coercive force enhanced iron nitride nanoparticles having high saturation magnetization.SOLUTION: Iron nitride nanoparticles and magnetic materials made from the iron nitride nanoparticles are described. The iron nitride nanoparticles have a core and shell morphology. The shell is configured to provide a means for nitriding the core. The magnetic materials have an Msat of greater than about 160 emu/g and a coercivity of greater than about 700 Oe.SELECTED DRAWING: Figure 1-2",
+      "publicationNumber": "JP2025023983",
+      "publicationDate": "2025-02-19",
+      "assignee": [
+        "NIRON MAGNETICS INC"
+      ],
+      "inventors": [
+        "FRANCIS JOHNSON",
+        "WU YIMING",
+        "JOHN MICHAEL LARSON",
+        "L ANDERSON BLACKBURN"
+      ],
+      "applicationDate": "2024-11-01",
+      "claimsCount": 12,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Micro-structural and nano-technology"
+      ],
+      "score": 19.166088
+    },
+    {
+      "id": "US-20220215991-A1",
+      "title": [
+        "COERCIVITY-ENHANCED IRON NITRIDE NANOPARTICLES WITH HIGH SATURATION MAGNETIZATION"
+      ],
+      "abstract": "Iron nitride nanoparticles and magnet materials made from iron nitride nanoparticles are described. The iron nitride nanoparticles have a core and a shell morphology. The shell is configured to provide a means to nitride the core. The magnetic materials are characterized as having an Msat greater than about 160 emu/g and a coercivity greater than about 700 Oe.",
+      "publicationNumber": "US20220215991",
+      "publicationDate": "2022-07-07",
+      "assignee": [
+        "NIRON MAGNETICS, INC."
+      ],
+      "inventors": [
+        "Francis Johnson",
+        "Yiming Wu",
+        "John Michael LARSON",
+        "L. Anderson BLACKBURN"
+      ],
+      "applicationDate": "2020-05-22",
+      "claimsCount": 17,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Materials, metallurgy",
+        "Surface technology, coating"
+      ],
+      "score": 18.934666
+    },
+    {
+      "id": "US-20240047102-A1",
+      "title": [
+        "ANISOTROPIC IRON NITRIDE PERMANENT MAGNETS"
+      ],
+      "abstract": "Disclosed herein is a permanent magnet comprising: a plurality of aligned iron nitride nanoparticles wherein the iron nitride nanoparticles include \u03b1\u2033-Fe16N2 phase domains; wherein a ratio of integrated intensities of an \u03b1\u2033-Fe16N2 (004) x-ray diffraction peak to an \u03b1\u2033-\u03b1\u2033-Fe16N2 (202) x-ray diffraction peak for the aligned iron nitride nanoparticles is greater than at least 7%, wherein the diffraction vector is parallel to alignment direction, and wherein the iron nitride nanoparticles exhibit a squareness measured parallel to the alignment direction that is greater than a squareness measured perpendicular to the alignment direction.",
+      "publicationNumber": "US20240047102",
+      "publicationDate": "2024-02-08",
+      "assignee": [
+        "NIRON MAGNETICS, INC."
+      ],
+      "inventors": [
+        "Francis Johnson",
+        "Richard W. Greger",
+        "John Michael LARSON",
+        "Yiming Wu",
+        "Fan Zhang",
+        "Kathryn Sara DAMIEN"
+      ],
+      "applicationDate": "2023-10-18",
+      "claimsCount": 12,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 18.906591
+    },
+    {
+      "id": "US-20220238263-A1",
+      "title": [
+        "ANISOTROPIC IRON NITRIDE PERMANENT MAGNETS"
+      ],
+      "abstract": "Disclosed herein is a permanent magnet comprising: a plurality of aligned iron nitride nanoparticles wherein the iron nitride nanoparticles include \u03b1\u2033-Fe16N2 phase domains; wherein a ratio of integrated intensities of an \u03b1\u2033-Fe16N2 (004) x-ray diffraction peak to an \u03b1\u2033-\u03b1\u2033-Fe16N2 (202) x-ray diffraction peak for the aligned iron nitride nanoparticles is greater than at least 7%, wherein the diffraction vector is parallel to alignment direction, and wherein the iron nitride nanoparticles exhibit a squareness measured parallel to the alignment direction that is greater than a squareness measured perpendicular to the alignment direction.",
+      "publicationNumber": "US20220238263",
+      "publicationDate": "2022-07-28",
+      "assignee": [
+        "NIRON MAGNETICS, INC."
+      ],
+      "inventors": [
+        "Francis Johnson",
+        "Richard W. Greger",
+        "John Michael LARSON",
+        "Yiming Wu",
+        "Fan Zhang",
+        "Kathryn Sara DAMIEN"
+      ],
+      "applicationDate": "2022-04-12",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 18.906591
+    },
+    {
+      "id": "US-20210265086-A1",
+      "title": [
+        "ANISOTROPIC IRON NITRIDE PERMANENT MAGNETS"
+      ],
+      "abstract": "Disclosed herein is a permanent magnet comprising: a plurality of aligned iron nitride nanoparticles wherein the iron nitride nanoparticles include \u03b1\u2033-Fe16N2 phase domains; wherein a ratio of integrated intensities of an \u03b1\u2033-Fe16N2 (004) x-ray diffraction peak to an \u03b1\u2033-\u03b1\u2033-Fe16N2 (202) x-ray diffraction peak for the aligned iron nitride nanoparticles is greater than at least 7%, wherein the diffraction vector is parallel to alignment direction, and wherein the iron nitride nanoparticles exhibit a squareness measured parallel to the alignment direction that is greater than a squareness measured perpendicular to the alignment direction.",
+      "publicationNumber": "US20210265086",
+      "publicationDate": "2021-08-26",
+      "assignee": [
+        "NIRON MAGNETICS, INC."
+      ],
+      "inventors": [
+        "Francis Johnson",
+        "Richard W. Greger",
+        "John M. Larson",
+        "Yiming Wu",
+        "Fan Zhang",
+        "Kathryn Sara DAMIEN"
+      ],
+      "applicationDate": "2021-02-22",
+      "claimsCount": 26,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 18.906591
+    },
+    {
+      "id": "US-20250326657-A1",
+      "title": [
+        "IRON-BASED NANOPARTICLES AND METHODS OF PROCESSING"
+      ],
+      "abstract": "Methods and compositions including iron-based nanoparticles are provided herein. A method of processing an iron-based nanoparticle to form a capped iron-based nanoparticle may include introducing a cation and introducing an anion. The cation may bond to a portion of an outer region of the iron-based nanoparticle to define an intermediate nanoparticle. The anion may react with the intermediate nanoparticle to form a cation-anion coating, or a shell, on one or more portions of the outer region of the intermediate nanoparticle to form an iron-based capped nanoparticle. The cation-anion coating may cover only a portion of the outer region.",
+      "publicationNumber": "US20250326657",
+      "publicationDate": "2025-10-23",
+      "assignee": [
+        "Niron Magnetics, Inc"
+      ],
+      "inventors": [
+        "Andrew McGrath",
+        "Amy Bergerud",
+        "Francis Johnson"
+      ],
+      "applicationDate": "2025-04-21",
+      "claimsCount": 22,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 18.557693
+    },
+    {
+      "id": "JP-2025165908-A",
+      "title": [
+        "\u9244\u7cfb\u30ca\u30ce\u7c92\u5b50\u53ca\u3073\u51e6\u7406\u65b9\u6cd5"
+      ],
+      "abstract": "\u3010\u8ab2\u984c\u3011\u5f93\u6765\u6280\u8853\u306e\u6b20\u70b9\u3092\u6709\u3057\u306a\u3044\u9244\u7cfb\u30ca\u30ce\u7c92\u5b50\u3092\u542b\u3080\u65b9\u6cd5\u53ca\u3073\u7d44\u6210\u7269\u3092\u5f97\u308b\u3002 \u3010\u89e3\u6c7a\u624b\u6bb5\u3011\u9244\u7cfb\u30ca\u30ce\u7c92\u5b50\u3092\u542b\u3080\u65b9\u6cd5\u53ca\u3073\u7d44\u6210\u7269\u304c\u672c\u660e\u7d30\u66f8\u3067\u63d0\u4f9b\u3055\u308c\u308b\u3002\u9244\u7cfb\u30ca\u30ce\u7c92\u5b50\u3092\u51e6\u7406\u3059\u308b\u3053\u3068\u306b\u3088\u308a\u30ad\u30e3\u30c3\u30d7\u30c9\u9244\u7cfb\u30ca\u30ce\u7c92\u5b50\u3092\u5f62\u6210\u3059\u308b\u65b9\u6cd5\u306f\u3001\u30ab\u30c1\u30aa\u30f3\u3092\u5c0e\u5165\u3059\u308b\u5de5\u7a0b\u3068\u3001\u30a2\u30cb\u30aa\u30f3\u3092\u5c0e\u5165\u3059\u308b\u5de5\u7a0b\u3068\u3092\u542b\u3080\u3053\u3068\u304c\u3067\u304d\u308b\u3002\u30ab\u30c1\u30aa\u30f3\u304c\u9244\u7cfb\u30ca\u30ce\u7c92\u5b50\u306e\u5916\u5074\u9818\u57df\u306e\u4e00\u90e8\u5206\u306b\u7d50\u5408\u3059\u308b\u3053\u3068\u306b\u3088\u308a\u3001\u4e2d\u9593\u30ca\u30ce\u7c92\u5b50\u3092\u753b\u5b9a\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002\u30a2\u30cb\u30aa\u30f3\u304c\u4e2d\u9593\u30ca\u30ce\u7c92\u5b50\u3068\u53cd\u5fdc\u3057\u3066\u3001\u4e2d\u9593\u30ca\u30ce\u7c92\u5b50\u306e\u5916\u5074\u9818\u57df\u306e\uff11\u53c8\u306f\u8907\u6570\u306e\u90e8\u5206\u306b\u30ab\u30c1\u30aa\u30f3\uff0d\u30a2\u30cb\u30aa\u30f3\u30b3\u30fc\u30c6\u30a3\u30f3\u30b0\u3001\u3059\u306a\u308f\u3061\u30b7\u30a7\u30eb\u3092\u5f62\u6210\u3059\u308b\u3053\u3068\u306b\u3088\u308a\u3001\u9244\u7cfb\u30ad\u30e3\u30c3\u30d7\u30c9\u30ca\u30ce\u7c92\u5b50\u3092\u5f62\u6210\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002\u30ab\u30c1\u30aa\u30f3\uff0d\u30a2\u30cb\u30aa\u30f3\u30b3\u30fc\u30c6\u30a3\u30f3\u30b0\u306f\u3001\u5916\u5074\u9818\u57df\u306e\u4e00\u90e8\u5206\u306e\u307f\u3092\u8986\u3063\u3066\u3044\u3066\u3082\u3088\u3044\u3002 \u3010\u9078\u629e\u56f3\u3011\u306a\u3057",
+      "publicationNumber": "JP2025165908",
+      "publicationDate": "2025-11-05",
+      "assignee": [
+        "\u30cb\u30ed\u30f3 \u30de\u30b0\u30cd\u30c6\u30a3\u30af\u30b9\uff0c\u30a4\u30f3\u30b3\u30fc\u30dd\u30ec\u30a4\u30c6\u30a3\u30c9"
+      ],
+      "inventors": [
+        "\u30a2\u30f3\u30c9\u30ea\u30e5\u30fc \u30de\u30af\u30b0\u30e9\u30b9",
+        "\u30a8\u30a4\u30df\u30fc \u30d9\u30eb\u30b2\u30eb\u30c9",
+        "\u30d5\u30e9\u30f3\u30b7\u30b9 \u30b8\u30e7\u30f3\u30bd\u30f3"
+      ],
+      "applicationDate": "2025-04-22",
+      "claimsCount": 36,
+      "independentClaimsCount": 6,
+      "technologyFields": [
+        "Chemical engineering"
+      ],
+      "score": 17.765417
+    },
+    {
+      "id": "US-12485396-B2",
+      "title": [
+        "Magnetic field particle confinement in rotary tube furnace"
+      ],
+      "abstract": "Disclosed herein is a rotary tube furnace configured to facilitate a chemical reaction between a solid mass and a gas in the furnace. The rotary tube furnace may comprise a reaction chamber extending through the furnace, the reaction chamber configured to control ingress and egress of each of the solid mass and the gas in the reaction chamber; a passage way configured to supply the solid mass to the reaction chamber; a passage way configured to supply the gas to the reaction chamber and circulate the gas through the reaction chamber; a heater providing heat to the reaction chamber and configured to control a reaction temperature in the reaction chamber; a magnetic field source in proximity to the reaction chamber for generating a magnetic field to one or more reaction zones of the reaction chamber; wherein the reaction chamber provides for mixing the solid mass and the gas.",
+      "publicationNumber": "US12485396",
+      "publicationDate": "2025-12-02",
+      "assignee": [
+        "NIRON MAGNETICS, INC."
+      ],
+      "inventors": [
+        "Richard W. Greger"
+      ],
+      "applicationDate": "2020-10-23",
+      "claimsCount": 7,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Chemical engineering"
+      ],
+      "score": 17.37131
+    },
+    {
+      "id": "JP-2025510121-A",
+      "title": [
+        "\u8907\u6570\u306e\u78c1\u77f3\u578b\u3092\u5099\u3048\u308b\u78c1\u6c17\u56de\u8def"
+      ],
+      "abstract": "\u672c\u958b\u793a\u306f\u3001\u30b7\u30b9\u30c6\u30e0\u3001\u65b9\u6cd5\u53ca\u3073\u88c5\u7f6e\u3067\u3042\u3063\u3066\u3001\u7b2c\uff11\u306e\u6b8b\u7559\u78c1\u5316\u5024\u53ca\u3073\u7b2c\uff11\u306e\u4fdd\u78c1\u529b\u5024\u3092\u6709\u3059\u308b\u7b2c\uff11\u306e\u78c1\u77f3\u3067\u3042\u3063\u3066\u3001\u7b2c\uff11\u306e\u78c1\u77f3\u306e\u78c1\u5316\u65b9\u5411\u306b\u5b9f\u8cea\u7684\u306b\u5782\u76f4\u306a\u7b2c\uff11\u306e\u65ad\u9762\u7a4d\u3092\u6709\u3059\u308b\u7b2c\uff11\u306e\u78c1\u77f3\u3068\u3001\u7b2c\uff11\u306e\u78c1\u77f3\u3068\u76f4\u5217\u306b\u914d\u7f6e\u3055\u308c\u305f\u7b2c\uff12\u306e\u78c1\u77f3\u3067\u3042\u3063\u3066\u3001\u7b2c\uff12\u306e\u6b8b\u7559\u78c1\u5316\u5024\u3068\u3001\u7b2c\uff11\u306e\u4fdd\u78c1\u529b\u5024\u3088\u308a\u3082\u5c0f\u3055\u3044\u7b2c\uff12\u306e\u4fdd\u78c1\u529b\u5024\u3068\u3092\u6709\u3057\u3001\u7b2c\uff12\u306e\u78c1\u77f3\u306e\u78c1\u5316\u65b9\u5411\u306b\u5b9f\u8cea\u7684\u306b\u5782\u76f4\u306a\u7b2c\uff12\u306e\u65ad\u9762\u7a4d\u3092\u6709\u3059\u308b\u7b2c\uff12\u306e\u78c1\u77f3\u3068\u3001\u3092\u542b\u3080\u3001\u30b7\u30b9\u30c6\u30e0\u3001\u65b9\u6cd5\u53ca\u3073\u88c5\u7f6e\u3092\u63d0\u4f9b\u3059\u308b\u3002\u7b2c\uff12\u306e\u65ad\u9762\u7a4d\u306b\u5bfe\u3059\u308b\u7b2c\uff11\u306e\u65ad\u9762\u7a4d\u306e\u6bd4\u306f\u3001\u7b2c\uff11\u306e\u6b8b\u7559\u78c1\u5316\u5024\u306b\u5bfe\u3059\u308b\u7b2c\uff12\u306e\u6b8b\u7559\u78c1\u5316\u5024\u306e\u6bd4\u306b\u7b49\u3057\u3044\u304b\u3001\u53c8\u306f\u305d\u308c\u3088\u308a\u3082\u5927\u304d\u3044\u3002 \u3010\u9078\u629e\u56f3\u3011\u56f3\uff11\uff21",
+      "publicationNumber": "JP2025510121",
+      "publicationDate": "2025-04-14",
+      "assignee": [
+        "\u30cb\u30ed\u30f3 \u30de\u30b0\u30cd\u30c6\u30a3\u30af\u30b9\uff0c\u30a4\u30f3\u30b3\u30fc\u30dd\u30ec\u30a4\u30c6\u30a3\u30c9"
+      ],
+      "inventors": [
+        "\u30d6\u30eb\u30fc\u30ce \u30d4\u30fc\uff0e\u30ec\u30b1\u30b9\u30cd"
+      ],
+      "applicationDate": "2023-03-22",
+      "claimsCount": 24,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 17.126728
+    },
+    {
+      "id": "JP-7747853-B2",
+      "title": [
+        "\u9ad8\u3044\u98fd\u548c\u78c1\u5316\u3092\u6709\u3059\u308b\u4fdd\u78c1\u529b\u5f37\u5316\u3055\u308c\u305f\u7a92\u5316\u9244\u30ca\u30ce\u7c92\u5b50"
+      ],
+      "abstract": "To provide coercive force enhanced iron nitride nanoparticles having high saturation magnetization.SOLUTION: Iron nitride nanoparticles and magnetic materials made from the iron nitride nanoparticles are described. The iron nitride nanoparticles have a core and shell morphology. The shell is configured to provide a means for nitriding the core. The magnetic materials have an Msat of greater than about 160 emu/g and a coercivity of greater than about 700 Oe.SELECTED DRAWING: Figure 1-2",
+      "publicationNumber": "JP7747853",
+      "publicationDate": "2025-10-01",
+      "assignee": [
+        "\u30cb\u30ed\u30f3 \u30de\u30b0\u30cd\u30c6\u30a3\u30af\u30b9\uff0c\u30a4\u30f3\u30b3\u30fc\u30dd\u30ec\u30a4\u30c6\u30a3\u30c9"
+      ],
+      "inventors": [
+        "\u30d5\u30e9\u30f3\u30b7\u30b9 \u30b8\u30e7\u30f3\u30bd\u30f3",
+        "\u30a4\u30fc\u30df\u30f3 \u30a6\u30fc",
+        "\u30b8\u30e7\u30f3 \u30de\u30a4\u30b1\u30eb \u30e9\u30fc\u30bd\u30f3",
+        "\u30a8\u30eb\uff0e\u30a2\u30f3\u30c0\u30fc\u30bd\u30f3 \u30d6\u30e9\u30c3\u30af\u30d0\u30fc\u30f3"
+      ],
+      "applicationDate": "2024-11-01",
+      "claimsCount": 11,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Micro-structural and nano-technology"
+      ],
+      "score": 16.873058
+    },
+    {
+      "id": "JP-2025186410-A",
+      "title": [
+        "\u9ad8\u3044\u98fd\u548c\u78c1\u5316\u3092\u6709\u3059\u308b\u4fdd\u78c1\u529b\u5f37\u5316\u3055\u308c\u305f\u7a92\u5316\u9244\u30ca\u30ce\u7c92\u5b50"
+      ],
+      "abstract": "\u3010\u8ab2\u984c\u3011\u9ad8\u3044\u98fd\u548c\u78c1\u5316\u3092\u6709\u3059\u308b\u4fdd\u78c1\u529b\u5f37\u5316\u3055\u308c\u305f\u7a92\u5316\u9244\u30ca\u30ce\u7c92\u5b50\u3092\u63d0\u4f9b\u3059\u308b\u3053\u3068\u3002\u3010\u89e3\u6c7a\u624b\u6bb5\u3011\u7a92\u5316\u9244\u30ca\u30ce\u7c92\u5b50\u3001\u53ca\u3073\u7a92\u5316\u9244\u30ca\u30ce\u7c92\u5b50\u304b\u3089\u4f5c\u3089\u308c\u305f\u78c1\u6027\u6750\u6599\u304c\u3067\u3042\u3063\u3066\u3001\u7a92\u5316\u9244\u30ca\u30ce\u7c92\u5b50\u306f\u3001\u30b3\u30a2\u53ca\u3073\u30b7\u30a7\u30eb\u306e\u5f62\u614b\u3092\u6709\u3059\u308b\u3002\u30b7\u30a7\u30eb\u306f\u3001\u30b3\u30a2\u3092\u7a92\u5316\u3059\u308b\u305f\u3081\u306e\u624b\u6bb5\u3092\u63d0\u4f9b\u3059\u308b\u3002\u78c1\u6027\u6750\u6599\u306f\u3001\u7d04\uff11\uff16\uff10\uff45\uff4d\uff55\uff0f\uff47\u8d85\u306e\uff2d\uff53\uff41\uff54\u53ca\u3073\u7d04\uff17\uff10\uff10\uff2f\uff45\u8d85\u306e\u4fdd\u78c1\u529b\u3092\u6709\u3059\u308b\u3002\u3010\u9078\u629e\u56f3\u3011\u56f3\uff11\uff0d\uff12",
+      "publicationNumber": "JP2025186410",
+      "publicationDate": "2025-12-23",
+      "assignee": [
+        "\u30cb\u30ed\u30f3 \u30de\u30b0\u30cd\u30c6\u30a3\u30af\u30b9\uff0c\u30a4\u30f3\u30b3\u30fc\u30dd\u30ec\u30a4\u30c6\u30a3\u30c9"
+      ],
+      "inventors": [
+        "\u30d5\u30e9\u30f3\u30b7\u30b9 \u30b8\u30e7\u30f3\u30bd\u30f3",
+        "\u30a4\u30fc\u30df\u30f3 \u30a6\u30fc",
+        "\u30b8\u30e7\u30f3 \u30de\u30a4\u30b1\u30eb \u30e9\u30fc\u30bd\u30f3",
+        "\u30a8\u30eb\uff0e\u30a2\u30f3\u30c0\u30fc\u30bd\u30f3 \u30d6\u30e9\u30c3\u30af\u30d0\u30fc\u30f3"
+      ],
+      "applicationDate": "2025-09-18",
+      "claimsCount": 15,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Micro-structural and nano-technology"
+      ],
+      "score": 16.873058
+    },
+    {
+      "id": "JP-2022533257-A",
+      "title": [
+        "\u9ad8\u3044\u98fd\u548c\u78c1\u5316\u3092\u6709\u3059\u308b\u4fdd\u78c1\u529b\u5f37\u5316\u3055\u308c\u305f\u7a92\u5316\u9244\u30ca\u30ce\u7c92\u5b50"
+      ],
+      "abstract": "\u7a92\u5316\u9244\u30ca\u30ce\u7c92\u5b50\u3001\u53ca\u3073\u7a92\u5316\u9244\u30ca\u30ce\u7c92\u5b50\u304b\u3089\u4f5c\u3089\u308c\u305f\u78c1\u6027\u6750\u6599\u304c\u3001\u8aac\u660e\u3055\u308c\u308b\u3002\u7a92\u5316\u9244\u30ca\u30ce\u7c92\u5b50\u306f\u3001\u30b3\u30a2\u53ca\u3073\u30b7\u30a7\u30eb\u306e\u5f62\u614b\u3092\u6709\u3059\u308b\u3002\u30b7\u30a7\u30eb\u306f\u3001\u30b3\u30a2\u3092\u7a92\u5316\u3059\u308b\u305f\u3081\u306e\u624b\u6bb5\u3092\u63d0\u4f9b\u3059\u308b\u3088\u3046\u306b\u69cb\u6210\u3055\u308c\u3066\u3044\u308b\u3002\u78c1\u6027\u6750\u6599\u306f\u3001\u7d04\uff11\uff16\uff10\uff45\uff4d\uff55\uff0f\uff47\u8d85\u306e\uff2d\uff53\uff41\uff54\u53ca\u3073\u7d04\uff17\uff10\uff10\uff2f\uff45\u8d85\u306e\u4fdd\u78c1\u529b\u3092\u6709\u3059\u308b\u3053\u3068\u3092\u7279\u5fb4\u3068\u3059\u308b\u3002",
+      "publicationNumber": "JP2022533257",
+      "publicationDate": "2022-07-21",
+      "assignee": [
+        "\u30cb\u30ed\u30f3 \u30de\u30b0\u30cd\u30c6\u30a3\u30af\u30b9\uff0c\u30a4\u30f3\u30b3\u30fc\u30dd\u30ec\u30a4\u30c6\u30a3\u30c9"
+      ],
+      "inventors": [
+        "\u30d5\u30e9\u30f3\u30b7\u30b9 \u30b8\u30e7\u30f3\u30bd\u30f3",
+        "\u30a4\u30fc\u30df\u30f3 \u30a6\u30fc",
+        "\u30b8\u30e7\u30f3 \u30de\u30a4\u30b1\u30eb \u30e9\u30fc\u30bd\u30f3",
+        "\u30a8\u30eb\uff0e\u30a2\u30f3\u30c0\u30fc\u30bd\u30f3 \u30d6\u30e9\u30c3\u30af\u30d0\u30fc\u30f3"
+      ],
+      "applicationDate": "2020-05-22",
+      "claimsCount": 17,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Micro-structural and nano-technology"
+      ],
+      "score": 16.873058
+    },
+    {
+      "id": "JP-7764387-B2",
+      "title": [
+        "\u7570\u65b9\u6027\u7a92\u5316\u9244\u6c38\u4e45\u78c1\u77f3"
+      ],
+      "abstract": "\u672c\u660e\u7d30\u66f8\u3067\u958b\u793a\u3055\u308c\u3066\u3044\u308b\u306e\u306f\u3001\u8907\u6570\u306e\u6574\u5217\u3057\u305f\u7a92\u5316\u9244\u30ca\u30ce\u7c92\u5b50\u3067\u3042\u3063\u3066\u3001\u7a92\u5316\u9244\u30ca\u30ce\u7c92\u5b50\u304c\u03b1\u2019\u2019\uff0d\uff26\uff45\uff11\uff16\uff2e\uff12\u76f8\u30c9\u30e1\u30a4\u30f3\u3092\u542b\u307f\uff1b\u6574\u5217\u3057\u305f\u7a92\u5316\u9244\u30ca\u30ce\u7c92\u5b50\u306b\u3064\u3044\u3066\u306e\u3001\u03b1\u2019\u2019\uff0d\u03b1\u2019\u2019\uff0d\uff26\uff45\uff11\uff16\uff2e\uff12\uff08\uff12\uff10\uff12\uff09\uff38\u7dda\u56de\u6790\u30d4\u30fc\u30af\u306b\u5bfe\u3059\u308b\u03b1\u2019\u2019\uff0d\uff26\uff45\uff11\uff16\uff2e\uff12\uff08\uff10\uff10\uff14\uff09\uff38\u7dda\u56de\u6790\u30d4\u30fc\u30af\u306e\u7a4d\u5206\u5f37\u5ea6\u6bd4\u304c\u3001\u5c11\u306a\u304f\u3068\u3082\uff17\uff05\u3088\u308a\u5927\u304d\u304f\u3001\u56de\u6790\u30d9\u30af\u30c8\u30eb\u304c\u6574\u5217\u65b9\u5411\u306b\u5bfe\u3057\u3066\u5e73\u884c\u3067\u3042\u308b\u6574\u5217\u3057\u305f\u7a92\u5316\u9244\u30ca\u30ce\u7c92\u5b50\u3092\u542b\u3080\u6c38\u4e45\u78c1\u77f3\u306b\u304a\u3044\u3066\u3001\u7a92\u5316\u9244\u30ca\u30ce\u7c92\u5b50\u304c\u3001\u6574\u5217\u65b9\u5411\u306b\u5bfe\u3057\u3066\u5782\u76f4\u306b\u6e2c\u5b9a\u3055\u308c\u305f\u89d2\u5f62\u6027\u3088\u308a\u3082\u5927\u304d\u3044\u6574\u5217\u65b9\u5411\u306b\u5e73\u884c\u306b\u6e2c\u5b9a\u3055\u308c\u305f\u89d2\u5f62\u6027\u3092\u793a\u3059\u3001\u6c38\u4e45\u78c1\u77f3\u3067\u3042\u308b\u3002 \u3010\u9078\u629e\u56f3\u3011\u56f3\uff11",
+      "publicationNumber": "JP7764387",
+      "publicationDate": "2025-11-05",
+      "assignee": [
+        "\u30cb\u30ed\u30f3 \u30de\u30b0\u30cd\u30c6\u30a3\u30af\u30b9\uff0c\u30a4\u30f3\u30b3\u30fc\u30dd\u30ec\u30a4\u30c6\u30a3\u30c9"
+      ],
+      "inventors": [
+        "\u30d5\u30e9\u30f3\u30b7\u30b9 \u30b8\u30e7\u30f3\u30bd\u30f3",
+        "\u30ea\u30c1\u30e3\u30fc\u30c9 \u30c0\u30d6\u30ea\u30e5\uff0e\u30b0\u30ec\u30ac\u30fc",
+        "\u30b8\u30e7\u30f3 \u30a8\u30e0\uff0e\u30e9\u30fc\u30bd\u30f3",
+        "\u30a4\u30fc\u30df\u30f3 \u30a6\u30fc",
+        "\u30d5\u30a1\u30f3 \u30c1\u30e3\u30f3",
+        "\u30ad\u30e3\u30b9\u30ea\u30f3 \u30b5\u30e9 \u30c0\u30df\u30a2\u30f3"
+      ],
+      "applicationDate": "2021-02-22",
+      "claimsCount": 23,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Materials, metallurgy"
+      ],
+      "score": 16.848198
+    },
+    {
+      "id": "US-20250253725-A1",
+      "title": [
+        "MAGNETIC CIRCUIT WITH MORE THAN ONE MAGNET TYPE"
+      ],
+      "abstract": "This disclosure provides systems, methods, and apparatus, including: a first magnet with a first remanence value and a first coercivity value, the first magnet having a first cross-sectional area substantially normal to a direction of magnetization of the first magnet; and a second magnet positioned in series with the first magnet, the second magnet with a second remanence value and a second coercivity value that is less than the first coercivity value, the second magnet having a second cross-sectional area substantially normal to a direction of magnetization of the second magnet. A ratio of the first cross-sectional area to the second cross-sectional area is equal to or greater than a ratio of the second remanence value to the first remanence value.",
+      "publicationNumber": "US20250253725",
+      "publicationDate": "2025-08-07",
+      "assignee": [
+        "NIRON MAGNETICS, INC."
+      ],
+      "inventors": [
+        "Bruno P. LEQUESNE"
+      ],
+      "applicationDate": "2025-02-10",
+      "claimsCount": 23,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 16.77217
+    },
+    {
+      "id": "US-12231003-B2",
+      "title": [
+        "Magnetic circuit with more than one magnet type"
+      ],
+      "abstract": "This disclosure provides systems, methods, and apparatus, including: a first magnet with a first remanence value and a first coercivity value, the first magnet having a first cross-sectional area substantially normal to a direction of magnetization of the first magnet; and a second magnet positioned in series with the first magnet, the second magnet with a second remanence value and a second coercivity value that is less than the first coercivity value, the second magnet having a second cross-sectional area substantially normal to a direction of magnetization of the second magnet. A ratio of the first cross-sectional area to the second cross-sectional area is equal to or greater than a ratio of the second remanence value to the first remanence value.",
+      "publicationNumber": "US12231003",
+      "publicationDate": "2025-02-18",
+      "assignee": [
+        "NIRON MAGNETICS, INC."
+      ],
+      "inventors": [
+        "Bruno P. LEQUESNE"
+      ],
+      "applicationDate": "2022-03-22",
+      "claimsCount": 24,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 16.77217
+    },
+    {
+      "id": "US-12362082-B2",
+      "title": [
+        "Coercivity-enhanced iron nitride nanoparticles with high saturation magnetization"
+      ],
+      "abstract": "Iron nitride nanoparticles and magnet materials made from iron nitride nanoparticles are described. The iron nitride nanoparticles have a core and a shell morphology. The shell is configured to provide a means to nitride the core. The magnetic materials are characterized as having an Msat greater than about 160 emu/g and a coercivity greater than about 700 Oe.",
+      "publicationNumber": "US12362082",
+      "publicationDate": "2025-07-15",
+      "assignee": [
+        "NIRON MAGNETICS, INC."
+      ],
+      "inventors": [
+        "Francis Johnson",
+        "Yiming Wu",
+        "John Michael LARSON",
+        "L. Anderson BLACKBURN"
+      ],
+      "applicationDate": "2020-05-22",
+      "claimsCount": 14,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Materials, metallurgy",
+        "Surface technology, coating"
+      ],
+      "score": 16.52302
+    },
+    {
+      "id": "US-11830644-B2",
+      "title": [
+        "Anisotropic iron nitride permanent magnets"
+      ],
+      "abstract": "Disclosed herein is a permanent magnet comprising: a plurality of aligned iron nitride nanoparticles wherein the iron nitride nanoparticles include \u03b1\u2033-Fe16N2 phase domains; wherein a ratio of integrated intensities of an \u03b1\u2033-Fe16N2 (004) x-ray diffraction peak to an \u03b1\u2033-\u03b1\u2033-Fe16N2 (202) x-ray diffraction peak for the aligned iron nitride nanoparticles is greater than at least 7%, wherein the diffraction vector is parallel to alignment direction, and wherein the iron nitride nanoparticles exhibit a squareness measured parallel to the alignment direction that is greater than a squareness measured perpendicular to the alignment direction.",
+      "publicationNumber": "US11830644",
+      "publicationDate": "2023-11-28",
+      "assignee": [
+        "NIRON MAGNETICS, INC."
+      ],
+      "inventors": [
+        "Francis Johnson",
+        "Richard W. Greger",
+        "John Michael LARSON",
+        "Yiming Wu",
+        "Fan Zhang",
+        "Kathryn Sara DAMIEN"
+      ],
+      "applicationDate": "2022-04-12",
+      "claimsCount": 9,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 16.499306
+    },
+    {
+      "id": "US-11309107-B2",
+      "title": [
+        "Anisotropic iron nitride permanent magnets"
+      ],
+      "abstract": "Disclosed herein is a permanent magnet comprising: a plurality of aligned iron nitride nanoparticles wherein the iron nitride nanoparticles include \u03b1\u2033-Fe16N2 phase domains; wherein a ratio of integrated intensities of an \u03b1\u2033-Fe16N2 (004) x-ray diffraction peak to an \u03b1\u2033-\u03b1\u2033-Fe16N2 (202) x-ray diffraction peak for the aligned iron nitride nanoparticles is greater than at least 7%, wherein the diffraction vector is parallel to alignment direction, and wherein the iron nitride nanoparticles exhibit a squareness measured parallel to the alignment direction that is greater than a squareness measured perpendicular to the alignment direction.",
+      "publicationNumber": "US11309107",
+      "publicationDate": "2022-04-19",
+      "assignee": [
+        "NIRON MAGNETICS, INC."
+      ],
+      "inventors": [
+        "Francis Johnson",
+        "Richard W. Greger",
+        "John M. Larson",
+        "Yiming Wu",
+        "Fan Zhang",
+        "Kathryn Sara DAMIEN"
+      ],
+      "applicationDate": "2021-02-22",
+      "claimsCount": 26,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 16.499306
+    }
+  ]
+}

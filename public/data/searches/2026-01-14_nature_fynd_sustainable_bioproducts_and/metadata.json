@@ -1,0 +1,11 @@
+{
+  "search_id": "search_20260114_121545",
+  "timestamp": "2026-01-14T12:15:45.068893",
+  "query_type": "ai_search",
+  "user_prompt": "PA=(Nature's Fynd OR Sustainable Bioproducts) AND PD>2015",
+  "minesoft_query": "PA=(Nature's Fynd OR Sustainable Bioproducts) AND PD>2015",
+  "results_count": 163,
+  "directory": "2026-01-14_nature_fynd_sustainable_bioproducts_and",
+  "execution_time_ms": 6986.974716186523,
+  "api_endpoint": "query"
+}

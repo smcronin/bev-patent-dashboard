@@ -1,0 +1,2486 @@
+{
+  "count": 185,
+  "numFound": 185,
+  "docs": [
+    {
+      "id": "US-20230173543-A1",
+      "title": [
+        "MOBILE SORTER"
+      ],
+      "abstract": "A mobile sorter for sorting materials, such as from a waste landfill. The mobile sorter includes a mobile platform with a mechanism configured to transport the mobile platform over ground. A sorting system mounted onto the mobile platform is configured to identify a specific type of material piece from different types of material pieces and sort that specific type of material piece from the different types of material pieces as the different types of material pieces are conveyed via a first conveyor system through the sorting system from a heap of the different types of material pieces. An apparatus is configured to collect the different types of material pieces from the heap and feed the different types of material pieces onto the first conveyor system.",
+      "publicationNumber": "US20230173543",
+      "publicationDate": "2023-06-08",
+      "assignee": [
+        "Sortera Alloys, Inc."
+      ],
+      "inventors": [
+        "Nalin Kumar",
+        "Manuel Gerardo Garcia, JR."
+      ],
+      "applicationDate": "2022-11-21",
+      "claimsCount": 13,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Chemical engineering",
+        "Handling"
+      ],
+      "score": 13.738314
+    },
+    {
+      "id": "WO-2023137423-A1",
+      "title": [
+        "SCRAP DATA ANALYSIS"
+      ],
+      "abstract": "A first sorting system located at a first geographical location, a second sorting system located at a second geographical location, a data center located at a third geographical location, and a wide area network configured to enable data communications between the first sorting system and the data center, and between the second sorting system and the data center. The first sorting system uses a classifying/sorting algorithm to classify and sort a first mixture of materials, whereby information on results of the classifying and sorting of the first mixture of materials is collected and transmitted to the data center via the wide area network. The data center modifies the classifying/sorting algorithm as a result of the collected information. The modified classifying/sorting algorithm is then made available to the first sorting system and the second sorting system via the wide area network.",
+      "publicationNumber": "WO2023137423",
+      "publicationDate": "2023-07-20",
+      "assignee": [
+        "SORTERA ALLOYS. INC."
+      ],
+      "inventors": [
+        "NALIN KUMAR",
+        "JR., Manuel Gerardo Garcia",
+        "Kelly KORDZIK",
+        "Benjamin Lee POPE"
+      ],
+      "applicationDate": "2023-01-13",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Chemical engineering",
+        "Computer technology"
+      ],
+      "score": 12.572322
+    },
+    {
+      "id": "MX-2024008327-A",
+      "title": [
+        "SCRAP DATA ANALYSIS."
+      ],
+      "abstract": "A first sorting system located at a first geographical location, a second sorting system located at a second geographical location, a data center located at a third geographical location, and a wide area network configured to enable data communications between the first sorting system and the data center, and between the second sorting system and the data center. The first sorting system uses a classifying/sorting algorithm to classify and sort a first mixture of materials, whereby information on results of the classifying and sorting of the first mixture of materials is collected and transmitted to the data center via the wide area network. The data center modifies the classifying/sorting algorithm as a result of the collected information. The modified classifying/sorting algorithm is then made available to the first sorting system and the second sorting system via the wide area network.",
+      "publicationNumber": "MX2024008327",
+      "publicationDate": "2024-07-29",
+      "assignee": [
+        "SORTERA TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "KUMAR NALIN",
+        "GARCIA JR. MANUEL GERARDO",
+        "KORDZIK KELLY",
+        "POPE BENJAMIN LEE"
+      ],
+      "applicationDate": "2023-01-13",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Chemical engineering",
+        "Computer technology"
+      ],
+      "score": 12.572322
+    },
+    {
+      "id": "EP-4463273-A1",
+      "title": [
+        "SCRAP DATA ANALYSIS"
+      ],
+      "abstract": "A first sorting system located at a first geographical location, a second sorting system located at a second geographical location, a data center located at a third geographical location, and a wide area network configured to enable data communications between the first sorting system and the data center, and between the second sorting system and the data center. The first sorting system uses a classifying/sorting algorithm to classify and sort a first mixture of materials, whereby information on results of the classifying and sorting of the first mixture of materials is collected and transmitted to the data center via the wide area network. The data center modifies the classifying/sorting algorithm as a result of the collected information. The modified classifying/sorting algorithm is then made available to the first sorting system and the second sorting system via the wide area network.",
+      "publicationNumber": "EP4463273",
+      "publicationDate": "2024-11-20",
+      "assignee": [
+        "Sortera Technologies, Inc."
+      ],
+      "inventors": [
+        "NALIN KUMAR",
+        "JR., Manuel Gerardo Garcia",
+        "Kelly KORDZIK",
+        "Benjamin Lee POPE"
+      ],
+      "applicationDate": "2023-01-13",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Chemical engineering",
+        "Computer technology"
+      ],
+      "score": 12.572322
+    },
+    {
+      "id": "WO-2026006331-A1",
+      "title": [
+        "CLASSIFYING AND SORTING OF STREAM OF CONTIGUOUS MATERIALS"
+      ],
+      "abstract": "Systems and methods for classifying, evaluating, and sorting materials within a contiguous stream of materials. Segments of the material stream are classified and evaluated, whether such segments make up a whole material piece or a portion of a material piece. The sorting is then performed as a function of the classifications and evaluations",
+      "publicationNumber": "WO2026006331",
+      "publicationDate": "2026-01-02",
+      "assignee": [
+        "SORTERA TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "MATTHEW GEVERS",
+        "JACOB JOHN BERRY",
+        "Kyle Thomas Kokjer HARTLEY",
+        "Nicholas Xavier HORRELL",
+        "JR, Manuel Gerardo GARCIA",
+        "Kelly Karl KORDZIK"
+      ],
+      "applicationDate": "2025-06-24",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Chemical engineering",
+        "Computer technology",
+        "Control",
+        "Handling"
+      ],
+      "score": 12.10639
+    },
+    {
+      "id": "US-20260001103-A1",
+      "title": [
+        "CLASSIFYING OF STREAM OF CONTIGUOUS MATERIALS"
+      ],
+      "abstract": "Systems and methods for classifying, evaluating, and sorting materials within a contiguous stream of materials. Segments of the material stream are classified and evaluated, whether such segments make up a whole material piece or a portion of a material piece. The sorting is then performed as a function of the classifications and evaluations.",
+      "publicationNumber": "US20260001103",
+      "publicationDate": "2026-01-01",
+      "assignee": [
+        "Sortera Technologies Inc."
+      ],
+      "inventors": [
+        "Matthew Gevers",
+        "Jacob John Berry, JR.",
+        "Kyle Thomas Kokjer Hartley",
+        "Nicholas Xavier Horrell",
+        "Manual Gerardo Garcia, JR.",
+        "Kelly K. Kordzik"
+      ],
+      "applicationDate": "2025-06-24",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Chemical engineering"
+      ],
+      "score": 12.10639
+    },
+    {
+      "id": "US-20240322284-A1",
+      "title": [
+        "CONTROL METHOD, CONTROL DEVICE, AND VEHICLE"
+      ],
+      "abstract": "A control method of a vehicle includes, in response to an execution condition of a temperature adjustment control and a power consuming control being satisfied, deriving, by a computer, a cooling amount of the cooling device and a heating amount of the heating device based on a target temperature adjustment amount which is a target value of the temperature adjustment control, a target power consumption amount which is a target value of the power consuming control, a first efficiency which is a cooling amount per unit power of a cooling device, and a second efficiency which is a heating amount per unit power of a heating device; and executing, by the computer, the temperature adjustment control and the power consuming control by causing the cooling device to perform cooling and the heating device to perform heating based on the derived cooling amount and the derived heating amount.",
+      "publicationNumber": "US20240322284",
+      "publicationDate": "2024-09-26",
+      "assignee": [
+        "HONDA MOTOR CO., LTD."
+      ],
+      "inventors": [
+        "Toru OGAKI"
+      ],
+      "applicationDate": "2024-02-29",
+      "claimsCount": 7,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 11.946632
+    },
+    {
+      "id": "WO-2024086838-A1",
+      "title": [
+        "CORRECTION TECHNIQUES FOR MATERIAL CLASSIFICATION"
+      ],
+      "abstract": "When x-ray fluorescence (\"XRF\") spectroscopy is utilized to classify materials transported on a moving conveyor belt, there is the possibility of the x-ray beam only partially irradiating the material piece, which can result in the capture of an inaccurate XRF spectrum needed to classify the material piece. This can lead to an improper (erroneous) classification and resultant sortation of material pieces (e.g., aluminum alloys). In a material handling system, the area of the intersections between the x-ray beam spots from an x-ray fluorescence system and the material pieces are measured and correspondingly used to correct the measured XRF spectrum associated with each material piece. The material pieces can then be sorted according to the corrected XRF spectrum.",
+      "publicationNumber": "WO2024086838",
+      "publicationDate": "2024-04-25",
+      "assignee": [
+        "SORTERA TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "Lakshmi CHELLAPPAN",
+        "JR, Manuel Gerardo GARCIA",
+        "GIANG LE",
+        "CASEY LEE HUGHLETT"
+      ],
+      "applicationDate": "2023-10-20",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Chemical engineering",
+        "Measurement"
+      ],
+      "score": 11.434145
+    },
+    {
+      "id": "WO-2024086836-A1",
+      "title": [
+        "THIN STRIP CLASSIFICATION"
+      ],
+      "abstract": "A sorting system conveys a heterogeneous mixture of material pieces past an XRF system and a vision system. A classification of a material piece is changed to a high copper content aluminum alloy when the XRF system classifies the material piece as a low copper content aluminum alloy and the vision system determines that the material piece is a thin strip material piece. The reclassified material piece is then sorted accordingly.",
+      "publicationNumber": "WO2024086836",
+      "publicationDate": "2024-04-25",
+      "assignee": [
+        "SORTERA TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "Lakshmi CHELLAPPAN",
+        "MANUEL GERARDO, JR. GARCIA",
+        "GIANG LE",
+        "CASEY LEE HUGHLETT"
+      ],
+      "applicationDate": "2023-10-20",
+      "claimsCount": 19,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 11.434145
+    },
+    {
+      "id": "MX-2025002561-A",
+      "title": [
+        "CORRECTION TECHNIQUES FOR MATERIAL CLASSIFICATION"
+      ],
+      "abstract": "When x-ray fluorescence (\"XRF\") spectroscopy is utilized to classify materials transported on a moving conveyor belt, there is the possibility of the x-ray beam only partially irradiating the material piece, which can result in the capture of an inaccurate XRF spectrum needed to classify the material piece. This can lead to an improper (erroneous) classification and resultant sortation of material pieces (e.g., aluminum alloys). In a material handling system, the area of the intersections between the x-ray beam spots from an x-ray fluorescence system and the material pieces are measured and correspondingly used to correct the measured XRF spectrum associated with each material piece. The material pieces can then be sorted according to the corrected XRF spectrum.",
+      "publicationNumber": "MX2025002561",
+      "publicationDate": "2025-04-02",
+      "assignee": [
+        "SORTERA TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "CHELLAPPAN LAKSHMI",
+        "GARCIA JR. MANUEL GERARDO",
+        "LE HOANG TRIET GIANG",
+        "HUGHLETT CASEY LEE"
+      ],
+      "applicationDate": "2025-03-03",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Chemical engineering",
+        "Measurement"
+      ],
+      "score": 11.434145
+    },
+    {
+      "id": "EP-4605735-A1",
+      "title": [
+        "CORRECTION TECHNIQUES FOR MATERIAL CLASSIFICATION"
+      ],
+      "abstract": "When x-ray fluorescence (\"XRF\") spectroscopy is utilized to classify materials transported on a moving conveyor belt, there is the possibility of the x-ray beam only partially irradiating the material piece, which can result in the capture of an inaccurate XRF spectrum needed to classify the material piece. This can lead to an improper (erroneous) classification and resultant sortation of material pieces (e.g., aluminum alloys). In a material handling system, the area of the intersections between the x-ray beam spots from an x-ray fluorescence system and the material pieces are measured and correspondingly used to correct the measured XRF spectrum associated with each material piece. The material pieces can then be sorted according to the corrected XRF spectrum.",
+      "publicationNumber": "EP4605735",
+      "publicationDate": "2025-08-27",
+      "assignee": [
+        "Sortera Technologies, Inc."
+      ],
+      "inventors": [
+        "Lakshmi CHELLAPPAN",
+        "JR, Manuel Gerardo GARCIA",
+        "HOANG TRIET GIANG Le",
+        "CASEY LEE HUGHLETT"
+      ],
+      "applicationDate": "2023-10-20",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Chemical engineering",
+        "Measurement"
+      ],
+      "score": 11.434145
+    },
+    {
+      "id": "AU-2023364717-A1",
+      "title": [
+        "CORRECTION TECHNIQUES FOR MATERIAL CLASSIFICATION"
+      ],
+      "abstract": "When x-ray fluorescence (\"XRF\") spectroscopy is utilized to classify materials transported on a moving conveyor belt, there is the possibility of the x-ray beam only partially irradiating the material piece, which can result in the capture of an inaccurate XRF spectrum needed to classify the material piece. This can lead to an improper (erroneous) classification and resultant sortation of material pieces (e.g., aluminum alloys). In a material handling system, the area of the intersections between the x-ray beam spots from an x-ray fluorescence system and the material pieces are measured and correspondingly used to correct the measured XRF spectrum associated with each material piece. The material pieces can then be sorted according to the corrected XRF spectrum.",
+      "publicationNumber": "AU2023364717",
+      "publicationDate": "2025-03-20",
+      "assignee": [
+        "SORTERA TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "Lakshmi CHELLAPPAN",
+        "JR, Manuel Gerardo GARCIA",
+        "CASEY LEE HUGHLETT",
+        "HOANG TRIET GIANG Le"
+      ],
+      "applicationDate": "2023-10-20",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Chemical engineering",
+        "Measurement"
+      ],
+      "score": 11.434145
+    },
+    {
+      "id": "KR-20240137600-A",
+      "title": [
+        "\uc2a4\ud06c\ub7a9 \ub370\uc774\ud130 \ubd84\uc11d"
+      ],
+      "abstract": "\uc81c1 \uc9c0\ub9ac\uc801 \uc704\uce58\uc5d0 \uc704\uce58\ub41c \uc81c1 \uc120\ubcc4 \uc2dc\uc2a4\ud15c, \uc81c2 \uc9c0\ub9ac\uc801 \uc704\uce58\uc5d0 \uc704\uce58\ub41c \uc81c2 \uc120\ubcc4 \uc2dc\uc2a4\ud15c, \uc81c3 \uc9c0\ub9ac\uc801 \uc704\uce58\uc5d0 \uc704\uce58\ub41c \ub370\uc774\ud130 \uc13c\ud130, \ubc0f \uc81c1 \uc120\ubcc4 \uc2dc\uc2a4\ud15c\uacfc \ub370\uc774\ud130 \uc13c\ud130 \uc0ac\uc774 \ubc0f \uc81c2 \uc120\ubcc4 \uc2dc\uc2a4\ud15c\uacfc \ub370\uc774\ud130 \uc13c\ud130 \uc0ac\uc774\uc758 \ub370\uc774\ud130 \ud1b5\uc2e0\ub4e4\uc744 \uac00\ub2a5\ud558\uac8c \ud558\ub3c4\ub85d \uad6c\uc131\ub41c \uad11\uc5ed \ub124\ud2b8\uc6cc\ud06c. \uc81c1 \uc120\ubcc4 \uc2dc\uc2a4\ud15c\uc740 \ubd84\ub958/\uc120\ubcc4 \uc54c\uace0\ub9ac\uc998\uc744 \uc0ac\uc6a9\ud558\uc5ec \uc81c1 \ud63c\ud569\ubb3c\uc758 \uc7ac\ub8cc\ub4e4\uc744 \ubd84\ub958 \ubc0f \uc120\ubcc4\ud558\uba70, \uadf8\uc5d0 \uc758\ud574 \uc81c1 \ud63c\ud569\ubb3c\uc758 \uc7ac\ub8cc\ub4e4\uc744 \ubd84\ub958 \ubc0f \uc120\ubcc4\ud55c \uacb0\uacfc\ub4e4\uc5d0 \ub300\ud55c \uc815\ubcf4\ub294 \uc218\uc9d1\ub418\uc5b4 \uad11\uc5ed \ub124\ud2b8\uc6cc\ud06c\ub97c \ud1b5\ud574 \ub370\uc774\ud130 \uc13c\ud130\uc5d0 \uc1a1\uc2e0\ub41c\ub2e4. \ub370\uc774\ud130 \uc13c\ud130\ub294 \uc218\uc9d1\ub41c \uc815\ubcf4\uc758 \uacb0\uacfc\ub85c\uc11c \ubd84\ub958/\uc120\ubcc4 \uc54c\uace0\ub9ac\uc998\uc744 \uc218\uc815\ud55c\ub2e4. \uadf8\ub7f0 \ub2e4\uc74c, \uc218\uc815\ub41c \ubd84\ub958/\uc120\ubcc4 \uc54c\uace0\ub9ac\uc998\uc740 \uad11\uc5ed \ub124\ud2b8\uc6cc\ud06c\ub97c \ud1b5\ud574 \uc81c1 \uc120\ubcc4 \uc2dc\uc2a4\ud15c \ubc0f \uc81c2 \uc120\ubcc4 \uc2dc\uc2a4\ud15c\uc774 \uc774\uc6a9 \uac00\ub2a5\ud558\uac8c \ud55c\ub2e4.",
+      "publicationNumber": "KR20240137600",
+      "publicationDate": "2024-09-20",
+      "assignee": [
+        "SORTERA TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "KUMAR NALIN",
+        "GARCIA JR. MANUEL GERARDO",
+        "KORDZIK KELLY",
+        "POPE BENJAMIN LEE"
+      ],
+      "applicationDate": "2023-01-13",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Chemical engineering",
+        "Computer technology"
+      ],
+      "score": 11.341576
+    },
+    {
+      "id": "IN-202417051358-A",
+      "title": [
+        "SCRAP DATA ANALYSIS"
+      ],
+      "abstract": "A first sorting system located at a first geographical location, a second sorting system located at a second geographical location, a data center located at a third geographical location, and a wide area network configured to enable data communications between the first sorting system and the data center, and between the second sorting system and the data center. The first sorting system uses a classifying/sorting algorithm to classify and sort a first mixture of materials, whereby information on results of the classifying and sorting of the first mixture of materials is collected and transmitted to the data center via the wide area network. The data center modifies the classifying/sorting algorithm as a result of the collected information. The modified classifying/sorting algorithm is then made available to the first sorting system and the second sorting system via the wide area network.",
+      "publicationNumber": "IN202417051358",
+      "publicationDate": "2024-12-20",
+      "assignee": [
+        "SORTERA TECHNOLOGIES INC"
+      ],
+      "inventors": [
+        "KUMAR NALIN",
+        "GARCIA JR MANUEL GERARDO",
+        "KORDZIK KELLY",
+        "POPE BENJAMIN LEE"
+      ],
+      "applicationDate": "2024-07-04",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Computer technology",
+        "Digital communication",
+        "IT methods for management"
+      ],
+      "score": 11.31575
+    },
+    {
+      "id": "HK-40113382-A",
+      "title": [
+        "SCRAP DATA ANALYSIS"
+      ],
+      "abstract": "",
+      "publicationNumber": "HK40113382",
+      "publicationDate": "2025-02-14",
+      "assignee": [
+        "SORTERA TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "NALIN KUMAR",
+        "JR., Manuel Gerardo Garcia",
+        "Kelly KORDZIK",
+        "Benjamin Lee POPE"
+      ],
+      "applicationDate": "2024-12-12",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Chemical engineering",
+        "Computer technology"
+      ],
+      "score": 11.31575
+    },
+    {
+      "id": "CA-3242762-A1",
+      "title": [
+        "SCRAP DATA ANALYSIS"
+      ],
+      "abstract": "A first sorting system located at a first geographical location, a second sorting system located at a second geographical location, a data center located at a third geographical location, and a wide area network configured to enable data communications between the first sorting system and the data center, and between the second sorting system and the data center. The first sorting system uses a classifying/sorting algorithm to classify and sort a first mixture of materials, whereby information on results of the classifying and sorting of the first mixture of materials is collected and transmitted to the data center via the wide area network. The data center modifies the classifying/sorting algorithm as a result of the collected information. The modified classifying/sorting algorithm is then made available to the first sorting system and the second sorting system via the wide area network.",
+      "publicationNumber": "CA3242762",
+      "publicationDate": "2025-02-28",
+      "assignee": [
+        "SORTERA TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "Nalin Kumar",
+        "JR. MANUEL GERARDO GARCIA",
+        "Kelly Kordzik",
+        "BENJAMIN LEE POPE"
+      ],
+      "applicationDate": "2023-01-13",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Chemical engineering",
+        "Computer technology"
+      ],
+      "score": 11.31575
+    },
+    {
+      "id": "BR-112024014350-A2",
+      "title": [
+        "AN\u00c1LISE DE DADOS DE SUCATAS"
+      ],
+      "abstract": "",
+      "publicationNumber": "BR112024014350",
+      "publicationDate": "2024-10-22",
+      "assignee": [
+        "SORTERA TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "NALIN KUMAR",
+        "MANUEL GERARDO GARCIA JR.",
+        "KELLY KORDZIK",
+        "BENJAMIN LEE POPE"
+      ],
+      "applicationDate": "2023-01-13",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Chemical engineering",
+        "Computer technology"
+      ],
+      "score": 11.31575
+    },
+    {
+      "id": "JP-2025508653-A",
+      "title": [
+        "\u30b9\u30af\u30e9\u30c3\u30d7\u30c7\u30fc\u30bf\u5206\u6790"
+      ],
+      "abstract": "\u7b2c1\u306e\u5730\u7406\u7684\u4f4d\u7f6e\u306b\u914d\u7f6e\u3055\u308c\u305f\u7b2c1\u306e\u9078\u5225\u30b7\u30b9\u30c6\u30e0\u3001\u7b2c2\u306e\u5730\u7406\u7684\u4f4d\u7f6e\u306b\u914d\u7f6e\u3055\u308c\u305f\u7b2c2\u306e\u9078\u5225\u30b7\u30b9\u30c6\u30e0\u3001\u7b2c3\u306e\u5730\u7406\u7684\u4f4d\u7f6e\u306b\u914d\u7f6e\u3055\u308c\u305f\u30c7\u30fc\u30bf\u30bb\u30f3\u30bf\u3001\u304a\u3088\u3073\u7b2c1\u306e\u9078\u5225\u30b7\u30b9\u30c6\u30e0\u3068\u30c7\u30fc\u30bf\u30bb\u30f3\u30bf\u3068\u306e\u9593\u3001\u304a\u3088\u3073\u7b2c2\u306e\u9078\u5225\u30b7\u30b9\u30c6\u30e0\u3068\u30c7\u30fc\u30bf\u30bb\u30f3\u30bf\u3068\u306e\u9593\u306e\u30c7\u30fc\u30bf\u901a\u4fe1\u3092\u53ef\u80fd\u306b\u3059\u308b\u3088\u3046\u306b\u69cb\u6210\u3055\u308c\u305f\u30ef\u30a4\u30c9\u30a8\u30ea\u30a2\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\u3002\u7b2c1\u306e\u9078\u5225\u30b7\u30b9\u30c6\u30e0\u306f\u5206\u985e/\u9078\u5225\u30a2\u30eb\u30b4\u30ea\u30ba\u30e0\u3092\u4f7f\u7528\u3057\u3066\u6750\u6599\u306e\u7b2c1\u306e\u6df7\u5408\u7269\u3092\u5206\u985e\u304a\u3088\u3073\u9078\u5225\u3057\u3001\u3053\u308c\u306b\u3088\u3063\u3066\u6750\u6599\u306e\u7b2c1\u306e\u6df7\u5408\u7269\u306e\u5206\u985e\u304a\u3088\u3073\u9078\u5225\u306e\u7d50\u679c\u306b\u95a2\u3059\u308b\u60c5\u5831\u304c\u53ce\u96c6\u3055\u308c\u3001\u30ef\u30a4\u30c9\u30a8\u30ea\u30a2\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\u3092\u4ecb\u3057\u3066\u30c7\u30fc\u30bf\u30bb\u30f3\u30bf\u306b\u9001\u4fe1\u3055\u308c\u308b\u3002\u30c7\u30fc\u30bf\u30bb\u30f3\u30bf\u306f\u53ce\u96c6\u3055\u308c\u305f\u60c5\u5831\u306e\u7d50\u679c\u3068\u3057\u3066\u5206\u985e/\u9078\u5225\u30a2\u30eb\u30b4\u30ea\u30ba\u30e0\u3092\u4fee\u6b63\u3059\u308b\u3002\u4fee\u6b63\u3055\u308c\u305f\u5206\u985e/\u9078\u5225\u30a2\u30eb\u30b4\u30ea\u30ba\u30e0\u306f\u6b21\u3044\u3067\u30ef\u30a4\u30c9\u30a8\u30ea\u30a2\u30cd\u30c3\u30c8\u30ef\u30fc\u30af\u3092\u4ecb\u3057\u3066\u7b2c1\u306e\u9078\u5225\u30b7\u30b9\u30c6\u30e0\u304a\u3088\u3073\u7b2c2\u306e\u9078\u5225\u30b7\u30b9\u30c6\u30e0\u306b\u5229\u7528\u53ef\u80fd\u306b\u306a\u308b\u3002",
+      "publicationNumber": "JP2025508653",
+      "publicationDate": "2025-04-10",
+      "assignee": [
+        "\u30bd\u30eb\u30c6\u30e9\u30fb\u30c6\u30af\u30ce\u30ed\u30b8\u30fc\u30ba\u30fb\u30a4\u30f3\u30b3\u30fc\u30dd\u30ec\u30a4\u30c6\u30c3\u30c9"
+      ],
+      "inventors": [
+        "\u30ca\u30ea\u30f3\u30fb\u30af\u30de\u30fc\u30eb",
+        "\u30de\u30cc\u30a8\u30eb\u30fb\u30b8\u30a7\u30e9\u30eb\u30c9\u30fb\u30ac\u30eb\u30b7\u30a2\u30fb\u30b8\u30e5\u30cb\u30a2",
+        "\u30b1\u30ea\u30fc\u30fb\u30b3\u30eb\u30c9\u30b8\u30af",
+        "\u30d9\u30f3\u30b8\u30e3\u30df\u30f3\u30fb\u30ea\u30fc\u30fb\u30dd\u30fc\u30d7"
+      ],
+      "applicationDate": "2023-01-13",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Analysis of biological materials",
+        "IT methods for management"
+      ],
+      "score": 10.741608
+    },
+    {
+      "id": "KR-20250073486-A",
+      "title": [
+        "\uc7ac\ub8cc \ubd84\ub958\ub97c \uc704\ud55c \ubcf4\uc815 \uae30\ubc95\ub4e4"
+      ],
+      "abstract": "XRF(x-ray fluorescence) \ubd84\uad11\ubc95\uc774 \uc774\ub3d9\ud558\ub294 \ucee8\ubca0\uc774\uc5b4 \ubca8\ud2b8 \uc0c1\uc5d0\uc11c \uc774\uc1a1\ub418\ub294 \uc7ac\ub8cc\ub4e4\uc744 \ubd84\ub958\ud558\ub294 \ub370 \uc0ac\uc6a9\ub420 \ub54c, x-\uc120 \ube54\uc774 \uc7ac\ub8cc \uc870\uac01\uc744 \ubd80\ubd84\uc801\uc73c\ub85c\ub9cc \uc870\uc0ac\ud560 \uac00\ub2a5\uc131\uc774 \uc788\uc73c\uba70, \uc774\ub294 \uc7ac\ub8cc \uc870\uac01\uc744 \ubd84\ub958\ud558\ub294 \ub370 \ud544\uc694\ud55c XRF \uc2a4\ud399\ud2b8\ub7fc\uc758 \ubd80\uc815\ud655\ud55c \ucea1\ucc98\ub97c \ucd08\ub798\ud560 \uc218 \uc788\ub2e4. \uc774\ub294 \uc7ac\ub8cc \uc870\uac01\ub4e4(\uc608\ub97c \ub4e4\uc5b4, \uc54c\ub8e8\ubbf8\ub284 \ud569\uae08\ub4e4)\uc758 \ubd80\uc801\uc808\ud55c(\uc798\ubabb\ub41c) \ubd84\ub958 \ubc0f \uadf8\uc5d0 \ub530\ub978 \uc120\ubcc4\ub85c \uc774\uc5b4\uc9c8 \uc218 \uc788\ub2e4. \uc7ac\ub8cc \ucde8\uae09 \uc2dc\uc2a4\ud15c\uc5d0\uc11c, x-\uc120 \ud615\uad11 \uc2dc\uc2a4\ud15c\uc73c\ub85c\ubd80\ud130\uc758 x-\uc120 \ube54 \uc2a4\ud3ff\ub4e4\uacfc \uc7ac\ub8cc \uc870\uac01\ub4e4 \uc0ac\uc774\uc758 \uad50\ucc28 \uc601\uc5ed\uc774 \uce21\uc815\ub418\uace0, \uc774\uc5d0 \ub300\uc751\ud558\uc5ec \uac01\uac01\uc758 \uc7ac\ub8cc \uc870\uac01\uacfc \uc5f0\uad00\ub418\ub294 \uce21\uc815\ub41c XRF \uc2a4\ud399\ud2b8\ub7fc\uc744 \ubcf4\uc815\ud558\ub294 \ub370 \uc0ac\uc6a9\ub41c\ub2e4. \uc774\ud6c4, \uc7ac\ub8cc \uc870\uac01\ub4e4\uc740 \ubcf4\uc815\ub41c XRF \uc2a4\ud399\ud2b8\ub7fc\uc5d0 \ub530\ub77c \uc120\ubcc4\ub420 \uc218 \uc788\ub2e4.",
+      "publicationNumber": "KR20250073486",
+      "publicationDate": "2025-05-27",
+      "assignee": [
+        "SORTERA TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "CHELLAPPAN LAKSHMI",
+        "GARCIA JR MANUEL GERARDO",
+        "LE HOANG TRIET GIANG",
+        "HUGHLETT CASEY LEE"
+      ],
+      "applicationDate": "2023-10-20",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Chemical engineering",
+        "Computer technology",
+        "Handling",
+        "Measurement"
+      ],
+      "score": 10.326624
+    },
+    {
+      "id": "US-20240228181-A9",
+      "title": [
+        "CORRECTION TECHNIQUES FOR MATERIAL CLASSIFICATION"
+      ],
+      "abstract": "When x-ray fluorescence (\u201cXRF\u201d) spectroscopy is utilized to classify materials transported on a moving conveyor belt, there is the possibility of the x-ray beam only partially irradiating the material piece, which can result in the capture of an inaccurate XRF spectrum needed to classify the material piece. This can lead to an improper (erroneous) classification and resultant sortation of material pieces (e.g., aluminum alloys). In a material handling system, the area of the intersections between the x-ray beam spots from an x-ray fluorescence system and the material pieces are measured and correspondingly used to correct the measured XRF spectrum associated with each material piece. The material pieces can then be sorted according to the corrected XRF spectrum.",
+      "publicationNumber": "US20240228181",
+      "publicationDate": "2024-07-11",
+      "assignee": [
+        "Sortera Technologies Inc."
+      ],
+      "inventors": [
+        "Lakshmi Chellappan",
+        "Manuel Gerardo Garcia, JR.",
+        "HOANG TRIET GIANG Le",
+        "Casey Hughlett"
+      ],
+      "applicationDate": "2023-10-20",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Measurement"
+      ],
+      "score": 10.301004
+    },
+    {
+      "id": "US-20240228180-A9",
+      "title": [
+        "THIN STRIP CLASSIFICATION"
+      ],
+      "abstract": "A sorting system conveys a heterogeneous mixture of material pieces past an XRF system and a vision system. A classification of a material piece is changed to a high copper content aluminum alloy when the XRF system classifies the material piece as a low copper content aluminum alloy and the vision system determines that the material piece is a thin strip material piece. The reclassified material piece is then sorted accordingly.",
+      "publicationNumber": "US20240228180",
+      "publicationDate": "2024-07-11",
+      "assignee": [
+        "Sortera Technologies Inc."
+      ],
+      "inventors": [
+        "Lakshmi Chellappan",
+        "Manuel Gerardo Garcia, JR.",
+        "HOANG TRIET GIANG Le",
+        "Casey Hughlett"
+      ],
+      "applicationDate": "2023-10-20",
+      "claimsCount": 19,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology",
+        "Handling"
+      ],
+      "score": 10.301004
+    },
+    {
+      "id": "US-20240133830-A1",
+      "title": [
+        "CORRECTION TECHNIQUES FOR MATERIAL CLASSIFICATION"
+      ],
+      "abstract": "When x-ray fluorescence (\u201cXRF\u201d) spectroscopy is utilized to classify materials transported on a moving conveyor belt, there is the possibility of the x-ray beam only partially irradiating the material piece, which can result in the capture of an inaccurate XRF spectrum needed to classify the material piece. This can lead to an improper (erroneous) classification and resultant sortation of material pieces (e.g., aluminum alloys). In a material handling system, the area of the intersections between the x-ray beam spots from an x-ray fluorescence system and the material pieces are measured and correspondingly used to correct the measured XRF spectrum associated with each material piece. The material pieces can then be sorted according to the corrected XRF spectrum.",
+      "publicationNumber": "US20240133830",
+      "publicationDate": "2024-04-25",
+      "assignee": [
+        "Sortera Technologies Inc."
+      ],
+      "inventors": [
+        "Lakshmi Chellappan",
+        "Manuel Gerardo Garcia, JR.",
+        "Giang Not Provide",
+        "Casey Hughlett"
+      ],
+      "applicationDate": "2023-10-20",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Measurement"
+      ],
+      "score": 10.301004
+    },
+    {
+      "id": "US-20240132297-A1",
+      "title": [
+        "THIN STRIP CLASSIFICATION"
+      ],
+      "abstract": "A sorting system conveys a heterogeneous mixture of material pieces past an XRF system and a vision system. A classification of a material piece is changed to a high copper content aluminum alloy when the XRF system classifies the material piece as a low copper content aluminum alloy and the vision system determines that the material piece is a thin strip material piece. The reclassified material piece is then sorted accordingly.",
+      "publicationNumber": "US20240132297",
+      "publicationDate": "2024-04-25",
+      "assignee": [
+        "Sortera Technologies Inc."
+      ],
+      "inventors": [
+        "Lakshmi Chellappan",
+        "Manuel Gerardo Garcia, JR.",
+        "HOANG TRIET GIANG Le",
+        "Casey Hughlett"
+      ],
+      "applicationDate": "2023-10-20",
+      "claimsCount": 19,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology",
+        "Handling"
+      ],
+      "score": 10.301004
+    },
+    {
+      "id": "US-20230010888-A1",
+      "title": [
+        "Vacuum Smelting of Sorted Aluminum"
+      ],
+      "abstract": "Aluminum scrap pieces are sorted into selected alloys and then fed into a vacuum smelting furnace to melt. The aluminum scrap pieces may be sorted into various cast aluminum alloy series, wrought aluminum alloy series, or extrusion aluminum alloy series. The sorting may be performed using x-ray fluorescence, artificial intelligence, or laser induced breakdown spectroscopy.",
+      "publicationNumber": "US20230010888",
+      "publicationDate": "2023-01-12",
+      "assignee": [
+        "Sortera Alloys, Inc."
+      ],
+      "inventors": [
+        "Nalin Kumar"
+      ],
+      "applicationDate": "2022-06-29",
+      "claimsCount": 10,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 10.301004
+    },
+    {
+      "id": "US-12522442-B2",
+      "title": [
+        "Thin strip classification"
+      ],
+      "abstract": "A sorting system conveys a heterogeneous mixture of material pieces past an XRF system and a vision system. A classification of a material piece is changed to a high copper content aluminum alloy when the XRF system classifies the material piece as a low copper content aluminum alloy and the vision system determines that the material piece is a thin strip material piece. The reclassified material piece is then sorted accordingly.",
+      "publicationNumber": "US12522442",
+      "publicationDate": "2026-01-13",
+      "assignee": [
+        "SORTERA TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "Lakshmi Chellappan",
+        "Manuel Gerardo Garcia, JR.",
+        "HOANG TRIET GIANG Le",
+        "Casey Hughlett"
+      ],
+      "applicationDate": "2023-10-20",
+      "claimsCount": 19,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Chemical engineering",
+        "Computer technology",
+        "Handling",
+        "Measurement"
+      ],
+      "score": 10.301004
+    },
+    {
+      "id": "US-12404114-B2",
+      "title": [
+        "Correction techniques for material classification"
+      ],
+      "abstract": "When x-ray fluorescence (\u201cXRF\u201d) spectroscopy is utilized to classify materials transported on a moving conveyor belt, there is the possibility of the x-ray beam only partially irradiating the material piece, which can result in the capture of an inaccurate XRF spectrum needed to classify the material piece. This can lead to an improper (erroneous) classification and resultant sortation of material pieces (e.g., aluminum alloys). In a material handling system, the area of the intersections between the x-ray beam spots from an x-ray fluorescence system and the material pieces are measured and correspondingly used to correct the measured XRF spectrum associated with each material piece. The material pieces can then be sorted according to the corrected XRF spectrum.",
+      "publicationNumber": "US12404114",
+      "publicationDate": "2025-09-02",
+      "assignee": [
+        "SORTERA TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "Lakshmi Chellappan",
+        "Manuel Gerardo Garcia, JR.",
+        "HOANG TRIET GIANG Le",
+        "Casey Hughlett"
+      ],
+      "applicationDate": "2023-10-20",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Chemical engineering",
+        "Computer technology",
+        "Handling",
+        "Measurement"
+      ],
+      "score": 10.301004
+    },
+    {
+      "id": "IN-202517024273-A",
+      "title": [
+        "CORRECTION TECHNIQUES FOR MATERIAL CLASSIFICATION"
+      ],
+      "abstract": "When x-ray fluorescence (\"XRF\") spectroscopy is utilized to classify materials transported on a moving conveyor belt, there is the possibility of the x-ray beam only partially irradiating the material piece, which can result in the capture of an inaccurate XRF spectrum needed to classify the material piece. This can lead to an improper (erroneous) classification and resultant sortation of material pieces (e.g., aluminum alloys). In a material handling system, the area of the intersections between the x-ray beam spots from an x-ray fluorescence system and the material pieces are measured and correspondingly used to correct the measured XRF spectrum associated with each material piece. The material pieces can then be sorted according to the corrected XRF spectrum.",
+      "publicationNumber": "IN202517024273",
+      "publicationDate": "2025-05-02",
+      "assignee": [
+        "SORTERA TECHNOLOGIES INC"
+      ],
+      "inventors": [
+        "CHELLAPPAN LAKSHMI",
+        "GARCIA JR MANUEL GERARDO",
+        "LE HOANG TRIET GIANG",
+        "HUGHLETT CASEY LEE"
+      ],
+      "applicationDate": "2025-03-18",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Chemical engineering",
+        "Measurement"
+      ],
+      "score": 10.301004
+    },
+    {
+      "id": "CA-3268482-A1",
+      "title": [
+        "CORRECTION TECHNIQUES FOR MATERIAL CLASSIFICATION"
+      ],
+      "abstract": "ABSTRACT When x-ray fluorescence (\"XRF\") spectroscopy is utilized to classify materials transported on a moving conveyor belt, there is the possibility of the x-ray beam only partially irradiating the material piece, which can result in the capture of an inaccurate XRF spectrum needed to classify the material piece. This can lead to an improper (erroneous) classification and resultant sortation of material pieces (e.g., aluminum alloys). In a material handling system, the area of the intersections between the x-ray beam spots from an x-ray fluorescence system and the material pieces are measured and correspondingly used to correct the measured XRF spectrum associated with each material piece. The material pieces can then be sorted according to the corrected XRF spectrum.",
+      "publicationNumber": "CA3268482",
+      "publicationDate": "2024-04-25",
+      "assignee": [
+        "SORTERA TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "Lakshmi Chellappan",
+        "JR Manuel Gerardo GARCIA",
+        "HOANG TRIET GIANG Le",
+        "Casey Lee Hughlett"
+      ],
+      "applicationDate": "2023-10-20",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Chemical engineering",
+        "Measurement"
+      ],
+      "score": 10.301004
+    },
+    {
+      "id": "EP-3784419-A4",
+      "title": [
+        "RECYCLING COINS FROM SCRAP"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP3784419",
+      "publicationDate": "2021-06-02",
+      "assignee": [
+        "Sortera Alloys, Inc."
+      ],
+      "inventors": [
+        "NALIN KUMAR",
+        "Manuel Gerardo JR. GARCIA",
+        "RONNIE KIP LOWE"
+      ],
+      "applicationDate": "2019-03-19",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Chemical engineering"
+      ],
+      "score": 10.251571
+    },
+    {
+      "id": "EP-3784419-A1",
+      "title": [
+        "RECYCLING COINS FROM SCRAP"
+      ],
+      "abstract": "A material sorting system sorts materials utilizing a vision system that implements a machine learning system in order to identify or classify each of the materials, which are then sorted into separate groups based on such an identification or classification determining that the materials have a specified geometric shape. Such a system can sort monetary coins or other valuable metals from other forms of scrap.",
+      "publicationNumber": "EP3784419",
+      "publicationDate": "2021-03-03",
+      "assignee": [
+        "Sortera Alloys, Inc."
+      ],
+      "inventors": [
+        "NALIN KUMAR",
+        "Manuel Gerardo JR. GARCIA",
+        "RONNIE KIP LOWE"
+      ],
+      "applicationDate": "2019-03-19",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Chemical engineering"
+      ],
+      "score": 10.251571
+    },
+    {
+      "id": "JP-2024116216-A",
+      "title": [
+        "RECYCLING COINS FROM SCRAP"
+      ],
+      "abstract": "To provide, in general, the sorting of materials, and in particular, the sorting of certain valuables from scrap.SOLUTION: A material sorting system sorts materials utilizing a vision system that implements a machine learning system so as to identify or classify each of the materials. The materials are sorted into separate groups based on the identification or classification determining that the materials have specified geometric shapes. Such a system can sort monetary coins or other valuable metals from other forms of scrap.SELECTED DRAWING: Figure 1",
+      "publicationNumber": "JP2024116216",
+      "publicationDate": "2024-08-27",
+      "assignee": [
+        "SORTERA TECH INC"
+      ],
+      "inventors": [
+        "NALIN KUMAR",
+        "MANUEL GERARDO GARCIA JR",
+        "RONNIE KIP LOWE"
+      ],
+      "applicationDate": "2024-06-04",
+      "claimsCount": 11,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Chemical engineering"
+      ],
+      "score": 10.043984
+    },
+    {
+      "id": "WO-2024182565-A1",
+      "title": [
+        "SORTING OF ALUMINUM ALLOYS"
+      ],
+      "abstract": "A material handling system sorts mixed materials utilizing a combination of a spectroscopic sensor, such as x-ray fluorescence, and a vision system that implements an artificial intelligence system in order to identify or classify each of the materials, which are then sorted into separate groups based on such an identification or classification. The system is capable of sorting between materials typically found within Zorba, such as wrought, cast, and extrusion aluminum alloys.",
+      "publicationNumber": "WO2024182565",
+      "publicationDate": "2024-09-06",
+      "assignee": [
+        "SORTERA TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "NALIN KUMAR",
+        "JR, Manuel Gerardo GARCIA"
+      ],
+      "applicationDate": "2024-02-28",
+      "claimsCount": 24,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Chemical engineering",
+        "Computer technology",
+        "Measurement"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "WO-2024182560-A1",
+      "title": [
+        "SORTING OF ZORBA"
+      ],
+      "abstract": "A material handling system sorts mixed scrap materials utilizing a combination of a spectroscopy sensor, such as x-ray fluorescence, and a vision system that implements an artificial intelligence system in order to identify or classify each of the materials, which are then sorted into separate groups based on such an identification or classification. The system is capable of sorting between materials typically found within Zorba, Zebra, and Twitch.",
+      "publicationNumber": "WO2024182560",
+      "publicationDate": "2024-09-06",
+      "assignee": [
+        "SORTERA TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "NALIN KUMAR",
+        "JR, Manuel Gerardo GARCIA"
+      ],
+      "applicationDate": "2024-02-28",
+      "claimsCount": 25,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Chemical engineering"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "WO-2023102202-A1",
+      "title": [
+        "PORTABLE MATERIALS ANALYZER"
+      ],
+      "abstract": "A portable materials analyzer is implemented in a small form factor. A sample of material pieces are retrieved from a larger container. The sample of material pieces are then analyzed by the analyzer using x-ray fluorescence, laser induced breakdown spectroscopy, a vision system with artificial intelligence, etc. The number of the material pieces within the sample is a substantially small percentage of a total number of the material scrap pieces within the container. The analyzer then determines whether the classification of the material pieces within the sample corresponds to an expected classification of the entirety of material pieces within the container.",
+      "publicationNumber": "WO2023102202",
+      "publicationDate": "2023-06-08",
+      "assignee": [
+        "Sortera Alloys, Inc."
+      ],
+      "inventors": [
+        "NALIN KUMAR",
+        "JR., Manuel Gerardo Garcia",
+        "Soumendu Sekhar BHATTACHARJEE"
+      ],
+      "applicationDate": "2022-12-02",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Audio-visual technology",
+        "Chemical engineering",
+        "Materials, metallurgy",
+        "Measurement"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "WO-2023076186-A1",
+      "title": [
+        "METAL SEPARATION IN A SCRAP YARD"
+      ],
+      "abstract": "An apparatus for classifying materials utilizing a vision system, which may implement an artificial intelligence system in order to identify or classify each of the materials, which may then be separated from a heap in a scrap yard into separate groups, such as other heaps, based on such an identification or classification. The artificial intelligence system may utilize a neural network, and be previously trained to recognize and classify certain types of materials.",
+      "publicationNumber": "WO2023076186",
+      "publicationDate": "2023-05-04",
+      "assignee": [
+        "Sortera Alloys, Inc."
+      ],
+      "inventors": [
+        "MANUEL GERARDO, JR. GARCIA",
+        "NALIN KUMAR"
+      ],
+      "applicationDate": "2022-10-24",
+      "claimsCount": 18,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Chemical engineering",
+        "Computer technology"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "WO-2023055425-A1",
+      "title": [
+        "SORTING BASED ON CHEMICAL COMPOSITION"
+      ],
+      "abstract": "Systems and methods for classifying and sorting materials in order to produce a collection of materials that are composed of a particular chemical composition in the aggregate. The system may utilize a vision system and one or more sensor systems, which may implement a machine learning system in order to identify or classify each of the materials. The sorting is then performed as a function of the classifications.",
+      "publicationNumber": "WO2023055425",
+      "publicationDate": "2023-04-06",
+      "assignee": [
+        "Sortera Alloys, Inc."
+      ],
+      "inventors": [
+        "NALIN KUMAR",
+        "JR., Manuel Gerardo Garcia"
+      ],
+      "applicationDate": "2022-03-16",
+      "claimsCount": 23,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Chemical engineering"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "WO-2023055418-A1",
+      "title": [
+        "MULTIPLE STAGE SORTING"
+      ],
+      "abstract": "A material sorting system sorts materials utilizing a machine learning system in order to identify or classify each of the materials, and can be further implemented to utilize Laser Induced Breakdown Spectroscopy or x-ray fluorescence to perform a subsequent classification and sorting of the materials.",
+      "publicationNumber": "WO2023055418",
+      "publicationDate": "2023-04-06",
+      "assignee": [
+        "Sortera Alloys, Inc."
+      ],
+      "inventors": [
+        "NALIN KUMAR",
+        "Manuel Gerardo GARCIA JR"
+      ],
+      "applicationDate": "2022-02-17",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Chemical engineering",
+        "Computer technology",
+        "Measurement"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "WO-2023015000-A1",
+      "title": [
+        "REMOVING AIRBAG MODULES FROM AUTOMOTIVE SCRAP"
+      ],
+      "abstract": "A system classifies materials utilizing a vision system that implements an artificial intelligence system in order to identify or classify and then remove automotive airbag modules from a scrap stream, which may have been produced from a shredding of end-of-life vehicles. The sorting process may be designed so that live airbag modules are not activated, which may cause damage to equipment or persons.",
+      "publicationNumber": "WO2023015000",
+      "publicationDate": "2023-02-09",
+      "assignee": [
+        "Sortera Alloys, Inc."
+      ],
+      "inventors": [
+        "NALIN KUMAR",
+        "MANUEL GERARDO, JR. GARCIA"
+      ],
+      "applicationDate": "2022-08-05",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Chemical engineering"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "WO-2023003670-A1",
+      "title": [
+        "MATERIAL HANDLING SYSTEM"
+      ],
+      "abstract": "Systems and methods for classifying materials utilizing one or more sensor systems, which may implement a machine learning system in order to identify or classify each of the materials, which may then be sorted into separate groups based on such an identification or classification. The machine learning system may utilize a neural network, and be previously trained to recognize and classify certain types of materials. Embodiments of the present disclosure may be utilized to sort any types or classes of materials as defined herein. By way of contrast, a homogeneous set or group of materials all fall within an identifiable class or type of material.",
+      "publicationNumber": "WO2023003670",
+      "publicationDate": "2023-01-26",
+      "assignee": [
+        "Sortera Alloys, Inc."
+      ],
+      "inventors": [
+        "NALIN KUMAR",
+        "Manuel Gerardo GARCIA JR.",
+        "KANISHKA TYAGI"
+      ],
+      "applicationDate": "2022-06-24",
+      "claimsCount": 14,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Chemical engineering",
+        "Computer technology"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "WO-2023003669-A9",
+      "title": [
+        "MATERIAL CLASSIFICATION SYSTEM"
+      ],
+      "abstract": "Systems and methods for classifying materials utilizing one or more sensor systems, which may implement a machine learning system in order to identify or classify each of the materials, which may then be sorted into separate groups based on such an identification or classification. The machine learning system may utilize a neural network, and be previously trained to recognize and classify certain types of materials. Embodiments of the present disclosure may be utilized to sort any types or classes of materials as defined herein. By way of contrast, a homogeneous set or group of materials all fall within an identifiable class or type of material.",
+      "publicationNumber": "WO2023003669",
+      "publicationDate": "2023-11-23",
+      "assignee": [
+        "SORTERA TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "NALIN KUMAR",
+        "MANUEL GERARDO, JR. GARCIA",
+        "KANISHKA TYAGI"
+      ],
+      "applicationDate": "2022-06-24",
+      "claimsCount": 19,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Chemical engineering",
+        "Computer technology"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "WO-2023003669-A1",
+      "title": [
+        "MATERIAL CLASSIFICATION SYSTEM"
+      ],
+      "abstract": "Systems and methods for classifying materials utilizing one or more sensor systems, which may implement a machine learning system in order to identify or classify each of the materials, which may then be sorted into separate groups based on such an identification or classification. The machine learning system may utilize a neural network, and be previously trained to recognize and classify certain types of materials. Embodiments of the present disclosure may be utilized to sort any types or classes of materials as defined herein. By way of contrast, a homogeneous set or group of materials all fall within an identifiable class or type of material.",
+      "publicationNumber": "WO2023003669",
+      "publicationDate": "2023-01-26",
+      "assignee": [
+        "Sortera Alloys, Inc."
+      ],
+      "inventors": [
+        "NALIN KUMAR",
+        "MANUEL GERARDO, JR. GARCIA",
+        "KANISHKA TYAGI"
+      ],
+      "applicationDate": "2022-06-24",
+      "claimsCount": 19,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Chemical engineering",
+        "Computer technology"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "WO-2022251373-A1",
+      "title": [
+        "SORTING OF CONTAMINANTS"
+      ],
+      "abstract": "A material sorting system sorts materials utilizing a vision system that implements a machine learning system in order to identify or classify each of the materials, which are then sorted into separate groups based on such an identification or classification. The material sorting system can sort material pieces containing contaminants, such as copper from steel.",
+      "publicationNumber": "WO2022251373",
+      "publicationDate": "2022-12-01",
+      "assignee": [
+        "Sortera Alloys, Inc."
+      ],
+      "inventors": [
+        "NALIN KUMAR",
+        "Manuel Gerardo GARCIA JR."
+      ],
+      "applicationDate": "2022-05-25",
+      "claimsCount": 19,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Chemical engineering",
+        "Measurement"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "WO-2022170273-A1",
+      "title": [
+        "SORTING OF DARK COLORED AND BLACK PLASTICS"
+      ],
+      "abstract": "Systems and methods for classifying and sorting of dark colored and/or black-colored plastic materials utilizing a vision system or one or more sensor systems implemented with one or more medium wavelength infrared cameras whereby the captured image data is process within a machine learning system in order to identify or classify each of the materials, which may then be sorted into separate groups based on such an identification or classification.",
+      "publicationNumber": "WO2022170273",
+      "publicationDate": "2022-08-11",
+      "assignee": [
+        "Sortera Alloys, Inc."
+      ],
+      "inventors": [
+        "NALIN KUMAR",
+        "JR., Manuel Gerardo Garcia",
+        "ISHA KAMLESHBHAI MAUN"
+      ],
+      "applicationDate": "2022-02-08",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Chemical engineering",
+        "Measurement"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "WO-2022170262-A1",
+      "title": [
+        "SORTING OF PLASTICS"
+      ],
+      "abstract": "Systems and methods for classifying and sorting of plastic materials utilizing a vision system and one or more sensor systems, which may implement a machine learning system in order to identify or classify each of the materials, which may then be sorted into separate groups based on such an identification or classification.",
+      "publicationNumber": "WO2022170262",
+      "publicationDate": "2022-08-11",
+      "assignee": [
+        "Sortera Alloys, Inc."
+      ],
+      "inventors": [
+        "NALIN KUMAR",
+        "JR., Manuel Gerardo Garcia",
+        "ISHA KAMLESHBHAI MAUN"
+      ],
+      "applicationDate": "2022-02-08",
+      "claimsCount": 23,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Chemical engineering",
+        "Computer technology"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "US-20240342756-A1",
+      "title": [
+        "MULTIPLE STAGE SORTING"
+      ],
+      "abstract": "A material sorting system sorts materials utilizing multiple stages of classification and sorting, including a vision system that implements an artificial intelligence system in order to identify or classify each of the materials, and an x-ray fluorescence (\u201cXRF\u201d) system or Laser Induced Breakdown Spectroscopy to perform a subsequent classification and sorting of the remaining materials.",
+      "publicationNumber": "US20240342756",
+      "publicationDate": "2024-10-17",
+      "assignee": [
+        "SORTERA TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "Nalin Kumar",
+        "Manuel Gerardo Garcia, JR."
+      ],
+      "applicationDate": "2024-05-31",
+      "claimsCount": 20,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Chemical engineering"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "US-20240307923-A1",
+      "title": [
+        "MULTIPLE STAGE SORTING"
+      ],
+      "abstract": "A material sorting system sorts materials utilizing multiple stages of classification and sorting, including a vision system that implements an artificial intelligence system in order to identify or classify each of the materials, and an x-ray fluorescence (\u201cXRF\u201d) system or Laser Induced Breakdown Spectroscopy to perform a subsequent classification and sorting of the remaining materials.",
+      "publicationNumber": "US20240307923",
+      "publicationDate": "2024-09-19",
+      "assignee": [
+        "SORTERA TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "Nalin Kumar",
+        "Manuel Gerardo Garcia, JR."
+      ],
+      "applicationDate": "2024-05-31",
+      "claimsCount": 15,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Chemical engineering"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "US-20240207899-A1",
+      "title": [
+        "SORTING BETWEEN METAL ALLOYS"
+      ],
+      "abstract": "A material sorting system sorts materials utilizing an x-ray fluorescence and/or a vision system that implements a machine learning system in order to identify or classify each of the materials, which are then sorted into separate groups based on such an identification or classification determining that the materials are composed of either wrought aluminum, extruded aluminum, or cast aluminum. The system is capable of sorting between cast aluminum alloys and also between wrought aluminum alloys.",
+      "publicationNumber": "US20240207899",
+      "publicationDate": "2024-06-27",
+      "assignee": [
+        "SORTERA TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "Nalin Kumar",
+        "Manuel Gerardo Garcia, JR.",
+        "Isha Kamleshbhai Maun"
+      ],
+      "applicationDate": "2024-01-15",
+      "claimsCount": 21,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Chemical engineering"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "US-20240149304-A1",
+      "title": [
+        "CLASSIFYING BETWEEN METAL ALLOYS"
+      ],
+      "abstract": "A material sorting system sorts materials utilizing an x-ray fluorescence and/or a vision system that implements a machine learning system in order to identify or classify each of the materials, which are then sorted into separate groups based on such an identification or classification determining that the materials are composed of either wrought aluminum, extruded aluminum, or cast aluminum. The system is capable of sorting between cast aluminum alloys and also between wrought aluminum alloys.",
+      "publicationNumber": "US20240149304",
+      "publicationDate": "2024-05-09",
+      "assignee": [
+        "SORTERA TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "Nalin Kumar",
+        "Manuel Gerardo Garcia, JR.",
+        "Isha Kamleshbhai Maun"
+      ],
+      "applicationDate": "2024-01-15",
+      "claimsCount": 16,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Chemical engineering"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "US-20230176028-A1",
+      "title": [
+        "PORTABLE MATERIALS ANALYZER"
+      ],
+      "abstract": "A portable materials analyzer is implemented in a small form factor. A sample of material pieces are retrieved from a larger container. The sample of material pieces are then analyzed by the analyzer using x-ray fluorescence, laser induced breakdown spectroscopy, a vision system with artificial intelligence, etc. The number of the material pieces within the sample is a substantially small percentage of a total number of the material scrap pieces within the container. The analyzer then determines whether the classification of the material pieces within the sample corresponds to an expected classification of the entirety of material pieces within the container.",
+      "publicationNumber": "US20230176028",
+      "publicationDate": "2023-06-08",
+      "assignee": [
+        "Sortera Alloys, Inc."
+      ],
+      "inventors": [
+        "Nalin Kumar",
+        "Manuel Gerardo Garcia, JR.",
+        "Soumendu Sekhar Bhattacharjee"
+      ],
+      "applicationDate": "2022-12-02",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Analysis of biological materials"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "US-20230053268-A1",
+      "title": [
+        "CLASSIFICATION AND SORTING WITH SINGLE-BOARD COMPUTERS"
+      ],
+      "abstract": "A material handling system sorts materials utilizing a vision system of multiple vision devices configured with single board computers that each implement an artificial intelligence system in order to identify or classify materials, which are then sorted into separate groups based on such an identification or classification by sorting devices that are each coupled to one of the vision devices.",
+      "publicationNumber": "US20230053268",
+      "publicationDate": "2023-02-16",
+      "assignee": [
+        "Sortera Alloys, Inc."
+      ],
+      "inventors": [
+        "Manuel Gerardo Garcia, JR.",
+        "Nalin Kumar",
+        "Casey Lee Hughlett"
+      ],
+      "applicationDate": "2022-10-24",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Chemical engineering",
+        "Computer technology"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "US-20230044783-A1",
+      "title": [
+        "METAL SEPARATION IN A SCRAP YARD"
+      ],
+      "abstract": "An apparatus for classifying materials utilizing a vision system, which may implement an artificial intelligence system in order to identify or classify each of the materials, which may then be separated from a heap in a scrap yard into separate groups, such as other heaps, based on such an identification or classification. The artificial intelligence system may utilize a neural network, and be previously trained to recognize and classify certain types of materials.",
+      "publicationNumber": "US20230044783",
+      "publicationDate": "2023-02-09",
+      "assignee": [
+        "Sortera Alloys, Inc."
+      ],
+      "inventors": [
+        "Manuel Gerardo Garcia, JR.",
+        "Nalin Kumar"
+      ],
+      "applicationDate": "2022-10-24",
+      "claimsCount": 18,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Chemical engineering"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "US-20220371057-A1",
+      "title": [
+        "REMOVING AIRBAG MODULES FROM AUTOMOTIVE SCRAP"
+      ],
+      "abstract": "A system classifies materials utilizing a vision system that implements an artificial intelligence system in order to identify or classify and then remove automotive airbag modules from a scrap stream, which may have been produced from a shredding of end-of-life vehicles. The sorting process may be designed so that live airbag modules are not activated, which may cause damage to equipment or persons.",
+      "publicationNumber": "US20220371057",
+      "publicationDate": "2022-11-24",
+      "assignee": [
+        "Sortera Alloys, Inc."
+      ],
+      "inventors": [
+        "Nalin Kumar",
+        "Manuel Gerardo Garcia, JR."
+      ],
+      "applicationDate": "2022-08-05",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Chemical engineering",
+        "Computer technology"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "US-20220355342-A1",
+      "title": [
+        "SORTING OF CONTAMINANTS"
+      ],
+      "abstract": "A material sorting system sorts materials utilizing a vision system that implements a machine learning system in order to identify or classify each of the materials, which are then sorted into separate groups based on such an identification or classification. The material sorting system can sort material pieces containing contaminants, such as copper from steel.",
+      "publicationNumber": "US20220355342",
+      "publicationDate": "2022-11-10",
+      "assignee": [
+        "Sortera Alloys, Inc."
+      ],
+      "inventors": [
+        "Nalin Kumar",
+        "Manuel Gerardo Garcia, JR."
+      ],
+      "applicationDate": "2022-05-24",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Chemical engineering"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "US-20220203407-A1",
+      "title": [
+        "SORTING BASED ON CHEMICAL COMPOSITION"
+      ],
+      "abstract": "Systems and methods for classifying and sorting materials in order to produce a collection of materials that are composed of a particular chemical composition in the aggregate. The system may utilize a vision system and one or more sensor systems, which may implement a machine learning system in order to identify or classify each of the materials. The sorting is then performed as a function of the classifications.",
+      "publicationNumber": "US20220203407",
+      "publicationDate": "2022-06-30",
+      "assignee": [
+        "Sortera Alloys, Inc."
+      ],
+      "inventors": [
+        "Nalin Kumar",
+        "Manuel Gerardo Garcia, JR."
+      ],
+      "applicationDate": "2022-03-16",
+      "claimsCount": 23,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Chemical engineering"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "US-20220168781-A1",
+      "title": [
+        "MULTIPLE STAGE SORTING"
+      ],
+      "abstract": "A material sorting system sorts materials utilizing multiple stages of classification and sorting, including a vision system that implements a machine learning system in order to identify or classify each of the materials, and Laser Induced Breakdown Spectroscopy to perform a subsequent classification and sorting of the remaining materials.",
+      "publicationNumber": "US20220168781",
+      "publicationDate": "2022-06-02",
+      "assignee": [
+        "Sortera Alloys, Inc."
+      ],
+      "inventors": [
+        "Nalin Kumar",
+        "Manuel Gerardo Garcia, JR."
+      ],
+      "applicationDate": "2022-02-16",
+      "claimsCount": 17,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Chemical engineering"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "US-12390838-B2",
+      "title": [
+        "Sorting between metal alloys"
+      ],
+      "abstract": "A material sorting system sorts materials utilizing an x-ray fluorescence and/or a vision system that implements a machine learning system in order to identify or classify each of the materials, which are then sorted into separate groups based on such an identification or classification determining that the materials are composed of either wrought aluminum, extruded aluminum, or cast aluminum. The system is capable of sorting between cast aluminum alloys and also between wrought aluminum alloys.",
+      "publicationNumber": "US12390838",
+      "publicationDate": "2025-08-19",
+      "assignee": [
+        "SORTERA TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "Nalin Kumar",
+        "Manuel Gerardo Garcia, JR.",
+        "Isha Kamleshbhai Maun"
+      ],
+      "applicationDate": "2024-01-15",
+      "claimsCount": 21,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Chemical engineering"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "US-12208421-B2",
+      "title": [
+        "Metal separation in a scrap yard"
+      ],
+      "abstract": "An apparatus for classifying materials utilizing a vision system, which may implement an artificial intelligence system in order to identify or classify each of the materials, which may then be separated from a heap in a scrap yard into separate groups, such as other heaps, based on such an identification or classification. The artificial intelligence system may utilize a neural network, and be previously trained to recognize and classify certain types of materials.",
+      "publicationNumber": "US12208421",
+      "publicationDate": "2025-01-28",
+      "assignee": [
+        "SORTERA TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "Manuel Gerardo Garcia, JR.",
+        "Nalin Kumar"
+      ],
+      "applicationDate": "2022-10-24",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Chemical engineering"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "US-12194506-B2",
+      "title": [
+        "Sorting of contaminants"
+      ],
+      "abstract": "A material sorting system sorts materials utilizing a vision system that implements a machine learning system in order to identify or classify each of the materials, which are then sorted into separate groups based on such an identification or classification. The material sorting system can sort material pieces containing contaminants, such as copper from steel.",
+      "publicationNumber": "US12194506",
+      "publicationDate": "2025-01-14",
+      "assignee": [
+        "SORTERA TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "Nalin Kumar",
+        "Manuel Gerardo Garcia, JR."
+      ],
+      "applicationDate": "2022-05-24",
+      "claimsCount": 31,
+      "independentClaimsCount": 7,
+      "technologyFields": [
+        "Chemical engineering"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "US-12179237-B2",
+      "title": [
+        "Classifying between metal alloys"
+      ],
+      "abstract": "A material sorting system sorts materials utilizing an x-ray fluorescence and/or a vision system that implements a machine learning system in order to identify or classify each of the materials, which are then sorted into separate groups based on such an identification or classification determining that the materials are composed of either wrought aluminum, extruded aluminum, or cast aluminum. The system is capable of sorting between cast aluminum alloys and also between wrought aluminum alloys.",
+      "publicationNumber": "US12179237",
+      "publicationDate": "2024-12-31",
+      "assignee": [
+        "SORTERA TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "Nalin Kumar",
+        "Manuel Gerardo Garcia, JR.",
+        "Isha Kamleshbhai Maun"
+      ],
+      "applicationDate": "2024-01-15",
+      "claimsCount": 14,
+      "independentClaimsCount": 8,
+      "technologyFields": [
+        "Chemical engineering"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "US-12109593-B2",
+      "title": [
+        "Classification and sorting with single-board computers"
+      ],
+      "abstract": "A material handling system sorts materials utilizing a vision system of multiple vision devices configured with single board computers that each implement an artificial intelligence system in order to identify or classify materials, which are then sorted into separate groups based on such an identification or classification by sorting devices that are each coupled to one of the vision devices.",
+      "publicationNumber": "US12109593",
+      "publicationDate": "2024-10-08",
+      "assignee": [
+        "SORTERA TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "Manuel Gerardo Garcia, JR.",
+        "Nalin Kumar",
+        "Casey Lee Hughlett"
+      ],
+      "applicationDate": "2022-10-24",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Chemical engineering",
+        "Computer technology"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "US-12103045-B2",
+      "title": [
+        "Removing airbag modules from automotive scrap"
+      ],
+      "abstract": "A system classifies materials utilizing a vision system that implements an artificial intelligence system in order to identify or classify and then remove automotive airbag modules from a scrap stream, which may have been produced from a shredding of end-of-life vehicles. The sorting process may be designed so that live airbag modules are not activated, which may cause damage to equipment or persons.",
+      "publicationNumber": "US12103045",
+      "publicationDate": "2024-10-01",
+      "assignee": [
+        "SORTERA TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "Nalin Kumar",
+        "Manuel Gerardo Garcia, JR."
+      ],
+      "applicationDate": "2022-08-05",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Chemical engineering",
+        "Computer technology"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "US-12030088-B2",
+      "title": [
+        "Multiple stage sorting"
+      ],
+      "abstract": "A material sorting system sorts materials utilizing multiple stages of classification and sorting, including a vision system that implements a machine learning system in order to identify or classify each of the materials, and Laser Induced Breakdown Spectroscopy to perform a subsequent classification and sorting of the remaining materials.",
+      "publicationNumber": "US12030088",
+      "publicationDate": "2024-07-09",
+      "assignee": [
+        "SORTERA TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "Nalin Kumar",
+        "Manuel Gerardo Garcia, JR."
+      ],
+      "applicationDate": "2022-02-16",
+      "claimsCount": 18,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Chemical engineering"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "US-12017255-B2",
+      "title": [
+        "Sorting based on chemical composition"
+      ],
+      "abstract": "Systems and methods for classifying and sorting materials in order to produce a collection of materials that are composed of a particular chemical composition in the aggregate. The system may utilize a vision system and one or more sensor systems, which may implement a machine learning system in order to identify or classify each of the materials. The sorting is then performed as a function of the classifications.",
+      "publicationNumber": "US12017255",
+      "publicationDate": "2024-06-25",
+      "assignee": [
+        "SORTERA TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "Nalin Kumar",
+        "Manuel Gerardo Garcia, JR."
+      ],
+      "applicationDate": "2022-03-16",
+      "claimsCount": 15,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Chemical engineering"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "PL-3322544-T3",
+      "title": [
+        "MATERIAL SORTING SYSTEM"
+      ],
+      "abstract": "",
+      "publicationNumber": "PL3322544",
+      "publicationDate": "2022-08-29",
+      "assignee": [
+        "SORTERA TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "Manuel Gerardo GARCIA",
+        "NALIN KUMAR",
+        "SUBODH DAS"
+      ],
+      "applicationDate": "2016-07-18",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Chemical engineering",
+        "Measurement"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "MX-2025008765-A",
+      "title": [
+        "SORTING OF ALUMINUM ALLOYS"
+      ],
+      "abstract": "A material handling system sorts mixed materials utilizing a combination of a spectroscopic sensor, such as x-ray fluorescence, and a vision system that implements an artificial intelligence system in order to identify or classify each of the materials, which are then sorted into separate groups based on such an identification or classification. The system is capable of sorting between materials typically found within Zorba, such as wrought, cast, and extrusion aluminum alloys.",
+      "publicationNumber": "MX2025008765",
+      "publicationDate": "2025-09-02",
+      "assignee": [
+        "SORTERA TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "KUMAR NALIN",
+        "GARCIA JR. MANUEL GERARDO"
+      ],
+      "applicationDate": "2025-07-28",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Chemical engineering",
+        "Computer technology",
+        "Measurement"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "MX-2025008764-A",
+      "title": [
+        "SORTING OF ZORBA"
+      ],
+      "abstract": "A material handling system sorts mixed scrap materials utilizing a combination of a spectroscopy sensor, such as x-ray fluorescence, and a vision system that implements an artificial intelligence system in order to identify or classify each of the materials, which are then sorted into separate groups based on such an identification or classification. The system is capable of sorting between materials typically found within Zorba, Zebra, and Twitch.",
+      "publicationNumber": "MX2025008764",
+      "publicationDate": "2025-09-02",
+      "assignee": [
+        "SORTERA TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "KUMAR NALIN",
+        "GARCIA JR. MANUEL GERARDO"
+      ],
+      "applicationDate": "2025-07-28",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Chemical engineering"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "MX-2024004998-A",
+      "title": [
+        "METAL SEPARATION IN A SCRAP YARD."
+      ],
+      "abstract": "An apparatus for classifying materials utilizing a vision system, which may implement an artificial intelligence system in order to identify or classify each of the materials, which may then be separated from a heap in a scrap yard into separate groups, such as other heaps, based on such an identification or classification. The artificial intelligence system may utilize a neural network, and be previously trained to recognize and classify certain types of materials.",
+      "publicationNumber": "MX2024004998",
+      "publicationDate": "2024-05-07",
+      "assignee": [
+        "SORTERA TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "KUMAR NALIN",
+        "GARCIA JR. MANUEL GERARDO"
+      ],
+      "applicationDate": "2022-10-24",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Chemical engineering",
+        "Computer technology"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "MX-2024003915-A",
+      "title": [
+        "MULTIPLE STAGE SORTING."
+      ],
+      "abstract": "A material sorting system sorts materials utilizing a machine learning system in order to identify or classify each of the materials, and can be further implemented to utilize Laser Induced Breakdown Spectroscopy or x-ray fluorescence to perform a subsequent classification and sorting of the materials.",
+      "publicationNumber": "MX2024003915",
+      "publicationDate": "2024-04-26",
+      "assignee": [
+        "SORTERA TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "KUMAR NALIN",
+        "GARCIA JR. MANUEL GERARDO"
+      ],
+      "applicationDate": "2022-02-17",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Chemical engineering",
+        "Computer technology",
+        "Measurement"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "MX-2023009270-A",
+      "title": [
+        "SORTING OF PLASTICS."
+      ],
+      "abstract": "Systems and methods for classifying and sorting of plastic materials utilizing a vision system and one or more sensor systems, which may implement a machine learning system in order to identify or classify each of the materials, which may then be sorted into separate groups based on such an identification or classification.",
+      "publicationNumber": "MX2023009270",
+      "publicationDate": "2024-01-08",
+      "assignee": [
+        "SORTERA TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "LACEY JEFFREY A.",
+        "KUMAR NALIN",
+        "GARCIA JR. MANUEL GERARDO",
+        "MAUN ISHA KAMLESHBHAI",
+        "MONTOTO LORENZO VEGA"
+      ],
+      "applicationDate": "2022-02-08",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Chemical engineering",
+        "Computer technology",
+        "Measurement",
+        "Other special machines"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "MX-2023009269-A",
+      "title": [
+        "SORTING OF DARK COLORED AND BLACK PLASTICS."
+      ],
+      "abstract": "Systems and methods for classifying and sorting of dark colored and/or black-colored plastic materials utilizing a vision system or one or more sensor systems implemented with one or more medium wavelength infrared cameras whereby the captured image data is process within a machine learning system in order to identify or classify each of the materials, which may then be sorted into separate groups based on such an identification or classification.",
+      "publicationNumber": "MX2023009269",
+      "publicationDate": "2024-01-08",
+      "assignee": [
+        "SORTERA TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "LACEY JEFFREY A.",
+        "KUMAR NALIN",
+        "GARCIA JR. MANUEL GERARDO",
+        "MAUN ISHA KAMLESHBHAI",
+        "MONTOTO LORENZO VEGA"
+      ],
+      "applicationDate": "2022-02-08",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Chemical engineering",
+        "Computer technology",
+        "Measurement",
+        "Other special machines"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "MX-2023009130-A",
+      "title": [
+        "REMOVING AIRBAG MODULES FROM AUTOMOTIVE SCRAP."
+      ],
+      "abstract": "A system classifies materials utilizing a vision system that implements an artificial intelligence system in order to identify or classify and then remove automotive airbag modules from a scrap stream, which may have been produced from a shredding of end-of-life vehicles. The sorting process may be designed so that live airbag modules are not activated, which may cause damage to equipment or persons.",
+      "publicationNumber": "MX2023009130",
+      "publicationDate": "2023-10-24",
+      "assignee": [
+        "SORTERA TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "KUMAR NALIN",
+        "GARCIA JR. MANUEL GERARDO"
+      ],
+      "applicationDate": "2022-08-05",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Chemical engineering"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "MX-2023009129-A",
+      "title": [
+        "SORTING BASED ON CHEMICAL COMPOSITION."
+      ],
+      "abstract": "Systems and methods for classifying and sorting materials in order to produce a collection of materials that are composed of a particular chemical composition in the aggregate. The system may utilize a vision system and one or more sensor systems, which may implement a machine learning system in order to identify or classify each of the materials. The sorting is then performed as a function of the classifications.",
+      "publicationNumber": "MX2023009129",
+      "publicationDate": "2023-10-24",
+      "assignee": [
+        "SORTERA TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "KUMAR NALIN",
+        "GARCIA JR. MANUEL GERARDO"
+      ],
+      "applicationDate": "2022-03-16",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Chemical engineering"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "ES-2920479-T3",
+      "title": [
+        "Sistema de clasificaci\u00f3n de materiales"
+      ],
+      "abstract": "Un sistema de clasificaci\u00f3n de materiales clasifica materiales, como piezas de chatarra compuestas de aleaciones de metales desconocidas, en funci\u00f3n de su fluorescencia de rayos X detectados. La fluorescencia de rayos X puede convertirse en una firma de composici\u00f3n elemental que luego se compara con una firma de composici\u00f3n elemental de un material de referencia para identificar y/o clasificar cada uno de los materiales, que luego se clasifican en grupos separados basados en dichos identificaci\u00f3n/clasificaci\u00f3n. El sistema de clasificaci\u00f3n de materiales puede incluir un tubo de rayos X en l\u00ednea que tenga una pluralidad de fuentes de rayos X separadas, cada una de las cuales puede irradiar una corriente separada de materiales que se clasificar\u00e1n. (Traducci\u00f3n autom\u00e1tica con Google Translate, sin valor legal)",
+      "publicationNumber": "ES2920479",
+      "publicationDate": "2022-08-04",
+      "assignee": [
+        "Sortera Alloys, Inc."
+      ],
+      "inventors": [
+        "Manuel Gerardo GARCIA",
+        "NALIN KUMAR",
+        "SUBODH DAS"
+      ],
+      "applicationDate": "2016-07-18",
+      "claimsCount": 10,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Chemical engineering",
+        "Measurement"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "EP-4673265-A1",
+      "title": [
+        "SORTING OF ZORBA"
+      ],
+      "abstract": "A material handling system sorts mixed scrap materials utilizing a combination of a spectroscopy sensor, such as x-ray fluorescence, and a vision system that implements an artificial intelligence system in order to identify or classify each of the materials, which are then sorted into separate groups based on such an identification or classification. The system is capable of sorting between materials typically found within Zorba, Zebra, and Twitch.",
+      "publicationNumber": "EP4673265",
+      "publicationDate": "2026-01-07",
+      "assignee": [
+        "Sortera Technologies, Inc."
+      ],
+      "inventors": [
+        "NALIN KUMAR",
+        "JR, Manuel Gerardo GARCIA"
+      ],
+      "applicationDate": "2024-02-28",
+      "claimsCount": 25,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Chemical engineering"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "EP-4673264-A1",
+      "title": [
+        "SORTING OF ALUMINUM ALLOYS"
+      ],
+      "abstract": "A material handling system sorts mixed materials utilizing a combination of a spectroscopic sensor, such as x-ray fluorescence, and a vision system that implements an artificial intelligence system in order to identify or classify each of the materials, which are then sorted into separate groups based on such an identification or classification. The system is capable of sorting between materials typically found within Zorba, such as wrought, cast, and extrusion aluminum alloys.",
+      "publicationNumber": "EP4673264",
+      "publicationDate": "2026-01-07",
+      "assignee": [
+        "Sortera Technologies, Inc."
+      ],
+      "inventors": [
+        "NALIN KUMAR",
+        "JR, Manuel Gerardo GARCIA"
+      ],
+      "applicationDate": "2024-02-28",
+      "claimsCount": 24,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Chemical engineering",
+        "Computer technology",
+        "Measurement"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "EP-4441261-A4",
+      "title": [
+        "PORTABLE MATERIALS ANALYZER"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP4441261",
+      "publicationDate": "2025-10-15",
+      "assignee": [
+        "SORTERA TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "NALIN KUMAR",
+        "JR., Manuel Gerardo Garcia",
+        "Soumendu Sekhar BHATTACHARJEE"
+      ],
+      "applicationDate": "2022-12-02",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Chemical engineering"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "EP-4441261-A1",
+      "title": [
+        "PORTABLE MATERIALS ANALYZER"
+      ],
+      "abstract": "A portable materials analyzer is implemented in a small form factor. A sample of material pieces are retrieved from a larger container. The sample of material pieces are then analyzed by the analyzer using x-ray fluorescence, laser induced breakdown spectroscopy, a vision system with artificial intelligence, etc. The number of the material pieces within the sample is a substantially small percentage of a total number of the material scrap pieces within the container. The analyzer then determines whether the classification of the material pieces within the sample corresponds to an expected classification of the entirety of material pieces within the container.",
+      "publicationNumber": "EP4441261",
+      "publicationDate": "2024-10-09",
+      "assignee": [
+        "Sortera Technologies, Inc."
+      ],
+      "inventors": [
+        "NALIN KUMAR",
+        "JR., Manuel Gerardo Garcia",
+        "Soumendu Sekhar BHATTACHARJEE"
+      ],
+      "applicationDate": "2022-12-02",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Audio-visual technology",
+        "Chemical engineering",
+        "Materials, metallurgy",
+        "Measurement"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "EP-4422807-A4",
+      "title": [
+        "METAL SEPARATION IN A SCRAP YARD"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP4422807",
+      "publicationDate": "2025-10-15",
+      "assignee": [
+        "SORTERA TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "MANUEL GERARDO, JR. GARCIA",
+        "NALIN KUMAR"
+      ],
+      "applicationDate": "2022-10-24",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Chemical engineering",
+        "Computer technology"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "EP-4422807-A1",
+      "title": [
+        "METAL SEPARATION IN A SCRAP YARD"
+      ],
+      "abstract": "An apparatus for classifying materials utilizing a vision system, which may implement an artificial intelligence system in order to identify or classify each of the materials, which may then be separated from a heap in a scrap yard into separate groups, such as other heaps, based on such an identification or classification. The artificial intelligence system may utilize a neural network, and be previously trained to recognize and classify certain types of materials.",
+      "publicationNumber": "EP4422807",
+      "publicationDate": "2024-09-04",
+      "assignee": [
+        "Sortera Technologies, Inc."
+      ],
+      "inventors": [
+        "MANUEL GERARDO, JR. GARCIA",
+        "NALIN KUMAR"
+      ],
+      "applicationDate": "2022-10-24",
+      "claimsCount": 18,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Chemical engineering",
+        "Computer technology"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "EP-4408593-A4",
+      "title": [
+        "MULTIPLE STAGE SORTING"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP4408593",
+      "publicationDate": "2024-12-25",
+      "assignee": [
+        "Sortera Technologies, Inc."
+      ],
+      "inventors": [
+        "NALIN KUMAR",
+        "Manuel Gerardo GARCIA JR"
+      ],
+      "applicationDate": "2022-02-17",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Chemical engineering",
+        "Computer technology",
+        "Measurement"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "EP-4408593-A1",
+      "title": [
+        "MULTIPLE STAGE SORTING"
+      ],
+      "abstract": "A material sorting system sorts materials utilizing a machine learning system in order to identify or classify each of the materials, and can be further implemented to utilize Laser Induced Breakdown Spectroscopy or x-ray fluorescence to perform a subsequent classification and sorting of the materials.",
+      "publicationNumber": "EP4408593",
+      "publicationDate": "2024-08-07",
+      "assignee": [
+        "Sortera Technologies, Inc."
+      ],
+      "inventors": [
+        "NALIN KUMAR",
+        "Manuel Gerardo GARCIA JR"
+      ],
+      "applicationDate": "2022-02-17",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Chemical engineering",
+        "Computer technology",
+        "Measurement"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "EP-4267319-A4",
+      "title": [
+        "REMOVING AIRBAG MODULES FROM AUTOMOTIVE SCRAP"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP4267319",
+      "publicationDate": "2024-10-30",
+      "assignee": [
+        "Sortera Technologies, Inc."
+      ],
+      "inventors": [
+        "NALIN KUMAR",
+        "MANUEL GERARDO, JR. GARCIA"
+      ],
+      "applicationDate": "2022-08-05",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Chemical engineering"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "EP-4267319-A1",
+      "title": [
+        "REMOVING AIRBAG MODULES FROM AUTOMOTIVE SCRAP"
+      ],
+      "abstract": "A system classifies materials utilizing a vision system that implements an artificial intelligence system in order to identify or classify and then remove automotive airbag modules from a scrap stream, which may have been produced from a shredding of end-of-life vehicles. The sorting process may be designed so that live airbag modules are not activated, which may cause damage to equipment or persons.",
+      "publicationNumber": "EP4267319",
+      "publicationDate": "2023-11-01",
+      "assignee": [
+        "Sortera Technologies, Inc."
+      ],
+      "inventors": [
+        "NALIN KUMAR",
+        "MANUEL GERARDO, JR. GARCIA"
+      ],
+      "applicationDate": "2022-08-05",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Chemical engineering"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "EP-4267318-A4",
+      "title": [
+        "SORTING BASED ON CHEMICAL COMPOSITION"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP4267318",
+      "publicationDate": "2025-03-26",
+      "assignee": [
+        "Sortera Technologies, Inc."
+      ],
+      "inventors": [
+        "NALIN KUMAR",
+        "JR., Manuel Gerardo Garcia"
+      ],
+      "applicationDate": "2022-03-16",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Chemical engineering"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "EP-4267318-A1",
+      "title": [
+        "SORTING BASED ON CHEMICAL COMPOSITION"
+      ],
+      "abstract": "Systems and methods for classifying and sorting materials in order to produce a collection of materials that are composed of a particular chemical composition in the aggregate. The system may utilize a vision system and one or more sensor systems, which may implement a machine learning system in order to identify or classify each of the materials. The sorting is then performed as a function of the classifications.",
+      "publicationNumber": "EP4267318",
+      "publicationDate": "2023-11-01",
+      "assignee": [
+        "Sortera Technologies, Inc."
+      ],
+      "inventors": [
+        "NALIN KUMAR",
+        "JR., Manuel Gerardo Garcia"
+      ],
+      "applicationDate": "2022-03-16",
+      "claimsCount": 23,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Chemical engineering"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "BR-112023021201-A2",
+      "title": [
+        "RETIRADA DE M\u00d3DULOS DE AIRBAG A PARTIR DE SUCATA AUTOMOTIVA"
+      ],
+      "abstract": "retirada de m\u00f3dulos de airbag a partir de sucata automotiva. um sistema classifica materiais utilizando um sistema de vis\u00e3o que implementa um sistema de intelig\u00eancia artificial para identificar ou classificar e ent\u00e3o remover m\u00f3dulos de airbag automotivo a partir de um fluxo de sucata, que podem ter sido produzidos a partir de tritura\u00e7\u00e3o de ve\u00edculos em fim de vida. o processo de separa\u00e7\u00e3o pode ser projetado de modo que m\u00f3dulos de airbag ativo n\u00e3o sejam ativados, o que pode causar dano ao equipamento ou pessoas.",
+      "publicationNumber": "BR112023021201",
+      "publicationDate": "2024-03-05",
+      "assignee": [
+        "SORTERA TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "NALIN KUMAR",
+        "MANUEL GERARDO GARCIA JR."
+      ],
+      "applicationDate": "2022-08-05",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Chemical engineering"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "AU-2024228128-A1",
+      "title": [
+        "SORTING OF ALUMINUM ALLOYS"
+      ],
+      "abstract": "A material handling system sorts mixed materials utilizing a combination of a spectroscopic sensor, such as x-ray fluorescence, and a vision system that implements an artificial intelligence system in order to identify or classify each of the materials, which are then sorted into separate groups based on such an identification or classification. The system is capable of sorting between materials typically found within Zorba, such as wrought, cast, and extrusion aluminum alloys.",
+      "publicationNumber": "AU2024228128",
+      "publicationDate": "2025-08-14",
+      "assignee": [
+        "SORTERA TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "JR, Manuel Gerardo GARCIA",
+        "NALIN KUMAR",
+        "JR GARCIA"
+      ],
+      "applicationDate": "2024-02-28",
+      "claimsCount": 24,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Chemical engineering",
+        "Computer technology",
+        "Measurement"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "AU-2024228012-A1",
+      "title": [
+        "SORTING OF ZORBA"
+      ],
+      "abstract": "A material handling system sorts mixed scrap materials utilizing a combination of a spectroscopy sensor, such as x-ray fluorescence, and a vision system that implements an artificial intelligence system in order to identify or classify each of the materials, which are then sorted into separate groups based on such an identification or classification. The system is capable of sorting between materials typically found within Zorba, Zebra, and Twitch.",
+      "publicationNumber": "AU2024228012",
+      "publicationDate": "2025-08-07",
+      "assignee": [
+        "SORTERA TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "JR, Manuel Gerardo GARCIA",
+        "NALIN KUMAR",
+        "JR GARCIA"
+      ],
+      "applicationDate": "2024-02-28",
+      "claimsCount": 25,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Chemical engineering"
+      ],
+      "score": 9.875902
+    },
+    {
+      "id": "JP-2025538093-A",
+      "title": [
+        "\u6750\u6599\u5206\u985e\u306e\u305f\u3081\u306e\u88dc\u6b63\u6280\u8853"
+      ],
+      "abstract": "\u86cd\u5149\uff38\u7dda\u5206\u6790\uff08\u300c\uff38\uff32\uff26\u300d\uff09\u5206\u5149\u6cd5\u3092\u5229\u7528\u3057\u3066\u79fb\u52d5\u5f0f\u30b3\u30f3\u30d9\u30e4\u30d9\u30eb\u30c8\u4e0a\u3067\u79fb\u9001\u3055\u308c\u308b\u6750\u6599\u3092\u5206\u985e\u3059\u308b\u3068\u304d\u3001\uff38\u7dda\u30d3\u30fc\u30e0\u304c\u6750\u6599\u7247\u3092\u90e8\u5206\u7684\u306b\u3057\u304b\u7167\u5c04\u3057\u306a\u3044\u53ef\u80fd\u6027\u304c\u3042\u308a\u3001\u305d\u306e\u7d50\u679c\u3001\u6750\u6599\u7247\u3092\u5206\u985e\u3059\u308b\u306e\u306b\u5fc5\u8981\u306a\uff38\uff32\uff26\u30b9\u30da\u30af\u30c8\u30eb\u304c\u4e0d\u6b63\u78ba\u306b\u30ad\u30e3\u30d7\u30c1\u30e3\u3055\u308c\u308b\u53ef\u80fd\u6027\u304c\u3042\u308b\u3002\u3053\u308c\u306f\u3001\u6750\u6599\u7247\uff08\u4f8b\u3048\u3070\u3001\u30a2\u30eb\u30df\u30cb\u30a6\u30e0\u5408\u91d1\uff09\u306e\u4e0d\u9069\u5207\u306a\uff08\u8aa4\u3063\u305f\uff09\u5206\u985e\u304a\u3088\u3073\u7d50\u679c\u3068\u3057\u3066\u306e\u9078\u5225\u3092\u3082\u305f\u3089\u3059\u53ef\u80fd\u6027\u304c\u3042\u308b\u3002\u6750\u6599\u30cf\u30f3\u30c9\u30ea\u30f3\u30b0\u30b7\u30b9\u30c6\u30e0\u3067\u306f\u3001\u86cd\u5149\uff38\u7dda\u5206\u6790\u30b7\u30b9\u30c6\u30e0\u304b\u3089\u306e\uff38\u7dda\u30d3\u30fc\u30e0\u30b9\u30dd\u30c3\u30c8\u3068\u6750\u6599\u7247\u3068\u306e\u9593\u306e\u4ea4\u5dee\u306e\u9762\u7a4d\u304c\u3001\u6e2c\u5b9a\u3055\u308c\u3001\u305d\u308c\u306b\u5bfe\u5fdc\u3057\u3066\u5404\u6750\u6599\u7247\u306b\u95a2\u9023\u4ed8\u3051\u3089\u308c\u305f\u6e2c\u5b9a\u3055\u308c\u305f\uff38\uff32\uff26\u30b9\u30da\u30af\u30c8\u30eb\u3092\u88dc\u6b63\u3059\u308b\u305f\u3081\u306b\u4f7f\u7528\u3055\u308c\u308b\u3002\u6b21\u3044\u3067\u3001\u6750\u6599\u7247\u3092\u88dc\u6b63\u3055\u308c\u305f\uff38\uff32\uff26\u30b9\u30da\u30af\u30c8\u30eb\u306b\u5f93\u3063\u3066\u9078\u5225\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002",
+      "publicationNumber": "JP2025538093",
+      "publicationDate": "2025-11-26",
+      "assignee": [
+        "\u30bd\u30eb\u30c6\u30e9\u30fb\u30c6\u30af\u30ce\u30ed\u30b8\u30fc\u30ba\u30fb\u30a4\u30f3\u30b3\u30fc\u30dd\u30ec\u30a4\u30c6\u30c3\u30c9"
+      ],
+      "inventors": [
+        "\u30e9\u30af\u30b7\u30e5\u30df\u30fb\u30c1\u30a7\u30e9\u30d1\u30f3",
+        "\u30de\u30cc\u30a8\u30eb\u30fb\u30b8\u30a7\u30e9\u30eb\u30c9\u30fb\u30ac\u30eb\u30b7\u30a2\u30fb\u30b8\u30e5\u30cb\u30a2",
+        "\u30db\u30a2\u30f3\u30fb\u30c8\u30ea\u30a8\u30c3\u30c8\u30fb\u30b8\u30a2\u30f3\u30fb\u30ec",
+        "\u30b1\u30a4\u30b7\u30fc\u30fb\u30ea\u30fc\u30fb\u30d2\u30e5\u30fc\u30ec\u30c3\u30c8"
+      ],
+      "applicationDate": "2023-10-20",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Chemical engineering",
+        "Environmental technology",
+        "Measurement"
+      ],
+      "score": 9.78442
+    },
+    {
+      "id": "US-11260426-B2",
+      "title": [
+        "Identifying coins from scrap"
+      ],
+      "abstract": "A system classifies materials utilizing a vision system that implements a machine learning system, such as a neural network, in order to identify or classify each of the materials as either a monetary coin or not a monetary coin, which may then be sorted into separate groups based on such an identification or classification. Such a system can sort monetary coins from other forms of scrap, which may have been produced from a shredding of end of life vehicles.",
+      "publicationNumber": "US11260426",
+      "publicationDate": "2022-03-01",
+      "assignee": [
+        "Sortera Alloys, hic."
+      ],
+      "inventors": [
+        "Nalin Kumar",
+        "Manuel Gerardo Garcia, JR.",
+        "Ronnie Kip Lowe"
+      ],
+      "applicationDate": "2020-04-19",
+      "claimsCount": 26,
+      "independentClaimsCount": 6,
+      "technologyFields": [
+        "Chemical engineering",
+        "Computer technology"
+      ],
+      "score": 9.768538
+    },
+    {
+      "id": "US-10207296-B2",
+      "title": [
+        "Material sorting system"
+      ],
+      "abstract": "A material sorting system sorts materials, such as scrap pieces composed of unknown metal alloys, as a function of their detected x-ray fluorescence. The x-ray fluorescence may be converted into an elemental composition signature that is then compared to an elemental composition signature of a reference material in order to identify and/or classify each of the materials, which are then sorted into separate groups based on such an identification/classification. The material sorting system may include an in-line x-ray tube having a plurality of separate x-ray sources, each of which can irradiate a separate stream of materials to be sorted.",
+      "publicationNumber": "US10207296",
+      "publicationDate": "2019-02-19",
+      "assignee": [
+        "UHV Technologies, Inc."
+      ],
+      "inventors": [
+        "Manuel Gerardo Garcia",
+        "Nalin Kumar",
+        "Subodh Das"
+      ],
+      "applicationDate": "2016-07-18",
+      "claimsCount": 24,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Chemical engineering",
+        "Measurement"
+      ],
+      "score": 9.592093
+    },
+    {
+      "id": "US-20240109103-A1",
+      "title": [
+        "SORTING OF DARK COLORED AND BLACK PLASTICS"
+      ],
+      "abstract": "Systems and methods for classifying and sorting of dark colored and/or black-colored plastic materials utilizing a vision system or one or more sensor systems implemented with one or more medium wavelength infrared cameras whereby the captured image data is process within a machine learning system in order to identify or classify each of the materials, which may then be sorted into separate groups based on such an identification or classification.",
+      "publicationNumber": "US20240109103",
+      "publicationDate": "2024-04-04",
+      "assignee": [
+        "SORTERA TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "Nalin Kumar",
+        "Manuel Gerardo Garcia",
+        "Isha Kamleshbhai Maun",
+        "Jeffrey A. Lacey",
+        "Lorenzo Vega Montoto"
+      ],
+      "applicationDate": "2022-02-08",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Chemical engineering"
+      ],
+      "score": 9.537497
+    },
+    {
+      "id": "US-20220161298-A1",
+      "title": [
+        "SORTING OF PLASTICS"
+      ],
+      "abstract": "Systems and methods for classifying and sorting of plastic materials utilizing a vision system and one or more sensor systems, which may implement a machine learning system in order to identify or classify each of the materials, which may then be sorted into separate groups based on such an identification or classification.",
+      "publicationNumber": "US20220161298",
+      "publicationDate": "2022-05-26",
+      "assignee": [
+        "Sortera Alloys, Inc."
+      ],
+      "inventors": [
+        "Nalin Kumar",
+        "Manuel Gerardo Garcia, JR.",
+        "Isha Kamleshbhai Maun"
+      ],
+      "applicationDate": "2022-02-08",
+      "claimsCount": 23,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Chemical engineering"
+      ],
+      "score": 9.537497
+    },
+    {
+      "id": "US-12290842-B2",
+      "title": [
+        "Sorting of dark colored and black plastics"
+      ],
+      "abstract": "Systems and methods for classifying and sorting of dark colored and/or black-colored plastic materials utilizing a vision system or one or more sensor systems implemented with one or more medium wavelength infrared cameras whereby the captured image data is process within a machine learning system in order to identify or classify each of the materials, which may then be sorted into separate groups based on such an identification or classification.",
+      "publicationNumber": "US12290842",
+      "publicationDate": "2025-05-06",
+      "assignee": [
+        "SORTERA TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "Nalin Kumar",
+        "Manuel Gerardo Garcia, JR.",
+        "Isha Kamleshbhai Maun",
+        "Jeffrey A. Lacey",
+        "Lorenzo Vega Montoto"
+      ],
+      "applicationDate": "2022-02-08",
+      "claimsCount": 16,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Chemical engineering"
+      ],
+      "score": 9.537497
+    },
+    {
+      "id": "US-20220023918-A1",
+      "title": [
+        "MATERIAL HANDLING USING MACHINE LEARNING SYSTEM"
+      ],
+      "abstract": "Systems and methods for classifying materials utilizing one or more sensor systems, which may implement a machine learning system in order to identify or classify each of the materials, which may then be sorted into separate groups based on such an identification or classification. The machine learning system may utilize a neural network, and be previously trained to recognize and classify certain types of materials.",
+      "publicationNumber": "US20220023918",
+      "publicationDate": "2022-01-27",
+      "assignee": [
+        "Sortera Alloys, Inc."
+      ],
+      "inventors": [
+        "Nalin Kumar",
+        "Manuel Gerardo Garcia, JR.",
+        "Kanishka Tyagi"
+      ],
+      "applicationDate": "2021-10-06",
+      "claimsCount": 14,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Chemical engineering"
+      ],
+      "score": 9.483587
+    },
+    {
+      "id": "US-20210346916-A1",
+      "title": [
+        "MATERIAL HANDLING USING MACHINE LEARNING SYSTEM"
+      ],
+      "abstract": "Systems and methods for classifying materials utilizing one or more sensor systems, which may implement a machine learning system in order to identify or classify each of the materials, which may then be sorted into separate groups based on such an identification or classification. The machine learning system may utilize a neural network, and be previously trained to recognize and classify certain types of materials.",
+      "publicationNumber": "US20210346916",
+      "publicationDate": "2021-11-11",
+      "assignee": [
+        "Sortera Alloys, Inc."
+      ],
+      "inventors": [
+        "Nalin Kumar",
+        "Manuel Gerardo Garcia, JR.",
+        "Kanishka Tyagi"
+      ],
+      "applicationDate": "2021-07-20",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Chemical engineering"
+      ],
+      "score": 9.483587
+    },
+    {
+      "id": "US-11975365-B2",
+      "title": [
+        "Computer program product for classifying materials"
+      ],
+      "abstract": "Systems and methods for classifying materials utilizing one or more sensor systems, which may implement a machine learning system in order to identify or classify each of the materials, which may then be sorted into separate groups based on such an identification or classification. The machine learning system may utilize a neural network, and be previously trained to recognize and classify certain types of materials.",
+      "publicationNumber": "US11975365",
+      "publicationDate": "2024-05-07",
+      "assignee": [
+        "SORTERA TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "Nalin Kumar",
+        "Manuel Gerardo Garcia, JR.",
+        "Kanishka Tyagi"
+      ],
+      "applicationDate": "2021-10-06",
+      "claimsCount": 19,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Chemical engineering"
+      ],
+      "score": 9.483587
+    },
+    {
+      "id": "JP-2025128094-A",
+      "title": [
+        "PLASTIC SEPARATION"
+      ],
+      "abstract": "To provide: an improvement in processing for separating all types of plastics; a function of separating plastics including PVC, LDPE, PP, PS, multilayer polymers, composite polymers, acrylic, and nylon; a function of separating PVC; and a function of separating plastic mixtures into new classifications or fractions.SOLUTION: There is provided a system and a method for classifying and separating plastic materials by using a vision system and at least one sensor system, the system and method including implementation of a machine learning system for identifying or classifying each material and the materials being separated into different groups on the basis of the identification or classification.SELECTED DRAWING: Figure 4",
+      "publicationNumber": "JP2025128094",
+      "publicationDate": "2025-09-02",
+      "assignee": [
+        "SORTERA TECH INC"
+      ],
+      "inventors": [
+        "NALIN KUMAR",
+        "MANUEL GERARDO GARCIA JR",
+        "ISHA KAMLESHBHAI MAUN",
+        "JEFFREY A LACEY",
+        "LORENZO VEGA MONTOTO"
+      ],
+      "applicationDate": "2025-05-02",
+      "claimsCount": 17,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Analysis of biological materials",
+        "Chemical engineering",
+        "Computer technology",
+        "Measurement"
+      ],
+      "score": 9.368044
+    },
+    {
+      "id": "US-20170014868-A1",
+      "title": [
+        "MATERIAL SORTING SYSTEM"
+      ],
+      "abstract": "A material sorting system sorts materials, such as scrap pieces composed of unknown metal alloys, as a function of their detected x-ray fluorescence. The x-ray fluorescence may be converted into an elemental composition signature that is then compared to an elemental composition signature of a reference material in order to identify and/or classify each of the materials, which are then sorted into separate groups based on such an identification/classification. The material sorting system may include an in-line x-ray tube having a plurality of separate x-ray sources, each of which can irradiate a separate stream of materials to be sorted.",
+      "publicationNumber": "US20170014868",
+      "publicationDate": "2017-01-19",
+      "assignee": [
+        "UHV Technologies, Inc."
+      ],
+      "inventors": [
+        "Manuel Gerardo Garcia, JR.",
+        "Nalin Kumar"
+      ],
+      "applicationDate": "2016-07-18",
+      "claimsCount": 20,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Chemical engineering",
+        "Measurement"
+      ],
+      "score": 9.325872
+    },
+    {
+      "id": "TW-I829131-B",
+      "title": [
+        "METHOD AND SYSTEM FOR SORTING MATERIALS, AND COMPUTER PROGRAM PRODUCT STORED ON COMPUTER READABLE STORAGE MEDIUM"
+      ],
+      "abstract": "Systems and methods for classifying and sorting materials in order to produce a collection of materials that are composed of a particular chemical composition in the aggregate. The system may utilize a vision system and one or more sensor systems, which may implement a machine learning system in order to identify or classify each of the materials. The sorting is then performed as a function of the classifications.",
+      "publicationNumber": "TWI829131",
+      "publicationDate": "2024-01-11",
+      "assignee": [
+        "Sortera Alloys, Inc."
+      ],
+      "inventors": [
+        "NALIN KUMAR",
+        "JR.,MANUEL GERARDO GARCIA"
+      ],
+      "applicationDate": "2022-03-30",
+      "claimsCount": 23,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Chemical engineering"
+      ],
+      "score": 9.274595
+    }
+  ]
+}

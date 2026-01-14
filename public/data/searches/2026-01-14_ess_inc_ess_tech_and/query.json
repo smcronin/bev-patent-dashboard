@@ -1,0 +1,6 @@
+{
+  "query": "PA=(ESS Inc OR ESS Tech) AND PD>2015",
+  "query_type": "ai_search",
+  "timestamp": "2026-01-14T12:14:27.449402",
+  "user_prompt": "PA=(ESS Inc OR ESS Tech) AND PD>2015"
+}

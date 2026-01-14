@@ -1,0 +1,11 @@
+{
+  "search_id": "search_20260114_121940",
+  "timestamp": "2026-01-14T12:19:40.840457",
+  "query_type": "ai_search",
+  "user_prompt": "PA=(Niron Magnetics) AND PD>2015",
+  "minesoft_query": "PA=(Niron Magnetics) AND PD>2015",
+  "results_count": 31,
+  "directory": "2026-01-14_niron_magnetics_and_2015",
+  "execution_time_ms": 870.5058097839355,
+  "api_endpoint": "query"
+}

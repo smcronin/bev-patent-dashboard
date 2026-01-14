@@ -1,0 +1,11 @@
+{
+  "search_id": "search_20260114_121508",
+  "timestamp": "2026-01-14T12:15:08.810608",
+  "query_type": "ai_search",
+  "user_prompt": "PA=(SOURCE Global) AND PD>2015",
+  "minesoft_query": "PA=(SOURCE Global) AND PD>2015",
+  "results_count": 193,
+  "directory": "2026-01-14_source_global_and_2015",
+  "execution_time_ms": 1970.8380699157715,
+  "api_endpoint": "query"
+}

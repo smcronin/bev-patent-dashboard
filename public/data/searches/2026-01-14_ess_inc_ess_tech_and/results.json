@@ -1,0 +1,2450 @@
+{
+  "count": 475,
+  "numFound": 475,
+  "docs": [
+    {
+      "id": "AU-2023248118-A1",
+      "title": [
+        "Methods and systems for operating a redox flow battery system"
+      ],
+      "abstract": "A method of operating a redox flow battery, may include maintaining a positive electrode compartment pressure greater than a negative electrode compartment pressure, and maintaining a cross-over pressure less than a membrane break-through pressure, wherein the cross-over pressure equals the negative electrode compartment pressure subtracted from the positive electrode compartment pressure. In this way, ionic resistance across the separator can be maintained at a lower level by reducing gas bubbles trapped therein while reducing separator break-through, thereby increasing performance of the redox flow battery system.",
+      "publicationNumber": "AU2023248118",
+      "publicationDate": "2023-11-02",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Evan DOREMUS",
+        "Thiago GROBERG",
+        "YANG SONG"
+      ],
+      "applicationDate": "2023-10-11",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 12.736445
+    },
+    {
+      "id": "JP-2020518114-A",
+      "title": [
+        "\u96fb\u6c60\u30b7\u30b9\u30c6\u30e0\u53ca\u3073\u65b9\u6cd5"
+      ],
+      "abstract": "\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u30b7\u30b9\u30c6\u30e0\u53ca\u3073\u5f53\u8a72\u30b7\u30b9\u30c6\u30e0\u3092\u4f5c\u52d5\u3055\u305b\u308b\u65b9\u6cd5\u306f\u3001\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u30b7\u30b9\u30c6\u30e0\u3092\u30a2\u30a4\u30c9\u30eb\u30e2\u30fc\u30c9\u306b\u5207\u308a\u66ff\u3048\u308b\u3053\u3068\u3092\u542b\u307f\u3001\u30a2\u30a4\u30c9\u30eb\u30e2\u30fc\u30c9\u306f\u3001\u5145\u96fb\u30e2\u30fc\u30c9\u4ee5\u5916\u53ca\u3073\u653e\u96fb\u30e2\u30fc\u30c9\u4ee5\u5916\u306e\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u30b7\u30b9\u30c6\u30e0\u306e\u4f5c\u52d5\u3092\u542b\u307f\u3001\u30a2\u30a4\u30c9\u30eb\u30e2\u30fc\u30c9\u3078\u306e\u5207\u308a\u66ff\u3048\u306b\u5fdc\u3058\u3066\u3001\u5145\u96fb\u95be\u5024\u6d41\u91cf\u672a\u6e80\u306e\u30a2\u30a4\u30c9\u30ea\u30f3\u30b0\u95be\u5024\u6d41\u91cf\u3068\u975e\u30a2\u30af\u30c6\u30a3\u30d6\u5316\u95be\u5024\u6d41\u91cf\u3068\u306e\u9593\u3067\u96fb\u89e3\u6db2\u30dd\u30f3\u30d7\u3092\u7e70\u308a\u8fd4\u3057\u5468\u671f\u7684\u306b\u4f5c\u52d5\u3055\u305b\u3001\u5145\u96fb\u30e2\u30fc\u30c9\u3078\u306e\u5207\u308a\u66ff\u3048\u306b\u5fdc\u3058\u3066\u3001\u30a2\u30a4\u30c9\u30ea\u30f3\u30b0\u95be\u5024\u6d41\u91cf\u3088\u308a\u3082\u5927\u304d\u3044\u5145\u96fb\u95be\u5024\u6d41\u91cf\u3067\u96fb\u89e3\u6db2\u30dd\u30f3\u30d7\u306e\u4f5c\u52d5\u3092\u7dad\u6301\u3059\u308b\u3002\u3053\u306e\u3088\u3046\u306b\u3057\u3066\u3001\u30a2\u30a4\u30c9\u30eb\u72b6\u614b\u3067\u3082\u5145\u96fb\u53ca\u3073\u653e\u96fb\u30b3\u30de\u30f3\u30c9\u306b\u5bfe\u3059\u308b\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u30b7\u30b9\u30c6\u30e0\u306e\u5fdc\u7b54\u6027\u3092\u7dad\u6301\u3057\u306a\u304c\u3089\u3001\u30dd\u30f3\u30d4\u30f3\u30b0\u53ca\u3073\u52a0\u71b1\u306b\u3088\u308b\u5bc4\u751f\u30dd\u30f3\u30d4\u30f3\u30b0\u640d\u5931\u3092\u4f4e\u6e1b\u3057\u3001\u30b7\u30e3\u30f3\u30c8\u96fb\u6d41\u640d\u5931\u3092\u4f4e\u6e1b\u3067\u304d\u308b\u3002\u3010\u9078\u629e\u56f3\u3011\u56f3\uff13",
+      "publicationNumber": "JP2020518114",
+      "publicationDate": "2020-06-18",
+      "assignee": [
+        "ESS  Tech,Inc."
+      ],
+      "inventors": [
+        "\u30bd\u30f3  \u30e4\u30f3",
+        "\u30c9\u30a2\u30de\u30b9  \u30a8\u30f4\u30a1\u30f3"
+      ],
+      "applicationDate": "2018-04-27",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 12.6416855
+    },
+    {
+      "id": "AU-2023263432-A1",
+      "title": [
+        "Electrolytes for iron flow battery"
+      ],
+      "abstract": "A method of operating an iron redox flow battery system may comprise fluidly coupling a plating electrode of an iron redox flow battery cell to a plating electrolyte; fluidly coupling a redox electrode of the iron redox flow battery cell to a redox electrolyte; fluidly coupling a ductile plating additive to one or both of the plating electrolyte and the redox electrolyte; and increasing an amount of the ductile plating additive to the plating electrolyte in response to an increase in the plating stress at the plating electrode. In this way, ductile Fe can be plated on the negative electrode, and the performance, reliability and efficiency of the iron redox flow battery can be maintained. In addition, iron can be more rapidly produced and plated at the plating electrode, thereby achieving a higher charging rate for all iron flow batteries.",
+      "publicationNumber": "AU2023263432",
+      "publicationDate": "2023-11-23",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Craig E. Evans",
+        "YANG SONG"
+      ],
+      "applicationDate": "2023-11-06",
+      "claimsCount": 6,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 12.5748
+    },
+    {
+      "id": "JP-2020518950-A",
+      "title": [
+        "\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u30b7\u30b9\u30c6\u30e0\u306e\u52d5\u4f5c\u65b9\u6cd5\u53ca\u3073\u30b7\u30b9\u30c6\u30e0"
+      ],
+      "abstract": "\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u306e\u52d5\u4f5c\u65b9\u6cd5\u306f\u3001\u8ca0\u6975\u5ba4\u5727\u529b\u3088\u308a\u3082\u6b63\u6975\u5ba4\u5727\u529b\u3092\u9ad8\u304f\u7dad\u6301\u3059\u308b\u3053\u3068\u3001\u53ca\u3073\u819c\u7a81\u7834\u5727\u529b\u3088\u308a\u3082\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u5727\u529b\u3092\u5c0f\u3055\u304f\u7dad\u6301\u3059\u308b\u3053\u3068\u3092\u5305\u542b\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u3001\u524d\u8a18\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u5727\u529b\u304c\u3001\u524d\u8a18\u6b63\u6975\u5ba4\u5727\u529b\u304b\u3089\u524d\u8a18\u8ca0\u6975\u5ba4\u5727\u529b\u3092\u6e1b\u3058\u305f\u3082\u306e\u306b\u7b49\u3057\u3044\u3002\u3053\u306e\u3088\u3046\u306b\u3057\u3066\u3001\u30bb\u30d1\u30ec\u30fc\u30bf\u306e\u7a81\u7834\u3092\u6e1b\u3089\u3057\u3064\u3064\u305d\u306e\u4e2d\u306b\u9589\u3058\u8fbc\u3081\u3089\u308c\u305f\u6c17\u6ce1\u3092\u6e1b\u3089\u3059\u3053\u3068\u306b\u3088\u3063\u3066\u3001\u524d\u8a18\u30bb\u30d1\u30ec\u30fc\u30bf\u3092\u6a2a\u5207\u308b\u30a4\u30aa\u30f3\u62b5\u6297\u3092\u4f4e\u3044\u30ec\u30d9\u30eb\u3067\u7dad\u6301\u53ef\u80fd\u3067\u3042\u308a\u3001\u305d\u308c\u306b\u3088\u3063\u3066\u524d\u8a18\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u30b7\u30b9\u30c6\u30e0\u306e\u6027\u80fd\u304c\u5411\u4e0a\u3059\u308b\u3002\u3010\u9078\u629e\u56f3\u3011\u56f3\uff12\uff21",
+      "publicationNumber": "JP2020518950",
+      "publicationDate": "2020-06-25",
+      "assignee": [
+        "ESS  Tech,Inc."
+      ],
+      "inventors": [
+        "\u30bd\u30f3  \u30e4\u30f3",
+        "\u30c9\u30a2\u30de\u30b9  \u30a8\u30f4\u30a1\u30f3",
+        "\u30b0\u30ed\u30d0\u30fc\u30b0  \u30c6\u30a3\u30a2\u30b4"
+      ],
+      "applicationDate": "2018-04-27",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 12.434097
+    },
+    {
+      "id": "JP-2020518115-A",
+      "title": [
+        "\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u30b7\u30b9\u30c6\u30e0\u7528\u306e\u96fb\u89e3\u6db2\u3092\u30ea\u30d0\u30e9\u30f3\u30b9\u3059\u308b\u65b9\u6cd5\u53ca\u3073\u30b7\u30b9\u30c6\u30e0"
+      ],
+      "abstract": "\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u30b7\u30b9\u30c6\u30e0\u306e\u305f\u3081\u306e\u30ea\u30d0\u30e9\u30f3\u30b9\u53cd\u5fdc\u5668\u306f\u3001\u6c34\u7d20\u30ac\u30b9\u304c\u6d41\u308c\u308b\u7b2c\uff11\u5074\u3068\u3001\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u30b7\u30b9\u30c6\u30e0\u304b\u3089\u306e\u96fb\u89e3\u6db2\u304c\u6d41\u308c\u308b\u7b2c\uff12\u5074\u3068\u3001\u524d\u8a18\u7b2c\uff11\u5074\u3068\u524d\u8a18\u7b2c\uff12\u5074\u3068\u3092\u5206\u96e2\u3057\u3066\u6d41\u4f53\u63a5\u7d9a\u3059\u308b\u591a\u5b54\u8cea\u5c64\u3068\u3001\u3092\u5099\u3048\u3066\u3044\u3066\u3082\u3088\u304f\u3001\u524d\u8a18\u6c34\u7d20\u30ac\u30b9\u3068\u524d\u8a18\u96fb\u89e3\u6db2\u3068\u304c\u3001\u524d\u8a18\u591a\u5b54\u8cea\u5c64\u306e\u8868\u9762\u306b\u304a\u3044\u3066\u6d41\u4f53\u63a5\u89e6\u3057\u3066\u304a\u308a\u3001\u524d\u8a18\u7b2c\uff12\u5074\u306b\u6a2a\u5207\u308b\u5727\u529b\u964d\u4e0b\u304c\u3001\u524d\u8a18\u591a\u5b54\u8cea\u5c64\u306b\u6a2a\u5207\u308b\u5727\u529b\u964d\u4e0b\u3088\u308a\u3082\u5c0f\u3055\u3044\u3002\u3053\u306e\u3088\u3046\u306b\u3057\u3066\u3001\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u30b7\u30b9\u30c6\u30e0\u306b\u304a\u3051\u308b\u96fb\u89e3\u6db2\u96fb\u5316\u306e\u30ea\u30d0\u30e9\u30f3\u30b9\u306f\u3001\u5f93\u6765\u306e\u30ea\u30d0\u30e9\u30f3\u30b9\u53cd\u5fdc\u5668\u306b\u6bd4\u8f03\u3057\u3066\u52b9\u7387\u53ca\u3073\u8cbb\u7528\u52b9\u679c\u3092\u5411\u4e0a\u3057\u3066\u5b9f\u884c\u3055\u308c\u5f97\u308b\u3002\u3010\u9078\u629e\u56f3\u3011\u56f3\uff12",
+      "publicationNumber": "JP2020518115",
+      "publicationDate": "2020-06-18",
+      "assignee": [
+        "ESS  Tech,Inc."
+      ],
+      "inventors": [
+        "\u30a8\u30f4\u30a1\u30f3\u30ba  \u30af\u30ec\u30a4\u30b0  \u30a4\u30fc\uff0e"
+      ],
+      "applicationDate": "2018-04-27",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 12.422183
+    },
+    {
+      "id": "JP-2020518953-A",
+      "title": [
+        "\u96fb\u89e3\u6db2\u306e\u5065\u5168\u6027\u3068\u30b7\u30b9\u30c6\u30e0\u6027\u80fd\u3092\u7dad\u6301\u3059\u308b\u305f\u3081\u306e\u30d5\u30ed\u30fc\u96fb\u6c60\u6d17\u6d44\u30b5\u30a4\u30af\u30eb"
+      ],
+      "abstract": "\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u30b7\u30b9\u30c6\u30e0\u306e\u6d17\u6d44\u65b9\u6cd5\u306f\u3001\u5145\u96fb\u30e2\u30fc\u30c9\u3001\u653e\u96fb\u30e2\u30fc\u30c9\u3001\u53c8\u306f\u30a2\u30a4\u30c9\u30eb\u30e2\u30fc\u30c9\u306e\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u30b7\u30b9\u30c6\u30e0\u3092\u4f5c\u52d5\u3059\u308b\u3053\u3068\u3092\u542b\u307f\u3001\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u5bb9\u91cf\u304c\u95be\u5024\u96fb\u6c60\u5bb9\u91cf\u672a\u6e80\u3067\u3042\u308b\u3053\u3068\u306b\u5fdc\u3058\u3066\u3001\u6b63\u6975\u96fb\u89e3\u6db2\u3068\u8ca0\u6975\u96fb\u89e3\u6db2\u3068\u306e\u6df7\u5408\u3092\u884c\u3046\u3053\u3068\u3092\u542b\u3080\u3002\u3053\u306e\u3088\u3046\u306b\u3057\u3066\u3001\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u30b7\u30b9\u30c6\u30e0\u306e\u5145\u96fb\u53ca\u3073\u653e\u96fb\u30b5\u30a4\u30af\u30eb\u5f8c\u306e\u96fb\u6c60\u5bb9\u91cf\u306e\u4f4e\u4e0b\u3092\u5927\u5e45\u306b\u4f4e\u6e1b\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002\u3010\u9078\u629e\u56f3\u3011\u56f3\uff12",
+      "publicationNumber": "JP2020518953",
+      "publicationDate": "2020-06-25",
+      "assignee": [
+        "ESS  Tech,Inc."
+      ],
+      "inventors": [
+        "\u30bd\u30f3  \u30e4\u30f3",
+        "\u30a8\u30f4\u30a1\u30f3\u30ba  \u30af\u30ec\u30a4\u30b0  \u30a4\u30fc\uff0e"
+      ],
+      "applicationDate": "2018-04-27",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 12.403166
+    },
+    {
+      "id": "JP-2020518951-A",
+      "title": [
+        "\u52a0\u5727\u30de\u30eb\u30c1\u30c1\u30e3\u30f3\u30d0\u30bf\u30f3\u30af\u3092\u4f7f\u7528\u3057\u305f\u7d71\u5408\u6c34\u7d20\u30ea\u30b5\u30a4\u30af\u30eb\u30b7\u30b9\u30c6\u30e0"
+      ],
+      "abstract": "\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u30b7\u30b9\u30c6\u30e0\u7528\u306e\u30de\u30eb\u30c1\u30c1\u30e3\u30f3\u30d0\u96fb\u89e3\u6db2\u8caf\u8535\u30bf\u30f3\u30af\u306f\u3001\u7b2c\uff11\u53ca\u3073\u7b2c\uff12\u306e\u96fb\u89e3\u6db2\u30c1\u30e3\u30f3\u30d0\u3001\u4e26\u3073\u306b\u9694\u58c1\u3092\u5099\u3048\u3001\u7b2c\uff11\u53ca\u3073\u7b2c\uff12\u306e\u96fb\u89e3\u6db2\u30c1\u30e3\u30f3\u30d0\u306f\u3001\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u30bb\u30eb\u306e\u7b2c\uff11\u53ca\u3073\u7b2c\uff12\u306e\u5074\u306b\u305d\u308c\u305e\u308c\u6d41\u4f53\u7684\u306b\u9023\u7d50\u3055\u308c\u3001\u7b2c\uff11\u53ca\u3073\u7b2c\uff12\u306e\u96fb\u89e3\u6db2\u30c1\u30e3\u30f3\u30d0\u306f\u3001\u305d\u308c\u305e\u308c\u7b2c\uff11\u53ca\u3073\u7b2c\uff12\u306e\u96fb\u89e3\u6db2\u5bb9\u7a4d\u3092\u542b\u307f\u3001\u7b2c\uff11\u53ca\u3073\u7b2c\uff12\u306e\u96fb\u89e3\u6db2\u5bb9\u7a4d\u306f\u3001\u305d\u308c\u3089\u306e\u9593\u306b\u914d\u7f6e\u3055\u308c\u305f\u9694\u58c1\u306b\u3088\u3063\u3066\u5206\u96e2\u3055\u308c\u308b\u3002\u3053\u306e\u3088\u3046\u306b\u3057\u3066\u3001\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u30b7\u30b9\u30c6\u30e0\u306e\u88fd\u9020\u304a\u3088\u3073\u904b\u7528\u306e\u8907\u96d1\u3055\u3092\u8efd\u6e1b\u3067\u304d\u308b\u3002\u3010\u9078\u629e\u56f3\u3011\u56f3\uff11",
+      "publicationNumber": "JP2020518951",
+      "publicationDate": "2020-06-25",
+      "assignee": [
+        "ESS  Tech,Inc."
+      ],
+      "inventors": [
+        "\u30bd\u30f3  \u30e4\u30f3",
+        "\u30d5\u30a3\u30c3\u30b7\u30e3\u30fc  \u30b1\u30cd\u30b9  \u30ad\u30e8\u30b7",
+        "\u30de\u30af\u30c9\u30ca\u30eb\u30c9  \u30c6\u30a3\u30e2\u30b7\u30fc"
+      ],
+      "applicationDate": "2018-04-27",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 12.403166
+    },
+    {
+      "id": "JP-2021507657-A",
+      "title": [
+        "\u96fb\u529b\u5909\u63db\u30b7\u30b9\u30c6\u30e0\u53ca\u3073\u65b9\u6cd5"
+      ],
+      "abstract": "\u5358\u72ec\u306e\uff24\uff23\uff0f\uff24\uff23\u30b3\u30f3\u30d0\u30fc\u30bf\u3092\u542b\u3080\u96fb\u529b\u5909\u63db\u30b7\u30b9\u30c6\u30e0\u3092\u52d5\u4f5c\u3055\u305b\u308b\u305f\u3081\u306e\u30b7\u30b9\u30c6\u30e0\u304a\u3088\u3073\u65b9\u6cd5\u304c\u8a18\u8f09\u3055\u308c\u308b\u3002\u30b7\u30b9\u30c6\u30e0\u304a\u3088\u3073\u65b9\u6cd5\u306f\u3001\u96fb\u6c17\u30a8\u30cd\u30eb\u30ae\u30fc\u8caf\u8535\u88c5\u7f6e\u304a\u3088\u3073\u592a\u967d\u96fb\u6c60\u30a2\u30ec\u30a4\u3092\u542b\u3080\u96fb\u529b\u30b7\u30b9\u30c6\u30e0\u5185\u306e\uff24\uff23\uff0f\uff24\uff23\u30b3\u30f3\u30d0\u30fc\u30bf\u306e\u7dcf\u6570\u3092\u4f4e\u6e1b\u3059\u308b\u3002\u672c\u30b7\u30b9\u30c6\u30e0\u304a\u3088\u3073\u65b9\u6cd5\u306f\u3001\uff24\uff23\u30d0\u30b9\u304a\u3088\u3073\u30a4\u30f3\u30d0\u30fc\u30bf\u3092\u4ecb\u3057\u3066\u3001\u592a\u967d\u96fb\u6c60\u30a2\u30ec\u30a4\u304a\u3088\u3073\u96fb\u6c17\u30a8\u30cd\u30eb\u30ae\u30fc\u8caf\u8535\u88c5\u7f6e\u304b\u3089\u4ea4\u6d41\u5b9a\u5e38\u96fb\u529b\u30b0\u30ea\u30c3\u30c9\u306b\u96fb\u8377\u3092\u8ee2\u9001\u3059\u308b\u305f\u3081\u306e\u3082\u306e\u3067\u3042\u308b\u3002\u3010\u9078\u629e\u56f3\u3011\u56f3\uff12",
+      "publicationNumber": "JP2021507657",
+      "publicationDate": "2021-02-22",
+      "assignee": [
+        "ESS  Tech,Inc."
+      ],
+      "inventors": [
+        "\u30f4\u30a1\u30f3\u30c7\u30eb\u30b6\u30f3\u30c7\u30f3  \u30a2\u30fc\u30ed\u30f3"
+      ],
+      "applicationDate": "2018-11-08",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Solar energy"
+      ],
+      "score": 12.275935
+    },
+    {
+      "id": "JP-2020508549-A",
+      "title": [
+        "\u9244\u30d5\u30ed\u30fc\u96fb\u6c60\u7528\u96fb\u89e3\u8cea"
+      ],
+      "abstract": "\u9244\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u30b7\u30b9\u30c6\u30e0\u3092\u52d5\u4f5c\u3059\u308b\u65b9\u6cd5\u306f\u3001\u9244\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u30bb\u30eb\u306e\u3081\u3063\u304d\u96fb\u6975\u3092\u3081\u3063\u304d\u96fb\u89e3\u8cea\u306b\u6d41\u4f53\u7684\u306b\u63a5\u7d9a\u3055\u305b\u308b\u5de5\u7a0b\uff1b\u9244\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u30bb\u30eb\u306e\u30ec\u30c9\u30c3\u30af\u30b9\u96fb\u6975\u3092\u30ec\u30c9\u30c3\u30af\u30b9\u96fb\u89e3\u8cea\u306b\u6d41\u4f53\u7684\u306b\u63a5\u7d9a\u3055\u305b\u308b\u5de5\u7a0b\uff1b\u3081\u3063\u304d\u96fb\u89e3\u8cea\u304a\u3088\u3073\u30ec\u30c9\u30c3\u30af\u30b9\u96fb\u89e3\u8cea\u306e\u4e00\u65b9\u307e\u305f\u306f\u4e21\u65b9\u306b\u5ef6\u6027\u3081\u3063\u304d\u6dfb\u52a0\u5264\u3092\u6d41\u4f53\u7684\u306b\u63a5\u7d9a\u3055\u305b\u308b\u5de5\u7a0b\uff1b\u4e26\u3073\u306b\u3001\u3081\u3063\u304d\u96fb\u6975\u306b\u304a\u3051\u308b\u3081\u3063\u304d\u5fdc\u529b\u306e\u5897\u52a0\u306b\u5fdc\u7b54\u3057\u3066\u3001\u3081\u3063\u304d\u96fb\u89e3\u8cea\u306b\u5bfe\u3059\u308b\u5ef6\u6027\u3081\u3063\u304d\u6dfb\u52a0\u5264\u306e\u91cf\u3092\u5897\u52a0\u3055\u305b\u308b\u5de5\u7a0b\u3092\u542b\u3080\u3053\u3068\u304c\u3067\u304d\u308b\u3002\u3053\u306e\u3088\u3046\u306b\u3057\u3066\u3001\u5ef6\u6027\u306e\u3042\u308b\uff26\uff45\u3092\u8ca0\u6975\u4e0a\u306b\u3081\u3063\u304d\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u3001\u9244\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u306e\u6027\u80fd\u3001\u4fe1\u983c\u6027\u304a\u3088\u3073\u52b9\u7387\u3092\u7dad\u6301\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002\u3055\u3089\u306b\u3001\u9244\u3092\u3088\u308a\u8fc5\u901f\u306b\u88fd\u9020\u3057\u3001\u3081\u3063\u304d\u96fb\u6975\u3067\u3081\u3063\u304d\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u306e\u3067\u3001\u5168\u3066\u306e\u9244\u30d5\u30ed\u30fc\u96fb\u6c60\u306e\u5145\u96fb\u7387\u3092\u9ad8\u3081\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002\u3010\u9078\u629e\u56f3\u3011\u56f3\uff11",
+      "publicationNumber": "JP2020508549",
+      "publicationDate": "2020-03-19",
+      "assignee": [
+        "ESS  Tech,Inc."
+      ],
+      "inventors": [
+        "\u30a8\u30d0\u30f3\u30b9  \u30af\u30ec\u30a4\u30b0  \u30a4\u30fc\uff0e",
+        "\u30bd\u30f3  \u30e4\u30f3"
+      ],
+      "applicationDate": "2018-02-14",
+      "claimsCount": 20,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 12.275935
+    },
+    {
+      "id": "JP-2020521292-A",
+      "title": [
+        "\u30cf\u30a4\u30d6\u30ea\u30c3\u30c9\u30d5\u30ed\u30fc\u96fb\u6c60\u7528\u306e\u4ee3\u66ff\u4f4e\u30b3\u30b9\u30c8\u96fb\u6975"
+      ],
+      "abstract": "\u819c\u306e\u7b2c\uff11\u306e\u5074\u306b\u914d\u7f6e\u3055\u308c\u305f\u7b2c\uff11\u306e\u96fb\u6975\u3068\u7b2c\uff11\u306e\u5074\u3068\u306f\u53cd\u5bfe\u5074\u306e\u819c\u306e\u7b2c\uff12\u306e\u5074\u306b\u914d\u7f6e\u3055\u308c\u305f\u7b2c\uff12\u306e\u96fb\u6975\u306e\u9593\u306b\u633f\u5165\u3055\u308c\u305f\u819c\u3068\u3001\u8907\u6570\u306e\u6b63\u306e\u30d5\u30ed\u30fc\u30d5\u30a3\u30fc\u30eb\u30c9\u30ea\u30d6\u3092\u542b\u3080\u7b2c\uff11\u306e\u30d5\u30ed\u30fc\u30d5\u30a3\u30fc\u30eb\u30c9\u30d7\u30ec\u30fc\u30c8\u3068\u3001\u3092\u542b\u307f\u3001\u8907\u6570\u306e\u6b63\u306e\u30d5\u30ed\u30fc\u30d5\u30a3\u30fc\u30eb\u30c9\u30ea\u30d6\u306e\u5404\u3005\u306f\u3001\u7b2c\uff11\u306e\u5074\u306e\u7b2c\uff11\u306e\u652f\u6301\u9818\u57df\u3067\u7b2c\uff11\u306e\u96fb\u6975\u3068\u63a5\u89e6\u3057\u3001\u7b2c\uff12\u306e\u96fb\u6975\u306f\u3001\u819c\u3068\u7b2c\uff12\u306e\u30d5\u30ed\u30fc\u30d5\u30a3\u30fc\u30eb\u30c9\u30d7\u30ec\u30fc\u30c8\u3068\u306e\u9593\u306b\u914d\u7f6e\u3055\u308c\u305f\u96fb\u6975\u30b9\u30da\u30fc\u30b5\u3092\u542b\u307f\u3001\u96fb\u6975\u30b9\u30da\u30fc\u30b5\u306f\u8907\u6570\u306e\u4e3b\u30ea\u30d6\u3092\u542b\u307f\u3001\u8907\u6570\u306e\u4e3b\u30ea\u30d6\u306e\u5404\u3005\u306f\u3001\u7b2c\uff12\u306e\u5074\u306e\u7b2c\uff12\u306e\u652f\u6301\u9818\u57df\u306b\u304a\u3044\u3066\u7b2c\uff12\u306e\u30d5\u30ed\u30fc\u30d5\u30a3\u30fc\u30eb\u30c9\u30d7\u30ec\u30fc\u30c8\u306b\u63a5\u89e6\u3057\u3001\u7b2c\uff12\u306e\u652f\u6301\u9818\u57df\u306e\u5404\u3005\u306f\u3001\u8907\u6570\u306e\u7b2c\uff11\u306e\u652f\u6301\u9818\u57df\u306e\uff11\u3064\u306b\u5bfe\u5411\u3057\u3066\u6574\u5217\u3059\u308b\u3001\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u3002\u3053\u308c\u306b\u3088\u308a\u3001\u3081\u3063\u304d\u8868\u9762\u306b\u304a\u3051\u308b\u96fb\u6d41\u5bc6\u5ea6\u5206\u5e03\u3092\u4f4e\u6e1b\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002\u3010\u9078\u629e\u56f3\u3011\u56f3\uff11",
+      "publicationNumber": "JP2020521292",
+      "publicationDate": "2020-07-16",
+      "assignee": [
+        "ESS  Tech,Inc."
+      ],
+      "inventors": [
+        "\u30a8\u30f4\u30a1\u30f3\u30ba  \u30af\u30ec\u30a4\u30b0  \u30a4\u30fc\uff0e",
+        "\u30b1\u30a4\u30b7\u30fc  \u30b7\u30e7\u30fc\u30f3",
+        "\u30bd\u30f3  \u30e4\u30f3"
+      ],
+      "applicationDate": "2018-05-15",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 12.226088
+    },
+    {
+      "id": "US-12283815-B2",
+      "title": [
+        "Methods and systems for managing energy consumption of cryptocurrency mining"
+      ],
+      "abstract": "Systems and methods are provided for managing an energy storage system. In one example, a method may include directing energy stored in the energy storage system to a cryptocurrency mining system and another consumer responsive to conditions. Other consumers may include a third party consumer of energy and conditions may include current and predicted cryptocurrency values and current and predicted availability of cyclically available renewable energy.",
+      "publicationNumber": "US12283815",
+      "publicationDate": "2025-04-22",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Eric Paul Dresselhuys"
+      ],
+      "applicationDate": "2021-10-29",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "IT methods for management"
+      ],
+      "score": 11.652836
+    },
+    {
+      "id": "US-11688874-B2",
+      "title": [
+        "Methods and system for manufacturing a redox flow battery system by roll-to-roll processing"
+      ],
+      "abstract": "Methods and systems are provided for manufacturing a bipolar plate for a redox flow battery. In one example, the bipolar plate is fabricated by a roll-to-roll process. The bipolar plate includes a non-conductive substrate that is coupled to a negative electrode on a first surface and coupled to a positive electrode on a second surface, the first surface opposite of the second surface.",
+      "publicationNumber": "US11688874",
+      "publicationDate": "2023-06-27",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Craig E. Evans"
+      ],
+      "applicationDate": "2021-04-19",
+      "claimsCount": 7,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.652836
+    },
+    {
+      "id": "US-11502321-B2",
+      "title": [
+        "Redox flow battery and battery system"
+      ],
+      "abstract": "A redox flow battery and battery system are provided. In one example, the redox flow battery includes a set of pressure plates having a first pressure plate at a first terminal end and a second pressure plate at a second terminal end, the second terminal end and the first terminal end positioned on opposing longitudinal sides of the redox flow battery. The redox flow battery further includes a first cell stack positioned longitudinally between the first pressure plate and the second pressure plate, each of the first and second pressure plates includes a plurality stacking detents on a first flange and a plurality of stacking protrusions on a second flange, and the first flange and the second flange arranged on opposing vertical sides of the redox flow battery.",
+      "publicationNumber": "US11502321",
+      "publicationDate": "2022-11-15",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Sean Casey",
+        "Craig Evans",
+        "Thiago Groberg",
+        "Yang Song"
+      ],
+      "applicationDate": "2021-05-05",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.652836
+    },
+    {
+      "id": "US-11264631-B2",
+      "title": [
+        "Methods and system for manufacturing a redox flow battery system by roll-to-roll processing"
+      ],
+      "abstract": "Methods and systems are provided for manufacturing a bipolar plate for a redox flow battery. In one example, the bipolar plate is fabricated by a roll-to-roll process. The bipolar plate includes a non-conductive substrate that is coupled to a negative electrode on a first surface and coupled to a positive electrode on a second surface, the first surface opposite of the second surface.",
+      "publicationNumber": "US11264631",
+      "publicationDate": "2022-03-01",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Craig E. Evans"
+      ],
+      "applicationDate": "2019-08-08",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.652836
+    },
+    {
+      "id": "US-12255370-B2",
+      "title": [
+        "Electrode assembly for a redox flow battery"
+      ],
+      "abstract": "Methods and systems are provided for a redox flow battery system. In one example, the redox flow battery system includes a cell stack compressed between terminal structures defining ends of the redox flow battery. The cell stack may be formed of a plurality of cells where each cell includes a deformable positive electrode in contact with a first face of a membrane separator and a negative electrode configured to be less compressible than the positive electrode and arranged at a second face of the membrane separator.",
+      "publicationNumber": "US12255370",
+      "publicationDate": "2025-03-18",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Sean Casey",
+        "Craig Evans",
+        "Thiago Groberg",
+        "Yang Song"
+      ],
+      "applicationDate": "2023-04-05",
+      "claimsCount": 18,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.524826
+    },
+    {
+      "id": "US-11710843-B2",
+      "title": [
+        "Redox flow battery and battery system"
+      ],
+      "abstract": "A redox flow battery and battery system are provided. In one example, the redox flow battery includes a cell stack assembly interposed by two endplates and comprising a plurality of mated membrane frame plates and bipolar frame plates forming, at a mated interface, a plurality of negative and positive flow channels configured to distribute negative and positive electrolyte into a plurality of bipolar plates. In the battery a membrane is coupled to each of the plurality of membrane frame plates and positioned sequentially between two of the bipolar plates included in the plurality of bipolar plates.",
+      "publicationNumber": "US11710843",
+      "publicationDate": "2023-07-25",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Craig E. Evans",
+        "Sean Casey",
+        "Thiago Groberg",
+        "Yang Song"
+      ],
+      "applicationDate": "2021-05-05",
+      "claimsCount": 19,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.524826
+    },
+    {
+      "id": "US-11677093-B2",
+      "title": [
+        "Electrode assembly for a redox flow battery"
+      ],
+      "abstract": "Methods and systems are provided for a redox flow battery system. In one example, the redox flow battery system includes a cell stack compressed between terminal structures defining ends of the redox flow battery. The cell stack may be formed of a plurality of cells where each cell includes a deformable positive electrode in contact with a first face of a membrane separator and a negative electrode configured to be less compressible than the positive electrode and arranged at a second face of the membrane separator.",
+      "publicationNumber": "US11677093",
+      "publicationDate": "2023-06-13",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Sean Casey",
+        "Craig Evans",
+        "Thiago Groberg",
+        "Yang Song"
+      ],
+      "applicationDate": "2021-05-05",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.524826
+    },
+    {
+      "id": "US-12191548-B2",
+      "title": [
+        "Hybrid redox fuel cell system"
+      ],
+      "abstract": "A hybrid redox fuel cell system includes a hybrid redox fuel cell including an anode side through which a reductant is flowed and a cathode side through which liquid electrolyte is flowed, and a trickle bed reactor including a catalyst bed fluidly connected to the cathode side of the hybrid redox fuel cell. Furthermore, the liquid electrolyte includes a metal ion at a higher oxidation state and the metal ion at a lower oxidation state, and power is generated at the hybrid redox fuel cell by way of reducing the metal ion at the higher oxidation state to the lower oxidation state at the cathode side while oxidizing the reductant at the anode side.",
+      "publicationNumber": "US12191548",
+      "publicationDate": "2025-01-07",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Yang Song",
+        "Craig Evans"
+      ],
+      "applicationDate": "2022-09-02",
+      "claimsCount": 9,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.464436
+    },
+    {
+      "id": "US-11811110-B2",
+      "title": [
+        "System and method for determining state of charge for an electric energy storage device"
+      ],
+      "abstract": "Systems and methods for operating an electric energy storage device are described. The systems and methods may generate a state of charge estimate that is based on negative electrode plating. An overall state of charge may be determined from the state of charge estimate that is based on negative electrode plating and a state of charge estimate that is not based on negative electrode plating.",
+      "publicationNumber": "US11811110",
+      "publicationDate": "2023-11-07",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Yang Song",
+        "Timothy J. McDonald",
+        "Thiago Groberg"
+      ],
+      "applicationDate": "2023-03-13",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.464436
+    },
+    {
+      "id": "US-11749827-B2",
+      "title": [
+        "Method for iron preformation in redox flow batteries"
+      ],
+      "abstract": "Methods and systems are provided for iron preformation in a redox flow battery. In one example, a method may include, in a first condition, discharging and then charging the redox flow battery, and in a second condition, charging the redox flow battery including preforming iron metal at a negative electrode of the redox flow battery, and thereafter entering an idle mode of the redox flow battery including adjusting one or more electrolyte conditions. In some examples, each of preforming the iron metal and adjusting the one or more electrolyte conditions may increase a battery charge capacity to greater than a threshold battery charge capacity.",
+      "publicationNumber": "US11749827",
+      "publicationDate": "2023-09-05",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Yang Song",
+        "Brady Thompson",
+        "Timothy J. McDonald"
+      ],
+      "applicationDate": "2020-10-26",
+      "claimsCount": 8,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.464436
+    },
+    {
+      "id": "US-11715840-B2",
+      "title": [
+        "Internally manifolded flow cell for an all-iron hybrid flow battery"
+      ],
+      "abstract": "In one example, a system for a flow cell for a flow battery, comprising: a first flow field; and a polymeric frame, comprising: a top face; a bottom face, opposite the top face; a first side; a second side, opposite the first side; a first electrolyte inlet located on the top face and the first side of the polymeric frame; a first electrolyte outlet located on the top face and the second side of the polymeric frame; a first electrolyte inlet flow path located within the polymeric frame and coupled to the first electrolyte inlet; and a first electrolyte outlet flow path located within the polymeric frame and coupled to the first electrolyte outlet. In this way, shunt currents may be minimized by increasing the length and/or reducing the cross-sectional area of the electrolyte inlet and electrolyte outlet flow paths.",
+      "publicationNumber": "US11715840",
+      "publicationDate": "2023-08-01",
+      "assignee": [
+        "ESS TECH, INC"
+      ],
+      "inventors": [
+        "Craig Evans",
+        "Yang Song"
+      ],
+      "applicationDate": "2021-10-14",
+      "claimsCount": 5,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.464436
+    },
+    {
+      "id": "US-11631872-B2",
+      "title": [
+        "System and method for determining state of charge for an electric energy storage device"
+      ],
+      "abstract": "Systems and methods for operating an electric energy storage device are described. The systems and methods may generate a state of charge estimate that is based on negative electrode plating. An overall state of charge may be determined from the state of charge estimate that is based on negative electrode plating and a state of charge estimate that is not based on negative electrode plating.",
+      "publicationNumber": "US11631872",
+      "publicationDate": "2023-04-18",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Yang Song",
+        "Timothy J. McDonald",
+        "Thiago Groberg"
+      ],
+      "applicationDate": "2020-11-16",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.464436
+    },
+    {
+      "id": "US-10879544-B2",
+      "title": [
+        "System and method for determining state of charge for an electric energy storage device"
+      ],
+      "abstract": "Systems and methods for operating an electric energy storage device are described. The systems and methods may generate a state of charge estimate that is based on negative electrode plating. An overall state of charge may be determined from the state of charge estimate that is based on negative electrode plating and a state of charge estimate that is not based on negative electrode plating.",
+      "publicationNumber": "US10879544",
+      "publicationDate": "2020-12-29",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Yang Song",
+        "Timothy J. McDonald",
+        "Thiago Groberg"
+      ],
+      "applicationDate": "2018-11-02",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.464436
+    },
+    {
+      "id": "IN-202247025355-A",
+      "title": [
+        "METHOD FOR IRON PREFORMATION IN REDOX FLOW BATTERIES"
+      ],
+      "abstract": "Methods and systems are provided for iron preformation in a redox flow battery. In one example, a method may include, in a first condition, discharging and then charging the redox flow battery, and in a second condition, charging the redox flow battery including preforming iron metal at a negative electrode of the redox flow battery, and thereafter entering an idle mode of the redox flow battery including adjusting one or more electrolyte conditions. In some examples, each of preforming the iron metal and adjusting the one or more electrolyte conditions may increase a battery charge capacity to greater than a threshold battery charge capacity.",
+      "publicationNumber": "IN202247025355",
+      "publicationDate": "2022-06-03",
+      "assignee": [
+        "ESS TECH INC"
+      ],
+      "inventors": [
+        "SONG YANG",
+        "THOMPSON BRADY",
+        "MCDONALD TIMOTHY J"
+      ],
+      "applicationDate": "2022-04-29",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.464436
+    },
+    {
+      "id": "EP-3867658-A4",
+      "title": [
+        "SYSTEM AND METHOD FOR DETERMINING STATE OF CHARGE FOR AN ELECTRIC ENERGY STORAGE DEVICE"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP3867658",
+      "publicationDate": "2022-01-12",
+      "assignee": [
+        "ESS Tech, Inc."
+      ],
+      "inventors": [
+        "YANG SONG",
+        "TIMOTHY J. MCDONALD",
+        "Thiago GROBERG"
+      ],
+      "applicationDate": "2019-09-16",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology",
+        "Measurement"
+      ],
+      "score": 11.464436
+    },
+    {
+      "id": "US-12095130-B2",
+      "title": [
+        "Methods and systems for surface disruption of bipolar plate and subsequent use thereof in redox flow battery"
+      ],
+      "abstract": "Systems and methods are provided for mechanical pretreatment of bipolar plates, for example, for plating electrodes in redox flow batteries. In one example, a method for disrupting surfaces of a bipolar plate may include pressing the bipolar plate between imprint plates, and removing the pressed bipolar plate from the imprint plates prior to use in a redox flow battery. In some examples, the pressed bipolar plate may include negative indentations from at least one of the imprint plates. In some examples, the imprint plates may be patterned meshes, such that the negative indentations may include patterns of asymmetric protrusions. In this way, the bipolar plate may be pretreated via pressing so as to reduce wear to manufacturing equipment (relative to other mechanical pretreatment processes, for example) while maintaining electrochemical performance of the redox flow battery.",
+      "publicationNumber": "US12095130",
+      "publicationDate": "2024-09-17",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Sean Casey"
+      ],
+      "applicationDate": "2022-08-31",
+      "claimsCount": 14,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.462042
+    },
+    {
+      "id": "US-11764369-B2",
+      "title": [
+        "Methods and systems for pretreating bipolar plate and use thereof in redox flow battery"
+      ],
+      "abstract": "Systems and methods are provided for electrochemical and/or chemical pretreatment of bipolar plates, for example, for plating electrodes in redox flow batteries. In one example, a method may include pretreating a bipolar plate for the redox flow battery by disrupting a surface of the bipolar plate. In some examples, pretreating the bipolar plate may include positioning the bipolar plate within the redox flow battery, and thereafter charging the redox flow battery at multiple discrete plating current densities for each of one or more initial charging cycles to electrochemically etch the surface. In additional or alternative examples, pretreating the bipolar plate may include soaking the bipolar plate in solution to chemically treat the surface. In this way, the bipolar plate may be pretreated via electrochemical etching and/or chemical treatment so as to reduce electrochemical performance losses and dendrite formation in the redox flow battery.",
+      "publicationNumber": "US11764369",
+      "publicationDate": "2023-09-19",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Yang Song",
+        "Yan Wu",
+        "Brady Thompson"
+      ],
+      "applicationDate": "2022-02-09",
+      "claimsCount": 8,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.462042
+    },
+    {
+      "id": "US-12087984-B2",
+      "title": [
+        "Hybrid redox fuel cell system"
+      ],
+      "abstract": "A hybrid redox fuel cell system includes a hybrid redox fuel cell and an electrochemical cell. The hybrid redox fuel cell includes an anode side through which hydrogen is flowed and a cathode side through which liquid electrolyte is flowed, the liquid electrolyte including a metal ion at a higher oxidation state and the metal ion at a lower oxidation state. An anode side of the electrochemical cell is fluidly connected to the cathode side of the hybrid redox fuel cell. At the hybrid redox fuel cell, power is generated by reducing the metal ion at the higher oxidation state to the lower oxidation state at the cathode side while oxidizing the reductant at the anode side. At the anode side of the electrochemical cell, the metal ion at the lower oxidation state is oxidized to the higher oxidation state while the power is generated.",
+      "publicationNumber": "US12087984",
+      "publicationDate": "2024-09-10",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Yang Song",
+        "Craig Evans"
+      ],
+      "applicationDate": "2022-09-02",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.451476
+    },
+    {
+      "id": "US-11664512-B2",
+      "title": [
+        "Methods and system for redox flow battery idle state"
+      ],
+      "abstract": "Methods and systems are provided for a redox flow battery system. In one example, a method of operating a redox flow battery system includes switching the redox flow battery system to an idle mode and completely draining electrolytes from one or more electrode compartments of the redox flow battery system. The one or more electrode compartments may be purged with a gas and refilled with fresh electrolytes.",
+      "publicationNumber": "US11664512",
+      "publicationDate": "2023-05-30",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Yang Song",
+        "Timothy J. McDonald",
+        "Kenneth Fisher"
+      ],
+      "applicationDate": "2021-05-05",
+      "claimsCount": 16,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.451476
+    },
+    {
+      "id": "US-11837759-B2",
+      "title": [
+        "Power delivery system and method"
+      ],
+      "abstract": "Systems and methods for operating an electric energy storage device are described. The systems and methods may reduce a voltage potential between a ground reference and terminals of an electric energy storage device. By lowering the voltage potential, a possibility of unintentionally discharging the electrical energy storage device to ground may be reduced.",
+      "publicationNumber": "US11837759",
+      "publicationDate": "2023-12-05",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Isaac Walker-Stern",
+        "Aaron Vanderzanden"
+      ],
+      "applicationDate": "2021-01-20",
+      "claimsCount": 15,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.450653
+    },
+    {
+      "id": "US-10930949-B2",
+      "title": [
+        "Power delivery system and method"
+      ],
+      "abstract": "Systems and methods for operating an electric energy storage device are described. The systems and methods may reduce a voltage potential between a ground reference and terminals of an electric energy storage device. By lowering the voltage potential, a possibility of unintentionally discharging the electrical energy storage device to ground may be reduced.",
+      "publicationNumber": "US10930949",
+      "publicationDate": "2021-02-23",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Isaac Walker-Stern",
+        "Aaron Vanderzanden"
+      ],
+      "applicationDate": "2018-10-05",
+      "claimsCount": 14,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.450653
+    },
+    {
+      "id": "JP-WO2020072190-A5",
+      "title": [
+        "\u96fb\u529b\u30b7\u30b9\u30c6\u30e0\u53ca\u3073\u65b9\u6cd5"
+      ],
+      "abstract": "",
+      "publicationNumber": "JPWO2020072190",
+      "publicationDate": "2022-09-26",
+      "assignee": [],
+      "inventors": [],
+      "applicationDate": null,
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.450653
+    },
+    {
+      "id": "US-12176590-B2",
+      "title": [
+        "Flow battery cleansing cycle to maintain electrolyte health and system performance"
+      ],
+      "abstract": "A method of cleansing a redox flow battery system may include operating the redox flow battery system in a charge, discharge, or idle mode, and responsive to a redox flow battery capacity being less than a threshold battery capacity, mixing the positive electrolyte with the negative electrolyte. In this way, battery capacity degradation following cyclic charging and discharging of the redox flow battery system can be substantially reduced.",
+      "publicationNumber": "US12176590",
+      "publicationDate": "2024-12-24",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Yang Song",
+        "Craig E. Evans"
+      ],
+      "applicationDate": "2021-12-20",
+      "claimsCount": 9,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Computer technology",
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.43487
+    },
+    {
+      "id": "US-12160025-B2",
+      "title": [
+        "Double-stack redox flow battery"
+      ],
+      "abstract": "Methods and systems are provided for a redox flow battery system. In one example, the redox flow battery system has a first redox flow battery and a second redox flow battery, stacked above and in contact with the first redox flow battery along a vertical axis of the redox flow battery system. The second redox flow battery may be coupled to the first redox flow battery via nesting detents. Furthermore, operation of the first redox flow battery and the second redox flow battery may be adjustable according to a power demand.",
+      "publicationNumber": "US12160025",
+      "publicationDate": "2024-12-03",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Sean Casey",
+        "Craig Evans"
+      ],
+      "applicationDate": "2022-08-23",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.43487
+    },
+    {
+      "id": "US-12080931-B2",
+      "title": [
+        "Redox flow battery and battery system"
+      ],
+      "abstract": "A redox flow battery and battery system are provided. In one example, the redox flow battery includes a cell stack assembly having a plate assembly positioned on a lateral side of the cell stack assembly and comprising an elastic flange including a recess mated with a section of a conductive plate and compliant in at least one of a lateral direction and a vertical direction, and a plate frame coupled to the elastic flange.",
+      "publicationNumber": "US12080931",
+      "publicationDate": "2024-09-03",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Craig E. Evans",
+        "Sean Casey",
+        "Thiago Groberg",
+        "Yang Song"
+      ],
+      "applicationDate": "2023-04-03",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.43487
+    },
+    {
+      "id": "US-12080930-B2",
+      "title": [
+        "Integrated hydrogen recycle system using pressurized multichamber tank"
+      ],
+      "abstract": "A multi-chambered electrolyte storage tank for a redox flow battery system, may include first and second electrolyte chambers, and a bulkhead, wherein the first and second electrolyte chambers are fluidly coupled to first and second sides of a redox flow battery cell, respectively, the first and second electrolyte chambers include first and second liquid electrolyte volumes, respectively, and the first and second liquid electrolyte volumes are separated by the bulkhead positioned therebetween. In this way, manufacturing and operational complexity of a redox flow battery system can be reduced.",
+      "publicationNumber": "US12080930",
+      "publicationDate": "2024-09-03",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Yang Song",
+        "Kenneth Kiyoshi Fisher",
+        "Timothy McDonald"
+      ],
+      "applicationDate": "2021-11-30",
+      "claimsCount": 16,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.43487
+    },
+    {
+      "id": "US-11929534-B2",
+      "title": [
+        "Method and system for redox flow battery performance recovery"
+      ],
+      "abstract": "A method for a redox flow battery may include, interrupting cycling of the redox flow battery, including charging the redox flow battery to a threshold charge condition, draining positive and negative electrolyte from the redox flow battery, circulating a wash solution through the redox flow battery, and returning the positive and negative electrolyte to the redox flow battery, and resuming cycling of the redox flow battery. In this way, contamination of the redox flow battery system can be reduced, thereby prolonging the life and increasing performance of the redox flow battery system.",
+      "publicationNumber": "US11929534",
+      "publicationDate": "2024-03-12",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Yang Song",
+        "Craig E. Evans",
+        "Brady Thompson"
+      ],
+      "applicationDate": "2020-10-14",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.43487
+    },
+    {
+      "id": "US-11670792-B2",
+      "title": [
+        "Redox flow battery and battery system"
+      ],
+      "abstract": "A redox flow battery and battery system are provided. In one example, the redox flow battery includes a cell stack assembly having a plate assembly positioned on a lateral side of the cell stack assembly and comprising an elastic flange including a recess mated with a section of a conductive plate and compliant in at least one of a lateral direction and a vertical direction, and a plate frame coupled to the elastic flange.",
+      "publicationNumber": "US11670792",
+      "publicationDate": "2023-06-06",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Craig E. Evans",
+        "Sean Casey",
+        "Thiago Groberg",
+        "Yang Song"
+      ],
+      "applicationDate": "2021-05-05",
+      "claimsCount": 18,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.43487
+    },
+    {
+      "id": "US-11462764-B2",
+      "title": [
+        "Double-stack redox flow battery"
+      ],
+      "abstract": "Methods and systems are provided for a redox flow battery system. In one example, the redox flow battery system has a set of pressure plates with a sub-stack separator plate arranged between the first pressure plate and the second pressure plate and a first cell stack positioned between the first pressure plate and the sub-stack separator plate. The redox flow battery system may further include a second cell stack positioned between the second pressure plate and the sub-stack separator plate.",
+      "publicationNumber": "US11462764",
+      "publicationDate": "2022-10-04",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Sean Casey",
+        "Craig Evans"
+      ],
+      "applicationDate": "2021-03-22",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.43487
+    },
+    {
+      "id": "IN-202247025353-A",
+      "title": [
+        "METHOD AND SYSTEM FOR REDOX FLOW BATTERY PERFORMANCE RECOVERY"
+      ],
+      "abstract": "A method for a redox flow battery may include, interrupting cycling of the redox flow battery, including charging the redox flow battery to a threshold charge condition, draining positive and negative electrolyte from the redox flow battery, circulating a wash solution through the redox flow battery, and returning the positive and negative electrolyte to the redox flow battery, and resuming cycling of the redox flow battery. In this way, contamination of the redox flow battery system can be reduced, thereby prolonging the life and increasing performance of the redox flow battery system.",
+      "publicationNumber": "IN202247025353",
+      "publicationDate": "2022-06-03",
+      "assignee": [
+        "ESS TECH INC"
+      ],
+      "inventors": [
+        "SONG YANG",
+        "EVANS CRAIG E",
+        "THOMPSON BRADY"
+      ],
+      "applicationDate": "2022-04-29",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.43487
+    },
+    {
+      "id": "US-11996597-B2",
+      "title": [
+        "Hybrid redox fuel cell system"
+      ],
+      "abstract": "A hybrid redox fuel cell system includes a hybrid redox fuel cell including an anode side through which a reductant is flowed and a cathode side through which liquid electrolyte is flowed, and a catalyst bed fluidly connected to the cathode side of the hybrid redox fuel cell, the catalyst bed including a substrate layer and a catalyst layer spiral wound into a jelly roll structure. Furthermore, the liquid electrolyte includes a metal ion at a higher oxidation state and the metal ion at a lower oxidation state, and power is generated at the hybrid redox fuel cell by way of reducing the metal ion from the higher oxidation state to the lower oxidation state at the cathode side while oxidizing the reductant at the anode side.",
+      "publicationNumber": "US11996597",
+      "publicationDate": "2024-05-28",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Yang Song",
+        "Craig Evans"
+      ],
+      "applicationDate": "2022-09-02",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.3824
+    },
+    {
+      "id": "US-11791479-B2",
+      "title": [
+        "Methods and system for manufacturing a redox flow battery system by roll-to-roll processing"
+      ],
+      "abstract": "Methods and systems are provided for manufacturing a membrane separator for a redox flow battery. In one example, the membrane separator is fabricate by a calendering process. The membrane separator may be configured with a polymer network to provide selectivity for ion transport across the membrane separator. The membrane separator may be further adapted with an integrated spacer in contact with a negative electrolyte.",
+      "publicationNumber": "US11791479",
+      "publicationDate": "2023-10-17",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Yang Song",
+        "Craig E. Evans"
+      ],
+      "applicationDate": "2019-08-08",
+      "claimsCount": 17,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.3824
+    },
+    {
+      "id": "IN-393334-B",
+      "title": [
+        "ELECTROLYTES FOR IRON FLOW BATTERY"
+      ],
+      "abstract": "A method of operating an iron redox flow battery system may comprise fluidly coupling a plating electrode of an iron redox flow battery cell to a plating electrolyte; fluidly coupling a redox electrode of the iron redox flow battery cell to a redox electrolyte; fluidly coupling a ductile plating additive to one or both of the plating electrolyte and the redox electrolyte; and increasing an amount of the ductile plating additive to the plating electrolyte in response to an increase in the plating stress at the plating electrode. In this way ductile Fe can be plated on the negative electrode and the performance reliability and efficiency of the iron redox flow battery can be maintained. In addition iron can be more rapidly produced and plated at the plating electrode thereby achieving a higher charging rate for all iron flow batteries.",
+      "publicationNumber": "IN393334",
+      "publicationDate": "2022-03-29",
+      "assignee": [
+        "ESS TECH INC"
+      ],
+      "inventors": [
+        "CRAIG, E. EVANS",
+        "YANG SONG"
+      ],
+      "applicationDate": "2019-09-16",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.318133
+    },
+    {
+      "id": "JP-7189887-B2",
+      "title": [
+        "\u96fb\u6c60\u30b7\u30b9\u30c6\u30e0\u53ca\u3073\u65b9\u6cd5"
+      ],
+      "abstract": "\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u30b7\u30b9\u30c6\u30e0\u53ca\u3073\u5f53\u8a72\u30b7\u30b9\u30c6\u30e0\u3092\u4f5c\u52d5\u3055\u305b\u308b\u65b9\u6cd5\u306f\u3001\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u30b7\u30b9\u30c6\u30e0\u3092\u30a2\u30a4\u30c9\u30eb\u30e2\u30fc\u30c9\u306b\u5207\u308a\u66ff\u3048\u308b\u3053\u3068\u3092\u542b\u307f\u3001\u30a2\u30a4\u30c9\u30eb\u30e2\u30fc\u30c9\u306f\u3001\u5145\u96fb\u30e2\u30fc\u30c9\u4ee5\u5916\u53ca\u3073\u653e\u96fb\u30e2\u30fc\u30c9\u4ee5\u5916\u306e\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u30b7\u30b9\u30c6\u30e0\u306e\u4f5c\u52d5\u3092\u542b\u307f\u3001\u30a2\u30a4\u30c9\u30eb\u30e2\u30fc\u30c9\u3078\u306e\u5207\u308a\u66ff\u3048\u306b\u5fdc\u3058\u3066\u3001\u5145\u96fb\u95be\u5024\u6d41\u91cf\u672a\u6e80\u306e\u30a2\u30a4\u30c9\u30ea\u30f3\u30b0\u95be\u5024\u6d41\u91cf\u3068\u975e\u30a2\u30af\u30c6\u30a3\u30d6\u5316\u95be\u5024\u6d41\u91cf\u3068\u306e\u9593\u3067\u96fb\u89e3\u6db2\u30dd\u30f3\u30d7\u3092\u7e70\u308a\u8fd4\u3057\u5468\u671f\u7684\u306b\u4f5c\u52d5\u3055\u305b\u3001\u5145\u96fb\u30e2\u30fc\u30c9\u3078\u306e\u5207\u308a\u66ff\u3048\u306b\u5fdc\u3058\u3066\u3001\u30a2\u30a4\u30c9\u30ea\u30f3\u30b0\u95be\u5024\u6d41\u91cf\u3088\u308a\u3082\u5927\u304d\u3044\u5145\u96fb\u95be\u5024\u6d41\u91cf\u3067\u96fb\u89e3\u6db2\u30dd\u30f3\u30d7\u306e\u4f5c\u52d5\u3092\u7dad\u6301\u3059\u308b\u3002\u3053\u306e\u3088\u3046\u306b\u3057\u3066\u3001\u30a2\u30a4\u30c9\u30eb\u72b6\u614b\u3067\u3082\u5145\u96fb\u53ca\u3073\u653e\u96fb\u30b3\u30de\u30f3\u30c9\u306b\u5bfe\u3059\u308b\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u30b7\u30b9\u30c6\u30e0\u306e\u5fdc\u7b54\u6027\u3092\u7dad\u6301\u3057\u306a\u304c\u3089\u3001\u30dd\u30f3\u30d4\u30f3\u30b0\u53ca\u3073\u52a0\u71b1\u306b\u3088\u308b\u5bc4\u751f\u30dd\u30f3\u30d4\u30f3\u30b0\u640d\u5931\u3092\u4f4e\u6e1b\u3057\u3001\u30b7\u30e3\u30f3\u30c8\u96fb\u6d41\u640d\u5931\u3092\u4f4e\u6e1b\u3067\u304d\u308b\u3002\u3010\u9078\u629e\u56f3\u3011\u56f3\uff13",
+      "publicationNumber": "JP7189887",
+      "publicationDate": "2022-12-14",
+      "assignee": [
+        "ESS Tech, Inc."
+      ],
+      "inventors": [
+        "\u30bd\u30f3 \u30e4\u30f3",
+        "\u30c9\u30a2\u30de\u30b9 \u30a8\u30f4\u30a1\u30f3"
+      ],
+      "applicationDate": "2018-04-27",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.288197
+    },
+    {
+      "id": "JP-2023525857-A",
+      "title": [
+        "\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60"
+      ],
+      "abstract": "\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u53ca\u3073\u96fb\u6c60\u30b7\u30b9\u30c6\u30e0\u304c\u63d0\u4f9b\u3055\u308c\u308b\u3002\u4e00\u4f8b\u3067\u306f\u3001\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u306f\u3001\u7b2c\uff11\u306e\u7aef\u90e8\u306b\u7b2c\uff11\u306e\u52a0\u5727\u677f\u3068\u7b2c\uff12\u306e\u7aef\u90e8\u306b\u7b2c\uff12\u306e\u52a0\u5727\u677f\u3068\u3092\u542b\u3080\u52a0\u5727\u677f\u306e\u30bb\u30c3\u30c8\u3067\u3042\u3063\u3066\u3001\u7b2c\uff12\u306e\u7aef\u90e8\u53ca\u3073\u7b2c\uff11\u306e\u7aef\u90e8\u306f\u3001\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u306e\u5bfe\u5411\u3059\u308b\u9577\u624b\u65b9\u5411\u5074\u9762\u306b\u914d\u7f6e\u3055\u308c\u308b\u3001\u52a0\u5727\u677f\u306e\u30bb\u30c3\u30c8\u3092\u542b\u3080\u3002\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u306f\u3001\u7b2c\uff11\u306e\u52a0\u5727\u677f\u3068\u7b2c\uff12\u306e\u52a0\u5727\u677f\u306e\u9593\u306b\u9577\u624b\u65b9\u5411\u306b\u914d\u7f6e\u3055\u308c\u305f\u7b2c\uff11\u306e\u30bb\u30eb\u30b9\u30bf\u30c3\u30af\u3092\u3055\u3089\u306b\u542b\u307f\u3001\u7b2c\uff11\u306e\u52a0\u5727\u677f\u53ca\u3073\u7b2c\uff12\u306e\u52a0\u5727\u677f\u306f\u3001\u305d\u308c\u305e\u308c\u3001\u7b2c\uff11\u306e\u30d5\u30e9\u30f3\u30b8\u306b\u8907\u6570\u306e\u7a4d\u307f\u91cd\u306d\u623b\u308a\u6b62\u3081\u3068\u3001\u7b2c\uff12\u306e\u30d5\u30e9\u30f3\u30b8\u306b\u8907\u6570\u306e\u7a4d\u307f\u91cd\u306d\u7a81\u8d77\u3068\u3092\u542b\u307f\u3001\u7b2c\uff11\u306e\u30d5\u30e9\u30f3\u30b8\u53ca\u3073\u7b2c\uff12\u306e\u30d5\u30e9\u30f3\u30b8\u306f\u3001\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u306e\u5bfe\u5411\u3059\u308b\u5782\u76f4\u5074\u9762\u306b\u914d\u7f6e\u3055\u308c\u308b\u3002 \u3010\u9078\u629e\u56f3\u3011\u56f3\uff11",
+      "publicationNumber": "JP2023525857",
+      "publicationDate": "2023-06-19",
+      "assignee": [
+        "ESS Tech, Inc."
+      ],
+      "inventors": [
+        "\u30b1\u30a4\u30b7\u30fc \u30b7\u30e7\u30fc\u30f3",
+        "\u30a8\u30f4\u30a1\u30f3\u30b9 \u30af\u30ec\u30a4\u30b0",
+        "\u30b0\u30ed\u30fc\u30d0\u30fc\u30b0 \u30c6\u30a3\u30a2\u30b4",
+        "\u30bd\u30f3 \u30e4\u30f3"
+      ],
+      "applicationDate": "2021-05-05",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.288197
+    },
+    {
+      "id": "US-12132241-B2",
+      "title": [
+        "Method and system for rebalancing electrolytes in a redox flow battery system"
+      ],
+      "abstract": "A method of rebalancing electrolytes in a redox flow battery system comprises directing hydrogen gas generated on the negative side of the redox flow battery system to a catalyst surface, and fluidly contacting the hydrogen gas with an electrolyte comprising a metal ion at the catalyst surface, wherein the metal ion is chemically reduced by the hydrogen gas at the catalyst surface, and a state of charge of the electrolyte and pH of the electrolyte remain substantially balanced.",
+      "publicationNumber": "US12132241",
+      "publicationDate": "2024-10-29",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Yang Song",
+        "Craig E. Evans"
+      ],
+      "applicationDate": "2023-11-09",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.271765
+    },
+    {
+      "id": "US-11888201-B2",
+      "title": [
+        "Methods and system for rebalancing electrolytes in a redox flow battery system"
+      ],
+      "abstract": "A method of rebalancing electrolytes in a redox flow battery system comprises directing hydrogen gas generated on the negative side of the redox flow battery system to a catalyst surface, and fluidly contacting the hydrogen gas with an electrolyte comprising a metal ion at the catalyst surface, wherein the metal ion is chemically reduced by the hydrogen gas at the catalyst surface, and a state of charge of the electrolyte and pH of the electrolyte remain substantially balanced.",
+      "publicationNumber": "US11888201",
+      "publicationDate": "2024-01-30",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Yang Song",
+        "Craig E. Evans"
+      ],
+      "applicationDate": "2022-09-30",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.271765
+    },
+    {
+      "id": "US-11855312-B2",
+      "title": [
+        "Alternative low cost electrodes for hybrid flow batteries"
+      ],
+      "abstract": "A redox flow battery may include: a membrane interposed between a first electrode positioned at a first side of the membrane and a second electrode positioned at a second side of the membrane opposite to the first side; a first flow field plate comprising a plurality of positive flow field ribs, each of the plurality of positive flow field ribs contacting the first electrode at first supporting regions on the first side; and the second electrode, including an electrode spacer positioned between the membrane and a second flow field plate, the electrode spacer comprising a plurality of main ribs, each of the plurality of main ribs contacting the second flow field plate at second supporting regions on the second side, each of the second supporting regions aligned opposite to one of the plurality of first supporting regions. As such, a current density distribution at a plating surface may be reduced.",
+      "publicationNumber": "US11855312",
+      "publicationDate": "2023-12-26",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Craig E. Evans",
+        "Sean Casey",
+        "Yang Song"
+      ],
+      "applicationDate": "2022-03-04",
+      "claimsCount": 5,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.271765
+    },
+    {
+      "id": "US-11817609-B2",
+      "title": [
+        "Systems and methods for electrode assembly for redox flow battery system"
+      ],
+      "abstract": "Systems and methods are provided for assembling and operating an electrode assembly for a redox flow battery system. In one example, the electrode assembly may include an inflatable housing in which a negative electrode spacer and a positive electrode may be positioned, wherein the inflatable housing may inflate responsive to applied internal pressure during operation of the redox flow battery system. In some examples, the electrode assembly may be assembled via roll-to-roll processing and may be mechanically and fluidically coupled to electrode assemblies of like configuration. In this way, tolerance stacking may be decreased, processing may be simplified, and costs may be reduced relative to molding-based processes for electrode assembly manufacturing.",
+      "publicationNumber": "US11817609",
+      "publicationDate": "2023-11-14",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Thiago Groberg"
+      ],
+      "applicationDate": "2022-03-18",
+      "claimsCount": 15,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.271765
+    },
+    {
+      "id": "US-11527771-B2",
+      "title": [
+        "Method and system for rebalancing electrolytes in a redox flow battery system"
+      ],
+      "abstract": "A method of rebalancing electrolytes in a redox flow battery system comprises directing hydrogen gas generated on the negative side of the redox flow battery system to a catalyst surface, and fluidly contacting the hydrogen gas with an electrolyte comprising a metal ion at the catalyst surface, wherein the metal ion is chemically reduced by the hydrogen gas at the catalyst surface, and a state of charge of the electrolyte and pH of the electrolyte remain substantially balanced.",
+      "publicationNumber": "US11527771",
+      "publicationDate": "2022-12-13",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Yang Song",
+        "Craig E. Evans"
+      ],
+      "applicationDate": "2021-01-18",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.271765
+    },
+    {
+      "id": "US-10923753-B2",
+      "title": [
+        "Method and system for rebalancing electrolytes in a redox flow battery system"
+      ],
+      "abstract": "A method of rebalancing electrolytes in a redox flow battery system comprises directing hydrogen gas generated on the negative side of the redox flow battery system to a catalyst surface, and fluidly contacting the hydrogen gas with an electrolyte comprising a metal ion at the catalyst surface, wherein the metal ion is chemically reduced by the hydrogen gas at the catalyst surface, and a state of charge of the electrolyte and pH of the electrolyte remain substantially balanced.",
+      "publicationNumber": "US10923753",
+      "publicationDate": "2021-02-16",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Yang Song",
+        "Craig E. Evans"
+      ],
+      "applicationDate": "2018-11-27",
+      "claimsCount": 20,
+      "independentClaimsCount": 6,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.271765
+    },
+    {
+      "id": "US-10680268-B2",
+      "title": [
+        "Method and system to maintain electrolyte stability for all-iron redox flow batteries"
+      ],
+      "abstract": "Methods and systems are provided which maintain the positive and negative electrolyte pH and stability of a redox flow battery through the use of electrochemical rebalancing cells. The electrochemical cells may be activated by applying an electrical load to affect changes to the pH of the electrolytes. The use of the electrochemical cells improves long term performance stability redox flow batteries by decreasing and/or eliminating Fe(OH)3 precipitation formation.",
+      "publicationNumber": "US10680268",
+      "publicationDate": "2020-06-09",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Craig E. Evans",
+        "Yang Song"
+      ],
+      "applicationDate": "2018-11-20",
+      "claimsCount": 7,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.271765
+    },
+    {
+      "id": "US-12283731-B2",
+      "title": [
+        "Cost-efficient high energy density redox flow battery"
+      ],
+      "abstract": "Methods and systems are provided for a redox flow battery system. In one example, the redox flow battery is adapted with an additive included in a battery electrolyte and an anion exchange membrane separator dividing positive electrolyte from negative electrolyte. An overall system cost of the battery system may be reduced while a storage capacity, energy density and performance may be increased.",
+      "publicationNumber": "US12283731",
+      "publicationDate": "2025-04-22",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Yang Song"
+      ],
+      "applicationDate": "2022-09-26",
+      "claimsCount": 12,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.248617
+    },
+    {
+      "id": "US-12283730-B2",
+      "title": [
+        "Cost-efficient high energy density redox flow battery"
+      ],
+      "abstract": "Methods and systems are provided for a redox flow battery system. In one example, the redox flow battery is adapted with an additive included in a battery electrolyte and an anion exchange membrane separator dividing positive electrolyte from negative electrolyte. An overall system cost of the battery system may be reduced while a storage capacity, energy density and performance may be increased.",
+      "publicationNumber": "US12283730",
+      "publicationDate": "2025-04-22",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Yang Song"
+      ],
+      "applicationDate": "2021-04-13",
+      "claimsCount": 12,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.248617
+    },
+    {
+      "id": "US-12266829-B2",
+      "title": [
+        "Multi-stage rebalancing reactor for redox flow battery system"
+      ],
+      "abstract": "A method for a redox flow battery system may include flowing an electrolyte from an electrolyte storage tank to a multi-stage rebalancing reactor, the multi-stage rebalancing reactor comprising reactor vessels grouped to form stages. Hydrogen gas may be injected into the electrolyte upstream of the multi-stage rebalancing reactor via a gas line and a metal ion of the electrolyte may be chemically reduced by oxidizing the hydrogen gas at a catalyst bed of each of the reactor vessels to maintain a charge balance of the electrolyte and a pH of the electrolyte within a predetermined range.",
+      "publicationNumber": "US12266829",
+      "publicationDate": "2025-04-01",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Yang Song",
+        "Craig E. Evans",
+        "Timothy J. McDonald",
+        "Kenneth Fisher",
+        "Sean Kissick"
+      ],
+      "applicationDate": "2023-05-25",
+      "claimsCount": 14,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.248617
+    },
+    {
+      "id": "US-12087981-B2",
+      "title": [
+        "Electrolyte health management for redox flow battery"
+      ],
+      "abstract": "Methods and systems are provided for a rebalancing reactor of a flow battery system. In one example, a pH of a battery electrolyte may be maintained by the rebalancing reactor by applying a negative potential to a catalyst bed of the rebalancing reactor. A performance of the rebalancing reactor may further be maintained by treating the catalyst bed with deionized water.",
+      "publicationNumber": "US12087981",
+      "publicationDate": "2024-09-10",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Yang Song",
+        "Timothy J. McDonald",
+        "Alexandria Behr"
+      ],
+      "applicationDate": "2023-07-28",
+      "claimsCount": 15,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.248617
+    },
+    {
+      "id": "US-11764380-B2",
+      "title": [
+        "Electrolyte health management for redox flow battery"
+      ],
+      "abstract": "Methods and systems are provided for a rebalancing reactor of a flow battery system. In one example, a pH of a battery electrolyte may be maintained by the rebalancing reactor by applying a negative potential to a catalyst bed of the rebalancing reactor. A performance of the rebalancing reactor may further be maintained by treating the catalyst bed with deionized water.",
+      "publicationNumber": "US11764380",
+      "publicationDate": "2023-09-19",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Yang Song",
+        "Timothy J. McDonald",
+        "Alexandria Behr"
+      ],
+      "applicationDate": "2021-11-08",
+      "claimsCount": 15,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.248617
+    },
+    {
+      "id": "US-11728497-B2",
+      "title": [
+        "Multi-stage rebalancing reactor for redox flow battery system"
+      ],
+      "abstract": "A rebalancing reactor for a redox flow battery system may include a plurality of reactor vessels arranged in stages, each vessel of the plurality of reactor vessels housing a catalyst bed. In one example, the rebalancing reactor is fluidly coupled to an electrolyte storage tank and configured to flow electrolyte through the plurality of reactor vessels, enabling a chemical rebalancing of electrolyte in the redox flow battery cell.",
+      "publicationNumber": "US11728497",
+      "publicationDate": "2023-08-15",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Yang Song",
+        "Craig E. Evans",
+        "Timothy J. McDonald",
+        "Kenneth Fisher",
+        "Sean Kissick"
+      ],
+      "applicationDate": "2020-10-27",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.248617
+    },
+    {
+      "id": "US-11682912-B2",
+      "title": [
+        "System and method for operating an electrical energy storage system"
+      ],
+      "abstract": "Systems and methods for operating an electric energy storage system are described. The systems and methods include ways of coupling electric energy storage cell stacks to an electric conductor or bus. The coupling is performed to reduce current flow through contactors and to increase a life span of the contactors.",
+      "publicationNumber": "US11682912",
+      "publicationDate": "2023-06-20",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Aaron Vanderzanden",
+        "Steve Ernst"
+      ],
+      "applicationDate": "2021-04-22",
+      "claimsCount": 19,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.248617
+    },
+    {
+      "id": "US-11515558-B2",
+      "title": [
+        "Cost-efficient high energy density redox flow battery"
+      ],
+      "abstract": "Methods and systems are provided for a redox flow battery system. In one example, the redox flow battery is adapted with an additive included in a battery electrolyte and an anion exchange membrane separator dividing positive electrolyte from negative electrolyte. An overall system cost of the battery system may be reduced while a storage capacity, energy density and performance may be increased.",
+      "publicationNumber": "US11515558",
+      "publicationDate": "2022-11-29",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Yang Song"
+      ],
+      "applicationDate": "2019-08-08",
+      "claimsCount": 10,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.248617
+    },
+    {
+      "id": "US-11424470-B2",
+      "title": [
+        "Cost-efficient high energy density redox flow battery"
+      ],
+      "abstract": "Methods and systems are provided for a redox flow battery system. In one example, the redox flow battery is adapted with an additive included in a battery electrolyte and an anion exchange membrane separator dividing positive electrolyte from negative electrolyte. An overall system cost of the battery system may be reduced while a storage capacity, energy density and performance may be increased.",
+      "publicationNumber": "US11424470",
+      "publicationDate": "2022-08-23",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Yang Song",
+        "Craig E. Evans"
+      ],
+      "applicationDate": "2019-08-08",
+      "claimsCount": 15,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.248617
+    },
+    {
+      "id": "US-11201343-B2",
+      "title": [
+        "Electrolyte health management for redox flow battery"
+      ],
+      "abstract": "Methods and systems are provided for a rebalancing reactor of a flow battery system. In one example, a pH of a battery electrolyte may be maintained by the rebalancing reactor by applying a negative potential to a catalyst bed of the rebalancing reactor. A performance of the rebalancing reactor may further be maintained by treating the catalyst bed with deionized water.",
+      "publicationNumber": "US11201343",
+      "publicationDate": "2021-12-14",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Yang Song",
+        "Timothy J. McDonald",
+        "Alexandria Behr"
+      ],
+      "applicationDate": "2019-11-14",
+      "claimsCount": 13,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.248617
+    },
+    {
+      "id": "US-11025072-B2",
+      "title": [
+        "System and method for operating an electrical energy storage system"
+      ],
+      "abstract": "Systems and methods for operating an electric energy storage system are described. The systems and methods include ways of coupling electric energy storage cell stacks to an electric conductor or bus. The coupling is performed to reduce current flow through contactors and to increase a life span of the contactors.",
+      "publicationNumber": "US11025072",
+      "publicationDate": "2021-06-01",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Aaron Vanderzanden",
+        "Steve Ernst"
+      ],
+      "applicationDate": "2018-10-17",
+      "claimsCount": 18,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.248617
+    },
+    {
+      "id": "WO-2024102583-A1",
+      "title": [
+        "MAGNETIC FRAGMENT FILTER"
+      ],
+      "abstract": "Systems and methods are provided for an energy storage system. In one example, the energy storage system comprises a first tube configured to flow an electrolyte solution to a pump, a second tube extending through the first tube, the second tube hermetically sealed from an interior of the first tube, and a wire wound within the second tube configured to generate a magnetic field.",
+      "publicationNumber": "WO2024102583",
+      "publicationDate": "2024-05-16",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "SAMUEL RYAN"
+      ],
+      "applicationDate": "2023-10-26",
+      "claimsCount": 15,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Chemical engineering",
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.169554
+    },
+    {
+      "id": "WO-2024086411-A1",
+      "title": [
+        "GRAVITY DRAINAGE SUBSYSTEM FOR REDOX FLOW BATTERY SYSTEM"
+      ],
+      "abstract": "Systems and methods are provided for a redox flow battery system. In one example, the redox flow battery system includes an electrolyte sump tank positioned below cell stacks of the redox flow battery system. The electrolyte sump tank may be configured to receive electrolyte from the cell stacks during operation of the redox flow battery system in a stand-by mode. The redox flow battery system may further include three-way valves arranged in a flow path of the electrolyte between the cell stacks and the electrolyte sump tank to control a flow of the electrolyte to the electrolyte sump tank.",
+      "publicationNumber": "WO2024086411",
+      "publicationDate": "2024-04-25",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Joseph Michael COOLEY",
+        "YANG SONG"
+      ],
+      "applicationDate": "2023-09-12",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.169554
+    },
+    {
+      "id": "US-20240234760-A9",
+      "title": [
+        "GRAVITY DRAINAGE SUBSYSTEM FOR REDOX FLOW BATTERY SYSTEM"
+      ],
+      "abstract": "Systems and methods are provided for a redox flow battery system. In one example, the redox flow battery system includes an electrolyte sump tank positioned below cell stacks of the redox flow battery system. The electrolyte sump tank may be configured to receive electrolyte from the cell stacks during operation of the redox flow battery system in a stand-by mode. The redox flow battery system may further include three-way valves arranged in a flow path of the electrolyte between the cell stacks and the electrolyte sump tank to control a flow of the electrolyte to the electrolyte sump tank.",
+      "publicationNumber": "US20240234760",
+      "publicationDate": "2024-07-11",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Joseph Michael Cooley",
+        "Yang Song"
+      ],
+      "applicationDate": "2023-09-12",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology",
+        "Mechanical elements"
+      ],
+      "score": 11.169554
+    },
+    {
+      "id": "US-20240170696-A1",
+      "title": [
+        "RADIAL MIXING MANIFOLD"
+      ],
+      "abstract": "Systems and methods are provided for a redox flow batter system comprising a cylindrical electrolyte chamber fluidly coupled to a redox flow battery cell and at least one radial mixing manifold fluidly coupled to the cylindrical electrolyte chamber. The radial mixing manifold includes a flange configured to receive electrolyte from the redox flow battery cell and a manifold configured to mix and distribute the electrolyte within the cylindrical electrolyte chamber. The manifold includes a plurality of openings, at least one of which is a bottom opening, and extends from a first inner edge of the cylindrical electrolyte chamber to a second inner edge, lower than the first inner edge, of the cylindrical electrolyte chamber.",
+      "publicationNumber": "US20240170696",
+      "publicationDate": "2024-05-23",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Joseph M. Cooley"
+      ],
+      "applicationDate": "2023-10-27",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.169554
+    },
+    {
+      "id": "US-20240154140-A1",
+      "title": [
+        "MAGNETIC FRAGMENT FILTER"
+      ],
+      "abstract": "Systems and methods are provided for an energy storage system. In one example, the energy storage system comprises a first tube configured to flow an electrolyte solution to a pump, a second tube extending through the first tube, the second tube hermetically sealed from an interior of the first tube, and a wire wound within the second tube configured to generate a magnetic field.",
+      "publicationNumber": "US20240154140",
+      "publicationDate": "2024-05-09",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Samuel Ryan"
+      ],
+      "applicationDate": "2023-10-26",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.169554
+    },
+    {
+      "id": "US-20240136551-A1",
+      "title": [
+        "GRAVITY DRAINAGE SUBSYSTEM FOR REDOX FLOW BATTERY SYSTEM"
+      ],
+      "abstract": "Systems and methods are provided for a redox flow battery system. In one example, the redox flow battery system includes an electrolyte sump tank positioned below cell stacks of the redox flow battery system. The electrolyte sump tank may be configured to receive electrolyte from the cell stacks during operation of the redox flow battery system in a stand-by mode. The redox flow battery system may further include three-way valves arranged in a flow path of the electrolyte between the cell stacks and the electrolyte sump tank to control a flow of the electrolyte to the electrolyte sump tank.",
+      "publicationNumber": "US20240136551",
+      "publicationDate": "2024-04-25",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Joseph Michael Cooley",
+        "Yang Song"
+      ],
+      "applicationDate": "2023-09-12",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology",
+        "Mechanical elements"
+      ],
+      "score": 11.169554
+    },
+    {
+      "id": "JP-2024532905-A",
+      "title": [
+        "\u76f4\u5217\u7d50\u5408\u3055\u308c\u305f\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u30bb\u30eb\u5185\u3067\u96fb\u89e3\u8cea\u53ca\u3073\u96fb\u6d41\u3092\u5faa\u74b0\u3055\u305b\u308b\u305f\u3081\u306e\u30b7\u30b9\u30c6\u30e0\u53ca\u3073\u65b9\u6cd5"
+      ],
+      "abstract": "\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u30b7\u30b9\u30c6\u30e0\u5185\u306e\u96fb\u89e3\u8cea\u53ca\u3073\u96fb\u6d41\u306e\u5faa\u74b0\u306e\u305f\u3081\u306e\u30b7\u30b9\u30c6\u30e0\u53ca\u3073\u65b9\u6cd5\u304c\u63d0\u4f9b\u3055\u308c\u308b\u3002\u4e00\u5b9f\u65bd\u4f8b\u3067\u306f\u3001\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u30b7\u30b9\u30c6\u30e0\u306f\u3001\u76f4\u5217\u306b\u96fb\u6c17\u7684\u306b\u7d50\u5408\u3055\u308c\u305f\u8907\u6570\u306e\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u30bb\u30eb\u3092\u542b\u307f\u5f97\u308b\u3002\u3053\u306e\u3088\u3046\u306b\u3057\u3066\u3001\u8907\u6570\u306e\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u30bb\u30eb\u306b\u308f\u305f\u308b\u96fb\u4f4d\u5dee\u306f\u3001\u6bd4\u8f03\u7684\u9ad8\u96fb\u5727\u306e\u5916\u90e8\u8ca0\u8377\u304c\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u30b7\u30b9\u30c6\u30e0\u306b\u3088\u3063\u3066\u96fb\u529b\u4f9b\u7d66\u3055\u308c\u5f97\u308b\u3088\u3046\u306b\u3001\u30e9\u30f3\u30d7\u30a2\u30c3\u30d7\u3055\u308c\u5f97\u308b\u3002\u3044\u304f\u3064\u304b\u306e\u5b9f\u65bd\u4f8b\u3067\u306f\u3001\u8907\u6570\u306e\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u30bb\u30eb\u306e\u5404\u3005\u306f\u3001\u4e92\u3044\u306b\u6d41\u4f53\u7684\u306b\u9694\u96e2\u3055\u308c\u5f97\u308b\u3002\u3057\u305f\u304c\u3063\u3066\u3001\u4e00\u5b9f\u65bd\u4f8b\u3067\u306f\u3001\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u30b7\u30b9\u30c6\u30e0\u306f\u3001\u8907\u6570\u306e\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u30bb\u30eb\u306b\u305d\u308c\u305e\u308c\u6d41\u4f53\u7684\u306b\u7d50\u5408\u3055\u308c\u305f\u8907\u6570\u306e\u96fb\u89e3\u8cea\u8caf\u8535\u30bf\u30f3\u30af\u3092\u66f4\u306b\u542b\u307f\u5f97\u308b\u3002\u8907\u6570\u306e\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u30bb\u30eb\u306e\u5404\u3005\u306e\u3053\u306e\u3088\u3046\u306a\u6d41\u4f53\u7684\u306a\u9694\u96e2\u306f\u3001\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u30b7\u30b9\u30c6\u30e0\u306b\u304a\u3051\u308b\u7a4d\u5c64\u4f53\u9593\u77ed\u7d61\u3092\u6392\u9664\u3057\u5f97\u308b\u3068\u3068\u3082\u306b\u3001\u305d\u306e\u30e2\u30b8\u30e5\u30fc\u30eb\u6027\u3092\u6539\u5584\u3057\u5f97\u308b\u3002 \u3010\u9078\u629e\u56f3\u3011\u56f3\uff11",
+      "publicationNumber": "JP2024532905",
+      "publicationDate": "2024-09-10",
+      "assignee": [
+        "ESS Tech, Inc."
+      ],
+      "inventors": [
+        "\u30bd\u30f3 \u30e4\u30f3",
+        "\u30a8\u30d0\u30f3\u30b9 \u30af\u30ec\u30a4\u30b0"
+      ],
+      "applicationDate": "2022-07-29",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.16477
+    },
+    {
+      "id": "JP-2023526344-A",
+      "title": [
+        "\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u53ca\u3073\u96fb\u6c60\u30b7\u30b9\u30c6\u30e0"
+      ],
+      "abstract": "\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u53ca\u3073\u96fb\u6c60\u30b7\u30b9\u30c6\u30e0\u304c\u63d0\u4f9b\u3055\u308c\u308b\u3002\u4e00\u4f8b\u3067\u306f\u3001\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u306f\u3001\uff12\u3064\u306e\u30a8\u30f3\u30c9\u30d7\u30ec\u30fc\u30c8\u306b\u3088\u3063\u3066\u631f\u307e\u308c\u308b\u30bb\u30eb\u30b9\u30bf\u30c3\u30af\u30a2\u30bb\u30f3\u30d6\u30ea\u3092\u542b\u307f\u3001\u30bb\u30eb\u30b9\u30bf\u30c3\u30af\u30a2\u30bb\u30f3\u30d6\u30ea\u306f\u3001\u5d4c\u5408\u754c\u9762\u3067\u3001\u8ca0\u53ca\u3073\u6b63\u306e\u96fb\u89e3\u8cea\u3092\u8907\u6570\u306e\u53cc\u6975\u677f\u306b\u5206\u914d\u3059\u308b\u3088\u3046\u306b\u69cb\u6210\u3055\u308c\u305f\u8907\u6570\u306e\u8ca0\u6975\u30d5\u30ed\u30fc\u30c1\u30e3\u30cd\u30eb\u53ca\u3073\u6b63\u6975\u30d5\u30ed\u30fc\u30c1\u30e3\u30cd\u30eb\u3092\u5f62\u6210\u3059\u308b\u8907\u6570\u306e\u5d4c\u5408\u3055\u308c\u305f\u819c\u30d5\u30ec\u30fc\u30e0\u30d7\u30ec\u30fc\u30c8\u53ca\u3073\u53cc\u6975\u30d5\u30ec\u30fc\u30e0\u30d7\u30ec\u30fc\u30c8\u3092\u542b\u3080\u3002\u3053\u306e\u96fb\u6c60\u306b\u304a\u3044\u3066\u3001\u819c\u304c\u3001\u8907\u6570\u306e\u819c\u30d5\u30ec\u30fc\u30e0\u30d7\u30ec\u30fc\u30c8\u306e\u305d\u308c\u305e\u308c\u306b\u7d50\u5408\u3055\u308c\u3001\u8907\u6570\u306e\u53cc\u6975\u677f\u306b\u542b\u307e\u308c\u308b\u53cc\u6975\u677f\u306e\uff12\u3064\u306e\u53cc\u6975\u677f\u306e\u9593\u306b\u9806\u6b21\u914d\u7f6e\u3055\u308c\u308b\u3002 \u3010\u9078\u629e\u56f3\u3011\u56f3\uff11",
+      "publicationNumber": "JP2023526344",
+      "publicationDate": "2023-06-21",
+      "assignee": [
+        "ESS Tech, Inc."
+      ],
+      "inventors": [
+        "\u30a8\u30f4\u30a1\u30f3\u30b9 \u30af\u30ec\u30a4\u30b0 \u30a4\u30fc\uff0e",
+        "\u30b1\u30a4\u30b7\u30fc \u30b7\u30e7\u30fc\u30f3",
+        "\u30b0\u30ed\u30fc\u30d0\u30fc\u30b0 \u30c6\u30a3\u30a2\u30b4",
+        "\u30bd\u30f3 \u30e4\u30f3"
+      ],
+      "applicationDate": "2021-05-06",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.16477
+    },
+    {
+      "id": "JP-2023525875-A",
+      "title": [
+        "\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u7528\u96fb\u6975\u30a2\u30bb\u30f3\u30d6\u30ea"
+      ],
+      "abstract": "\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u30b7\u30b9\u30c6\u30e0\u306e\u305f\u3081\u306e\u65b9\u6cd5\u53ca\u3073\u30b7\u30b9\u30c6\u30e0\u304c\u63d0\u4f9b\u3055\u308c\u308b\u3002\u4e00\u4f8b\u3067\u306f\u3001\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u30b7\u30b9\u30c6\u30e0\u306f\u3001\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u306e\u7aef\u90e8\u3092\u898f\u5b9a\u3059\u308b\u672b\u7aef\u69cb\u9020\u9593\u3067\u5727\u7e2e\u3055\u308c\u305f\u30bb\u30eb\u30b9\u30bf\u30c3\u30af\u3092\u542b\u3080\u3002\u30bb\u30eb\u30b9\u30bf\u30c3\u30af\u306f\u3001\u8907\u6570\u306e\u30bb\u30eb\u304b\u3089\u5f62\u6210\u3055\u308c\u3066\u3088\u304f\u3001\u5404\u30bb\u30eb\u306f\u3001\u819c\u30bb\u30d1\u30ec\u30fc\u30bf\u306e\u7b2c\uff11\u306e\u9762\u3068\u63a5\u89e6\u3059\u308b\u5909\u5f62\u53ef\u80fd\u306a\u6b63\u6975\u3068\u3001\u6b63\u6975\u3088\u308a\u3082\u5727\u7e2e\u6027\u304c\u4f4e\u304f\u69cb\u6210\u3055\u308c\u3001\u819c\u30bb\u30d1\u30ec\u30fc\u30bf\u306e\u7b2c\uff12\u306e\u9762\u306b\u914d\u7f6e\u3055\u308c\u308b\u8ca0\u6975\u3068\u3092\u542b\u3080\u3002 \u3010\u9078\u629e\u56f3\u3011\u56f3\uff11",
+      "publicationNumber": "JP2023525875",
+      "publicationDate": "2023-06-19",
+      "assignee": [
+        "ESS Tech, Inc."
+      ],
+      "inventors": [
+        "\u30b1\u30a4\u30b7\u30fc \u30b7\u30e7\u30fc\u30f3",
+        "\u30a8\u30f4\u30a1\u30f3\u30b9 \u30af\u30ec\u30a4\u30b0",
+        "\u30b0\u30ed\u30fc\u30d0\u30fc\u30b0 \u30c6\u30a3\u30a2\u30b4",
+        "\u30bd\u30f3 \u30e4\u30f3"
+      ],
+      "applicationDate": "2021-05-05",
+      "claimsCount": 20,
+      "independentClaimsCount": 10,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.16477
+    },
+    {
+      "id": "JP-7312252-B2",
+      "title": [
+        "\u96fb\u6c17\u30a8\u30cd\u30eb\u30ae\u30fc\u8caf\u8535\u88c5\u7f6e\u306e\u5145\u96fb\u72b6\u614b\u306e\u6c7a\u5b9a\u30b7\u30b9\u30c6\u30e0\u304a\u3088\u3073\u65b9\u6cd5"
+      ],
+      "abstract": "\u96fb\u6c17\u30a8\u30cd\u30eb\u30ae\u30fc\u8caf\u8535\u88c5\u7f6e\u3092\u52d5\u4f5c\u3055\u305b\u308b\u30b7\u30b9\u30c6\u30e0\u304a\u3088\u3073\u65b9\u6cd5\u304c\u8aac\u660e\u3055\u308c\u308b\u3002\u30b7\u30b9\u30c6\u30e0\u304a\u3088\u3073\u65b9\u6cd5\u306f\u3001\u8ca0\u6975\u306e\u3081\u3063\u304d\u306b\u57fa\u3065\u304f\u5145\u96fb\u72b6\u614b\u306e\u63a8\u5b9a\u5024\u3092\u751f\u6210\u3067\u304d\u308b\u3002\u5168\u4f53\u306e\u5145\u96fb\u72b6\u614b\u306f\u3001\u8ca0\u6975\u306e\u3081\u3063\u304d\u306b\u57fa\u3065\u304f\u5145\u96fb\u72b6\u614b\u306e\u63a8\u5b9a\u5024\u3001\u304a\u3088\u3073\u8ca0\u6975\u306e\u3081\u3063\u304d\u306b\u57fa\u3065\u304b\u306a\u3044\u5145\u96fb\u72b6\u614b\u306e\u63a8\u5b9a\u5024\u304b\u3089\u6c7a\u5b9a\u3055\u308c\u3066\u3082\u3088\u3044\u3002 \u3010\u9078\u629e\u56f3\u3011\u56f3\uff11\uff21",
+      "publicationNumber": "JP7312252",
+      "publicationDate": "2023-07-20",
+      "assignee": [
+        "ESS Tech, Inc."
+      ],
+      "inventors": [
+        "\u30bd\u30f3 \u30e4\u30f3",
+        "\u30de\u30af\u30c9\u30ca\u30eb\u30c9 \u30c6\u30a3\u30e2\u30b7\u30fc \u30b8\u30a7\u30a4\uff0e",
+        "\u30b0\u30ed\u30d0\u30fc\u30b0 \u30c1\u30a2\u30b4"
+      ],
+      "applicationDate": "2019-09-16",
+      "claimsCount": 19,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology",
+        "Measurement"
+      ],
+      "score": 11.107209
+    },
+    {
+      "id": "JP-2025508683-A",
+      "title": [
+        "\u77ed\u671f\u306e\u96fb\u6c60\u30a2\u30a4\u30c9\u30eb\u306e\u305f\u3081\u306e\u65b9\u6cd5"
+      ],
+      "abstract": "\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u306e\u305f\u3081\u306e\u30b7\u30b9\u30c6\u30e0\u53ca\u3073\u65b9\u6cd5\u304c\u63d0\u4f9b\u3055\u308c\u308b\u3002\u4e00\u5b9f\u65bd\u4f8b\u3067\u306f\u3001\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u306e\u305f\u3081\u306e\u65b9\u6cd5\u306f\u3001\u77ed\u671f\u30a2\u30a4\u30c9\u30eb\u30e2\u30fc\u30c9\u306e\u6301\u7d9a\u6642\u9593\u306b\u308f\u305f\u3063\u3066\u4e00\u5b9a\u306e\u96fb\u6d41\u5bc6\u5ea6\u3067\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u3092\u653e\u96fb\u3059\u308b\u3053\u3068\u306b\u3088\u3063\u3066\u3001\u77ed\u671f\u30a2\u30a4\u30c9\u30eb\u30e2\u30fc\u30c9\u3067\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u3092\u52d5\u4f5c\u3055\u305b\u308b\u3053\u3068\u3092\u542b\u3080\u3002\u96fb\u6d41\u5bc6\u5ea6\u3092\u653e\u96fb\u3059\u308b\u3053\u3068\u306b\u3088\u3063\u3066\u3001\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u306e\u8ca0\u96fb\u6975\u306b\u304a\u3044\u3066\u3081\u3063\u304d\u9762\u304c\u7dad\u6301\u3055\u308c\u5f97\u308b\u3002 \u3010\u9078\u629e\u56f3\u3011\u56f3\uff15",
+      "publicationNumber": "JP2025508683",
+      "publicationDate": "2025-04-10",
+      "assignee": [
+        "ESS Tech, Inc."
+      ],
+      "inventors": [
+        "\u30af\u30d1\u30fc\u30de\u30f3 \u30cb\u30fc\u30eb \u30a6\u30a9\u30eb\u30bf\u30fc\u30ba",
+        "\u30bd\u30f3 \u30e4\u30f3"
+      ],
+      "applicationDate": "2023-01-31",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.107209
+    },
+    {
+      "id": "JP-2025508681-A",
+      "title": [
+        "\u77ed\u671f\u306e\u96fb\u6c60\u30a2\u30a4\u30c9\u30eb\u306e\u305f\u3081\u306e\u65b9\u6cd5"
+      ],
+      "abstract": "\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u306e\u305f\u3081\u306e\u30b7\u30b9\u30c6\u30e0\u53ca\u3073\u65b9\u6cd5\u304c\u63d0\u4f9b\u3055\u308c\u308b\u3002\u4e00\u5b9f\u65bd\u4f8b\u3067\u306f\u3001\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u306e\u305f\u3081\u306e\u65b9\u6cd5\u306f\u3001\u77ed\u671f\u30a2\u30a4\u30c9\u30eb\u30e2\u30fc\u30c9\u306e\u6301\u7d9a\u6642\u9593\u3088\u308a\u3082\u77ed\u3044\u6301\u7d9a\u6642\u9593\u306e\u30d1\u30eb\u30b9\u3068\u3057\u3066\u96fb\u6d41\u5bc6\u5ea6\u3092\u653e\u96fb\u3059\u308b\u3053\u3068\u306b\u3088\u3063\u3066\u3001\u77ed\u671f\u30a2\u30a4\u30c9\u30eb\u30e2\u30fc\u30c9\u3067\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u3092\u52d5\u4f5c\u3055\u305b\u308b\u3053\u3068\u3092\u542b\u3080\u3002\u96fb\u6d41\u5bc6\u5ea6\u3092\u653e\u96fb\u3059\u308b\u3053\u3068\u306b\u3088\u3063\u3066\u3001\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u30b7\u30b9\u30c6\u30e0\u306e\u8ca0\u96fb\u6975\u306b\u304a\u3044\u3066\u3081\u3063\u304d\u9762\u304c\u7dad\u6301\u3055\u308c\u5f97\u308b\u3002 \u3010\u9078\u629e\u56f3\u3011\u56f3\uff15",
+      "publicationNumber": "JP2025508681",
+      "publicationDate": "2025-04-10",
+      "assignee": [
+        "ESS Tech, Inc."
+      ],
+      "inventors": [
+        "\u30af\u30d1\u30fc\u30de\u30f3 \u30cb\u30fc\u30eb \u30a6\u30a9\u30eb\u30bf\u30fc\u30ba",
+        "\u30bd\u30f3 \u30e4\u30f3"
+      ],
+      "applicationDate": "2023-01-31",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.107209
+    },
+    {
+      "id": "JP-2024535070-A",
+      "title": [
+        "\u30cf\u30a4\u30d6\u30ea\u30c3\u30c9\u30ec\u30c9\u30c3\u30af\u30b9\u71c3\u6599\u96fb\u6c60\u30b7\u30b9\u30c6\u30e0"
+      ],
+      "abstract": "\u30cf\u30a4\u30d6\u30ea\u30c3\u30c9\u30ec\u30c9\u30c3\u30af\u30b9\u71c3\u6599\u96fb\u6c60\u30b7\u30b9\u30c6\u30e0\u306f\u3001\u9084\u5143\u5264\u304c\u901a\u3063\u3066\u6d41\u52d5\u3059\u308b\u30a2\u30ce\u30fc\u30c9\u5074\u3068\u3001\u6db2\u4f53\u96fb\u89e3\u8cea\u304c\u901a\u3063\u3066\u6d41\u52d5\u3059\u308b\u30ab\u30bd\u30fc\u30c9\u5074\u3068\u3001\u3092\u542b\u3080\u30cf\u30a4\u30d6\u30ea\u30c3\u30c9\u30ec\u30c9\u30c3\u30af\u30b9\u71c3\u6599\u30bb\u30eb\u3068\u3001\u30cf\u30a4\u30d6\u30ea\u30c3\u30c9\u30ec\u30c9\u30c3\u30af\u30b9\u71c3\u6599\u30bb\u30eb\u306e\u30ab\u30bd\u30fc\u30c9\u5074\u306b\u6d41\u4f53\u7684\u306b\u63a5\u7d9a\u3055\u308c\u305f\u89e6\u5a92\u5e8a\u3092\u542b\u3080\u30c8\u30ea\u30af\u30eb\u5e8a\u53cd\u5fdc\u5668\u3068\u3001\u3092\u542b\u3080\u3002\u66f4\u306b\u3001\u6db2\u4f53\u96fb\u89e3\u8cea\u306f\u3001\u3088\u308a\u9ad8\u3044\u9178\u5316\u72b6\u614b\u306e\u91d1\u5c5e\u30a4\u30aa\u30f3\u3068\u3001\u3088\u308a\u4f4e\u3044\u9178\u5316\u72b6\u614b\u306e\u91d1\u5c5e\u30a4\u30aa\u30f3\u3068\u3001\u3092\u542b\u307f\u3001\u30a2\u30ce\u30fc\u30c9\u5074\u3067\u9084\u5143\u5264\u3092\u9178\u5316\u3057\u306a\u304c\u3089\u3001\u30ab\u30bd\u30fc\u30c9\u5074\u3067\u3088\u308a\u9ad8\u3044\u9178\u5316\u72b6\u614b\u306e\u91d1\u5c5e\u30a4\u30aa\u30f3\u3092\u3088\u308a\u4f4e\u3044\u9178\u5316\u72b6\u614b\u306b\u9084\u5143\u3059\u308b\u3053\u3068\u306b\u3088\u3063\u3066\u3001\u30cf\u30a4\u30d6\u30ea\u30c3\u30c9\u30ec\u30c9\u30c3\u30af\u30b9\u71c3\u6599\u30bb\u30eb\u3067\u96fb\u529b\u304c\u751f\u6210\u3055\u308c\u308b\u3002 \u3010\u9078\u629e\u56f3\u3011\u56f3\uff11",
+      "publicationNumber": "JP2024535070",
+      "publicationDate": "2024-09-26",
+      "assignee": [
+        "ESS Tech, Inc."
+      ],
+      "inventors": [
+        "\u30bd\u30f3 \u30e4\u30f3",
+        "\u30a8\u30f4\u30a1\u30f3\u30b9 \u30af\u30ec\u30a4\u30b0"
+      ],
+      "applicationDate": "2022-08-29",
+      "claimsCount": 15,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.107209
+    },
+    {
+      "id": "JP-2023501228-A",
+      "title": [
+        "\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u306b\u304a\u3051\u308b\u9244\u306e\u4e88\u5099\u5f62\u6210\u65b9\u6cd5"
+      ],
+      "abstract": "\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u306b\u304a\u3051\u308b\u9244\u306e\u4e88\u5099\u5f62\u6210\u306e\u305f\u3081\u306e\u65b9\u6cd5\u53ca\u3073\u30b7\u30b9\u30c6\u30e0\u304c\u63d0\u4f9b\u3055\u308c\u308b\u3002\u4e00\u4f8b\u306b\u304a\u3044\u3066\u3001\u65b9\u6cd5\u306f\u3001\u7b2c\uff11\u72b6\u614b\u306b\u304a\u3044\u3066\u3001\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u3092\u653e\u96fb\u3055\u305b\u3001\u305d\u306e\u5f8c\u3001\u5145\u96fb\u3057\u3001\u7b2c\uff12\u72b6\u614b\u306b\u304a\u3044\u3066\u3001\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u306e\u8ca0\u6975\u3067\u9244\u91d1\u5c5e\u3092\u4e88\u5099\u5f62\u6210\u3059\u308b\u3053\u3068\u3092\u542b\u3080\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u3092\u5145\u96fb\u3057\u3001\u305d\u306e\u5f8c\u3001\uff11\u3064\u4ee5\u4e0a\u306e\u96fb\u89e3\u8cea\u6761\u4ef6\u3092\u8abf\u6574\u3059\u308b\u3053\u3068\u3092\u542b\u3080\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u306e\u30a2\u30a4\u30c9\u30eb\u30e2\u30fc\u30c9\u306b\u5165\u308b\u3053\u3068\u3092\u542b\u3080\u3053\u3068\u304c\u3067\u304d\u308b\u3002\u3044\u304f\u3064\u304b\u306e\u4f8b\u3067\u306f\u3001\u9244\u91d1\u5c5e\u3092\u4e88\u5099\u6210\u5f62\u3059\u308b\u3053\u3068\u3001\u53ca\u3073\uff11\u3064\u4ee5\u4e0a\u306e\u96fb\u89e3\u8cea\u6761\u4ef6\u3092\u8abf\u6574\u3059\u308b\u3053\u3068\u306e\u5404\u3005\u304c\u3001\u96fb\u6c60\u306e\u5145\u96fb\u5bb9\u91cf\u3092\u95be\u5024\u5145\u96fb\u5bb9\u91cf\u3088\u308a\u3082\u5927\u304d\u304f\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002 \u3010\u9078\u629e\u56f3\u3011\u56f3\uff11",
+      "publicationNumber": "JP2023501228",
+      "publicationDate": "2023-01-18",
+      "assignee": [
+        "ESS Tech, Inc."
+      ],
+      "inventors": [
+        "\u30bd\u30f3 \u30e4\u30f3",
+        "\u30c8\u30f3\u30d7\u30bd\u30f3 \u30d6\u30ec\u30c7\u30a3\u30fc",
+        "\u30de\u30af\u30c9\u30ca\u30eb\u30c9 \u30c6\u30a3\u30e2\u30b7\u30fc \u30b8\u30a7\u30a4\uff0e"
+      ],
+      "applicationDate": "2020-10-26",
+      "claimsCount": 15,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.107209
+    },
+    {
+      "id": "JP-2022506414-A",
+      "title": [
+        "\u96fb\u6c17\u30a8\u30cd\u30eb\u30ae\u30fc\u8caf\u8535\u88c5\u7f6e\u306e\u5145\u96fb\u72b6\u614b\u306e\u6c7a\u5b9a\u30b7\u30b9\u30c6\u30e0\u304a\u3088\u3073\u65b9\u6cd5"
+      ],
+      "abstract": "\u96fb\u6c17\u30a8\u30cd\u30eb\u30ae\u30fc\u8caf\u8535\u88c5\u7f6e\u3092\u52d5\u4f5c\u3055\u305b\u308b\u30b7\u30b9\u30c6\u30e0\u304a\u3088\u3073\u65b9\u6cd5\u304c\u8aac\u660e\u3055\u308c\u308b\u3002\u30b7\u30b9\u30c6\u30e0\u304a\u3088\u3073\u65b9\u6cd5\u306f\u3001\u8ca0\u6975\u306e\u3081\u3063\u304d\u306b\u57fa\u3065\u304f\u5145\u96fb\u72b6\u614b\u306e\u63a8\u5b9a\u5024\u3092\u751f\u6210\u3067\u304d\u308b\u3002\u5168\u4f53\u306e\u5145\u96fb\u72b6\u614b\u306f\u3001\u8ca0\u6975\u306e\u3081\u3063\u304d\u306b\u57fa\u3065\u304f\u5145\u96fb\u72b6\u614b\u306e\u63a8\u5b9a\u5024\u3001\u304a\u3088\u3073\u8ca0\u6975\u306e\u3081\u3063\u304d\u306b\u57fa\u3065\u304b\u306a\u3044\u5145\u96fb\u72b6\u614b\u306e\u63a8\u5b9a\u5024\u304b\u3089\u6c7a\u5b9a\u3055\u308c\u3066\u3082\u3088\u3044\u3002 \u3010\u9078\u629e\u56f3\u3011\u56f3\uff11\uff21",
+      "publicationNumber": "JP2022506414",
+      "publicationDate": "2022-01-17",
+      "assignee": [
+        "ESS Tech, Inc."
+      ],
+      "inventors": [
+        "\u30bd\u30f3 \u30e4\u30f3",
+        "\u30de\u30af\u30c9\u30ca\u30eb\u30c9 \u30c6\u30a3\u30e2\u30b7\u30fc \u30b8\u30a7\u30a4\uff0e",
+        "\u30b0\u30ed\u30d0\u30fc\u30b0 \u30c1\u30a2\u30b4"
+      ],
+      "applicationDate": "2019-09-16",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology",
+        "Measurement"
+      ],
+      "score": 11.107209
+    },
+    {
+      "id": "JP-7121043-B2",
+      "title": [
+        "\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u30b7\u30b9\u30c6\u30e0\u306e\u52d5\u4f5c\u65b9\u6cd5\u53ca\u3073\u30b7\u30b9\u30c6\u30e0"
+      ],
+      "abstract": "\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u306e\u52d5\u4f5c\u65b9\u6cd5\u306f\u3001\u8ca0\u6975\u5ba4\u5727\u529b\u3088\u308a\u3082\u6b63\u6975\u5ba4\u5727\u529b\u3092\u9ad8\u304f\u7dad\u6301\u3059\u308b\u3053\u3068\u3001\u53ca\u3073\u819c\u7a81\u7834\u5727\u529b\u3088\u308a\u3082\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u5727\u529b\u3092\u5c0f\u3055\u304f\u7dad\u6301\u3059\u308b\u3053\u3068\u3092\u5305\u542b\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u3001\u524d\u8a18\u30af\u30ed\u30b9\u30aa\u30fc\u30d0\u30fc\u5727\u529b\u304c\u3001\u524d\u8a18\u6b63\u6975\u5ba4\u5727\u529b\u304b\u3089\u524d\u8a18\u8ca0\u6975\u5ba4\u5727\u529b\u3092\u6e1b\u3058\u305f\u3082\u306e\u306b\u7b49\u3057\u3044\u3002\u3053\u306e\u3088\u3046\u306b\u3057\u3066\u3001\u30bb\u30d1\u30ec\u30fc\u30bf\u306e\u7a81\u7834\u3092\u6e1b\u3089\u3057\u3064\u3064\u305d\u306e\u4e2d\u306b\u9589\u3058\u8fbc\u3081\u3089\u308c\u305f\u6c17\u6ce1\u3092\u6e1b\u3089\u3059\u3053\u3068\u306b\u3088\u3063\u3066\u3001\u524d\u8a18\u30bb\u30d1\u30ec\u30fc\u30bf\u3092\u6a2a\u5207\u308b\u30a4\u30aa\u30f3\u62b5\u6297\u3092\u4f4e\u3044\u30ec\u30d9\u30eb\u3067\u7dad\u6301\u53ef\u80fd\u3067\u3042\u308a\u3001\u305d\u308c\u306b\u3088\u3063\u3066\u524d\u8a18\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u30b7\u30b9\u30c6\u30e0\u306e\u6027\u80fd\u304c\u5411\u4e0a\u3059\u308b\u3002\u3010\u9078\u629e\u56f3\u3011\u56f3\uff12\uff21",
+      "publicationNumber": "JP7121043",
+      "publicationDate": "2022-08-17",
+      "assignee": [
+        "ESS Tech, Inc."
+      ],
+      "inventors": [
+        "\u30bd\u30f3 \u30e4\u30f3",
+        "\u30c9\u30a2\u30de\u30b9 \u30a8\u30f4\u30a1\u30f3",
+        "\u30b0\u30ed\u30d0\u30fc\u30b0 \u30c6\u30a3\u30a2\u30b4"
+      ],
+      "applicationDate": "2018-04-27",
+      "claimsCount": 19,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.104766
+    },
+    {
+      "id": "JP-2025505170-A",
+      "title": [
+        "\u30d0\u30a4\u30dd\u30fc\u30e9\u30d7\u30ec\u30fc\u30c8\u306e\u88fd\u9020\u65b9\u6cd5"
+      ],
+      "abstract": "\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u306e\u305f\u3081\u306e\u30b7\u30b9\u30c6\u30e0\u53ca\u3073\u65b9\u6cd5\u304c\u63d0\u4f9b\u3055\u308c\u308b\u3002\u4e00\u5b9f\u65bd\u4f8b\u3067\u306f\u3001\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u306f\u3001\u71b1\u53ef\u5851\u6027\u8907\u5408\u6750\u6599\u304b\u3089\u5f62\u6210\u3055\u308c\u305f\u30d0\u30a4\u30dd\u30fc\u30e9\u30d7\u30ec\u30fc\u30c8\u3092\u542b\u3080\u3001\u30d0\u30a4\u30dd\u30fc\u30e9\u30d7\u30ec\u30fc\u30c8\u30a2\u30bb\u30f3\u30d6\u30ea\u3092\u542b\u3080\u3002\u30d0\u30a4\u30dd\u30fc\u30e9\u30d7\u30ec\u30fc\u30c8\u306e\u71b1\u53ef\u5851\u6027\u8907\u5408\u6750\u6599\u306f\u3001\u30d0\u30a4\u30dd\u30fc\u30e9\u30d7\u30ec\u30fc\u30c8\u304c\u3001\u30d0\u30a4\u30dd\u30fc\u30e9\u30d7\u30ec\u30fc\u30c8\u30a2\u30bb\u30f3\u30d6\u30ea\u306e\u8a98\u96fb\u4f53\u30d5\u30ec\u30fc\u30e0\u306b\u76f4\u63a5\u63a5\u5408\u3055\u308c\u308b\u3053\u3068\u3092\u53ef\u80fd\u306b\u3057\u3001\u305d\u308c\u306b\u3088\u3063\u3066\u3001\u30d0\u30a4\u30dd\u30fc\u30e9\u30d7\u30ec\u30fc\u30c8\u30a2\u30bb\u30f3\u30d6\u30ea\u306e\u88fd\u4f5c\u30d7\u30ed\u30bb\u30b9\u3092\u7c21\u7d20\u5316\u3059\u308b\u3002 \u3010\u9078\u629e\u56f3\u3011\u56f3\uff15\uff21",
+      "publicationNumber": "JP2025505170",
+      "publicationDate": "2025-02-21",
+      "assignee": [
+        "ESS Tech, Inc."
+      ],
+      "inventors": [
+        "\u30b1\u30a4\u30b7\u30fc \u30b7\u30e7\u30fc\u30f3",
+        "\u30bd\u30f3 \u30e4\u30f3",
+        "\u30b0\u30ed\u30d0\u30fc\u30b0 \u30c6\u30a3\u30a2\u30b4",
+        "\u30a8\u30f4\u30a1\u30f3\u30b9 \u30af\u30ec\u30a4\u30b0"
+      ],
+      "applicationDate": "2023-01-11",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.104766
+    },
+    {
+      "id": "JP-2024507979-A",
+      "title": [
+        "\u30d0\u30a4\u30dd\u30fc\u30e9\u30d7\u30ec\u30fc\u30c8\u3092\u524d\u51e6\u7406\u3059\u308b\u305f\u3081\u306e\u65b9\u6cd5\u53ca\u3073\u30b7\u30b9\u30c6\u30e0\u3001\u4e26\u3073\u306b\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u306b\u304a\u3051\u308b\u305d\u306e\u4f7f\u7528"
+      ],
+      "abstract": "\u4e00\u5b9f\u65bd\u4f8b\u3067\u306f\u3001\u65b9\u6cd5\u306f\u3001\u30d0\u30a4\u30dd\u30fc\u30e9\u30d7\u30ec\u30fc\u30c8\u306e\u8868\u9762\u3092\u5d29\u58ca\u3055\u305b\u308b\u3053\u3068\u306b\u3088\u3063\u3066\u3001\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u306e\u305f\u3081\u306e\u30d0\u30a4\u30dd\u30fc\u30e9\u30d7\u30ec\u30fc\u30c8\u3092\u524d\u51e6\u7406\u3059\u308b\u3053\u3068\u3092\u542b\u307f\u5f97\u308b\u3002\u3044\u304f\u3064\u304b\u306e\u5b9f\u65bd\u4f8b\u3067\u306f\u3001\u30d0\u30a4\u30dd\u30fc\u30e9\u30d7\u30ec\u30fc\u30c8\u3092\u524d\u51e6\u7406\u3059\u308b\u3053\u3068\u306f\u3001\u30d0\u30a4\u30dd\u30fc\u30e9\u30d7\u30ec\u30fc\u30c8\u3092\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u5185\u306b\u4f4d\u7f6e\u4ed8\u3051\u308b\u3053\u3068\u3068\u3001\u305d\u306e\u5f8c\u3001\u8868\u9762\u3092\u96fb\u6c17\u5316\u5b66\u7684\u306b\u30a8\u30c3\u30c1\u30f3\u30b0\u3059\u308b\u305f\u3081\u306b\u3001\uff11\u3064\u4ee5\u4e0a\u306e\u521d\u671f\u5145\u96fb\u30b5\u30a4\u30af\u30eb\u306e\u5404\u3005\u306b\u3064\u3044\u3066\u3001\u591a\u6570\u306e\u5225\u500b\u306e\u3081\u3063\u304d\u96fb\u6d41\u5bc6\u5ea6\u3067\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u3092\u5145\u96fb\u3059\u308b\u3053\u3068\u3068\u3001\u3092\u542b\u307f\u5f97\u308b\u3002\u8ffd\u52a0\u7684\u53c8\u306f\u4ee3\u66ff\u7684\u306a\u5b9f\u65bd\u4f8b\u3067\u306f\u3001\u30d0\u30a4\u30dd\u30fc\u30e9\u30d7\u30ec\u30fc\u30c8\u3092\u524d\u51e6\u7406\u3059\u308b\u3053\u3068\u306f\u3001\u30d0\u30a4\u30dd\u30fc\u30e9\u30d7\u30ec\u30fc\u30c8\u3092\u6eb6\u6db2\u4e2d\u306b\u6d78\u6f2c\u3057\u3066\u3001\u8868\u9762\u3092\u5316\u5b66\u7684\u306b\u51e6\u7406\u3059\u308b\u3053\u3068\u3092\u542b\u307f\u5f97\u308b\u3002\u3053\u306e\u3088\u3046\u306b\u3057\u3066\u3001\u30d0\u30a4\u30dd\u30fc\u30e9\u30d7\u30ec\u30fc\u30c8\u306f\u3001\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u306b\u304a\u3051\u308b\u96fb\u6c17\u5316\u5b66\u7684\u6027\u80fd\u640d\u5931\u53ca\u3073\u6a39\u72b6\u7a81\u8d77\u5f62\u6210\u3092\u4f4e\u6e1b\u3059\u308b\u3088\u3046\u306b\u3001\u96fb\u6c17\u5316\u5b66\u30a8\u30c3\u30c1\u30f3\u30b0\u53ca\u3073\uff0f\u53c8\u306f\u5316\u5b66\u51e6\u7406\u3092\u4ecb\u3057\u3066\u524d\u51e6\u7406\u3055\u308c\u5f97\u308b\u3002 \u3010\u9078\u629e\u56f3\u3011\u56f3\uff11",
+      "publicationNumber": "JP2024507979",
+      "publicationDate": "2024-02-21",
+      "assignee": [
+        "ESS Tech, Inc."
+      ],
+      "inventors": [
+        "\u30bd\u30f3 \u30e4\u30f3",
+        "\u30a6\u30fc \u30e4\u30f3",
+        "\u30c8\u30f3\u30d7\u30bd\u30f3 \u30d6\u30ec\u30c7\u30a3\u30fc"
+      ],
+      "applicationDate": "2022-02-09",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.104766
+    },
+    {
+      "id": "JP-7426384-B2",
+      "title": [
+        "\u9244\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u3001\u96fb\u529b\u30b7\u30b9\u30c6\u30e0\u53ca\u3073\u65b9\u6cd5"
+      ],
+      "abstract": "\u96fb\u6c17\u30a8\u30cd\u30eb\u30ae\u30fc\u8caf\u8535\u88c5\u7f6e\u3092\u64cd\u4f5c\u3059\u308b\u305f\u3081\u306e\u30b7\u30b9\u30c6\u30e0\u53ca\u3073\u65b9\u6cd5\u304c\u8a18\u8f09\u3055\u308c\u308b\u3002\u30b7\u30b9\u30c6\u30e0\u53ca\u3073\u65b9\u6cd5\u306f\u3001\u63a5\u5730\u57fa\u6e96\u3068\u96fb\u6c17\u30a8\u30cd\u30eb\u30ae\u30fc\u8caf\u8535\u88c5\u7f6e\u306e\u7aef\u5b50\u3068\u306e\u9593\u306e\u96fb\u5727\u96fb\u4f4d\u3092\u4f4e\u6e1b\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002\u96fb\u5727\u96fb\u4f4d\u3092\u4e0b\u3052\u308b\u3053\u3068\u306b\u3088\u3063\u3066\u3001\u96fb\u6c17\u30a8\u30cd\u30eb\u30ae\u30fc\u8caf\u8535\u88c5\u7f6e\u304c\u610f\u56f3\u305b\u305a\u306b\u30b0\u30e9\u30f3\u30c9\u306b\u653e\u96fb\u3059\u308b\u53ef\u80fd\u6027\u3092\u4f4e\u6e1b\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002 \u3010\u9078\u629e\u56f3\u3011\u56f3\uff11",
+      "publicationNumber": "JP7426384",
+      "publicationDate": "2024-02-01",
+      "assignee": [
+        "ESS Tech, Inc."
+      ],
+      "inventors": [
+        "\u30a6\u30a9\u30fc\u30ab\u30fc\uff0d\u30b9\u30bf\u30fc\u30f3 \u30a2\u30a4\u30b6\u30c3\u30af",
+        "\u30f4\u30a1\u30f3\u30c7\u30eb\u30b6\u30f3\u30c7\u30f3 \u30a2\u30fc\u30ed\u30f3"
+      ],
+      "applicationDate": "2019-09-16",
+      "claimsCount": 19,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.094252
+    },
+    {
+      "id": "JP-7157078-B2",
+      "title": [
+        "\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u30b7\u30b9\u30c6\u30e0\u7528\u306e\u96fb\u89e3\u6db2\u3092\u30ea\u30d0\u30e9\u30f3\u30b9\u3059\u308b\u65b9\u6cd5\u53ca\u3073\u30b7\u30b9\u30c6\u30e0"
+      ],
+      "abstract": "\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u30b7\u30b9\u30c6\u30e0\u306e\u305f\u3081\u306e\u30ea\u30d0\u30e9\u30f3\u30b9\u53cd\u5fdc\u5668\u306f\u3001\u6c34\u7d20\u30ac\u30b9\u304c\u6d41\u308c\u308b\u7b2c\uff11\u5074\u3068\u3001\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u30b7\u30b9\u30c6\u30e0\u304b\u3089\u306e\u96fb\u89e3\u6db2\u304c\u6d41\u308c\u308b\u7b2c\uff12\u5074\u3068\u3001\u524d\u8a18\u7b2c\uff11\u5074\u3068\u524d\u8a18\u7b2c\uff12\u5074\u3068\u3092\u5206\u96e2\u3057\u3066\u6d41\u4f53\u63a5\u7d9a\u3059\u308b\u591a\u5b54\u8cea\u5c64\u3068\u3001\u3092\u5099\u3048\u3066\u3044\u3066\u3082\u3088\u304f\u3001\u524d\u8a18\u6c34\u7d20\u30ac\u30b9\u3068\u524d\u8a18\u96fb\u89e3\u6db2\u3068\u304c\u3001\u524d\u8a18\u591a\u5b54\u8cea\u5c64\u306e\u8868\u9762\u306b\u304a\u3044\u3066\u6d41\u4f53\u63a5\u89e6\u3057\u3066\u304a\u308a\u3001\u524d\u8a18\u7b2c\uff12\u5074\u306b\u6a2a\u5207\u308b\u5727\u529b\u964d\u4e0b\u304c\u3001\u524d\u8a18\u591a\u5b54\u8cea\u5c64\u306b\u6a2a\u5207\u308b\u5727\u529b\u964d\u4e0b\u3088\u308a\u3082\u5c0f\u3055\u3044\u3002\u3053\u306e\u3088\u3046\u306b\u3057\u3066\u3001\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u30b7\u30b9\u30c6\u30e0\u306b\u304a\u3051\u308b\u96fb\u89e3\u6db2\u96fb\u5316\u306e\u30ea\u30d0\u30e9\u30f3\u30b9\u306f\u3001\u5f93\u6765\u306e\u30ea\u30d0\u30e9\u30f3\u30b9\u53cd\u5fdc\u5668\u306b\u6bd4\u8f03\u3057\u3066\u52b9\u7387\u53ca\u3073\u8cbb\u7528\u52b9\u679c\u3092\u5411\u4e0a\u3057\u3066\u5b9f\u884c\u3055\u308c\u5f97\u308b\u3002\u3010\u9078\u629e\u56f3\u3011\u56f3\uff12",
+      "publicationNumber": "JP7157078",
+      "publicationDate": "2022-10-19",
+      "assignee": [
+        "ESS Tech, Inc."
+      ],
+      "inventors": [
+        "\u30a8\u30f4\u30a1\u30f3\u30ba \u30af\u30ec\u30a4\u30b0 \u30a4\u30fc\uff0e"
+      ],
+      "applicationDate": "2018-04-27",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.094252
+    },
+    {
+      "id": "JP-2022504262-A",
+      "title": [
+        "\u96fb\u529b\u4f9b\u7d66\u30b7\u30b9\u30c6\u30e0\u53ca\u3073\u65b9\u6cd5"
+      ],
+      "abstract": "\u96fb\u6c17\u30a8\u30cd\u30eb\u30ae\u30fc\u8caf\u8535\u88c5\u7f6e\u3092\u64cd\u4f5c\u3059\u308b\u305f\u3081\u306e\u30b7\u30b9\u30c6\u30e0\u53ca\u3073\u65b9\u6cd5\u304c\u8a18\u8f09\u3055\u308c\u308b\u3002\u30b7\u30b9\u30c6\u30e0\u53ca\u3073\u65b9\u6cd5\u306f\u3001\u63a5\u5730\u57fa\u6e96\u3068\u96fb\u6c17\u30a8\u30cd\u30eb\u30ae\u30fc\u8caf\u8535\u88c5\u7f6e\u306e\u7aef\u5b50\u3068\u306e\u9593\u306e\u96fb\u5727\u96fb\u4f4d\u3092\u4f4e\u6e1b\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002\u96fb\u5727\u96fb\u4f4d\u3092\u4e0b\u3052\u308b\u3053\u3068\u306b\u3088\u3063\u3066\u3001\u96fb\u6c17\u30a8\u30cd\u30eb\u30ae\u30fc\u8caf\u8535\u88c5\u7f6e\u304c\u610f\u56f3\u305b\u305a\u306b\u30b0\u30e9\u30f3\u30c9\u306b\u653e\u96fb\u3059\u308b\u53ef\u80fd\u6027\u3092\u4f4e\u6e1b\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002 \u3010\u9078\u629e\u56f3\u3011\u56f3\uff11",
+      "publicationNumber": "JP2022504262",
+      "publicationDate": "2022-01-13",
+      "assignee": [
+        "ESS Tech, Inc."
+      ],
+      "inventors": [
+        "\u30a6\u30a9\u30fc\u30ab\u30fc\uff0d\u30b9\u30bf\u30fc\u30f3 \u30a2\u30a4\u30b6\u30c3\u30af",
+        "\u30f4\u30a1\u30f3\u30c7\u30eb\u30b6\u30f3\u30c7\u30f3 \u30a2\u30fc\u30ed\u30f3"
+      ],
+      "applicationDate": "2019-09-16",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.094252
+    },
+    {
+      "id": "JP-2024532950-A",
+      "title": [
+        "\u30cf\u30a4\u30d6\u30ea\u30c3\u30c9\u30ec\u30c9\u30c3\u30af\u30b9\u71c3\u6599\u96fb\u6c60\u30b7\u30b9\u30c6\u30e0"
+      ],
+      "abstract": "\u30cf\u30a4\u30d6\u30ea\u30c3\u30c9\u30ec\u30c9\u30c3\u30af\u30b9\u71c3\u6599\u96fb\u6c60\u30b7\u30b9\u30c6\u30e0\u306f\u3001\u30cf\u30a4\u30d6\u30ea\u30c3\u30c9\u30ec\u30c9\u30c3\u30af\u30b9\u71c3\u6599\u30bb\u30eb\u53ca\u3073\u96fb\u6c17\u5316\u5b66\u30bb\u30eb\u3092\u542b\u3080\u3002\u30cf\u30a4\u30d6\u30ea\u30c3\u30c9\u30ec\u30c9\u30c3\u30af\u30b9\u71c3\u6599\u30bb\u30eb\u306f\u3001\u6c34\u7d20\u304c\u901a\u3063\u3066\u6d41\u52d5\u3059\u308b\u30a2\u30ce\u30fc\u30c9\u5074\u3068\u3001\u6db2\u4f53\u96fb\u89e3\u8cea\u304c\u901a\u3063\u3066\u6d41\u52d5\u3059\u308b\u30ab\u30bd\u30fc\u30c9\u5074\u3068\u3001\u3092\u542b\u307f\u3001\u6db2\u4f53\u96fb\u89e3\u8cea\u306f\u3001\u3088\u308a\u9ad8\u3044\u9178\u5316\u72b6\u614b\u306e\u91d1\u5c5e\u30a4\u30aa\u30f3\u3068\u3088\u308a\u4f4e\u3044\u9178\u5316\u72b6\u614b\u306e\u91d1\u5c5e\u30a4\u30aa\u30f3\u3068\u3092\u542b\u3080\u3002\u96fb\u6c17\u5316\u5b66\u30bb\u30eb\u306e\u30a2\u30ce\u30fc\u30c9\u5074\u306f\u3001\u30cf\u30a4\u30d6\u30ea\u30c3\u30c9\u30ec\u30c9\u30c3\u30af\u30b9\u71c3\u6599\u30bb\u30eb\u306e\u30ab\u30bd\u30fc\u30c9\u5074\u306b\u6d41\u4f53\u7684\u306b\u63a5\u7d9a\u3055\u308c\u3066\u3044\u308b\u3002\u30cf\u30a4\u30d6\u30ea\u30c3\u30c9\u30ec\u30c9\u30c3\u30af\u30b9\u71c3\u6599\u30bb\u30eb\u306b\u304a\u3044\u3066\u3001\u30a2\u30ce\u30fc\u30c9\u5074\u3067\u9084\u5143\u5264\u3092\u9178\u5316\u3057\u306a\u304c\u3089\u3001\u30ab\u30bd\u30fc\u30c9\u5074\u3067\u3088\u308a\u9ad8\u3044\u9178\u5316\u72b6\u614b\u306e\u91d1\u5c5e\u30a4\u30aa\u30f3\u3092\u3088\u308a\u4f4e\u3044\u9178\u5316\u72b6\u614b\u306b\u9084\u5143\u3059\u308b\u3053\u3068\u306b\u3088\u3063\u3066\u3001\u96fb\u529b\u304c\u751f\u6210\u3055\u308c\u308b\u3002\u96fb\u529b\u304c\u751f\u6210\u3055\u308c\u308b\u9593\u3001\u96fb\u6c17\u5316\u5b66\u30bb\u30eb\u306e\u30a2\u30ce\u30fc\u30c9\u5074\u3067\u3001\u3088\u308a\u4f4e\u3044\u9178\u5316\u72b6\u614b\u306e\u91d1\u5c5e\u30a4\u30aa\u30f3\u304c\u3088\u308a\u9ad8\u3044\u9178\u5316\u72b6\u614b\u306b\u9178\u5316\u3055\u308c\u308b\u3002 \u3010\u9078\u629e\u56f3\u3011\u56f3\uff11",
+      "publicationNumber": "JP2024532950",
+      "publicationDate": "2024-09-10",
+      "assignee": [
+        "ESS Tech, Inc."
+      ],
+      "inventors": [
+        "\u30bd\u30f3 \u30e4\u30f3",
+        "\u30a8\u30f4\u30a1\u30f3\u30b9 \u30af\u30ec\u30a4\u30b0"
+      ],
+      "applicationDate": "2022-08-29",
+      "claimsCount": 15,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.09383
+    },
+    {
+      "id": "JP-7121045-B2",
+      "title": [
+        "\u96fb\u89e3\u6db2\u306e\u5065\u5168\u6027\u3068\u30b7\u30b9\u30c6\u30e0\u6027\u80fd\u3092\u7dad\u6301\u3059\u308b\u305f\u3081\u306e\u30d5\u30ed\u30fc\u96fb\u6c60\u6d17\u6d44\u30b5\u30a4\u30af\u30eb"
+      ],
+      "abstract": "\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u30b7\u30b9\u30c6\u30e0\u306e\u6d17\u6d44\u65b9\u6cd5\u306f\u3001\u5145\u96fb\u30e2\u30fc\u30c9\u3001\u653e\u96fb\u30e2\u30fc\u30c9\u3001\u53c8\u306f\u30a2\u30a4\u30c9\u30eb\u30e2\u30fc\u30c9\u306e\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u30b7\u30b9\u30c6\u30e0\u3092\u4f5c\u52d5\u3059\u308b\u3053\u3068\u3092\u542b\u307f\u3001\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u5bb9\u91cf\u304c\u95be\u5024\u96fb\u6c60\u5bb9\u91cf\u672a\u6e80\u3067\u3042\u308b\u3053\u3068\u306b\u5fdc\u3058\u3066\u3001\u6b63\u6975\u96fb\u89e3\u6db2\u3068\u8ca0\u6975\u96fb\u89e3\u6db2\u3068\u306e\u6df7\u5408\u3092\u884c\u3046\u3053\u3068\u3092\u542b\u3080\u3002\u3053\u306e\u3088\u3046\u306b\u3057\u3066\u3001\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u30b7\u30b9\u30c6\u30e0\u306e\u5145\u96fb\u53ca\u3073\u653e\u96fb\u30b5\u30a4\u30af\u30eb\u5f8c\u306e\u96fb\u6c60\u5bb9\u91cf\u306e\u4f4e\u4e0b\u3092\u5927\u5e45\u306b\u4f4e\u6e1b\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002\u3010\u9078\u629e\u56f3\u3011\u56f3\uff12",
+      "publicationNumber": "JP7121045",
+      "publicationDate": "2022-08-17",
+      "assignee": [
+        "ESS Tech, Inc."
+      ],
+      "inventors": [
+        "\u30bd\u30f3 \u30e4\u30f3",
+        "\u30a8\u30f4\u30a1\u30f3\u30ba \u30af\u30ec\u30a4\u30b0 \u30a4\u30fc\uff0e"
+      ],
+      "applicationDate": "2018-04-27",
+      "claimsCount": 18,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.0774
+    },
+    {
+      "id": "JP-7121044-B2",
+      "title": [
+        "\u52a0\u5727\u30de\u30eb\u30c1\u30c1\u30e3\u30f3\u30d0\u30bf\u30f3\u30af\u3092\u4f7f\u7528\u3057\u305f\u7d71\u5408\u6c34\u7d20\u30ea\u30b5\u30a4\u30af\u30eb\u30b7\u30b9\u30c6\u30e0"
+      ],
+      "abstract": "\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u30b7\u30b9\u30c6\u30e0\u7528\u306e\u30de\u30eb\u30c1\u30c1\u30e3\u30f3\u30d0\u96fb\u89e3\u6db2\u8caf\u8535\u30bf\u30f3\u30af\u306f\u3001\u7b2c\uff11\u53ca\u3073\u7b2c\uff12\u306e\u96fb\u89e3\u6db2\u30c1\u30e3\u30f3\u30d0\u3001\u4e26\u3073\u306b\u9694\u58c1\u3092\u5099\u3048\u3001\u7b2c\uff11\u53ca\u3073\u7b2c\uff12\u306e\u96fb\u89e3\u6db2\u30c1\u30e3\u30f3\u30d0\u306f\u3001\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u30bb\u30eb\u306e\u7b2c\uff11\u53ca\u3073\u7b2c\uff12\u306e\u5074\u306b\u305d\u308c\u305e\u308c\u6d41\u4f53\u7684\u306b\u9023\u7d50\u3055\u308c\u3001\u7b2c\uff11\u53ca\u3073\u7b2c\uff12\u306e\u96fb\u89e3\u6db2\u30c1\u30e3\u30f3\u30d0\u306f\u3001\u305d\u308c\u305e\u308c\u7b2c\uff11\u53ca\u3073\u7b2c\uff12\u306e\u96fb\u89e3\u6db2\u5bb9\u7a4d\u3092\u542b\u307f\u3001\u7b2c\uff11\u53ca\u3073\u7b2c\uff12\u306e\u96fb\u89e3\u6db2\u5bb9\u7a4d\u306f\u3001\u305d\u308c\u3089\u306e\u9593\u306b\u914d\u7f6e\u3055\u308c\u305f\u9694\u58c1\u306b\u3088\u3063\u3066\u5206\u96e2\u3055\u308c\u308b\u3002\u3053\u306e\u3088\u3046\u306b\u3057\u3066\u3001\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u30b7\u30b9\u30c6\u30e0\u306e\u88fd\u9020\u304a\u3088\u3073\u904b\u7528\u306e\u8907\u96d1\u3055\u3092\u8efd\u6e1b\u3067\u304d\u308b\u3002\u3010\u9078\u629e\u56f3\u3011\u56f3\uff11",
+      "publicationNumber": "JP7121044",
+      "publicationDate": "2022-08-17",
+      "assignee": [
+        "ESS Tech, Inc."
+      ],
+      "inventors": [
+        "\u30bd\u30f3 \u30e4\u30f3",
+        "\u30d5\u30a3\u30c3\u30b7\u30e3\u30fc \u30b1\u30cd\u30b9 \u30ad\u30e8\u30b7",
+        "\u30de\u30af\u30c9\u30ca\u30eb\u30c9 \u30c6\u30a3\u30e2\u30b7\u30fc"
+      ],
+      "applicationDate": "2018-04-27",
+      "claimsCount": 14,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.0774
+    },
+    {
+      "id": "JP-2023528225-A",
+      "title": [
+        "\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u30b7\u30b9\u30c6\u30e0\u53ca\u3073\u30aa\u30fc\u30eb\u30a2\u30a4\u30a2\u30f3\u30d5\u30ed\u30fc\u96fb\u6c60"
+      ],
+      "abstract": "\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u30b7\u30b9\u30c6\u30e0\u306e\u305f\u3081\u306e\u65b9\u6cd5\u53ca\u3073\u30b7\u30b9\u30c6\u30e0\u304c\u63d0\u4f9b\u3055\u308c\u308b\u3002\u4e00\u4f8b\u3067\u306f\u3001\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u30b7\u30b9\u30c6\u30e0\u306f\u3001\u7b2c\uff11\u306e\u52a0\u5727\u677f\u3068\u7b2c\uff12\u306e\u52a0\u5727\u677f\u3068\u306e\u9593\u306b\u914d\u7f6e\u3055\u308c\u305f\u30b5\u30d6\u30b9\u30bf\u30c3\u30af\u30bb\u30d1\u30ec\u30fc\u30bf\u30d7\u30ec\u30fc\u30c8\u3092\u5099\u3048\u305f\u52a0\u5727\u677f\u306e\u30bb\u30c3\u30c8\u3068\u3001\u7b2c\uff11\u306e\u52a0\u5727\u677f\u3068\u30b5\u30d6\u30b9\u30bf\u30c3\u30af\u30bb\u30d1\u30ec\u30fc\u30bf\u30d7\u30ec\u30fc\u30c8\u3068\u306e\u9593\u306b\u914d\u7f6e\u3055\u308c\u305f\u7b2c\uff11\u306e\u30bb\u30eb\u30b9\u30bf\u30c3\u30af\u3068\u3092\u6709\u3059\u308b\u3002\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u30b7\u30b9\u30c6\u30e0\u306f\u3001\u7b2c\uff12\u306e\u52a0\u5727\u677f\u3068\u30b5\u30d6\u30b9\u30bf\u30c3\u30af\u30bb\u30d1\u30ec\u30fc\u30bf\u30d7\u30ec\u30fc\u30c8\u3068\u306e\u9593\u306b\u914d\u7f6e\u3055\u308c\u305f\u7b2c\uff12\u306e\u30bb\u30eb\u30b9\u30bf\u30c3\u30af\u3092\u3055\u3089\u306b\u542b\u307f\u5f97\u308b\u3002 \u3010\u9078\u629e\u56f3\u3011\u56f3\uff11",
+      "publicationNumber": "JP2023528225",
+      "publicationDate": "2023-07-04",
+      "assignee": [
+        "ESS Tech, Inc."
+      ],
+      "inventors": [
+        "\u30b1\u30a4\u30b7\u30fc \u30b7\u30e7\u30fc\u30f3",
+        "\u30a8\u30f4\u30a1\u30f3\u30b9 \u30af\u30ec\u30a4\u30b0"
+      ],
+      "applicationDate": "2021-05-13",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.0774
+    },
+    {
+      "id": "JP-2023525869-A",
+      "title": [
+        "\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60"
+      ],
+      "abstract": "\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u53ca\u3073\u96fb\u6c60\u30b7\u30b9\u30c6\u30e0\u304c\u63d0\u4f9b\u3055\u308c\u308b\u3002\u4e00\u4f8b\u3067\u306f\u3001\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u306f\u3001\u30bb\u30eb\u30b9\u30bf\u30c3\u30af\u30a2\u30bb\u30f3\u30d6\u30ea\u3092\u542b\u307f\u3001\u30bb\u30eb\u30b9\u30bf\u30c3\u30af\u30a2\u30bb\u30f3\u30d6\u30ea\u306f\u3001\u30bb\u30eb\u30b9\u30bf\u30c3\u30af\u30a2\u30bb\u30f3\u30d6\u30ea\u306e\u6a2a\u5074\u9762\u306b\u914d\u7f6e\u3055\u308c\u305f\u30d7\u30ec\u30fc\u30c8\u30a2\u30bb\u30f3\u30d6\u30ea\u3067\u3042\u3063\u3066\u3001\u5c0e\u96fb\u677f\u306e\u30bb\u30af\u30b7\u30e7\u30f3\u306b\u5d4c\u5408\u3057\u305f\u51f9\u90e8\u3092\u542b\u307f\u3001\u6a2a\u65b9\u5411\u53ca\u3073\u5782\u76f4\u65b9\u5411\u306e\u5c11\u306a\u304f\u3068\u3082\u4e00\u65b9\u306b\u67d4\u8edf\u306a\u5f3e\u6027\u30d5\u30e9\u30f3\u30b8\u3068\u3001\u5f3e\u6027\u30d5\u30e9\u30f3\u30b8\u306b\u7d50\u5408\u3055\u308c\u305f\u30d7\u30ec\u30fc\u30c8\u30d5\u30ec\u30fc\u30e0\u3068\u3092\u542b\u3080\u30d7\u30ec\u30fc\u30c8\u30a2\u30bb\u30f3\u30d6\u30ea\u3092\u6709\u3059\u308b\u3002 \u3010\u9078\u629e\u56f3\u3011\u56f3\uff11",
+      "publicationNumber": "JP2023525869",
+      "publicationDate": "2023-06-19",
+      "assignee": [
+        "ESS Tech, Inc."
+      ],
+      "inventors": [
+        "\u30a8\u30f4\u30a1\u30f3\u30b9 \u30af\u30ec\u30a4\u30b0 \u30a4\u30fc\uff0e",
+        "\u30b1\u30a4\u30b7\u30fc \u30b7\u30e7\u30fc\u30f3",
+        "\u30b0\u30ed\u30fc\u30d0\u30fc\u30b0 \u30c6\u30a3\u30a2\u30b4",
+        "\u30bd\u30f3 \u30e4\u30f3"
+      ],
+      "applicationDate": "2021-05-05",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.0774
+    },
+    {
+      "id": "JP-2023501285-A",
+      "title": [
+        "\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u6027\u80fd\u56de\u5fa9\u306e\u305f\u3081\u306e\u65b9\u6cd5\u53ca\u3073\u30b7\u30b9\u30c6\u30e0"
+      ],
+      "abstract": "\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u306e\u305f\u3081\u306e\u65b9\u6cd5\u306f\u3001\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u3092\u95be\u5024\u5145\u96fb\u72b6\u614b\u306b\u5145\u96fb\u3057\u3001\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u304b\u3089\u6b63\u53ca\u3073\u8ca0\u96fb\u89e3\u8cea\u3092\u6392\u51fa\u3057\u3001\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u3092\u4ecb\u3057\u3066\u6d17\u6d44\u6db2\u3092\u5faa\u74b0\u3055\u305b\u3001\u6b63\u53ca\u3073\u8ca0\u96fb\u89e3\u8cea\u3092\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u306b\u623b\u3059\u3053\u3068\u3092\u542b\u3080\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u306e\u30b5\u30a4\u30af\u30eb\u306e\u4e2d\u65ad\u3068\u3001\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u306e\u30b5\u30a4\u30af\u30eb\u306e\u518d\u958b\u3068\u3092\u542b\u3080\u3002\u3053\u308c\u306b\u3088\u308a\u3001\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u30b7\u30b9\u30c6\u30e0\u306e\u6c5a\u67d3\u3092\u4f4e\u6e1b\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u3001\u30ec\u30c9\u30c3\u30af\u30b9\u30d5\u30ed\u30fc\u96fb\u6c60\u30b7\u30b9\u30c6\u30e0\u306e\u5bff\u547d\u3092\u5ef6\u3070\u3057\u3001\u6027\u80fd\u3092\u5411\u4e0a\u3055\u305b\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002 \u3010\u9078\u629e\u56f3\u3011\u56f3\uff11",
+      "publicationNumber": "JP2023501285",
+      "publicationDate": "2023-01-18",
+      "assignee": [
+        "ESS Tech, Inc."
+      ],
+      "inventors": [
+        "\u30bd\u30f3 \u30e4\u30f3",
+        "\u30a8\u30f4\u30a1\u30f3\u30b9 \u30af\u30ec\u30a4\u30b0 \u30a4\u30fc\uff0e",
+        "\u30c8\u30f3\u30d7\u30bd\u30f3 \u30d6\u30ec\u30c7\u30a3\u30fc"
+      ],
+      "applicationDate": "2020-10-14",
+      "claimsCount": 15,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.0774
+    },
+    {
+      "id": "WO-2025128328-A1",
+      "title": [
+        "THERMOPLASTIC WELDED FLOW BATTERY POWER MODULE"
+      ],
+      "abstract": "Systems and methods are provided for a cell of a redox flow battery system. The electrode cell includes a membrane frame assembly, a bipolar plate frame assembly, and a thermal weld positioned between the membrane frame assembly and the bipolar plate frame assembly. The thermal weld includes material from a frame of the membrane frame assembly and a frame of the bipolar plate frame assembly.",
+      "publicationNumber": "WO2025128328",
+      "publicationDate": "2025-06-19",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "SEAN CASEY"
+      ],
+      "applicationDate": "2024-11-26",
+      "claimsCount": 15,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology",
+        "Other special machines"
+      ],
+      "score": 11.058662
+    },
+    {
+      "id": "WO-2021231152-A1",
+      "title": [
+        "REDOX FLOW BATTERY AND BATTERY SYSTEM"
+      ],
+      "abstract": "A redox flow battery and battery system are provided. In one example, the redox flow battery includes a set of pressure plates having a first pressure plate at a first terminal end and a second pressure plate at a second terminal end, the second terminal end and the first terminal end positioned on opposing longitudinal sides of the redox flow battery. The redox flow battery further includes a first cell stack positioned longitudinally between the first pressure plate and the second pressure plate, each of the first and second pressure plates includes a plurality stacking detents on a first flange and a plurality of stacking protrusions on a second flange, and the first flange and the second flange arranged on opposing vertical sides of the redox flow battery.",
+      "publicationNumber": "WO2021231152",
+      "publicationDate": "2021-11-18",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "SEAN CASEY",
+        "CRAIG EVANS",
+        "Thiago GROBERG",
+        "YANG SONG"
+      ],
+      "applicationDate": "2021-05-05",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.058662
+    },
+    {
+      "id": "WO-2020033763-A1",
+      "title": [
+        "METHODS AND SYSTEM FOR MANUFACTURING A REDOX FLOW BATTERY SYSTEM BY ROLL-TO-ROLL PROCESSING"
+      ],
+      "abstract": "Methods and systems are provided for manufacturing a bipolar plate for a redox flow battery. In one example, the bipolar plate is fabricated by a roll-to-roll process. The bipolar plate includes a non-conductive substrate that is coupled to a negative electrode on a first surface and coupled to a positive electrode on a second surface, the first surface opposite of the second surface.",
+      "publicationNumber": "WO2020033763",
+      "publicationDate": "2020-02-13",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "CRAIG E. EVANS"
+      ],
+      "applicationDate": "2019-08-08",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.058662
+    },
+    {
+      "id": "WO-2018201079-A1",
+      "title": [
+        "METHODS AND SYSTEM FOR A BATTERY"
+      ],
+      "abstract": "Systems and methods for operating a redox flow battery system may include switching the redox flow battery system to an idle mode, wherein the idle mode includes operation of the redox flow battery system outside of a charging mode and outside of a discharge mode; in response to switching to the idle mode, repeatedly cycling operation of an electrolyte pump between an idling threshold flow rate less than a charging threshold flow rate and a deactivation threshold flow rate; and in response to switching to the charging mode, maintaining operation of the electrolyte pump at the charging threshold flow rate greater than the idling threshold flow rate. In this way, a responsiveness of the redox flow battery system to charging and discharging commands can be maintained while in idle, while reducing parasitic pumping losses due to pumping and heating, and reducing shunt current losses.",
+      "publicationNumber": "WO2018201079",
+      "publicationDate": "2018-11-01",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "YANG SONG",
+        "Evan DOREMUS"
+      ],
+      "applicationDate": "2018-04-27",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.058662
+    },
+    {
+      "id": "US-20250201871-A1",
+      "title": [
+        "THERMOPLASTIC WELDED FLOW BATTERY POWER MODULE"
+      ],
+      "abstract": "Systems and methods are provided for a cell of a redox flow battery system. The electrode cell includes a membrane frame assembly, a bipolar plate frame assembly, and a thermal weld positioned between the membrane frame assembly and the bipolar plate frame assembly. The thermal weld includes material from a frame of the membrane frame assembly and a frame of the bipolar plate frame assembly.",
+      "publicationNumber": "US20250201871",
+      "publicationDate": "2025-06-19",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Sean Casey"
+      ],
+      "applicationDate": "2024-11-26",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.058662
+    },
+    {
+      "id": "US-20230268541-A1",
+      "title": [
+        "METHODS AND SYSTEM FOR MANUFACTURING A REDOX FLOW BATTERY SYSTEM BY ROLL-TO-ROLL PROCESSING"
+      ],
+      "abstract": "Methods and systems are provided for manufacturing a bipolar plate for a redox flow battery. In one example, the bipolar plate is fabricated by a roll-to-roll process. The bipolar plate includes a non-conductive substrate that is coupled to a negative electrode on a first surface and coupled to a positive electrode on a second surface, the first surface opposite of the second surface.",
+      "publicationNumber": "US20230268541",
+      "publicationDate": "2023-08-24",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Craig E. Evans"
+      ],
+      "applicationDate": "2023-05-02",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.058662
+    },
+    {
+      "id": "US-20230137653-A1",
+      "title": [
+        "METHODS AND SYSTEMS FOR MANAGING ENERGY CONSUMPTION OF CRYPTOCURRENCY MINING"
+      ],
+      "abstract": "Systems and methods are provided for managing an energy storage system. In one example, a method may include directing energy stored in the energy storage system to a cryptocurrency mining system and another consumer responsive to conditions. Other consumers may include a third party consumer of energy and conditions may include current and predicted cryptocurrency values and current and predicted availability of cyclically available renewable energy.",
+      "publicationNumber": "US20230137653",
+      "publicationDate": "2023-05-04",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Eric Paul Dresselhuys"
+      ],
+      "applicationDate": "2021-10-29",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "IT methods for management"
+      ],
+      "score": 11.058662
+    },
+    {
+      "id": "US-20230062928-A1",
+      "title": [
+        "REDOX FLOW BATTERY AND BATTERY SYSTEM"
+      ],
+      "abstract": "A redox flow battery and battery system are provided. In one example, the redox flow battery includes a set of pressure plates having a first pressure plate at a first terminal end and a second pressure plate at a second terminal end, the second terminal end and the first terminal end positioned on opposing longitudinal sides of the redox flow battery. The redox flow battery further includes a first cell stack positioned longitudinally between the first pressure plate and the second pressure plate, each of the first and second pressure plates includes a plurality stacking detents on a first flange and a plurality of stacking protrusions on a second flange, and the first flange and the second flange arranged on opposing vertical sides of the redox flow battery.",
+      "publicationNumber": "US20230062928",
+      "publicationDate": "2023-03-02",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Sean Casey",
+        "Craig Evans",
+        "Thiago Groberg",
+        "Yang Song"
+      ],
+      "applicationDate": "2022-10-07",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.058662
+    },
+    {
+      "id": "US-20220052363-A1",
+      "title": [
+        "METHODS AND SYSTEM FOR A BATTERY"
+      ],
+      "abstract": "Systems and methods for operating a redox flow battery system may include switching the redox flow battery system to an idle mode, wherein the idle mode includes operation of the redox flow battery system outside of a charging mode and outside of a discharge mode; in response to switching to the idle mode, repeatedly cycling operation of an electrolyte pump between an idling threshold flow rate less than a charging threshold flow rate and a deactivation threshold flow rate; and in response to switching to the charging mode, maintaining operation of the electrolyte pump at the charging threshold flow rate greater than the idling threshold flow rate. In this way, a responsiveness of the redox flow battery system to charging and discharging commands can be maintained while in idle, while reducing parasitic pumping losses due to pumping and heating, and reducing shunt current losses.",
+      "publicationNumber": "US20220052363",
+      "publicationDate": "2022-02-17",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Yang Song",
+        "Evan Doremus"
+      ],
+      "applicationDate": "2021-11-02",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.058662
+    },
+    {
+      "id": "US-20210359326-A1",
+      "title": [
+        "REDOX FLOW BATTERY AND BATTERY SYSTEM"
+      ],
+      "abstract": "A redox flow battery and battery system are provided. In one example, the redox flow battery includes a set of pressure plates having a first pressure plate at a first terminal end and a second pressure plate at a second terminal end, the second terminal end and the first terminal end positioned on opposing longitudinal sides of the redox flow battery. The redox flow battery further includes a first cell stack positioned longitudinally between the first pressure plate and the second pressure plate, each of the first and second pressure plates includes a plurality stacking detents on a first flange and a plurality of stacking protrusions on a second flange, and the first flange and the second flange arranged on opposing vertical sides of the redox flow battery.",
+      "publicationNumber": "US20210359326",
+      "publicationDate": "2021-11-18",
+      "assignee": [
+        "ESS TECH, INC."
+      ],
+      "inventors": [
+        "Sean Casey",
+        "Craig Evans",
+        "Thiago Groberg",
+        "Yang Song"
+      ],
+      "applicationDate": "2021-05-05",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 11.058662
+    }
+  ]
+}

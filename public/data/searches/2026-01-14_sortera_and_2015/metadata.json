@@ -1,0 +1,11 @@
+{
+  "search_id": "search_20260114_121513",
+  "timestamp": "2026-01-14T12:15:13.091373",
+  "query_type": "ai_search",
+  "user_prompt": "PA=(Sortera) AND PD>2015",
+  "minesoft_query": "PA=(Sortera) AND PD>2015",
+  "results_count": 185,
+  "directory": "2026-01-14_sortera_and_2015",
+  "execution_time_ms": 2258.888006210327,
+  "api_endpoint": "query"
+}

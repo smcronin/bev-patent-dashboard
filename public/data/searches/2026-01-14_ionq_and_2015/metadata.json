@@ -1,0 +1,11 @@
+{
+  "search_id": "search_20260114_121359",
+  "timestamp": "2026-01-14T12:13:59.194582",
+  "query_type": "ai_search",
+  "user_prompt": "PA=(IonQ) AND PD>2015",
+  "minesoft_query": "PA=(IonQ) AND PD>2015",
+  "results_count": 647,
+  "directory": "2026-01-14_ionq_and_2015",
+  "execution_time_ms": 2371.3958263397217,
+  "api_endpoint": "query"
+}

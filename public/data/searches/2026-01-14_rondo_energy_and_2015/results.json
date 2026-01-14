@@ -1,0 +1,2850 @@
+{
+  "count": 179,
+  "numFound": 179,
+  "docs": [
+    {
+      "id": "WO-2025245498-A1",
+      "title": [
+        "THERMAL ENERGY STORAGE SYSTEM WITH HIGH EFFICIENCY HEATER CONTROL"
+      ],
+      "abstract": "A thermal energy storage (TES) system converts variable renewable electricity (VRE) to continuous heat at over 900\u00b0C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. The delivered heat which may be used for processes including power generation and cogeneration. The TES system is configured to include control system components that reduce thermal losses associated with component inefficiency.",
+      "publicationNumber": "WO2025245498",
+      "publicationDate": "2025-11-27",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "PETER EMERY VON BEHRENS",
+        "JOHN WHITNEY"
+      ],
+      "applicationDate": "2025-05-23",
+      "claimsCount": 18,
+      "independentClaimsCount": 6,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 14.931516
+    },
+    {
+      "id": "US-20250362093-A1",
+      "title": [
+        "THERMAL ENERGY STORAGE SYSTEM WITH HIGH EFFICIENCY HEATER CONTROL"
+      ],
+      "abstract": "A thermal energy storage (TES) system converts variable renewable electricity (VRE) to continuous heat at over 900\u00b0 C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. The delivered heat which may be used for processes including power generation and cogeneration. The TES system is configured to include control system components that reduce thermal losses associated with component inefficiency.",
+      "publicationNumber": "US20250362093",
+      "publicationDate": "2025-11-27",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "Peter Emery von Behrens",
+        "John Whitney"
+      ],
+      "applicationDate": "2025-05-23",
+      "claimsCount": 16,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 14.931516
+    },
+    {
+      "id": "WO-2025226989-A3",
+      "title": [
+        "THERMAL ENERGY STORAGE SYSTEM FOR SIMPLE AND COMBINED CYCLE POWER GENERATION"
+      ],
+      "abstract": "A thermal energy storage (TES) system converts variable renewable electricity (VRE) to continuous heat at over 900\u00b0C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. The delivered heat which may be used for processes including power generation and cogeneration. Configurations of simple cycle systems and combined cycle power plants using thermal energy storage units can provide even greater efficiency and responsiveness.",
+      "publicationNumber": "WO2025226989",
+      "publicationDate": "2025-12-04",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "JOHN SETEL O'DONNELL",
+        "Rahul TERDALKAR"
+      ],
+      "applicationDate": "2025-04-24",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 14.677007
+    },
+    {
+      "id": "WO-2025226989-A2",
+      "title": [
+        "THERMAL ENERGY STORAGE SYSTEM FOR SIMPLE AND COMBINED CYCLE POWER GENERATION"
+      ],
+      "abstract": "A thermal energy storage (TES) system converts variable renewable electricity (VRE) to continuous heat at over 900\u00b0C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. The delivered heat which may be used for processes including power generation and cogeneration. Configurations of simple cycle systems and combined cycle power plants using thermal energy storage units can provide even greater efficiency and responsiveness.",
+      "publicationNumber": "WO2025226989",
+      "publicationDate": "2025-10-30",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "JOHN SETEL O'DONNELL",
+        "Rahul TERDALKAR"
+      ],
+      "applicationDate": "2025-04-24",
+      "claimsCount": 44,
+      "independentClaimsCount": 6,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 14.677007
+    },
+    {
+      "id": "WO-2025081119-A3",
+      "title": [
+        "THERMAL ENERGY STORAGE SYSTEM WITH A HEAT PUMP"
+      ],
+      "abstract": "An energy storage system converts variable renewable electricity (VRE) to continuous heat. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. An array of bricks incorporating internal radiation cavities is directly heated by thermal radiation. The cavities facilitate rapid, uniform heating via reradiation. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. Gas flows through structured pathways within the array, delivering heat which may be used for processes including calcination, hydrogen electrolysis, steam generation, and thermal power generation and cogeneration. Low temperature waste heat from energy production can be recovered and used to improve overall system efficiency.",
+      "publicationNumber": "WO2025081119",
+      "publicationDate": "2025-05-30",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "JOHN SETEL O'DONNELL",
+        "Yusef Desjardins FERHANI"
+      ],
+      "applicationDate": "2024-10-11",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 14.677007
+    },
+    {
+      "id": "WO-2025081119-A2",
+      "title": [
+        "THERMAL ENERGY STORAGE SYSTEM WITH A HEAT PUMP FOR IMPROVED EFFICIENCY"
+      ],
+      "abstract": "An energy storage system converts variable renewable electricity (VRE) to continuous heat. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. An array of bricks incorporating internal radiation cavities is directly heated by thermal radiation. The cavities facilitate rapid, uniform heating via reradiation. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. Gas flows through structured pathways within the array, delivering heat which may be used for processes including calcination, hydrogen electrolysis, steam generation, and thermal power generation and cogeneration. Low temperature waste heat from energy production can be recovered and used to improve overall system efficiency.",
+      "publicationNumber": "WO2025081119",
+      "publicationDate": "2025-04-17",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "JOHN SETEL O'DONNELL",
+        "Yusef Desjardins FERHANI"
+      ],
+      "applicationDate": "2024-10-11",
+      "claimsCount": 100,
+      "independentClaimsCount": 12,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 14.677007
+    },
+    {
+      "id": "US-20250334350-A1",
+      "title": [
+        "THERMAL ENERGY STORAGE SYSTEM FOR SIMPLE AND COMBINED CYCLE POWER GENERATION"
+      ],
+      "abstract": "A thermal energy storage (TES) system converts variable renewable electricity (VRE) to continuous heat at over 900\u00b0 C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. The delivered heat which may be used for processes including power generation and cogeneration. Configurations of simple cycle systems and combined cycle power plants using thermal energy storage units can provide even greater efficiency and responsiveness.",
+      "publicationNumber": "US20250334350",
+      "publicationDate": "2025-10-30",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "John Setel O'Donnell",
+        "Rahul TERDALKAR"
+      ],
+      "applicationDate": "2025-04-24",
+      "claimsCount": 44,
+      "independentClaimsCount": 6,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 14.677007
+    },
+    {
+      "id": "US-20250146428-A1",
+      "title": [
+        "THERMAL ENERGY STORAGE SYSTEM WITH A HEAT PUMP FOR IMPROVED EFFICIENCY"
+      ],
+      "abstract": "An energy storage system converts variable renewable electricity (VRE) to continuous heat. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. An array of bricks incorporating internal radiation cavities is directly heated by thermal radiation. The cavities facilitate rapid, uniform heating via reradiation. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. Gas flows through structured pathways within the array, delivering heat which may be used for processes including calcination, hydrogen electrolysis, steam generation, and thermal power generation and cogeneration. Low temperature waste heat from energy production can be recovered and used to improve overall system efficiency.",
+      "publicationNumber": "US20250146428",
+      "publicationDate": "2025-05-08",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "John Setel O'Donnell",
+        "Yusef Desjardins Ferhani"
+      ],
+      "applicationDate": "2024-10-11",
+      "claimsCount": 100,
+      "independentClaimsCount": 12,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 14.677007
+    },
+    {
+      "id": "GR-2003277-Y",
+      "title": [
+        "THERMAL ENERGY STORAGE BLOCKS AND ASSOCIATED SUPPORT STRUCTURES"
+      ],
+      "abstract": "Thermal energy storage blocks are healed by electrical heating elements in order to store energy from an intermittent electrical energy source. The energy is stored in an efficient manner in the material from which the thermal energy storage blocks are formed. The thermal energy storage blocks have thermal radiation cavities to permit efficient radiative heating, and fluid flow slots, to permit efficient discharge of the energy stored in the blocks. Support structures, including support blocks and support slabs, for the thermal energy storage blocks provide physical support for assemblies of the thermal energy storage blocks, and provide thermal isolation of the thermal energy storage blocks from surrounding materials.",
+      "publicationNumber": "GR2003277",
+      "publicationDate": "2024-10-21",
+      "assignee": [
+        "RONDO ENERGY, INC,"
+      ],
+      "inventors": [
+        "PETER EMERY VON BEHRENS",
+        "Brayden BUTLER"
+      ],
+      "applicationDate": "2024-04-11",
+      "claimsCount": 26,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Solar energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 14.517195
+    },
+    {
+      "id": "CN-116105403-A",
+      "title": [
+        "\u4e00\u79cd\u6781\u8fd1\u96f6\u5ea6\u51fa\u6c34\u7684\u9632\u51bb\u578b\u84b8\u53d1\u5668\u53ca\u5176\u63a7\u5236\u65b9\u6cd5"
+      ],
+      "abstract": "\u672c\u53d1\u660e\u63d0\u4f9b\u4e86\u4e00\u79cd\u6781\u8fd1\u96f6\u5ea6\u51fa\u6c34\u7684\u9632\u51bb\u578b\u84b8\u53d1\u5668\u53ca\u5176\u63a7\u5236\u65b9\u6cd5\uff0c\u91c7\u7528\u4e0d\u9508\u94a2\u6216\u949b\u5408\u91d1\u7684\u6750\u8d28\u7684\u6362\u70ed\u7ba1\uff0c\u66f4\u52a0\u6297\u51b0\u6491\u3001\u6297\u6324\u538b\uff1b\u91c7\u7528\u5927\u7ba1\u95f4\u8ddd\u8bbe\u8ba1\uff0c\u6709\u6548\u907f\u514d\u51bb\u635f\u574f\u6362\u70ed\u7ba1\u9053\u7684\u98ce\u9669\uff1b\u6298\u6d41\u677f\u52a0\u652f\u6491\u677f\u4ea4\u53c9\u5bfc\u6d41\u65e0\u6d41\u52a8\u6b7b\u533a\u8bbe\u8ba1\u675c\u7edd\u6d41\u52a8\u6b7b\u533a\u7ed3\u51b0\u9690\u60a3\uff0c\u6298\u6d41\u677f\u8fb9\u7f18\u8bbe\u7f6e\u6321\u6c34\u80f6\u6761\uff0c\u51cf\u5c11\u65c1\u901a\u635f\u5931\uff0c\u63d0\u9ad8\u4f20\u70ed\u6548\u7387\uff1b\u6574\u4f53\u5f0f\u5236\u51b7\u5242\u5747\u6db2\u88c5\u7f6e\u786e\u4fdd\u5236\u51b7\u5242\u5206\u914d\u5747\u5300\uff0c\u63d0\u9ad8\u7efc\u5408\u4f20\u70ed\u6548\u7387\uff1b\u591a\u70b9\u6e29\u5ea6\u91c7\u96c6\u76d1\u63a7\u9632\u6b62\u5c40\u90e8\u7ed3\u51b0\uff1b\u901a\u8fc7\u7ec4\u5408\u76d1\u63a7\u65b9\u6cd5\uff08\u7aef\u5dee\u76d1\u63a7\u3001\u8fc7\u70ed\u5ea6\u53ca\u7aef\u5dee\u76d1\u63a7\u548c\u538b\u5dee\u76d1\u63a7\uff09\uff0c\u5e76\u4e14\u7ed3\u5408\u91c7\u7528\u8d85\u58f0\u6ce2\u5f3a\u5316\u4f20\u70ed\u5e76\u9632\u6b62\u7ed3\u51b0\u3001\u9664\u51b0\u63aa\u65bd\u53ca\u63a7\u5236\u65b9\u6cd5\uff0c\u4f7f\u6362\u70ed\u7ba1\u5b9e\u73b0\u9632\u7ed3\u51b0\u3001\u9632\u51bb\u574f\u3001\u5e76\u59cb\u7ec8\u7ef4\u6301\u8f83\u9ad8\u80fd\u6548\u8fd0\u884c\uff0c\u5927\u5927\u964d\u4f4e\u5236\u51b7\u7cfb\u7edf\u80fd\u8017\uff0c\u5e76\u4fdd\u8bc1\u53ef\u9760\u6027\u548c\u5b89\u5168\u6027\u3002",
+      "publicationNumber": "CN116105403",
+      "publicationDate": "2023-05-12",
+      "assignee": [
+        "NANJING RONDO ENERGY SAVING TECHNOLOGY Co.,Ltd."
+      ],
+      "inventors": [
+        "WANG XUEFENG",
+        "ZHAO PENG",
+        "XUE YU",
+        "ZHAO FENGRONG",
+        "ZHANG YUZHENG",
+        "ZHANG ZHONGZHENG",
+        "Ji dayuan"
+      ],
+      "applicationDate": "2021-11-09",
+      "claimsCount": 10,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Other consumer goods",
+        "Thermal processes and apparatus"
+      ],
+      "score": 13.361355
+    },
+    {
+      "id": "WO-2026011160-A1",
+      "title": [
+        "THERMAL ENERGY STORAGE SYSTEM USING A MECHANICAL APPARATUS FOR ELECTRIC POWER MODULATION"
+      ],
+      "abstract": "A thermal energy storage (TES) system converts variable renewable electricity (VRE) to continuous heat at over 900\u00b0C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. The delivered heat which may be used for processes including power generation and cogeneration. The TES system is configured to use a mechanical apparatus to modulate electric power of the heaters.",
+      "publicationNumber": "WO2026011160",
+      "publicationDate": "2026-01-08",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "PETER EMERY VON BEHRENS"
+      ],
+      "applicationDate": "2025-07-03",
+      "claimsCount": 17,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 13.323609
+    },
+    {
+      "id": "US-20260009594-A1",
+      "title": [
+        "THERMAL ENERGY STORAGE SYSTEM USING A MECHANICAL APPARATUS FOR ELECTRIC POWER MODULATION"
+      ],
+      "abstract": "A thermal energy storage (TES) system converts variable renewable electricity (VRE) to continuous heat at over 900\u00b0 C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. The delivered heat which may be used for processes including power generation and cogeneration. The TES system is configured to use a mechanical apparatus to modulate electric power of the heaters.",
+      "publicationNumber": "US20260009594",
+      "publicationDate": "2026-01-08",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "Peter Emery von Behrens"
+      ],
+      "applicationDate": "2025-07-03",
+      "claimsCount": 17,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Solar energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 13.323609
+    },
+    {
+      "id": "CN-117109356-A",
+      "title": [
+        "\u4e00\u79cd\u5e94\u7528\u4e8e\u6362\u70ed\u5668\u7684\u9632\u57a2\u88c5\u7f6e\u53ca\u5176\u63a7\u5236\u65b9\u6cd5"
+      ],
+      "abstract": "\u672c\u53d1\u660e\u516c\u5f00\u4e86\u4e00\u79cd\u5e94\u7528\u4e8e\u6362\u70ed\u5668\u7684\u9632\u57a2\u88c5\u7f6e\u53ca\u5176\u63a7\u5236\u65b9\u6cd5\uff0c\u5305\u62ec\u8bbe\u6709\u8fdb\u6c34\u53e3\u548c\u53d1\u7403\u53e3\u7684\u8fdb\u6c34\u7ba1\u3001\u8bbe\u6709\u8fdb\u7403\u53e3\u548c\u51fa\u6c34\u53e3\u7684\u51fa\u6c34\u7ba1\u4ee5\u53ca\u8bbe\u6709\u4e0a\u8154\u53ca\u4e0b\u8154\u7684\u6536\u53d1\u7403\u88c5\u7f6e\uff0c\u4e0a\u8154\u4e0a\u5206\u522b\u5f00\u8bbe\u6709\u4e0e\u8fdb\u7403\u53e3\u548c\u51fa\u6c34\u53e3\u76f8\u5bf9\u5e94\u7684\u6536\u7403\u53e3\u548c\u56de\u6c34\u53e3\uff0c\u4e0b\u8154\u4e0a\u5206\u522b\u5f00\u8bbe\u6709\u4e0e\u8fdb\u6c34\u53e3\u548c\u53d1\u7403\u53e3\u76f8\u5bf9\u5e94\u7684\u8fdb\u6c34\u5b54\u548c\u53d1\u7403\u5b54\uff0c\u8fdb\u6c34\u53e3\u4e0e\u8fdb\u6c34\u5b54\u4e4b\u95f4\u3001\u53d1\u7403\u53e3\u548c\u53d1\u7403\u5b54\u4e4b\u95f4\u3001\u8fdb\u7403\u53e3\u548c\u6536\u7403\u53e3\u4e4b\u95f4\u3001\u51fa\u6c34\u53e3\u548c\u56de\u6c34\u53e3\u4e4b\u95f4\u5747\u901a\u8fc7\u6298\u6d41\u578b\u7ba1\u9053\u76f8\u8fde\u901a\uff0c\u8fdb\u6c34\u7ba1\u4e0a\u8bbe\u6709\u5f27\u5f62\u589e\u538b\u677f\u3002\u672c\u53d1\u660e\u7684\u88c5\u7f6e\u901a\u8fc7\u72ec\u7acb\u7684\u6298\u6d41\u578b\u7ba1\u9053\u5e76\u914d\u5408\u8bbe\u7f6e\u7403\u9600\uff0c\u4e0d\u4ec5\u53ef\u4ee5\u5b9e\u73b0\u6536\u3001\u53d1\u7403\u72ec\u7acb\u8fdb\u884c\uff0c\u4e14\u53ef\u5b9e\u73b0\u6536\u53d1\u7403\u7684\u540c\u65f6\u8fdb\u884c\uff0c\u4e0d\u95f4\u65ad\u8fdb\u884c\u5faa\u73af\u6e05\u7406\uff0c\u4e14\u91c7\u7528\u6298\u6d41\u578b\u7ba1\u9053\u548c\u5f27\u5f62\u589e\u538b\u677f\uff0c\u80fd\u591f\u5728\u6c34\u6d41\u8f83\u4f4e\u65f6\u540c\u6837\u5b9e\u73b0\u6536\u3001\u653e\u7403\u52a8\u4f5c\u3002",
+      "publicationNumber": "CN117109356",
+      "publicationDate": "2023-11-24",
+      "assignee": [
+        "NANJING RONDO ENERGY SAVING TECHNOLOGY Co.,Ltd."
+      ],
+      "inventors": [
+        "WANG XUEFENG",
+        "ZHAO FENGRONG",
+        "DU ERYAN",
+        "SHAN YAHUI",
+        "WANG XINGQIN",
+        "ZHOU WEN",
+        "ZHANG ZHAOJUN"
+      ],
+      "applicationDate": "2023-10-16",
+      "claimsCount": 10,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Thermal processes and apparatus"
+      ],
+      "score": 13.269207
+    },
+    {
+      "id": "US-12480719-B2",
+      "title": [
+        "Thermal energy storage system for simple and combined cycle power generation"
+      ],
+      "abstract": "A thermal energy storage (TES) system converts variable renewable electricity (VRE) to continuous heat at over 900\u00b0 C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. The delivered heat which may be used for processes including power generation and cogeneration. Configurations of simple cycle systems and combined cycle power plants using thermal energy storage units can provide even greater efficiency and responsiveness.",
+      "publicationNumber": "US12480719",
+      "publicationDate": "2025-11-25",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "John Setel O'Donnell",
+        "Rahul TERDALKAR",
+        "Yusef Desjardins Ferhani",
+        "Colin Riley"
+      ],
+      "applicationDate": "2025-04-24",
+      "claimsCount": 44,
+      "independentClaimsCount": 6,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 13.192083
+    },
+    {
+      "id": "WO-2024215951-A1",
+      "title": [
+        "THERMAL ENERGY STORAGE BLOCKS AND ASSOCIATED SUPPORT STRUCTURES"
+      ],
+      "abstract": "Thermal energy storage blocks are heated by electrical heating elements in order to store energy from an intermittent electrical energy source. The energy is stored in an efficient manner in the material from which the thermal energy storage blocks are formed. The thermal energy storage blocks have thermal radiation cavities to permit efficient radiative heating, and fluid flow slots, to permit efficient discharge of the energy stored in the blocks. Support structures, including support blocks and support slabs, for the thermal energy storage blocks provide physical support for assemblies of the thermal energy storage blocks, and provide thermal isolation of the thermal energy storage blocks from surrounding materials.",
+      "publicationNumber": "WO2024215951",
+      "publicationDate": "2024-10-17",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "PETER EMERY VON BEHRENS",
+        "Brayden BUTLER"
+      ],
+      "applicationDate": "2024-04-11",
+      "claimsCount": 33,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Thermal processes and apparatus"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "WO-2024215949-A9",
+      "title": [
+        "THERMAL ENERGY STORAGE SYSTEMS WITH IMPROVED SEISMIC STABILITY"
+      ],
+      "abstract": "A thermal energy storage (TES) system converts variable renewable electricity (VRE) to continuous heat at over 900\u00b0C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. The delivered heat which may be used for processes including power generation and cogeneration. The thermal storage medium may constitute refractory material such as brick or concrete configured with radiation cavities and fluid flow channels to provide for rapid radiative charging from VRE and long-term convective discharging. Configurations of the thermal storage medium enable a substantially horizontal thermocline and heat delivery arrangement, which provides seismic stability and facilitates significant expandability of the TES system primarily by increasing the length of the system without adding undue height, contributing to both stability and efficiency of the heat delivery structure.",
+      "publicationNumber": "WO2024215949",
+      "publicationDate": "2024-12-26",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "PETER EMERY VON BEHRENS",
+        "Drew WEIBEL",
+        "Brayden BUTLER",
+        "Hayden BURVILL",
+        "JOHN WHITNEY",
+        "Eldana NIYETBEK"
+      ],
+      "applicationDate": "2024-04-11",
+      "claimsCount": 119,
+      "independentClaimsCount": 19,
+      "technologyFields": [
+        "Thermal processes and apparatus"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "WO-2024215949-A3",
+      "title": [
+        "THERMAL ENERGY STORAGE SYSTEMS WITH IMPROVED SEISMIC STABILITY"
+      ],
+      "abstract": "A thermal energy storage (TES) system converts variable renewable electricity (VRE) to continuous heat at over 900\u00b0C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. The delivered heat which may be used for processes including power generation and cogeneration. The thermal storage medium may constitute refractory material such as brick or concrete configured with radiation cavities and fluid flow channels to provide for rapid radiative charging from VRE and long-term convective discharging. Configurations of the thermal storage medium enable a substantially horizontal thermocline and heat delivery arrangement, which provides seismic stability and facilitates significant expandability of the TES system primarily by increasing the length of the system without adding undue height, contributing to both stability and efficiency of the heat delivery structure.",
+      "publicationNumber": "WO2024215949",
+      "publicationDate": "2025-01-30",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "PETER EMERY VON BEHRENS",
+        "Drew WEIBEL",
+        "Brayden BUTLER",
+        "Hayden BURVILL",
+        "JOHN WHITNEY",
+        "Eldana NIYETBEK"
+      ],
+      "applicationDate": "2024-04-11",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Thermal processes and apparatus"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "WO-2024215949-A2",
+      "title": [
+        "THERMAL ENERGY STORAGE SYSTEMS WITH IMPROVED SEISMIC STABILITY"
+      ],
+      "abstract": "A thermal energy storage (TES) system converts variable renewable electricity (VRE) to continuous heat at over 900\u00b0C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. The delivered heat which may be used for processes including power generation and cogeneration. The thermal storage medium may constitute refractory material such as brick or concrete configured with radiation cavities and fluid flow channels to provide for rapid radiative charging from VRE and long-term convective discharging. Configurations of the thermal storage medium enable a substantially horizontal thermocline and heat delivery arrangement, which provides seismic stability and facilitates significant expandability of the TES system primarily by increasing the length of the system without adding undue height, contributing to both stability and efficiency of the heat delivery structure.",
+      "publicationNumber": "WO2024215949",
+      "publicationDate": "2024-10-17",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "PETER EMERY VON BEHRENS",
+        "Drew WEIBEL",
+        "Brayden BUTLER",
+        "Hayden BURVILL",
+        "JOHN WHITNEY",
+        "Eldana NIYETBEK"
+      ],
+      "applicationDate": "2024-04-11",
+      "claimsCount": 119,
+      "independentClaimsCount": 19,
+      "technologyFields": [
+        "Thermal processes and apparatus"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "WO-2024138195-A1",
+      "title": [
+        "THERMAL ENERGY STORAGE SYSTEMS FOR USE IN MATERIAL PROCESSING"
+      ],
+      "abstract": "An energy storage system (TES) converts variable renewable electricity (VRE) to continuous heat at over 900\u00b0C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. The delivered heat which may be used for processes including power generation and cogeneration. In one application, thermal energy storage systems are used to improve efficiency and reduce carbon emissions associated with processing materials or other industrial applications.",
+      "publicationNumber": "WO2024138195",
+      "publicationDate": "2024-06-27",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "JOHN SETEL O'DONNELL",
+        "Yusef Desjardins FERHANI"
+      ],
+      "applicationDate": "2023-12-22",
+      "claimsCount": 25,
+      "independentClaimsCount": 9,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "WO-2024076648-A1",
+      "title": [
+        "SYSTEM FOR VOLTAGE-CONTROLLED POWER GRID REGULATION BASED UPON INPUT VARIABLE ENERGY SOURCES"
+      ],
+      "abstract": "An energy storage system (TES) converts variable renewable electricity (VRE) to continuous heat at over 1000\u00b0C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. The delivered heat which may be used for processes including power generation and cogeneration. In one application, the energy storage system is engaged to a power grid by one or more load circuits, and renewable energy sources supply power to the power grid through the use of novel inverters to match the load that is provided to the power grid.",
+      "publicationNumber": "WO2024076648",
+      "publicationDate": "2024-04-11",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "ROBERT RATZ",
+        "JOHN SETEL O'DONNELL"
+      ],
+      "applicationDate": "2023-10-04",
+      "claimsCount": 50,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "WO-2022115721-A3",
+      "title": [
+        "ENERGY STORAGE SYSTEM AND APPLICATIONS"
+      ],
+      "abstract": "An energy storage system converts variable renewable electricity (VRE) to continuous heat at over 1000\u00b0C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. An array of bricks incorporating internal radiation cavities is directly heated by thermal radiation. The cavities facilitate rapid, uniform heating via reradiation. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. Gas flows through structured pathways within the array, delivering heat which may be used for processes including calcination, hydrogen electrolysis, steam generation, and thermal power generation and cogeneration. Groups of thermal storage arrays may be controlled and operated at high temperatures without thermal runaway via deep-discharge sequencing. Forecast-based control enables continuous, year-round heat supply using current and advance information of weather and VRE availability. High-voltage DC power conversion and distribution circuitry improves the efficiency of VRE power transfer into the system.",
+      "publicationNumber": "WO2022115721",
+      "publicationDate": "2022-11-10",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "JOHN SETEL O'DONNELL",
+        "PETER EMERY VON BEHRENS",
+        "CHIAKI TREYNOR",
+        "Jeremy Quentin KELLER",
+        "MATTHIEU JONEMANN",
+        "ROBERT RATZ",
+        "Yusef Desjardins FERHANI"
+      ],
+      "applicationDate": "2021-11-29",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Control",
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Environmental technology",
+        "Solar energy",
+        "Surface technology, coating",
+        "Thermal processes and apparatus",
+        "Transport",
+        "Wind energy technology"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "WO-2022115721-A2",
+      "title": [
+        "ENERGY STORAGE SYSTEM AND APPLICATIONS"
+      ],
+      "abstract": "An energy storage system converts variable renewable electricity (VRE) to continuous heat at over 1000\u00b0C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. An array of bricks incorporating internal radiation cavities is directly heated by thermal radiation. The cavities facilitate rapid, uniform heating via reradiation. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. Gas flows through structured pathways within the array, delivering heat which may be used for processes including calcination, hydrogen electrolysis, steam generation, and thermal power generation and cogeneration. Groups of thermal storage arrays may be controlled and operated at high temperatures without thermal runaway via deep-discharge sequencing. Forecast-based control enables continuous, year-round heat supply using current and advance information of weather and VRE availability. High-voltage DC power conversion and distribution circuitry improves the efficiency of VRE power transfer into the system.",
+      "publicationNumber": "WO2022115721",
+      "publicationDate": "2022-06-02",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "JOHN SETEL O'DONNELL",
+        "PETER EMERY VON BEHRENS",
+        "CHIAKI TREYNOR",
+        "Jeremy Quentin KELLER",
+        "MATTHIEU JONEMANN",
+        "ROBERT RATZ",
+        "Yusef Desjardins FERHANI"
+      ],
+      "applicationDate": "2021-11-29",
+      "claimsCount": 643,
+      "independentClaimsCount": 63,
+      "technologyFields": [
+        "Thermal processes and apparatus"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "US-20250382898-A1",
+      "title": [
+        "THERMAL ENERGY STORAGE SYSTEM WITH STEAM GENERATION SYSTEM INCLUDING FLOW CONTROL AND ENERGY COGENERATION"
+      ],
+      "abstract": "An energy storage system converts variable renewable electricity (VRE) to continuous heat at over 1000\u00b0 C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. An array of bricks incorporating internal radiation cavities is directly heated by thermal radiation. The cavities facilitate rapid, uniform heating via reradiation. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. Gas flows through structured pathways within the array, delivering heat which may be used for processes including calcination, hydrogen electrolysis, steam generation, and thermal power generation and cogeneration. Groups of thermal storage arrays may be controlled and operated at high temperatures without thermal runaway via deep-discharge sequencing. Forecast-based control enables continuous, year-round heat supply using current and advance information of weather and VRE availability. High-voltage DC power conversion and distribution circuitry improves the efficiency of VRE power transfer into the system.",
+      "publicationNumber": "US20250382898",
+      "publicationDate": "2025-12-18",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "John Setel O'Donnell",
+        "Peter Emery von Behrens",
+        "Chiaki Treynor",
+        "Matthieu JONEMANN",
+        "Yusef Desjardins Ferhani"
+      ],
+      "applicationDate": "2025-06-16",
+      "claimsCount": 28,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus",
+        "Transport",
+        "Wind energy technology"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "US-20250188852-A1",
+      "title": [
+        "ENERGY STORAGE SYSTEM AND ALUMINA CALCINATION APPLICATIONS"
+      ],
+      "abstract": "An energy storage system (TES) converts variable renewable electricity (VRE) to continuous heat at over 1000\u00b0 C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. The delivered heat which may be used for processes including power generation and cogeneration. In one application, the TES provides higher-temperature heat through non-combustible fluid to an alumina calcination system used to remove impurities or volatile substances and/or to incur thermal decomposition to a desired product.",
+      "publicationNumber": "US20250188852",
+      "publicationDate": "2025-06-12",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "John Setel O'Donnell",
+        "Yusef Desjardins Ferhani",
+        "Peter Emery von Behrens",
+        "Robert Ratz"
+      ],
+      "applicationDate": "2024-10-16",
+      "claimsCount": 15,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus",
+        "Transport",
+        "Wind energy technology"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "US-20250179942-A1",
+      "title": [
+        "Thermal Energy Storage System with Radiation Cavities"
+      ],
+      "abstract": "An apparatus includes one or more thermal storage blocks that define a radiation chamber and a fluid flow slot positioned above the radiation chamber to define a fluid pathway in a first direction. The apparatus includes a heater element positioned adjacent to the radiation chamber in a second, different direction, wherein the radiation chamber is open on at least one side to the heater element. The apparatus includes a fluid movement system configured to direct a stream of fluid through the fluid pathway in the first direction.",
+      "publicationNumber": "US20250179942",
+      "publicationDate": "2025-06-05",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "John Setel O'Donnell",
+        "Peter Emery von Behrens",
+        "Chiaki Treynor",
+        "Matthieu JONEMANN",
+        "Robert Ratz"
+      ],
+      "applicationDate": "2024-11-14",
+      "claimsCount": 58,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus",
+        "Transport",
+        "Wind energy technology"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "US-20250179941-A1",
+      "title": [
+        "Thermal Energy Storage with Fluid Flow Insulation"
+      ],
+      "abstract": "A thermal energy storage system with fluid flow insulation, the system including heated thermal storage blocks positioned within a housing, and a method for operating the thermal energy storage system, including providing a flow of fluid into the housing, the fluid convectively extracting heat from a top region, a side region and a bottom region of the thermal energy storage system, to generate heated fluid that insulates the thermal storage blocks from the housing and a foundation of the thermal energy storage system.",
+      "publicationNumber": "US20250179941",
+      "publicationDate": "2025-06-05",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "John Setel O'Donnell",
+        "Peter Emery von Behrens",
+        "Matthieu JONEMANN",
+        "Robert Ratz"
+      ],
+      "applicationDate": "2024-11-08",
+      "claimsCount": 27,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus",
+        "Transport",
+        "Wind energy technology"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "US-20250179940-A1",
+      "title": [
+        "ENERGY STORAGE SYSTEM AND ALUMINA CALCINATION APPLICATIONS"
+      ],
+      "abstract": "An energy storage system (TES) converts variable renewable electricity (VRE) to continuous heat at over 1000\u00b0 C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. The delivered heat which may be used for processes including power generation and cogeneration. In one application, the TES provides higher-temperature heat through non-combustible fluid to an alumina calcination system used to remove impurities or volatile substances and/or to incur thermal decomposition to a desired product.",
+      "publicationNumber": "US20250179940",
+      "publicationDate": "2025-06-05",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "John Setel O'Donnell",
+        "Peter Emery von Behrens",
+        "Robert Ratz",
+        "Yusef Desjardins Ferhani"
+      ],
+      "applicationDate": "2024-10-10",
+      "claimsCount": 40,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus",
+        "Transport",
+        "Wind energy technology"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "US-20250163831-A1",
+      "title": [
+        "THERMAL ENERGY STORAGE SYSTEM COUPLED WITH STEAM CRACKING SYSTEM"
+      ],
+      "abstract": "An energy storage system (TES) converts variable renewable electricity (VRE) to continuous heat at over 1000\u00b0 C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. The delivered heat which may be used for processes including power generation and cogeneration. In one application, the energy storage system provides higher-temperature heat to a steam cracking furnace system for converting a hydrocarbon feedstock into cracked gas, thereby increasing the efficiency of the temperature control.",
+      "publicationNumber": "US20250163831",
+      "publicationDate": "2025-05-22",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "John Setel O'Donnell",
+        "Yusef Desjardins Ferhani",
+        "Peter Emery von Behrens",
+        "Chiaki Treynor",
+        "Matthieu JONEMANN",
+        "Robert Ratz"
+      ],
+      "applicationDate": "2025-01-16",
+      "claimsCount": 15,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus",
+        "Transport",
+        "Wind energy technology"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "US-20250163830-A1",
+      "title": [
+        "Thermal Energy Storage System with Deep Discharge"
+      ],
+      "abstract": "An energy storage system converts variable renewable electricity (VRE) to continuous heat at over 1000\u00b0 C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. An array of bricks incorporating internal radiation cavities is directly heated by thermal radiation. The cavities facilitate rapid, uniform heating via reradiation. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. Gas flows through structured pathways within the array, delivering heat which may be used for processes including calcination, hydrogen electrolysis, steam generation, and thermal power generation and cogeneration. Groups of thermal storage arrays may be controlled and operated at high temperatures without thermal runaway via deep-discharge sequencing. Forecast-based control enables continuous, year-round heat supply using current and advance information of weather and VRE availability. High-voltage DC power conversion and distribution circuitry improves the efficiency of VRE power transfer into the system.",
+      "publicationNumber": "US20250163830",
+      "publicationDate": "2025-05-22",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "John Setel O'Donnell",
+        "Peter Emery von Behrens",
+        "Chiaki Treynor",
+        "Matthieu JONEMANN",
+        "Robert Ratz"
+      ],
+      "applicationDate": "2025-01-15",
+      "claimsCount": 10,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus",
+        "Transport",
+        "Wind energy technology"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "US-20250154882-A1",
+      "title": [
+        "Thermal Energy Storage System with Deep Discharge"
+      ],
+      "abstract": "An energy storage system converts variable renewable electricity (VRE) to continuous heat at over 1000\u00b0 C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. An array of bricks incorporating internal radiation cavities is directly heated by thermal radiation. The cavities facilitate rapid, uniform heating via reradiation. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. Gas flows through structured pathways within the array, delivering heat which may be used for processes including calcination, hydrogen electrolysis, steam generation, and thermal power generation and cogeneration. Groups of thermal storage arrays may be controlled and operated at high temperatures without thermal runaway via deep-discharge sequencing. Forecast-based control enables continuous, year-round heat supply using current and advance information of weather and VRE availability. High-voltage DC power conversion and distribution circuitry improves the efficiency of VRE power transfer into the system.",
+      "publicationNumber": "US20250154882",
+      "publicationDate": "2025-05-15",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "John Setel O'Donnell",
+        "Peter Emery von Behrens",
+        "Chiaki Treynor",
+        "Matthieu JONEMANN",
+        "Robert Ratz"
+      ],
+      "applicationDate": "2025-01-15",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus",
+        "Transport",
+        "Wind energy technology"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "US-20250092803-A1",
+      "title": [
+        "THERMAL ENERGY STORAGE SYSTEMS FOR USE IN MATERIAL PROCESSING"
+      ],
+      "abstract": "An energy storage system (TES) converts variable renewable electricity (VRE) to continuous heat at over 900\u00b0 C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. The delivered heat which may be used for processes including power generation and cogeneration. In one application, thermal energy storage systems are used to improve efficiency and reduce carbon emissions associated with processing materials or other industrial applications.",
+      "publicationNumber": "US20250092803",
+      "publicationDate": "2025-03-20",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "John Setel O'Donnell",
+        "Yusef Desjardins Ferhani",
+        "Peter Emery von Behrens",
+        "Chiaki Treynor",
+        "Matthieu JONEMANN"
+      ],
+      "applicationDate": "2024-12-03",
+      "claimsCount": 8,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus",
+        "Transport",
+        "Wind energy technology"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "US-20250092802-A1",
+      "title": [
+        "THERMAL ENERGY STORAGE SYSTEMS FOR USE IN MATERIAL PROCESSING"
+      ],
+      "abstract": "An energy storage system (TES) converts variable renewable electricity (VRE) to continuous heat at over 900\u00b0 C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. The delivered heat which may be used for processes including power generation and cogeneration. In one application, thermal energy storage systems are used to improve efficiency and reduce carbon emissions associated with processing materials or other industrial applications.",
+      "publicationNumber": "US20250092802",
+      "publicationDate": "2025-03-20",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "John Setel O'Donnell",
+        "Yusef Desjardins Ferhani",
+        "Peter Emery von Behrens",
+        "Chiaki Treynor",
+        "Matthieu JONEMANN"
+      ],
+      "applicationDate": "2024-12-03",
+      "claimsCount": 47,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus",
+        "Transport",
+        "Wind energy technology"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "US-20250092801-A1",
+      "title": [
+        "THERMAL ENERGY STORAGE SYSTEMS FOR USE IN MATERIAL PROCESSING"
+      ],
+      "abstract": "An energy storage system (TES) converts variable renewable electricity (VRE) to continuous heat at over 900\u00b0 C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. The delivered heat which may be used for processes including power generation and cogeneration. In one application, thermal energy storage systems are used to improve efficiency and reduce carbon emissions associated with processing materials or other industrial applications.",
+      "publicationNumber": "US20250092801",
+      "publicationDate": "2025-03-20",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "John Setel O'Donnell",
+        "Yusef Desjardins Ferhani",
+        "Peter Emery von Behrens",
+        "Chiaki Treynor",
+        "Matthieu JONEMANN"
+      ],
+      "applicationDate": "2024-12-03",
+      "claimsCount": 13,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus",
+        "Transport",
+        "Wind energy technology"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "US-20250092800-A1",
+      "title": [
+        "THERMAL ENERGY STORAGE SYSTEMS FOR USE IN MATERIAL PROCESSING"
+      ],
+      "abstract": "An energy storage system (TES) converts variable renewable electricity (VRE) to continuous heat at over 900\u00b0 C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. The delivered heat which may be used for processes including power generation and cogeneration. In one application, thermal energy storage systems are used to improve efficiency and reduce carbon emissions associated with processing materials or other industrial applications.",
+      "publicationNumber": "US20250092800",
+      "publicationDate": "2025-03-20",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "John Setel O'Donnell",
+        "Yusef Desjardins Ferhani",
+        "Peter Emery von Behrens",
+        "Chiaki Treynor",
+        "Matthieu JONEMANN"
+      ],
+      "applicationDate": "2024-12-03",
+      "claimsCount": 18,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus",
+        "Transport",
+        "Wind energy technology"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "US-20250052174-A1",
+      "title": [
+        "Methods For Material Activation With Thermal Energy Storage System"
+      ],
+      "abstract": "An energy storage system converts variable renewable electricity (VRE) to continuous heat at over 1000\u00b0 C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. An array of bricks incorporating internal radiation cavities is directly heated by thermal radiation. The cavities facilitate rapid, uniform heating via reradiation. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. Gas flows through structured pathways within the array, delivering heat which may be used for processes including calcination, hydrogen electrolysis, steam generation, and thermal power generation and cogeneration. Groups of thermal storage arrays may be controlled and operated at high temperatures without thermal runaway via deep-discharge sequencing. Forecast-based control enables continuous, year-round heat supply using current and advance information of weather and VRE availability. High-voltage DC power conversion and distribution circuitry improves the efficiency of VRE power transfer into the system.",
+      "publicationNumber": "US20250052174",
+      "publicationDate": "2025-02-13",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "John Setel O'Donnell",
+        "Peter Emery von Behrens",
+        "Matthieu JONEMANN",
+        "Yusef Desjardins Ferhani"
+      ],
+      "applicationDate": "2024-10-29",
+      "claimsCount": 22,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus",
+        "Transport",
+        "Wind energy technology"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "US-20240344776-A1",
+      "title": [
+        "THERMAL ENERGY STORAGE SYSTEMS WITH IMPROVED SEISMIC STABILITY"
+      ],
+      "abstract": "A thermal energy storage (TES) system converts variable renewable electricity (VRE) to continuous heat at over 900\u00b0 C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. The delivered heat which may be used for processes including power generation and cogeneration. The thermal storage medium may constitute refractory material such as brick or concrete configured with radiation cavities and fluid flow channels to provide for rapid radiative charging from VRE and long-term convective discharging. Configurations of the thermal storage medium enable a substantially horizontal thermocline and heat delivery arrangement, which provides seismic stability and facilitates significant expandability of the TES system primarily by increasing the length of the system without adding undue height, contributing to both stability and efficiency of the heat delivery structure.",
+      "publicationNumber": "US20240344776",
+      "publicationDate": "2024-10-17",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "Peter Emery von Behrens",
+        "Brayden BUTLER",
+        "Drew Weibel",
+        "Hayden BURVILL",
+        "John Whitney",
+        "Eldana NIYETBEK"
+      ],
+      "applicationDate": "2024-04-11",
+      "claimsCount": 120,
+      "independentClaimsCount": 18,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "US-20240287919-A1",
+      "title": [
+        "THERMAL ENERGY STORAGE SYSTEM COUPLED WITH THERMAL POWER CYCLE SYSTEMS"
+      ],
+      "abstract": "An energy storage system converts variable renewable electricity (VRE) to continuous heat at over 1000\u00b0 C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. The delivered heat which may be used for processes including power generation and cogeneration. In one application, the energy storage system provides higher-temperature heat to a conventional lower-temperature heat source to boost the temperature of a thermal power cycle working fluid to a turbine, thereby increasing efficiency of the power cycle.",
+      "publicationNumber": "US20240287919",
+      "publicationDate": "2024-08-29",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "John Setel O'Donnell",
+        "Yusef Desjardins Ferhani"
+      ],
+      "applicationDate": "2024-05-06",
+      "claimsCount": 13,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus",
+        "Transport",
+        "Wind energy technology"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "US-20240254897-A1",
+      "title": [
+        "THERMAL ENERGY STORAGE SYSTEM WITH STEAM GENERATION SYSTEM INCLUDING FLOW CONTROL AND ENERGY COGENERATION"
+      ],
+      "abstract": "An energy storage system converts variable renewable electricity (VRE) to continuous heat at over 1000\u00b0 C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. An array of bricks incorporating internal radiation cavities is directly heated by thermal radiation. The cavities facilitate rapid, uniform heating via reradiation. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. Gas flows through structured pathways within the array, delivering heat which may be used for processes including calcination, hydrogen electrolysis, steam generation, and thermal power generation and cogeneration. Groups of thermal storage arrays may be controlled and operated at high temperatures without thermal runaway via deep-discharge sequencing. Forecast-based control enables continuous, year-round heat supply using current and advance information of weather and VRE availability. High-voltage DC power conversion and distribution circuitry improves the efficiency of VRE power transfer into the system.",
+      "publicationNumber": "US20240254897",
+      "publicationDate": "2024-08-01",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "John Setel O'Donnell",
+        "Peter Emery von Behrens",
+        "Chiaki Treynor",
+        "Jeremy Quentin Keller",
+        "Matthieu JONEMANN",
+        "Robert Ratz",
+        "Yusef Desjardins Ferhani"
+      ],
+      "applicationDate": "2024-03-04",
+      "claimsCount": 45,
+      "independentClaimsCount": 7,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus",
+        "Transport",
+        "Wind energy technology"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "US-20240247597-A1",
+      "title": [
+        "THERMAL ENERGY STORAGE SYSTEM COUPLED WITH STEAM CRACKING SYSTEM"
+      ],
+      "abstract": "An energy storage system (TES) converts variable renewable electricity (VRE) to continuous heat at over 1000\u00b0 C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. The delivered heat which may be used for processes including power generation and cogeneration. In one application, the energy storage system provides higher-temperature heat to a steam cracking furnace system for converting a hydrocarbon feedstock into cracked gas, thereby increasing the efficiency of the temperature control.",
+      "publicationNumber": "US20240247597",
+      "publicationDate": "2024-07-25",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "John Setel O'Donnell",
+        "Yusef Desjardins Ferhani"
+      ],
+      "applicationDate": "2024-02-26",
+      "claimsCount": 26,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus",
+        "Transport",
+        "Wind energy technology"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "US-20240247596-A1",
+      "title": [
+        "ENERGY STORAGE SYSTEM AND ALUMINA CALCINATION APPLICATIONS"
+      ],
+      "abstract": "An energy storage system (TES) converts variable renewable electricity (VRE) to continuous heat at over 1000\u00b0 C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. The delivered heat which may be used for processes including power generation and cogeneration. In one application, the TES provides higher-temperature heat through non-combustible fluid to an alumina calcination system used to remove impurities or volatile substances and/or to incur thermal decomposition to a desired product.",
+      "publicationNumber": "US20240247596",
+      "publicationDate": "2024-07-25",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "John Setel O'Donnell",
+        "Yusef Desjardins Ferhani"
+      ],
+      "applicationDate": "2024-02-26",
+      "claimsCount": 18,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus",
+        "Transport",
+        "Wind energy technology"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "US-20240229682-A1",
+      "title": [
+        "Methods For Material Activation With Thermal Energy Storage System"
+      ],
+      "abstract": "An energy storage system converts variable renewable electricity (VRE) to continuous heat at over 1000\u00b0 C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. An array of bricks incorporating internal radiation cavities is directly heated by thermal radiation. The cavities facilitate rapid, uniform heating via reradiation. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. Gas flows through structured pathways within the array, delivering heat which may be used for processes including calcination, hydrogen electrolysis, steam generation, and thermal power generation and cogeneration. Groups of thermal storage arrays may be controlled and operated at high temperatures without thermal runaway via deep-discharge sequencing. Forecast-based control enables continuous, year-round heat supply using current and advance information of weather and VRE availability. High-voltage DC power conversion and distribution circuitry improves the efficiency of VRE power transfer into the system.",
+      "publicationNumber": "US20240229682",
+      "publicationDate": "2024-07-11",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "John Setel O'Donnell",
+        "Peter Emery von Behrens",
+        "Chiaki Treynor",
+        "Jeremy Quentin Keller",
+        "Matthieu JONEMANN",
+        "Robert Ratz",
+        "Yusef Desjardins Ferhani"
+      ],
+      "applicationDate": "2024-01-04",
+      "claimsCount": 43,
+      "independentClaimsCount": 8,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus",
+        "Transport",
+        "Wind energy technology"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "US-20240229681-A1",
+      "title": [
+        "Calcination System With Thermal Energy Storage System"
+      ],
+      "abstract": "An energy storage system converts variable renewable electricity (VRE) to continuous heat at over 1000\u00b0 C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. An array of bricks incorporating internal radiation cavities is directly heated by thermal radiation. The cavities facilitate rapid, uniform heating via reradiation. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. Gas flows through structured pathways within the array, delivering heat which may be used for processes including calcination, hydrogen electrolysis, steam generation, and thermal power generation and cogeneration. Groups of thermal storage arrays may be controlled and operated at high temperatures without thermal runaway via deep-discharge sequencing. Forecast-based control enables continuous, year-round heat supply using current and advance information of weather and VRE availability. High-voltage DC power conversion and distribution circuitry improves the efficiency of VRE power transfer into the system.",
+      "publicationNumber": "US20240229681",
+      "publicationDate": "2024-07-11",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "John Setel O'Donnell",
+        "Peter Emery von Behrens",
+        "Chiaki Treynor",
+        "Jeremy Quentin Keller",
+        "Matthieu JONEMANN",
+        "Robert Ratz",
+        "Yusef Desjardins Ferhani"
+      ],
+      "applicationDate": "2024-01-04",
+      "claimsCount": 39,
+      "independentClaimsCount": 6,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus",
+        "Transport",
+        "Wind energy technology"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "US-20240229680-A1",
+      "title": [
+        "Thermal Energy Storage System with Radiation Cavities"
+      ],
+      "abstract": "An apparatus includes one or more thermal storage blocks that define a radiation chamber and a fluid flow slot positioned above the radiation chamber to define a fluid pathway in a first direction. The apparatus includes a heater element positioned adjacent to the radiation chamber in a second, different direction, wherein the radiation chamber is open on at least one side to the heater element. The apparatus includes a fluid movement system configured to direct a stream of fluid through the fluid pathway in the first direction.",
+      "publicationNumber": "US20240229680",
+      "publicationDate": "2024-07-11",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "John Setel O'Donnell",
+        "Peter Emery von Behrens",
+        "Chiaki Treynor",
+        "Jeremy Quentin Keller",
+        "Matthieu JONEMANN",
+        "Robert Ratz",
+        "Yusef Desjardins Ferhani"
+      ],
+      "applicationDate": "2024-01-04",
+      "claimsCount": 57,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus",
+        "Transport",
+        "Wind energy technology"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "US-20240200471-A1",
+      "title": [
+        "THERMAL ENERGY STORAGE SYSTEM COUPLED WITH STEAM CRACKING SYSTEM"
+      ],
+      "abstract": "An energy storage system (TES) converts variable renewable electricity (VRE) to continuous heat at over 1000\u00b0 C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. The delivered heat which may be used for processes including power generation and cogeneration. In one application, the energy storage system provides higher-temperature heat to a steam cracking furnace system for converting a hydrocarbon feedstock into cracked gas, thereby increasing the efficiency of the temperature control.",
+      "publicationNumber": "US20240200471",
+      "publicationDate": "2024-06-20",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "John Setel O'Donnell",
+        "Yusef Desjardins Ferhani"
+      ],
+      "applicationDate": "2024-02-26",
+      "claimsCount": 13,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus",
+        "Transport",
+        "Wind energy technology"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "US-20240200470-A1",
+      "title": [
+        "ENERGY STORAGE SYSTEM AND ALUMINA CALCINATION APPLICATIONS"
+      ],
+      "abstract": "An energy storage system (TES) converts variable renewable electricity (VRE) to continuous heat at over 1000\u00b0 C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. The delivered heat which may be used for processes including power generation and cogeneration. In one application, the TES provides higher-temperature heat through non-combustible fluid to an alumina calcination system used to remove impurities or volatile substances and/or to incur thermal decomposition to a desired product.",
+      "publicationNumber": "US20240200470",
+      "publicationDate": "2024-06-20",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "John Setel O'Donnell",
+        "Yusef Desjardins Ferhani"
+      ],
+      "applicationDate": "2024-02-26",
+      "claimsCount": 36,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus",
+        "Transport",
+        "Wind energy technology"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "US-20240191639-A1",
+      "title": [
+        "THERMAL ENERGY STORAGE SYSTEM COUPLED WITH STEAM CRACKING SYSTEM"
+      ],
+      "abstract": "An energy storage system (TES) converts variable renewable electricity (VRE) to continuous heat at over 1000\u00b0 C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. The delivered heat which may be used for processes including power generation and cogeneration. In one application, the energy storage system provides higher-temperature heat to a steam cracking furnace system for converting a hydrocarbon feedstock into cracked gas, thereby increasing the efficiency of the temperature control.",
+      "publicationNumber": "US20240191639",
+      "publicationDate": "2024-06-13",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "John Setel O'Donnell",
+        "Yusef Desjardins Ferhani"
+      ],
+      "applicationDate": "2024-02-26",
+      "claimsCount": 9,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus",
+        "Transport",
+        "Wind energy technology"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "US-20240125251-A1",
+      "title": [
+        "THERMAL ENERGY STORAGE SYSTEMS FOR USE IN MATERIAL PROCESSING"
+      ],
+      "abstract": "An energy storage system (TES) converts variable renewable electricity (VRE) to continuous heat at over 900\u00b0 C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. The delivered heat which may be used for processes including power generation and cogeneration. In one application, thermal energy storage systems are used to improve efficiency and reduce carbon emissions associated with processing materials or other industrial applications.",
+      "publicationNumber": "US20240125251",
+      "publicationDate": "2024-04-18",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "John Setel O'Donnell",
+        "Yusef Desjardins Ferhani"
+      ],
+      "applicationDate": "2023-12-22",
+      "claimsCount": 103,
+      "independentClaimsCount": 9,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus",
+        "Transport"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "US-20240113527-A1",
+      "title": [
+        "SYSTEM FOR VOLTAGE-CONTROLLED POWER GRID REGULATION BASED UPON INPUT VARIABLE ENERGY SOURCES"
+      ],
+      "abstract": "An energy storage system (TES) converts variable renewable electricity (VRE) to continuous heat at over 1000\u00b0 C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. The delivered heat which may be used for processes including power generation and cogeneration. In one application, the energy storage system is engaged to a power grid by one or more load circuits, and renewable energy sources supply power to the power grid through the use of novel inverters to match the load that is provided to the power grid.",
+      "publicationNumber": "US20240113527",
+      "publicationDate": "2024-04-04",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "Robert Ratz",
+        "John Setel O'Donnell"
+      ],
+      "applicationDate": "2023-10-04",
+      "claimsCount": 49,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "US-20230392522-A1",
+      "title": [
+        "THERMAL ENERGY STORAGE SYSTEM WITH STEAM GENERATION SYSTEM INCLUDING FLOW CONTROL AND ENERGY COGENERATION"
+      ],
+      "abstract": "An energy storage system converts variable renewable electricity (VRE) to continuous heat at over 1000\u00b0 C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. An array of bricks incorporating internal radiation cavities is directly heated by thermal radiation. The cavities facilitate rapid, uniform heating via reradiation. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. Gas flows through structured pathways within the array, delivering heat which may be used for processes including calcination, hydrogen electrolysis, steam generation, and thermal power generation and cogeneration. Groups of thermal storage arrays may be controlled and operated at high temperatures without thermal runaway via deep-discharge sequencing. Forecast-based control enables continuous, year-round heat supply using current and advance information of weather and VRE availability. High-voltage DC power conversion and distribution circuitry improves the efficiency of VRE power transfer into the system.",
+      "publicationNumber": "US20230392522",
+      "publicationDate": "2023-12-07",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "John Setel O'Donnell",
+        "Peter Emery von Behrens",
+        "Chiaki Treynor",
+        "Jeremy Quentin Keller",
+        "Matthieu JONEMANN",
+        "Robert Ratz",
+        "Yusef Desjardins Ferhani"
+      ],
+      "applicationDate": "2023-07-17",
+      "claimsCount": 43,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus",
+        "Transport"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "US-20230323793-A1",
+      "title": [
+        "THERMAL ENERGY STORAGE SYSTEM COUPLED WITH A SOLID OXIDE ELECTROLYSIS SYSTEM"
+      ],
+      "abstract": "An energy storage system (TES) converts variable renewable electricity (VRE) to continuous heat at over 1000\u00b0 C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. The delivered heat which may be used for processes including power generation and cogeneration. In one application, the energy storage system provides higher-temperature heat to a solid oxide electrolysis system to maintain in an electrolysis operating temperature range during operation and nonoperation, thereby increasing the efficiency of the temperature control.",
+      "publicationNumber": "US20230323793",
+      "publicationDate": "2023-10-12",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "John Setel O'Donnell",
+        "Yusef Desjardins Ferhani"
+      ],
+      "applicationDate": "2023-06-01",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus",
+        "Transport"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "US-20230313710-A1",
+      "title": [
+        "THERMAL ENERGY STORAGE SYSTEM COUPLED WITH STEAM CRACKING SYSTEM"
+      ],
+      "abstract": "An energy storage system (TES)converts variable renewable electricity (VRE) to continuous heat at over 1000\u00b0 C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. The delivered heat which may be used for processes including power generation and cogeneration. In one application, the energy storage system provides higher-temperature heat to a steam cracking furnace system for converting a hydrocarbon feedstock into cracked gas, thereby increasing the efficiency of the temperature control.",
+      "publicationNumber": "US20230313710",
+      "publicationDate": "2023-10-05",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "John Setel O'Donnell",
+        "Yusef Desjardins Ferhani"
+      ],
+      "applicationDate": "2023-06-01",
+      "claimsCount": 51,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus",
+        "Transport"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "US-20230304420-A1",
+      "title": [
+        "ENERGY STORAGE SYSTEM AND ALUMINA CALCINATION APPLICATIONS"
+      ],
+      "abstract": "An energy storage system (TES) converts variable renewable electricity (VRE) to continuous heat at over 1000\u00b0 C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. The delivered heat which may be used for processes including power generation and cogeneration. In one application, the TES provides higher-temperature heat through non-combustible fluid to an alumina calcination system used to remove impurities or volatile substances and/or to incur thermal decomposition to a desired product.",
+      "publicationNumber": "US20230304420",
+      "publicationDate": "2023-09-28",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "John Setel O'Donnell",
+        "Yusef Desjardins Ferhani"
+      ],
+      "applicationDate": "2023-05-05",
+      "claimsCount": 38,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus",
+        "Transport"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "US-20230296034-A1",
+      "title": [
+        "THERMAL ENERGY STORAGE SYSTEM COUPLED WITH THERMAL POWER CYCLE SYSTEMS"
+      ],
+      "abstract": "An energy storage system converts variable renewable electricity (VRE) to continuous heat at over 1000\u00b0 C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. The delivered heat which may be used for processes including power generation and cogeneration. In one application, the energy storage system provides higher-temperature heat to a conventional lower-temperature heat source to boost the temperature of a thermal power cycle working fluid to a turbine, thereby increasing efficiency of the power cycle.",
+      "publicationNumber": "US20230296034",
+      "publicationDate": "2023-09-21",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "John Setel O'Donnell",
+        "Yusef Desjardins Ferhani"
+      ],
+      "applicationDate": "2023-05-02",
+      "claimsCount": 56,
+      "independentClaimsCount": 6,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus",
+        "Transport"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "US-20230250736-A1",
+      "title": [
+        "THERMAL ENERGY STORAGE ASSEMBLAGE WITH ENERGY COGENERATION"
+      ],
+      "abstract": "An energy storage system converts variable renewable electricity (VRE) to continuous heat at over 1000\u00b0 C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. An array of bricks incorporating internal radiation cavities is directly heated by thermal radiation. The cavities facilitate rapid, uniform heating via reradiation. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. Gas flows through structured pathways within the array, delivering heat which may be used for processes including calcination, hydrogen electrolysis, steam generation, and thermal power generation and cogeneration. Groups of thermal storage arrays may be controlled and operated at high temperatures without thermal runaway via deep-discharge sequencing. Forecast-based control enables continuous, year-round heat supply using current and advance information of weather and VRE availability. High-voltage DC power conversion and distribution circuitry improves the efficiency of VRE power transfer into the system.",
+      "publicationNumber": "US20230250736",
+      "publicationDate": "2023-08-10",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "John Setel O'Donnell",
+        "Peter Emery von Behrens",
+        "Chiaki Treynor",
+        "Jeremy Quentin Keller",
+        "Matthieu JONEMANN",
+        "Robert Ratz",
+        "Yusef Desjardins Ferhani"
+      ],
+      "applicationDate": "2023-03-06",
+      "claimsCount": 30,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus",
+        "Transport"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "US-20230243278-A1",
+      "title": [
+        "ENERGY STORAGE SYSTEM AND APPLICATIONS"
+      ],
+      "abstract": "An energy storage system converts variable renewable electricity (VRE) to continuous heat at over 1000\u00b0 C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. An array of bricks incorporating internal radiation cavities is directly heated by thermal radiation. The cavities facilitate rapid, uniform heating via reradiation. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. Gas flows through structured pathways within the array, delivering heat which may be used for processes including calcination, hydrogen electrolysis, steam generation, and thermal power generation and cogeneration. Groups of thermal storage arrays may be controlled and operated at high temperatures without thermal runaway via deep-discharge sequencing. Forecast-based control enables continuous, year-round heat supply using current and advance information of weather and VRE availability. High-voltage DC power conversion and distribution circuitry improves the efficiency of VRE power transfer into the system.",
+      "publicationNumber": "US20230243278",
+      "publicationDate": "2023-08-03",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "John Setel O'Donnell",
+        "Peter Emery von Behrens",
+        "Chiaki Treynor",
+        "Jeremy Quentin Keller",
+        "Matthieu JONEMANN",
+        "Robert Ratz",
+        "Yusef Desjardins Ferhani"
+      ],
+      "applicationDate": "2023-03-13",
+      "claimsCount": 30,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus",
+        "Transport"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "US-20230220787-A1",
+      "title": [
+        "Thermal Energy Storage System with Deep Discharge"
+      ],
+      "abstract": "An energy storage system converts variable renewable electricity (VRE) to continuous heat at over 1000\u00b0 C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. An array of bricks incorporating internal radiation cavities is directly heated by thermal radiation. The cavities facilitate rapid, uniform heating via reradiation. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. Gas flows through structured pathways within the array, delivering heat which may be used for processes including calcination, hydrogen electrolysis, steam generation, and thermal power generation and cogeneration. Groups of thermal storage arrays may be controlled and operated at high temperatures without thermal runaway via deep-discharge sequencing. Forecast-based control enables continuous, year-round heat supply using current and advance information of weather and VRE availability. High-voltage DC power conversion and distribution circuitry improves the efficiency of VRE power transfer into the system.",
+      "publicationNumber": "US20230220787",
+      "publicationDate": "2023-07-13",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "John Setel O'Donnell",
+        "Peter Emery von Behrens",
+        "Chiaki Treynor",
+        "Jeremy Quentin Keller",
+        "Matthieu JONEMANN",
+        "Robert Ratz",
+        "Yusef Desjardins Ferhani"
+      ],
+      "applicationDate": "2023-02-06",
+      "claimsCount": 30,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus",
+        "Transport",
+        "Wind energy technology"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "US-20230203968-A1",
+      "title": [
+        "Methods For Material Activation With Thermal Energy Storage System"
+      ],
+      "abstract": "An energy storage system converts variable renewable electricity (VRE) to continuous heat at over 1000\u00b0 C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. An array of bricks incorporating internal radiation cavities is directly heated by thermal radiation. The cavities facilitate rapid, uniform heating via reradiation. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. Gas flows through structured pathways within the array, delivering heat which may be used for processes including calcination, hydrogen electrolysis, steam generation, and thermal power generation and cogeneration. Groups of thermal storage arrays may be controlled and operated at high temperatures without thermal runaway via deep-discharge sequencing. Forecast-based control enables continuous, year-round heat supply using current and advance information of weather and VRE availability. High-voltage DC power conversion and distribution circuitry improves the efficiency of VRE power transfer into the system.",
+      "publicationNumber": "US20230203968",
+      "publicationDate": "2023-06-29",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "John Setel O'Donnell",
+        "Peter Emery von Behrens",
+        "Chiaki Treynor",
+        "Jeremy Quentin Keller",
+        "Matthieu JONEMANN",
+        "Robert Ratz",
+        "Yusef Desjardins Ferhani"
+      ],
+      "applicationDate": "2023-02-20",
+      "claimsCount": 30,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus",
+        "Transport"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "US-20230203967-A1",
+      "title": [
+        "Calcination System With Thermal Energy Storage System"
+      ],
+      "abstract": "An energy storage system converts variable renewable electricity (VRE) to continuous heat at over 1000\u00b0 C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. An array of bricks incorporating internal radiation cavities is directly heated by thermal radiation. The cavities facilitate rapid, uniform heating via reradiation. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. Gas flows through structured pathways within the array, delivering heat which may be used for processes including calcination, hydrogen electrolysis, steam generation, and thermal power generation and cogeneration. Groups of thermal storage arrays may be controlled and operated at high temperatures without thermal runaway via deep-discharge sequencing. Forecast-based control enables continuous, year-round heat supply using current and advance information of weather and VRE availability. High-voltage DC power conversion and distribution circuitry improves the efficiency of VRE power transfer into the system.",
+      "publicationNumber": "US20230203967",
+      "publicationDate": "2023-06-29",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "John Setel O'Donnell",
+        "Peter Emery von Behrens",
+        "Chiaki Treynor",
+        "Jeremy Quentin Keller",
+        "Matthieu JONEMANN",
+        "Robert Ratz",
+        "Yusef Desjardins Ferhani"
+      ],
+      "applicationDate": "2023-02-20",
+      "claimsCount": 6,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus",
+        "Transport"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "US-20230193790-A1",
+      "title": [
+        "THERMAL ENERGY STORAGE SYSTEM WITH STEAM GENERATOR HAVING FEED-FORWARD CONTROL"
+      ],
+      "abstract": "An energy storage system converts variable renewable electricity (VRE) to continuous heat at over 1000\u00b0 C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. An array of bricks incorporating internal radiation cavities is directly heated by thermal radiation. The cavities facilitate rapid, uniform heating via reradiation. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. Gas flows through structured pathways within the array, delivering heat which may be used for processes including calcination, hydrogen electrolysis, steam generation, and thermal power generation and cogeneration. Groups of thermal storage arrays may be controlled and operated at high temperatures without thermal runaway via deep-discharge sequencing. Forecast-based control enables continuous, year-round heat supply using current and advance information of weather and VRE availability. High-voltage DC power conversion and distribution circuitry improves the efficiency of VRE power transfer into the system.",
+      "publicationNumber": "US20230193790",
+      "publicationDate": "2023-06-22",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "John Setel O'Donnell",
+        "Peter Emery von Behrens",
+        "Chiaki Treynor",
+        "Jeremy Quentin Keller",
+        "Matthieu JONEMANN",
+        "Robert Ratz",
+        "Yusef Desjardins Ferhani"
+      ],
+      "applicationDate": "2023-02-06",
+      "claimsCount": 29,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus",
+        "Transport"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "US-20230193789-A1",
+      "title": [
+        "THERMAL ENERGY STORAGE SYSTEM WITH FORECAST CONTROL OF OPERATING PARAMETERS"
+      ],
+      "abstract": "An energy storage system converts variable renewable electricity (VRE) to continuous heat at over 1000\u00b0 C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. An array of bricks incorporating internal radiation cavities is directly heated by thermal radiation. The cavities facilitate rapid, uniform heating via reradiation. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. Gas flows through structured pathways within the array, delivering heat which may be used for processes including calcination, hydrogen electrolysis, steam generation, and thermal power generation and cogeneration. Groups of thermal storage arrays may be controlled and operated at high temperatures without thermal runaway via deep-discharge sequencing. Forecast-based control enables continuous, year-round heat supply using current and advance information of weather and VRE availability. High-voltage DC power conversion and distribution circuitry improves the efficiency of VRE power transfer into the system.",
+      "publicationNumber": "US20230193789",
+      "publicationDate": "2023-06-22",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "John Setel O'Donnell",
+        "Peter Emery von Behrens",
+        "Chiaki Treynor",
+        "Jeremy Quentin Keller",
+        "Matthieu JONEMANN",
+        "Robert Ratz",
+        "Yusef Desjardins Ferhani"
+      ],
+      "applicationDate": "2023-02-06",
+      "claimsCount": 30,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus",
+        "Transport"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "US-20230184142-A1",
+      "title": [
+        "Solid Oxide Electrolysis System with Thermal Energy Storage System"
+      ],
+      "abstract": "An energy storage system converts variable renewable electricity (VRE) to continuous heat at over 1000\u00b0 C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. An array of bricks incorporating internal radiation cavities is directly heated by thermal radiation. The cavities facilitate rapid, uniform heating via reradiation. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. Gas flows through structured pathways within the array, delivering heat which may be used for processes including calcination, hydrogen electrolysis, steam generation, and thermal power generation and cogeneration. Groups of thermal storage arrays may be controlled and operated at high temperatures without thermal runaway via deep-discharge sequencing. Forecast-based control enables continuous, year-round heat supply using current and advance information of weather and VRE availability. High-voltage DC power conversion and distribution circuitry improves the efficiency of VRE power transfer into the system.",
+      "publicationNumber": "US20230184142",
+      "publicationDate": "2023-06-15",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "John Setel O'Donnell",
+        "Peter Emery von Behrens",
+        "Chiaki Treynor",
+        "Jeremy Quentin Keller",
+        "Matthieu JONEMANN",
+        "Robert Ratz",
+        "Yusef Desjardins Ferhani"
+      ],
+      "applicationDate": "2023-01-30",
+      "claimsCount": 1,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus",
+        "Transport"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "US-20230184141-A1",
+      "title": [
+        "THERMAL ENERGY STORAGE SYSTEM WITH FORECAST CONTROL OF OPERATING PARAMETERS"
+      ],
+      "abstract": "An energy storage system converts variable renewable electricity (VRE) to continuous heat at over 1000\u00b0 C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. An array of bricks incorporating internal radiation cavities is directly heated by thermal radiation. The cavities facilitate rapid, uniform heating via reradiation. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. Gas flows through structured pathways within the array, delivering heat which may be used for processes including calcination, hydrogen electrolysis, steam generation, and thermal power generation and cogeneration. Groups of thermal storage arrays may be controlled and operated at high temperatures without thermal runaway via deep-discharge sequencing. Forecast-based control enables continuous, year-round heat supply using current and advance information of weather and VRE availability. High-voltage DC power conversion and distribution circuitry improves the efficiency of VRE power transfer into the system.",
+      "publicationNumber": "US20230184141",
+      "publicationDate": "2023-06-15",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "John Setel O'Donnell",
+        "Peter Emery von Behrens",
+        "Chiaki Treynor",
+        "Jeremy Quentin Keller",
+        "Matthieu JONEMANN",
+        "Robert Ratz",
+        "Yusef Desjardins Ferhani"
+      ],
+      "applicationDate": "2023-02-06",
+      "claimsCount": 30,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus",
+        "Transport"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "US-20230184140-A1",
+      "title": [
+        "Thermal Energy Storage with Fluid Flow Insulation"
+      ],
+      "abstract": "A thermal energy storage system with fluid flow insulation, the system including heated thermal storage blocks positioned within a housing, and a method for operating the thermal energy storage system, including providing a flow of fluid into the housing, the fluid convectively extracting heat from a top region, a side region and a bottom region of the thermal energy storage system, to generate heated fluid that insulates the thermal storage blocks from the housing and a foundation of the thermal energy storage system.",
+      "publicationNumber": "US20230184140",
+      "publicationDate": "2023-06-15",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "John Setel O'Donnell",
+        "Peter Emery von Behrens",
+        "Chiaki Treynor",
+        "Jeremy Quentin Keller",
+        "Matthieu JONEMANN",
+        "Robert Ratz",
+        "Yusef Desjardins Ferhani"
+      ],
+      "applicationDate": "2022-12-19",
+      "claimsCount": 30,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus",
+        "Transport"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "US-20230123897-A1",
+      "title": [
+        "Thermal Energy Storage System with Radiation Cavities"
+      ],
+      "abstract": "An apparatus includes one or more thermal storage blocks that define a radiation chamber and a fluid flow slot positioned above the radiation chamber to define a fluid pathway in a first direction. The apparatus includes a heater element positioned adjacent to the radiation chamber in a second, different direction, wherein the radiation chamber is open on at least one side to the heater element. The apparatus includes a fluid movement system configured to direct a stream of fluid through the fluid pathway in the first direction.",
+      "publicationNumber": "US20230123897",
+      "publicationDate": "2023-04-20",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "John Setel O'Donnell",
+        "Peter Emery von Behrens",
+        "Chiaki Treynor",
+        "Jeremy Quentin Keller",
+        "Matthieu JONEMANN",
+        "Robert Ratz",
+        "Yusef Desjardins Ferhani"
+      ],
+      "applicationDate": "2022-12-19",
+      "claimsCount": 30,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus",
+        "Transport"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "US-20220341349-A1",
+      "title": [
+        "Solid Oxide Electrolysis System with Thermal Energy Storage System"
+      ],
+      "abstract": "An energy storage system converts variable renewable electricity (VRE) to continuous heat at over 1000\u00b0 C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. An array of bricks incorporating internal radiation cavities is directly heated by thermal radiation. The cavities facilitate rapid, uniform heating via reradiation. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. Gas flows through structured pathways within the array, delivering heat which may be used for processes including calcination, hydrogen electrolysis, steam generation, and thermal power generation and cogeneration. Groups of thermal storage arrays may be controlled and operated at high temperatures without thermal runaway via deep-discharge sequencing. Forecast-based control enables continuous, year-round heat supply using current and advance information of weather and VRE availability. High-voltage DC power conversion and distribution circuitry improves the efficiency of VRE power transfer into the system.",
+      "publicationNumber": "US20220341349",
+      "publicationDate": "2022-10-27",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "John Setel O'Donnell",
+        "Peter Emery von Behrens",
+        "Chiaki Treynor",
+        "Jeremy Quentin Keller",
+        "Matthieu JONEMANN",
+        "Robert Ratz",
+        "Yusef Desjardins Ferhani"
+      ],
+      "applicationDate": "2022-02-09",
+      "claimsCount": 30,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus",
+        "Transport"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "US-20220282638-A1",
+      "title": [
+        "Calcination System With Thermal Energy Storage System"
+      ],
+      "abstract": "An energy storage system converts variable renewable electricity (VRE) to continuous heat at over 1000\u00b0 C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. An array of bricks incorporating internal radiation cavities is directly heated by thermal radiation. The cavities facilitate rapid, uniform heating via reradiation. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. Gas flows through structured pathways within the array, delivering heat which may be used for processes including calcination, hydrogen electrolysis, steam generation, and thermal power generation and cogeneration. Groups of thermal storage arrays may be controlled and operated at high temperatures without thermal runaway via deep-discharge sequencing. Forecast-based control enables continuous, year-round heat supply using current and advance information of weather and VRE availability. High-voltage DC power conversion and distribution circuitry improves the efficiency of VRE power transfer into the system.",
+      "publicationNumber": "US20220282638",
+      "publicationDate": "2022-09-08",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "John Setel O'Donnell",
+        "Peter Emery von Behrens",
+        "Chiaki Treynor",
+        "Jeremy Quentin Keller",
+        "Matthieu JONEMANN",
+        "Robert Ratz",
+        "Yusef Desjardins Ferhani"
+      ],
+      "applicationDate": "2022-02-09",
+      "claimsCount": 30,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "US-20220268181-A1",
+      "title": [
+        "Thermal Energy Storage System With Forecast Control Of Operating Parameters"
+      ],
+      "abstract": "An energy storage system converts variable renewable electricity (VRE) to continuous heat at over 1000\u00b0 C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. An array of bricks incorporating internal radiation cavities is directly heated by thermal radiation. The cavities facilitate rapid, uniform heating via reradiation. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. Gas flows through structured pathways within the array, delivering heat which may be used for processes including calcination, hydrogen electrolysis, steam generation, and thermal power generation and cogeneration. Groups of thermal storage arrays may be controlled and operated at high temperatures without thermal runaway via deep-discharge sequencing. Forecast-based control enables continuous, year-round heat supply using current and advance information of weather and VRE availability. High-voltage DC power conversion and distribution circuitry improves the efficiency of VRE power transfer into the system.",
+      "publicationNumber": "US20220268181",
+      "publicationDate": "2022-08-25",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "John Setel O'Donnell",
+        "Peter Emery von Behrens",
+        "Chiaki Treynor",
+        "Jeremy Quentin Keller",
+        "Matthieu JONEMANN",
+        "Robert Ratz",
+        "Yusef Desjardins Ferhani"
+      ],
+      "applicationDate": "2022-02-09",
+      "claimsCount": 30,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "US-20220268180-A1",
+      "title": [
+        "Thermal Energy Storage System With Steam Generator Having Feed-Forward Control"
+      ],
+      "abstract": "An energy storage system converts variable renewable electricity (VRE) to continuous heat at over 1000\u00b0 C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. An array of bricks incorporating internal radiation cavities is directly heated by thermal radiation. The cavities facilitate rapid, uniform heating via reradiation. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. Gas flows through structured pathways within the array, delivering heat which may be used for processes including calcination, hydrogen electrolysis, steam generation, and thermal power generation and cogeneration. Groups of thermal storage arrays may be controlled and operated at high temperatures without thermal runaway via deep-discharge sequencing. Forecast-based control enables continuous, year-round heat supply using current and advance information of weather and VRE availability. High-voltage DC power conversion and distribution circuitry improves the efficiency of VRE power transfer into the system.",
+      "publicationNumber": "US20220268180",
+      "publicationDate": "2022-08-25",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "John Setel O'Donnell",
+        "Peter Emery von Behrens",
+        "Chiaki Treynor",
+        "Jeremy Quentin Keller",
+        "Matthieu JONEMANN",
+        "Robert Ratz",
+        "Yusef Desjardins Ferhani"
+      ],
+      "applicationDate": "2022-02-09",
+      "claimsCount": 30,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "US-20220268179-A1",
+      "title": [
+        "Thermal Energy Storage System with Alternating Discharge Operation"
+      ],
+      "abstract": "An energy storage system converts variable renewable electricity (VRE) to continuous heat at over 1000\u00b0 C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. An array of bricks incorporating internal radiation cavities is directly heated by thermal radiation. The cavities facilitate rapid, uniform heating via reradiation. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. Gas flows through structured pathways within the array, delivering heat which may be used for processes including calcination, hydrogen electrolysis, steam generation, and thermal power generation and cogeneration. Groups of thermal storage arrays may be controlled and operated at high temperatures without thermal runaway via deep-discharge sequencing. Forecast-based control enables continuous, year-round heat supply using current and advance information of weather and VRE availability. High-voltage DC power conversion and distribution circuitry improves the efficiency of VRE power transfer into the system.",
+      "publicationNumber": "US20220268179",
+      "publicationDate": "2022-08-25",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "John Setel O'Donnell",
+        "Peter Emery von Behrens",
+        "Chiaki Treynor",
+        "Jeremy Quentin Keller",
+        "Matthieu JONEMANN",
+        "Robert Ratz",
+        "Yusef Desjardins Ferhani"
+      ],
+      "applicationDate": "2022-02-09",
+      "claimsCount": 30,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "US-20220259988-A1",
+      "title": [
+        "Thermal Energy Storage System With Steam Generation System Including Flow Control And Energy Cogeneration"
+      ],
+      "abstract": "An energy storage system converts variable renewable electricity (VRE) to continuous heat at over 1000\u00b0 C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. An array of bricks incorporating internal radiation cavities is directly heated by thermal radiation. The cavities facilitate rapid, uniform heating via reradiation. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. Gas flows through structured pathways within the array, delivering heat which may be used for processes including calcination, hydrogen electrolysis, steam generation, and thermal power generation and cogeneration. Groups of thermal storage arrays may be controlled and operated at high temperatures without thermal runaway via deep-discharge sequencing. Forecast-based control enables continuous, year-round heat supply using current and advance information of weather and VRE availability. High-voltage DC power conversion and distribution circuitry improves the efficiency of VRE power transfer into the system.",
+      "publicationNumber": "US20220259988",
+      "publicationDate": "2022-08-18",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "John Setel O'Donnell",
+        "Peter Emery von Behrens",
+        "Chiaki Treynor",
+        "Jeremy Quentin Keller",
+        "Matthieu JONEMANN",
+        "Robert Ratz",
+        "Yusef Desjardins Ferhani"
+      ],
+      "applicationDate": "2022-02-09",
+      "claimsCount": 30,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "US-20220259987-A1",
+      "title": [
+        "Thermal Energy Storage Assemblage With Energy Cogeneration"
+      ],
+      "abstract": "An energy storage system converts variable renewable electricity (VRE) to continuous heat at over 1000\u00b0 C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. An array of bricks incorporating internal radiation cavities is directly heated by thermal radiation. The cavities facilitate rapid, uniform heating via reradiation. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. Gas flows through structured pathways within the array, delivering heat which may be used for processes including calcination, hydrogen electrolysis, steam generation, and thermal power generation and cogeneration. Groups of thermal storage arrays may be controlled and operated at high temperatures without thermal runaway via deep-discharge sequencing. Forecast-based control enables continuous, year-round heat supply using current and advance information of weather and VRE availability. High-voltage DC power conversion and distribution circuitry improves the efficiency of VRE power transfer into the system.",
+      "publicationNumber": "US20220259987",
+      "publicationDate": "2022-08-18",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "John Setel O'Donnell",
+        "Peter Emery von Behrens",
+        "Chiaki Treynor",
+        "Jeremy Quentin Keller",
+        "Matthieu JONEMANN",
+        "Robert Ratz",
+        "Yusef Desjardins Ferhani"
+      ],
+      "applicationDate": "2022-02-09",
+      "claimsCount": 30,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "US-20220259986-A1",
+      "title": [
+        "Thermal Energy Storage System With Steam Generator Having Feedback Control"
+      ],
+      "abstract": "An energy storage system converts variable renewable electricity (VRE) to continuous heat at over 1000\u00b0 C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. An array of bricks incorporating internal radiation cavities is directly heated by thermal radiation. The cavities facilitate rapid, uniform heating via reradiation. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. Gas flows through structured pathways within the array, delivering heat which may be used for processes including calcination, hydrogen electrolysis, steam generation, and thermal power generation and cogeneration. Groups of thermal storage arrays may be controlled and operated at high temperatures without thermal runaway via deep-discharge sequencing. Forecast-based control enables continuous, year-round heat supply using current and advance information of weather and VRE availability. High-voltage DC power conversion and distribution circuitry improves the efficiency of VRE power transfer into the system.",
+      "publicationNumber": "US20220259986",
+      "publicationDate": "2022-08-18",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "John Setel O'Donnell",
+        "Peter Emery von Behrens",
+        "Chiaki Treynor",
+        "Jeremy Quentin Keller",
+        "Matthieu JONEMANN",
+        "Robert Ratz",
+        "Yusef Desjardins Ferhani"
+      ],
+      "applicationDate": "2022-02-09",
+      "claimsCount": 30,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "US-20220220867-A1",
+      "title": [
+        "Thermal Energy Storage Assemblage"
+      ],
+      "abstract": "An energy storage system converts variable renewable electricity (VRE) to continuous heat at over 1000\u00b0 C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. An array of bricks incorporating internal radiation cavities is directly heated by thermal radiation. The cavities facilitate rapid, uniform heating via reradiation. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. Gas flows through structured pathways within the array, delivering heat which may be used for processes including calcination, hydrogen electrolysis, steam generation, and thermal power generation and cogeneration. Groups of thermal storage arrays may be controlled and operated at high temperatures without thermal runaway via deep-discharge sequencing. Forecast-based control enables continuous, year-round heat supply using current and advance information of weather and VRE availability. High-voltage DC power conversion and distribution circuitry improves the efficiency of VRE power transfer into the system.",
+      "publicationNumber": "US20220220867",
+      "publicationDate": "2022-07-14",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "John Setel O'Donnell",
+        "Peter Emery von Behrens",
+        "Chiaki Treynor",
+        "Jeremy Quentin Keller",
+        "Matthieu JONEMANN",
+        "Robert Ratz",
+        "Yusef Desjardins Ferhani"
+      ],
+      "applicationDate": "2022-02-09",
+      "claimsCount": 30,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "US-20220213811-A1",
+      "title": [
+        "Thermal Energy Storage Assemblage With Dynamic Insulation and Failsafe Cooling"
+      ],
+      "abstract": "An energy storage system converts variable renewable electricity (VRE) to continuous heat at over 1000\u00b0 C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. An array of bricks incorporating internal radiation cavities is directly heated by thermal radiation. The cavities facilitate rapid, uniform heating via reradiation. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. Gas flows through structured pathways within the array, delivering heat which may be used for processes including calcination, hydrogen electrolysis, steam generation, and thermal power generation and cogeneration. Groups of thermal storage arrays may be controlled and operated at high temperatures without thermal runaway via deep-discharge sequencing. Forecast-based control enables continuous, year-round heat supply using current and advance information of weather and VRE availability. High-voltage DC power conversion and distribution circuitry improves the efficiency of VRE power transfer into the system.",
+      "publicationNumber": "US20220213811",
+      "publicationDate": "2022-07-07",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "John Setel O'Donnell",
+        "Peter Emery von Behrens",
+        "Chiaki Treynor",
+        "Jeremy Quentin Keller",
+        "Matthieu JONEMANN",
+        "Robert Ratz",
+        "Yusef Desjardins Ferhani"
+      ],
+      "applicationDate": "2022-02-09",
+      "claimsCount": 21,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "US-20220170388-A1",
+      "title": [
+        "Thermal Energy Storage System With Heat Discharge System to Prevent Thermal Runaway"
+      ],
+      "abstract": "An energy storage system converts variable renewable electricity (VRE) to continuous heat at over 1000\u00b0 C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. An array of bricks incorporating internal radiation cavities is directly heated by thermal radiation. The cavities facilitate rapid, uniform heating via reradiation. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. Gas flows through structured pathways within the array, delivering heat which may be used for processes including calcination, hydrogen electrolysis, steam generation, and thermal power generation and cogeneration. Groups of thermal storage arrays may be controlled and operated at high temperatures without thermal runaway via deep-discharge sequencing. Forecast-based control enables continuous, year-round heat supply using current and advance information of weather and VRE availability. High-voltage DC power conversion and distribution circuitry improves the efficiency of VRE power transfer into the system.",
+      "publicationNumber": "US20220170388",
+      "publicationDate": "2022-06-02",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "John Setel O'Donnell",
+        "Peter Emery von Behrens",
+        "Chiaki Treynor",
+        "Jeremy Quentin Keller",
+        "Matthieu JONEMANN",
+        "Robert Ratz",
+        "Yusef Desjardins Ferhani"
+      ],
+      "applicationDate": "2022-02-09",
+      "claimsCount": 30,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "US-20220170387-A1",
+      "title": [
+        "Thermal Energy Storage System with System for Deep Discharge of Thermal Storage Blocks"
+      ],
+      "abstract": "An energy storage system converts variable renewable electricity (VRE) to continuous heat at over 1000\u00b0 C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. An array of bricks incorporating internal radiation cavities is directly heated by thermal radiation. The cavities facilitate rapid, uniform heating via reradiation. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. Gas flows through structured pathways within the array, delivering heat which may be used for processes including calcination, hydrogen electrolysis, steam generation, and thermal power generation and cogeneration. Groups of thermal storage arrays may be controlled and operated at high temperatures without thermal runaway via deep-discharge sequencing. Forecast-based control enables continuous, year-round heat supply using current and advance information of weather and VRE availability. High-voltage DC power conversion and distribution circuitry improves the efficiency of VRE power transfer into the system.",
+      "publicationNumber": "US20220170387",
+      "publicationDate": "2022-06-02",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "John Setel O'Donnell",
+        "Peter Emery von Behrens",
+        "Chiaki Treynor",
+        "Jeremy Quentin Keller",
+        "Matthieu JONEMANN",
+        "Robert Ratz",
+        "Yusef Desjardins Ferhani"
+      ],
+      "applicationDate": "2022-02-09",
+      "claimsCount": 30,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "US-20220170386-A1",
+      "title": [
+        "ENERGY STORAGE SYSTEM AND APPLICATIONS"
+      ],
+      "abstract": "An energy storage system converts variable renewable electricity (VRE) to continuous heat at over 1000\u00b0 C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. An array of bricks incorporating internal radiation cavities is directly heated by thermal radiation. The cavities facilitate rapid, uniform heating via reradiation. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. Gas flows through structured pathways within the array, delivering heat which may be used for processes including calcination, hydrogen electrolysis, steam generation, and thermal power generation and cogeneration. Groups of thermal storage arrays may be controlled and operated at high temperatures without thermal runaway via deep-discharge sequencing. Forecast-based control enables continuous, year-round heat supply using current and advance information of weather and VRE availability. High-voltage DC power conversion and distribution circuitry improves the efficiency of VRE power transfer into the system.",
+      "publicationNumber": "US20220170386",
+      "publicationDate": "2022-06-02",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "John Setel O'Donnell",
+        "Peter Emery von Behrens",
+        "Chiaki Treynor",
+        "Jeremy Quentin Keller",
+        "Matthieu JONEMANN",
+        "Robert Ratz",
+        "Yusef Desjardins Ferhani"
+      ],
+      "applicationDate": "2021-11-29",
+      "claimsCount": 107,
+      "independentClaimsCount": 58,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "MA-71196-B1",
+      "title": [
+        "SYST\u00c8ME ET APPLICATIONS DE STOCKAGE D&apos;\u00c9NERGIE"
+      ],
+      "abstract": "L&apos;invention concerne un syst\u00e8me de stockage d&apos;\u00e9nergie convertissant l&apos;\u00e9lectricit\u00e9 renouvelable variable (ERV) en chaleur continue \u00e0 une temp\u00e9rature sup\u00e9rieure \u00e0 1000 \u00b0C. L&apos;\u00e9nergie \u00e9lectrique intermittente chauffe un milieu solide. La chaleur venant du milieu solide est distribu\u00e9e en continu sur demande. Un ensemble de briques incorporant des cavit\u00e9s de rayonnement internes est directement chauff\u00e9 par rayonnement thermique. Les cavit\u00e9s facilitent un chauffage rapide et uniforme par l&apos;interm\u00e9diaire d&apos;un nouveau rayonnement. L&apos;apport de chaleur par l&apos;interm\u00e9diaire d&apos;un flux de gaz \u00e9tablit une thermocline qui maintient une temp\u00e9rature de sortie \u00e9lev\u00e9e pendant toute la d\u00e9charge. Le gaz s&apos;\u00e9coule \u00e0 travers des voies structur\u00e9es \u00e0 l&apos;int\u00e9rieur de l&apos;ensemble, d\u00e9livrant de la chaleur pouvant \u00eatre utilis\u00e9e pour des proc\u00e9d\u00e9s comprenant la calcination, l&apos;\u00e9lectrolyse \u00e0 hydrog\u00e8ne, la g\u00e9n\u00e9ration de vapeur, ainsi que la g\u00e9n\u00e9ration et cog\u00e9n\u00e9ration d&apos;\u00e9nergie thermique. Des groupes d&apos;ensembles de stockage thermique peuvent \u00eatre r\u00e9gul\u00e9s et actionn\u00e9s \u00e0 des temp\u00e9ratures \u00e9lev\u00e9es sans emballement thermique par s\u00e9quen\u00e7age \u00e0 d\u00e9charge profonde. Une r\u00e9gulation bas\u00e9e sur une pr\u00e9vision permet une alimentation en chaleur continue produite \u00e0 l&apos;ann\u00e9e, \u00e0 l&apos;aide d&apos;informations actuelles et d&apos;avancement m\u00e9t\u00e9orologiques et de disponibilit\u00e9 de l&apos;ERV. Un circuit de conversion et de distribution d&apos;\u00e9nergie CC haute tension am\u00e9liore l&apos;efficacit\u00e9 du transfert d&apos;\u00e9nergie de l&apos;ERV dans le syst\u00e8me.",
+      "publicationNumber": "MA71196",
+      "publicationDate": "2025-04-30",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "CHIAKI TREYNOR",
+        "JOHN SETEL O'DONNELL",
+        "PETER EMERY VON BEHRENS",
+        "Jeremy Quentin KELLER",
+        "MATTHIEU JONEMANN",
+        "ROBERT RATZ",
+        "Yusef Desjardins FERHANI"
+      ],
+      "applicationDate": "2021-11-29",
+      "claimsCount": 13,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Environmental technology",
+        "Thermal processes and apparatus",
+        "Transport"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "IL-321345-A",
+      "title": [
+        "ENERGY STORAGE SYSTEM AND APPLICATIONS"
+      ],
+      "abstract": "",
+      "publicationNumber": "IL321345",
+      "publicationDate": "2025-08-01",
+      "assignee": [
+        "RONDO ENERGY INC."
+      ],
+      "inventors": [],
+      "applicationDate": "2025-06-05",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "IL-303311-B2",
+      "title": [
+        "Energy storage system and applications"
+      ],
+      "abstract": "",
+      "publicationNumber": "IL303311",
+      "publicationDate": "2025-11-01",
+      "assignee": [
+        "RONDO ENERGY INC."
+      ],
+      "inventors": [],
+      "applicationDate": "2023-05-30",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Environmental technology",
+        "Surface technology, coating",
+        "Thermal processes and apparatus",
+        "Transport"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "IL-303311-B1",
+      "title": [
+        "ENERGY STORAGE SYSTEM AND APPLICATIONS"
+      ],
+      "abstract": "",
+      "publicationNumber": "IL303311",
+      "publicationDate": "2025-07-01",
+      "assignee": [
+        "RONDO ENERGY INC."
+      ],
+      "inventors": [],
+      "applicationDate": "2023-05-30",
+      "claimsCount": 70,
+      "independentClaimsCount": 12,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Environmental technology",
+        "Surface technology, coating",
+        "Thermal processes and apparatus",
+        "Transport"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "IL-303311-A",
+      "title": [
+        "ENERGY STORAGE SYSTEM AND APPLICATIONS"
+      ],
+      "abstract": "",
+      "publicationNumber": "IL303311",
+      "publicationDate": "2023-07-01",
+      "assignee": [
+        "RONDO ENERGY INC."
+      ],
+      "inventors": [],
+      "applicationDate": "2023-05-30",
+      "claimsCount": 643,
+      "independentClaimsCount": 63,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Environmental technology",
+        "Surface technology, coating",
+        "Thermal processes and apparatus",
+        "Transport"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "IE-S87598-Y1",
+      "title": [
+        "THERMAL ENERGY STORAGE BLOCKS AND ASSOCIATED SUPPORT STRUCTURES"
+      ],
+      "abstract": "Thermal energy storage blocks are heated by electrical heating elements in order to store energy from an intermittent electrical energy source. The energy is stored in an efficient manner in the material from which the thermal energy storage blocks are formed. The thermal energy storage blocks have thermal radiation cavities to permit efficient radiative heating, and fluid flow slots, to permit efficient discharge of the energy stored in the blocks. Support structures, including support blocks and support slabs, for the thermal energy storage blocks provide physical support for assemblies of the thermal energy storage blocks, and provide thermal isolation of the thermal energy storage blocks from surrounding materials. <Figure 1>",
+      "publicationNumber": "IES87598",
+      "publicationDate": "2025-04-09",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "PETER EMERY VON BEHRENS",
+        "BRAYDEN BUTLER"
+      ],
+      "applicationDate": "2024-04-11",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Thermal processes and apparatus"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "IE-20240187-U1",
+      "title": [
+        "THERMAL ENERGY STORAGE BLOCKS AND ASSOCIATED SUPPORT STRUCTURES"
+      ],
+      "abstract": "Thermal energy storage blocks are heated by electrical heating elements in order to store energy from an intermittent electrical energy source. The energy is stored in an efficient manner in the material from which the thermal energy storage blocks are formed. The thermal energy storage blocks have thermal radiation cavities to permit efficient radiative heating, and fluid flow slots, to permit efficient discharge of the energy stored in the blocks. Support structures, including support blocks and support slabs, for the thermal energy storage blocks provide physical support for assemblies of the thermal energy storage blocks, and provide thermal isolation of the thermal energy storage blocks from surrounding materials. <Figure 1>",
+      "publicationNumber": "IE20240187",
+      "publicationDate": "2024-12-04",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "PETER EMERY VON BEHRENS",
+        "BRAYDEN BUTLER"
+      ],
+      "applicationDate": "2024-04-11",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Thermal processes and apparatus"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "FR-3147856-A3",
+      "title": [
+        "BLOCS DE STOCKAGE D&apos;ENERGIE THERMIQUE ET STRUCTURES DE SUPPORT ASSOCIEES"
+      ],
+      "abstract": "Des blocs de stockage d&apos;\u00e9nergie thermique sont chauff\u00e9s par des \u00e9l\u00e9ments chauffants \u00e9lectriques afin de stocker de l&apos;\u00e9nergie provenant d&apos;une source d&apos;\u00e9nergie \u00e9lectrique intermittente. L&apos;\u00e9nergie est stock\u00e9e d&apos;une mani\u00e8re efficace dans le mat\u00e9riau \u00e0 partir duquel les blocs de stockage d&apos;\u00e9nergie thermique sont form\u00e9s. Les blocs de stockage d&apos;\u00e9nergie thermique ont des cavit\u00e9s de rayonnement thermique pour permettre un chauffage radiatif efficace, et des fentes d&apos;\u00e9coulement de fluide pour permettre une d\u00e9charge efficace de l&apos;\u00e9nergie stock\u00e9e dans les blocs. Des structures de support, comprenant des blocs de support et des dalles de support, pour les blocs de stockage d&apos;\u00e9nergie thermique, fournissent un support physique pour des assemblages des blocs de stockage d&apos;\u00e9nergie thermique, et fournissent une isolation thermique des blocs de stockage d&apos;\u00e9nergie thermique vis-\u00e0-vis des mat\u00e9riaux environnants.",
+      "publicationNumber": "FR3147856",
+      "publicationDate": "2024-10-18",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "Peter Emery von Behrens",
+        "Brayden BUTLER"
+      ],
+      "applicationDate": "2024-04-11",
+      "claimsCount": 12,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Thermal processes and apparatus"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "ES-3018461-T3",
+      "title": [
+        "Sistema de almacenamiento de energ\u00eda y aplicaciones"
+      ],
+      "abstract": "Un sistema de almacenamiento de energ\u00eda convierte la electricidad renovable variable (ERV) en calor continuo a m\u00e1s de 1000 \u00b0C. La energ\u00eda el\u00e9ctrica intermitente calienta un medio s\u00f3lido. El calor del medio s\u00f3lido se suministra continuamente seg\u00fan la demanda. Un conjunto de ladrillos con cavidades de radiaci\u00f3n internas se calienta directamente por radiaci\u00f3n t\u00e9rmica. Las cavidades facilitan un calentamiento r\u00e1pido y uniforme mediante rerradiaci\u00f3n. El calor suministrado por el flujo de gas establece una termoclina que mantiene una temperatura de salida alta durante la descarga. El gas fluye a trav\u00e9s de v\u00edas estructuradas dentro del conjunto, suministrando calor que puede utilizarse en procesos como la calcinaci\u00f3n, la electr\u00f3lisis de hidr\u00f3geno, la generaci\u00f3n de vapor y la generaci\u00f3n y cogeneraci\u00f3n de energ\u00eda t\u00e9rmica. Los grupos de conjuntos de almacenamiento t\u00e9rmico pueden controlarse y operarse a altas temperaturas sin fugas t\u00e9rmicas mediante la secuenciaci\u00f3n de descarga profunda. El control basado en pron\u00f3sticos permite el suministro continuo de calor durante todo el a\u00f1o utilizando informaci\u00f3n meteorol\u00f3gica actual y anticipada sobre la disponibilidad de ERV. Los circuitos de conversi\u00f3n y distribuci\u00f3n de energ\u00eda CC de alto voltaje mejoran la eficiencia de la transferencia de energ\u00eda de ERV al sistema. (Traducci\u00f3n autom\u00e1tica con Google Translate, sin valor legal)",
+      "publicationNumber": "ES3018461",
+      "publicationDate": "2025-05-16",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "JOHN SETEL O'DONNELL",
+        "PETER EMERY VON BEHRENS",
+        "CHIAKI TREYNOR",
+        "Jeremy Quentin KELLER",
+        "MATTHIEU JONEMANN",
+        "ROBERT RATZ",
+        "Yusef Desjardins FERHANI"
+      ],
+      "applicationDate": "2021-11-29",
+      "claimsCount": 18,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Control",
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Environmental technology",
+        "Solar energy",
+        "Surface technology, coating",
+        "Thermal processes and apparatus",
+        "Transport",
+        "Wind energy technology"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "EP-4639716-A1",
+      "title": [
+        "THERMAL ENERGY STORAGE SYSTEMS FOR USE IN MATERIAL PROCESSING"
+      ],
+      "abstract": "An energy storage system (TES) converts variable renewable electricity (VRE) to continuous heat at over 900\u00b0C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. The delivered heat which may be used for processes including power generation and cogeneration. In one application, thermal energy storage systems are used to improve efficiency and reduce carbon emissions associated with processing materials or other industrial applications.",
+      "publicationNumber": "EP4639716",
+      "publicationDate": "2025-10-29",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "JOHN SETEL O'DONNELL",
+        "Yusef Desjardins FERHANI"
+      ],
+      "applicationDate": "2023-12-22",
+      "claimsCount": 25,
+      "independentClaimsCount": 9,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "EP-4509205-A3",
+      "title": [
+        "ENERGY STORAGE SYSTEM AND APPLICATIONS"
+      ],
+      "abstract": "An energy storage system converts variable renewable electricity (VRE) to continuous heat at over 1000\u00b0C. Intermittent electrical energy heats a solid medium Heat from the solid medium is delivered continuously on demand. An array of bricks incorporating internal radiation cavities is directly heated by thermal radiation. The cavities facilitate rapid, uniform heating via reradiation. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. Gas flows through structured pathways within the array, delivering heat which may be used for processes including calcination, hydrogen electrolysis, steam generation, and thermal power generation and cogeneration. Groups of thermal storage arrays may be controlled and operated at high temperatures without thermal runaway via deep-discharge sequencing. Forecast-based control enables continuous, year-round heat supply using current and advance information of weather and VRE availability. High-voltage DC power conversion and distribution circuitry improves the efficiency of VRE power transfer into the system.",
+      "publicationNumber": "EP4509205",
+      "publicationDate": "2025-04-23",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "JOHN SETEL O'DONNELL",
+        "PETER EMERY VON BEHRENS",
+        "CHIAKI TREYNOR",
+        "Jeremy Quentin KELLER",
+        "MATTHIEU JONEMANN",
+        "ROBERT RATZ",
+        "Yusef Desjardins FERHANI"
+      ],
+      "applicationDate": "2021-11-29",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Control",
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Environmental technology",
+        "Solar energy",
+        "Surface technology, coating",
+        "Thermal processes and apparatus",
+        "Transport",
+        "Wind energy technology"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "EP-4509205-A2",
+      "title": [
+        "ENERGY STORAGE SYSTEM AND APPLICATIONS"
+      ],
+      "abstract": "An energy storage system converts variable renewable electricity (VRE) to continuous heat at over 1000\u00b0C. Intermittent electrical energy heats a solid medium Heat from the solid medium is delivered continuously on demand. An array of bricks incorporating internal radiation cavities is directly heated by thermal radiation. The cavities facilitate rapid, uniform heating via reradiation. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. Gas flows through structured pathways within the array, delivering heat which may be used for processes including calcination, hydrogen electrolysis, steam generation, and thermal power generation and cogeneration. Groups of thermal storage arrays may be controlled and operated at high temperatures without thermal runaway via deep-discharge sequencing. Forecast-based control enables continuous, year-round heat supply using current and advance information of weather and VRE availability. High-voltage DC power conversion and distribution circuitry improves the efficiency of VRE power transfer into the system.",
+      "publicationNumber": "EP4509205",
+      "publicationDate": "2025-02-19",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "JOHN SETEL O'DONNELL",
+        "PETER EMERY VON BEHRENS",
+        "CHIAKI TREYNOR",
+        "Jeremy Quentin KELLER",
+        "MATTHIEU JONEMANN",
+        "ROBERT RATZ",
+        "Yusef Desjardins FERHANI"
+      ],
+      "applicationDate": "2021-11-29",
+      "claimsCount": 24,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "EP-4150282-C0",
+      "title": [
+        "ENERGY STORAGE SYSTEM AND APPLICATIONS"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP4150282",
+      "publicationDate": "2025-01-01",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "JOHN SETEL O'DONNELL",
+        "PETER EMERY VON BEHRENS",
+        "CHIAKI TREYNOR",
+        "Jeremy Quentin KELLER",
+        "MATTHIEU JONEMANN",
+        "ROBERT RATZ",
+        "Yusef Desjardins FERHANI"
+      ],
+      "applicationDate": "2021-11-29",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Control",
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Environmental technology",
+        "Solar energy",
+        "Surface technology, coating",
+        "Thermal processes and apparatus",
+        "Transport",
+        "Wind energy technology"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "EP-4150282-A2",
+      "title": [
+        "ENERGY STORAGE SYSTEM AND APPLICATIONS"
+      ],
+      "abstract": "An energy storage system converts variable renewable electricity (VRE) to continuous heat at over 1000\u00b0C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. An array of bricks incorporating internal radiation cavities is directly heated by thermal radiation. The cavities facilitate rapid, uniform heating via reradiation. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. Gas flows through structured pathways within the array, delivering heat which may be used for processes including calcination, hydrogen electrolysis, steam generation, and thermal power generation and cogeneration. Groups of thermal storage arrays may be controlled and operated at high temperatures without thermal runaway via deep-discharge sequencing. Forecast-based control enables continuous, year-round heat supply using current and advance information of weather and VRE availability. High-voltage DC power conversion and distribution circuitry improves the efficiency of VRE power transfer into the system.",
+      "publicationNumber": "EP4150282",
+      "publicationDate": "2023-03-22",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "JOHN SETEL O'DONNELL",
+        "PETER EMERY VON BEHRENS",
+        "CHIAKI TREYNOR",
+        "Jeremy Quentin KELLER",
+        "MATTHIEU JONEMANN",
+        "ROBERT RATZ",
+        "Yusef Desjardins FERHANI"
+      ],
+      "applicationDate": "2021-11-29",
+      "claimsCount": 643,
+      "independentClaimsCount": 63,
+      "technologyFields": [
+        "Control",
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Environmental technology",
+        "Solar energy",
+        "Surface technology, coating",
+        "Thermal processes and apparatus",
+        "Transport",
+        "Wind energy technology"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "CL-2025001513-A1",
+      "title": [
+        "Sistema de almacenamiento de energ\u00eda y aplicaciones"
+      ],
+      "abstract": "Un sistema de almacenamiento de energ\u00eda convierte electricidad renovable (VRE) en calor continuo a m\u00e1s de 1000 \u00b0C. Energ\u00eda el\u00e9ctrica intermitente calienta un medio s\u00f3lido. Calor del medio s\u00f3lido es suministrado continuamente sobre demanda. Un arreglo de ladrillos que incorpora cavidades de radiaci\u00f3n interna es directamente calentado por radiaci\u00f3n t\u00e9rmica. Las cavidades facilitan el r\u00e1pido calentamiento uniforme a trav\u00e9s de rerradiaci\u00f3n. El suministro de calor a trav\u00e9s del gas que fluye establece una termoclina que mantiene la descarga de alto rendimiento de temperatura de salida. El gas fluye a trav\u00e9s de las trayectorias estructuradas dentro del arreglo, suministrando calor que puede ser utilizado para procesos incluyendo calcinaci\u00f3n, electr\u00f3lisis de hidr\u00f3geno, generaci\u00f3n de vapor y generaci\u00f3n y cogeneraci\u00f3n de potencia t\u00e9rmica. Grupos de arreglos de almacenamiento t\u00e9rmico pueden ser controlados y operados a altas temperaturas sin fuga t\u00e9rmica a trav\u00e9s de secuenciaci\u00f3n de descarga a fondo. El control basado en pron\u00f3stico permite el suministro de calor continuo durante todo el a\u00f1o utilizando informaci\u00f3n actual y anticipada del clima y la disponibilidad de VRE. Los circuitos de conversi\u00f3n y distribuci\u00f3n de potencia CD de alto voltaje mejoran la eficiencia de la transferencia de potencia VRE al sistema.",
+      "publicationNumber": "CL2025001513",
+      "publicationDate": "2025-07-18",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "JOHN SETEL O'DONNELL",
+        "PETER EMERY VON BEHRENS",
+        "CHIAKI TREYNOR",
+        "Jeremy Quentin Keller",
+        "MATTHIEU JONEMANN",
+        "ROBERT RATZ",
+        "YUSEF DESJARDINS FERHANI"
+      ],
+      "applicationDate": "2025-05-22",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Environmental technology",
+        "Surface technology, coating",
+        "Thermal processes and apparatus",
+        "Transport"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "CL-2025001510-A1",
+      "title": [
+        "Sistema de almacenamiento de energ\u00eda y aplicaciones"
+      ],
+      "abstract": "Un sistema de almacenamiento de energ\u00eda convierte electricidad renovable (VRE) en calor continuo a m\u00e1s de 1000 \u00b0C. Energ\u00eda el\u00e9ctrica intermitente calienta un medio s\u00f3lido. Calor del medio s\u00f3lido es suministrado continuamente sobre demanda. Un arreglo de ladrillos que incorpora cavidades de radiaci\u00f3n interna es directamente calentado por radiaci\u00f3n t\u00e9rmica. Las cavidades facilitan el r\u00e1pido calentamiento uniforme a trav\u00e9s de rerradiaci\u00f3n. El suministro de calor a trav\u00e9s del gas que fluye establece una termoclina que mantiene la descarga de alto rendimiento de temperatura de salida. El gas fluye a trav\u00e9s de las trayectorias estructuradas dentro del arreglo, suministrando calor que puede ser utilizado para procesos incluyendo calcinaci\u00f3n, electr\u00f3lisis de hidr\u00f3geno, generaci\u00f3n de vapor y generaci\u00f3n y cogeneraci\u00f3n de potencia t\u00e9rmica. Grupos de arreglos de almacenamiento t\u00e9rmico pueden ser controlados y operados a altas temperaturas sin fuga t\u00e9rmica a trav\u00e9s de secuenciaci\u00f3n de descarga a fondo. El control basado en pron\u00f3stico permite el suministro de calor continuo durante todo el a\u00f1o utilizando informaci\u00f3n actual y anticipada del clima y la disponibilidad de VRE. Los circuitos de conversi\u00f3n y distribuci\u00f3n de potencia CD de alto voltaje mejoran la eficiencia de la transferencia de potencia VRE al sistema.",
+      "publicationNumber": "CL2025001510",
+      "publicationDate": "2025-07-18",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "JOHN SETEL O'DONNELL",
+        "PETER EMERY VON BEHRENS",
+        "CHIAKI TREYNOR",
+        "Jeremy Quentin Keller",
+        "MATTHIEU JONEMANN",
+        "ROBERT RATZ",
+        "YUSEF DESJARDINS FERHANI"
+      ],
+      "applicationDate": "2025-05-22",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Environmental technology",
+        "Surface technology, coating",
+        "Thermal processes and apparatus",
+        "Transport"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "CL-2025001509-A1",
+      "title": [
+        "Sistema de almacenamiento de energ\u00eda y aplicaciones"
+      ],
+      "abstract": "Un sistema de almacenamiento de energ\u00eda convierte electricidad renovable (VRE) en calor continuo a m\u00e1s de 1000 \u00b0C. Energ\u00eda el\u00e9ctrica intermitente calienta un medio s\u00f3lido. Calor del medio s\u00f3lido es suministrado continuamente sobre demanda. Un arreglo de ladrillos que incorpora cavidades de radiaci\u00f3n interna es directamente calentado por radiaci\u00f3n t\u00e9rmica. Las cavidades facilitan el r\u00e1pido calentamiento uniforme a trav\u00e9s de rerradiaci\u00f3n. El suministro de calor a trav\u00e9s del gas que fluye establece una termoclina que mantiene la descarga de alto rendimiento de temperatura de salida. El gas fluye a trav\u00e9s de las trayectorias estructuradas dentro del arreglo, suministrando calor que puede ser utilizado para procesos incluyendo calcinaci\u00f3n, electr\u00f3lisis de hidr\u00f3geno, generaci\u00f3n de vapor y generaci\u00f3n y cogeneraci\u00f3n de potencia t\u00e9rmica. Grupos de arreglos de almacenamiento t\u00e9rmico pueden ser controlados y operados a altas temperaturas sin fuga t\u00e9rmica a trav\u00e9s de secuenciaci\u00f3n de descarga a fondo. El control basado en pron\u00f3stico permite el suministro de calor continuo durante todo el a\u00f1o utilizando informaci\u00f3n actual y anticipada del clima y la disponibilidad de VRE. Los circuitos de conversi\u00f3n y distribuci\u00f3n de potencia CD de alto voltaje mejoran la eficiencia de la transferencia de potencia VRE al sistema.",
+      "publicationNumber": "CL2025001509",
+      "publicationDate": "2025-07-18",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "JOHN SETEL O'DONNELL",
+        "PETER EMERY VON BEHRENS",
+        "CHIAKI TREYNOR",
+        "Jeremy Quentin Keller",
+        "MATTHIEU JONEMANN",
+        "ROBERT RATZ",
+        "YUSEF DESJARDINS FERHANI"
+      ],
+      "applicationDate": "2025-05-22",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Environmental technology",
+        "Surface technology, coating",
+        "Thermal processes and apparatus",
+        "Transport"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "CL-2023001529-A1",
+      "title": [
+        "Sistema de almacenamiento de energ\u00eda y aplicaciones"
+      ],
+      "abstract": "Un sistema de almacenamiento de energ\u00eda convierte electricidad renovable (VRE) en calor continuo a m\u00e1s de 1000 \u00b0C. Energ\u00eda el\u00e9ctrica intermitente calienta un medio s\u00f3lido. Calor del medio s\u00f3lido es suministrado continuamente sobre demanda. Un arreglo de ladrillos que incorpora cavidades de radiaci\u00f3n interna es directamente calentado por radiaci\u00f3n t\u00e9rmica. Las cavidades facilitan el r\u00e1pido calentamiento uniforme a trav\u00e9s de rerradiaci\u00f3n. El suministro de calor a trav\u00e9s del gas que fluye establece una termoclina que mantiene la descarga de alto rendimiento de temperatura de salida. El gas fluye a trav\u00e9s de las trayectorias estructuradas dentro del arreglo, suministrando calor que puede ser utilizado para procesos incluyendo calcinaci\u00f3n, electr\u00f3lisis de hidr\u00f3geno, generaci\u00f3n de vapor y generaci\u00f3n y cogeneraci\u00f3n de potencia t\u00e9rmica. Grupos de arreglos de almacenamiento t\u00e9rmico pueden ser controlados y operados a altas temperaturas sin fuga t\u00e9rmica a trav\u00e9s de secuenciaci\u00f3n de descarga a fondo. El control basado en pron\u00f3stico permite el suministro de calor continuo durante todo el a\u00f1o utilizando informaci\u00f3n actual y anticipada del clima y la disponibilidad de VRE. Los circuitos de conversi\u00f3n y distribuci\u00f3n de potencia CD de alto voltaje mejoran la eficiencia de la transferencia de potencia VRE al sistema.",
+      "publicationNumber": "CL2023001529",
+      "publicationDate": "2023-12-22",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "JOHN SETEL O'DONNELL",
+        "PETER EMERY VON BEHRENS",
+        "CHIAKI TREYNOR",
+        "Jeremy Quentin Keller",
+        "MATTHIEU JONEMANN",
+        "ROBERT RATZ",
+        "YUSEF DESJARDINS FERHANI"
+      ],
+      "applicationDate": "2023-05-29",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Thermal processes and apparatus"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "AU-2024251596-A1",
+      "title": [
+        "THERMAL ENERGY STORAGE SYSTEMS WITH IMPROVED SEISMIC STABILITY"
+      ],
+      "abstract": "A thermal energy storage (TES) system converts variable renewable electricity (VRE) to continuous heat at over 900\u00b0C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. The delivered heat which may be used for processes including power generation and cogeneration. The thermal storage medium may constitute refractory material such as brick or concrete configured with radiation cavities and fluid flow channels to provide for rapid radiative charging from VRE and long-term convective discharging. Configurations of the thermal storage medium enable a substantially horizontal thermocline and heat delivery arrangement, which provides seismic stability and facilitates significant expandability of the TES system primarily by increasing the length of the system without adding undue height, contributing to both stability and efficiency of the heat delivery structure.",
+      "publicationNumber": "AU2024251596",
+      "publicationDate": "2025-11-27",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "Hayden BURVILL",
+        "Brayden BUTLER",
+        "Eldana NIYETBEK",
+        "PETER EMERY VON BEHRENS",
+        "Drew WEIBEL",
+        "JOHN WHITNEY"
+      ],
+      "applicationDate": "2024-04-11",
+      "claimsCount": 119,
+      "independentClaimsCount": 19,
+      "technologyFields": [
+        "Thermal processes and apparatus"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "AU-2023356588-A1",
+      "title": [
+        "SYSTEM FOR VOLTAGE-CONTROLLED POWER GRID REGULATION BASED UPON INPUT VARIABLE ENERGY SOURCES"
+      ],
+      "abstract": "An energy storage system (TES) converts variable renewable electricity (VRE) to continuous heat at over 1000\u00b0C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. The delivered heat which may be used for processes including power generation and cogeneration. In one application, the energy storage system is engaged to a power grid by one or more load circuits, and renewable energy sources supply power to the power grid through the use of novel inverters to match the load that is provided to the power grid.",
+      "publicationNumber": "AU2023356588",
+      "publicationDate": "2025-04-24",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "JOHN SETEL O'DONNELL",
+        "ROBERT RATZ"
+      ],
+      "applicationDate": "2023-10-04",
+      "claimsCount": 50,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "AU-2021385430-A9",
+      "title": [
+        "ENERGY STORAGE SYSTEM AND APPLICATIONS"
+      ],
+      "abstract": "An energy storage system converts variable renewable electricity (VRE) to continuous heat at over 1000\u00b0C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. An array of bricks incorporating internal radiation cavities is directly heated by thermal radiation. The cavities facilitate rapid, uniform heating via reradiation. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. Gas flows through structured pathways within the array, delivering heat which may be used for processes including calcination, hydrogen electrolysis, steam generation, and thermal power generation and cogeneration. Groups of thermal storage arrays may be controlled and operated at high temperatures without thermal runaway via deep-discharge sequencing. Forecast-based control enables continuous, year-round heat supply using current and advance information of weather and VRE availability. High-voltage DC power conversion and distribution circuitry improves the efficiency of VRE power transfer into the system.",
+      "publicationNumber": "AU2021385430",
+      "publicationDate": "2024-02-08",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "Yusef Desjardins FERHANI",
+        "MATTHIEU JONEMANN",
+        "Jeremy Quentin KELLER",
+        "JOHN SETEL O'DONNELL",
+        "ROBERT RATZ",
+        "CHIAKI TREYNOR",
+        "PETER EMERY VON BEHRENS"
+      ],
+      "applicationDate": "2021-11-29",
+      "claimsCount": 643,
+      "independentClaimsCount": 63,
+      "technologyFields": [
+        "Control",
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Environmental technology",
+        "Solar energy",
+        "Surface technology, coating",
+        "Thermal processes and apparatus",
+        "Transport",
+        "Wind energy technology"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "AU-2021385430-A1",
+      "title": [
+        "ENERGY STORAGE SYSTEM AND APPLICATIONS"
+      ],
+      "abstract": "An energy storage system converts variable renewable electricity (VRE) to continuous heat at over 1000\u00b0C. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. An array of bricks incorporating internal radiation cavities is directly heated by thermal radiation. The cavities facilitate rapid, uniform heating via reradiation. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. Gas flows through structured pathways within the array, delivering heat which may be used for processes including calcination, hydrogen electrolysis, steam generation, and thermal power generation and cogeneration. Groups of thermal storage arrays may be controlled and operated at high temperatures without thermal runaway via deep-discharge sequencing. Forecast-based control enables continuous, year-round heat supply using current and advance information of weather and VRE availability. High-voltage DC power conversion and distribution circuitry improves the efficiency of VRE power transfer into the system.",
+      "publicationNumber": "AU2021385430",
+      "publicationDate": "2023-07-06",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "Yusef Desjardins FERHANI",
+        "MATTHIEU JONEMANN",
+        "Jeremy Quentin KELLER",
+        "JOHN SETEL O'DONNELL",
+        "ROBERT RATZ",
+        "CHIAKI TREYNOR",
+        "PETER EMERY VON BEHRENS"
+      ],
+      "applicationDate": "2021-11-29",
+      "claimsCount": 643,
+      "independentClaimsCount": 63,
+      "technologyFields": [
+        "Control",
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Environmental technology",
+        "Solar energy",
+        "Surface technology, coating",
+        "Thermal processes and apparatus",
+        "Transport",
+        "Wind energy technology"
+      ],
+      "score": 13.173077
+    },
+    {
+      "id": "WO-2026006478-A1",
+      "title": [
+        "THERMAL ENERGY STORAGE SYSTEM COUPLED TO A SOLID OXIDE SYSTEM AND A THERMAL CASCADE HEAT EXCHANGER"
+      ],
+      "abstract": "An energy storage system (TES) converts variable renewable electricity (VRE) to continuous heat. Intermittent electrical energy heats a solid medium. Heat from the solid medium is delivered continuously on demand. Heat delivery via flowing gas establishes a thermocline which maintains high outlet temperature throughout discharge. The delivered heat which may be used for processes including power generation and cogeneration. In one application, the energy storage system provides higher-temperature heat to a solid oxide system to maintain in an operating temperature range during operation and nonoperation, thereby increasing the efficiency of the temperature control.",
+      "publicationNumber": "WO2026006478",
+      "publicationDate": "2026-01-02",
+      "assignee": [
+        "Rondo Energy, Inc."
+      ],
+      "inventors": [
+        "JOHN SETEL O'DONNELL",
+        "Yusef Desjardins FERHANI"
+      ],
+      "applicationDate": "2025-06-25",
+      "claimsCount": 43,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 13.123026
+    }
+  ]
+}

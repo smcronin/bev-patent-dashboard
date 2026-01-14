@@ -1,0 +1,11 @@
+{
+  "search_id": "search_20260114_121848",
+  "timestamp": "2026-01-14T12:18:48.131295",
+  "query_type": "ai_search",
+  "user_prompt": "PA=(H2Pro) AND PD>2015",
+  "minesoft_query": "PA=(H2Pro) AND PD>2015",
+  "results_count": 49,
+  "directory": "2026-01-14_h2pro_and_2015",
+  "execution_time_ms": 693.3650970458984,
+  "api_endpoint": "query"
+}

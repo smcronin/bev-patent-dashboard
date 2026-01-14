@@ -1,0 +1,767 @@
+{
+  "count": 30,
+  "numFound": 30,
+  "docs": [
+    {
+      "id": "WO-2025170668-A1",
+      "title": [
+        "MICROSEISMIC MONITORING OF A HORIZONTAL EGS SYSTEM"
+      ],
+      "abstract": "The present invention relates to systems and methods for monitoring microseismic activity in a geothermal well system using fiber optic sensing technology. The system includes fiber optic cables installed in multiple wells of the geothermal well system. The fiber optic cables enable simultaneous collection of distributed acoustic sensing (DAS) data, strain measurements, and temperature data. By detecting and localizing microseismic events during stimulation and operation of the geothermal well system, seismic activity is maintained within safety thresholds, providing for safe and effective extraction from the geothermal well system.",
+      "publicationNumber": "WO2025170668",
+      "publicationDate": "2025-08-14",
+      "assignee": [
+        "FERVO ENERGY COMPANY"
+      ],
+      "inventors": [
+        "Sireesh DADI",
+        "Jack NORBECK",
+        "Aleksei Titov",
+        "Chinaemerem KANU"
+      ],
+      "applicationDate": "2024-12-06",
+      "claimsCount": 15,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Measurement"
+      ],
+      "score": 18.446205
+    },
+    {
+      "id": "WO-2025038779-A1",
+      "title": [
+        "A METHOD TO DETERMINE WELLBORE PLACEMENT BASED ON FRACTURE ORIENTATIONS AND STRESS CONDITIONS"
+      ],
+      "abstract": "Wellbore placement and design can have a strong impact on the recovery efficiency of energy from subsurface reservoirs. In reservoirs where much of the flow occurs through fractures, the interactions between state of stress and fracture deformation controls fluid flow behavior. The present invention relates to methods to determine wellbore engineering designs based on a combination of state of stress, preexisting fractures, and newly formed fractures.",
+      "publicationNumber": "WO2025038779",
+      "publicationDate": "2025-02-20",
+      "assignee": [
+        "FERVO ENERGY COMPANY"
+      ],
+      "inventors": [
+        "Timothy LATIMER",
+        "Jack NORBECK"
+      ],
+      "applicationDate": "2024-08-14",
+      "claimsCount": 15,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Civil engineering"
+      ],
+      "score": 18.438126
+    },
+    {
+      "id": "US-20240377548-A1",
+      "title": [
+        "FIBER OPTICS ACOUSTIC STEERING FOR DIRECTIONAL DRILLING"
+      ],
+      "abstract": "Systems and techniques may be used to obtaining information corresponding to a drill bit in use during downhole drilling in a first well. An example technique may include sending a laser pulse down a fiber optic cable in a second well, capturing, using distributed acoustic sensing (DAS), backscatter light propagated back from the laser pulse, and determining strain changes over the fiber optic cable based on a change in optical phase over a time period. The strain changes may be used to generate seismic while drilling (SWD) data. The example technique may include outputting drill bit data for the drill bit based on comparing the SWD data to a pilot signal.",
+      "publicationNumber": "US20240377548",
+      "publicationDate": "2024-11-14",
+      "assignee": [
+        "FERVO ENERGY COMPANY"
+      ],
+      "inventors": [
+        "Jack Norbeck",
+        "Aleksei Titov"
+      ],
+      "applicationDate": "2024-05-09",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Civil engineering",
+        "Measurement"
+      ],
+      "score": 18.435991
+    },
+    {
+      "id": "US-20240377550-A1",
+      "title": [
+        "COMPLETION AND WELL PLACEMENT OPTIMIZATION USING DISTRIBUTED FIBER OPTIC SENSING IN NEXT-GENERATION GEOTHERMAL PROJECTS"
+      ],
+      "abstract": "Systems and techniques may be used to obtain information corresponding to a well of a reservoir. An example technique may include drilling a first well, inserting a fiber optic cable into the first well, sending a laser pulse down the fiber optic cable, and capturing distributed fiber optic sensing (DFOS) data. The example technique may include determining, based on the DFOS data, well placement parameters for a second well, and outputting the well placement parameters for the second well.",
+      "publicationNumber": "US20240377550",
+      "publicationDate": "2024-11-14",
+      "assignee": [
+        "FERVO ENERGY COMPANY"
+      ],
+      "inventors": [
+        "Jack Norbeck",
+        "Aleksei Titov"
+      ],
+      "applicationDate": "2024-05-09",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Geothermal energy",
+        "Measurement",
+        "Thermal processes and apparatus"
+      ],
+      "score": 17.335657
+    },
+    {
+      "id": "US-20250327393-A1",
+      "title": [
+        "CONTROLLING FRACTURE GROWTH DURING STIMULATION OF SUBSURFACE RESERVOIRS USING OFFSET WELLS"
+      ],
+      "abstract": "Systems and techniques may be used to increase recovery of a geothermal energy resource. An example technique includes selecting a first borehole that extends from a surface of the earth into a first location in a geothermal reservoir, conditioning the first borehole by pumping a fluid into or out of the first borehole at a predetermined operating condition to change a property of the geothermal reservoir, and selecting a second borehole that extends from the surface of the earth into a second location in the geothermal reservoir. The example technique may include enhancing permeability of the geothermal reservoir by using a reservoir stimulation technique on the second borehole, wherein a property of a stimulated reservoir volume is controlled by the property of the geothermal reservoir that was changed by conditioning the first borehole.",
+      "publicationNumber": "US20250327393",
+      "publicationDate": "2025-10-23",
+      "assignee": [
+        "FERVO ENERGY COMPANY"
+      ],
+      "inventors": [
+        "Timothy Latimer",
+        "Jack Norbeck"
+      ],
+      "applicationDate": "2025-06-27",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Civil engineering",
+        "Geothermal energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 17.32759
+    },
+    {
+      "id": "US-20250257638-A1",
+      "title": [
+        "SELF-CORRECTING FLOW IN SUBSURFACE WELLS"
+      ],
+      "abstract": "Systems and techniques may include enhancing production of a natural resource from a reservoir in the earth. A technique may include, in a reservoir comprising a first and a second well, pumping a first material down the first well into the reservoir, and circulating the first material through the reservoir at a first flow rate and up the second well for a period of time, the first material interacting with a proppant in a fracture zone in the reservoir or reacting with a formation in the fracture zone, or reacting with both. A first permeability of the fracture zone in the reservoir may be reduced to define a reduced permeability. The reduced permeability in first fracture zone may direct the flow of the material to a second fracture zone, increasing the flow of material in a second fraction zone, and the permeability of the second fraction zone may be reduced.",
+      "publicationNumber": "US20250257638",
+      "publicationDate": "2025-08-14",
+      "assignee": [
+        "FERVO ENERGY COMPANY"
+      ],
+      "inventors": [
+        "Timothy Latimer",
+        "Jack Norbeck"
+      ],
+      "applicationDate": "2025-04-02",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Civil engineering"
+      ],
+      "score": 17.32759
+    },
+    {
+      "id": "WO-2023055713-A1",
+      "title": [
+        "DIRECT AIR CAPTURE USING GEOTHERMAL COOLING TOWERS"
+      ],
+      "abstract": "Systems and techniques may be used for incorporating direct air carbon dioxide capture capabilities into a working fluid condensing process of a geothermal power plant. An example technique may include causing, using fans, air to flow across condenser coils of a condensing unit, through which power cycle working fluid is circulated, and through a direct air capture (DAC) filtration component, which separates carbon from the air, capturing heat from a geothermal working fluid, and using the heat as thermal energy input to the DAC filtration component or using electrical energy generated from the geothermal power plant as electrical energy input to power the condensing unit and the DAC filtration component. The example technique may include gathering the carbon separated from the air to be injected into a geothermal reservoir or repurposed for another industrial process.",
+      "publicationNumber": "WO2023055713",
+      "publicationDate": "2023-04-06",
+      "assignee": [
+        "FERVO ENERGY COMPANY"
+      ],
+      "inventors": [
+        "Sarah JEWETT",
+        "Jack NORBECK",
+        "Timothy LATIMER",
+        "Kate VOLLER"
+      ],
+      "applicationDate": "2022-09-27",
+      "claimsCount": 29,
+      "independentClaimsCount": 6,
+      "technologyFields": [
+        "Biotechnology",
+        "Chemical engineering",
+        "Engines, pumps, turbines",
+        "Environmental technology",
+        "Materials, metallurgy"
+      ],
+      "score": 16.975712
+    },
+    {
+      "id": "EP-4409211-A4",
+      "title": [
+        "DIRECT AIR CAPTURE USING GEOTHERMAL COOLING TOWERS"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP4409211",
+      "publicationDate": "2026-01-07",
+      "assignee": [
+        "FERVO ENERGY COMPANY"
+      ],
+      "inventors": [
+        "Sarah JEWETT",
+        "Jack NORBECK",
+        "Timothy LATIMER",
+        "Kate VOLLER"
+      ],
+      "applicationDate": "2022-09-27",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Environmental technology",
+        "Geothermal energy"
+      ],
+      "score": 16.975712
+    },
+    {
+      "id": "EP-4409211-A1",
+      "title": [
+        "DIRECT AIR CAPTURE USING GEOTHERMAL COOLING TOWERS"
+      ],
+      "abstract": "Systems and techniques may be used for incorporating direct air carbon dioxide capture capabilities into a working fluid condensing process of a geothermal power plant. An example technique may include causing, using fans, air to flow across condenser coils of a condensing unit, through which power cycle working fluid is circulated, and through a direct air capture (DAC) filtration component, which separates carbon from the air, capturing heat from a geothermal working fluid, and using the heat as thermal energy input to the DAC filtration component or using electrical energy generated from the geothermal power plant as electrical energy input to power the condensing unit and the DAC filtration component. The example technique may include gathering the carbon separated from the air to be injected into a geothermal reservoir or repurposed for another industrial process.",
+      "publicationNumber": "EP4409211",
+      "publicationDate": "2024-08-07",
+      "assignee": [
+        "Fervo Energy Company"
+      ],
+      "inventors": [
+        "Sarah JEWETT",
+        "Jack NORBECK",
+        "Timothy LATIMER",
+        "Kate VOLLER"
+      ],
+      "applicationDate": "2022-09-27",
+      "claimsCount": 29,
+      "independentClaimsCount": 6,
+      "technologyFields": [
+        "Biotechnology",
+        "Chemical engineering",
+        "Engines, pumps, turbines",
+        "Environmental technology",
+        "Materials, metallurgy"
+      ],
+      "score": 16.975712
+    },
+    {
+      "id": "WO-2020037062-A1",
+      "title": [
+        "METHODS AND SYSTEMS TO CONTROL FLOW AND HEAT TRANSFER BETWEEN SUBSURFACE WELLBORES CONNECTED HYDRAULICALLY BY FRACTURES"
+      ],
+      "abstract": "A controlled rate of propagation of the fluid saturation front or thermal front is desired in may oil and gas and geothermal operations. Natural fractures and fractures created during hydraulic stimulation may have heterogeneous hydraulic properties resulting in uneven flow distributions, therefore leading to short-circuiting and breakthrough issues. The present invention relates to wellbores connected hydraulically by multiple fracture zones; methods are directed to control for even flow distribution among fractures, regardless of heterogeneities in fracture hydraulic properties, and to control propagation of saturation fronts and thermal fronts in subsurface reservoirs.",
+      "publicationNumber": "WO2020037062",
+      "publicationDate": "2020-02-20",
+      "assignee": [
+        "FERVO ENERGY COMPANY"
+      ],
+      "inventors": [
+        "Jack NORBECK",
+        "Timothy LATIMER"
+      ],
+      "applicationDate": "2019-08-14",
+      "claimsCount": 56,
+      "independentClaimsCount": 10,
+      "technologyFields": [
+        "Civil engineering",
+        "Engines, pumps, turbines",
+        "Geothermal energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 16.883774
+    },
+    {
+      "id": "US-20240263548-A1",
+      "title": [
+        "METHODS AND SYSTEMS TO CONTROL FLOW AND HEAT TRANSFER BETWEEN SUBSURFACE WELLBORES CONNECTED HYDRAULICALLY BY FRACTURES"
+      ],
+      "abstract": "A controlled rate of propagation of the fluid saturation front or thermal front is desired in may oil and gas and geothermal operations. Natural fractures and fractures created during hydraulic stimulation may have heterogeneous hydraulic properties resulting in uneven flow distributions, therefore leading to short-circuiting and breakthrough issues. The present invention relates to wellbores connected hydraulically by multiple fracture zones; methods are directed to control for even flow distribution among fractures, regardless of heterogeneities in fracture hydraulic properties, and to control propagation of saturation fronts and thermal fronts in subsurface reservoirs.",
+      "publicationNumber": "US20240263548",
+      "publicationDate": "2024-08-08",
+      "assignee": [
+        "FERVO ENERGY COMPANY"
+      ],
+      "inventors": [
+        "Jack Norbeck",
+        "Timothy Latimer"
+      ],
+      "applicationDate": "2023-10-03",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Civil engineering"
+      ],
+      "score": 16.883774
+    },
+    {
+      "id": "EP-3837429-A4",
+      "title": [
+        "METHODS AND SYSTEMS TO CONTROL FLOW AND HEAT TRANSFER BETWEEN SUBSURFACE WELLBORES CONNECTED HYDRAULICALLY BY FRACTURES"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP3837429",
+      "publicationDate": "2022-08-24",
+      "assignee": [
+        "Fervo Energy Company"
+      ],
+      "inventors": [
+        "Jack NORBECK",
+        "Timothy LATIMER"
+      ],
+      "applicationDate": "2019-08-14",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Civil engineering",
+        "Engines, pumps, turbines",
+        "Geothermal energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 16.883774
+    },
+    {
+      "id": "EP-3837429-A1",
+      "title": [
+        "METHODS AND SYSTEMS TO CONTROL FLOW AND HEAT TRANSFER BETWEEN SUBSURFACE WELLBORES CONNECTED HYDRAULICALLY BY FRACTURES"
+      ],
+      "abstract": "A controlled rate of propagation of the fluid saturation front or thermal front is desired in may oil and gas and geothermal operations. Natural fractures and fractures created during hydraulic stimulation may have heterogeneous hydraulic properties resulting in uneven flow distributions, therefore leading to short-circuiting and breakthrough issues. The present invention relates to wellbores connected hydraulically by multiple fracture zones; methods are directed to control for even flow distribution among fractures, regardless of heterogeneities in fracture hydraulic properties, and to control propagation of saturation fronts and thermal fronts in subsurface reservoirs.",
+      "publicationNumber": "EP3837429",
+      "publicationDate": "2021-06-23",
+      "assignee": [
+        "Fervo Energy Company"
+      ],
+      "inventors": [
+        "Jack NORBECK",
+        "Timothy LATIMER"
+      ],
+      "applicationDate": "2019-08-14",
+      "claimsCount": 56,
+      "independentClaimsCount": 10,
+      "technologyFields": [
+        "Civil engineering",
+        "Engines, pumps, turbines",
+        "Geothermal energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 16.883774
+    },
+    {
+      "id": "US-12378866-B1",
+      "title": [
+        "Controlling fracture growth during stimulation of subsurface reservoirs using offset wells"
+      ],
+      "abstract": "Systems and techniques may be used to increase recovery of a geothermal energy resource. An example technique includes selecting a first borehole that extends from a surface of the earth into a first location in a geothermal reservoir, conditioning the first borehole by pumping a fluid into or out of the first borehole at a predetermined operating condition to change a property of the geothermal reservoir, and selecting a second borehole that extends from the surface of the earth into a second location in the geothermal reservoir. The example technique may include enhancing permeability of the geothermal reservoir by using a reservoir stimulation technique on the second borehole, wherein a property of a stimulated reservoir volume is controlled by the property of the geothermal reservoir that was changed by conditioning the first borehole.",
+      "publicationNumber": "US12378866",
+      "publicationDate": "2025-08-05",
+      "assignee": [
+        "FERVO ENERGY COMPANY"
+      ],
+      "inventors": [
+        "Timothy Latimer",
+        "Jack Norbeck"
+      ],
+      "applicationDate": "2023-08-15",
+      "claimsCount": 17,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Civil engineering",
+        "Geothermal energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 16.664738
+    },
+    {
+      "id": "US-12297724-B1",
+      "title": [
+        "Self-correcting flow in subsurface wells"
+      ],
+      "abstract": "Systems and techniques may include enhancing production of a natural resource from a reservoir in the earth.By pumping and circulating a material through a reservoir, where the material interacts with proppant or formation material in fracture zones, the interaction reduces permeability in an overproductive fracture zone and redirects flow to an underproductive fracture zone. Through this self-correcting feedback mechanism, flow redistributes more uniformly across multiple fracture zones over time, resulting in more even permeability distribution and improved reservoir performance. The systems and techniques enable passive treatment using chemical solutions that create self-correcting permeability changes, leading to more controlled and efficient resource recovery from subsurface reservoirs.",
+      "publicationNumber": "US12297724",
+      "publicationDate": "2025-05-13",
+      "assignee": [
+        "FERVO ENERGY COMPANY"
+      ],
+      "inventors": [
+        "Timothy Latimer",
+        "Jack Norbeck"
+      ],
+      "applicationDate": "2023-08-15",
+      "claimsCount": 16,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Civil engineering"
+      ],
+      "score": 16.664738
+    },
+    {
+      "id": "WO-2025171177-A1",
+      "title": [
+        "GEOLOGY, TEMPERATURE, GEOPHYSICS, STRESS ORIENTATIONS, AND NATURAL FRACTURING"
+      ],
+      "abstract": "The present invention relates to systems and methods for developing and characterizing geothermal well systems. Data, collected from a survey area is used to generate a 3D geologic model and a temperature distribution model of a subsurface region in the survey area. Using the 3D geologic model and the temperature distribution model, a vertical observation well is drilled to a specified depth, facilitating further collection of data from the survey area and improvement of the 3D geologic model and the temperature distribution model.",
+      "publicationNumber": "WO2025171177",
+      "publicationDate": "2025-08-14",
+      "assignee": [
+        "FERVO ENERGY COMPANY"
+      ],
+      "inventors": [
+        "Steven FERCHO",
+        "Gabe MATSON",
+        "Emma G. MCCONVILLE",
+        "Greg Rhodes",
+        "Ryan JORDAN",
+        "Jack NORBECK"
+      ],
+      "applicationDate": "2025-02-06",
+      "claimsCount": 15,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Civil engineering",
+        "Measurement"
+      ],
+      "score": 16.2641
+    },
+    {
+      "id": "WO-2025171116-A1",
+      "title": [
+        "DRILLING PERFORMANCE IN A HORIZONTAL EGS DEVELOPMENT"
+      ],
+      "abstract": "The present invention relates to systems and methods for improving drilling performance in horizontal enhanced geothermal system (EGS) wells. The systems and methods include techniques for drilling horizontal EGS wells developed over a series of successful drilling campaigns in which changes to drilling parameters and corresponding drilling performance outcomes were monitored and documented. Through iterative optimization across multiple drilling campaigns, sustained drilling rates of at least 70 feet per hour over run lengths of 2,800 feet in hard rock formations having unconfined compressive strength between 30-50 ksi have been achieved.",
+      "publicationNumber": "WO2025171116",
+      "publicationDate": "2025-08-14",
+      "assignee": [
+        "FERVO ENERGY COMPANY"
+      ],
+      "inventors": [
+        "Kareem EL-SADI",
+        "Brittany GIERKE",
+        "Elliot HOWARD",
+        "CHRISTIAN GRADL",
+        "Jack NORBECK"
+      ],
+      "applicationDate": "2025-02-06",
+      "claimsCount": 15,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Civil engineering",
+        "Geothermal energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 16.2641
+    },
+    {
+      "id": "WO-2025019064-A1",
+      "title": [
+        "ENHANCED GEOTHERMAL SYSTEM"
+      ],
+      "abstract": "Systems and techniques may be used to operate an enhanced geothermal system (EGS). An example technique may include applying a stimulation treatment including a proppant to generate a distributed network of fractures along wellbores between a horizontal geothermal injection well and a horizontal geothermal production well. The horizontal geothermal injection well and the horizontal geothermal production well may be positioned within a mixed metasedimentary and igneous formation.",
+      "publicationNumber": "WO2025019064",
+      "publicationDate": "2025-01-23",
+      "assignee": [
+        "FERVO ENERGY COMPANY"
+      ],
+      "inventors": [
+        "Jack NORBECK",
+        "Timothy LATIMER"
+      ],
+      "applicationDate": "2024-05-20",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Civil engineering",
+        "Geothermal energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 16.2641
+    },
+    {
+      "id": "WO-2022061320-A1",
+      "title": [
+        "SYSTEMS AND METHODS FOR GEOTHERMAL ENERGY STORAGE"
+      ],
+      "abstract": "A method and system may be used for storing energy in a geothermal system and recovering both the stored energy as well as thermal energy on demand. The geothermal system may include injection and production wells that are hydraulically coupled in a geothermal energy reservoir that behaves as a confined reservoir system with thermal energy transferring to fluid injected into the injection well and removed via the production well. Injection flow rate, injection pressure, production flow rate, production backpressure, or fluid residence time may be managed to control energy consumption or energy generation profiles of the geothermal system. During an energy storage mode, the injection flow rate exceeds the production flow rate thereby storing energy in the geothermal reservoir. During an energy recovery mode, production backpressure is reduced thereby releasing the stored energy and electricity is generated by removing the thermal energy from the fluid in a heat engine.",
+      "publicationNumber": "WO2022061320",
+      "publicationDate": "2022-03-24",
+      "assignee": [
+        "FERVO ENERGY COMPANY"
+      ],
+      "inventors": [
+        "Jack NORBECK",
+        "Timothy LATIMER",
+        "CHRISTIAN GRADL"
+      ],
+      "applicationDate": "2021-07-16",
+      "claimsCount": 48,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Geothermal energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 16.2641
+    },
+    {
+      "id": "US-20250251523-A1",
+      "title": [
+        "GEOLOGY, TEMPERATURE, GEOPHYSICS, STRESS ORIENTATIONS, AND NATURAL FRACTURING"
+      ],
+      "abstract": "The present invention relates to systems and methods for developing and characterizing geothermal well systems. Data collected from a survey area is used to generate a 3D geologic model and a temperature distribution model of a subsurface region in the survey area. Using the 3D geologic model and the temperature distribution model, a vertical observation well is drilled to a specified depth, facilitating further collection of data from the survey area and improvement of the 3D geologic model and the temperature distribution model.",
+      "publicationNumber": "US20250251523",
+      "publicationDate": "2025-08-07",
+      "assignee": [
+        "FERVO ENERGY COMPANY"
+      ],
+      "inventors": [
+        "Steven Fercho",
+        "Gabe Matson",
+        "Emma G. McConville",
+        "Greg Rhodes",
+        "RYAN JORDAN",
+        "Jack Norbeck"
+      ],
+      "applicationDate": "2025-02-06",
+      "claimsCount": 15,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Measurement"
+      ],
+      "score": 16.2641
+    },
+    {
+      "id": "US-20250027687-A1",
+      "title": [
+        "ENHANCED GEOTHERMAL SYSTEM"
+      ],
+      "abstract": "Systems and techniques may be used to operate an enhanced geothermal system (EGS). An example technique may include applying a stimulation treatment including a proppant to generate a distributed network of fractures along wellbores between a horizontal geothermal injection well and a horizontal geothermal production well. The horizontal geothermal injection well and the horizontal geothermal production well may be positioned within a mixed metasedimentary and igneous formation.",
+      "publicationNumber": "US20250027687",
+      "publicationDate": "2025-01-23",
+      "assignee": [
+        "FERVO ENERGY COMPANY"
+      ],
+      "inventors": [
+        "Jack Norbeck",
+        "Timothy Latimer"
+      ],
+      "applicationDate": "2024-05-17",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Civil engineering",
+        "Geothermal energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 16.2641
+    },
+    {
+      "id": "US-20240418413-A1",
+      "title": [
+        "SYSTEMS AND METHODS FOR GEOTHERMAL ENERGY STORAGE"
+      ],
+      "abstract": "A method and system may be used for storing energy in a geothermal system and recovering both the stored energy as CD well as thermal energy on demand. The geothermal system may include injection and production wells that are hydraulically coupled in a geothermal energy reservoir that behaves as a confined reservoir system with thermal energy transferring to fluid injected into the injection well and removed via the production well. Injection flow rate, injection pressure, production flow rate, production backpressure, or fluid residence time may be managed to control energy consumption or energy generation profiles of the geothermal system. During an energy storage mode, the injection flow rate exceeds the production flow rate thereby storing energy in the geothermal reservoir. During an energy recovery mode, production backpressure is reduced thereby releasing the stored energy and electricity is generated by removing the thermal energy from the fluid in a heat engine.",
+      "publicationNumber": "US20240418413",
+      "publicationDate": "2024-12-19",
+      "assignee": [
+        "FERVO ENERGY COMPANY"
+      ],
+      "inventors": [
+        "Jack Norbeck",
+        "Timothy Latimer",
+        "Christian Gradl"
+      ],
+      "applicationDate": "2024-01-12",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Geothermal energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 16.2641
+    },
+    {
+      "id": "US-20230408151-A1",
+      "title": [
+        "SYSTEMS AND METHODS FOR GEOTHERMAL ENERGY STORAGE"
+      ],
+      "abstract": "A method and system may be used for storing energy in a geothermal system and recovering both the stored energy as well as thermal energy on demand. The geothermal system may include injection and production wells that are hydraulically coupled in a geothermal energy reservoir that behaves as a confined reservoir system with thermal energy transferring to fluid injected into the injection well and removed via the production well. Injection flow rate, injection pressure, production flow rate, production backpressure, or fluid residence time may be managed to control energy consumption or energy generation profiles of the geothermal system. During an energy storage mode, the injection flow rate exceeds the production flow rate thereby storing energy in the geothermal reservoir. During an energy recovery mode, production backpressure is reduced thereby releasing the stored energy and electricity is generated by removing the thermal energy from the fluid in a heat engine.",
+      "publicationNumber": "US20230408151",
+      "publicationDate": "2023-12-21",
+      "assignee": [
+        "FERVO ENERGY COMPANY"
+      ],
+      "inventors": [
+        "Jack Norbeck",
+        "Timothy Latimer",
+        "Christian Gradl"
+      ],
+      "applicationDate": "2021-07-16",
+      "claimsCount": 48,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Geothermal energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 16.2641
+    },
+    {
+      "id": "EP-4214416-A4",
+      "title": [
+        "SYSTEMS AND METHODS FOR GEOTHERMAL ENERGY STORAGE"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP4214416",
+      "publicationDate": "2024-10-09",
+      "assignee": [
+        "Fervo Energy Company"
+      ],
+      "inventors": [
+        "Jack NORBECK",
+        "Timothy LATIMER",
+        "CHRISTIAN GRADL"
+      ],
+      "applicationDate": "2021-07-16",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Geothermal energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 16.2641
+    },
+    {
+      "id": "EP-4214416-A1",
+      "title": [
+        "SYSTEMS AND METHODS FOR GEOTHERMAL ENERGY STORAGE"
+      ],
+      "abstract": "A method and system may be used for storing energy in a geothermal system and recovering both the stored energy as well as thermal energy on demand. The geothermal system may include injection and production wells that are hydraulically coupled in a geothermal energy reservoir that behaves as a confined reservoir system with thermal energy transferring to fluid injected into the injection well and removed via the production well. Injection flow rate, injection pressure, production flow rate, production backpressure, or fluid residence time may be managed to control energy consumption or energy generation profiles of the geothermal system. During an energy storage mode, the injection flow rate exceeds the production flow rate thereby storing energy in the geothermal reservoir. During an energy recovery mode, production backpressure is reduced thereby releasing the stored energy and electricity is generated by removing the thermal energy from the fluid in a heat engine.",
+      "publicationNumber": "EP4214416",
+      "publicationDate": "2023-07-26",
+      "assignee": [
+        "Fervo Energy Company"
+      ],
+      "inventors": [
+        "Jack NORBECK",
+        "Timothy LATIMER",
+        "CHRISTIAN GRADL"
+      ],
+      "applicationDate": "2021-07-16",
+      "claimsCount": 48,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Geothermal energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 16.2641
+    },
+    {
+      "id": "US-12281550-B2",
+      "title": [
+        "Methods and systems to control flow and heat transfer between subsurface wellbores connected hydraulically by fractures"
+      ],
+      "abstract": "A controlled rate of propagation of the fluid saturation front or thermal front is desired in may oil and gas and geothermal operations. Natural fractures and fractures created during hydraulic stimulation may have heterogeneous hydraulic properties resulting in uneven flow distributions, therefore leading to short-circuiting and breakthrough issues. The present invention relates to wellbores connected hydraulically by multiple fracture zones; methods are directed to control for even flow distribution among fractures, regardless of heterogeneities in fracture hydraulic properties, and to control propagation of saturation fronts and thermal fronts in subsurface reservoirs.",
+      "publicationNumber": "US12281550",
+      "publicationDate": "2025-04-22",
+      "assignee": [
+        "FERVO ENERGY COMPANY"
+      ],
+      "inventors": [
+        "Jack Norbeck",
+        "Timothy Latimer"
+      ],
+      "applicationDate": "2023-10-03",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Civil engineering"
+      ],
+      "score": 16.238834
+    },
+    {
+      "id": "US-11808121-B2",
+      "title": [
+        "Methods and systems to control flow and heat transfer between subsurface wellbores connected hydraulically by fractures"
+      ],
+      "abstract": "A controlled rate of propagation of the fluid saturation front or thermal front is desired in may oil and gas and geothermal operations. Natural fractures and fractures created during hydraulic stimulation may have heterogeneous hydraulic properties resulting in uneven flow distributions, therefore leading to short-circuiting and breakthrough issues. The present invention relates to wellbores connected hydraulically by multiple fracture zones; methods are directed to control for even flow distribution among fractures, regardless of heterogeneities in fracture hydraulic properties, and to control propagation of saturation fronts and thermal fronts in subsurface reservoirs.",
+      "publicationNumber": "US11808121",
+      "publicationDate": "2023-11-07",
+      "assignee": [
+        "FERVO ENERGY COMPANY"
+      ],
+      "inventors": [
+        "Jack Norbeck",
+        "Timothy Latimer"
+      ],
+      "applicationDate": "2019-08-14",
+      "claimsCount": 22,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Civil engineering"
+      ],
+      "score": 16.238834
+    },
+    {
+      "id": "US-20230102252-A1",
+      "title": [
+        "DIRECT AIR CAPTURE USING GEOTHERMAL COOLING TOWERS"
+      ],
+      "abstract": "Systems and techniques may be used for incorporating direct air carbon dioxide capture capabilities into a working fluid condensing process of a geothermal power plant. An example technique may include causing, using fans, air to flow across condenser coils of a condensing unit, through which power cycle working fluid is circulated, and through a direct air capture (DAC) filtration component, which separates carbon from the air, capturing heat from a geothermal working fluid, and using the heat as thermal energy input to the DAC filtration component or using electrical energy generated from the geothermal power plant as electrical energy input to power the condensing unit and the DAC filtration component. The example technique may include gathering the carbon separated from the air to be injected into a geothermal reservoir or repurposed for another industrial process.",
+      "publicationNumber": "US20230102252",
+      "publicationDate": "2023-03-30",
+      "assignee": [
+        "FERVO ENERGY COMPANY"
+      ],
+      "inventors": [
+        "Sarah Jewett",
+        "Jack Norbeck",
+        "Timothy Latimer",
+        "Katharine Voller"
+      ],
+      "applicationDate": "2022-09-27",
+      "claimsCount": 20,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Environmental technology",
+        "Geothermal energy"
+      ],
+      "score": 16.028177
+    },
+    {
+      "id": "US-11927369-B2",
+      "title": [
+        "Systems and methods for geothermal energy storage"
+      ],
+      "abstract": "A method and system may be used for storing energy in a geothermal system and recovering both the stored energy as well as thermal energy on demand. The geothermal system may include injection and production wells that are hydraulically coupled in a geothermal energy reservoir that behaves as a confined reservoir system with thermal energy transferring to fluid injected into the injection well and removed via the production well. Injection flow rate, injection pressure, production flow rate, production backpressure, or fluid residence time may be managed to control energy consumption or energy generation profiles of the geothermal system. During an energy storage mode, the injection flow rate exceeds the production flow rate thereby storing energy in the geothermal reservoir. During an energy recovery mode, production backpressure is reduced thereby releasing the stored energy and electricity is generated by removing the thermal energy from the fluid in a heat engine.",
+      "publicationNumber": "US11927369",
+      "publicationDate": "2024-03-12",
+      "assignee": [
+        "FERVO ENERGY COMPANY"
+      ],
+      "inventors": [
+        "Jack Norbeck",
+        "Timothy Latimer",
+        "Christian Gradl"
+      ],
+      "applicationDate": "2021-07-16",
+      "claimsCount": 48,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Geothermal energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 15.644286
+    },
+    {
+      "id": "US-20200217181-A1",
+      "title": [
+        "METHODS AND SYSTEMS TO CONTROL FLOW AND HEAT TRANSFER BETWEEN SUBSURFACE WELLBORES CONNECTED HYDRAULICALLY BY FRACTURES"
+      ],
+      "abstract": "A controlled rate of propagation of the fluid saturation front or thermal front is desired in may oil and gas and geothermal operations. Natural fractures and fractures created during hydraulic stimulation may have heterogeneous hydraulic properties resulting in uneven flow distributions, therefore leading to short-circuiting and breakthrough issues. The present invention relates to wellbores connected hydraulically by multiple fracture zones; methods are directed to control for even flow distribution among fractures, regardless of heterogeneities in fracture hydraulic properties, and to control propagation of saturation fronts and thermal fronts in subsurface reservoirs.",
+      "publicationNumber": "US20200217181",
+      "publicationDate": "2020-07-09",
+      "assignee": [
+        "Form Energy Company"
+      ],
+      "inventors": [
+        "Jack Norbeck",
+        "Timothy Latimer"
+      ],
+      "applicationDate": "2019-08-14",
+      "claimsCount": 23,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Civil engineering"
+      ],
+      "score": 15.293781
+    }
+  ]
+}

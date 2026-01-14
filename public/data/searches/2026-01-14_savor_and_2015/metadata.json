@@ -1,0 +1,11 @@
+{
+  "search_id": "search_20260114_122018",
+  "timestamp": "2026-01-14T12:20:18.648629",
+  "query_type": "ai_search",
+  "user_prompt": "PA=(Savor) AND PD>2015",
+  "minesoft_query": "PA=(Savor) AND PD>2015",
+  "results_count": 93,
+  "directory": "2026-01-14_savor_and_2015",
+  "execution_time_ms": 1460.7861042022705,
+  "api_endpoint": "query"
+}

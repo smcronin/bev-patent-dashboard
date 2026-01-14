@@ -1,0 +1,11 @@
+{
+  "search_id": "search_20260114_121921",
+  "timestamp": "2026-01-14T12:19:21.720894",
+  "query_type": "ai_search",
+  "user_prompt": "PA=(Iron Ox) AND PD>2015",
+  "minesoft_query": "PA=(Iron Ox) AND PD>2015",
+  "results_count": 45,
+  "directory": "2026-01-14_iron_and_2015",
+  "execution_time_ms": 2774.4009494781494,
+  "api_endpoint": "query"
+}

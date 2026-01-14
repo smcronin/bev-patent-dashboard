@@ -1,0 +1,2167 @@
+{
+  "count": 87,
+  "numFound": 87,
+  "docs": [
+    {
+      "id": "US-20250334049-A1",
+      "title": [
+        "METHOD TO MEASURE FRACTURE WIDTH"
+      ],
+      "abstract": "The present invention explains methods for measuring the width of a fracture created in a subterranean zone and the completion that houses the width measurement device. This equipment is intended to be used in a geomechanical energy storage system which will be used to produce electricity.",
+      "publicationNumber": "US20250334049",
+      "publicationDate": "2025-10-30",
+      "assignee": [
+        "Quidnet Energy, Inc."
+      ],
+      "inventors": [
+        "Bunker Hill"
+      ],
+      "applicationDate": "2025-04-09",
+      "claimsCount": 15,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Civil engineering",
+        "Measurement"
+      ],
+      "score": 17.7307
+    },
+    {
+      "id": "US-20250282551-A1",
+      "title": [
+        "SYSTEM AND METHOD TO STORE FLUID UNDERGROUND"
+      ],
+      "abstract": "A method for storing fluids and waste underground in a subterranean zone and one or more fractures created with a fracture and seal process. This will be useful for oil and gas fields, depleted oil or gas wells, abandoned oil or gas wells, industrial plants, food processing plants, or other fluid or waste storage operations.",
+      "publicationNumber": "US20250282551",
+      "publicationDate": "2025-09-11",
+      "assignee": [
+        "Quidnet Energy, Inc"
+      ],
+      "inventors": [
+        "Dagong Zhou",
+        "Bunker Hill"
+      ],
+      "applicationDate": "2025-03-05",
+      "claimsCount": 14,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Civil engineering",
+        "Engines, pumps, turbines",
+        "Handling",
+        "Mechanical elements"
+      ],
+      "score": 17.049606
+    },
+    {
+      "id": "WO-2022178446-A3",
+      "title": [
+        "MITIGATION OF FLUID LOSS FROM UNDERGROUND RESERVOIRS BY ELECTROSTATICALLY-DRIVEN ASSEMBLY OF PARTICLES"
+      ],
+      "abstract": "Compositions are provided for preventing or alleviating loss of fluids from natural or artificial reservoirs formed in subterranean geological formations and methods for deployment of said compositions. The compositions can be delivered to the subterranean reservoirs in any number of steps and are comprised of rock surface adhesion promoter(s), particles that may consist of solids, gels and liquids, crosslinking agent(s) and a liquid medium. The method of the invention uses the composition of the invention in preventing or alleviating loss of fluid stored in a reservoir existing in a subterranean formation. In the method, the composition is preferably provided in a series of weighted or unweighted \"pills\" for introduction into the reservoir. Such a series may include from one to any number of consecutive treatments. Multiple pills or treatments may be used if needed.",
+      "publicationNumber": "WO2022178446",
+      "publicationDate": "2022-10-13",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "DMITRY KOSYNKIN",
+        "HOWARD K. SCHMIDT"
+      ],
+      "applicationDate": "2022-02-22",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Basic materials chemistry"
+      ],
+      "score": 16.839785
+    },
+    {
+      "id": "WO-2022178446-A2",
+      "title": [
+        "MITIGATION OF FLUID LOSS FROM UNDERGROUND RESERVOIRS BY ELECTROSTATICALLY-DRIVEN ASSEMBLY OF PARTICLES"
+      ],
+      "abstract": "Compositions are provided for preventing or alleviating loss of fluids from natural or artificial reservoirs formed in subterranean geological formations and methods for deployment of said compositions. The compositions can be delivered to the subterranean reservoirs in any number of steps and are comprised of rock surface adhesion promoter(s), particles that may consist of solids, gels and liquids, crosslinking agent(s) and a liquid medium. The method of the invention uses the composition of the invention in preventing or alleviating loss of fluid stored in a reservoir existing in a subterranean formation. In the method, the composition is preferably provided in a series of weighted or unweighted \"pills\" for introduction into the reservoir. Such a series may include from one to any number of consecutive treatments. Multiple pills or treatments may be used if needed.",
+      "publicationNumber": "WO2022178446",
+      "publicationDate": "2022-08-25",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "DMITRY KOSYNKIN",
+        "HOWARD K. SCHMIDT"
+      ],
+      "applicationDate": "2022-02-22",
+      "claimsCount": 8,
+      "independentClaimsCount": 1,
+      "technologyFields": [],
+      "score": 16.839785
+    },
+    {
+      "id": "WO-2022240908-A1",
+      "title": [
+        "METHOD AND APPARATUS FOR FRACTURE WIDTH MEASUREMENT"
+      ],
+      "abstract": "A wireline width measuring apparatus and associated method which may be used to measure static and dynamic fracture width in fractures used for energy storage, water injection, or hydrocarbon production. In one embodiment, the method comprises determining a depth of the formation fracture, determining the depth of the bottom of the wellbore, positioning a caliper tool string comprising a caliper apparatus at the bottom of the wellbore, wherein the caliper apparatus is positioned at a depth capable of measuring movement of a window cut into a casing of the wellbore at the depth of the formation fracture, inflating the fracture by injecting a fluid into the fracture, uninflating the fracture by producing the fluid from the fracture, and measuring movement of the window cut into the wellbore while the fracture is inflated and uninflated.",
+      "publicationNumber": "WO2022240908",
+      "publicationDate": "2022-11-17",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "BUNKER HILL",
+        "KEN HAVLINEK"
+      ],
+      "applicationDate": "2022-05-10",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Civil engineering"
+      ],
+      "score": 16.672337
+    },
+    {
+      "id": "WO-2022178445-A1",
+      "title": [
+        "GEOTHERMAL SYSTEM AND METHOD"
+      ],
+      "abstract": "A system and method for geothermal resource development which comprises generating a plunging fracture at a wellbore using a dense fracture fluid. In one embodiment a compliant elastic material may be pushed to the propagating tips of fractures where they screen out the fracture tip and stop fracture propagation. The method may further comprise injecting additional fluid to increase the net pressure in the fracture, thereby increasing the width of the fracture. The system may further comprise providing a heat exchanger disposed about the bottom of the wellbore or providing an apparatus for circulating water into the fracture in order to address natural convection occurring in the fracture.",
+      "publicationNumber": "WO2022178445",
+      "publicationDate": "2022-08-25",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "HOWARD K. SCHMIDT",
+        "AARON H. MANDELL"
+      ],
+      "applicationDate": "2022-02-22",
+      "claimsCount": 19,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Civil engineering",
+        "Engines, pumps, turbines",
+        "Geothermal energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 16.537186
+    },
+    {
+      "id": "US-20250354456-A1",
+      "title": [
+        "SYSTEM AND METHOD TO FRACTURE AND SEAL SUBTERRANEAN FORMATIONS"
+      ],
+      "abstract": "A method for storing fluids and energy underground in a subterranean zone in one or more fractures created with a fracture and seal process utilizing different fluid systems having different fluid densities, viscosities, and gelation characteristics.",
+      "publicationNumber": "US20250354456",
+      "publicationDate": "2025-11-20",
+      "assignee": [
+        "Quidnet Energy, Inc."
+      ],
+      "inventors": [
+        "Bunker Hill",
+        "Carl Thaemitz",
+        "Billy Clark",
+        "Dagong Zhou"
+      ],
+      "applicationDate": "2025-05-12",
+      "claimsCount": 20,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Civil engineering"
+      ],
+      "score": 15.782782
+    },
+    {
+      "id": "EP-4026880-A1",
+      "title": [
+        "METHOD AND MATERIALS FOR MANIPULATING HYDRAULIC FRACTURE GEOMETRY"
+      ],
+      "abstract": "A method for manipulating hydraulic fracture geometry. In one embodiment, the method comprises injecting a fracturing fluid into a well to generate one or more hydraulic fractures in a subsurface rock formation and then substantially draining any fluids from the one or more hydraulic fractures. The method may further comprise injecting a hydrophilic polymer and one or more crosslinking agents into the well to subsequently form low-density hydrogels which may then screen out only each tip of the one or more hydraulic fractures. A working fluid may then be injected into the well to increase fracture width of the one or more hydraulic fractures without substantially increasing fracture length. In an alternative embodiment, the hydrophilic polymer may be fully crosslinked by the one or more crosslinking agents and injected as pre-formed particle gels (PPGs) which may also screen out only each tip of the one or more hydraulic fractures.",
+      "publicationNumber": "EP4026880",
+      "publicationDate": "2022-07-13",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "HOWARD K. SCHMIDT",
+        "SCOTT WRIGHT",
+        "DMITRY KOSYNKIN"
+      ],
+      "applicationDate": "2022-01-10",
+      "claimsCount": 15,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Civil engineering"
+      ],
+      "score": 15.782782
+    },
+    {
+      "id": "AU-2022200020-A1",
+      "title": [
+        "Method and Materials for Manipulating Hydraulic Fracture Geometry"
+      ],
+      "abstract": "A method for manipulating hydraulic fracture geometry. In one embodiment, the method comprises injecting a fracturing fluid into a well to generate one or more hydraulic fractures in a subsurface rock formation and then substantially draining any fluids from the one or more hydraulic fractures. The method may further comprise injecting a hydrophilic polymer and one or more crosslinking agents into the well to subsequently form low-density hydrogels which may then screen out only each tip of the one or more hydraulic fractures. A working fluid may then be injected into the well to increase fracture width of the one or more hydraulic fractures without substantially increasing fracture length. In an alternative embodiment, the hydrophilic polymer may be fully crosslinked by the one or more crosslinking agents and injected as pre-formed particle gels (PPGs) which may also screen out only each tip of the one or more hydraulic fractures. - 14- SL /P/8/*l/l/fl 11,1111 1111111 *1-",
+      "publicationNumber": "AU2022200020",
+      "publicationDate": "2022-07-28",
+      "assignee": [
+        "Quidnet Energy, Inc."
+      ],
+      "inventors": [
+        "DMITRY KOSYNKIN",
+        "HOWARD K. SCHMIDT",
+        "SCOTT WRIGHT"
+      ],
+      "applicationDate": "2022-01-04",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Civil engineering"
+      ],
+      "score": 15.782782
+    },
+    {
+      "id": "US-20230376655-A1",
+      "title": [
+        "Method for Modelling Geomechanical Pumped Storage in Horizontal Fluid-Filled Lenses"
+      ],
+      "abstract": "A method for modeling geomechanical subsurface pumped energy storage systems. In one embodiment, the method comprises applying a mechanical model developed for storage lens behavior during flowback (production), shut-in, and inflation (storage) stages. The model couples elastic deformation of the lens with Darcy-Weisbach fluid flow spanning the laminar to turbulent regimes, and includes an energy-based inlet boundary condition governing fluid flow rate out of the lens and up to the Earth&apos;s surface. The model also introduces pressure-dependent leakoff of fluid to the surrounding rock and the impact of intact rock bridges, which can arise from the lens having multiple petals or lobes, on lens compliance.",
+      "publicationNumber": "US20230376655",
+      "publicationDate": "2023-11-23",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "Andrew P. Bunger",
+        "Howard K. Schmidt"
+      ],
+      "applicationDate": "2022-12-07",
+      "claimsCount": 8,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 15.306704
+    },
+    {
+      "id": "US-20220267665-A1",
+      "title": [
+        "Mitigation of Fluid Loss from Underground Reservoirs by Electrostatically-Driven Assembly of Particles"
+      ],
+      "abstract": "Compositions are provided for preventing or alleviating loss of fluids from natural or artificial reservoirs formed in subterranean geological formations and methods for deployment of said compositions. The compositions can be delivered to the subterranean reservoirs in any number of steps and are comprised of rock surface adhesion promoter(s), particles that may consist of solids, gels and liquids, crosslinking agent(s) and a liquid medium. The method of the invention uses the composition of the invention in preventing or alleviating loss of fluid stored in a reservoir existing in a subterranean formation. In the method, the composition is preferably provided in a series of weighted or unweighted \u201cpills\u201d for introduction into the reservoir. Such a series may include from one to any number of consecutive treatments. Multiple pills or treatments may be used if needed.",
+      "publicationNumber": "US20220267665",
+      "publicationDate": "2022-08-25",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "Dmitry Kosynkin",
+        "Howard K. Schmidt"
+      ],
+      "applicationDate": "2022-02-22",
+      "claimsCount": 8,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Basic materials chemistry"
+      ],
+      "score": 15.1195965
+    },
+    {
+      "id": "US-12173227-B2",
+      "title": [
+        "Mitigation of fluid loss from underground reservoirs by electrostatically-driven assembly of particles"
+      ],
+      "abstract": "Compositions are provided for preventing or alleviating loss of fluids from natural or artificial reservoirs formed in subterranean geological formations and methods for deployment of said compositions. The compositions can be delivered to the subterranean reservoirs in any number of steps and are comprised of rock surface adhesion promoter(s), particles that may consist of solids, gels and liquids, crosslinking agent(s) and a liquid medium. The method of the invention uses the composition of the invention in preventing or alleviating loss of fluid stored in a reservoir existing in a subterranean formation. In the method, the composition is preferably provided in a series of weighted or unweighted \u201cpills\u201d for introduction into the reservoir. Such a series may include from one to any number of consecutive treatments. Multiple pills or treatments may be used if needed.",
+      "publicationNumber": "US12173227",
+      "publicationDate": "2024-12-24",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "Dmitry Kosynkin",
+        "Howard K. Schmidt"
+      ],
+      "applicationDate": "2022-02-22",
+      "claimsCount": 2,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Basic materials chemistry"
+      ],
+      "score": 15.1195965
+    },
+    {
+      "id": "US-20250043671-A1",
+      "title": [
+        "Method for Generating Self-Propped Hydraulic Fractures"
+      ],
+      "abstract": "A method for generating self-propped hydraulic fractures. In one embodiment, the method comprises injecting three fluid stages sequentially, each with successively higher viscosity, comprising a pad, a sealing slurry, and a displacement fluid which may be referred to as a sweep. Compositions of each of the three fluid stages are provided, each of which may be selected based upon characteristics of the formation being treated or upon one or more characteristics of the desired fracture.",
+      "publicationNumber": "US20250043671",
+      "publicationDate": "2025-02-06",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "Howard Schmidt",
+        "Scott Wright",
+        "Bunker Hill",
+        "Henry LAU"
+      ],
+      "applicationDate": "2024-10-22",
+      "claimsCount": 26,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Civil engineering"
+      ],
+      "score": 15.109279
+    },
+    {
+      "id": "US-20230313657-A1",
+      "title": [
+        "Method for Generating Self-Propped Hydraulic Fractures"
+      ],
+      "abstract": "A method for generating self-propped hydraulic fractures. In one embodiment, the method comprises injecting three fluid stages sequentially, each with successively higher viscosity, comprising a pad, a sealing slurry, and a displacement fluid which may be referred to as a sweep. Compositions of each of the three fluid stages are provided, each of which may be selected based upon characteristics of the formation being treated or upon one or more characteristics of the desired fracture.",
+      "publicationNumber": "US20230313657",
+      "publicationDate": "2023-10-05",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "Howard Schmidt",
+        "Scott Wright",
+        "Bunker Hill",
+        "Henry LAU"
+      ],
+      "applicationDate": "2023-03-29",
+      "claimsCount": 19,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Civil engineering"
+      ],
+      "score": 15.109279
+    },
+    {
+      "id": "US-12123293-B2",
+      "title": [
+        "Method for generating self-propped hydraulic fractures"
+      ],
+      "abstract": "A method for generating self-propped hydraulic fractures. In one embodiment, the method comprises injecting three fluid stages sequentially, each with successively higher viscosity, comprising a pad, a sealing slurry, and a displacement fluid which may be referred to as a sweep. Compositions of each of the three fluid stages are provided, each of which may be selected based upon characteristics of the formation being treated or upon one or more characteristics of the desired fracture.",
+      "publicationNumber": "US12123293",
+      "publicationDate": "2024-10-22",
+      "assignee": [
+        "Quidnet Energy, Inc."
+      ],
+      "inventors": [
+        "Howard Schmidt",
+        "Scott Wright",
+        "Bunker Hill",
+        "Henry LAU"
+      ],
+      "applicationDate": "2023-03-29",
+      "claimsCount": 15,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Civil engineering"
+      ],
+      "score": 15.109279
+    },
+    {
+      "id": "US-20250223895-A1",
+      "title": [
+        "Method for Borehole Completion"
+      ],
+      "abstract": "A method for improved borehole completion. In one embodiment, the method comprises removing a section of casing entirely and cutting a notch through the cement and into the surrounding rock formation, said notch optimally comprising a symmetric triangle terminating in a sharp point oriented perpendicular to the casing axis. Flow may be further optimized by extending the notch as far as practical into the rock matrix to increase the effective diameter of the wellbore and increase the length of the intersection between the fracture and the wellbore.",
+      "publicationNumber": "US20250223895",
+      "publicationDate": "2025-07-10",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "Howard K. Schmidt",
+        "Scott Wright"
+      ],
+      "applicationDate": "2025-03-31",
+      "claimsCount": 10,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Civil engineering"
+      ],
+      "score": 14.970495
+    },
+    {
+      "id": "US-20240076972-A1",
+      "title": [
+        "Method for Borehole Completion"
+      ],
+      "abstract": "A method for improved borehole completion. In one embodiment, the method comprises removing a section of casing entirely and cutting a notch through the cement and into the surrounding rock formation, said notch optimally comprising a symmetric triangle terminating in a sharp point oriented perpendicular to the casing axis. Flow may be further optimized by extending the notch as far as practical into the rock matrix to increase the effective diameter of the wellbore and increase the length of the intersection between the fracture and the wellbore.",
+      "publicationNumber": "US20240076972",
+      "publicationDate": "2024-03-07",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "Howard K. Schmidt",
+        "Scott Wright"
+      ],
+      "applicationDate": "2023-04-14",
+      "claimsCount": 11,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Civil engineering"
+      ],
+      "score": 14.970495
+    },
+    {
+      "id": "US-20220357479-A1",
+      "title": [
+        "Method and Apparatus for Fracture Width Measurement"
+      ],
+      "abstract": "A wireline width measuring apparatus and associated method which may be used to measure static and dynamic fracture width in fractures used for energy storage, water injection, or hydrocarbon production. In one embodiment, the method comprises determining a depth of the formation fracture, determining the depth of the bottom of the wellbore, positioning a caliper tool string comprising a caliper apparatus at the bottom of the wellbore, wherein the caliper apparatus is positioned at a depth capable of measuring movement of a window cut into a casing of the wellbore at the depth of the formation fracture, inflating the fracture by injecting a fluid into the fracture, uninflating the fracture by producing the fluid from the fracture, and measuring movement of the window cut into the wellbore while the fracture is inflated and uninflated.",
+      "publicationNumber": "US20220357479",
+      "publicationDate": "2022-11-10",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "Bunker Hill",
+        "Ken Havlinek"
+      ],
+      "applicationDate": "2022-05-10",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Measurement"
+      ],
+      "score": 14.970495
+    },
+    {
+      "id": "US-12264566-B2",
+      "title": [
+        "Method for borehole completion"
+      ],
+      "abstract": "A method for improved borehole completion. In one embodiment, the method comprises removing a section of casing entirely and cutting a notch through the cement and into the surrounding rock formation, wherein the notch optimally comprise a symmetric triangle terminating in a sharp point oriented perpendicular to the casing axis. Flow may be further optimized by extending the notch as far as practical into the rock matrix to increase the effective diameter of the wellbore and increase the length of the intersection between the fracture and the wellbore.",
+      "publicationNumber": "US12264566",
+      "publicationDate": "2025-04-01",
+      "assignee": [
+        "Quidnet Energy, Inc."
+      ],
+      "inventors": [
+        "Howard K. Schmidt",
+        "Scott Wright"
+      ],
+      "applicationDate": "2023-04-14",
+      "claimsCount": 6,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Civil engineering"
+      ],
+      "score": 14.970495
+    },
+    {
+      "id": "US-20220268489-A1",
+      "title": [
+        "Geothermal System and Method"
+      ],
+      "abstract": "A system and method for geothermal resource development which comprises generating a plunging fracture at a wellbore using a dense fracture fluid. In one embodiment a compliant elastic material may be pushed to the propagating tips of fractures where they screen out the fracture tip and stop fracture propagation. The method may further comprise injecting additional fluid to increase the net pressure in the fracture, thereby increasing the width of the fracture. The system may further comprise providing a heat exchanger disposed about the bottom of the wellbore or providing an apparatus for circulating water into the fracture in order to address natural convection occurring in the fracture.",
+      "publicationNumber": "US20220268489",
+      "publicationDate": "2022-08-25",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "Howard K. Schmidt",
+        "Aaron H. Mandell"
+      ],
+      "applicationDate": "2022-02-22",
+      "claimsCount": 19,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Civil engineering",
+        "Geothermal energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 14.850037
+    },
+    {
+      "id": "US-12276443-B2",
+      "title": [
+        "Geothermal system and method"
+      ],
+      "abstract": "A system and method for geothermal resource development which comprises generating a plunging fracture at a wellbore using a dense fracture fluid. In one embodiment a compliant elastic material may be pushed to the propagating tips of fractures where they screen out the fracture tip and stop fracture propagation. The method may further comprise injecting additional fluid to increase the net pressure in the fracture, thereby increasing the width of the fracture. The system may further comprise providing a heat exchanger disposed about the bottom of the wellbore or providing an apparatus for circulating water into the fracture in order to address natural convection occurring in the fracture.",
+      "publicationNumber": "US12276443",
+      "publicationDate": "2025-04-15",
+      "assignee": [
+        "Quidnet Energy, Inc."
+      ],
+      "inventors": [
+        "Howard K. Schmidt",
+        "Aaron H. Mandell"
+      ],
+      "applicationDate": "2022-02-22",
+      "claimsCount": 7,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Civil engineering",
+        "Geothermal energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 14.850037
+    },
+    {
+      "id": "WO-2025111088-A1",
+      "title": [
+        "HYDRAULIC GEOFRACTURE ENERGY STORAGE SYSTEM AND ASSOCIATED METHODS"
+      ],
+      "abstract": "Energy may be stored by injecting fluid into a fracture in the earth and producing the fluid back while recovering power and/or desalinating water. The method may be particularly adapted to storage of large amounts of energy such as in grid-scale electric energy systems. The fracture may be formed and treated with resin so as to limit fluid loss and to increase propagation pressure. The fluid may be water containing a dissolved salt or fresh water and a portion or all of the water may be desalinated using pressure in the water when it is produced.",
+      "publicationNumber": "WO2025111088",
+      "publicationDate": "2025-05-30",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "HOWARD, K. SCHMIDT",
+        "Aaron, H. MANDELL"
+      ],
+      "applicationDate": "2024-10-21",
+      "claimsCount": 15,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Chemical engineering",
+        "Civil engineering",
+        "Engines, pumps, turbines",
+        "Environmental technology",
+        "Handling",
+        "Hydro energy"
+      ],
+      "score": 14.566708
+    },
+    {
+      "id": "WO-2024049938-A1",
+      "title": [
+        "ENERGY STORAGE SYSTEM FOR OVERPRESSURE ENVIRONMENTS"
+      ],
+      "abstract": "Methods for developing geomechanical pumped energy storage systems whereby energy is stored as mechanical energy by injecting a working fluid into a formation and producing the working fluid from the formation while generating power or performing work. The method is particularly adapted to storage of large amounts of energy such as in grid-scale electric energy systems. The formation may exhibit overpressure conditions, may comprise isolated stratigraphic or structural traps of reasonable size, or may comprise depleted oil and gas assets repurposed for storing energy.",
+      "publicationNumber": "WO2024049938",
+      "publicationDate": "2024-03-07",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "HOWARD SCHMIDT",
+        "Cliff MAURONER"
+      ],
+      "applicationDate": "2023-08-31",
+      "claimsCount": 8,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Handling",
+        "Mechanical elements"
+      ],
+      "score": 14.566708
+    },
+    {
+      "id": "WO-2020264381-A1",
+      "title": [
+        "REVERSIBLE RECIPROCATING PUMP"
+      ],
+      "abstract": "An injector generator for use in geomechanical pumped storage systems includes a power end and a fluid end. The fluid end has one or more fluid chambers each having a fluid inlet and outlet that are controlled by rotary valves. The fluid end can function as a pump or as a motor driven by fluid pressure from the geomechanical storage formation.",
+      "publicationNumber": "WO2020264381",
+      "publicationDate": "2020-12-30",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "HOWARD K. SCHMIDT"
+      ],
+      "applicationDate": "2020-06-26",
+      "claimsCount": 13,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 14.566708
+    },
+    {
+      "id": "WO-2018081345-A1",
+      "title": [
+        "HYDRAULIC GEOFRACTURE ENERGY STORAGE SYSTEM WITH DESALINATION"
+      ],
+      "abstract": "Energy may be stored by injecting fluid into a fracture in the earth and producing the fluid back while recovering power and/or desalinating water. The method may be particularly adapted to storage of large amounts of energy such as in grid-scale electric energy systems. The fracture may be formed and treated with resin so as to limit fluid loss and to increase propagation pressure. The fluid may be water containing a dissolved salt or fresh water and a portion or all of the water may be desalinated using pressure in the water when it is produced.",
+      "publicationNumber": "WO2018081345",
+      "publicationDate": "2018-05-03",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "HOWARD K. SCHMIDT",
+        "AARON H. MANDELL"
+      ],
+      "applicationDate": "2017-10-26",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Civil engineering",
+        "Engines, pumps, turbines",
+        "Handling",
+        "Wind energy technology"
+      ],
+      "score": 14.566708
+    },
+    {
+      "id": "WO-2016003928-A1",
+      "title": [
+        "HYDRAULIC GEOFRACTURE ENERGY STORAGE SYSTEM WITH DESALINAZATION"
+      ],
+      "abstract": "Energy is stored by injecting fluid into a hydraulic fracture in the earth and producing the fluid back while recovering power and/or desalinating water. The method is particularly adapted to storage of large amounts of energy such as in grid-scale electric energy systems. The hydraulic fracture may be formed and treated with resin so as to limit fluid loss and to increase propagation pressure. The fluid may be water containing a dissolved salt or fresh water and a portion or all of the water may be desalinated using pressure in the water when it is produced.",
+      "publicationNumber": "WO2016003928",
+      "publicationDate": "2016-01-07",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "HOWARD K. SCHMIDT",
+        "AARON H. MANDELL"
+      ],
+      "applicationDate": "2015-06-29",
+      "claimsCount": 6,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Civil engineering"
+      ],
+      "score": 14.566708
+    },
+    {
+      "id": "US-20250347387-A1",
+      "title": [
+        "SYSTEM OF EXPANDING THE STORAGE CAPABILITY FOR GEOMECHANICAL ENERGY STORAGE"
+      ],
+      "abstract": "An expanded system and method for storing energy underground as high-pressure fluid in one or more subterranean zones and utilizing one or more wells. The wells may be connected to some or all of the subterranean zones which may be naturally occurring volumes in the rock structure, hydraulically fractured volumes in the rock structure, or hydraulically fractured an sealed volumes in the rock structure.",
+      "publicationNumber": "US20250347387",
+      "publicationDate": "2025-11-13",
+      "assignee": [
+        "Quidnet Energy, Inc."
+      ],
+      "inventors": [
+        "Bunker Hill",
+        "Henry LAU",
+        "Scott Wright",
+        "Dagong Zhou"
+      ],
+      "applicationDate": "2025-05-07",
+      "claimsCount": 12,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Handling",
+        "Mechanical elements"
+      ],
+      "score": 14.566708
+    },
+    {
+      "id": "SG-11201903768P-A",
+      "title": [
+        "HYDRAULIC GEOFRACTURE ENERGY STORAGE SYSTEM WITH DESALINATION"
+      ],
+      "abstract": "-- % 90% 80% 0_ 70% ae 50% cf) z 40% 0 r--: o 30% 0 \u00b0- 20% 10% 60% (12) INTERNATIONAL APPLICATION PUBLISHED UNDER THE PATENT COOPERATION TREATY (PCT) (19) World Intellectual Property Organization International Bureau (43) International Publication Date 03 May 2018 (03.05.2018) WIP0 I PCT omit \u00b0nolo omm IIIII0111IIIIIIIHIIIn oimIE (10) International Publication Number WO 2018/081345 Al (51) International Patent Classification: B65G 5/00 (2006.01) E21B 43/26 (2006.01) E21B 33/138 (2006.01) F03D 9/17 (2016.01) (21) International Application Number: PCT/US2017/058407 (22) International Filing Date: 26 October 2017 (26.10.2017) (25) Filing Language: English (26) Publication Language: English (30) Priority Data: 15/336,424 27 October 2016 (27.10.2016) US (71) Applicant: QUIDNET ENERGY INC. [US/US]; 17 Lantern Road, Framingham, Massachusetts 01702 (US). (72) Inventors: SCHMIDT, Howard K.; 20703 Bradford Creek Court, Cypress, Texas 77433 (US). MANDELL, Aaron H.; 17 Lantern Road, Framingham, Massachusetts 01702 (US). (74) Agent: TUMEY, Tod T.; P.O Box 22188, Houston, Texas 77227-2188 (US). (81) Designated States (unless otherwise indicated, for every kind of national protection available): AE, AG, AL, AM, AO, AT, AU, AZ, BA, BB, BG, BH, BN, BR, BW, BY, BZ, CA, CH, CL, CN, CO, CR, CU, CZ, DE, DJ, DK, DM, DO, DZ, EC, EE, EG, ES, FI, GB, GD, GE, GH, GM, GT, HN, HR, HU, ID, IL, IN, IR, IS, JO, JP, KE, KG, KH, KN, KP, KR, KW, KZ, LA, LC, LK, LR, LS, LU, LY, MA, MD, ME, MG, MK, MN, MW, MX, MY, MZ, NA, NG, NI, NO, NZ, OM, PA, PE, PG, PH, PL, PT, QA, RO, RS, RU, RW, SA, SC, SD, SE, SG, SK, SL, SM, ST, SV, SY, TH, TJ, TM, TN, TR, TT, TZ, UA, UG, US, UZ, VC, VN, ZA, ZM, ZW. (84) Designated States (unless otherwise indicated, for every kind of regional protection available): ARIPO (BW, GH, GM, KE, LR, LS, MW, MZ, NA, RW, SD, SL, ST, SZ, TZ, UG, ZM, ZW), Eurasian (AM, AZ, BY, KG, KZ, RU, TJ, TM), European (AL, AT, BE, BG, CH, CY, CZ, DE, DK, EE, ES, FI, FR, GB, GR, HR, HU, IE, IS, IT, LT, LU, LV, MC, MK, MT, NL, NO, PL, PT, RO, RS, SE, SI, SK, SM, (54) Title: HYDRAULIC GEOFRACTURE ENERGY STORAGE SYSTEM WITH DESALINATION 00 O 00 O C 0% I I I I I I I I I I I I I I I I I I I 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 HOUR OF DAY FIG.1 (57) : Energy may be stored by injecting fluid into a fracture in the earth and producing the fluid back while recovering power and/or desalinating water. The method may be particularly adapted to storage of large amounts of energy such as in grid-scale electric energy systems. The fracture may be formed and treated with resin so as to limit fluid loss and to increase propagation pressure. The fluid may be water containing a dissolved salt or fresh water and a portion or all of the water may be desalinated using pressure in the water when it is produced. [Continued on next page] WO 2018/081345 Al MIDEDIMOHNIMMEIDINMEMINHIMMEHOIS TR), OAPI (BF, BJ, CF, CG, CI, CM, GA, GN, GQ, GW, KM, ML, MR, NE, SN, TD, TG). Published: \u2014 with international search report (Art. 21(3))",
+      "publicationNumber": "SG11201903768P",
+      "publicationDate": "2019-05-30",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "HOWARD K. SCHMIDT",
+        "AARON H. MANDELL"
+      ],
+      "applicationDate": "2017-10-26",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Civil engineering",
+        "Engines, pumps, turbines",
+        "Handling",
+        "Wind energy technology"
+      ],
+      "score": 14.566708
+    },
+    {
+      "id": "SG-11201610964V-A",
+      "title": [
+        "HYDRAULIC GEOFRACTURE ENERGY STORAGE SYSTEM WITH DESALINAZATION"
+      ],
+      "abstract": "",
+      "publicationNumber": "SG11201610964V",
+      "publicationDate": "2017-01-27",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "HOWARD K. SCHMIDT",
+        "AARON H. MANDELL"
+      ],
+      "applicationDate": "2015-06-29",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Civil engineering"
+      ],
+      "score": 14.566708
+    },
+    {
+      "id": "PT-3161254-T",
+      "title": [
+        "HYDRAULIC GEOFRACTURE ENERGY STORAGE SYSTEM WITH DESALINAZATION"
+      ],
+      "abstract": "",
+      "publicationNumber": "PT3161254",
+      "publicationDate": "2019-08-07",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "HOWARD K. SCHMIDT",
+        "AARON H. MANDELL"
+      ],
+      "applicationDate": "2015-06-29",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Civil engineering",
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Environmental technology",
+        "Handling",
+        "Hydro energy",
+        "Wind energy technology"
+      ],
+      "score": 14.566708
+    },
+    {
+      "id": "PL-3161254-T3",
+      "title": [
+        "HYDRAULIC GEOFRACTURE ENERGY STORAGE SYSTEM WITH DESALINAZATION"
+      ],
+      "abstract": "",
+      "publicationNumber": "PL3161254",
+      "publicationDate": "2020-05-18",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "HOWARD K. SCHMIDT",
+        "AARON H. MANDELL"
+      ],
+      "applicationDate": "2015-06-29",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Civil engineering",
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Environmental technology",
+        "Handling",
+        "Hydro energy",
+        "Wind energy technology"
+      ],
+      "score": 14.566708
+    },
+    {
+      "id": "LT-3161254-T",
+      "title": [
+        "HYDRAULIC GEOFRACTURE ENERGY STORAGE SYSTEM WITH DESALINAZATION"
+      ],
+      "abstract": "",
+      "publicationNumber": "LT3161254",
+      "publicationDate": "2019-10-10",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "HOWARD K. SCHMIDT",
+        "AARON H. MANDELL"
+      ],
+      "applicationDate": "2015-06-29",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Civil engineering",
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Environmental technology",
+        "Handling",
+        "Hydro energy",
+        "Wind energy technology"
+      ],
+      "score": 14.566708
+    },
+    {
+      "id": "HU-E045688-T2",
+      "title": [
+        "HYDRAULIC GEOFRACTURE ENERGY STORAGE SYSTEM WITH DESALINAZATION"
+      ],
+      "abstract": "",
+      "publicationNumber": "HUE045688",
+      "publicationDate": "2020-01-28",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "HOWARD K. SCHMIDT",
+        "AARON H. MANDELL"
+      ],
+      "applicationDate": "2015-06-29",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Civil engineering",
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Environmental technology",
+        "Handling",
+        "Hydro energy",
+        "Wind energy technology"
+      ],
+      "score": 14.566708
+    },
+    {
+      "id": "ES-2739541-T3",
+      "title": [
+        "Sistema de almacenamiento de energ\u00eda de geofracturas hidr\u00e1ulicas con desalinizaci\u00f3n"
+      ],
+      "abstract": "Un m\u00e9todo para almacenar y producir energ\u00eda y desalinizar agua, que comprende: bombear agua que contiene una sal disuelta en un pozo (41) a una presi\u00f3n mayor que la presi\u00f3n de fracturaci\u00f3n y en una fractura hidr\u00e1ulica (46) en una formaci\u00f3n de roca alrededor del pozo (41); antes de la fuga del agua que contiene una sal disuelta de la fractura hidr\u00e1ulica (46), reducir la presi\u00f3n en el pozo (41) para producir una porci\u00f3n del agua que contiene una sal disuelta en el pozo (41) como agua producida y usar la presi\u00f3n de una primera porci\u00f3n del agua producida para generar energ\u00eda y usando la presi\u00f3n de una segunda porci\u00f3n del agua producida para desalinizar la segunda porci\u00f3n del agua producida.",
+      "publicationNumber": "ES2739541",
+      "publicationDate": "2020-01-31",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "HOWARD K. SCHMIDT",
+        "AARON H. MANDELL"
+      ],
+      "applicationDate": "2015-06-29",
+      "claimsCount": 8,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Civil engineering",
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Environmental technology",
+        "Handling",
+        "Hydro energy",
+        "Wind energy technology"
+      ],
+      "score": 14.566708
+    },
+    {
+      "id": "EP-3660263-A3",
+      "title": [
+        "HYDRAULIC GEOFRACTURE ENERGY STORAGE SYSTEM WITH DESALINATION"
+      ],
+      "abstract": "Energy may be stored by injecting fluid into a fracture in the earth and producing the fluid back while recovering power and/or desalinating water. The method may be particularly adapted to storage of large amounts of energy such as in grid-scale electric energy systems. The fracture may be formed and treated with resin so as to limit fluid loss and to increase propagation pressure. The fluid may be water containing a dissolved salt or fresh water and a portion or all of the water may be desalinated using pressure in the water when it is produced.",
+      "publicationNumber": "EP3660263",
+      "publicationDate": "2020-08-19",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "HOWARD K SCHMIDT",
+        "AARON H MANDELL"
+      ],
+      "applicationDate": "2019-11-13",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Civil engineering",
+        "Engines, pumps, turbines",
+        "Wind energy technology"
+      ],
+      "score": 14.566708
+    },
+    {
+      "id": "EP-3660263-A2",
+      "title": [
+        "HYDRAULIC GEOFRACTURE ENERGY STORAGE SYSTEM WITH DESALINATION"
+      ],
+      "abstract": "Energy may be stored by injecting fluid into a fracture in the earth and producing the fluid back while recovering power and/or desalinating water. The method may be particularly adapted to storage of large amounts of energy such as in grid-scale electric energy systems. The fracture may be formed and treated with resin so as to limit fluid loss and to increase propagation pressure. The fluid may be water containing a dissolved salt or fresh water and a portion or all of the water may be desalinated using pressure in the water when it is produced.",
+      "publicationNumber": "EP3660263",
+      "publicationDate": "2020-06-03",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "HOWARD K SCHMIDT",
+        "AARON H MANDELL"
+      ],
+      "applicationDate": "2019-11-13",
+      "claimsCount": 15,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Civil engineering",
+        "Engines, pumps, turbines",
+        "Wind energy technology"
+      ],
+      "score": 14.566708
+    },
+    {
+      "id": "EP-3532408-A4",
+      "title": [
+        "HYDRAULIC GEOFRACTURE ENERGY STORAGE SYSTEM WITH DESALINATION"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP3532408",
+      "publicationDate": "2020-07-01",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "HOWARD K. SCHMIDT",
+        "AARON H. MANDELL"
+      ],
+      "applicationDate": "2017-10-26",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Civil engineering",
+        "Engines, pumps, turbines",
+        "Hydro energy",
+        "Wind energy technology"
+      ],
+      "score": 14.566708
+    },
+    {
+      "id": "EP-3532408-A1",
+      "title": [
+        "HYDRAULIC GEOFRACTURE ENERGY STORAGE SYSTEM WITH DESALINATION"
+      ],
+      "abstract": "Energy may be stored by injecting fluid into a fracture in the earth and producing the fluid back while recovering power and/or desalinating water. The method may be particularly adapted to storage of large amounts of energy such as in grid-scale electric energy systems. The fracture may be formed and treated with resin so as to limit fluid loss and to increase propagation pressure. The fluid may be water containing a dissolved salt or fresh water and a portion or all of the water may be desalinated using pressure in the water when it is produced.",
+      "publicationNumber": "EP3532408",
+      "publicationDate": "2019-09-04",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "HOWARD K. SCHMIDT",
+        "AARON H. MANDELL"
+      ],
+      "applicationDate": "2017-10-26",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Civil engineering",
+        "Engines, pumps, turbines",
+        "Handling",
+        "Wind energy technology"
+      ],
+      "score": 14.566708
+    },
+    {
+      "id": "EP-3161254-A4",
+      "title": [
+        "HYDRAULIC GEOFRACTURE ENERGY STORAGE SYSTEM WITH DESALINAZATION"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP3161254",
+      "publicationDate": "2018-02-28",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "HOWARD K. SCHMIDT",
+        "AARON H. MANDELL"
+      ],
+      "applicationDate": "2015-06-29",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Civil engineering",
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Environmental technology",
+        "Handling",
+        "Hydro energy",
+        "Wind energy technology"
+      ],
+      "score": 14.566708
+    },
+    {
+      "id": "EP-3161254-A1",
+      "title": [
+        "HYDRAULIC GEOFRACTURE ENERGY STORAGE SYSTEM WITH DESALINAZATION"
+      ],
+      "abstract": "Energy is stored by injecting fluid into a hydraulic fracture in the earth and producing the fluid back while recovering power and/or desalinating water. The method is particularly adapted to storage of large amounts of energy such as in grid-scale electric energy systems. The hydraulic fracture may be formed and treated with resin so as to limit fluid loss and to increase propagation pressure. The fluid may be water containing a dissolved salt or fresh water and a portion or all of the water may be desalinated using pressure in the water when it is produced.",
+      "publicationNumber": "EP3161254",
+      "publicationDate": "2017-05-03",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "HOWARD K. SCHMIDT",
+        "AARON H. MANDELL"
+      ],
+      "applicationDate": "2015-06-29",
+      "claimsCount": 6,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Civil engineering"
+      ],
+      "score": 14.566708
+    },
+    {
+      "id": "DK-3161254-T3",
+      "title": [
+        "HYDRAULISK GEOFRAKTURENERGIOPBEVARINGSSYSTEM MED AFSALTNING"
+      ],
+      "abstract": "",
+      "publicationNumber": "DK3161254",
+      "publicationDate": "2019-08-05",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "HOWARD K. SCHMIDT",
+        "AARON H. MANDELL"
+      ],
+      "applicationDate": "2015-06-29",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Civil engineering",
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Environmental technology",
+        "Handling",
+        "Hydro energy",
+        "Wind energy technology"
+      ],
+      "score": 14.566708
+    },
+    {
+      "id": "BR-102019023912-A2",
+      "title": [
+        "SISTEMA HIDR\u00c1ULICO DE ARMAZENAMENTO DE ENERGIA POR GEOFRATURA COM DESSALINIZA\u00c7\u00c3O"
+      ],
+      "abstract": "A energia pode ser armazenada injetando fluido em uma fratura na terra e produzindo o fluido de volta enquanto se recupera energia e / ou dessaliniza a \u00e1gua. O m\u00e9todo pode ser particularmente adaptado ao armazenamento de grandes quantidades de energia, como em sistemas de energia el\u00e9trica em escala de rede. A fratura pode ser formada e tratada com resina, de modo a limitar a perda de fluido e aumentar a press\u00e3o de propaga\u00e7\u00e3o. O fluido pode ser \u00e1gua contendo um sal dissolvido ou \u00e1gua doce e uma por\u00e7\u00e3o ou toda a \u00e1gua pode ser dessalinizada usando press\u00e3o na \u00e1gua quando \u00e9 produzida.",
+      "publicationNumber": "BR102019023912",
+      "publicationDate": "2020-06-02",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "Howard K. Schmidt",
+        "Aaron H. Mandell"
+      ],
+      "applicationDate": "2019-11-13",
+      "claimsCount": 18,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Chemical engineering",
+        "Civil engineering",
+        "Environmental technology"
+      ],
+      "score": 14.566708
+    },
+    {
+      "id": "AU-2019264551-B2",
+      "title": [
+        "HYDRAULIC GEOFRACTURE ENERGY STORAGE SYSTEM WITH DESALINATION"
+      ],
+      "abstract": "Energy may be stored by injecting fluid into a fracture in the earth and producing the fluid back while recovering power and/or desalinating water. The method may be particularly adapted to storage of large amounts of energy such as in grid-scale electric energy systems. The fracture may be formed and treated with resin so as to limit fluid loss and to increase propagation pressure. The fluid may be water containing a dissolved salt or fresh water and a portion or all of the water may be desalinated using pressure in the water when it is produced. 4/6 C&apos;4o 1*0",
+      "publicationNumber": "AU2019264551",
+      "publicationDate": "2024-10-31",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "AARON H. MANDELL",
+        "HOWARD K. SCHMIDT"
+      ],
+      "applicationDate": "2019-11-12",
+      "claimsCount": 18,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Civil engineering"
+      ],
+      "score": 14.566708
+    },
+    {
+      "id": "AU-2019264551-A1",
+      "title": [
+        "HYDRAULIC GEOFRACTURE ENERGY STORAGE SYSTEM WITH DESALINATION"
+      ],
+      "abstract": "Energy may be stored by injecting fluid into a fracture in the earth and producing the fluid back while recovering power and/or desalinating water. The method may be particularly adapted to storage of large amounts of energy such as in grid-scale electric energy systems. The fracture may be formed and treated with resin so as to limit fluid loss and to increase propagation pressure. The fluid may be water containing a dissolved salt or fresh water and a portion or all of the water may be desalinated using pressure in the water when it is produced. 4/6 C&apos;4o 1*0",
+      "publicationNumber": "AU2019264551",
+      "publicationDate": "2020-05-28",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "AARON H. MANDELL",
+        "HOWARD K. SCHMIDT"
+      ],
+      "applicationDate": "2019-11-12",
+      "claimsCount": 18,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Civil engineering"
+      ],
+      "score": 14.566708
+    },
+    {
+      "id": "AU-2017348102-A1",
+      "title": [
+        "Hydraulic geofracture energy storage system with desalination"
+      ],
+      "abstract": "Energy may be stored by injecting fluid into a fracture in the earth and producing the fluid back while recovering power and/or desalinating water. The method may be particularly adapted to storage of large amounts of energy such as in grid-scale electric energy systems. The fracture may be formed and treated with resin so as to limit fluid loss and to increase propagation pressure. The fluid may be water containing a dissolved salt or fresh water and a portion or all of the water may be desalinated using pressure in the water when it is produced.",
+      "publicationNumber": "AU2017348102",
+      "publicationDate": "2019-05-16",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "AARON H. MANDELL",
+        "HOWARD K. SCHMIDT"
+      ],
+      "applicationDate": "2017-10-26",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Civil engineering",
+        "Engines, pumps, turbines",
+        "Handling",
+        "Wind energy technology"
+      ],
+      "score": 14.566708
+    },
+    {
+      "id": "AU-2016203201-B2",
+      "title": [
+        "HYDRAULIC GEOFRACTURE ENERGY STORAGE SYSTEM"
+      ],
+      "abstract": "Energy is stored by injecting fluid into a hydraulic fracture in the earth and producing the fluid back while recovering power. The method is particularly adapted to storage of large amounts of energy such as in grid-scale electric energy systems. The hydraulic fracture may be formed and treated with resin so as to limit fluid loss and to increase propagation pressure. See Figures 5A, 5B and 5C. WO 2011/019750 PCT/US2010/045068 0 o a0 0 o 6L o",
+      "publicationNumber": "AU2016203201",
+      "publicationDate": "2018-08-09",
+      "assignee": [
+        "Quidnet Energy, Inc."
+      ],
+      "inventors": [
+        "HOWARD K. SCHMIDT"
+      ],
+      "applicationDate": "2016-05-17",
+      "claimsCount": 20,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Civil engineering",
+        "Engines, pumps, turbines",
+        "Wind energy technology"
+      ],
+      "score": 14.566708
+    },
+    {
+      "id": "AU-2010282584-B2",
+      "title": [
+        "Hydraulic geofracture energy storage system"
+      ],
+      "abstract": "A method for operating an electric grid system, comprising: generating electrical power during optimum production periods using a primary source of power for the electric grid system; usign a portion of the electrical power generated during optimum production periods to pump a storage fluid into a hydraulic fracture in the earth; during a non-optimum production period, producing the storage fluid from the hydraulic fracture and generating electrical power for the electric grid system.",
+      "publicationNumber": "AU2010282584",
+      "publicationDate": "2016-02-18",
+      "assignee": [
+        "Quidnet Energy, Inc."
+      ],
+      "inventors": [
+        "HOWARD K. SCHMIDT"
+      ],
+      "applicationDate": "2010-08-10",
+      "claimsCount": 14,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Civil engineering",
+        "Engines, pumps, turbines",
+        "Wind energy technology"
+      ],
+      "score": 14.566708
+    },
+    {
+      "id": "AR-117061-A1",
+      "title": [
+        "SISTEMA DE ALMACENAMIENTO DE ENERG\u00cdA POR GEOFRACTURA HIDR\u00c1ULICA CON DESALINIZACI\u00d3N"
+      ],
+      "abstract": "La energ\u00eda puede almacenarse mediante la inyecci\u00f3n de fluido en una fractura en la tierra y la producci\u00f3n del fluido nuevamente mientras se recupera energ\u00eda y/o desaliniza el agua. El m\u00e9todo puede adaptarse particularmente al almacenamiento de grandes cantidades de energ\u00eda, tal como en sistemas de energ\u00eda el\u00e9ctrica a escala de red. La fractura puede formarse y tratarse con resina para limitar la p\u00e9rdida de l\u00edquido y aumentar la presi\u00f3n de propagaci\u00f3n. El fluido puede ser agua que contiene una sal disuelta o agua dulce y una parte o la totalidad del agua puede desalinizarse usando presi\u00f3n en el agua cuando se produce.",
+      "publicationNumber": "AR117061",
+      "publicationDate": "2021-07-07",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "AARON H. MANDELL",
+        "HOWARD K. SCHMIDT"
+      ],
+      "applicationDate": "2019-11-13",
+      "claimsCount": 1,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Chemical engineering",
+        "Civil engineering",
+        "Mechanical elements"
+      ],
+      "score": 14.566708
+    },
+    {
+      "id": "US-20240068347-A1",
+      "title": [
+        "Method and Materials for Manipulating Hydraulic Fracture Geometry"
+      ],
+      "abstract": "A method for manipulating hydraulic fracture geometry. In one embodiment, the method comprises injecting a fracturing fluid into a well to generate one or more hydraulic fractures in a subsurface rock formation and then substantially draining any fluids from the one or more hydraulic fractures. The method may further comprise injecting a hydrophilic polymer and one or more crosslinking agents into the well to subsequently form low-density hydrogels which may then screen out only each tip of the one or more hydraulic fractures. A working fluid may then be injected into the well to increase fracture width of the one or more hydraulic fractures without substantially increasing fracture length. In an alternative embodiment, the hydrophilic polymer may be fully crosslinked by the one or more crosslinking agents and injected as pre-formed particle gels (PPGs) which may also screen out only each tip of the one or more hydraulic fractures.",
+      "publicationNumber": "US20240068347",
+      "publicationDate": "2024-02-29",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "Howard K. Schmidt",
+        "Scott Wright",
+        "Dmitry Kosynkin"
+      ],
+      "applicationDate": "2023-10-24",
+      "claimsCount": 10,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Civil engineering"
+      ],
+      "score": 14.177591
+    },
+    {
+      "id": "US-20220268142-A1",
+      "title": [
+        "Method and Materials for Manipulating Hydraulic Fracture Geometry"
+      ],
+      "abstract": "A method for manipulating hydraulic fracture geometry. In one embodiment, the method comprises injecting a fracturing fluid into a well to generate one or more hydraulic fractures in a subsurface rock formation and then substantially draining any fluids from the one or more hydraulic fractures. The method may further comprise injecting a hydrophilic polymer and one or more crosslinking agents into the well to subsequently form low-density hydrogels which may then screen out only each tip of the one or more hydraulic fractures. A working fluid may then be injected into the well to increase fracture width of the one or more hydraulic fractures without substantially increasing fracture length. In an alternative embodiment, the hydrophilic polymer may be fully crosslinked by the one or more crosslinking agents and injected as pre-formed particle gels (PPGs) which may also screen out only each tip of the one or more hydraulic fractures.",
+      "publicationNumber": "US20220268142",
+      "publicationDate": "2022-08-25",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "Howard K. Schmidt",
+        "Scott Wright",
+        "Dmitry Kosynkin"
+      ],
+      "applicationDate": "2022-05-10",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Civil engineering"
+      ],
+      "score": 14.177591
+    },
+    {
+      "id": "US-12264569-B2",
+      "title": [
+        "Method and materials for manipulating hydraulic fracture geometry"
+      ],
+      "abstract": "Materials for manipulating hydraulic fracture geometry. In one embodiment, the materials comprises a tip screen-out mixture, which comprises water; a hydrophilic polymer of anionic polyacrylamide, wherein the hydrophilic polymer is hydrolized at least in part; and one or more crosslinking agents selected from a group of compounds consisting of polyvalent metal cations.",
+      "publicationNumber": "US12264569",
+      "publicationDate": "2025-04-01",
+      "assignee": [
+        "Quidnet Energy, Inc."
+      ],
+      "inventors": [
+        "Howard K. Schmidt",
+        "Scott Wright",
+        "Dmitry Kosynkin"
+      ],
+      "applicationDate": "2023-10-24",
+      "claimsCount": 10,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Civil engineering"
+      ],
+      "score": 14.177591
+    },
+    {
+      "id": "US-11795802-B2",
+      "title": [
+        "Method and materials for manipulating hydraulic fracture geometry"
+      ],
+      "abstract": "A method for manipulating hydraulic fracture geometry. In one embodiment, the method comprises injecting a fracturing fluid into a well to generate one or more hydraulic fractures in a subsurface rock formation and then substantially draining any fluids from the one or more hydraulic fractures. The method may further comprise injecting a hydrophilic polymer and one or more crosslinking agents into the well to subsequently form low-density hydrogels which may then screen out only each tip of the one or more hydraulic fractures. A working fluid may then be injected into the well to increase fracture width of the one or more hydraulic fractures without substantially increasing fracture length. In an alternative embodiment, the hydrophilic polymer may be fully crosslinked by the one or more crosslinking agents and injected as pre-formed particle gels (PPGs) which may also screen out only each tip of the one or more hydraulic fractures.",
+      "publicationNumber": "US11795802",
+      "publicationDate": "2023-10-24",
+      "assignee": [
+        "Quidnet Energy, Inc."
+      ],
+      "inventors": [
+        "Howard K. Schmidt",
+        "Scott Wright",
+        "Dmitry Kosynkin"
+      ],
+      "applicationDate": "2022-05-10",
+      "claimsCount": 10,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Civil engineering"
+      ],
+      "score": 14.177591
+    },
+    {
+      "id": "IN-202244001349-A",
+      "title": [
+        "METHOD AND MATERIALS FOR MANIPULATING HYDRAULIC FRACTURE GEOMETRY"
+      ],
+      "abstract": "A method for manipulating hydraulic fracture geometry. In one embodiment, the method comprises injecting a fracturing fluid into a well to generate one or more hydraulic fractures in a subsurface rock formation and then substantially draining any fluids from the one or more hydraulic fractures. The method may further comprise injecting a hydrophilic polymer and one or more crosslinking agents into the well to subsequently form low-density hydrogels which may then screen out only each tip of the one or more hydraulic fractures. A working fluid may then be injected into the well to increase fracture width of the one or more hydraulic fractures without substantially increasing fracture length. In an alternative embodiment, the hydrophilic polymer may be fully crosslinked by the one or more crosslinking agents and injected as pre-formed particle gels (PPGs) which may also screen out only each tip of the one or more hydraulic fractures.",
+      "publicationNumber": "IN202244001349",
+      "publicationDate": "2022-07-15",
+      "assignee": [
+        "QUIDNET ENERGY INC"
+      ],
+      "inventors": [
+        "Howard k schmidt",
+        "SCOTT WRIGHT",
+        "DMITRY KOSYNKIN"
+      ],
+      "applicationDate": "2022-01-11",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Civil engineering"
+      ],
+      "score": 14.177591
+    },
+    {
+      "id": "RU-2022100205-A",
+      "title": [
+        "\u0421\u041f\u041e\u0421\u041e\u0411 \u0418 \u041c\u0410\u0422\u0415\u0420\u0418\u0410\u041b\u042b \u0414\u041b\u042f \u0423\u041f\u0420\u0410\u0412\u041b\u0415\u041d\u0418\u042f \u0413\u0415\u041e\u041c\u0415\u0422\u0420\u0418\u0415\u0419 \u0422\u0420\u0415\u0429\u0418\u041d \u0413\u0418\u0414\u0420\u041e\u0420\u0410\u0417\u0420\u042b\u0412\u0410 \u041f\u041b\u0410\u0421\u0422\u0410"
+      ],
+      "abstract": "",
+      "publicationNumber": "RU2022100205",
+      "publicationDate": "2023-07-11",
+      "assignee": [
+        "\u041a\u0412\u0418\u0414\u041d\u0415\u0422 \u042d\u041d\u0415\u0420\u0414\u0416\u0418, \u0418\u041d\u041a."
+      ],
+      "inventors": [
+        "\u0413\u043e\u0432\u0430\u0440\u0434 \u041a. \u0428\u043c\u0438\u0434\u0442",
+        "\u0421\u043a\u043e\u0442\u0442 \u0420\u0410\u0419\u0422",
+        "\u0414\u043c\u0438\u0442\u0440\u0438\u0439 \u041a\u043e\u0441\u044b\u043d\u043a\u0438\u043d"
+      ],
+      "applicationDate": "2022-01-11",
+      "claimsCount": 31,
+      "independentClaimsCount": 14,
+      "technologyFields": [
+        "Civil engineering"
+      ],
+      "score": 13.444267
+    },
+    {
+      "id": "CN-111173486-A",
+      "title": [
+        "Hydrogeological fracture energy storage system with desalination"
+      ],
+      "abstract": "\u672c\u7533\u8bf7\u6d89\u53ca\u5177\u6709\u8131\u76d0\u4f5c\u7528\u7684\u6c34\u529b\u5730\u8d28\u88c2\u7f1d\u80fd\u91cf\u5b58\u50a8\u7cfb\u7edf\u53ca\u65b9\u6cd5\u3002\u80fd\u91cf\u53ef\u4ee5\u901a\u8fc7\u5c06\u6d41\u4f53\u6ce8\u5165\u5230\u5927\u5730\u4e2d\u7684\u88c2\u7f1d\u4e2d\u5e76\u4e14\u91c7\u56de\u6d41\u4f53\u6765\u5b58\u50a8\uff0c\u540c\u65f6\u56de\u6536\u80fd\u91cf\u548c/\u6216\u4f7f\u6c34\u8131\u76d0\u3002\u8be5\u65b9\u6cd5\u53ef\u4ee5\u7279\u522b\u5730\u9002\u7528\u4e8e\u8bf8\u5982\u5728\u7535\u7f51\u89c4\u6a21\u7684\u7535\u80fd\u91cf\u7cfb\u7edf\u4e2d\u5b58\u50a8\u5927\u91cf\u80fd\u91cf\u3002\u88c2\u7f1d\u53ef\u901a\u8fc7\u4f7f\u7528\u6811\u8102\u6765\u5f62\u6210\u548c\u5904\u7406\uff0c\u4ee5\u4fbf\u9650\u5236\u6d41\u4f53\u635f\u5931\uff0c\u5e76\u589e\u52a0\u6269\u6563\u538b\u529b\u3002\u6d41\u4f53\u53ef\u4ee5\u662f\u5305\u542b\u6eb6\u89e3\u76d0\u7684\u6c34\u6216\u6de1\u6c34\uff0c\u5e76\u4e14\u6c34\u7684\u4e00\u90e8\u5206\u6216\u5168\u90e8\u53ef\u4ee5\u5728\u91c7\u51fa\u65f6\u901a\u8fc7\u5728\u6c34\u4e2d\u4f7f\u7528\u538b\u529b\u800c\u88ab\u8131\u76d0\u3002",
+      "publicationNumber": "CN111173486",
+      "publicationDate": "2020-05-19",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "H.K. Schmidt",
+        "A.H. Mandel"
+      ],
+      "applicationDate": "2019-11-13",
+      "claimsCount": 18,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Civil engineering"
+      ],
+      "score": 13.418179
+    },
+    {
+      "id": "US-11326435-B1",
+      "title": [
+        "Method and materials for manipulating hydraulic fracture geometry"
+      ],
+      "abstract": "A method for manipulating hydraulic fracture geometry. In one embodiment, the method comprises injecting a fracturing fluid into a well to generate one or more hydraulic fractures in a subsurface rock formation and then substantially draining any fluids from the one or more hydraulic fractures. The method may further comprise injecting a hydrophilic polymer and one or more crosslinking agents into the well to subsequently form low-density hydrogels which may then screen out only each tip of the one or more hydraulic fractures. A working fluid may then be injected into the well to increase fracture width of the one or more hydraulic fractures without substantially increasing fracture length. In an alternative embodiment, the hydrophilic polymer may be fully crosslinked by the one or more crosslinking agents and injected as pre-formed particle gels (PPGs) which may also screen out only each tip of the one or more hydraulic fractures.",
+      "publicationNumber": "US11326435",
+      "publicationDate": "2022-05-10",
+      "assignee": [
+        "Quidnet Energy, Inc."
+      ],
+      "inventors": [
+        "Howard K. Schmidt",
+        "Scott Wright",
+        "Dmitry Kosynkin"
+      ],
+      "applicationDate": "2021-01-11",
+      "claimsCount": 15,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Civil engineering"
+      ],
+      "score": 13.307289
+    },
+    {
+      "id": "US-20240418188-A1",
+      "title": [
+        "Energy Storage System for Overpressure Environments"
+      ],
+      "abstract": "Methods for developing geomechanical pumped energy storage systems whereby energy is stored as mechanical energy by injecting a working fluid into a formation and producing the working fluid from the formation while generating power or performing work. The method is particularly adapted to storage of large amounts of energy such as in grid-scale electric energy systems. The formation may exhibit overpressure conditions, may comprise isolated stratigraphic or structural traps of reasonable size, or may comprise depleted oil and gas assets repurposed for storing energy.",
+      "publicationNumber": "US20240418188",
+      "publicationDate": "2024-12-19",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "Howard K. Schmidt",
+        "Cliff Mauroner"
+      ],
+      "applicationDate": "2023-08-31",
+      "claimsCount": 8,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Handling",
+        "Mechanical elements"
+      ],
+      "score": 13.093502
+    },
+    {
+      "id": "US-20240280101-A1",
+      "title": [
+        "Reversible Reciprocating Pump"
+      ],
+      "abstract": "An injector generator for use in geomechanical pumped storage systems includes a power end and a fluid end. The fluid end has one or more fluid chambers each having a fluid inlet and outlet that are controlled by rotary valves. The fluid end can function as a pump or as a motor driven by fluid pressure from the geomechanical storage formation.",
+      "publicationNumber": "US20240280101",
+      "publicationDate": "2024-08-22",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "Howard K. Schmidt"
+      ],
+      "applicationDate": "2024-04-29",
+      "claimsCount": 1,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Hydro energy"
+      ],
+      "score": 13.093502
+    },
+    {
+      "id": "US-20240084683-A1",
+      "title": [
+        "Hydraulic Geofracture Energy Storage System and Associated Methods"
+      ],
+      "abstract": "Energy may be stored by injecting fluid into a fracture in the earth and producing the fluid back while recovering power and/or desalinating water. The method may be particularly adapted to storage of large amounts of energy such as in grid-scale electric energy systems. The fracture may be formed and treated with resin so as to limit fluid loss and to increase propagation pressure. The fluid may be water containing a dissolved salt or fresh water and a portion or all of the water may be desalinated using pressure in the water when it is produced.",
+      "publicationNumber": "US20240084683",
+      "publicationDate": "2024-03-14",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "Howard K. Schmidt",
+        "Aaron H. Mandell"
+      ],
+      "applicationDate": "2023-11-22",
+      "claimsCount": 15,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Civil engineering",
+        "Mechanical elements"
+      ],
+      "score": 13.093502
+    },
+    {
+      "id": "US-20220356878-A1",
+      "title": [
+        "Reversible Reciprocating Pump"
+      ],
+      "abstract": "An injector generator for use in geomechanical pumped storage systems includes a power end and a fluid end. The fluid end has one or more fluid chambers each having a fluid inlet and outlet that are controlled by rotary valves. The fluid end can function as a pump or as a motor driven by fluid pressure from the geomechanical storage formation.",
+      "publicationNumber": "US20220356878",
+      "publicationDate": "2022-11-10",
+      "assignee": [
+        "Quidnet Energy, Inc."
+      ],
+      "inventors": [
+        "Howard K. Schmidt"
+      ],
+      "applicationDate": "2020-06-26",
+      "claimsCount": 13,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Hydro energy"
+      ],
+      "score": 13.093502
+    },
+    {
+      "id": "US-20220003095-A1",
+      "title": [
+        "Hydraulic Geofracture Energy Storage System with Desalination"
+      ],
+      "abstract": "Energy may be stored by injecting fluid into a fracture in the earth and producing the fluid back while recovering power and/or desalinating water. The method may be particularly adapted to storage of large amounts of energy such as in grid-scale electric energy systems. The fracture may be formed and treated with resin so as to limit fluid loss and to increase propagation pressure. The fluid may be water containing a dissolved salt or fresh water and a portion or all of the water may be desalinated using pressure in the water when it is produced.",
+      "publicationNumber": "US20220003095",
+      "publicationDate": "2022-01-06",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "Howard K. Schmidt",
+        "Aaron H. Mandell"
+      ],
+      "applicationDate": "2021-09-21",
+      "claimsCount": 13,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Civil engineering",
+        "Mechanical elements"
+      ],
+      "score": 13.093502
+    },
+    {
+      "id": "US-20200291288-A1",
+      "title": [
+        "Hydraulic Geofracture Energy Storage System with Desalination"
+      ],
+      "abstract": "Energy may be stored by injecting fluid into a fracture in the earth and producing the fluid back while recovering power and/or desalinating water. The method may be particularly adapted to storage of large amounts of energy such as in grid-scale electric energy systems. The fracture may be formed and treated with resin so as to limit fluid loss and to increase propagation pressure. The fluid may be water containing a dissolved salt or fresh water and a portion or all of the water may be desalinated using pressure in the water when it is produced.",
+      "publicationNumber": "US20200291288",
+      "publicationDate": "2020-09-17",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "Howard K. Schmidt",
+        "Aaron H. Mandell"
+      ],
+      "applicationDate": "2020-06-01",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Chemical engineering",
+        "Civil engineering",
+        "Mechanical elements"
+      ],
+      "score": 13.093502
+    },
+    {
+      "id": "US-20190078014-A1",
+      "title": [
+        "Hydraulic Geofracture Energy Storage System with Desalination"
+      ],
+      "abstract": "Energy may be stored by injecting fluid into a fracture in the earth and producing the fluid back while recovering power and/or desalinating water. The method may be particularly adapted to storage of large amounts of energy such as in grid-scale electric energy systems. The fracture may be formed and treated with resin so as to limit fluid loss and to increase propagation pressure. The fluid may be water containing a dissolved salt or fresh water and a portion or all of the water may be desalinated using pressure in the water when it is produced.",
+      "publicationNumber": "US20190078014",
+      "publicationDate": "2019-03-14",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "Howard K. Schmidt",
+        "Aaron H. Mandell"
+      ],
+      "applicationDate": "2018-11-13",
+      "claimsCount": 18,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Chemical engineering",
+        "Civil engineering",
+        "Environmental technology",
+        "Mechanical elements"
+      ],
+      "score": 13.093502
+    },
+    {
+      "id": "US-12331622-B2",
+      "title": [
+        "Hydraulic geofracture energy storage system and associated methods"
+      ],
+      "abstract": "Energy may be stored by injecting fluid into a fracture in the earth and producing the fluid back while recovering power and/or desalinating water. The method may be particularly adapted to storage of large amounts of energy such as in grid-scale electric energy systems. The fracture may be formed and treated with resin so as to limit fluid loss and to increase propagation pressure. The fluid may be water containing a dissolved salt or fresh water and a portion or all of the water may be desalinated using pressure in the water when it is produced.",
+      "publicationNumber": "US12331622",
+      "publicationDate": "2025-06-17",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "Howard K. Schmidt",
+        "Aaron H. Mandell"
+      ],
+      "applicationDate": "2023-11-22",
+      "claimsCount": 15,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Civil engineering",
+        "Mechanical elements"
+      ],
+      "score": 13.093502
+    },
+    {
+      "id": "US-11927085-B2",
+      "title": [
+        "Hydraulic geofracture energy storage system with desalination"
+      ],
+      "abstract": "Energy may be stored by injecting fluid into a fracture in the earth and producing the fluid back while recovering power and/or desalinating water. The method may be particularly adapted to storage of large amounts of energy such as in grid-scale electric energy systems. The fracture may be formed and treated with resin so as to limit fluid loss and to increase propagation pressure. The fluid may be water containing a dissolved salt or fresh water and a portion or all of the water may be desalinated using pressure in the water when it is produced.",
+      "publicationNumber": "US11927085",
+      "publicationDate": "2024-03-12",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "Howard K. Schmidt",
+        "Aaron H. Mandell"
+      ],
+      "applicationDate": "2021-09-21",
+      "claimsCount": 13,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Civil engineering",
+        "Mechanical elements"
+      ],
+      "score": 13.093502
+    },
+    {
+      "id": "US-11125065-B2",
+      "title": [
+        "Hydraulic geofracture energy storage system with desalination"
+      ],
+      "abstract": "Energy may be stored by injecting fluid into a fracture in the earth and producing the fluid back while recovering power and/or desalinating water. The method may be particularly adapted to storage of large amounts of energy such as in grid-scale electric energy systems. The fracture may be formed and treated with resin so as to limit fluid loss and to increase propagation pressure. The fluid may be water containing a dissolved salt or fresh water and a portion or all of the water may be desalinated using pressure in the water when it is produced.",
+      "publicationNumber": "US11125065",
+      "publicationDate": "2021-09-21",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "Howard K. Schmidt",
+        "Aaron H. Mandell"
+      ],
+      "applicationDate": "2020-06-01",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Civil engineering",
+        "Mechanical elements"
+      ],
+      "score": 13.093502
+    },
+    {
+      "id": "US-10669471-B2",
+      "title": [
+        "Hydraulic geofracture energy storage system with desalination"
+      ],
+      "abstract": "Energy may be stored by injecting fluid into a fracture in the earth and producing the fluid back while recovering power and/or desalinating water. The method may be particularly adapted to storage of large amounts of energy such as in grid-scale electric energy systems. The fracture may be formed and treated with resin so as to limit fluid loss and to increase propagation pressure. The fluid may be water containing a dissolved salt or fresh water and a portion or all of the water may be desalinated using pressure in the water when it is produced.",
+      "publicationNumber": "US10669471",
+      "publicationDate": "2020-06-02",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "Howard K. Schmidt",
+        "Aaron H. Mandell"
+      ],
+      "applicationDate": "2018-11-13",
+      "claimsCount": 18,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Chemical engineering",
+        "Civil engineering",
+        "Environmental technology",
+        "Mechanical elements"
+      ],
+      "score": 13.093502
+    },
+    {
+      "id": "MY-PI2019002360-A0",
+      "title": [
+        "HYDRAULIC GEOFRACTURE ENERGY STORAGE SYSTEM WITH DESALINATION"
+      ],
+      "abstract": "ENERGY MAY BE STORED BY INJECTING FLUID INTO A FRACTURE IN THE EARTH AND PRODUCING THE FLUID BACK WHILE RECOVERING POWER AND/OR DESALINATING WATER. THE METHOD MAY BE PARTICULARLY ADAPTED TO STORAGE OF LARGE AMOUNTS OF ENERGY SUCH AS IN GRID-SCALE ELECTRIC ENERGY SYSTEMS. THE FRACTURE MAY BE FORMED AND TREATED WITH RESIN SO AS TO LIMIT FLUID LOSS AND TO INCREASE PROPAGATION PRESSURE. THE FLUID MAY BE WATER CONTAINING A DISSOLVED SALT OR FRESH WATER AND A PORTION OR ALL OF THE WATER MAY BE DESALINATED USING PRESSURE IN THE WATER WHEN IT IS PRODUCED. (FIG. 1)",
+      "publicationNumber": "MYPI2019002360",
+      "publicationDate": "2018-04-27",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "AARON H. MANDELL",
+        "HOWARD K. SCHMIDT"
+      ],
+      "applicationDate": "2017-10-26",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 13.093502
+    },
+    {
+      "id": "IN-201944046041-A",
+      "title": [
+        "HYDRAULIC GEOFRACTURE ENERGY STORAGE SYSTEM WITH DESALINATION"
+      ],
+      "abstract": "Energy may be stored by injecting fluid into a fracture in the earth and producing the fluid back while recovering power and/or desalinating water. The method may be particularly adapted to storage of large amounts of energy such as in grid-scale electric energy systems. The fracture may be formed and treated with resin so as to limit fluid loss and to increase propagation pressure. The fluid may be water containing a dissolved salt or fresh water and a portion or all of the water may be desalinated using pressure in the water when it is produced.",
+      "publicationNumber": "IN201944046041",
+      "publicationDate": "2020-05-15",
+      "assignee": [
+        "QUIDNET ENERGY INC"
+      ],
+      "inventors": [
+        "Howard K . Schmidt",
+        "Aaron H . Mandell"
+      ],
+      "applicationDate": "2019-11-13",
+      "claimsCount": 18,
+      "independentClaimsCount": 2,
+      "technologyFields": [],
+      "score": 13.093502
+    },
+    {
+      "id": "IN-201917020762-A",
+      "title": [
+        "HYDRAULIC GEOFRACTURE ENERGY STORAGE SYSTEM WITH DESALINATION"
+      ],
+      "abstract": "Energy may be stored by injecting fluid into a fracture in the earth and producing the fluid back while recovering power and/or desalinating water. The method may be particularly adapted to storage of large amounts of energy such as in grid-scale electric energy systems. The fracture may be formed and treated with resin so as to limit fluid loss and to increase propagation pressure. The fluid may be water containing a dissolved salt or fresh water and a portion or all of the water may be desalinated using pressure in the water when it is produced.",
+      "publicationNumber": "IN201917020762",
+      "publicationDate": "2019-08-23",
+      "assignee": [
+        "QUIDNET ENERGY INC"
+      ],
+      "inventors": [
+        "HOWARD K. SCHMIDT",
+        "AARON H. MANDELL"
+      ],
+      "applicationDate": "2019-05-24",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Civil engineering",
+        "Handling"
+      ],
+      "score": 13.093502
+    },
+    {
+      "id": "IN-201717001556-A",
+      "title": [
+        "HYDRAULIC GEOFRACTURE ENERGY STORAGE SYSTEM WITH DESALINAZATION"
+      ],
+      "abstract": "Energy is stored by injecting fluid into a hydraulic fracture in the earth and producing the fluid back while recovering power and/or desalinating water. The method is particularly adapted to storage of large amounts of energy such as in grid scale electric energy systems. The hydraulic fracture may be formed and treated with resin so as to limit fluid loss and to increase propagation pressure. The fluid may be water containing a dissolved salt or fresh water and a portion or all of the water may be desalinated using pressure in the water when it is produced.",
+      "publicationNumber": "IN201717001556",
+      "publicationDate": "2017-05-12",
+      "assignee": [
+        "QUIDNET ENERGY INC"
+      ],
+      "inventors": [
+        "SCHMIDT HOWARD K.",
+        "MANDELL AARON H."
+      ],
+      "applicationDate": "2017-01-13",
+      "claimsCount": 6,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Civil engineering"
+      ],
+      "score": 13.093502
+    },
+    {
+      "id": "ID-P201801924-A",
+      "title": [
+        "SISTEM PENYIMPANAN ENERGI GEOFRAKTUR HIDRAULIK DENGAN DESALINAS"
+      ],
+      "abstract": "Energi disimpan dengan cara menginjeksikan fluida ke dalam rekahan (fraktur) hidrolik di dalam tanah dan menghasirkan fluida tersebut kembali sembari memulihkan daya dan/atau mendesalinasi air. Metode ini disesuaikan khusus untuk menyimpan sejumlah besar energi seperti pada sistem energi listrik skala grid. Rekahan hidrorik dapat dibentuk dan diberi perrakuan dengan resin sehingga membatasi kehilangan fluida dan meningkatkan tekanan rambatan. Fluida dapat berupa air yang mengandung garam terlarut atau air tawar dan sebagian atau seluruh air dapat didesalinasi menggunakan tekanan di dalam air saat air diproduksi.",
+      "publicationNumber": "IDP201801924",
+      "publicationDate": "2018-03-02",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "HOWARD K. SCHMIDT",
+        "AARON H. MANDELL"
+      ],
+      "applicationDate": "2017-01-27",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Civil engineering"
+      ],
+      "score": 13.093502
+    },
+    {
+      "id": "EP-3161254-B1",
+      "title": [
+        "HYDRAULIC GEOFRACTURE ENERGY STORAGE SYSTEM WITH DESALINAZATION"
+      ],
+      "abstract": "Energy is stored by injecting fluid into a hydraulic fracture in the earth and producing the fluid back while recovering power and/or desalinating water. The method is particularly adapted to storage of large amounts of energy such as in grid-scale electric energy systems. The hydraulic fracture may be formed and treated with resin so as to limit fluid loss and to increase propagation pressure. The fluid may be water containing a dissolved salt or fresh water and a portion or all of the water may be desalinated using pressure in the water when it is produced.",
+      "publicationNumber": "EP3161254",
+      "publicationDate": "2019-05-01",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "HOWARD K. SCHMIDT",
+        "AARON H. MANDELL"
+      ],
+      "applicationDate": "2015-06-29",
+      "claimsCount": 8,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Civil engineering",
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Environmental technology",
+        "Handling",
+        "Hydro energy",
+        "Wind energy technology"
+      ],
+      "score": 13.093502
+    },
+    {
+      "id": "AU-2016203201-A1",
+      "title": [
+        "HYDRAULIC GEOFRACTURE ENERGY STORAGE SYSTEM"
+      ],
+      "abstract": "Energy is stored by injecting fluid into a hydraulic fracture in the earth and producing the fluid back while recovering power. The method is particularly adapted to storage of large amounts of energy such as in grid-scale electric energy systems. The hydraulic fracture may be formed and treated with resin so as to limit fluid loss and to increase propagation pressure. See Figures 5A, 5B and 5C. WO 2011/019750 PCT/US2010/045068 0 o a0 0 o 6L o",
+      "publicationNumber": "AU2016203201",
+      "publicationDate": "2016-06-09",
+      "assignee": [
+        "Quidnet Energy, Inc."
+      ],
+      "inventors": [
+        "HOWARD K. SCHMIDT"
+      ],
+      "applicationDate": "2016-05-17",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Civil engineering",
+        "Engines, pumps, turbines",
+        "Wind energy technology"
+      ],
+      "score": 13.093502
+    },
+    {
+      "id": "CA-3145625-A1",
+      "title": [
+        "METHOD AND MATERIALS FOR MANIPULATING HYDRAULIC FRACTURE GEOMETRY"
+      ],
+      "abstract": "A method for manipulating hydraulic fracture geometry. In one embodiment, the method comprises injecting a fracturing fluid into a well to generate one or more hydraulic fractures in a subsurface rock fomiation and then substantially draining any fluids from the one or more hydraulic fractures. The method may further comprise injecting a hydrophilic polymer and one or more crosslinking agents into the well to subsequently fonn low-density hydrogels which may then screen out only each tip of the one or more hydraulic fractures. A working fluid may then be injected into the well to increase fracture width of the one or more hydraulic fractures without substantially increasing fracture length. In an alternative embodiment, the hydrophilic polymer may be fully crosslinked by the one or more crosslinking agents and injected as pre-fomied particle gels (PPGs) which may also screen out only each tip of the one or more hydraulic fractures.",
+      "publicationNumber": "CA3145625",
+      "publicationDate": "2022-07-11",
+      "assignee": [
+        "Quidnet Energy, Inc."
+      ],
+      "inventors": [
+        "HOWARD K. SCHMIDT",
+        "SCOTT WRIGHT",
+        "DMITRY KOSYNKIN"
+      ],
+      "applicationDate": "2022-01-11",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Civil engineering"
+      ],
+      "score": 12.426835
+    },
+    {
+      "id": "US-20170089178-A1",
+      "title": [
+        "Hydraulic Geofracture Energy Storage System with Desalination"
+      ],
+      "abstract": "Energy may be stored by injecting fluid into a fracture in the earth and producing the fluid back while recovering power and/or desalinating water. The method may be particularly adapted to storage of large amounts of energy such as in grid-scale electric energy systems. The fracture may be formed and treated with resin so as to limit fluid loss and to increase propagation pressure. The fluid may be water containing a dissolved salt or fresh water and a portion or all of the water may be desalinated using pressure in the water when it is produced.",
+      "publicationNumber": "US20170089178",
+      "publicationDate": "2017-03-30",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "Howard K. Schmidt",
+        "Aaron H. Mandell"
+      ],
+      "applicationDate": "2016-10-27",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Civil engineering"
+      ],
+      "score": 12.420936
+    },
+    {
+      "id": "US-10125035-B2",
+      "title": [
+        "Hydraulic geofracture energy storage system with desalination"
+      ],
+      "abstract": "Energy may be stored by injecting fluid into a fracture in the earth and producing the fluid back while recovering power and/or desalinating water. The method may be particularly adapted to storage of large amounts of energy such as in grid-scale electric energy systems. The fracture may be formed and treated with resin so as to limit fluid loss and to increase propagation pressure. The fluid may be water containing a dissolved salt or fresh water and a portion or all of the water may be desalinated using pressure in the water when it is produced.",
+      "publicationNumber": "US10125035",
+      "publicationDate": "2018-11-13",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "Howard K. Schmidt",
+        "Aaron H. Mandell"
+      ],
+      "applicationDate": "2016-10-27",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Environmental technology",
+        "Handling",
+        "Hydro energy",
+        "Wind energy technology"
+      ],
+      "score": 12.420936
+    },
+    {
+      "id": "SA-119410196-B1",
+      "title": [
+        "Hydraulic Geofracture Energy Storage System With Desalination"
+      ],
+      "abstract": "Energy may be stored by injecting fluid into a fracture in the earth and producing the fluid back while recovering power and/or desalinating water. The method may be particularly adapted to storage of large amounts of energy such as in grid-scale electric energy systems. The fracture may be formed and treated with resin so as to limit fluid loss and to increase propagation pressure. The fluid may be water containing a dissolved salt or fresh water and a portion or all of the water may be desalinated using pressure in the water when it is produced. Fig 1.",
+      "publicationNumber": "SA119410196",
+      "publicationDate": "2023-01-17",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "AARON H. MANDELL",
+        "HOWARD K. SCHMIDT"
+      ],
+      "applicationDate": "2019-11-12",
+      "claimsCount": 1,
+      "independentClaimsCount": 1,
+      "technologyFields": [],
+      "score": 12.420936
+    },
+    {
+      "id": "BR-112012002933-B1",
+      "title": [
+        "SISTEMA DE ARMAZENAMENTO DE ENERGIA POR GEOFRATURA HIDR\u00c1ULICA"
+      ],
+      "abstract": "sistema de armazenamento de energia por geofratura hidr\u00e1ulica. a energia \u00e9 armazenada ao injetar o fluido em uma fratura hidr\u00e1ulica na terra e ao produzir o retorno do fluido ao recuperar a energia. o m\u00e9todo \u00e9 normalmente adaptado \u00e0 armazenagem de grandes quantidades de energia, bem como nos sistemas de energia el\u00e9trica de escala de rede. a fratura hidr\u00e1ulica pode ser formada e tratada com resina, deste modo limitando a perda de fluido e aumentando a press\u00e3o de propaga\u00e7\u00e3o.",
+      "publicationNumber": "BR112012002933",
+      "publicationDate": "2019-04-16",
+      "assignee": [
+        "HOWARD K. SCHMIDT"
+      ],
+      "inventors": [
+        "Howard K. Schmidt"
+      ],
+      "applicationDate": "2010-08-10",
+      "claimsCount": 14,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Civil engineering",
+        "Engines, pumps, turbines",
+        "Wind energy technology"
+      ],
+      "score": 12.420936
+    },
+    {
+      "id": "CN-114753821-A",
+      "title": [
+        "Methods and materials for manipulating hydraulic fracture geometry"
+      ],
+      "abstract": "\u4e00\u79cd\u7528\u4e8e\u64cd\u7eb5\u6c34\u529b\u88c2\u7f1d\u51e0\u4f55\u5f62\u6001\u7684\u65b9\u6cd5\u3002\u5728\u4e00\u4e2a\u5b9e\u65bd\u4f8b\u4e2d\uff0c\u8be5\u65b9\u6cd5\u5305\u62ec\u5c06\u538b\u88c2\u6db2\u6ce8\u5165\u4e95\u4e2d\u4ee5\u5728\u5730\u4e0b\u5ca9\u5c42\u4e2d\u4ea7\u751f\u4e00\u4e2a\u6216\u591a\u4e2a\u6c34\u529b\u88c2\u7f1d\uff0c\u7136\u540e\u57fa\u672c\u6392\u5e72\u6240\u8ff0\u4e00\u4e2a\u6216\u591a\u4e2a\u6c34\u529b\u88c2\u7f1d\u4e2d\u7684\u4efb\u4f55\u6d41\u4f53\u3002\u8be5\u65b9\u6cd5\u8fd8\u53ef\u5305\u62ec\u5c06\u4eb2\u6c34\u6027\u805a\u5408\u7269\u548c\u4e00\u79cd\u6216\u591a\u79cd\u4ea4\u8054\u5242\u6ce8\u5165\u4e95\u4e2d\u4ee5\u968f\u540e\u5f62\u6210\u4f4e\u5bc6\u5ea6\u6c34\u51dd\u80f6\uff0c\u7136\u540e\u8be5\u4f4e\u5bc6\u5ea6\u6c34\u51dd\u80f6\u53ef\u4ec5\u4f7f\u6240\u8ff0\u4e00\u4e2a\u6216\u591a\u4e2a\u6c34\u529b\u88c2\u7f1d\u7684\u6bcf\u4e2a\u7aef\u90e8\u8131\u7802\u3002\u7136\u540e\uff0c\u53ef\u5c06\u5de5\u4f5c\u6d41\u4f53\u6ce8\u5165\u4e95\u4e2d\u4ee5\u589e\u52a0\u6240\u8ff0\u4e00\u4e2a\u6216\u591a\u4e2a\u6c34\u529b\u88c2\u7f1d\u7684\u88c2\u7f1d\u5bbd\u5ea6\u800c\u57fa\u672c\u4e0a\u4e0d\u589e\u52a0\u88c2\u7f1d\u957f\u5ea6\u3002\u5728\u66ff\u4ee3\u5b9e\u65bd\u4f8b\u4e2d\uff0c\u4eb2\u6c34\u6027\u805a\u5408\u7269\u53ef\u901a\u8fc7\u6240\u8ff0\u4e00\u79cd\u6216\u591a\u79cd\u4ea4\u8054\u5242\u5b8c\u5168\u4ea4\u8054\u5e76\u4f5c\u4e3a\u9884\u4ea4\u8054\u51dd\u80f6\u9897\u7c92(PPG)\u6ce8\u5165\uff0c\u5176\u4e5f\u53ef\u4ec5\u4f7f\u6240\u8ff0\u4e00\u4e2a\u6216\u591a\u4e2a\u6c34\u529b\u88c2\u7f1d\u7684\u6bcf\u4e2a\u7aef\u90e8\u8131\u7802\u3002",
+      "publicationNumber": "CN114753821",
+      "publicationDate": "2022-07-15",
+      "assignee": [
+        "Quette energy"
+      ],
+      "inventors": [
+        "Howard K. Schmid",
+        "SCOTT WHITE",
+        "Dmitri Kosingen"
+      ],
+      "applicationDate": "2022-01-11",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Civil engineering"
+      ],
+      "score": 12.311235
+    },
+    {
+      "id": "US-20220128053-A1",
+      "title": [
+        "Reversible Reciprocating Pump"
+      ],
+      "abstract": "An injector generator for use in geomechanical pumped storage systems includes a power end and a fluid end. The fluid end has one or more fluid chambers each having a fluid inlet and outlet that are controlled by rotary valves. The fluid end can function as a pump or as a motor driven by fluid pressure from the geomechanical storage formation.",
+      "publicationNumber": "US20220128053",
+      "publicationDate": "2022-04-28",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "Howard K. Schmidt"
+      ],
+      "applicationDate": "2020-06-26",
+      "claimsCount": 13,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 12.1723995
+    },
+    {
+      "id": "CA-2807760-C",
+      "title": [
+        "HYDRAULIC GEOFRACTURE ENERGY STORAGE SYSTEM"
+      ],
+      "abstract": "A method for operating an electric grid system, comprising: generating electrical power during optimum production periods using a primary source of power for the electric grid system; usign a portion of the electrical power generated during optimum production periods to pump a storage fluid into a hydraulic fracture in the earth; during a non-optimum production period, producing the storage fluid from the hydraulic fracture and generating electrical power for the electric grid system.",
+      "publicationNumber": "CA2807760",
+      "publicationDate": "2017-07-18",
+      "assignee": [
+        "SCHMIDT, HOWARD K."
+      ],
+      "inventors": [
+        "HOWARD K. SCHMIDT"
+      ],
+      "applicationDate": "2010-08-10",
+      "claimsCount": 14,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Civil engineering",
+        "Engines, pumps, turbines",
+        "Wind energy technology"
+      ],
+      "score": 12.052144
+    },
+    {
+      "id": "CA-3061499-A1",
+      "title": [
+        "HYDRAULIC GEOFRACTURE ENERGY STORAGE SYSTEM WITH DESALINATION"
+      ],
+      "abstract": "Energy may be stored by injecting fluid into a fracture in the earth and producing the fluid back while recovering power and/or desalinating water. The method may be particularly adapted to storage of large amounts of energy such as in grid-scale electric energy systems. The fracture may be formed and treated with resin so as to limit fluid loss and to increase propagation pressure. The fluid may be water containing a dissolved salt or fresh water and a portion or all of the water may be desalinated using pressure in the water when it is produced.",
+      "publicationNumber": "CA3061499",
+      "publicationDate": "2020-05-13",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "AARON H. MANDELL",
+        "HOWARD K. SCHMIDT"
+      ],
+      "applicationDate": "2019-11-13",
+      "claimsCount": 18,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Civil engineering",
+        "Engines, pumps, turbines",
+        "Handling",
+        "Wind energy technology"
+      ],
+      "score": 11.819235
+    },
+    {
+      "id": "US-9481519-B2",
+      "title": [
+        "Hydraulic geofracture energy storage system with desalinization"
+      ],
+      "abstract": "Energy is stored by injecting fluid into a hydraulic fracture in the earth and producing the fluid back while recovering power and/or desalinating water. The method is particularly adapted to storage of large amounts of energy such as in grid-scale electric energy systems. The hydraulic fracture may be formed and treated with resin so as to limit fluid loss and to increase propagation pressure. The fluid may be water containing a dissolved salt or fresh water and a portion or all of the water may be desalinated using pressure in the water when it is produced.",
+      "publicationNumber": "US9481519",
+      "publicationDate": "2016-11-01",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "Howard K. Schmidt",
+        "Aaron H. Mandell"
+      ],
+      "applicationDate": "2014-06-30",
+      "claimsCount": 6,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Environmental technology",
+        "Handling",
+        "Hydro energy"
+      ],
+      "score": 11.595941
+    },
+    {
+      "id": "CN-110139815-B",
+      "title": [
+        "\u5177\u6709\u8131\u76d0\u4f5c\u7528\u7684\u6db2\u538b\u5730\u8d28\u50a8\u80fd\u7cfb\u7edf"
+      ],
+      "abstract": "\u53ef\u901a\u8fc7\u5c06\u6d41\u4f53\u6ce8\u5165\u571f\u5730\u7684\u88c2\u7f1d\u4e2d\u5e76\u5728\u56de\u6536\u80fd\u91cf\u548c/\u6216\u4f7f\u6c34\u8131\u76d0\u7684\u540c\u65f6\u4ea7\u751f\u6d41\u4f53\u6765\u5b58\u50a8\u80fd\u91cf\u3002\u8be5\u65b9\u6cd5\u53ef\u7279\u522b\u9002\u5408\u4e8e\u4f8b\u5982\uff0c\u5728\u7535\u7f51\u89c4\u6a21\u7684\u7535\u80fd\u7cfb\u7edf\u4e2d\u5b58\u50a8\u5927\u91cf\u80fd\u91cf\u3002\u53ef\u5f62\u6210\u88c2\u7f1d\u5e76\u7528\u6811\u8102\u8fdb\u884c\u5904\u7406\uff0c\u4ee5\u9650\u5236\u6d41\u4f53\u635f\u5931\u5e76\u589e\u52a0\u8513\u5ef6\u538b\u529b\u3002\u6d41\u4f53\u53ef\u4e3a\u542b\u6709\u6eb6\u89e3\u76d0\u7684\u6c34\u6216\u6de1\u6c34\uff0c\u5e76\u4e14\u5f53\u4ea7\u751f\u6c34\u65f6\uff0c\u53ef\u4f7f\u7528\u6c34\u4e2d\u7684\u538b\u529b\u4f7f\u90e8\u5206\u6216\u5168\u90e8\u6c34\u8131\u76d0\u3002",
+      "publicationNumber": "CN110139815",
+      "publicationDate": "2022-07-26",
+      "assignee": [
+        "Quidnet Energy Inc."
+      ],
+      "inventors": [
+        "H.K. Schmidt",
+        "A.H. Mandel"
+      ],
+      "applicationDate": "2017-10-26",
+      "claimsCount": 19,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Civil engineering",
+        "Engines, pumps, turbines",
+        "Handling",
+        "Wind energy technology"
+      ],
+      "score": 11.381677
+    },
+    {
+      "id": "CN-110139815-A",
+      "title": [
+        "\u5177\u6709\u8131\u76d0\u4f5c\u7528\u7684\u6db2\u538b\u5730\u8d28\u50a8\u80fd\u7cfb\u7edf"
+      ],
+      "abstract": "\u53ef\u901a\u8fc7\u5c06\u6d41\u4f53\u6ce8\u5165\u571f\u5730\u7684\u88c2\u7f1d\u4e2d\u5e76\u5728\u56de\u6536\u80fd\u91cf\u548c/\u6216\u4f7f\u6c34\u8131\u76d0\u7684\u540c\u65f6\u4ea7\u751f\u6d41\u4f53\u6765\u5b58\u50a8\u80fd\u91cf\u3002\u8be5\u65b9\u6cd5\u53ef\u7279\u522b\u9002\u5408\u4e8e\u4f8b\u5982\uff0c\u5728\u7535\u7f51\u89c4\u6a21\u7684\u7535\u80fd\u7cfb\u7edf\u4e2d\u5b58\u50a8\u5927\u91cf\u80fd\u91cf\u3002\u53ef\u5f62\u6210\u88c2\u7f1d\u5e76\u7528\u6811\u8102\u8fdb\u884c\u5904\u7406\uff0c\u4ee5\u9650\u5236\u6d41\u4f53\u635f\u5931\u5e76\u589e\u52a0\u8513\u5ef6\u538b\u529b\u3002\u6d41\u4f53\u53ef\u4e3a\u542b\u6709\u6eb6\u89e3\u76d0\u7684\u6c34\u6216\u6de1\u6c34\uff0c\u5e76\u4e14\u5f53\u4ea7\u751f\u6c34\u65f6\uff0c\u53ef\u4f7f\u7528\u6c34\u4e2d\u7684\u538b\u529b\u4f7f\u90e8\u5206\u6216\u5168\u90e8\u6c34\u8131\u76d0\u3002",
+      "publicationNumber": "CN110139815",
+      "publicationDate": "2019-08-16",
+      "assignee": [
+        "Quaid Nate energy Limited by Share Ltd"
+      ],
+      "inventors": [
+        "H.K. Schmidt",
+        "A.H. Mandel"
+      ],
+      "applicationDate": "2017-10-26",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Civil engineering",
+        "Engines, pumps, turbines",
+        "Handling",
+        "Wind energy technology"
+      ],
+      "score": 9.783205
+    },
+    {
+      "id": "CN-106661936-A",
+      "title": [
+        "\u5177\u6709\u8131\u76d0\u4f5c\u7528\u7684\u6c34\u529b\u538b\u88c2\u80fd\u91cf\u5b58\u50a8\u7cfb\u7edf"
+      ],
+      "abstract": "\u901a\u8fc7\u6ce8\u5165\u6d41\u4f53\u81f3\u5730\u4e0b\u6c34\u88c2\u538b\u88c2\u88c2\u7f1d\u4e2d\u50a8\u5b58\u80fd\u91cf\uff0c\u91c7\u56de\u6d41\u4f53\u65f6\u56de\u6536\u80fd\u91cf\u548c/\u6216\u4f7f\u6c34\u8131\u76d0\u3002\u8be5\u65b9\u6cd5\u5c24\u5176\u9002\u7528\u4e8e\u50a8\u5b58\u5927\u91cf\u80fd\u91cf\u4f8b\u5982\u7535\u7f51\u89c4\u6a21\u7535\u80fd\u7cfb\u7edf\u3002\u53ef\u7528\u6811\u8102\u5f62\u6210\u6216\u5904\u7406\u6c34\u529b\u538b\u88c2\u88c2\u7f1d\u4ece\u800c\u9650\u5236\u6d41\u4f53\u635f\u5931\u5e76\u589e\u52a0\u4f20\u64ad\u538b\u529b\u3002\u6d41\u4f53\u53ef\u4ee5\u662f\u542b\u6709\u6eb6\u89e3\u76d0\u7684\u6c34\u6216\u6de1\u6c34\uff0c\u5e76\u4e14\u5f53\u5c06\u5176\u91c7\u51fa\u65f6\u4f7f\u7528\u6c34\u4e2d\u7684\u538b\u529b\u53ef\u4f7f\u90e8\u5206\u6216\u5168\u90e8\u6c34\u8131\u76d0\u3002",
+      "publicationNumber": "CN106661936",
+      "publicationDate": "2017-05-10",
+      "assignee": [
+        "Quaid Nate energy Limited by Share Ltd"
+      ],
+      "inventors": [
+        "H k schmidt",
+        "A H Mandel"
+      ],
+      "applicationDate": "2015-06-29",
+      "claimsCount": 6,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Civil engineering"
+      ],
+      "score": 9.783205
+    }
+  ]
+}

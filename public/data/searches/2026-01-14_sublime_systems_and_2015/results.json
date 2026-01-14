@@ -1,0 +1,1437 @@
+{
+  "count": 53,
+  "numFound": 53,
+  "docs": [
+    {
+      "id": "WO-2025129096-A1",
+      "title": [
+        "CEMENTITIOUS MATERIALS AND ADDITIVES CONTAINING ALUMINUM AND/OR SILICEOUS MATERIALS AND METHODS OF MAKING THEREOF"
+      ],
+      "abstract": "The present disclosure includes methods and systems of producing pozzolanic supplementary cementitious materials and/or aluminum compounds/ additives and cementitious compositions with the pozzolanic supplementary cementitious materials and/or aluminum compounds/ additives. These methods can include leaching a feedstock material with acid to produce a leachate and a residual solid, wherein the feedstock material comprises aluminum, silicon, and at least one of iron, calcium, and magnesium; separating the leachate comprising dissolved metal cations and the corresponding anions from the residual solid comprising the silicate and/or aluminosilicate; drying the residual solid to create pozzolanic supplementary cementitious material comprising the residual solid; adding a precipitating agent to the leachate solution to form an aqueous solution and a solid precipitate comprising an aluminum compound/ additive; and separating the aluminum compound/ additive precipitate from the aqueous solution.",
+      "publicationNumber": "WO2025129096",
+      "publicationDate": "2025-06-19",
+      "assignee": [
+        "SUBLIME SYSTEMS, INC."
+      ],
+      "inventors": [
+        "MICHAEL C. STERN",
+        "Sheila M. ELLI",
+        "KYLE PEARCE DOMINGUEZ",
+        "Mariya LAYUROVA",
+        "Khashayar JAFARI",
+        "NEAL DESAI",
+        "MEHDI RASHIDI",
+        "Joseph P. HITTINGER",
+        "Mitchell Hans SHAPIRO-ALBERT",
+        "Daniel Kenealy DUGAN",
+        "Michael P. SHEAHAN",
+        "YUYAN XUE",
+        "Summer Louise CAMERLO",
+        "YET-MING CHIANG",
+        "IMAN MEHDIPOUR",
+        "ELIZABETH GERTRUDE BURNS",
+        "DAVID F. MYERS",
+        "Luis Guillermo BAQUERIZO IBARRA",
+        "Leslie A.J. BUZZELL",
+        "JESSE DANIEL BENCK"
+      ],
+      "applicationDate": "2024-12-13",
+      "claimsCount": 1,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 16.09301
+    },
+    {
+      "id": "WO-2024059557-A3",
+      "title": [
+        "HIGH EFFICIENCY ACID-BASE LEACHING METHODS AND SYSTEMS"
+      ],
+      "abstract": "Disclosed herein are acid-base leaching methods and systems. Specifically, the systems and methods can include supplying an iron and/or aluminum feed material and an acid to a first reaction chamber; supplying a first leachate comprising iron and/or aluminum salts or cations from the first reaction chamber and a calcium feed material to a second reaction chamber to form a solid comprising iron and/or aluminum; supplying a second leachate from the second reaction chamber comprising alkaline earth metal salts or cations and a base to a third reaction chamber to form a precipitated alkaline earth metal product.",
+      "publicationNumber": "WO2024059557",
+      "publicationDate": "2024-04-25",
+      "assignee": [
+        "SUBLIME SYSTEMS, INC."
+      ],
+      "inventors": [
+        "MICHAEL C. STERN",
+        "Jesse D. BENCK",
+        "YET-MING CHIANG"
+      ],
+      "applicationDate": "2023-09-12",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 15.999204
+    },
+    {
+      "id": "WO-2024059557-A2",
+      "title": [
+        "HIGH EFFICIENCY ACID-BASE LEACHING METHODS AND SYSTEMS"
+      ],
+      "abstract": "Disclosed herein are acid-base leaching methods and systems. Specifically, the systems and methods can include supplying an iron and/or aluminum feed material and an acid to a first reaction chamber; supplying a first leachate comprising iron and/or aluminum salts or cations from the first reaction chamber and a calcium feed material to a second reaction chamber to form a solid comprising iron and/or aluminum; supplying a second leachate from the second reaction chamber comprising alkaline earth metal salts or cations and a base to a third reaction chamber to form a precipitated alkaline earth metal product.",
+      "publicationNumber": "WO2024059557",
+      "publicationDate": "2024-03-21",
+      "assignee": [
+        "SUBLIME SYSTEMS, INC."
+      ],
+      "inventors": [
+        "MICHAEL C. STERN",
+        "Jesse D. BENCK",
+        "YET-MING CHIANG"
+      ],
+      "applicationDate": "2023-09-12",
+      "claimsCount": 46,
+      "independentClaimsCount": 7,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 15.999204
+    },
+    {
+      "id": "WO-2023108054-A1",
+      "title": [
+        "SYSTEMS AND METHODS FOR USING HEAT PRODUCED FROM ACID GENERATION"
+      ],
+      "abstract": "Provided herein are methods and systems for using heat from acid generation, comprising: an acid generating system configured to generate heat and an acid; a wet solids generating system configured to: dissolve a first calcium source in the acid; and precipitate a second calcium source using the dissolved first calcium source to generate a wet solid; and a dryer configured to dry the wet solid using the heat from the acid generating system.",
+      "publicationNumber": "WO2023108054",
+      "publicationDate": "2023-06-15",
+      "assignee": [
+        "SUBLIME SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Jesse D. BENCK",
+        "YET-MING CHIANG",
+        "MICHAEL CORBETT",
+        "Kyle DOMINGUEZ",
+        "Leah D. ELLIS",
+        "Khashayar JAFARI",
+        "Mariya LAYUROVA"
+      ],
+      "applicationDate": "2022-12-08",
+      "claimsCount": 27,
+      "independentClaimsCount": 8,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 15.999204
+    },
+    {
+      "id": "EP-4587602-A2",
+      "title": [
+        "HIGH EFFICIENCY ACID-BASE LEACHING METHODS AND SYSTEMS"
+      ],
+      "abstract": "Disclosed herein are acid-base leaching methods and systems. Specifically, the systems and methods can include supplying an iron and/or aluminum feed material and an acid to a first reaction chamber; supplying a first leachate comprising iron and/or aluminum salts or cations from the first reaction chamber and a calcium feed material to a second reaction chamber to form a solid comprising iron and/or aluminum; supplying a second leachate from the second reaction chamber comprising alkaline earth metal salts or cations and a base to a third reaction chamber to form a precipitated alkaline earth metal product.",
+      "publicationNumber": "EP4587602",
+      "publicationDate": "2025-07-23",
+      "assignee": [
+        "Sublime Systems, Inc."
+      ],
+      "inventors": [
+        "MICHAEL C. STERN",
+        "Jesse D. BENCK",
+        "YET-MING CHIANG"
+      ],
+      "applicationDate": "2023-09-12",
+      "claimsCount": 46,
+      "independentClaimsCount": 7,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 15.999204
+    },
+    {
+      "id": "EP-4444667-A1",
+      "title": [
+        "SYSTEMS AND METHODS FOR USING HEAT PRODUCED FROM ACID GENERATION"
+      ],
+      "abstract": "Provided herein are methods and systems for using heat from acid generation, comprising: an acid generating system configured to generate heat and an acid; a wet solids generating system configured to: dissolve a first calcium source in the acid; and precipitate a second calcium source using the dissolved first calcium source to generate a wet solid; and a dryer configured to dry the wet solid using the heat from the acid generating system.",
+      "publicationNumber": "EP4444667",
+      "publicationDate": "2024-10-16",
+      "assignee": [
+        "Sublime Systems, Inc."
+      ],
+      "inventors": [
+        "Jesse D. BENCK",
+        "YET-MING CHIANG",
+        "MICHAEL CORBETT",
+        "Kyle DOMINGUEZ",
+        "Leah D. ELLIS",
+        "Khashayar JAFARI",
+        "Mariya LAYUROVA"
+      ],
+      "applicationDate": "2022-12-08",
+      "claimsCount": 27,
+      "independentClaimsCount": 8,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 15.999204
+    },
+    {
+      "id": "WO-2022204059-A1",
+      "title": [
+        "DECARBONIZED CEMENT BLENDS"
+      ],
+      "abstract": "Various embodiments include cementitious compositions with low levels of embodied greenhouse gas emissions, in particular carbon dioxide, as a result of its production and/or use compared to conventional cementitious materials, such as portland cement. Various embodiments include any cementitious material or materials with low embodied carbon, as well as any material produced using this cement.",
+      "publicationNumber": "WO2022204059",
+      "publicationDate": "2022-09-29",
+      "assignee": [
+        "SUBLIME SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Jesse D. BENCK",
+        "YET-MING CHIANG",
+        "Kyle DOMINGUEZ",
+        "Leah, D. ELLIS",
+        "Khashayar JAFARI",
+        "Mariya LAYUROVA",
+        "Ada MACLEOD"
+      ],
+      "applicationDate": "2022-03-21",
+      "claimsCount": 259,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Materials, metallurgy",
+        "Surface technology, coating"
+      ],
+      "score": 15.602973
+    },
+    {
+      "id": "EP-4313906-A4",
+      "title": [
+        "DECARBONIZED CEMENT BLENDS"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP4313906",
+      "publicationDate": "2025-02-19",
+      "assignee": [
+        "Sublime Systems, Inc."
+      ],
+      "inventors": [
+        "Jesse D. BENCK",
+        "YET-MING CHIANG",
+        "Kyle DOMINGUEZ",
+        "Leah, D. ELLIS",
+        "Khashayar JAFARI",
+        "Mariya LAYUROVA",
+        "Ada MACLEOD"
+      ],
+      "applicationDate": "2022-03-21",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Materials, metallurgy",
+        "Surface technology, coating"
+      ],
+      "score": 15.602973
+    },
+    {
+      "id": "EP-4313906-A1",
+      "title": [
+        "DECARBONIZED CEMENT BLENDS"
+      ],
+      "abstract": "Various embodiments include cementitious compositions with low levels of embodied greenhouse gas emissions, in particular carbon dioxide, as a result of its production and/or use compared to conventional cementitious materials, such as portland cement. Various embodiments include any cementitious material or materials with low embodied carbon, as well as any material produced using this cement.",
+      "publicationNumber": "EP4313906",
+      "publicationDate": "2024-02-07",
+      "assignee": [
+        "Sublime Systems, Inc."
+      ],
+      "inventors": [
+        "Jesse D. BENCK",
+        "YET-MING CHIANG",
+        "Kyle DOMINGUEZ",
+        "Leah, D. ELLIS",
+        "Khashayar JAFARI",
+        "Mariya LAYUROVA",
+        "Ada MACLEOD"
+      ],
+      "applicationDate": "2022-03-21",
+      "claimsCount": 259,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Materials, metallurgy",
+        "Surface technology, coating"
+      ],
+      "score": 15.602973
+    },
+    {
+      "id": "BR-112023019361-A2",
+      "title": [
+        "AGLUTINANTE CIMENT\u00cdCIO, M\u00c9TODO PARA FORMA\u00c7\u00c3O DE UM AGLUTINANTE CIMENT\u00cdCIO"
+      ],
+      "abstract": "aglutinante ciment\u00edcio, m\u00e9todo para forma\u00e7\u00e3o de um aglutinante ciment\u00edcio. v\u00e1rias modalidades incluem composi\u00e7\u00f5es ciment\u00edcias com baixos n\u00edveis de emiss\u00f5es de gases incorporados de efeito estufa, em particular de di\u00f3xido de carbono, como resultado de sua produ\u00e7\u00e3o e/ou uso quando comparadas a materiais ciment\u00edcios convencionais, como cimento portland. v\u00e1rias modalidades incluem qualquer material ou materiais ciment\u00edcios com baixo carbono incorporado, bem como qualquer material produzido usando esse cimento.",
+      "publicationNumber": "BR112023019361",
+      "publicationDate": "2023-12-26",
+      "assignee": [
+        "SUBLIME SYSTEMS, INC."
+      ],
+      "inventors": [
+        "JESSE D. BENCK",
+        "YET-MING CHIANG",
+        "KYLE DOMINGUEZ",
+        "LEAH D. ELLIS",
+        "KHASHAYAR JAFARI",
+        "MARIYA LAYUROVA",
+        "ADA MACLEOD"
+      ],
+      "applicationDate": "2022-03-21",
+      "claimsCount": 259,
+      "independentClaimsCount": 15,
+      "technologyFields": [
+        "Materials, metallurgy",
+        "Surface technology, coating"
+      ],
+      "score": 15.602973
+    },
+    {
+      "id": "AU-2022245155-A1",
+      "title": [
+        "DECARBONIZED CEMENT BLENDS"
+      ],
+      "abstract": "Various embodiments include cementitious compositions with low levels of embodied greenhouse gas emissions, in particular carbon dioxide, as a result of its production and/or use compared to conventional cementitious materials, such as portland cement. Various embodiments include any cementitious material or materials with low embodied carbon, as well as any material produced using this cement.",
+      "publicationNumber": "AU2022245155",
+      "publicationDate": "2023-10-26",
+      "assignee": [
+        "SUBLIME SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Jesse D. BENCK",
+        "YET-MING CHIANG",
+        "Kyle DOMINGUEZ",
+        "Leah, D. ELLIS",
+        "Khashayar JAFARI",
+        "Mariya LAYUROVA",
+        "Ada MACLEOD"
+      ],
+      "applicationDate": "2022-03-21",
+      "claimsCount": 259,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Materials, metallurgy",
+        "Surface technology, coating"
+      ],
+      "score": 15.602973
+    },
+    {
+      "id": "WO-2025193626-A3",
+      "title": [
+        "METHODS AND SYSTEMS OF ACID-BASE LEACHING FOR INDUSTRIAL BYPRODUCTS"
+      ],
+      "abstract": "Disclosed herein are acid-base leaching methods and systems. Specifically, the systems and methods can include reacting a feed material comprising at least two metals selected from the group consisting of iron, magnesium, and calcium with a weak acid to produce a first leachate comprising ions of the at least two metals and an insoluble product; reacting the first leachate with a base to produce a first solid product comprising a first metal and a second leachate comprising ions of a second metal different from the first metal; and reacting the second leachate with the base to produce a second solid product comprising the second metal and a third leachate.",
+      "publicationNumber": "WO2025193626",
+      "publicationDate": "2025-11-06",
+      "assignee": [
+        "SUBLIME SYSTEMS, INC."
+      ],
+      "inventors": [
+        "MICHAEL C. STERN",
+        "Varada PALAKKAL",
+        "Joseph P. HITTINGER",
+        "Natalie A. PUNDSACK",
+        "Mitchell Hans SHAPIRO-ALBERT",
+        "Bryan J. MACDONALD",
+        "Sophia Michelle MITTMAN",
+        "Lina Marie GANNON",
+        "JESSE DANIEL BENCK",
+        "MICHAEL J. FORTE",
+        "Margaret E. RZUCIDLO"
+      ],
+      "applicationDate": "2025-03-10",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Chemical engineering",
+        "Materials, metallurgy",
+        "Surface technology, coating"
+      ],
+      "score": 15.555724
+    },
+    {
+      "id": "WO-2025193626-A2",
+      "title": [
+        "METHODS AND SYSTEMS OF ACID-BASE LEACHING FOR INDUSTRIAL BYPRODUCTS"
+      ],
+      "abstract": "Disclosed herein are acid-base leaching methods and systems. Specifically, the systems and methods can include reacting a feed material comprising at least two metals selected from the group consisting of iron, magnesium, and calcium with a weak acid to produce a first leachate comprising ions of the at least two metals and an insoluble product; reacting the first leachate with a base to produce a first solid product comprising a first metal and a second leachate comprising ions of a second metal different from the first metal; and reacting the second leachate with the base to produce a second solid product comprising the second metal and a third leachate.",
+      "publicationNumber": "WO2025193626",
+      "publicationDate": "2025-09-18",
+      "assignee": [
+        "SUBLIME SYSTEMS, INC."
+      ],
+      "inventors": [
+        "MICHAEL C. STERN",
+        "Varada PALAKKAL",
+        "Joseph P. HITTINGER",
+        "Natalie A. PUNDSACK",
+        "Mitchell Hans SHAPIRO-ALBERT",
+        "Bryan J. MACDONALD",
+        "Sophia Michelle MITTMAN",
+        "Lina Marie GANNON",
+        "JESSE DANIEL BENCK",
+        "MICHAEL J. FORTE",
+        "Margaret E. RZUCIDLO"
+      ],
+      "applicationDate": "2025-03-10",
+      "claimsCount": 45,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 15.555724
+    },
+    {
+      "id": "WO-2023250495-A3",
+      "title": [
+        "LOW VOLTAGE ELECTROLYZER AND METHODS OF USING THEREOF"
+      ],
+      "abstract": "Disclosed herein are low voltage electrolyzers and methods and systems of using those low voltage electrolyzers. Specifically, the electrolyzers can include a pH buffer in the catholyte and/or anolyte of the electrolyzer and generating a gas at the cathode or anode that is consumed at the other of the cathode or anode to reduce the open-circuit potential.",
+      "publicationNumber": "WO2023250495",
+      "publicationDate": "2024-04-25",
+      "assignee": [
+        "SUBLIME SYSTEMS, INC."
+      ],
+      "inventors": [
+        "MICHAEL C. STERN",
+        "Jesse, D. BENCK",
+        "YET-MING CHIANG"
+      ],
+      "applicationDate": "2023-06-23",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Surface technology, coating"
+      ],
+      "score": 15.555724
+    },
+    {
+      "id": "WO-2023250495-A2",
+      "title": [
+        "LOW VOLTAGE ELECTROLYZER AND METHODS OF USING THEREOF"
+      ],
+      "abstract": "Disclosed herein are low voltage electrolyzers and methods and systems of using those low voltage electrolyzers. Specifically, the electrolyzers can include a pH buffer in the catholyte and/or anolyte of the electrolyzer and generating a gas at the cathode or anode that is consumed at the other of the cathode or anode to reduce the open-circuit potential.",
+      "publicationNumber": "WO2023250495",
+      "publicationDate": "2023-12-28",
+      "assignee": [
+        "SUBLIME SYSTEMS, INC."
+      ],
+      "inventors": [
+        "MICHAEL C. STERN",
+        "Jesse, D. BENCK",
+        "YET-MING CHIANG"
+      ],
+      "applicationDate": "2023-06-23",
+      "claimsCount": 29,
+      "independentClaimsCount": 3,
+      "technologyFields": [],
+      "score": 15.555724
+    },
+    {
+      "id": "EP-4544098-A2",
+      "title": [
+        "LOW VOLTAGE ELECTROLYZER AND METHODS OF USING THEREOF"
+      ],
+      "abstract": "Disclosed herein are low voltage electrolyzers and methods and systems of using those low voltage electrolyzers. Specifically, the electrolyzers can include a pH buffer in the catholyte and/or anolyte of the electrolyzer and generating a gas at the cathode or anode that is consumed at the other of the cathode or anode to reduce the open-circuit potential.",
+      "publicationNumber": "EP4544098",
+      "publicationDate": "2025-04-30",
+      "assignee": [
+        "Sublime Systems, Inc."
+      ],
+      "inventors": [
+        "MICHAEL C. STERN",
+        "Jesse, D. BENCK",
+        "YET-MING CHIANG"
+      ],
+      "applicationDate": "2023-06-23",
+      "claimsCount": 29,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Surface technology, coating"
+      ],
+      "score": 15.555724
+    },
+    {
+      "id": "AU-2023288544-A1",
+      "title": [
+        "LOW VOLTAGE ELECTROLYZER AND METHODS OF USING THEREOF"
+      ],
+      "abstract": "Disclosed herein are low voltage electrolyzers and methods and systems of using those low voltage electrolyzers. Specifically, the electrolyzers can include a pH buffer in the catholyte and/or anolyte of the electrolyzer and generating a gas at the cathode or anode that is consumed at the other of the cathode or anode to reduce the open-circuit potential.",
+      "publicationNumber": "AU2023288544",
+      "publicationDate": "2025-01-09",
+      "assignee": [
+        "SUBLIME SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Jesse, D. BENCK",
+        "YET-MING CHIANG",
+        "MICHAEL C. STERN"
+      ],
+      "applicationDate": "2023-06-23",
+      "claimsCount": 29,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Surface technology, coating"
+      ],
+      "score": 15.555724
+    },
+    {
+      "id": "WO-2023150796-A1",
+      "title": [
+        "SILICEOUS MATERIALS AND METHODS OF MANUFACTURE"
+      ],
+      "abstract": "Provided herein are processed siliceous materials. Also provided herein are methods of processing siliceous materials, and more specifically methods of processing siliceous materials using fluoride-containing and/or hydroxide-containing compounds.",
+      "publicationNumber": "WO2023150796",
+      "publicationDate": "2023-08-10",
+      "assignee": [
+        "SUBLIME SYSTEMS, INC."
+      ],
+      "inventors": [
+        "YET-MING CHIANG",
+        "Jesse D. BENCK",
+        "MICHAEL C. STERN",
+        "Joseph HITTINGER"
+      ],
+      "applicationDate": "2023-02-07",
+      "claimsCount": 18,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 15.531012
+    },
+    {
+      "id": "WO-2022216741-A1",
+      "title": [
+        "ELECTROCHEMICAL MATERIALS PRODUCTION AND PROCESSING"
+      ],
+      "abstract": "Various embodiments include a system or platform that uses electrochemistry to upcycle waste products and low-value minerals into valuable, carbon dioxide (CO2)-neutral materials. Various embodiments may include systems and/or methods for processing material inputs using an electrochemical reactor. Various embodiments may include systems, methods, and/or devices for capturing and sequestering carbon dioxide (CO2) while producing valuable co-products.",
+      "publicationNumber": "WO2022216741",
+      "publicationDate": "2022-10-13",
+      "assignee": [
+        "SUBLIME SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Jesse D. BENCK",
+        "YET-MING CHIANG",
+        "Leah D. ELLIS",
+        "Kyle DOMINGUEZ",
+        "Mariya LAYUROVA"
+      ],
+      "applicationDate": "2022-04-05",
+      "claimsCount": 212,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Environmental technology",
+        "Materials, metallurgy",
+        "Surface technology, coating"
+      ],
+      "score": 15.531012
+    },
+    {
+      "id": "EP-4476190-A1",
+      "title": [
+        "SILICEOUS MATERIALS AND METHODS OF MANUFACTURE"
+      ],
+      "abstract": "Provided herein are processed siliceous materials. Also provided herein are methods of processing siliceous materials, and more specifically methods of processing siliceous materials using fluoride-containing and/or hydroxide-containing compounds.",
+      "publicationNumber": "EP4476190",
+      "publicationDate": "2024-12-18",
+      "assignee": [
+        "Sublime Systems, Inc."
+      ],
+      "inventors": [
+        "YET-MING CHIANG",
+        "Jesse D. BENCK",
+        "MICHAEL C. STERN",
+        "Joseph HITTINGER"
+      ],
+      "applicationDate": "2023-02-07",
+      "claimsCount": 18,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 15.531012
+    },
+    {
+      "id": "EP-4320290-A4",
+      "title": [
+        "ELECTROCHEMICAL MATERIALS PRODUCTION AND PROCESSING"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP4320290",
+      "publicationDate": "2025-02-26",
+      "assignee": [
+        "Sublime Systems, Inc."
+      ],
+      "inventors": [
+        "Jesse D. BENCK",
+        "YET-MING CHIANG",
+        "Leah D. ELLIS",
+        "Kyle DOMINGUEZ",
+        "Mariya LAYUROVA"
+      ],
+      "applicationDate": "2022-04-05",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Environmental technology",
+        "Materials, metallurgy",
+        "Surface technology, coating"
+      ],
+      "score": 15.531012
+    },
+    {
+      "id": "EP-4320290-A1",
+      "title": [
+        "ELECTROCHEMICAL MATERIALS PRODUCTION AND PROCESSING"
+      ],
+      "abstract": "Various embodiments include a system or platform that uses electrochemistry to upcycle waste products and low-value minerals into valuable, carbon dioxide (CO2)-neutral materials. Various embodiments may include systems and/or methods for processing material inputs using an electrochemical reactor. Various embodiments may include systems, methods, and/or devices for capturing and sequestering carbon dioxide (CO2) while producing valuable co-products.",
+      "publicationNumber": "EP4320290",
+      "publicationDate": "2024-02-14",
+      "assignee": [
+        "Sublime Systems, Inc."
+      ],
+      "inventors": [
+        "Jesse D. BENCK",
+        "YET-MING CHIANG",
+        "Leah D. ELLIS",
+        "Kyle DOMINGUEZ",
+        "Mariya LAYUROVA"
+      ],
+      "applicationDate": "2022-04-05",
+      "claimsCount": 212,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Environmental technology",
+        "Materials, metallurgy",
+        "Surface technology, coating"
+      ],
+      "score": 15.531012
+    },
+    {
+      "id": "AU-2023215407-A1",
+      "title": [
+        "SILICEOUS MATERIALS AND METHODS OF MANUFACTURE"
+      ],
+      "abstract": "Provided herein are processed siliceous materials. Also provided herein are methods of processing siliceous materials, and more specifically methods of processing siliceous materials using fluoride-containing and/or hydroxide-containing compounds.",
+      "publicationNumber": "AU2023215407",
+      "publicationDate": "2024-08-08",
+      "assignee": [
+        "SUBLIME SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Jesse D. BENCK",
+        "YET-MING CHIANG",
+        "Joseph HITTINGER",
+        "MICHAEL C. STERN"
+      ],
+      "applicationDate": "2023-02-07",
+      "claimsCount": 18,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 15.531012
+    },
+    {
+      "id": "AU-2022255317-A1",
+      "title": [
+        "ELECTROCHEMICAL MATERIALS PRODUCTION AND PROCESSING"
+      ],
+      "abstract": "Various embodiments include a system or platform that uses electrochemistry to upcycle waste products and low-value minerals into valuable, carbon dioxide (CO",
+      "publicationNumber": "AU2022255317",
+      "publicationDate": "2023-10-26",
+      "assignee": [
+        "SUBLIME SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Jesse D. BENCK",
+        "YET-MING CHIANG",
+        "Kyle DOMINGUEZ",
+        "Leah D. ELLIS",
+        "Mariya LAYUROVA"
+      ],
+      "applicationDate": "2022-04-05",
+      "claimsCount": 212,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Environmental technology",
+        "Materials, metallurgy",
+        "Surface technology, coating"
+      ],
+      "score": 15.531012
+    },
+    {
+      "id": "WO-2022020572-A1",
+      "title": [
+        "METHODS FOR EXTRACTING CO2 FROM METAL CARBONATES AND USE THEREOF"
+      ],
+      "abstract": "Various embodiments may include systems, methods, and devices in which acid produced by a reactor, such as an electrochemical reactor or other type acid producing reactor, is used to produce carbon dioxide (CO2) from a carbonate and the produced CO2 is used, or made available for use, for one or more purposes. In some embodiments, the electrochemical reactor may be powered by a renewable energy source.",
+      "publicationNumber": "WO2022020572",
+      "publicationDate": "2022-01-27",
+      "assignee": [
+        "SUBLIME SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Leah D. ELLIS",
+        "YET-MING CHIANG",
+        "Miki L. CHIANG"
+      ],
+      "applicationDate": "2021-07-22",
+      "claimsCount": 55,
+      "independentClaimsCount": 7,
+      "technologyFields": [
+        "Materials, metallurgy",
+        "Other special machines",
+        "Surface technology, coating"
+      ],
+      "score": 15.380271
+    },
+    {
+      "id": "EP-4185736-A4",
+      "title": [
+        "METHODS FOR EXTRACTING COFROM METAL CARBONATES AND USE THEREOF"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP4185736",
+      "publicationDate": "2024-11-13",
+      "assignee": [
+        "Sublime Systems, Inc."
+      ],
+      "inventors": [
+        "Leah D. ELLIS",
+        "YET-MING CHIANG",
+        "Miki L. CHIANG"
+      ],
+      "applicationDate": "2021-07-22",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Environmental technology",
+        "Materials, metallurgy",
+        "Other special machines",
+        "Surface technology, coating"
+      ],
+      "score": 15.380271
+    },
+    {
+      "id": "EP-4185736-A1",
+      "title": [
+        "METHODS FOR EXTRACTING COFROM METAL CARBONATES AND USE THEREOF"
+      ],
+      "abstract": "Various embodiments may include systems, methods, and devices in which acid produced by a reactor, such as an electrochemical reactor or other type acid producing reactor, is used to produce carbon dioxide (CO2) from a carbonate and the produced CO2 is used, or made available for use, for one or more purposes. In some embodiments, the electrochemical reactor may be powered by a renewable energy source.",
+      "publicationNumber": "EP4185736",
+      "publicationDate": "2023-05-31",
+      "assignee": [
+        "Sublime Systems, Inc."
+      ],
+      "inventors": [
+        "Leah D. ELLIS",
+        "YET-MING CHIANG",
+        "Miki L. CHIANG"
+      ],
+      "applicationDate": "2021-07-22",
+      "claimsCount": 55,
+      "independentClaimsCount": 7,
+      "technologyFields": [
+        "Materials, metallurgy",
+        "Other special machines",
+        "Surface technology, coating"
+      ],
+      "score": 15.380271
+    },
+    {
+      "id": "US-20250388512-A1",
+      "title": [
+        "HIGH EFFICIENCY ACID-BASE LEACHING METHODS AND SYSTEMS"
+      ],
+      "abstract": "Disclosed herein are acid-base leaching methods and systems. Specifically, the systems and methods can include supplying an iron and/or aluminum feed material and an acid to a first reaction chamber; supplying a first leachate comprising iron and/or aluminum salts or cations from the first reaction chamber and a calcium feed material to a second reaction chamber to form a solid comprising iron and/or aluminum; supplying a second leachate from the second reaction chamber comprising alkaline earth metal salts or cations and a base to a third reaction chamber to form a precipitated alkaline earth metal product.",
+      "publicationNumber": "US20250388512",
+      "publicationDate": "2025-12-25",
+      "assignee": [
+        "SUBLIME SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Michael C. Stern",
+        "Jesse D. BENCK",
+        "Yet-Ming Chiang"
+      ],
+      "applicationDate": "2023-09-12",
+      "claimsCount": 46,
+      "independentClaimsCount": 7,
+      "technologyFields": [
+        "Materials, metallurgy",
+        "Surface technology, coating"
+      ],
+      "score": 14.370699
+    },
+    {
+      "id": "US-20250051162-A1",
+      "title": [
+        "SYSTEMS AND METHODS FOR USING HEAT PRODUCED FROM ACID GENERATION"
+      ],
+      "abstract": "Provided herein are methods and systems for using heat from acid generation, comprising: an acid generating system configured to generate heat and an acid: a wet solids generating system configured to: dissolve a first calcium source in the acid; and precipitate a second calcium source using the dissolved first calcium source to generate a wet solid; and a dryer configured to dry the wet solid using the heat from the acid generating system.",
+      "publicationNumber": "US20250051162",
+      "publicationDate": "2025-02-13",
+      "assignee": [
+        "SUBLIME SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Jesse D. BENCK",
+        "Yet-Ming Chiang",
+        "Michael Corbett",
+        "Kyle DOMINGUEZ",
+        "Leah D. Ellis",
+        "Khashayar JAFARI",
+        "Mariya Layurova"
+      ],
+      "applicationDate": "2022-12-08",
+      "claimsCount": 28,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 14.370699
+    },
+    {
+      "id": "IN-202517030219-A",
+      "title": [
+        "HIGH EFFICIENCY ACID-BASE LEACHING METHODS AND SYSTEMS"
+      ],
+      "abstract": "Disclosed herein are acid-base leaching methods and systems. Specifically, the systems and methods can include supplying an iron and/or aluminum feed material and an acid to a first reaction chamber; supplying a first leachate comprising iron and/or aluminum salts or cations from the first reaction chamber and a calcium feed material to a second reaction chamber to form a solid comprising iron and/or aluminum; supplying a second leachate from the second reaction chamber comprising alkaline earth metal salts or cations and a base to a third reaction chamber to form a precipitated alkaline earth metal product.",
+      "publicationNumber": "IN202517030219",
+      "publicationDate": "2025-04-25",
+      "assignee": [
+        "SUBLIME SYSTEMS INC"
+      ],
+      "inventors": [
+        "STERN MICHAEL C",
+        "BENCK JESSE D",
+        "CHIANG YET MING"
+      ],
+      "applicationDate": "2025-03-28",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 14.370699
+    },
+    {
+      "id": "VN-104579-A1",
+      "title": [
+        "CH\u1ea4T K\u1ebeT D\u00cdNH XI M\u0102NG V\u00c0 PH\u01af\u01a0NG PH\u00c1P T\u1ea0O RA CH\u1ea4T K\u1ebeT D\u00cdNH XI M\u0102NG"
+      ],
+      "abstract": "S\u00e1ng ch\u1ebf \u0111\u1ec1 c\u1eadp \u0111\u1ebfn c\u00e1c ph\u01b0\u01a1ng \u00e1n kh\u00e1c nhau bao g\u1ed3m ch\u1ebf ph\u1ea9m k\u1ebft d\u00ednh v\u1edbi l\u01b0\u1ee3ng ph\u00e1t th\u1ea3i kh\u00ed nh\u00e0 k\u00ednh th\u1ea5p, \u0111\u1eb7c bi\u1ec7t l\u00e0 cacbon dioxit, do vi\u1ec7c s\u1ea3n xu\u1ea5t v\u00e0/ho\u1eb7c s\u1eed d\u1ee5ng n\u00f3 so v\u1edbi c\u00e1c v\u1eadt li\u1ec7u k\u1ebft d\u00ednh th\u00f4ng th\u01b0\u1eddng, nh\u01b0 xi m\u0103ng portland. S\u00e1ng ch\u1ebf c\u0169ng \u0111\u1ec1 c\u1eadp \u0111\u1ebfn c\u00e1c ph\u01b0\u01a1ng \u00e1n kh\u00e1c nhau bao g\u1ed3m v\u1eadt li\u1ec7u ho\u1eb7c c\u00e1c v\u1eadt li\u1ec7u k\u1ebft d\u00ednh b\u1ea5t k\u1ef3 v\u1edbi h\u00e0m l\u01b0\u1ee3ng cacbon ti\u00eau t\u1ed1n th\u1ea5p, c\u0169ng nh\u01b0 v\u1eadt li\u1ec7u b\u1ea5t k\u1ef3 \u0111\u01b0\u1ee3c t\u1ea1o ra b\u1eb1ng c\u00e1ch s\u1eed d\u1ee5ng xi m\u0103ng n\u00e0y.",
+      "publicationNumber": "VN104579",
+      "publicationDate": "2024-08-26",
+      "assignee": [
+        "SUBLIME SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Jesse D BENCK",
+        "YET-MING CHIANG",
+        "Kyle DOMINGUEZ",
+        "Leah, D. ELLIS",
+        "Khashayar JAFARI",
+        "Mariya LAYUROVA",
+        "Ada MACLEOD"
+      ],
+      "applicationDate": "2022-03-21",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 14.017251
+    },
+    {
+      "id": "IN-202317068311-A",
+      "title": [
+        "DECARBONIZED CEMENT BLENDS"
+      ],
+      "abstract": "Various embodiments include cementitious compositions with low levels of embodied greenhouse gas emissions, in particular carbon dioxide, as a result of its production and/or use compared to conventional cementitious materials, such as portland cement. Various embodiments include any cementitious material or materials with low embodied carbon, as well as any material produced using this cement.",
+      "publicationNumber": "IN202317068311",
+      "publicationDate": "2024-09-20",
+      "assignee": [
+        "SUBLIME SYSTEMS INC"
+      ],
+      "inventors": [
+        "BENCK JESSE D",
+        "CHIANG YET MING",
+        "DOMINGUEZ KYLE",
+        "ELLIS LEAH D",
+        "JAFARI KHASHAYAR",
+        "LAYUROVA MARIYA",
+        "MACLEOD ADA"
+      ],
+      "applicationDate": "2023-10-11",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 14.017251
+    },
+    {
+      "id": "US-20250382710-A1",
+      "title": [
+        "LOW VOLTAGE ELECTROLYZER AND METHODS OF USING THEREOF"
+      ],
+      "abstract": "Disclosed herein are low voltage electrolyzers and methods and systems of using those low voltage electrolyzers. Specifically, the electrolyzers can include a pH buffer in the catholyte and/or anolyte of the electrolyzer and generating a gas at the cathode or anode that is consumed at the other of the cathode or anode to reduce the open-circuit potential.",
+      "publicationNumber": "US20250382710",
+      "publicationDate": "2025-12-18",
+      "assignee": [
+        "SUBLIME SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Michael C. Stern",
+        "Jesse D. BENCK",
+        "Yet-Ming Chiang"
+      ],
+      "applicationDate": "2023-06-23",
+      "claimsCount": 29,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Environmental technology",
+        "Surface technology, coating"
+      ],
+      "score": 13.975122
+    },
+    {
+      "id": "US-20250283191-A1",
+      "title": [
+        "METHODS AND SYSTEMS OF ACID-BASE LEACHING FOR INDUSTRIAL BYPRODUCTS"
+      ],
+      "abstract": "Disclosed herein are acid-base leaching methods and systems. Specifically, the systems and methods can include reacting a feed material comprising at least two metals selected from the group consisting of iron, magnesium, and calcium with a weak acid to produce a first leachate comprising ions of the at least two metals and an insoluble product; reacting the first leachate with a base to produce a first solid product comprising a first metal and a second leachate comprising ions of a second metal different from the first metal; and reacting the second leachate with the base to produce a second solid product comprising the second metal and a third leachate.",
+      "publicationNumber": "US20250283191",
+      "publicationDate": "2025-09-11",
+      "assignee": [
+        "SUBLIME SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Michael C. Stern",
+        "Varada PALAKKAL",
+        "Joseph P. HITTINGER",
+        "Natalie A. PUNDSACK",
+        "Mitchell Hans SHAPIRO-ALBERT",
+        "Bryan J. MACDONALD",
+        "Sophia Michelle MITTMAN",
+        "Lina Marie GANNON",
+        "Jesse Daniel Benck",
+        "Michael J. Forte",
+        "Margaret E. RZUCIDLO"
+      ],
+      "applicationDate": "2025-03-10",
+      "claimsCount": 28,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 13.975122
+    },
+    {
+      "id": "IN-202517002233-A",
+      "title": [
+        "LOW VOLTAGE ELECTROLYZER AND METHODS OF USING THEREOF"
+      ],
+      "abstract": "Disclosed herein are low voltage electrolyzers and methods and systems of using those low voltage electrolyzers. Specifically, the electrolyzers can include a pH buffer in the catholyte and/or anolyte of the electrolyzer and generating a gas at the cathode or anode that is consumed at the other of the cathode or anode to reduce the open- circuit potential.",
+      "publicationNumber": "IN202517002233",
+      "publicationDate": "2025-02-21",
+      "assignee": [
+        "SUBLIME SYSTEMS INC"
+      ],
+      "inventors": [
+        "STERN MICHAEL C",
+        "BENCK JESSE D",
+        "CHIANG YET MING"
+      ],
+      "applicationDate": "2025-01-09",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Surface technology, coating"
+      ],
+      "score": 13.975122
+    },
+    {
+      "id": "CA-3260304-A1",
+      "title": [
+        "LOW VOLTAGE ELECTROLYZER AND METHODS OF USING THEREOF"
+      ],
+      "abstract": "Disclosed herein are low voltage electrolyzers and methods and systems of using those low voltage electrolyzers. Specifically, the electrolyzers can include a pH buffer in the catholyte and/or anolyte of the electrolyzer and generating a gas at the cathode or anode that is consumed at the other of the cathode or anode to reduce the open-circuit potential.",
+      "publicationNumber": "CA3260304",
+      "publicationDate": "2023-12-28",
+      "assignee": [
+        "SUBLIME SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Michael C. Stern",
+        "Jesse D. BENCK",
+        "Yet-Ming Chiang"
+      ],
+      "applicationDate": "2023-06-23",
+      "claimsCount": 29,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Surface technology, coating"
+      ],
+      "score": 13.975122
+    },
+    {
+      "id": "BR-112024026956-A2",
+      "title": [
+        "M\u00c9TODO, SISTEMA E ELETROLISADOR"
+      ],
+      "abstract": "",
+      "publicationNumber": "BR112024026956",
+      "publicationDate": "2025-04-24",
+      "assignee": [
+        "SUBLIME SYSTEMS, INC."
+      ],
+      "inventors": [
+        "MICHAEL C. STERN",
+        "JESSE D. BENCK",
+        "YET-MING CHIANG"
+      ],
+      "applicationDate": "2023-06-23",
+      "claimsCount": 29,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Surface technology, coating"
+      ],
+      "score": 13.975122
+    },
+    {
+      "id": "VN-107845-A1",
+      "title": [
+        "PH\u01af\u01a0NG PH\u00c1P S\u1ea2N XU\u1ea4T V\u00d4I V\u00c0 V\u1eacT LI\u1ec6U C\u00d3 T\u00cdNH XI M\u0102NG B\u1ed4 TR\u1ee2"
+      ],
+      "abstract": "Nhi\u1ec1u ph\u01b0\u01a1ng \u00e1n bao g\u1ed3m h\u1ec7 th\u1ed1ng ho\u1eb7c gi\u00e0n h\u1ec7 th\u1ed1ng m\u00e0 s\u1eed d\u1ee5ng \u0111i\u1ec7n ho\u00e1 \u0111\u1ec3 si\u00eau t\u00e1i ch\u1ebf s\u1ea3n ph\u1ea9m ph\u1ebf th\u1ea3i v\u00e0 kho\u00e1ng v\u1eadt gi\u00e1 tr\u1ecb th\u1ea5p th\u00e0nh nguy\u00ean li\u1ec7u c\u00f3 gi\u00e1 tr\u1ecb trung t\u00ednh cacbon dioxit (CO2). Nhi\u1ec1u ph\u01b0\u01a1ng \u00e1n bao g\u1ed3m h\u1ec7 th\u1ed1ng v\u00e0/ho\u1eb7c ph\u01b0\u01a1ng ph\u00e1p x\u1eed l\u00fd nguy\u00ean li\u1ec7u \u0111\u1ea7u v\u00e0o b\u1eb1ng c\u00e1ch s\u1eed d\u1ee5ng l\u00f2 ph\u1ea3n \u1ee9ng \u0111i\u1ec7n ho\u00e1. Nhi\u1ec1u ph\u01b0\u01a1ng \u00e1n c\u00f3 th\u1ec3 bao g\u1ed3m h\u1ec7 th\u1ed1ng, ph\u01b0\u01a1ng ph\u00e1p, v\u00e0/ho\u1eb7c thi\u1ebft b\u1ecb \u0111\u1ec3 b\u1eaft gi\u1eef v\u00e0 t\u00e1ch cacbon dioxit (CO2) \u0111\u1ed3ng th\u1eddi s\u1ea3n xu\u1ea5t ph\u00f3 s\u1ea3n ph\u1ea9m c\u00f3 gi\u00e1 tr\u1ecb.",
+      "publicationNumber": "VN107845",
+      "publicationDate": "2025-02-03",
+      "assignee": [
+        "SUBLIME SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Jesse D. BENCK",
+        "YET-MING CHIANG",
+        "Leah D. ELLIS",
+        "Kyle DOMINGUEZ",
+        "Mariya LAYUROVA"
+      ],
+      "applicationDate": "2022-04-05",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 13.953173
+    },
+    {
+      "id": "US-20250154065-A1",
+      "title": [
+        "ELECTROCHEMICAL MATERIALS PRODUCTION AND PROCESSING"
+      ],
+      "abstract": "Various embodiments include a system or platform that uses electrochemistry to upcycle waste products and low-value minerals into valuable, carbon dioxide (CO2)-neutral materials. Various embodiments may include systems and/or methods for processing material inputs using an electrochemical reactor. Various embodiments may include systems, methods, and/or devices for capturing and sequestering carbon dioxide (CO2) while producing valuable co-products.",
+      "publicationNumber": "US20250154065",
+      "publicationDate": "2025-05-15",
+      "assignee": [
+        "SUBLIME SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Jesse D. BENCK",
+        "Yet-Ming Chiang",
+        "Leah D. Ellis",
+        "Kyle DOMINGUEZ",
+        "Mariya Layurova"
+      ],
+      "applicationDate": "2024-11-21",
+      "claimsCount": 20,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Materials, metallurgy",
+        "Surface technology, coating"
+      ],
+      "score": 13.953173
+    },
+    {
+      "id": "US-20250109064-A1",
+      "title": [
+        "SILICEOUS MATERIALS AND METHODS OF MANUFACTURE"
+      ],
+      "abstract": "Provided herein are processed siliceous materials. Also provided herein are methods of processing siliceous materials, and more specifically methods of processing siliceous materials using fluoride-containing and/or hydroxide-containing compounds.",
+      "publicationNumber": "US20250109064",
+      "publicationDate": "2025-04-03",
+      "assignee": [
+        "SUBLIME SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Yet-Ming Chiang",
+        "Jesse D. BENCK",
+        "Michael C. Stern",
+        "Joseph HITTINGER"
+      ],
+      "applicationDate": "2023-02-07",
+      "claimsCount": 17,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 13.953173
+    },
+    {
+      "id": "US-20240166566-A1",
+      "title": [
+        "ELECTROCHEMICAL MATERIALS PRODUCTION AND PROCESSING"
+      ],
+      "abstract": "Various embodiments include a system or platform that uses electrochemistry to upcycle waste products and low-value minerals into valuable, carbon dioxide (CO2)-neutral materials. Various embodiments may include systems and/or methods for processing material inputs using an electrochemical reactor. Various embodiments may include systems, methods, and/or devices for capturing and sequestering carbon dioxide (CO2) while producing valuable co-products.",
+      "publicationNumber": "US20240166566",
+      "publicationDate": "2024-05-23",
+      "assignee": [
+        "SUBLIME SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Jesse D. BENCK",
+        "Yet-Ming Chiang",
+        "Leah D. Ellis",
+        "Kyle DOMINGUEZ",
+        "Mariya Layurova"
+      ],
+      "applicationDate": "2022-04-05",
+      "claimsCount": 20,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Materials, metallurgy",
+        "Surface technology, coating"
+      ],
+      "score": 13.953173
+    },
+    {
+      "id": "US-12187647-B2",
+      "title": [
+        "Electrochemical materials production and processing"
+      ],
+      "abstract": "Various embodiments include a system or platform that uses electrochemistry to upcycle waste products and low-value minerals into valuable, carbon dioxide (CO2)-neutral materials. Various embodiments may include systems and/or methods for processing material inputs using an electrochemical reactor. Various embodiments may include systems, methods, and/or devices for capturing and sequestering carbon dioxide (CO2) while producing valuable co-products.",
+      "publicationNumber": "US12187647",
+      "publicationDate": "2025-01-07",
+      "assignee": [
+        "SUBLIME SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Jesse D. BENCK",
+        "Yet-Ming Chiang",
+        "Leah D. Ellis",
+        "Kyle DOMINGUEZ",
+        "Mariya Layurova"
+      ],
+      "applicationDate": "2022-04-05",
+      "claimsCount": 19,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Materials, metallurgy",
+        "Surface technology, coating"
+      ],
+      "score": 13.953173
+    },
+    {
+      "id": "IN-202317073925-A",
+      "title": [
+        "ELECTROCHEMICAL MATERIALS PRODUCTION AND PROCESSING"
+      ],
+      "abstract": "Various embodiments include a system or platform that uses electrochemistry to upcycle waste products and low-value minerals into valuable, carbon dioxide (CO2)- neutral materials. Various embodiments may include systems and/or methods for processing material inputs using an electrochemical reactor. Various embodiments may include systems, methods, and/or devices for capturing and sequestering carbon dioxide (CO2) while producing valuable co-products.",
+      "publicationNumber": "IN202317073925",
+      "publicationDate": "2024-09-13",
+      "assignee": [
+        "SUBLIME SYSTEMS INC"
+      ],
+      "inventors": [
+        "BENCK JESSE D",
+        "CHIANG YET MING",
+        "ELLIS LEAH D",
+        "DOMINGUEZ KYLE",
+        "LAYUROVA MARIYA"
+      ],
+      "applicationDate": "2023-10-30",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Surface technology, coating"
+      ],
+      "score": 13.953173
+    },
+    {
+      "id": "CA-3251159-A1",
+      "title": [
+        "SILICEOUS MATERIALS AND METHODS OF MANUFACTURE"
+      ],
+      "abstract": "Provided herein are processed siliceous materials. Also provided herein are methods of processing siliceous materials, and more specifically methods of processing siliceous materials using fluoride-containing and/or hydroxide-containing compounds.",
+      "publicationNumber": "CA3251159",
+      "publicationDate": "2023-08-10",
+      "assignee": [
+        "SUBLIME SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Yet-Ming Chiang",
+        "Jesse D. BENCK",
+        "Michael C. Stern",
+        "Joseph HITTINGER"
+      ],
+      "applicationDate": "2023-02-07",
+      "claimsCount": 18,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 13.953173
+    },
+    {
+      "id": "BR-112023020854-A2",
+      "title": [
+        "M\u00c9TODO E SISTEMA"
+      ],
+      "abstract": "",
+      "publicationNumber": "BR112023020854",
+      "publicationDate": "2024-09-17",
+      "assignee": [
+        "SUBLIME SYSTEMS, INC."
+      ],
+      "inventors": [
+        "JESSE D. BENCK",
+        "YET-MING CHIANG",
+        "LEAH D. ELLIS",
+        "KYLE DOMINGUEZ",
+        "MARIYA LAYUROVA"
+      ],
+      "applicationDate": "2022-04-05",
+      "claimsCount": 212,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Environmental technology",
+        "Materials, metallurgy",
+        "Surface technology, coating"
+      ],
+      "score": 13.953173
+    },
+    {
+      "id": "US-20230313386-A1",
+      "title": [
+        "METHODS FOR EXTRACTING CO2 FROM METAL CARBONATES AND USE THEREOF"
+      ],
+      "abstract": "Various embodiments may include systems, methods, and devices in which acid produced by a reactor, such as an electrochemical reactor or other type acid producing reactor, is used to produce carbon dioxide (CO2) from a carbonate and the produced CO2 is used, or made available for use, for one or more purposes. In some embodiments, the electrochemical reactor may be powered by a renewable energy source.",
+      "publicationNumber": "US20230313386",
+      "publicationDate": "2023-10-05",
+      "assignee": [
+        "SUBLIME SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Leah D. Ellis",
+        "Yet-Ming Chiang",
+        "Miki L. CHIANG"
+      ],
+      "applicationDate": "2021-07-22",
+      "claimsCount": 55,
+      "independentClaimsCount": 7,
+      "technologyFields": [
+        "Biotechnology",
+        "Food chemistry",
+        "Other special machines",
+        "Surface technology, coating"
+      ],
+      "score": 13.818994
+    },
+    {
+      "id": "US-20240083819-A1",
+      "title": [
+        "DECARBONIZED CEMENT BLENDS"
+      ],
+      "abstract": "Various embodiments include cementitious compositions with low levels of embodied greenhouse gas emissions, in particular carbon dioxide, as a result of its production and/or use compared to conventional cementitious materials, such as portland cement. Various embodiments include any cementitious material or materials with low embodied carbon, as well as any material produced using this cement.",
+      "publicationNumber": "US20240083819",
+      "publicationDate": "2024-03-14",
+      "assignee": [
+        "SUBLIME SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Jesse D. BENCK",
+        "Yet-Ming Chiang",
+        "Kyle DOMINGUEZ",
+        "Leah D. Ellis",
+        "Khashayar JAFARI",
+        "Mariya Layurova",
+        "Ada MACLEOD"
+      ],
+      "applicationDate": "2023-11-21",
+      "claimsCount": 19,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 13.157988
+    },
+    {
+      "id": "US-12065379-B2",
+      "title": [
+        "Decarbonized cement blends"
+      ],
+      "abstract": "Various embodiments include cementitious compositions with low levels of embodied greenhouse gas emissions, in particular carbon dioxide, as a result of its production and/or use compared to conventional cementitious materials, such as portland cement. Various embodiments include any cementitious material or materials with low embodied carbon, as well as any material produced using this cement.",
+      "publicationNumber": "US12065379",
+      "publicationDate": "2024-08-20",
+      "assignee": [
+        "SUBLIME SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Jesse D. BENCK",
+        "Yet-Ming Chiang",
+        "Kyle DOMINGUEZ",
+        "Leah D. Ellis",
+        "Khashayar JAFARI",
+        "Mariya Layurova",
+        "Ada MACLEOD"
+      ],
+      "applicationDate": "2023-11-21",
+      "claimsCount": 18,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 13.157988
+    },
+    {
+      "id": "US-20230295046-A1",
+      "title": [
+        "DECARBONIZED CEMENT BLENDS"
+      ],
+      "abstract": "Various embodiments include cementitious compositions with low levels of embodied greenhouse gas emissions, in particular carbon dioxide, as a result of its production and/or use compared to conventional cementitious materials, such as portland cement. Various embodiments include any cementitious material or materials with low embodied carbon, as well as any material produced using this cement.",
+      "publicationNumber": "US20230295046",
+      "publicationDate": "2023-09-21",
+      "assignee": [
+        "SUBLIME SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Jesse D. BENCK",
+        "Yet-Ming Chiang",
+        "Kyle DOMINGUEZ",
+        "Leah D. Ellis",
+        "Khashayar JAFARI",
+        "Mariya Layurova",
+        "Ada MACLEOD"
+      ],
+      "applicationDate": "2023-04-05",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 12.288636
+    },
+    {
+      "id": "CA-3189689-A1",
+      "title": [
+        "METHODS FOR EXTRACTING CO2 FROM METAL CARBONATES AND USE THEREOF"
+      ],
+      "abstract": "Various embodiments may include systems, methods, and devices in which acid produced by a reactor, such as an electrochemical reactor or other type acid producing reactor, is used to produce carbon dioxide (CO2) from a carbonate and the produced CO2 is used, or made available for use, for one or more purposes. In some embodiments, the electrochemical reactor may be powered by a renewable energy source.",
+      "publicationNumber": "CA3189689",
+      "publicationDate": "2022-01-27",
+      "assignee": [
+        "SUBLIME SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Leah D. ELLIS",
+        "YET-MING CHIANG",
+        "Miki L. CHIANG"
+      ],
+      "applicationDate": "2021-07-22",
+      "claimsCount": 55,
+      "independentClaimsCount": 7,
+      "technologyFields": [
+        "Materials, metallurgy",
+        "Other special machines",
+        "Surface technology, coating"
+      ],
+      "score": 11.889761
+    },
+    {
+      "id": "CA-3216257-A1",
+      "title": [
+        "ELECTROCHEMICAL MATERIALS PRODUCTION AND PROCESSING"
+      ],
+      "abstract": "Various embodiments include a system or platform that uses electrochemistry to upcycle waste products and low-value minerals into valuable, carbon dioxide (CO2)-neutral materials. Various embodiments may include systems and/or methods for processing material inputs using an electrochemical reactor. Various embodiments may include systems, methods, and/or devices for capturing and sequestering carbon dioxide (CO2) while producing valuable co-products.",
+      "publicationNumber": "CA3216257",
+      "publicationDate": "2022-10-13",
+      "assignee": [
+        "SUBLIME SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Jesse D. BENCK",
+        "YET-MING CHIANG",
+        "Leah D. ELLIS",
+        "Kyle DOMINGUEZ",
+        "Mariya LAYUROVA"
+      ],
+      "applicationDate": "2022-04-05",
+      "claimsCount": 212,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Environmental technology",
+        "Materials, metallurgy",
+        "Surface technology, coating"
+      ],
+      "score": 11.1904335
+    },
+    {
+      "id": "CA-3240312-A1",
+      "title": [
+        "SYSTEMS AND METHODS FOR USING HEAT PRODUCED FROM ACID GENERATION"
+      ],
+      "abstract": "Provided herein are methods and systems for using heat from acid generation, comprising: an acid generating system configured to generate heat and an acid; a wet solids generating system configured to: dissolve a first calcium source in the acid; and precipitate a second calcium source using the dissolved first calcium source to generate a wet solid; and a dryer configured to dry the wet solid using the heat from the acid generating system.",
+      "publicationNumber": "CA3240312",
+      "publicationDate": "2023-06-15",
+      "assignee": [
+        "SUBLIME SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Jesse D. BENCK",
+        "YET-MING CHIANG",
+        "MICHAEL CORBETT",
+        "Kyle DOMINGUEZ",
+        "Leah D. ELLIS",
+        "Khashayar JAFARI",
+        "Mariya LAYUROVA"
+      ],
+      "applicationDate": "2022-12-08",
+      "claimsCount": 28,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 10.788014
+    },
+    {
+      "id": "CA-3214613-A1",
+      "title": [
+        "DECARBONIZED CEMENT BLENDS"
+      ],
+      "abstract": "Various embodiments include cementitious compositions with low levels of embodied greenhouse gas emissions, in particular carbon dioxide, as a result of its production and/or use compared to conventional cementitious materials, such as portland cement. Various embodiments include any cementitious material or materials with low embodied carbon, as well as any material produced using this cement.",
+      "publicationNumber": "CA3214613",
+      "publicationDate": "2022-09-29",
+      "assignee": [
+        "SUBLIME SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Jesse D. BENCK",
+        "YET-MING CHIANG",
+        "Kyle DOMINGUEZ",
+        "Leah D. ELLIS",
+        "Khashayar JAFARI",
+        "Mariya LAYUROVA",
+        "Ada MACLEOD"
+      ],
+      "applicationDate": "2022-03-21",
+      "claimsCount": 259,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Materials, metallurgy",
+        "Surface technology, coating"
+      ],
+      "score": 10.535377
+    }
+  ]
+}

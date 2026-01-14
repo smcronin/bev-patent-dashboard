@@ -1,0 +1,11 @@
+{
+  "search_id": "search_20260114_121604",
+  "timestamp": "2026-01-14T12:16:04.067791",
+  "query_type": "ai_search",
+  "user_prompt": "PA=(Ecocem) AND PD>2015",
+  "minesoft_query": "PA=(Ecocem) AND PD>2015",
+  "results_count": 133,
+  "directory": "2026-01-14_ecocem_and_2015",
+  "execution_time_ms": 1699.6550559997559,
+  "api_endpoint": "query"
+}

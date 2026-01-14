@@ -1,0 +1,11 @@
+{
+  "search_id": "search_20260114_121405",
+  "timestamp": "2026-01-14T12:14:05.623610",
+  "query_type": "ai_search",
+  "user_prompt": "PA=(Form Energy) AND PD>2015",
+  "minesoft_query": "PA=(Form Energy) AND PD>2015",
+  "results_count": 551,
+  "directory": "2026-01-14_form_energy_and_2015",
+  "execution_time_ms": 2614.190101623535,
+  "api_endpoint": "query"
+}

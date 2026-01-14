@@ -1,0 +1,6 @@
+{
+  "query": "PA=(SOURCE Global) AND PD>2015",
+  "query_type": "ai_search",
+  "timestamp": "2026-01-14T12:15:08.810608",
+  "user_prompt": "PA=(SOURCE Global) AND PD>2015"
+}

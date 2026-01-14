@@ -1,0 +1,2759 @@
+{
+  "count": 628,
+  "numFound": 628,
+  "docs": [
+    {
+      "id": "US-9786905-B2",
+      "title": [
+        "Iron, fluorine, sulfur compounds for battery cell cathodes"
+      ],
+      "abstract": "Provided herein are energy storage device cathodes with high capacity electrochemically active material including compounds that include iron, fluorine, sulfur, and optionally oxygen. Batteries with active materials including a compound of the formula FeFaSbOc exhibit high capacity, high specific energy, high average discharge voltage, and low hysteresis, even when discharged at high rates. Iron, fluorine, and sulfur-containing compounds may be ionically and electronically conductive.",
+      "publicationNumber": "US9786905",
+      "publicationDate": "2017-10-10",
+      "assignee": [
+        "QUANTUMSCAPE CORPORATION"
+      ],
+      "inventors": [
+        "Timothy P. Holme",
+        "Joseph Han",
+        "Weston Arthur Hermann",
+        "Rainer J. Fasching",
+        "Bradley O. Stimson",
+        "Cheng Chieh Chao"
+      ],
+      "applicationDate": "2014-03-12",
+      "claimsCount": 14,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.965773
+    },
+    {
+      "id": "US-20250149655-A1",
+      "title": [
+        "LITHIUM-STUFFED GARNET ELECTROLYTES WITH A REDUCED SURFACE DEFECT DENSITY AND METHODS OF MAKING AND USING THE SAME"
+      ],
+      "abstract": "The disclosure herein relates to rechargeable batteries and solid electrolytes therefore which include lithium-stuffed garnet oxides, for example, in a thin film, pellet, or monolith format wherein the density of defects at a surface or surfaces of the solid electrolyte is less than the density of defects in the bulk. In certain disclosed embodiments, the solid-state anolyte, electrolyte, and catholyte thin films, separators, and monoliths consist essentially of an oxide that conducts Li+ ions. In some examples, the disclosure herein presents new and useful solid electrolytes for solid-state or partially solid-state batteries. In some examples, the disclosure presents new lithium-stuffed garnet solid electrolytes and rechargeable batteries which include these electrolytes as separators between a cathode and a lithium metal anode.",
+      "publicationNumber": "US20250149655",
+      "publicationDate": "2025-05-08",
+      "assignee": [
+        "QUANTUMSCAPE BATTERY, INC."
+      ],
+      "inventors": [
+        "David Cao",
+        "Cheng-Chieh Chao",
+        "Zhebo Chen",
+        "Lei Cheng",
+        "Niall Donnelly",
+        "Wes Hermann",
+        "Timothy Holme",
+        "Tommy Huang",
+        "Kian Kerman",
+        "Yang Li",
+        "Harsh Maheshwari"
+      ],
+      "applicationDate": "2025-01-08",
+      "claimsCount": 49,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Materials, metallurgy"
+      ],
+      "score": 12.965773
+    },
+    {
+      "id": "US-20190245178-A1",
+      "title": [
+        "LITHIUM-STUFFED GARNET ELECTROLYTES WITH A REDUCED SURFACE DEFECT DENSITY AND METHODS OF MAKING AND USING THE SAME"
+      ],
+      "abstract": "The disclosure herein relates to rechargeable batteries and solid electrolytes therefore which include lithium-stuffed garnet oxides, for example, in a thin film, pellet, or monolith format wherein the density of defects at a surface or surfaces of the solid electrolyte is less than the density of defects in the bulk. In certain disclosed embodiments, the solid-state anolyte, electrolyte, and catholyte thin films, separators, and monoliths consist essentially of an oxide that conducts Li+ ions. In some examples, the disclosure herein presents new and useful solid electrolytes for solid-state or partially solid-state batteries. In some examples, the disclosure presents new lithium-stuffed garnet solid electrolytes and rechargeable batteries which include these electrolytes as separators between a cathode and a lithium metal anode.",
+      "publicationNumber": "US20190245178",
+      "publicationDate": "2019-08-08",
+      "assignee": [
+        "QUANTUMSCAPE CORPORATION"
+      ],
+      "inventors": [
+        "David Cao",
+        "Cheng-Chieh Chao",
+        "Zhebo Chen",
+        "Lei Cheng",
+        "Niall Donnelly",
+        "Wes Hermann",
+        "Tim Holme",
+        "Tommy Huang",
+        "Kian Kerman",
+        "Yang Li",
+        "Harsh Maheshwari"
+      ],
+      "applicationDate": "2017-10-19",
+      "claimsCount": 49,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Materials, metallurgy"
+      ],
+      "score": 12.965773
+    },
+    {
+      "id": "US-20240006667-A1",
+      "title": [
+        "LITHIUM-STUFFED GARNET ELECTROLYTES WITH A REDUCED SURFACE DEFECT DENSITY AND METHODS OF MAKING AND USING THE SAME"
+      ],
+      "abstract": "The disclosure herein relates to rechargeable batteries and solid electrolytes therefore which include lithium-stuffed garnet oxides, for example, in a thin film, pellet, or monolith format wherein the density of defects at a surface or surfaces of the solid electrolyte is less than the density of defects in the bulk. In certain disclosed embodiments, the solid-state anolyte, electrolyte, and catholyte thin films, separators, and monoliths consist essentially of an oxide that conducts Li+ ions. In some examples, the disclosure herein presents new and useful solid electrolytes for solid-state or partially solid-state batteries. In some examples, the disclosure presents new lithium-stuffed garnet solid electrolytes and rechargeable batteries which include these electrolytes as separators between a cathode and a lithium metal anode.",
+      "publicationNumber": "US20240006667",
+      "publicationDate": "2024-01-04",
+      "assignee": [
+        "QuantumScape Battery. Inc."
+      ],
+      "inventors": [
+        "David Cao",
+        "Cheng-Chieh Chao",
+        "Zhebo Chen",
+        "Lei Cheng",
+        "Niall Donnelly",
+        "Wes Hermann",
+        "Timothy Holme",
+        "Tommy Huang",
+        "Kian Kerman",
+        "Yang Li",
+        "Harsh Maheshwari"
+      ],
+      "applicationDate": "2023-07-07",
+      "claimsCount": 18,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Materials, metallurgy"
+      ],
+      "score": 12.923567
+    },
+    {
+      "id": "EP-3529839-A1",
+      "title": [
+        "LITHIUM-STUFFED GARNET ELECTROLYTES WITH A REDUCED SURFACE DEFECT DENSITY AND METHODS OF MAKING AND USING THE SAME"
+      ],
+      "abstract": "The disclosure herein relates to rechargeable batteries and solid electrolytes therefore which include lithium-stuffed garnet oxides, for example, in a thin film, pellet, or monolith format wherein the density of defects at a surface or surfaces of the solid electrolyte is less than the density of defects in the bulk. In certain disclosed embodiments, the solid-state anolyte, electrolyte, and catholyte thin films, separators, and monoliths consist essentially of an oxide that conducts Li+ ions. In some examples, the disclosure herein presents new and useful solid electrolytes for solid-state or partially solid-state batteries. In some examples, the disclosure presents new lithium-stuffed garnet solid electrolytes and rechargeable batteries which include these electrolytes as separators between a cathode and a lithium metal anode.",
+      "publicationNumber": "EP3529839",
+      "publicationDate": "2019-08-28",
+      "assignee": [
+        "QuantumScape Corporation"
+      ],
+      "inventors": [
+        "DAVID CAO",
+        "CHENG-CHIEH CHAO",
+        "Zhebo CHEN",
+        "LEI CHENG",
+        "Niall DONNELLY",
+        "Wes HERMANN",
+        "TIM HOLME",
+        "TOMMY HUANG",
+        "KIAN KERMAN",
+        "YANG LI",
+        "HARSH MAHESHWARI"
+      ],
+      "applicationDate": "2017-10-19",
+      "claimsCount": 49,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Materials, metallurgy"
+      ],
+      "score": 12.73789
+    },
+    {
+      "id": "EP-2973800-A4",
+      "title": [
+        "IRON, FLUORINE, SULFUR COMPOUNDS FOR CATHODES"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP2973800",
+      "publicationDate": "2016-10-05",
+      "assignee": [
+        "QUANTUMSCAPE CORPORATION"
+      ],
+      "inventors": [
+        "TIMOTHY, P. HOLME",
+        "JOSEPH HAN",
+        "WESTON, ARTHUR HERMANN",
+        "RAINER, J. FASCHING",
+        "BRADLEY, O. STIMSON"
+      ],
+      "applicationDate": "2014-03-12",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.73789
+    },
+    {
+      "id": "EP-2973800-A1",
+      "title": [
+        "IRON, FLUORINE, SULFUR COMPOUNDS FOR CATHODES"
+      ],
+      "abstract": "Provided herein are energy storage device cathodes with high capacity electrochemically active material including compounds that include iron, fluorine, sulfur, and optionally oxygen. Batteries with active materials including a compound of the formula FeFaSbOc exhibit high capacity, high specific energy, high average discharge voltage, and low hysteresis, even when discharged at high rates. Iron, fluorine, and sulfur-containing compounds may be ionically and electronically conductive.",
+      "publicationNumber": "EP2973800",
+      "publicationDate": "2016-01-20",
+      "assignee": [
+        "QuantumScape Corporation"
+      ],
+      "inventors": [
+        "TIMOTHY, P. HOLME",
+        "JOSEPH HAN",
+        "WESTON, ARTHUR HERMANN",
+        "RAINER, J. FASCHING",
+        "BRADLEY, O. STIMSON"
+      ],
+      "applicationDate": "2014-03-12",
+      "claimsCount": 20,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.73789
+    },
+    {
+      "id": "US-12237475-B2",
+      "title": [
+        "Lithium-stuffed garnet electrolytes with a reduced surface defect density and methods of making and using the same"
+      ],
+      "abstract": "The disclosure herein relates to rechargeable batteries and solid electrolytes therefore which include lithium-stuffed garnet oxides, for example, in a thin film, pellet, or monolith format wherein the density of defects at a surface or surfaces of the solid electrolyte is less than the density of defects in the bulk. In certain disclosed embodiments, the solid-state anolyte, electrolyte, and catholyte thin films, separators, and monoliths consist essentially of an oxide that conducts Li+ ions. In some examples, the disclosure herein presents new and useful solid electrolytes for solid-state or partially solid-state batteries. In some examples, the disclosure presents new lithium-stuffed garnet solid electrolytes and rechargeable batteries which include these electrolytes as separators between a cathode and a lithium metal anode.",
+      "publicationNumber": "US12237475",
+      "publicationDate": "2025-02-25",
+      "assignee": [
+        "QUANTUMSCAPE BATTERY, INC."
+      ],
+      "inventors": [
+        "David Cao",
+        "Cheng-Chieh Chao",
+        "Zhebo Chen",
+        "Lei Cheng",
+        "Niall Donnelly",
+        "Wes Hermann",
+        "Timothy Holme",
+        "Tommy Huang",
+        "Kian Kerman",
+        "Yang Li",
+        "Harsh Maheshwari"
+      ],
+      "applicationDate": "2023-07-07",
+      "claimsCount": 17,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Materials, metallurgy"
+      ],
+      "score": 12.683798
+    },
+    {
+      "id": "US-11916200-B2",
+      "title": [
+        "Lithium-stuffed garnet electrolytes with a reduced surface defect density and methods of making and using the same"
+      ],
+      "abstract": "The disclosure herein relates to rechargeable batteries and solid electrolytes therefore which include lithium-stuffed garnet oxides, for example, in a thin film, pellet, or monolith format wherein the density of defects at a surface or surfaces of the solid electrolyte is less than the density of defects in the bulk. In certain disclosed embodiments, the solid-state anolyte, electrolyte, and catholyte thin films, separators, and monoliths consist essentially of an oxide that conducts Li+ ions. In some examples, the disclosure herein presents new and useful solid electrolytes for solid-state or partially solid-state batteries. In some examples, the disclosure presents new lithium-stuffed garnet solid electrolytes and rechargeable batteries which include these electrolytes as separators between a cathode and a lithium metal anode.",
+      "publicationNumber": "US11916200",
+      "publicationDate": "2024-02-27",
+      "assignee": [
+        "QUANTUMSCAPE BATTERY, INC."
+      ],
+      "inventors": [
+        "David Cao",
+        "Cheng-Chieh Chao",
+        "Zhebo Chen",
+        "Lei Cheng",
+        "Niall Donnelly",
+        "Wes Hermann",
+        "Tim Holme",
+        "Tommy Huang",
+        "Kian Kerman",
+        "Yang Li",
+        "Harsh Maheshwari"
+      ],
+      "applicationDate": "2017-10-19",
+      "claimsCount": 16,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Materials, metallurgy"
+      ],
+      "score": 12.683798
+    },
+    {
+      "id": "US-9960458-B2",
+      "title": [
+        "Battery systems having multiple independently controlled sets of battery cells"
+      ],
+      "abstract": "Provided are battery systems having multiple independently controlled sets of battery cells and method of using these systems to power, for example, drive trains of electric and hybrid vehicles. A battery system includes two or more sets of battery cells. Each set can be discharged and/or charged independently of another set based on different factors, such as a current power demand, power output capabilities of each set, and other like factors. One or multiple sets can be used to deliver power at any given time. In some embodiments, one set may be used to charge another set in the same power system. The same or different types of battery cells may be used in different sets. For example, one set may have battery cells having a higher power output capability, while another set may have battery cells with a higher energy density.",
+      "publicationNumber": "US9960458",
+      "publicationDate": "2018-05-01",
+      "assignee": [
+        "QUANTUMSCAPE CORPORATION"
+      ],
+      "inventors": [
+        "Phil Weicker",
+        "Brian Pevear",
+        "Jay Underwood",
+        "Tim Holme",
+        "Wes Hermann"
+      ],
+      "applicationDate": "2016-04-29",
+      "claimsCount": 37,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.540634
+    },
+    {
+      "id": "US-20200395584-A1",
+      "title": [
+        "CATHOLYTE MANAGEMENT FOR A SOLID-STATE SEPARATOR"
+      ],
+      "abstract": "Provided herein are electrochemical cells that include a seal impermeable to a liquid electrolyte and that is bonded to a solid-state Li ion-conducting electrolyte in a manner that effectively isolates and protects a Li metal negative electrode from exposure to either, or both, a liquid electrolyte or a gel electrolyte used as a catholyte in the positive electrode. Some of the electrochemical cells include a series of electrochemical stacks, which may be stacked in a variety of configurations including configurations that share a Li metal negative electrode.",
+      "publicationNumber": "US20200395584",
+      "publicationDate": "2020-12-17",
+      "assignee": [
+        "QUANTUMSCAPE CORPORATION"
+      ],
+      "inventors": [
+        "William H. Gardner",
+        "Joseph SALVI"
+      ],
+      "applicationDate": "2018-11-28",
+      "claimsCount": 31,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.540634
+    },
+    {
+      "id": "US-20200067126-A1",
+      "title": [
+        "PRESSURIZED ELECTROCHEMICAL CELL"
+      ],
+      "abstract": "Provided herein are electrochemical cells as well as coin cells, can cells, and pouch cells which include these electrochemical cells. The electrochemical cells herein include lithium metal negative electrodes and solid electrolyte separators. The coin cells, can cells, and pouch cells which include the electrochemical cells provide pressure to the electrochemical cells to maintain Ohmic contact between the lithium metal negative electrode and the solid electrolyte separator. Also provided herein are methods of making and using these electrochemical cells, coin cells, can cells, and pouch cells.",
+      "publicationNumber": "US20200067126",
+      "publicationDate": "2020-02-27",
+      "assignee": [
+        "QUANTUMSCAPE CORPORATION"
+      ],
+      "inventors": [
+        "Joseph Han",
+        "Wes Hermann",
+        "Joseph SALVI"
+      ],
+      "applicationDate": "2017-11-28",
+      "claimsCount": 122,
+      "independentClaimsCount": 13,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.540634
+    },
+    {
+      "id": "US-20160380315-A1",
+      "title": [
+        "BATTERY SYSTEMS HAVING MULTIPLE INDEPENDENTLY CONTROLLED SETS OF BATTERY CELLS"
+      ],
+      "abstract": "Provided are battery systems having multiple independently controlled sets of battery cells and method of using these systems to power, for example, drive trains of electric and hybrid vehicles. A battery system includes two or more sets of battery cells. Each set can be discharged and/or charged independently of another set based on different factors, such as a current power demand, power output capabilities of each set, and other like factors. One or multiple sets can be used to deliver power at any given time. In some embodiments, one set may be used to charge another set in the same power system. The same or different types of battery cells may be used in different sets. For example, one set may have battery cells having a higher power output capability, while another set may have battery cells with a higher energy density.",
+      "publicationNumber": "US20160380315",
+      "publicationDate": "2016-12-29",
+      "assignee": [
+        "QUANTUMSCAPE CORPORATION"
+      ],
+      "inventors": [
+        "Phil Weicker",
+        "Brian Pevear",
+        "Jay Underwood",
+        "Tim Holme",
+        "Wes Hermann"
+      ],
+      "applicationDate": "2016-04-29",
+      "claimsCount": 37,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.540634
+    },
+    {
+      "id": "US-20160104891-A1",
+      "title": [
+        "HIGH SURFACE AREA ANODE WITH VOLUME EXPANSION FEATURES"
+      ],
+      "abstract": "A high surface area anode structure for a lithium ion secondary battery including an anolyte layer, wherein the anolyte layer includes vacant space formed within a percolating network for lithium deposition thereupon.",
+      "publicationNumber": "US20160104891",
+      "publicationDate": "2016-04-14",
+      "assignee": [
+        "QUANTUMSCAPE CORPORATION"
+      ],
+      "inventors": [
+        "Timothy Holme"
+      ],
+      "applicationDate": "2015-10-13",
+      "claimsCount": 25,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.540634
+    },
+    {
+      "id": "US-10205155-B2",
+      "title": [
+        "High surface area anode with volume expansion features"
+      ],
+      "abstract": "A high surface area anode structure for a lithium ion secondary battery including an anolyte layer, wherein the anolyte layer includes vacant space formed within a percolating network for lithium deposition thereupon.",
+      "publicationNumber": "US10205155",
+      "publicationDate": "2019-02-12",
+      "assignee": [
+        "QUANTUMSCAPE CORPORATION"
+      ],
+      "inventors": [
+        "Timothy Holme"
+      ],
+      "applicationDate": "2015-10-13",
+      "claimsCount": 25,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.540634
+    },
+    {
+      "id": "US-20210273291-A1",
+      "title": [
+        "CATHOLYTE MANAGEMENT FOR A SOLID-STATE SEPARATOR"
+      ],
+      "abstract": "Provided herein are electrochemical cells that include a seal impermeable to a liquid electrolyte and that is bonded to a solid-state Li ion-conducting electrolyte in a manner that effectively isolates and protects a Li metal negative electrode from exposure to either, or both, a liquid electrolyte or a gel electrolyte used as a catholyte in the positive electrode. Some of the electrochemical cells include a series of electrochemical stacks, which may be stacked in a variety of configurations including configurations that share a Li metal negative electrode.",
+      "publicationNumber": "US20210273291",
+      "publicationDate": "2021-09-02",
+      "assignee": [
+        "QUANTUMSCAPE BATTERY, INC."
+      ],
+      "inventors": [
+        "William H. Gardner",
+        "Joseph SALVI"
+      ],
+      "applicationDate": "2021-03-17",
+      "claimsCount": 20,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.499865
+    },
+    {
+      "id": "EP-3718156-A1",
+      "title": [
+        "CATHOLYTE MANAGEMENT FOR A SOLID-STATE SEPARATOR"
+      ],
+      "abstract": "Provided herein are electrochemical cells that include a seal impermeable to a liquid electrolyte and that is bonded to a solid-state Li ion-conducting electrolyte in a manner that effectively isolates and protects a Li metal negative electrode from exposure to either, or both, a liquid electrolyte or a gel electrolyte used as a catholyte in the positive electrode. Some of the electrochemical cells include a series of electrochemical stacks, which may be stacked in a variety of configurations including configurations that share a Li metal negative electrode.",
+      "publicationNumber": "EP3718156",
+      "publicationDate": "2020-10-07",
+      "assignee": [
+        "QuantumScape Corporation"
+      ],
+      "inventors": [
+        "WILLIAM H. GARDNER",
+        "Joseph SALVI"
+      ],
+      "applicationDate": "2018-11-28",
+      "claimsCount": 31,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.320914
+    },
+    {
+      "id": "EP-3545576-A1",
+      "title": [
+        "PRESSURIZED ELECTROCHEMICAL CELL"
+      ],
+      "abstract": "Provided herein are electrochemical cells as well as coin cells, can cells, and pouch cells which include these electrochemical cells. The electrochemical cells herein include lithium metal negative electrodes and solid electrolyte separators. The coin cells, can cells, and pouch cells which include the electrochemical cells provide pressure to the electrochemical cells to maintain Ohmic contact between the lithium metal negative electrode and the solid electrolyte separator. Also provided herein are methods of making and using these electrochemical cells, coin cells, can cells, and pouch cells.",
+      "publicationNumber": "EP3545576",
+      "publicationDate": "2019-10-02",
+      "assignee": [
+        "QuantumScape Corporation"
+      ],
+      "inventors": [
+        "JOSEPH HAN",
+        "Wes HERMANN",
+        "Joseph SALVI"
+      ],
+      "applicationDate": "2017-11-28",
+      "claimsCount": 122,
+      "independentClaimsCount": 13,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.320914
+    },
+    {
+      "id": "WO-2018075809-A1",
+      "title": [
+        "LITHIUM-STUFFED GARNET ELECTROLYTES WITH A REDUCED SURFACE DEFECT DENSITY AND METHODS OF MAKING AND USING THE SAME"
+      ],
+      "abstract": "The disclosure herein relates to rechargeable batteries and solid electrolytes therefore which include lithium-stuffed garnet oxides, for example, in a thin film, pellet, or monolith format wherein the density of defects at a surface or surfaces of the solid electrolyte is less than the density of defects in the bulk. In certain disclosed embodiments, the solid-state anolyte, electrolyte, and catholyte thin films, separators, and monoliths consist essentially of an oxide that conducts Li+ ions. In some examples, the disclosure herein presents new and useful solid electrolytes for solid-state or partially solid-state batteries. In some examples, the disclosure presents new lithium-stuffed garnet solid electrolytes and rechargeable batteries which include these electrolytes as separators between a cathode and a lithium metal anode.",
+      "publicationNumber": "WO2018075809",
+      "publicationDate": "2018-04-26",
+      "assignee": [
+        "QUANTUMSCAPE CORPORATION"
+      ],
+      "inventors": [
+        "DAVID CAO",
+        "CHENG-CHIEH CHAO",
+        "Zhebo CHEN",
+        "LEI CHENG",
+        "Niall DONNELLY",
+        "Wes HERMANN",
+        "TIM HOLME",
+        "TOMMY HUANG",
+        "KIAN KERMAN",
+        "YANG LI",
+        "HARSH MAHESHWARI"
+      ],
+      "applicationDate": "2017-10-19",
+      "claimsCount": 49,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Materials, metallurgy"
+      ],
+      "score": 12.307209
+    },
+    {
+      "id": "IN-509577-B",
+      "title": [
+        "LITHIUM-STUFFED GARNET ELECTROLYTES WITH A REDUCED SURFACE DEFECT DENSITY AND METHODS OF MAKING AND USING THE SAME"
+      ],
+      "abstract": "The disclosure herein relates to rechargeable batteries and solid electrolytes therefore which include lithium-stuffed garnet oxides for example in a thin film pellet or monolith format wherein the density of defects at a surface or surfaces of the solid electrolyte is less than the density of defects in the bulk. In certain disclosed embodiments the solid-state anolyte electrolyte and catholyte thin films separators and monoliths consist essentially of an oxide that conducts Li+ ions. In some examples the disclosure herein presents new and useful solid electrolytes for solid-state or partially solid-state batteries. In some examples the disclosure presents new lithium- stuffed garnet solid electrolytes and rechargeable batteries which include these electrolytes as separators between a cathode and a lithium metal anode.",
+      "publicationNumber": "IN509577",
+      "publicationDate": "2024-02-09",
+      "assignee": [
+        "QUANTUMSCAPE CORPORATION"
+      ],
+      "inventors": [
+        "CAO DAVID",
+        "CHAO CHENG CHIEH",
+        "CHEN ZHEBO",
+        "CHENG LEI",
+        "DONNELLY NIALL",
+        "HERMANN WES",
+        "HOLME TIM",
+        "HUANG TOMMY",
+        "KERMAN KIAN",
+        "LI YANG",
+        "MAHESHWARI HARSH"
+      ],
+      "applicationDate": "2019-05-20",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Materials, metallurgy"
+      ],
+      "score": 12.307209
+    },
+    {
+      "id": "IN-201917019757-A",
+      "title": [
+        "LITHIUM-STUFFED GARNET ELECTROLYTES WITH A REDUCED SURFACE DEFECT DENSITY AND METHODS OF MAKING AND USING THE SAME"
+      ],
+      "abstract": "The disclosure herein relates to rechargeable batteries and solid electrolytes therefore which include lithium-stuffed garnet oxides for example in a thin film pellet or monolith format wherein the density of defects at a surface or surfaces of the solid electrolyte is less than the density of defects in the bulk. In certain disclosed embodiments the solid-state anolyte electrolyte and catholyte thin films separators and monoliths consist essentially of an oxide that conducts Li+ ions. In some examples the disclosure herein presents new and useful solid electrolytes for solid-state or partially solid-state batteries. In some examples the disclosure presents new lithium- stuffed garnet solid electrolytes and rechargeable batteries which include these electrolytes as separators between a cathode and a lithium metal anode.",
+      "publicationNumber": "IN201917019757",
+      "publicationDate": "2020-09-18",
+      "assignee": [
+        "QUANTUMSCAPE CORPORATION"
+      ],
+      "inventors": [
+        "DAVID CAO",
+        "CHENG-CHIEH CHAO",
+        "Zhebo CHEN",
+        "LEI CHENG",
+        "Niall DONNELLY",
+        "Wes HERMANN",
+        "TIM HOLME",
+        "TOMMY HUANG",
+        "KIAN KERMAN",
+        "YANG LI",
+        "HARSH MAHESHWARI"
+      ],
+      "applicationDate": "2019-05-20",
+      "claimsCount": 49,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Materials, metallurgy"
+      ],
+      "score": 12.307209
+    },
+    {
+      "id": "US-9466830-B1",
+      "title": [
+        "Method and system for processing lithiated electrode material"
+      ],
+      "abstract": "The present invention is directed to energy storage devices and methods thereof. More specifically, embodiments of the present invention provide techniques for forming lithiated electrode material. In various embodiments, a conversion material is processed using n-BuLi solution to form iron nanoparticles and lithiated fluoride and/or oxide material. There are other embodiments as well.",
+      "publicationNumber": "US9466830",
+      "publicationDate": "2016-10-11",
+      "assignee": [
+        "QUANTUMSCAPE CORPORATION"
+      ],
+      "inventors": [
+        "Jingning Shan",
+        "Wei Zhang",
+        "Rainer Fasching",
+        "Tim Holme"
+      ],
+      "applicationDate": "2014-05-28",
+      "claimsCount": 15,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.025303
+    },
+    {
+      "id": "US-9446966-B2",
+      "title": [
+        "Method for forming metal fluoride material"
+      ],
+      "abstract": "The present invention is directed to processing techniques and systems of metal fluoride based material, including but not limited to nickel difluoride, copper difluoride, manganese fluoride, chromium fluoride, bismuth fluoride, iron trifluoride, iron difluoride, iron oxyfluoride, metal doped iron fluorides, e.g., FexM1-xFy (M=metals, which can be Co, Ni, Cu, Cr, Mn, Bi and Ti) materials. An exemplary implementation involves mixing a first compound comprising a metal material, nitrogen, and oxygen to a second compound comprising hydrogen fluoride. The mixed compound is milled to form metal fluoride precursor and a certain byproduct. The byproduct is removed, and the metal fluoride precursor is treated to form iron trifluoride product. There are other embodiments as well.",
+      "publicationNumber": "US9446966",
+      "publicationDate": "2016-09-20",
+      "assignee": [
+        "QUANTUMSCAPE CORPORATION"
+      ],
+      "inventors": [
+        "Jon Shan"
+      ],
+      "applicationDate": "2014-03-21",
+      "claimsCount": 23,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Materials, metallurgy"
+      ],
+      "score": 11.986752
+    },
+    {
+      "id": "US-20210197692-A1",
+      "title": [
+        "THERMAL MANAGEMENT SYSTEM FOR VEHICLES WITH AN ELECTRIC POWERTRAIN"
+      ],
+      "abstract": "This patent application is directed to thermal management systems of vehicles with an electric powertrain. More specifically, the battery system and one or more powertrain components and/or cabin climate control components of a vehicle share the same thermal circuit as the battery module through which heat can be exchanged between the battery module and one or more powertrain or climate control components as needed.",
+      "publicationNumber": "US20210197692",
+      "publicationDate": "2021-07-01",
+      "assignee": [
+        "QUANTUMSCAPE CORPORATION"
+      ],
+      "inventors": [
+        "Kevin Hettrich",
+        "Tomasz Wojcik",
+        "Weston Arthur Hermann"
+      ],
+      "applicationDate": "2020-12-08",
+      "claimsCount": 26,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Transport"
+      ],
+      "score": 11.986752
+    },
+    {
+      "id": "US-20190319240-A1",
+      "title": [
+        "ELECTROLYTE SEPARATORS INCLUDING LITHIUM BOROHYDRIDE AND COMPOSITE ELECTROLYTE SEPARATORS OF LITHIUM-STUFFED GARNET AND LITHIUM BOROHYDRIDE"
+      ],
+      "abstract": "Set forth herein are compositions comprising A.(LiBH4).B.(LiX).C.(LiNH2), wherein X is fluorine, bromine, chloride, iodine, or a combination thereof, and wherein 0.1\u2264A\u22643, 0.1\u2264B\u22644, and 0\u2264C\u22649 that are suitable for use as solid electrolyte separators in lithium electrochemical devices. Also set forth herein are methods of making A.(LiBH4).B.(LiX).C.(LiNH2) compositions. Also disclosed herein are electrochemical devices which incorporate A.(LiBH4).B.(LiX).C.(LiNH2) compositions and other materials.",
+      "publicationNumber": "US20190319240",
+      "publicationDate": "2019-10-17",
+      "assignee": [
+        "QUANTUMSCAPE CORPORATION"
+      ],
+      "inventors": [
+        "Zhebo Chen",
+        "Tim Holme",
+        "Marie Mayer",
+        "Nick PERKINS",
+        "Eric Tulsky",
+        "Cheng-Chieh Chao",
+        "Christopher Dekmezian",
+        "Shuang Li"
+      ],
+      "applicationDate": "2017-10-20",
+      "claimsCount": 111,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 11.986752
+    },
+    {
+      "id": "US-20190263252-A1",
+      "title": [
+        "THERMAL MANAGEMENT SYSTEM FOR VEHICLES WITH AN ELECTRIC POWERTRAIN"
+      ],
+      "abstract": "This patent application is directed to thermal management systems of vehicles with an electric powertrain. More specifically, the battery system and one or more powertrain components and/or cabin climate control components of a vehicle share the same thermal circuit as the battery module through which heat can be exchanged between the battery module and one or more powertrain or climate control components as needed.",
+      "publicationNumber": "US20190263252",
+      "publicationDate": "2019-08-29",
+      "assignee": [
+        "QUANTUMSCAPE CORPORATION"
+      ],
+      "inventors": [
+        "Kevin Hettrich",
+        "Tomasz Wojcik",
+        "Weston Arthur Hermann"
+      ],
+      "applicationDate": "2019-03-04",
+      "claimsCount": 26,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Transport"
+      ],
+      "score": 11.986752
+    },
+    {
+      "id": "US-20180375149-A1",
+      "title": [
+        "LITHIUM-STUFFED GARNET ELECTROLYTES WITH SECONDARY PHASE INCLUSIONS"
+      ],
+      "abstract": "The instant disclosure sets forth multiphase lithium-stuffed garnet electrolytes having secondary phase inclusions, wherein these secondary phase inclusions are material(s) which is/are not a cubic phase lithium-stuffed garnet but which is/are entrapped or enclosed within a lithium-stuffed garnet. When the secondary phase inclusions described herein are included in a lithium-stuffed garnet at 30-0.1 volume %, the inclusions stabilize the multiphase matrix and allow for improved sintering of the lithium-stuffed garnet. The electrolytes described herein, which include lithium-stuffed garnet with secondary phase inclusions, have an improved sinterability and density compared to phase pure cubic lithium-stuffed garnet having the formula Li7La3Zr2O12.",
+      "publicationNumber": "US20180375149",
+      "publicationDate": "2018-12-27",
+      "assignee": [
+        "QUANTUMSCAPE CORPORATION"
+      ],
+      "inventors": [
+        "Larry Beck",
+        "Cheng-Chieh Chao",
+        "Lei Cheng",
+        "Niall Donnelly",
+        "Will GARDNER",
+        "Tim Holme",
+        "Will Hudson",
+        "Sriram Iyer",
+        "Oleh Karpenko",
+        "Yang Li",
+        "Gengfu Xu"
+      ],
+      "applicationDate": "2017-06-23",
+      "claimsCount": 30,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Materials, metallurgy"
+      ],
+      "score": 11.986752
+    },
+    {
+      "id": "US-20160093874-A1",
+      "title": [
+        "FLASH EVAPORATION OF SOLID STATE BATTERY COMPONENT"
+      ],
+      "abstract": "In an example, the present invention provides a method for forming a film of material for a solid state battery or other energy storage device. The method includes providing a first precursor species, and providing a second precursor species. The method also includes transferring the first precursor species through a first nozzle and outputting the first precursor species in a first molecular form and transferring the second precursor species through a second nozzle and outputting the second precursor species in a second molecular form. The method includes causing formation of first plurality of particles, ranging from about first diameter to about a second diameter, by intermixing the first precursor species with the second precursor species. The method also includes cooling the first plurality of particles at a rate of greater than 100\u00b0 C./s to a specified temperature.",
+      "publicationNumber": "US20160093874",
+      "publicationDate": "2016-03-31",
+      "assignee": [
+        "QUANTUMSCAPE CORPORATION"
+      ],
+      "inventors": [
+        "Bradley O. Stimson",
+        "Weston A. Hermann",
+        "David E. Berkstresser",
+        "Tim Holme",
+        "Arnold Allenic"
+      ],
+      "applicationDate": "2014-06-06",
+      "claimsCount": 30,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Materials, metallurgy",
+        "Surface technology, coating"
+      ],
+      "score": 11.986752
+    },
+    {
+      "id": "US-10889205-B2",
+      "title": [
+        "Thermal management system for vehicles with an electric powertrain"
+      ],
+      "abstract": "This patent application is directed to thermal management systems of vehicles with an electric powertrain. More specifically, the battery system and one or more powertrain components and/or cabin climate control components of a vehicle share the same thermal circuit as the battery module through which heat can be exchanged between the battery module and one or more powertrain or climate control components as needed.",
+      "publicationNumber": "US10889205",
+      "publicationDate": "2021-01-12",
+      "assignee": [
+        "QUANTUMSCAPE CORPORATION"
+      ],
+      "inventors": [
+        "Kevin Hettrich",
+        "Tomasz Wojcik",
+        "Weston Arthur Hermann"
+      ],
+      "applicationDate": "2019-03-04",
+      "claimsCount": 17,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Transport"
+      ],
+      "score": 11.986752
+    },
+    {
+      "id": "US-10347937-B2",
+      "title": [
+        "Lithium-stuffed garnet electrolytes with secondary phase inclusions"
+      ],
+      "abstract": "The instant disclosure sets forth multiphase lithium-stuffed garnet electrolytes having secondary phase inclusions, wherein these secondary phase inclusions are material(s) which is/are not a cubic phase lithium-stuffed garnet but which is/are entrapped or enclosed within a lithium-stuffed garnet. When the secondary phase inclusions described herein are included in a lithium-stuffed garnet at 30-0.1 volume %, the inclusions stabilize the multiphase matrix and allow for improved sintering of the lithium-stuffed garnet. The electrolytes described herein, which include lithium-stuffed garnet with secondary phase inclusions, have an improved sinterability and density compared to phase pure cubic lithium-stuffed garnet having the formula Li7La3Zr2O12.",
+      "publicationNumber": "US10347937",
+      "publicationDate": "2019-07-09",
+      "assignee": [
+        "QUANTUMSCAPE CORPORATION"
+      ],
+      "inventors": [
+        "Larry Beck",
+        "Cheng-Chieh Chao",
+        "Lei Cheng",
+        "Niall Donnelly",
+        "William H. Gardner",
+        "Tim Holme",
+        "Will Hudson",
+        "Sriram Iyer",
+        "Oleh Karpenko",
+        "Yang Li",
+        "Gengfu Xu"
+      ],
+      "applicationDate": "2017-06-23",
+      "claimsCount": 30,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Materials, metallurgy"
+      ],
+      "score": 11.986752
+    },
+    {
+      "id": "US-10158115-B2",
+      "title": [
+        "Flash evaporation of solid state battery component"
+      ],
+      "abstract": "In an example, the present invention provides a method for forming a film of material for a solid state battery or other energy storage device. The method includes providing a first precursor species, and providing a second precursor species. The method also includes transferring the first precursor species through a first nozzle and outputting the first precursor species in a first molecular form and transferring the second precursor species through a second nozzle and outputting the second precursor species in a second molecular form. The method includes causing formation of first plurality of particles, ranging from about first diameter to about a second diameter, by intermixing the first precursor species with the second precursor species. The method also includes cooling the first plurality of particles at a rate of greater than 100\u00b0 C./s to a specified temperature.",
+      "publicationNumber": "US10158115",
+      "publicationDate": "2018-12-18",
+      "assignee": [
+        "QUANTUMSCAPE CORPORATION"
+      ],
+      "inventors": [
+        "Bradley O. Stimson",
+        "Weston A. Hermann",
+        "David E. Berkstresser",
+        "Tim Holme",
+        "Arnold Allenic"
+      ],
+      "applicationDate": "2014-06-06",
+      "claimsCount": 30,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Materials, metallurgy",
+        "Surface technology, coating"
+      ],
+      "score": 11.986752
+    },
+    {
+      "id": "US-20240336163-A1",
+      "title": [
+        "THERMAL MANAGEMENT SYSTEM FOR VEHICLES WITH AN ELECTRIC POWERTRAIN"
+      ],
+      "abstract": "This patent application is directed to thermal management systems of vehicles with an electric powertrain. More specifically, the battery system and one or more powertrain components and/or cabin climate control components of a vehicle share the same thermal circuit as the battery module through which heat can be exchanged between the battery module and one or more powertrain or climate control components as needed.",
+      "publicationNumber": "US20240336163",
+      "publicationDate": "2024-10-10",
+      "assignee": [
+        "QUANTUMSCAPE BATTERY, INC."
+      ],
+      "inventors": [
+        "Kevin Hettrich",
+        "Tomasz Wojcik",
+        "Weston Arthur Hermann"
+      ],
+      "applicationDate": "2023-12-12",
+      "claimsCount": 22,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Transport"
+      ],
+      "score": 11.947874
+    },
+    {
+      "id": "US-20230282873-A1",
+      "title": [
+        "ELECTROLYTE SEPARATORS INCLUDING LITHIUM BOROHYDRIDE AND COMPOSITE ELECTROLYTE SEPARATORS OF LITHIUM-STUFFED GARNET AND LITHIUM BOROHYDRIDE"
+      ],
+      "abstract": "Set forth herein are compositions comprising A\u00b7(LiBH4)\u00b7B\u00b7(LiX)\u00b7C\u00b7(LiNH2), wherein X is fluorine, bromine, chloride, iodine, or a combination thereof, andwherein 0.1\u2264A\u22643, 0.1\u2264B\u22644, and 0\u2264C\u22649 that are suitable for use as solid electrolyte separators in lithium electrochemical devices. Also set forth herein are methods of making A\u00b7(LiBH4)\u00b7B\u00b7(LiX)\u00b7C\u00b7(LiNH2) compositions. Also disclosed herein are electrochemical devices which incorporate A\u00b7(LiBH4)\u00b7B\u00b7(LiX)\u00b7C\u00b7(LiNH2) compositions and other",
+      "publicationNumber": "US20230282873",
+      "publicationDate": "2023-09-07",
+      "assignee": [
+        "QUANTUMSCAPE BATTERY, INC."
+      ],
+      "inventors": [
+        "Zhebo Chen",
+        "Tim Holme",
+        "Marie Mayer",
+        "Nick PERKINS",
+        "Eric Tulsky",
+        "Cheng-Chieh Chao",
+        "Christopher Dekmezian",
+        "Shuang Li"
+      ],
+      "applicationDate": "2023-01-10",
+      "claimsCount": 21,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 11.947874
+    },
+    {
+      "id": "US-20230256866-A1",
+      "title": [
+        "THERMAL MANAGEMENT SYSTEM FOR VEHICLES WITH AN ELECTRIC POWERTRAIN"
+      ],
+      "abstract": "This patent application is directed to thermal management systems of vehicles with an electric powertrain. More specifically, the battery system and one or more powertrain components and/or cabin climate control components of a vehicle share the same thermal circuit as the battery module through which heat can be exchanged between the battery module and one or more powertrain or climate control components as needed.",
+      "publicationNumber": "US20230256866",
+      "publicationDate": "2023-08-17",
+      "assignee": [
+        "QUANTUMSCAPE BATTERY, INC."
+      ],
+      "inventors": [
+        "Kevin Hettrich",
+        "Tomasz Wojcik",
+        "Weston Arthur Hermann"
+      ],
+      "applicationDate": "2023-01-13",
+      "claimsCount": 13,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Transport"
+      ],
+      "score": 11.947874
+    },
+    {
+      "id": "US-20210344040-A1",
+      "title": [
+        "SINTERING LARGE AREA CERAMIC FILMS"
+      ],
+      "abstract": "Set forth herein are processes and materials for sintering dense thin green films comprising lithium-stuffed garnet powder and a binder to obtain sintered lithium-stuffed garnet thin films. Some of the processes, herein, include providing a first setter and a second setter, wherein the first setter and second setter each include at least 5 atomic % lithium (Li) per setter; placing the green film on the first setter; placing the second setter within 2 cm of the green film but not in contact with the green film; and heating the green film to at least 900 C.",
+      "publicationNumber": "US20210344040",
+      "publicationDate": "2021-11-04",
+      "assignee": [
+        "QUANTUMSCAPE BATTERY, INC."
+      ],
+      "inventors": [
+        "Niall Donnelly",
+        "Sriam IYER",
+        "Jagdeep Singh",
+        "Gengfu Xu",
+        "Jordan FRIEDLAND",
+        "Hutha SARMA",
+        "Nima SHAH",
+        "Dong Hee Anna Choi"
+      ],
+      "applicationDate": "2019-10-16",
+      "claimsCount": 36,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Materials, metallurgy"
+      ],
+      "score": 11.947874
+    },
+    {
+      "id": "US-20210234230-A1",
+      "title": [
+        "ELECTROLYTE SEPARATORS INCLUDING LITHIUM BOROHYDRIDE AND COMPOSITE ELECTROLYTE SEPARATORS OF LITHIUM-STUFFED GARNET AND LITHIUM BOROHYDRIDE"
+      ],
+      "abstract": "Set forth herein are compositions comprising A.(LiBH4).B.(LiX).C.(LiNH2), wherein X is fluorine, bromine, chloride, iodine, or a combination thereof, and wherein 0.1\u2264A\u22643, 0.1\u2264B\u22644, and 0\u2264C\u22649 that are suitable for use as solid electrolyte separators in lithium electrochemical devices. Also set forth herein are methods of making A.(LiBH4).B.(LiX).C.(LiNH2) compositions. Also disclosed herein are electrochemical devices which incorporate A.(LiBH4).B.(LiX).C.(LiNH2) compositions and other materials.",
+      "publicationNumber": "US20210234230",
+      "publicationDate": "2021-07-29",
+      "assignee": [
+        "QUANTUMSCAPE BATTERY, INC."
+      ],
+      "inventors": [
+        "Zhebo Chen",
+        "Tim Holme",
+        "Marie Mayer",
+        "Nick PERKINS",
+        "Eric Tulsky",
+        "Cheng-Chieh Chao",
+        "Christopher Dekmezian",
+        "Shuang Li"
+      ],
+      "applicationDate": "2021-04-13",
+      "claimsCount": 111,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 11.947874
+    },
+    {
+      "id": "WO-2020176905-A1",
+      "title": [
+        "METHODS OF FORMING AND USING ELECTROCHEMICAL CELLS COMPRISING A METAL SHEET"
+      ],
+      "abstract": "Provided herein are electrochemical cells that include a metal sheet adjacent to a solid-state Li ion-conducting electrolyte in a manner that isolates a Li metal negative electrode from exposure to either, or both, a liquid electrolyte or a gel electrolyte used as a catholyte in the positive electrode. Some of the electrochemical cells include a series of electrochemical stacks, which may be stacked in a variety of configurations including configurations that share a Li metal negative electrode.",
+      "publicationNumber": "WO2020176905",
+      "publicationDate": "2020-09-03",
+      "assignee": [
+        "QUANTUMSCAPE CORPORATION"
+      ],
+      "inventors": [
+        "Weston Hermann",
+        "Jesse SHAPIRO",
+        "Joseph SALVI"
+      ],
+      "applicationDate": "2020-02-28",
+      "claimsCount": 55,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 11.905652
+    },
+    {
+      "id": "WO-2019108698-A1",
+      "title": [
+        "CATHOLYTE MANAGEMENT FOR A SOLID-STATE SEPARATOR"
+      ],
+      "abstract": "Provided herein are electrochemical cells that include a seal impermeable to a liquid electrolyte and that is bonded to a solid-state Li ion-conducting electrolyte in a manner that effectively isolates and protects a Li metal negative electrode from exposure to either, or both, a liquid electrolyte or a gel electrolyte used as a catholyte in the positive electrode. Some of the electrochemical cells include a series of electrochemical stacks, which may be stacked in a variety of configurations including configurations that share a Li metal negative electrode.",
+      "publicationNumber": "WO2019108698",
+      "publicationDate": "2019-06-06",
+      "assignee": [
+        "QUANTUMSCAPE CORPORATION"
+      ],
+      "inventors": [
+        "WILLIAM H. GARDNER",
+        "Joseph SALVI"
+      ],
+      "applicationDate": "2018-11-28",
+      "claimsCount": 31,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 11.905652
+    },
+    {
+      "id": "WO-2018098494-A1",
+      "title": [
+        "PRESSURIZED ELECTROCHEMICAL CELL"
+      ],
+      "abstract": "Provided herein are electrochemical cells as well as coin cells, can cells, and pouch cells which include these electrochemical cells. The electrochemical cells herein include lithium metal negative electrodes and solid electrolyte separators. The coin cells, can cells, and pouch cells which include the electrochemical cells provide pressure to the electrochemical cells to maintain Ohmic contact between the lithium metal negative electrode and the solid electrolyte separator. Also provided herein are methods of making and using these electrochemical cells, coin cells, can cells, and pouch cells.",
+      "publicationNumber": "WO2018098494",
+      "publicationDate": "2018-05-31",
+      "assignee": [
+        "QUANTUMSCAPE CORPORATION"
+      ],
+      "inventors": [
+        "JOSEPH HAN",
+        "Wes HERMANN",
+        "Joseph SALVI"
+      ],
+      "applicationDate": "2017-11-28",
+      "claimsCount": 122,
+      "independentClaimsCount": 13,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 11.905652
+    },
+    {
+      "id": "WO-2024059730-A1",
+      "title": [
+        "PROCESSING APPARATUSES AND METHODS OF USING"
+      ],
+      "abstract": "A process for making a sintered bilayer, comprising: providing a green bilayer, comprising a green body layer and a metal layer, under tension of 1 N to 300 N per meter of web width; moving the green bilayer through a first heating zone to produce a debindered bilayer; moving the debindered bilayer through a second heating zone to prepare a sintered bilayer; wherein the debindered bilayer is in an arched configuration as the debindered bilayer moves through the second heating zone; wherein the debindered bilayer is in the second heating zone for about 1 second to about 3 minutes; wherein the temperature in the second heating zone is 1050 \u00b0C to 1250 \u00b0C; and wherein the thickness of the sintered bilayer is less than 100 microns.",
+      "publicationNumber": "WO2024059730",
+      "publicationDate": "2024-03-21",
+      "assignee": [
+        "QUANTUMSCAPE BATTERY, INC."
+      ],
+      "inventors": [
+        "Jordan FRIEDLAND",
+        "Anand PAREJIYA",
+        "Rishi RAMANATHAN",
+        "DAVID BERKSTRESSER",
+        "Lucas BROGANER",
+        "TIMOTHY HOLME",
+        "John OLENICK",
+        "MURUGAN RAMASWAMY",
+        "TUGRUL SAMIR",
+        "MATTHEW SHEFFIELD",
+        "BRAD STIMSON",
+        "MARTIN WINTERKORN",
+        "YI ZHOU"
+      ],
+      "applicationDate": "2023-09-14",
+      "claimsCount": 40,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Materials, metallurgy",
+        "Surface technology, coating"
+      ],
+      "score": 11.879614
+    },
+    {
+      "id": "WO-2023154571-A1",
+      "title": [
+        "RAPID THERMAL PROCESSING METHODS AND APPARATUS"
+      ],
+      "abstract": "Methods and apparatus for fabricating separators for solid-state lithium metal batteries employ rapid thermal processing. Aspects include high temperature sintering. Temperatures, durations of heat application, and proximity of heating elements to materials undergoing sintering combine to provide separators with desirable physical characteristics, including porosity, in a batch process.",
+      "publicationNumber": "WO2023154571",
+      "publicationDate": "2023-08-17",
+      "assignee": [
+        "QUANTUMSCAPE BATTERY, INC."
+      ],
+      "inventors": [
+        "TIMOTHY HOLME",
+        "MARTIN WINTERKORN",
+        "Dylan TOZIER",
+        "MURUGAN RAMASWAMY"
+      ],
+      "applicationDate": "2023-02-14",
+      "claimsCount": 36,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Materials, metallurgy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 11.879614
+    },
+    {
+      "id": "US-20240361076-A1",
+      "title": [
+        "Rapid Thermal Processing Methods and Apparatus"
+      ],
+      "abstract": "Methods and apparatus for fabricating separators for solid-state lithium metal batteries employ rapid thermal processing. Aspects include high temperature sintering. Temperatures, durations of heat application, and proximity of heating elements to materials undergoing sintering combine to provide separators with desirable physical characteristics, including porosity, in a batch process.",
+      "publicationNumber": "US20240361076",
+      "publicationDate": "2024-10-31",
+      "assignee": [
+        "QUANTUMSCAPE BATTERY, INC."
+      ],
+      "inventors": [
+        "Timothy Holme",
+        "Martin Winterkorn",
+        "Dylan TOZIER",
+        "Murugan Ramaswamy"
+      ],
+      "applicationDate": "2023-09-22",
+      "claimsCount": 20,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 11.879614
+    },
+    {
+      "id": "MX-2025002741-A",
+      "title": [
+        "PROCESSING APPARATUSES AND METHODS OF USING"
+      ],
+      "abstract": "A process for making a sintered bilayer, comprising: providing a green bilayer, comprising a green body layer and a metal layer, under tension of 1 N to 300 N per meter of web width; moving the green bilayer through a first heating zone to produce a debindered bilayer; moving the debindered bilayer through a second heating zone to prepare a sintered bilayer; wherein the debindered bilayer is in an arched configuration as the debindered bilayer moves through the second heating zone; wherein the debindered bilayer is in the second heating zone for about 1 second to about 3 minutes; wherein the temperature in the second heating zone is 1050 \u00c2\u00b0C to 1250 \u00c2\u00b0C; and wherein the thickness of the sintered bilayer is less than 100 microns.",
+      "publicationNumber": "MX2025002741",
+      "publicationDate": "2025-04-02",
+      "assignee": [
+        "QUANTUMSCAPE BATTERY, INC."
+      ],
+      "inventors": [
+        "BERKSTRESSER DAVID",
+        "BROGANER LUCAS",
+        "HOLME TIMOTHY",
+        "OLENICK JOHN",
+        "RAMASWAMY MURUGAN",
+        "SAMIR TUGRUL",
+        "SHEFFIELD MATTHEW",
+        "STIMSON BRAD",
+        "WINTERKORN MARTIN",
+        "ZHOU YI",
+        "RAMANATHAN RISHI",
+        "FRIEDLAND JORDAN",
+        "PAREJIYA ANAND"
+      ],
+      "applicationDate": "2025-03-07",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Materials, metallurgy",
+        "Surface technology, coating"
+      ],
+      "score": 11.879614
+    },
+    {
+      "id": "EP-4587406-A1",
+      "title": [
+        "PROCESSING APPARATUSES AND METHODS OF USING"
+      ],
+      "abstract": "A process for making a sintered bilayer, comprising: providing a green bilayer, comprising a green body layer and a metal layer, under tension of 1 N to 300 N per meter of web width; moving the green bilayer through a first heating zone to produce a debindered bilayer; moving the debindered bilayer through a second heating zone to prepare a sintered bilayer; wherein the debindered bilayer is in an arched configuration as the debindered bilayer moves through the second heating zone; wherein the debindered bilayer is in the second heating zone for about 1 second to about 3 minutes; wherein the temperature in the second heating zone is 1050 \u00b0C to 1250 \u00b0C; and wherein the thickness of the sintered bilayer is less than 100 microns.",
+      "publicationNumber": "EP4587406",
+      "publicationDate": "2025-07-23",
+      "assignee": [
+        "QuantumScape Battery, Inc."
+      ],
+      "inventors": [
+        "DAVID BERKSTRESSER",
+        "Lucas BROGANER",
+        "TIMOTHY HOLME",
+        "John OLENICK",
+        "MURUGAN RAMASWAMY",
+        "TUGRUL SAMIR",
+        "MATTHEW SHEFFIELD",
+        "BRAD STIMSON",
+        "MARTIN WINTERKORN",
+        "YI ZHOU",
+        "Rishi RAMANATHAN",
+        "Jordan FRIEDLAND",
+        "Anand PAREJIYA"
+      ],
+      "applicationDate": "2023-09-14",
+      "claimsCount": 40,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Materials, metallurgy",
+        "Surface technology, coating"
+      ],
+      "score": 11.879614
+    },
+    {
+      "id": "EP-4479361-A1",
+      "title": [
+        "RAPID THERMAL PROCESSING METHODS AND APPARATUS"
+      ],
+      "abstract": "Methods and apparatus for fabricating separators for solid-state lithium metal batteries employ rapid thermal processing. Aspects include high temperature sintering. Temperatures, durations of heat application, and proximity of heating elements to materials undergoing sintering combine to provide separators with desirable physical characteristics, including porosity, in a batch process.",
+      "publicationNumber": "EP4479361",
+      "publicationDate": "2024-12-25",
+      "assignee": [
+        "QuantumScape Battery, Inc."
+      ],
+      "inventors": [
+        "TIMOTHY HOLME",
+        "MARTIN WINTERKORN",
+        "Dylan TOZIER",
+        "MURUGAN RAMASWAMY"
+      ],
+      "applicationDate": "2023-02-14",
+      "claimsCount": 36,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Materials, metallurgy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 11.879614
+    },
+    {
+      "id": "US-9970711-B2",
+      "title": [
+        "Lithium stuffed garnet setter plates for solid electrolyte fabrication"
+      ],
+      "abstract": "Setter plates are fabricated from Li-stuffed garnet materials having the same, or substantially similar, compositions as a garnet Li-stuffed solid electrolyte. The Li-stuffed garnet setter plates, set forth herein, reduce the evaporation of Li during a sintering treatment step and/or reduce the loss of Li caused by diffusion out of the sintering electrolyte. Li-stuffed garnet setter plates, set forth herein, maintain compositional control over the solid electrolyte during sintering when, upon heating, lithium is prone, to diffuse out of the solid electrolyte.",
+      "publicationNumber": "US9970711",
+      "publicationDate": "2018-05-15",
+      "assignee": [
+        "QUANTUMSCAPE CORPORATION"
+      ],
+      "inventors": [
+        "Sriram Iyer",
+        "Tim Holme",
+        "Niall Donnelly"
+      ],
+      "applicationDate": "2016-10-05",
+      "claimsCount": 17,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Machine tools",
+        "Materials, metallurgy",
+        "Other special machines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 11.779951
+    },
+    {
+      "id": "US-20210135292-A1",
+      "title": [
+        "ALL SULFIDE ELECTROCHEMICAL CELL"
+      ],
+      "abstract": "Provided herein are processes for making, and methods of using, solid-state batteries which include sulfide electrolytes in the solid-state separator and in the cathode as a catholyte. The process comprises providing at least two layered stacks, and compressing the at least two layered stacks at a pressure between 30 and 5000 MPa and at a temperature of 50\u00b0 C. to 250\u00b0 C. Also set forth herein are electrochemical cells and devices made by these processes.",
+      "publicationNumber": "US20210135292",
+      "publicationDate": "2021-05-06",
+      "assignee": [
+        "QUANTUMSCAPE CORPORATION"
+      ],
+      "inventors": [
+        "Tim Holme",
+        "Sunil MAIR"
+      ],
+      "applicationDate": "2019-06-14",
+      "claimsCount": 72,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 11.779951
+    },
+    {
+      "id": "US-20200333076-A1",
+      "title": [
+        "LITHIUM STUFFED GARNET SETTER PLATES FOR SOLID ELECTROLYTE FABRICATION"
+      ],
+      "abstract": "Setter plates are fabricated from Li-stuffed garnet materials having the same, or substantially similar, compositions as a garnet Li-stuffed solid electrolyte. The Li-stuffed garnet setter plates, set forth herein, reduce the evaporation of Li during a sintering treatment step and/or reduce the loss of Li caused by diffusion out of the sintering electrolyte. Li-stuffed garnet setter plates, set forth herein, maintain compositional control over the solid electrolyte during sintering when, upon heating, lithium is prone to diffuse out of the solid electrolyte.",
+      "publicationNumber": "US20200333076",
+      "publicationDate": "2020-10-22",
+      "assignee": [
+        "QUANTUMSCAPE CORPORATION"
+      ],
+      "inventors": [
+        "Sriram Iyer",
+        "Tim Holme",
+        "Niall Donnelly"
+      ],
+      "applicationDate": "2020-07-01",
+      "claimsCount": 19,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Machine tools",
+        "Macromolecular chemistry, polymers",
+        "Materials, metallurgy",
+        "Other special machines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 11.779951
+    },
+    {
+      "id": "US-20200003494-A1",
+      "title": [
+        "LITHIUM STUFFED GARNET SETTER PLATES FOR SOLID ELECTROLYTE FABRICATION"
+      ],
+      "abstract": "Setter plates are fabricated from Li-stuffed garnet materials having the same, or substantially similar, compositions as a garnet Li-stuffed solid electrolyte. The Li-stuffed garnet setter plates, set forth herein, reduce the evaporation of Li during a sintering treatment step and/or reduce the loss of Li caused by diffusion out of the sintering electrolyte. Li-stuffed garnet setter plates, set forth herein, maintain compositional control over the solid electrolyte during sintering when, upon heating, lithium is prone to diffuse out of the solid electrolyte.",
+      "publicationNumber": "US20200003494",
+      "publicationDate": "2020-01-02",
+      "assignee": [
+        "QUANTUMSCAPE CORPORATION"
+      ],
+      "inventors": [
+        "Sriram Iyer",
+        "Tim Holme",
+        "Niall Donnelly"
+      ],
+      "applicationDate": "2019-09-10",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Machine tools",
+        "Materials, metallurgy",
+        "Other special machines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 11.779951
+    },
+    {
+      "id": "US-20180094858-A1",
+      "title": [
+        "LITHIUM STUFFED GARNET SETTER PLATES FOR SOLID ELECTROLYTE FABRICATION"
+      ],
+      "abstract": "Setter plates are fabricated from Li-stuffed garnet materials having the same, or substantially similar, compositions as a garnet Li-stuffed solid electrolyte. The Li-stuffed garnet setter plates, set forth herein, reduce the evaporation of Li during a sintering treatment step and/or reduce the loss of Li caused by diffusion out of the sintering electrolyte. Li-stuffed garnet setter plates, set forth herein, maintain compositional control over the solid electrolyte during sintering when, upon heating, lithium is prone to diffuse out of the solid electrolyte.",
+      "publicationNumber": "US20180094858",
+      "publicationDate": "2018-04-05",
+      "assignee": [
+        "QUANTUMSCAPE CORPORATION"
+      ],
+      "inventors": [
+        "Sriram Iyer",
+        "Tim Holme",
+        "Niall Donnelly"
+      ],
+      "applicationDate": "2017-10-18",
+      "claimsCount": 64,
+      "independentClaimsCount": 6,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Machine tools",
+        "Materials, metallurgy",
+        "Other special machines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 11.779951
+    },
+    {
+      "id": "US-20180045465-A1",
+      "title": [
+        "LITHIUM STUFFED GARNET SETTER PLATES FOR SOLID ELECTROLYTE FABRICATION"
+      ],
+      "abstract": "Setter plates are fabricated from Li-stuffed garnet materials having the same, or substantially similar, compositions as a garnet Li-stuffed solid electrolyte. The Li-stuffed garnet setter plates, set forth herein, reduce the evaporation of Li during a sintering treatment step and/or reduce the loss of Li caused by diffusion out of the sintering electrolyte. Li-stuffed garnet setter plates, set forth herein, maintain compositional control over the solid electrolyte during sintering when, upon heating, lithium is prone to diffuse out of the solid electrolyte.",
+      "publicationNumber": "US20180045465",
+      "publicationDate": "2018-02-15",
+      "assignee": [
+        "QUANTUMSCAPE CORPORATION"
+      ],
+      "inventors": [
+        "Sriram Iyer",
+        "Tim Holme",
+        "Niall Donnelly"
+      ],
+      "applicationDate": "2017-10-26",
+      "claimsCount": 15,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Machine tools",
+        "Materials, metallurgy",
+        "Other special machines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 11.779951
+    },
+    {
+      "id": "US-20170062873-A1",
+      "title": [
+        "LITHIUM STUFFED GARNET SETTER PLATES FOR SOLID ELECTROLYTE FABRICATION"
+      ],
+      "abstract": "Setter plates are fabricated from Li-stuffed garnet materials having the same, or substantially similar, compositions as a garnet Li-stuffed solid electrolyte. The Li-stuffed garnet setter plates, set forth herein, reduce the evaporation of Li during a sintering treatment step and/or reduce the loss of Li caused by diffusion out of the sintering electrolyte. Li-stuffed garnet setter plates, set forth herein, maintain compositional control over the solid electrolyte during sintering when, upon heating, lithium is prone, to diffuse out of the solid electrolyte.",
+      "publicationNumber": "US20170062873",
+      "publicationDate": "2017-03-02",
+      "assignee": [
+        "QUANTUMSCAPE CORPORATION"
+      ],
+      "inventors": [
+        "Sriram Iyer",
+        "Tim Holme",
+        "Niall Donnelly"
+      ],
+      "applicationDate": "2016-10-05",
+      "claimsCount": 22,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Materials, metallurgy",
+        "Other special machines"
+      ],
+      "score": 11.779951
+    },
+    {
+      "id": "US-10746468-B2",
+      "title": [
+        "Lithium stuffed garnet setter plates for solid electrolyte fabrication"
+      ],
+      "abstract": "Setter plates are fabricated from Li-stuffed garnet materials having the same, or substantially similar, compositions as a garnet Li-stuffed solid electrolyte. The Li-stuffed garnet setter plates, set forth herein, reduce the evaporation of Li during a sintering treatment step and/or reduce the loss of Li caused by diffusion out of the sintering electrolyte. Li-stuffed garnet setter plates, set forth herein, maintain compositional control over the solid electrolyte during sintering when, upon heating, lithium is prone to diffuse out of the solid electrolyte.",
+      "publicationNumber": "US10746468",
+      "publicationDate": "2020-08-18",
+      "assignee": [
+        "QUANTUMSCAPE CORPORATION"
+      ],
+      "inventors": [
+        "Sriram Iyer",
+        "Tim Holme",
+        "Niall Donnelly"
+      ],
+      "applicationDate": "2017-10-18",
+      "claimsCount": 60,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Machine tools",
+        "Macromolecular chemistry, polymers",
+        "Materials, metallurgy",
+        "Other special machines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 11.779951
+    },
+    {
+      "id": "US-10563918-B2",
+      "title": [
+        "Lithium stuffed garnet setter plates for solid electrolyte fabrication"
+      ],
+      "abstract": "Setter plates are fabricated from Li-stuffed garnet materials having the same, or substantially similar, compositions as a garnet Li-stuffed solid electrolyte. The Li-stuffed garnet setter plates, set forth herein, reduce the evaporation of Li during a sintering treatment step and/or reduce the loss of Li caused by diffusion out of the sintering electrolyte. Li-stuffed garnet setter plates, set forth herein, maintain compositional control over the solid electrolyte during sintering when, upon heating, lithium is prone to diffuse out of the solid electrolyte.",
+      "publicationNumber": "US10563918",
+      "publicationDate": "2020-02-18",
+      "assignee": [
+        "QUANTUMSCAPE CORPORATION"
+      ],
+      "inventors": [
+        "Sriram Iyer",
+        "Tim Holme",
+        "Niall Donnelly"
+      ],
+      "applicationDate": "2019-09-10",
+      "claimsCount": 13,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Machine tools",
+        "Macromolecular chemistry, polymers",
+        "Materials, metallurgy",
+        "Other special machines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 11.779951
+    },
+    {
+      "id": "US-10422581-B2",
+      "title": [
+        "Lithium stuffed garnet setter plates for solid electrolyte fabrication"
+      ],
+      "abstract": "Setter plates are fabricated from Li-stuffed garnet materials having the same, or substantially similar, compositions as a garnet Li-stuffed solid electrolyte. The Li-stuffed garnet setter plates, set forth herein, reduce the evaporation of Li during a sintering treatment step and/or reduce the loss of Li caused by diffusion out of the sintering electrolyte. Li-stuffed garnet setter plates, set forth herein, maintain compositional control over the solid electrolyte during sintering when, upon heating, lithium is prone to diffuse out of the solid electrolyte.",
+      "publicationNumber": "US10422581",
+      "publicationDate": "2019-09-24",
+      "assignee": [
+        "QUANTUMSCAPE CORPORATION"
+      ],
+      "inventors": [
+        "Sriram Iyer",
+        "Tim Holme",
+        "Niall Donnelly"
+      ],
+      "applicationDate": "2017-10-26",
+      "claimsCount": 17,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Machine tools",
+        "Materials, metallurgy",
+        "Other special machines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 11.779951
+    },
+    {
+      "id": "EP-3529847-A1",
+      "title": [
+        "ELECTROLYTE SEPARATORS INCLUDING LITHIUM BOROHYDRIDE AND COMPOSITE ELECTROLYTE SEPARATORS OF LITHIUM-STUFFED GARNET AND LITHIUM BOROHYDRIDE"
+      ],
+      "abstract": "Set forth herein are compositions comprising A\u2022(LiBH4)\u2022B\u2022(LiX)\u2022C\u2022(LiNH2), wherein X is fluorine, bromine, chloride, iodine, or a combination thereof, and wherein 0.1\u2264A\u22643, 0.1\u2264B\u22644, and 0\u2264C\u22649 that are suitable for use as solid electrolyte separators in lithium electrochemical devices. Also set forth herein are methods of making A\u2022(LiBH4)\u2022B\u2022(LiX)\u2022C\u2022(LiNH2) compositions. Also disclosed herein are electrochemical devices which incorporate A\u2022(LiBH4)\u2022B\u2022(LiX)\u2022C\u2022(LiNH2) compositions and other materials.",
+      "publicationNumber": "EP3529847",
+      "publicationDate": "2019-08-28",
+      "assignee": [
+        "QuantumScape Corporation"
+      ],
+      "inventors": [
+        "Zhebo CHEN",
+        "TIM HOLME",
+        "Marie MAYER",
+        "Nick PERKINS",
+        "ERIC TULSKY",
+        "CHENG-CHIEH CHAO",
+        "Christopher DEKMEZIAN",
+        "SHUANG LI"
+      ],
+      "applicationDate": "2017-10-20",
+      "claimsCount": 111,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Materials, metallurgy"
+      ],
+      "score": 11.777645
+    },
+    {
+      "id": "EP-3411914-A4",
+      "title": [
+        "ANNEALED GARNET ELECTROLYTE SEPARATORS"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP3411914",
+      "publicationDate": "2019-11-06",
+      "assignee": [
+        "QuantumScape Corporation"
+      ],
+      "inventors": [
+        "LEI CHENG",
+        "SRIRAM IYER",
+        "WILL GARDNER",
+        "TIM HOLME",
+        "SHUANG LI",
+        "CHENG-CHIEH CHAO",
+        "Niall DONNELLY",
+        "ARNOLD ALLENIC"
+      ],
+      "applicationDate": "2016-01-27",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 11.777645
+    },
+    {
+      "id": "EP-3411914-A1",
+      "title": [
+        "ANNEALED GARNET ELECTROLYTE SEPARATORS"
+      ],
+      "abstract": "Set forth herein are pellets, thin films, and monoliths of lithium-stuffed garnet electrolytes having engineered surfaces. These engineered surfaces have a list of advantageous properties including, but not limited to, low surface area resistance, high Li+ ion conductivity, low tendency for lithium dendrites to form within or thereupon when the electrolytes are used in an electrochemical cell. Other advantages include voltage stability and long cycle life when used in electrochemical cells as a separator or a membrane between the positive and negative electrodes. Also set forth herein are methods of making these electrolytes including, but not limited to, methods of annealing these electrolytes under controlled atmosphere conditions. Set forth herein, additionally, are methods of using these electrolytes in electrochemical cells and devices. The instant disclosure further includes electrochemical cells which incorporate the lithium-stuffed garnet electrolytes set forth herein.",
+      "publicationNumber": "EP3411914",
+      "publicationDate": "2018-12-12",
+      "assignee": [
+        "QuantumScape Corporation"
+      ],
+      "inventors": [
+        "LEI CHENG",
+        "SRIRAM IYER",
+        "WILL GARDNER",
+        "TIM HOLME",
+        "SHUANG LI",
+        "CHENG-CHIEH CHAO",
+        "Niall DONNELLY",
+        "ARNOLD ALLENIC"
+      ],
+      "applicationDate": "2016-01-27",
+      "claimsCount": 76,
+      "independentClaimsCount": 6,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 11.777645
+    },
+    {
+      "id": "WO-2025222174-A1",
+      "title": [
+        "CATHODE FRAMES FOR USE IN SOLID-STATE BATTERIES"
+      ],
+      "abstract": "The present disclosure concerns electrochemical stacks with frames for solid-state cathodes and processes of assembling electrochemical stacks with frames for solid-state batteries.",
+      "publicationNumber": "WO2025222174",
+      "publicationDate": "2025-10-23",
+      "assignee": [
+        "QUANTUMSCAPE BATTERY, INC."
+      ],
+      "inventors": [
+        "Alexandra LAZAR",
+        "SAORI TOKUOKA",
+        "Ran TAO"
+      ],
+      "applicationDate": "2025-04-18",
+      "claimsCount": 20,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 11.761444
+    },
+    {
+      "id": "US-20220158179-A1",
+      "title": [
+        "METHODS OF FORMING AND USING ELECTROCHEMICAL CELLS COMPRISING A METAL SHEET"
+      ],
+      "abstract": "Provided herein are electrochemical cells that include a metal sheet adjacent to a solid-state Li ion-conducting electrolyte in a manner that isolates a Li metal negative electrode from exposure to either, or both, a liquid electrolyte or a gel electrolyte used as a catholyte in the positive electrode. Some of the electrochemical cells include a series of electrochemical stacks, which may be stacked in a variety of configurations including configurations that share a Li metal negative electrode.",
+      "publicationNumber": "US20220158179",
+      "publicationDate": "2022-05-19",
+      "assignee": [
+        "QUANTUMSCAPE BATTERY, INC."
+      ],
+      "inventors": [
+        "Weston HERMANN",
+        "Jesse SHAPIRO",
+        "Joseph SALVI"
+      ],
+      "applicationDate": "2020-02-28",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 11.761444
+    },
+    {
+      "id": "EP-3931890-A1",
+      "title": [
+        "METHODS OF FORMING AND USING ELECTROCHEMICAL CELLS COMPRISING A METAL SHEET"
+      ],
+      "abstract": "Provided herein are electrochemical cells that include a metal sheet adjacent to a solid-state Li ion-conducting electrolyte in a manner that isolates a Li metal negative electrode from exposure to either, or both, a liquid electrolyte or a gel electrolyte used as a catholyte in the positive electrode. Some of the electrochemical cells include a series of electrochemical stacks, which may be stacked in a variety of configurations including configurations that share a Li metal negative electrode.",
+      "publicationNumber": "EP3931890",
+      "publicationDate": "2022-01-05",
+      "assignee": [
+        "QuantumScape Battery, Inc."
+      ],
+      "inventors": [
+        "Weston Hermann",
+        "Jesse SHAPIRO",
+        "Joseph SALVI"
+      ],
+      "applicationDate": "2020-02-28",
+      "claimsCount": 55,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 11.761444
+    },
+    {
+      "id": "US-20210202983-A1",
+      "title": [
+        "LITHIUM-STUFFED GARNET THIN FILMS AND PELLETS HAVING AN OXYFLUORINATED AND/OR FLUORINATED SURFACE AND METHODS OF MAKING AND USING THE THIN FILMS AND PELLETS"
+      ],
+      "abstract": "Set forth herein are processes for making lithium-stuffed garnet oxides (e.g., Li7La3Zr2O12, also known as LLZO) that have passivated surfaces comprising a fluorinate and/or an oxyfluorinate species. These surfaces resist the formation of oxides, carbonates, hydroxides, peroxides, and organics that spontaneously form on LLZO surfaces under ambient conditions. Also set forth herein are new materials made by these processes.",
+      "publicationNumber": "US20210202983",
+      "publicationDate": "2021-07-01",
+      "assignee": [
+        "QUANTUMSCAPE CORPORATION"
+      ],
+      "inventors": [
+        "Cheng-Chieh Chao",
+        "Lei Cheng",
+        "Christopher Dekmezian",
+        "Tiffany HO",
+        "Tim Holme",
+        "Tommy Huang",
+        "Amal Mehrotra",
+        "Aram Yang"
+      ],
+      "applicationDate": "2018-11-06",
+      "claimsCount": 21,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Electrical machinery, apparatus, energy",
+        "Materials, metallurgy"
+      ],
+      "score": 11.755179
+    },
+    {
+      "id": "US-20210194045-A1",
+      "title": [
+        "LITHIUM-STUFFED GARNET ELECTROLYTES WITH SECONDARY PHASE INCLUSIONS"
+      ],
+      "abstract": "The instant disclosure sets forth multiphase lithium-stuffed garnet electrolytes having secondary phase inclusions, wherein these secondary phase inclusions are material(s) which is/are not a cubic phase lithium-stuffed garnet but which is/are entrapped or enclosed within a lithium-stuffed garnet. When the secondary phase inclusions described herein are included in a lithium-stuffed garnet at 30-0.1 volume %, the inclusions stabilize the multiphase matrix and allow for improved sintering of the lithium-stuffed garnet. The electrolytes described herein, which include lithium-stuffed garnet with secondary phase inclusions, have an improved sinterability and density compared to phase pure cubic lithium-stuffed garnet having the formula Li7La3Zr2O12.",
+      "publicationNumber": "US20210194045",
+      "publicationDate": "2021-06-24",
+      "assignee": [
+        "QUANTUMSCAPE CORPORATION"
+      ],
+      "inventors": [
+        "Larry Beck",
+        "Cheng-Chieh Chao",
+        "Lei Cheng",
+        "Niall Donnelly",
+        "William H. Gardner",
+        "Tim Holme",
+        "Will Hudson",
+        "Sriram Iyer",
+        "Oleh Karpenko",
+        "Yang Li",
+        "Gengfu Xu"
+      ],
+      "applicationDate": "2017-06-23",
+      "claimsCount": 99,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Materials, metallurgy"
+      ],
+      "score": 11.755179
+    },
+    {
+      "id": "US-20200161696-A1",
+      "title": [
+        "BATTERY CONTROL SYSTEMS"
+      ],
+      "abstract": "Various embodiments herein relate to the design of battery stacks, batteries and battery packs that are able to accommodate volumetric expansion in the battery materials. These designs may be especially useful in connection with batteries having negative electrodes made of lithium metal and/or positive electrodes made of an electrochemically active conversion material. These batteries may expand on the order of 10-40% during cycling. The battery designs disclosed herein include compressible regions that span a wide variety of different designs and implementations.",
+      "publicationNumber": "US20200161696",
+      "publicationDate": "2020-05-21",
+      "assignee": [
+        "QUANTUMSCAPE CORPORATION"
+      ],
+      "inventors": [
+        "Weston Arthur Hermann",
+        "William H. Gardner"
+      ],
+      "applicationDate": "2020-01-23",
+      "claimsCount": 34,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 11.755179
+    },
+    {
+      "id": "US-20190356012-A1",
+      "title": [
+        "SOLID-STATE ELECTROLYTE FOR A LITHIUM BATTERY"
+      ],
+      "abstract": "Various embodiments herein provide methods and apparatus for conditioning a battery. The conditioning may be undertaken to restore charge capacity or power capability, especially when practiced on a battery having a lithium negative electrode and/or a positive electrode having a conversion material. In one embodiment, the conditioning method includes applying a substantially constant current or power until a conditioning voltage is reached, where the conditioning voltage is higher than the maximum voltage used during normal cycling. The method further includes continuing to charge the battery at the conditioning voltage until a maximum conditioning charge is reached. Next, the method includes discharging the battery to about the maximum charge voltage prior to using the battery in an end use. Also provided is a conditioning apparatus that is configured to perform the conditioning method.",
+      "publicationNumber": "US20190356012",
+      "publicationDate": "2019-11-21",
+      "assignee": [
+        "QUANTUMSCAPE CORPORATION"
+      ],
+      "inventors": [
+        "Weston Arthur Hermann"
+      ],
+      "applicationDate": "2019-08-02",
+      "claimsCount": 1,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 11.755179
+    },
+    {
+      "id": "US-9859560-B2",
+      "title": [
+        "Electrode materials with mixed particle sizes"
+      ],
+      "abstract": "The present invention is directed to electrochemical devices and materials thereof. More specifically, embodiments set forth herein provide a low-porosity electrode that includes large particles and small particles. The large particles include electrochemically active material. The small particles include ion conductive electrolyte materials. In some examples, the large particles and small particles are characterized by a dispersity of no higher than 0.5. There are other embodiments as well.",
+      "publicationNumber": "US9859560",
+      "publicationDate": "2018-01-02",
+      "assignee": [
+        "QUANTUMSCAPE CORPORATION"
+      ],
+      "inventors": [
+        "Tim Holme",
+        "Ken Desmond",
+        "Weston Arthur Hermann",
+        "Joseph Han",
+        "Zhebo Chen"
+      ],
+      "applicationDate": "2015-05-28",
+      "claimsCount": 22,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 11.73338
+    },
+    {
+      "id": "US-10056609-B2",
+      "title": [
+        "Solid state energy storage devices"
+      ],
+      "abstract": "Solid state energy storage systems and devices are provided. A solid state energy storage devices can include an active layer disposed between conductive electrodes, the active layer having one or more quantum confinement species (QCS), such as quantum dots, quantum particles, quantum wells, nanoparticles, nanostructures, nanowires and nanofibers. The solid state energy storage device can have a charge rate of at least about 500 V/s and an energy storage density of at least about 150 Whr/kg.",
+      "publicationNumber": "US10056609",
+      "publicationDate": "2018-08-21",
+      "assignee": [
+        "QUANTUMSCAPE CORPORATION"
+      ],
+      "inventors": [
+        "Timothy P. Holme",
+        "Rainer Fasching",
+        "Joseph Han",
+        "Weston Arthur Hermann",
+        "Friedrich B. Prinz",
+        "Phil Reilly",
+        "Jagdeep Singh"
+      ],
+      "applicationDate": "2012-07-10",
+      "claimsCount": 11,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Semiconductors"
+      ],
+      "score": 11.73338
+    },
+    {
+      "id": "US-10008736-B2",
+      "title": [
+        "Method for forming and processing antiperovskite material doped with aluminum material"
+      ],
+      "abstract": "The present invention is related to formation and processing of antiperovskite material. In various embodiments, a thin film of aluminum doped antiperovskite is deposited on a substrate, which can be an electrolyte material of a lithium-based electrochemical storage device.",
+      "publicationNumber": "US10008736",
+      "publicationDate": "2018-06-26",
+      "assignee": [
+        "QUANTUMSCAPE CORPORATION"
+      ],
+      "inventors": [
+        "Adrian Winoto",
+        "Anna Choi",
+        "Joseph Han",
+        "Will Hudson",
+        "Tim Holme",
+        "Cheng Chieh Chao"
+      ],
+      "applicationDate": "2013-10-23",
+      "claimsCount": 5,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Materials, metallurgy"
+      ],
+      "score": 11.73338
+    },
+    {
+      "id": "US-12311805-B2",
+      "title": [
+        "Thermal management system for vehicles with an electric powertrain"
+      ],
+      "abstract": "This patent application is directed to thermal management systems of vehicles with an electric powertrain. More specifically, the battery system and one or more powertrain components and/or cabin climate control components of a vehicle share the same thermal circuit as the battery module through which heat can be exchanged between the battery module and one or more powertrain or climate control components as needed.",
+      "publicationNumber": "US12311805",
+      "publicationDate": "2025-05-27",
+      "assignee": [
+        "QUANTUMSCAPE BATTERY, INC."
+      ],
+      "inventors": [
+        "Kevin Hettrich",
+        "Tomasz Wojcik",
+        "Weston Arthur Hermann"
+      ],
+      "applicationDate": "2023-12-12",
+      "claimsCount": 21,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Transport"
+      ],
+      "score": 11.727818
+    },
+    {
+      "id": "US-11884183-B2",
+      "title": [
+        "Thermal management system for vehicles with an electric powertrain"
+      ],
+      "abstract": "This patent application is directed to thermal management systems of vehicles with an electric powertrain. More specifically, the battery system and one or more powertrain components and/or cabin climate control components of a vehicle share the same thermal circuit as the battery module through which heat can be exchanged between the battery module and one or more powertrain or climate control components as needed.",
+      "publicationNumber": "US11884183",
+      "publicationDate": "2024-01-30",
+      "assignee": [
+        "QUANTUMSCAPE BATTERY, INC."
+      ],
+      "inventors": [
+        "Kevin Hettrich",
+        "Tomasz Wojcik",
+        "Weston Arthur Hermann"
+      ],
+      "applicationDate": "2023-01-13",
+      "claimsCount": 18,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Transport"
+      ],
+      "score": 11.727818
+    },
+    {
+      "id": "US-11855251-B2",
+      "title": [
+        "Electrolyte separators including lithium borohydride and composite electrolyte separators of lithium-stuffed garnet and lithium borohydride"
+      ],
+      "abstract": "Set forth herein are compositions comprising A\u00b7(LiBH4)\u00b7B\u00b7(LiX)\u00b7C\u00b7(LiNH2), wherein X is fluorine, bromine, chloride, iodine, or a combination thereof, and wherein 0.1\u2264A\u22643, 0.1\u226413\u22644, and 0\u2264C\u22649 that are suitable for use as solid electrolyte separators in lithium electrochemical devices. Also set forth herein are methods of making A\u00b7(LiBH4)\u00b7B\u00b7(LiX)\u00b7C\u00b7(LiNH2) compositions. Also disclosed herein are electrochemical devices which incorporate A\u00b7(LiBH4)\u00b7B\u00b7(LiX)\u00b7C\u00b7(LiNH2) compositions and other materials.",
+      "publicationNumber": "US11855251",
+      "publicationDate": "2023-12-26",
+      "assignee": [
+        "QUANTUMSCAPE BATTERY, INC."
+      ],
+      "inventors": [
+        "Zhebo Chen",
+        "Tim Holme",
+        "Marie Mayer",
+        "Nick PERKINS",
+        "Eric Tulsky",
+        "Cheng-Chieh Chao",
+        "Christopher Dekmezian",
+        "Shuang Li"
+      ],
+      "applicationDate": "2023-01-10",
+      "claimsCount": 21,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 11.727818
+    },
+    {
+      "id": "US-11581612-B2",
+      "title": [
+        "Electrolyte separators including lithium borohydride and composite electrolyte separators of lithium-stuffed garnet and lithium borohydride"
+      ],
+      "abstract": "Set forth herein are compositions comprising A.(LiBH4).B.(LiX).C.(LiNH2), wherein X is fluorine, bromine, chloride, iodine, or a combination thereof, and wherein 0.1\u2264A\u22643, 0.1\u2264B\u22644, and 0\u2264C\u22649 that are suitable for use as solid electrolyte separators in lithium electrochemical devices. Also set forth herein are methods of making A.(LiBH4).B.(LiX).C.(LiNH2) compositions. Also disclosed herein are electrochemical devices which incorporate A.(LiBH4).B.(LiX).C.(LiNH2) compositions and other materials.",
+      "publicationNumber": "US11581612",
+      "publicationDate": "2023-02-14",
+      "assignee": [
+        "QUANTUMSCAPE BATTERY, INC."
+      ],
+      "inventors": [
+        "Zhebo Chen",
+        "Tim Holme",
+        "Marie Mayer",
+        "Nick PERKINS",
+        "Eric Tulsky",
+        "Cheng-Chieh Chao",
+        "Christopher Dekmezian",
+        "Shuang Li"
+      ],
+      "applicationDate": "2021-04-13",
+      "claimsCount": 20,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 11.727818
+    },
+    {
+      "id": "US-11577626-B2",
+      "title": [
+        "Thermal management system for vehicles with an electric powertrain"
+      ],
+      "abstract": "This patent application is directed to thermal management systems of vehicles with an electric powertrain. More specifically, the battery system and one or more powertrain components and/or cabin climate control components of a vehicle share the same thermal circuit as the battery module through which heat can be exchanged between the battery module and one or more powertrain or climate control components as needed.",
+      "publicationNumber": "US11577626",
+      "publicationDate": "2023-02-14",
+      "assignee": [
+        "QUANTUMSCAPE BATTERY, INC."
+      ],
+      "inventors": [
+        "Kevin Hettrich",
+        "Tomasz Wojcik",
+        "Weston Arthur Hermann"
+      ],
+      "applicationDate": "2020-12-08",
+      "claimsCount": 18,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Transport"
+      ],
+      "score": 11.727818
+    },
+    {
+      "id": "US-11011796-B2",
+      "title": [
+        "Electrolyte separators including lithium borohydride and composite electrolyte separators of lithium-stuffed garnet and lithium borohydride"
+      ],
+      "abstract": "Set forth herein are compositions comprising A.(LiBH4).B.(LiX).C.(LiNH2), wherein X is fluorine, bromine, chloride, iodine, or a combination thereof, and wherein 0.1\u2264A\u22643, 0.1\u2264B\u22644, and 0\u2264C\u22649 that are suitable for use as solid electrolyte separators in lithium electrochemical devices. Also set forth herein are methods of making A.(LiBH4).B.(LiX).C.(LiNH2) compositions. Also disclosed herein are electrochemical devices which incorporate A.(LiBH4).B.(LiX).C.(LiNH2) compositions and other materials.",
+      "publicationNumber": "US11011796",
+      "publicationDate": "2021-05-18",
+      "assignee": [
+        "QUANTUMSCAPE BATTERY, INC."
+      ],
+      "inventors": [
+        "Zhebo Chen",
+        "Tim Holme",
+        "Marie Mayer",
+        "Nick PERKINS",
+        "Eric Tulsky",
+        "Cheng-Chieh Chao",
+        "Christopher Dekmezian",
+        "Shuang Li"
+      ],
+      "applicationDate": "2017-10-20",
+      "claimsCount": 20,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 11.727818
+    },
+    {
+      "id": "US-20240204245-A1",
+      "title": [
+        "LITHIUM-STUFFED GARNET THIN FILMS AND PELLETS HAVING AN OXYFLUORINATED AND/OR FLUORINATED SURFACE AND METHODS OF MAKING AND USING THE THIN FILMS AND PELLETS"
+      ],
+      "abstract": "Set forth herein are processes for making lithium-stuffed garnet oxides (e.g., Li7La3Zr2O12, also known as LLZO) that have passivated surfaces comprising a fluorinate and/or an oxyfluorinate species. These surfaces resist the formation of oxides, carbonates, hydroxides, peroxides, and organics that spontaneously form on LLZO surfaces under ambient conditions. Also set forth herein are new materials made by these processes.",
+      "publicationNumber": "US20240204245",
+      "publicationDate": "2024-06-20",
+      "assignee": [
+        "QUANTUMSCAPE BATTERY, INC."
+      ],
+      "inventors": [
+        "Cheng-Chieh Chao",
+        "Lei Cheng",
+        "Christopher Dekmezian",
+        "Tiffany HO",
+        "Timothy Holme",
+        "Tommy Huang",
+        "Amal Mehrotra",
+        "Aram Yang"
+      ],
+      "applicationDate": "2023-09-28",
+      "claimsCount": 18,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Electrical machinery, apparatus, energy",
+        "Materials, metallurgy"
+      ],
+      "score": 11.717102
+    },
+    {
+      "id": "US-20230207868-A1",
+      "title": [
+        "LITHIUM-STUFFED GARNET THIN FILMS AND PELLETS HAVING AN OXYFLUORINATED AND/OR FLUORINATED SURFACE AND METHODS OF MAKING AND USING THE THIN FILMS AND PELLETS"
+      ],
+      "abstract": "Set forth herein are processes for making lithium-stuffed garnet oxides (e.g., Li7La3Zr2O12, also known as LLZO) that have passivated surfaces comprising a fluorinate and/or an oxyfluorinate species. These surfaces resist the formation of oxides, carbonates, hydroxides, peroxides, and organics that spontaneously form on LLZO surfaces under ambient conditions. Also set forth herein are new materials made by these processes.",
+      "publicationNumber": "US20230207868",
+      "publicationDate": "2023-06-29",
+      "assignee": [
+        "QUANTUMSCAPE BATTERY, INC."
+      ],
+      "inventors": [
+        "Cheng-Chieh Chao",
+        "Lei Cheng",
+        "Christopher Dekmezian",
+        "Tiffany HO",
+        "Timothy Holme",
+        "Tommy Huang",
+        "Amal Mehrotra",
+        "Aram Yang"
+      ],
+      "applicationDate": "2022-11-02",
+      "claimsCount": 14,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Electrical machinery, apparatus, energy",
+        "Materials, metallurgy"
+      ],
+      "score": 11.717102
+    },
+    {
+      "id": "US-20220118880-A1",
+      "title": [
+        "BATTERY CONTROL SYSTEMS"
+      ],
+      "abstract": "Various embodiments herein relate to the design of battery stacks, batteries and battery packs that are able to accommodate volumetric expansion in the battery materials. These designs may be especially useful in connection with batteries having negative electrodes made of lithium metal and/or positive electrodes made of an electrochemically active conversion material. These batteries may expand on the order of 10-40% during cycling. The battery designs disclosed herein include compressible regions that span a wide variety of different designs and implementations.",
+      "publicationNumber": "US20220118880",
+      "publicationDate": "2022-04-21",
+      "assignee": [
+        "QUANTUMSCAPE BATTERY, INC."
+      ],
+      "inventors": [
+        "Weston Arthur Hermann",
+        "William H. Gardner"
+      ],
+      "applicationDate": "2021-09-21",
+      "claimsCount": 19,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 11.717102
+    },
+    {
+      "id": "US-20210344082-A1",
+      "title": [
+        "METHODS OF MAKING AND USING AN ELECTROCHEMICAL CELL COMPRISING AN INTERLAYER"
+      ],
+      "abstract": "Provided herein are electrochemical cells and/or electrode stacks comprising an interlayer disposed proximate to the negative electrode current collector and/or a metal negative electrode, wherein the interlayer is disposed between and in contact with a negative electrode current collector and a solid-state electrolyte separator or between and in contact with a metal negative electrode and a solid-state electrolyte separator.",
+      "publicationNumber": "US20210344082",
+      "publicationDate": "2021-11-04",
+      "assignee": [
+        "QUANTUMSCAPE BATTERY, INC."
+      ],
+      "inventors": [
+        "Larry W. BECK",
+        "Cheng-Chieh Chao",
+        "Niall Donnelly",
+        "Tim Holme",
+        "Shuang Li",
+        "Kim Van Berkel",
+        "Danielle GENDRON",
+        "Shawna SMITH",
+        "Karen SUGANO",
+        "Clarissa YAW"
+      ],
+      "applicationDate": "2019-10-01",
+      "claimsCount": 46,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 11.695346
+    },
+    {
+      "id": "US-9761861-B1",
+      "title": [
+        "Pulse plating of lithium material in electrochemical devices"
+      ],
+      "abstract": "The present invention is directed to battery system and operation thereof. In an embodiment, lithium material is plated onto the anode region of a lithium secondary battery cell by a pulsed current. The pulse current may have both positive and negative polarity. One of the polarities causes lithium material to plate onto the anode region, and the opposite polarity causes lithium dendrites to be removed. There are other embodiments as well.",
+      "publicationNumber": "US9761861",
+      "publicationDate": "2017-09-12",
+      "assignee": [
+        "QUANTUMSCAPE CORPORATION"
+      ],
+      "inventors": [
+        "Timothy Holme",
+        "Marie Mayer",
+        "Ghyrn Loveness",
+        "Zhebo Chen",
+        "Rainer Fasching"
+      ],
+      "applicationDate": "2014-05-28",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 11.585303
+    },
+    {
+      "id": "US-20210167415-A1",
+      "title": [
+        "LITHIUM, PHOSPHORUS, SULFUR, AND IODINE INCLUDING ELECTROLYTE AND CATHOLYTE COMPOSITIONS, ELECTROLYTE MEMBRANES FOR ELECTROCHEMICAL DEVICES, AND ANNEALING METHODS OF MAKING THESE ELECTROLYTES AND CATHOLYTES"
+      ],
+      "abstract": "The present disclosure sets forth battery components for secondary and/or traction batteries. Described herein are new solid-state lithium (Li) conducting electrolytes including monolithic, single layer, and bi-layer solid-state sulfide-based lithium ion (Li+) conducting catholytes or electrolytes. These solid-state ion conductors have particular chemical compositions which are arranged and/or bonded through both crystalline and amorphous bonds. Also provided herein are methods of making these solid-state sulfide-based lithium ion conductors including new annealing methods. These ion conductors are useful, for example, as membrane separators in rechargeable batteries.",
+      "publicationNumber": "US20210167415",
+      "publicationDate": "2021-06-03",
+      "assignee": [
+        "QUANTUMSCAPE CORPORATION"
+      ],
+      "inventors": [
+        "Tim Holme",
+        "Kim Van Berkel",
+        "William Hudson",
+        "Kian Kerman",
+        "Sunil MAIR",
+        "Amal Mehrotra",
+        "Zhebo Chen"
+      ],
+      "applicationDate": "2020-08-12",
+      "claimsCount": 13,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Materials, metallurgy"
+      ],
+      "score": 11.585303
+    },
+    {
+      "id": "US-20210020897-A1",
+      "title": [
+        "PULSE PLATING OF LITHIUM MATERIAL IN ELECTROCHEMICAL DEVICES"
+      ],
+      "abstract": "The present invention is directed to battery system and operation thereof. In an embodiment, lithium material is plated onto the anode region of a lithium secondary battery cell by a pulsed current. The pulse current may have both positive and negative polarity. One of the polarities causes lithium material to plate onto the anode region, and the opposite polarity causes lithium dendrites to be removed. There are other embodiments as well.",
+      "publicationNumber": "US20210020897",
+      "publicationDate": "2021-01-21",
+      "assignee": [
+        "QUANTUMSCAPE CORPORATION"
+      ],
+      "inventors": [
+        "Timothy Holme",
+        "Marie Mayer",
+        "Ghyrn Loveness",
+        "Zhebo Chen",
+        "Rainer Fasching"
+      ],
+      "applicationDate": "2020-08-11",
+      "claimsCount": 8,
+      "independentClaimsCount": 8,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Surface technology, coating"
+      ],
+      "score": 11.585303
+    },
+    {
+      "id": "US-20190097262-A1",
+      "title": [
+        "LITHIUM, PHOSPHORUS, SULFUR, AND IODINE INCLUDING ELECTROLYTE AND CATHOLYTE COMPOSITIONS, ELECTROLYTE MEMBRANES FOR ELECTROCHEMICAL DEVICES, AND ANNEALING METHODS OF MAKING THESE ELECTROLYTES AND CATHOLYTES"
+      ],
+      "abstract": "The present disclosure sets forth battery components for secondary and/or traction batteries. Described herein are new solid-state lithium (Li) conducting electrolytes including monolithic, single layer, and bi-layer solid-state sulfide-based lithium ion (Li30 ) conducting catholytes or electrolytes. These solid-state ion conductors have particular chemical compositions which are arranged and/or bonded through both crystalline and amorphous bonds. Also provided herein are methods of making these solid-state sulfide-based lithium ion conductors including new annealing methods. These ion conductors are useful, for example, as membrane separators in rechargeable batteries.",
+      "publicationNumber": "US20190097262",
+      "publicationDate": "2019-03-28",
+      "assignee": [
+        "QUANTUMSCAPE CORPORATION"
+      ],
+      "inventors": [
+        "Zhebo Chen",
+        "Tim Holme",
+        "William Hudson",
+        "Kian Kerman",
+        "Sunil MAIR",
+        "Amal Mehrotra",
+        "Kim Van Berkel",
+        "Cheng-Chieh Chao",
+        "Drake Nguyen"
+      ],
+      "applicationDate": "2018-09-26",
+      "claimsCount": 18,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 11.585303
+    },
+    {
+      "id": "US-20170338465-A1",
+      "title": [
+        "PULSE PLATING OF LITHIUM MATERIAL IN ELECTROCHEMICAL DEVICES"
+      ],
+      "abstract": "The present invention is directed to battery system and operation thereof. In an embodiment, lithium material is plated onto the anode region of a lithium secondary battery cell by a pulsed current. The pulse current may have both positive and negative polarity. One of the polarities causes lithium material to plate onto the anode region, and the opposite polarity causes lithium dendrites to be removed. There are other embodiments as well.",
+      "publicationNumber": "US20170338465",
+      "publicationDate": "2017-11-23",
+      "assignee": [
+        "QUANTUMSCAPE CORPORATION"
+      ],
+      "inventors": [
+        "Timothy Holme",
+        "Marie Mayer",
+        "Ghyrn Loveness",
+        "Zhebo Chen",
+        "Rainer Fasching"
+      ],
+      "applicationDate": "2017-08-07",
+      "claimsCount": 6,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 11.585303
+    },
+    {
+      "id": "US-20170162901-A1",
+      "title": [
+        "LITHIUM, PHOSPHORUS, SULFUR, AND IODINE INCLUDING ELECTROLYTE AND CATHOLYTE COMPOSITIONS, ELECTROLYTE MEMBRANES FOR ELECTROCHEMICAL DEVICES, AND ANNEALING METHODS OF MAKING THESE ELECTROLYTES AND CATHOLYTES"
+      ],
+      "abstract": "The present disclosure sets forth battery components for secondary and/or traction batteries. Described herein are new solid-state lithium (Li) conducting electrolytes including monolithic, single layer, and bi-layer solid-state sulfide-based lithium ion (Li+) conducting catholytes or electrolytes. These solid-state ion conductors have particular chemical compositions which are arranged and/or bonded through both crystalline and amorphous bonds. Also provided herein are methods of making these solid-state sulfide-based lithium ion conductors including new annealing methods. These ion conductors are useful, for example, as membrane separators in rechargeable batteries.",
+      "publicationNumber": "US20170162901",
+      "publicationDate": "2017-06-08",
+      "assignee": [
+        "QUANTUMSCAPE CORPORATION"
+      ],
+      "inventors": [
+        "Zhebo Chen",
+        "Tim Holme",
+        "William Hudson",
+        "Kian Kerman",
+        "Sunil MAIR",
+        "Amal Mehrotra",
+        "Kim Van Berkel"
+      ],
+      "applicationDate": "2016-12-01",
+      "claimsCount": 59,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 11.585303
+    },
+    {
+      "id": "US-20160218401-A1",
+      "title": [
+        "THERMAL AND ELECTRICAL MANAGEMENT OF BATTERY PACKS"
+      ],
+      "abstract": "Provided are battery packs and interface modules for electrically interconnecting electrochemical cells in the packs and for providing heat distribution with the packs. An interface module interfaces one side of all electrochemical cells in a battery pack. The interface module may have a substantially planar shape such that the space occupied by the module in the battery pack is minimal. Most, if not all, conductive components of the interface module may be formed from the same sheet of metal. In some embodiments, the interface module includes multiple bus bars such that each bus bar interconnects two or more terminals of different electrochemical cells in the battery pack. Each bus bar may have a separate voltage sense lead extending from the bus bar to a connecting portion. The bus bars may be flexibly supported within the module. The interface module may also include multiple thermistors disposed on different bus bars.",
+      "publicationNumber": "US20160218401",
+      "publicationDate": "2016-07-28",
+      "assignee": [
+        "QUANTUMSCAPE CORPORATION"
+      ],
+      "inventors": [
+        "Weston Arthur Hermann",
+        "David E. Berkstresser",
+        "Stuart D. Barter",
+        "Phillip John Weicker"
+      ],
+      "applicationDate": "2014-10-22",
+      "claimsCount": 24,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 11.585303
+    },
+    {
+      "id": "US-20160049655-A1",
+      "title": [
+        "DOPED CONVERSION MATERIALS FOR SECONDARY BATTERY CATHODES"
+      ],
+      "abstract": "Battery systems using doped conversion materials as the active material in battery cathodes are provided herein. Doped conversion material may include a defect-rich structure or an amorphous or glassy structure, including at least one or more of a metal material, one or more oxidizing species, a reducing cation species, and a dopant. Methods for fabricating batteries and battery systems with doped conversion material are also provided herein.",
+      "publicationNumber": "US20160049655",
+      "publicationDate": "2016-02-18",
+      "assignee": [
+        "QUANTUMSCAPE CORPORATION"
+      ],
+      "inventors": [
+        "Rainer J. Fasching",
+        "Ghyrn E. Loveness",
+        "Aram Yang",
+        "Arnold Allenic",
+        "Timothy Holme"
+      ],
+      "applicationDate": "2015-08-14",
+      "claimsCount": 21,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 11.585303
+    },
+    {
+      "id": "US-10826115-B2",
+      "title": [
+        "Lithium, phosphorus, sulfur, and iodine including electrolyte and catholyte compositions, electrolyte membranes for electrochemical devices, and annealing methods of making these electrolytes and catholytes"
+      ],
+      "abstract": "The present disclosure sets forth battery components for secondary and/or traction batteries. Described herein are new solid-state lithium (Li) conducting electrolytes including monolithic, single layer, and bi-layer solid-state sulfide-based lithium ion (Li30) conducting catholytes or electrolytes. These solid-state ion conductors have particular chemical compositions which are arranged and/or bonded through both crystalline and amorphous bonds. Also provided herein are methods of making these solid-state sulfide-based lithium ion conductors including new annealing methods. These ion conductors are useful, for example, as membrane separators in rechargeable batteries.",
+      "publicationNumber": "US10826115",
+      "publicationDate": "2020-11-03",
+      "assignee": [
+        "QUANTUMSCAPE CORPORATION"
+      ],
+      "inventors": [
+        "Tim Holme",
+        "Zhebo Chen",
+        "William Hudson",
+        "Kian Kerman",
+        "Sunil MAIR",
+        "Amal Mehrotra",
+        "Kim Van Berkel",
+        "Cheng-Chieh Chao",
+        "Drake Nguyen"
+      ],
+      "applicationDate": "2018-09-26",
+      "claimsCount": 18,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Materials, metallurgy"
+      ],
+      "score": 11.585303
+    },
+    {
+      "id": "US-10784497-B2",
+      "title": [
+        "Pulse plating of lithium material in electrochemical devices"
+      ],
+      "abstract": "The present invention is directed to battery system and operation thereof. In an embodiment, lithium material is plated onto the anode region of a lithium secondary battery cell by a pulsed current. The pulse current may have both positive and negative polarity. One of the polarities causes lithium material to plate onto the anode region, and the opposite polarity causes lithium dendrites to be removed. There are other embodiments as well.",
+      "publicationNumber": "US10784497",
+      "publicationDate": "2020-09-22",
+      "assignee": [
+        "QUANTUMSCAPE CORPORATION"
+      ],
+      "inventors": [
+        "Timothy Holme",
+        "Marie Mayer",
+        "Ghyrn Loveness",
+        "Zhebo Chen",
+        "Rainer Fasching"
+      ],
+      "applicationDate": "2017-08-07",
+      "claimsCount": 6,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Surface technology, coating"
+      ],
+      "score": 11.585303
+    },
+    {
+      "id": "US-10326135-B2",
+      "title": [
+        "Doped conversion materials for secondary battery cathodes"
+      ],
+      "abstract": "Battery systems using doped conversion materials as the active material in battery cathodes are provided herein. Doped conversion material may include a defect-rich structure or an amorphous or glassy structure, including at least one or more of a metal material, one or more oxidizing species, a reducing cation species, and a dopant. Methods for fabricating batteries and battery systems with doped conversion material are also provided herein.",
+      "publicationNumber": "US10326135",
+      "publicationDate": "2019-06-18",
+      "assignee": [
+        "QUANTUMSCAPE CORPORATION"
+      ],
+      "inventors": [
+        "Rainer J. Fasching",
+        "Ghyrn E. Loveness",
+        "Aram Yang",
+        "Arnold Allenic",
+        "Timothy Holme"
+      ],
+      "applicationDate": "2015-08-14",
+      "claimsCount": 10,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 11.585303
+    },
+    {
+      "id": "US-10116001-B2",
+      "title": [
+        "Lithium, phosphorus, sulfur, and iodine including electrolyte and catholyte compositions, electrolyte membranes for electrochemical devices, and annealing methods of making these electrolytes and catholytes"
+      ],
+      "abstract": "The present disclosure sets forth battery components for secondary and/or traction batteries. Described herein are new solid-state lithium (Li) conducting electrolytes including monolithic, single layer, and bi-layer solid-state sulfide-based lithium ion (Li+) conducting catholytes or electrolytes. These solid-state ion conductors have particular chemical compositions which are arranged and/or bonded through both crystalline and amorphous bonds. Also provided herein are methods of making these solid-state sulfide-based lithium ion conductors including new annealing methods. These ion conductors are useful, for example, as membrane separators in rechargeable batteries.",
+      "publicationNumber": "US10116001",
+      "publicationDate": "2018-10-30",
+      "assignee": [
+        "QUANTUMSCAPE CORPORATION"
+      ],
+      "inventors": [
+        "Zhebo Chen",
+        "Tim Holme",
+        "William Hudson",
+        "Kian Kerman",
+        "Sunil MAIR",
+        "Amal Mehrotra",
+        "Kim Van Berkel"
+      ],
+      "applicationDate": "2016-12-01",
+      "claimsCount": 56,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Materials, metallurgy"
+      ],
+      "score": 11.585303
+    },
+    {
+      "id": "EP-3807947-A1",
+      "title": [
+        "ALL SULFIDE ELECTROCHEMICAL CELL"
+      ],
+      "abstract": "Provided herein are processes for making, and methods of using, solid-state batteries which include sulfide electrolytes in the solid-state separator and in the cathode as a catholyte.The process comprises providing at least two layered stacks, and compressing the at least two layered stacks at a pressure between 30 and 5000 MPa and at a temperature of 50\u00b0C to 250\u00b0C. Also set forth herein are electrochemical cells and devices made by these processes.",
+      "publicationNumber": "EP3807947",
+      "publicationDate": "2021-04-21",
+      "assignee": [
+        "QuantumScape Corporation"
+      ],
+      "inventors": [
+        "TIM HOLME",
+        "Sunil MAIR"
+      ],
+      "applicationDate": "2019-06-14",
+      "claimsCount": 72,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 11.574792
+    },
+    {
+      "id": "EP-3283450-A4",
+      "title": [
+        "SETTER PLATES FOR SOLID ELECTROLYTE FABRICATION AND METHODS OF USING THE SAME TO PREPARE DENSE SOLID ELECTROLYTES"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP3283450",
+      "publicationDate": "2018-10-17",
+      "assignee": [
+        "QuantumScape Corporation"
+      ],
+      "inventors": [
+        "SRIRAM IYER",
+        "TIM HOLME",
+        "Niall DONNELLY",
+        "GENGFU XU",
+        "ANNA CHOI"
+      ],
+      "applicationDate": "2016-04-15",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Materials, metallurgy"
+      ],
+      "score": 11.574792
+    },
+    {
+      "id": "EP-3283450-A1",
+      "title": [
+        "SETTER PLATES FOR SOLID ELECTROLYTE FABRICATION AND METHODS OF USING THE SAME TO PREPARE DENSE SOLID ELECTROLYTES"
+      ],
+      "abstract": "Composite setter plates are fabricated from an inert refractory material and a lithium source material, such as but not limited to Li-stuffed garnet materials which have the same, or substantially similar, compositions as a garnet Li-stuffed solid electrolyte. The composite setter plates, set forth herein, reduce the evaporation of Li during a sintering treatment step and/or reduce the loss of Li caused by diffusion out of the sintering electrolyte. The composite setter plates, set forth herein, also maintain compositional control over the solid electrolyte during sintering when, upon heating, lithium is prone to diffuse out of the solid electrolyte.",
+      "publicationNumber": "EP3283450",
+      "publicationDate": "2018-02-21",
+      "assignee": [
+        "QuantumScape Corporation"
+      ],
+      "inventors": [
+        "SRIRAM IYER",
+        "TIM HOLME",
+        "Niall DONNELLY",
+        "GENGFU XU",
+        "ANNA CHOI"
+      ],
+      "applicationDate": "2016-04-15",
+      "claimsCount": 156,
+      "independentClaimsCount": 22,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Materials, metallurgy"
+      ],
+      "score": 11.574792
+    },
+    {
+      "id": "EP-3283449-B1",
+      "title": [
+        "LITHIUM STUFFED GARNET SETTER PLATES FOR SOLID ELECTROLYTE FABRICATION"
+      ],
+      "abstract": "Setter plates are fabricated from Li-stuffed garnet materials having the same, or substantially similar, compositions as a garnet Li-stuffed solid electrolyte. The Li-stuffed garnet setter plates, set forth herein, reduce the evaporation of Li during a sintering treatment step and/or reduce the loss of Li caused by diffusion out of the sintering electrolyte. Li-stuffed garnet setter plates, set forth herein, maintain compositional control over the solid electrolyte during sintering when, upon heating, lithium is prone to diffuse out of the solid electrolyte.",
+      "publicationNumber": "EP3283449",
+      "publicationDate": "2021-03-31",
+      "assignee": [
+        "QuantumScape Corporation"
+      ],
+      "inventors": [
+        "SRIRAM IYER",
+        "TIM HOLME",
+        "Niall DONNELLY"
+      ],
+      "applicationDate": "2016-04-15",
+      "claimsCount": 15,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Materials, metallurgy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 11.574792
+    },
+    {
+      "id": "EP-3283449-A4",
+      "title": [
+        "LITHIUM STUFFED GARNET SETTER PLATES FOR SOLID ELECTROLYTE FABRICATION"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP3283449",
+      "publicationDate": "2018-11-21",
+      "assignee": [
+        "QuantumScape Corporation"
+      ],
+      "inventors": [
+        "SRIRAM IYER",
+        "TIM HOLME",
+        "Niall DONNELLY"
+      ],
+      "applicationDate": "2016-04-15",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Materials, metallurgy"
+      ],
+      "score": 11.574792
+    },
+    {
+      "id": "EP-3283449-A1",
+      "title": [
+        "LITHIUM STUFFED GARNET SETTER PLATES FOR SOLID ELECTROLYTE FABRICATION"
+      ],
+      "abstract": "Setter plates are fabricated from Li-stuffed garnet materials having the same, or substantially similar, compositions as a garnet Li-stuffed solid electrolyte. The Li-stuffed garnet setter plates, set forth herein, reduce the evaporation of Li during a sintering treatment step and/or reduce the loss of Li caused by diffusion out of the sintering electrolyte. Li-stuffed garnet setter plates, set forth herein, maintain compositional control over the solid electrolyte during sintering when, upon heating, lithium is prone to diffuse out of the solid electrolyte.",
+      "publicationNumber": "EP3283449",
+      "publicationDate": "2018-02-21",
+      "assignee": [
+        "QuantumScape Corporation"
+      ],
+      "inventors": [
+        "SRIRAM IYER",
+        "TIM HOLME",
+        "Niall DONNELLY"
+      ],
+      "applicationDate": "2016-04-15",
+      "claimsCount": 118,
+      "independentClaimsCount": 10,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Materials, metallurgy"
+      ],
+      "score": 11.574792
+    },
+    {
+      "id": "EP-3642899-A1",
+      "title": [
+        "LITHIUM-STUFFED GARNET ELECTROLYTES WITH SECONDARY PHASE INCLUSIONS"
+      ],
+      "abstract": "The instant disclosure sets forth multiphase lithium-stuffed garnet electrolytes having secondary phase inclusions, wherein these secondary phase inclusions are material(s) which is/are not a cubic phase lithium-stuffed garnet but which is/are entrapped or enclosed within a lithium-stuffed garnet. When the secondary phase inclusions described herein are included in a lithium-stuffed garnet at 30-0.1 volume %, the inclusions stabilize the multiphase matrix and allow for improved sintering of the lithium-stuffed garnet. The electrolytes described herein, which include lithium-stuffed garnet with secondary phase inclusions, have an improved sinterability and density compared to phase pure cubic lithium-stuffed garnet having the formula Li7La3Zr2O12.",
+      "publicationNumber": "EP3642899",
+      "publicationDate": "2020-04-29",
+      "assignee": [
+        "QuantumScape Corporation"
+      ],
+      "inventors": [
+        "LARRY BECK",
+        "CHENG-CHIEH CHAO",
+        "LEI CHENG",
+        "Niall DONNELLY",
+        "WILLIAM H. GARDNER",
+        "TIM HOLME",
+        "WILL HUDSON",
+        "SRIRAM IYER",
+        "OLEH KARPENKO",
+        "YANG LI",
+        "GENGFU XU"
+      ],
+      "applicationDate": "2017-06-23",
+      "claimsCount": 99,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Materials, metallurgy"
+      ],
+      "score": 11.550501
+    },
+    {
+      "id": "US-20240154188-A1",
+      "title": [
+        "THERMAL AND ELECTRICAL MANAGEMENT OF BATTERY PACKS"
+      ],
+      "abstract": "Provided are battery packs and interface modules for electrically interconnecting electrochemical cells in the packs and for providing heat distribution with the packs. An interface module interfaces one side of all electrochemical cells in a battery pack. The interface module may have a substantially planar shape such that the space occupied by the module in the battery pack is minimal. Most, if not all, conductive components of the interface module may be formed from the same sheet of metal. In some embodiments, the interface module includes multiple bus bars such that each bus bar interconnects two or more terminals of different electrochemical cells in the battery pack. Each bus bar may have a separate voltage sense lead extending from the bus bar to a connecting portion. The bus bars may be flexibly supported within the module. The interface module may also include multiple thermistors disposed on different bus bars.",
+      "publicationNumber": "US20240154188",
+      "publicationDate": "2024-05-09",
+      "assignee": [
+        "QUANTUMSCAPE BATTERY, INC."
+      ],
+      "inventors": [
+        "Weston Arthur Hermann",
+        "David E. Berkstresser",
+        "Stuart D. Barter",
+        "Phillip John Weicker"
+      ],
+      "applicationDate": "2023-08-14",
+      "claimsCount": 14,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 11.547929
+    },
+    {
+      "id": "US-20230123228-A1",
+      "title": [
+        "LITHIUM, PHOSPHORUS, SULFUR, AND IODINE CONTAINING ELECTROLYTE AND CATHOLYTE COMPOSITIONS, ELECTROLYTE MEMBRANES FOR ELECTROCHEMICAL DEVICES, AND ANNEALING METHODS OF MAKING THESE ELECTROLYTES AND CATHOLYTES"
+      ],
+      "abstract": "The present disclosure sets forth battery components for secondary and/or traction batteries. Described herein are new solid-state lithium (Li) conducting electrolytes including monolithic, single layer, and bi-layer solid-state sulfide-based lithium ion (Li+) conducting catholytes or electrolytes. These solid-state ion conductors have particular chemical compositions which are arranged and/or bonded through both crystalline and amorphous bonds. Also provided herein are methods of making these solid-state sulfide-based lithium ion conductors including new annealing methods. These ion conductors are useful, for example, as membrane separators in rechargeable batteries.",
+      "publicationNumber": "US20230123228",
+      "publicationDate": "2023-04-20",
+      "assignee": [
+        "QUANTUMSCAPE BATTERY, INC."
+      ],
+      "inventors": [
+        "Tim Holme",
+        "Kim Van Berkel",
+        "William Hudson",
+        "Kian Kerman",
+        "Sunil MAIR",
+        "Amal Mehrotra",
+        "Zhebo Chen"
+      ],
+      "applicationDate": "2022-07-19",
+      "claimsCount": 20,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Materials, metallurgy"
+      ],
+      "score": 11.547929
+    },
+    {
+      "id": "US-20210376395-A1",
+      "title": [
+        "THERMAL AND ELECTRICAL MANAGEMENT OF BATTERY PACKS"
+      ],
+      "abstract": "Provided are battery packs and interface modules for electrically interconnecting electrochemical cells in the packs and for providing heat distribution with the packs. An interface module interfaces one side of all electrochemical cells in a battery pack. The interface module may have a substantially planar shape such that the space occupied by the module in the battery pack is minimal. Most, if not all, conductive components of the interface module may be formed from the same sheet of metal. In some embodiments, the interface module includes multiple bus bars such that each bus bar interconnects two or more terminals of different electrochemical cells in the battery pack. Each bus bar may have a separate voltage sense lead extending from the bus bar to a connecting portion. The bus bars may be flexibly supported within the module. The interface module may also include multiple thermistors disposed on different bus bars.",
+      "publicationNumber": "US20210376395",
+      "publicationDate": "2021-12-02",
+      "assignee": [
+        "QUANTUMSCAPE BATTERY, INC."
+      ],
+      "inventors": [
+        "Weston Arthur Hermann",
+        "David E. Berkstresser",
+        "Stuart D. Barter",
+        "Phillip John Weicker"
+      ],
+      "applicationDate": "2021-04-13",
+      "claimsCount": 15,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 11.547929
+    }
+  ]
+}

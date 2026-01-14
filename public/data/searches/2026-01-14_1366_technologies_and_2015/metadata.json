@@ -1,0 +1,11 @@
+{
+  "search_id": "search_20260114_121606",
+  "timestamp": "2026-01-14T12:16:06.016420",
+  "query_type": "ai_search",
+  "user_prompt": "PA=(1366 Technologies) AND PD>2015",
+  "minesoft_query": "PA=(1366 Technologies) AND PD>2015",
+  "results_count": 123,
+  "directory": "2026-01-14_1366_technologies_and_2015",
+  "execution_time_ms": 1806.579351425171,
+  "api_endpoint": "query"
+}

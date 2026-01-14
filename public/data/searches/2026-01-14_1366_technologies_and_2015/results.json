@@ -1,0 +1,2553 @@
+{
+  "count": 123,
+  "numFound": 123,
+  "docs": [
+    {
+      "id": "CN-206471339-U",
+      "title": [
+        "\u4f7f\u7528\u8584\u534a\u5bfc\u4f53\u6676\u7247\u7684\u592a\u9633\u80fd\u7535\u6c60"
+      ],
+      "abstract": "\u5728\u63a7\u5236\u4f4d\u7f6e\u5177\u6709\u8584\u533a\u57df\u4e0e\u8f83\u539a\u533a\u57df\u7684\u4e00\u79cd\u4f7f\u7528\u8584\u534a\u5bfc\u4f53\u6676\u7247\u7684\u592a\u9633\u80fd\u7535\u6c60\u3002\u5185\u90e8\u53ef\u4ee5\u5c0f\u4e8e180\u5fae\u7c73\u6216\u8005\u66f4\u8584\u523050\u5fae\u7c73\uff0c\u5177\u6709180\u2011250\u5fae\u7c73\u7684\u8f83\u539a\u90e8\u5206\u3002\u8584\u6676\u7247\u5177\u6709\u8f83\u9ad8\u7684\u6548\u7387\u3002\u8f83\u539a\u5468\u8fb9\u63d0\u4f9b\u4e86\u64cd\u4f5c\u5f3a\u5ea6\u3002\u8f83\u539a\u7684\u6761\u72b6\u90e8\u3001\u5e73\u53f0\u4e0e\u5c9b\u72b6\u90e8\u7528\u4e8e\u55b7\u9540\u8054\u63a5\u3002\u6676\u7247\u53ef\u4ee5\u7531\u7194\u5316\u7269\u76f4\u63a5\u5236\u6210\uff0c\u5728\u578b\u677f\u4e0a\u5177\u6709\u4e0d\u540c\u70ed\u91cf\u63d0\u53d6\u503e\u5411\u7684\u533a\u57df\uff0c\u5176\u5e03\u7f6e\u4e3a\u4e0e\u76f8\u5bf9\u539a\u5ea6\u7684\u4f4d\u7f6e\u76f8\u5e94\u3002\u95f4\u9699\u6c27\u5c0f\u4e8e6x1017\u539f\u5b50/cc\uff0c\u4f18\u9009\u5730\u5c0f\u4e8e2x1017\uff0c\u5168\u6c27\u5c0f\u4e8e8.75x1017\u539f\u5b50/cc\uff0c\u4f18\u9009\u5730\u5c0f\u4e8e5.25x1017\u3002\u8f83\u539a\u533a\u57df\u5f62\u6210\u5177\u6709\u76f8\u5bf9\u8f83\u9ad8\u70ed\u91cf\u63d0\u53d6\u503e\u5411\u7684\u90bb\u8fd1\u578b\u677f\u533a\u57df\uff1b\u8f83\u8584\u533a\u57df\u90bb\u8fd1\u5177\u6709\u8f83\u5c0f\u63d0\u53d6\u503e\u5411\u7684\u533a\u57df\u3002\u8f83\u539a\u7684\u578b\u677f\u533a\u57df\u5177\u6709\u8f83\u9ad8\u7684\u63d0\u53d6\u503e\u5411\u3002\u5728\u578b\u677f\u4e0a\u7684\u529f\u80fd\u6027\u6750\u6599\u8fd8\u4e5f\u5177\u6709\u4e0d\u540c\u7684\u63d0\u53d6\u503e\u5411\u3002",
+      "publicationNumber": "CN206471339",
+      "publicationDate": "2017-09-05",
+      "assignee": [
+        "1366 technologies"
+      ],
+      "inventors": [
+        "Emanuel M Sax",
+        "Ralph Johnczyk",
+        "Adam lorenz",
+        "Richard L Wallace",
+        "George - D - Stephen heddell Sen"
+      ],
+      "applicationDate": "2015-04-30",
+      "claimsCount": 18,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Semiconductors",
+        "Solar energy"
+      ],
+      "score": 13.674049
+    },
+    {
+      "id": "MY-180243-A",
+      "title": [
+        "MAKING SEMICONDUCTOR BODIES FROM MOLTEN MATERIAL USING A FREE-STANDING INTERPOSER SHEET"
+      ],
+      "abstract": "An interposer sheet can be used for making semiconductor bodies, such as of silicon, such as for solar cell use. It is free-standing, very thin, flexible, porous and able to withstand the chemical and thermal environment of molten semiconductor without degradation. It is typically of a ceramic material, such as silica, silicon nitride, silicon oxynitride, silicon oxycarbide, silicon carbide, silicon carbonitride, silicon oxycarbonitride and others. It is provided between a forming surface of a mold sheet, and the molten material from which a semiconductor body will be formed. It may be secured to the forming surface or deposited upon the melt. The interposer sheet suppresses grain nucleation, and limits heat flow from the melt. It promotes separation of the semiconductor body from the forming surface. It can be fabricated before its use. Because free-standing and not adhered to the forming surface, problems of mismatch of CTE are minimized. The interposer sheet and semiconductor body are free to expand and contract relatively independently of the forming surface.",
+      "publicationNumber": "MY180243",
+      "publicationDate": "2020-11-25",
+      "assignee": [
+        "1366 TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "RALF JONCZYK",
+        "EMANUEL M. SACHS"
+      ],
+      "applicationDate": "2011-12-01",
+      "claimsCount": 14,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Semiconductors",
+        "Surface technology, coating"
+      ],
+      "score": 13.365877
+    },
+    {
+      "id": "HK-1190506-B",
+      "title": [
+        "MAKING SEMICONDUCTOR BODIES FROM MOLTEN MATERIAL USING A FREE-STANDING INTERPOSER SHEET"
+      ],
+      "abstract": "",
+      "publicationNumber": "HK1190506",
+      "publicationDate": "2018-10-05",
+      "assignee": [
+        "1366 TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "RALF JONCZYK",
+        "EMANUEL, M. SACHS"
+      ],
+      "applicationDate": "2014-04-14",
+      "claimsCount": 30,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Semiconductors",
+        "Surface technology, coating"
+      ],
+      "score": 13.365877
+    },
+    {
+      "id": "EP-2647032-B1",
+      "title": [
+        "MAKING SEMICONDUCTOR BODIES FROM MOLTEN MATERIAL USING A FREE-STANDING INTERPOSER SHEET"
+      ],
+      "abstract": "An interposer sheet can be used for making semiconductor bodies, such as of silicon, such as for solar cell use. It is free-standing, very thin, flexible, porous and able to withstand the chemical and thermal environment of molten semiconductor without degradation. It is typically of a ceramic material, such as silica, silicon nitride, silicon oxynitride, silicon oxycarbide, silicon carbide, silicon carbonitride, silicon oxycarbonitride and others. It is provided between a forming surface of a mold sheet, and the molten material from which a semiconductor body will be formed. It may be secured to the forming surface or deposited upon the melt. The interposer sheet suppresses grain nucleation, and limits heat flow from the melt. It promotes separation of the semiconductor body from the forming surface. It can be fabricated before its use. Because free-standing and not adhered to the forming surface, problems of mismatch of CTE are minimized. The interposer sheet and semiconductor body are free to expand and contract relatively independently of the forming surface.",
+      "publicationNumber": "EP2647032",
+      "publicationDate": "2016-03-09",
+      "assignee": [
+        "1366 Technologies Inc."
+      ],
+      "inventors": [
+        "RALF JONCZYK",
+        "EMANUEL, M. SACHS"
+      ],
+      "applicationDate": "2011-12-01",
+      "claimsCount": 14,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Semiconductors",
+        "Surface technology, coating"
+      ],
+      "score": 13.365877
+    },
+    {
+      "id": "US-10549476-B2",
+      "title": [
+        "Methods and apparati for handling, heating and cooling a substrate upon which a pattern is made by a tool in heat flowable material coating, including substrate transport, tool laydown, tool tensioning and tool retraction"
+      ],
+      "abstract": "A workpiece is transported using a porous belt, which belt delivers a workpiece to a chuck, upon which the workpiece is held by vacuum. The belt can be porous PTFE. A flexible stamp is preheated, before it is applied to a workpiece, by drawing the stamp toward a heated plate, for instance by vacuum.",
+      "publicationNumber": "US10549476",
+      "publicationDate": "2020-02-04",
+      "assignee": [
+        "1366 TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "Emanuel M. Sachs",
+        "Peter E. Kane",
+        "Holly G. Gates",
+        "Damian W. Harris",
+        "Benjamin F. Polito",
+        "Hector A. Inirio"
+      ],
+      "applicationDate": "2012-09-22",
+      "claimsCount": 15,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Optics",
+        "Other special machines"
+      ],
+      "score": 13.305296
+    },
+    {
+      "id": "MY-PI2017001489-A0",
+      "title": [
+        "METHOD FOR MAINTAINING CONTAINED VOLUME OF MOLTEN MATERIAL FROM WHICH MATERIAL IS DEPLETED AND REPLENISHED"
+      ],
+      "abstract": "",
+      "publicationNumber": "MYPI2017001489",
+      "publicationDate": "2017-10-28",
+      "assignee": [
+        "1366 TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "RALF JONCZYK",
+        "RICHARD WALLACE",
+        "DAVID, S. HARVEY"
+      ],
+      "applicationDate": "2016-04-28",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 12.926552
+    },
+    {
+      "id": "MY-184998-A",
+      "title": [
+        "METHOD FOR MAINTAINING CONTAINED VOLUME OF MOLTEN MATERIAL FROM WHICH MATERIAL IS DEPLETED AND REPLENISHED"
+      ],
+      "abstract": ".A main crucible (11) of molten semiconductor (13) is replenished from a supply crucible (111; 711) maintained such that there are always two phases of solid (103) and liquid (113) semiconductor within the supply crucible (111; 711). Heat added to melt the solid material results in the solid material changing phase to liquid, but will not result in any significant elevation in temperature of the liquid within the supply crucible (111; 711). The temperature excursions are advantageously small, being less than that which would cause problems with the formed product. The solid product material (103) acts as a sort of temperature buffer, to maintain the supply liquid temperature automatically and passively at or very near to the phase transition temperature. For silicon, excursions are kept to less than 90?C, and even as small as 50?C. The methods also are useful with germanium. Prior art silicon methods that entirely melt the semiconductor experience excursions exceeding 100?C.",
+      "publicationNumber": "MY184998",
+      "publicationDate": "2021-04-30",
+      "assignee": [
+        "1366 TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "RALF JONCZYK",
+        "RICHARD, L. WALLACE",
+        "DAVID, S. HARVEY"
+      ],
+      "applicationDate": "2016-04-28",
+      "claimsCount": 29,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Other special machines"
+      ],
+      "score": 12.926552
+    },
+    {
+      "id": "IN-366532-B",
+      "title": [
+        "METHOD FOR MAINTAINING CONTAINED VOLUME OF MOLTEN MATERIAL FROM WHICH MATERIAL IS DEPLETED AND REPLENISHED [WO2016176418A1]"
+      ],
+      "abstract": "A main crucible of molten semiconductor is replenished from a supply crucible maintained such that there are always two phases of solid and liquid semiconductor within the supply crucible. Heat added to melt the solid material results in the solid material changing phase to liquid, but will not result in any significant elevation in temperature of the liquid within the supply crucible. The temperature excursions are advantageously small, being less than that which would cause problems with the formed product. The solid product material acts as a sort of temperature buffer, to maintain the supply liquid temperature automatically and passively at or very near to the phase transition temperature. For silicon, excursions are kept to less than 90\u00b0C, and even as small as 50\u00b0C. The methods also are useful with germanium. Prior art silicon methods that entirely melt the semiconductor experience excursions exceeding 100\u00b0C. [WO2016176418A1]",
+      "publicationNumber": "IN366532",
+      "publicationDate": "2021-05-12",
+      "assignee": [
+        "1366 TECHNOLOGIES INC"
+      ],
+      "inventors": [
+        "JONCZYK RALF",
+        "WALLACE RICHARD L.",
+        "HARVEY DAVID S."
+      ],
+      "applicationDate": "2017-10-05",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Surface technology, coating"
+      ],
+      "score": 12.926552
+    },
+    {
+      "id": "IN-201737035372-A",
+      "title": [
+        "METHOD FOR MAINTAINING CONTAINED VOLUME OF MOLTEN MATERIAL FROM WHICH MATERIAL IS DEPLETED AND REPLENISHED"
+      ],
+      "abstract": "A main crucible of molten semiconductor is replenished from a supply crucible maintained such that there are always two phases of solid and liquid semiconductor within the supply crucible. Heat added to melt the solid material results in the solid material changing phase to liquid but will not result in any significant elevation in temperature of the liquid within the supply crucible. The temperature excursions are advantageously small being less than that which would cause problems with the formed product. The solid product material acts as a sort of temperature buffer to maintain the supply liquid temperature automatically and passively at or very near to the phase transition temperature. For silicon excursions are kept to less than 90\u00b0C and even as small as 50\u00b0C. The methods also are useful with germanium. Prior art silicon methods that entirely melt the semiconductor experience excursions exceeding 100\u00b0C.",
+      "publicationNumber": "IN201737035372",
+      "publicationDate": "2017-11-24",
+      "assignee": [
+        "1366 TECHNOLOGIES INC"
+      ],
+      "inventors": [
+        "JONCZYK RALF",
+        "WALLACE RICHARD L.",
+        "HARVEY DAVID S."
+      ],
+      "applicationDate": "2017-10-05",
+      "claimsCount": 30,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Surface technology, coating"
+      ],
+      "score": 12.926552
+    },
+    {
+      "id": "HK-1245498-A1",
+      "title": [
+        "METHOD FOR MAINTAINING CONTAINED VOLUME OF MOLTEN MATERIAL FROM WHICH MATERIAL IS DEPLETED AND REPLENISHED"
+      ],
+      "abstract": "",
+      "publicationNumber": "HK1245498",
+      "publicationDate": "2018-08-24",
+      "assignee": [
+        "1366 TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "RALF JONCZYK",
+        "RICHARD, L. WALLACE",
+        "DAVID, S. HARVEY"
+      ],
+      "applicationDate": "2018-04-09",
+      "claimsCount": 30,
+      "independentClaimsCount": 2,
+      "technologyFields": [],
+      "score": 12.926552
+    },
+    {
+      "id": "CN-103958161-B",
+      "title": [
+        "\u7528\u4e8e\u5904\u7406\u3001\u52a0\u70ed\u548c\u51b7\u5374\u886c\u5e95\u7684\u65b9\u6cd5\u548c\u88c5\u7f6e\uff0c\u5728\u8be5\u886c\u5e95\u4e0a\u7531\u5de5\u5177\u5728\u70ed\u53ef\u6d41\u52a8\u6750\u6599\u6d82\u5c42\u4e2d\u5236\u5f97\u56fe\u6848\uff0c\u5305\u62ec\u886c\u5e95\u8fd0\u8f93\u3001\u5de5\u5177\u6401\u7f6e\u3001\u5de5\u5177\u5f20\u7d27\u4ee5\u53ca\u5de5\u5177\u9000\u56de"
+      ],
+      "abstract": "\u5de5\u4ef6\u5229\u7528\u591a\u5b54\u76ae\u5e26\u8fd0\u9001\uff0c\u8be5\u76ae\u5e26\u5c06\u5de5\u4ef6\u4f20\u9001\u5230\u5361\u76d8\uff0c\u5de5\u4ef6\u901a\u8fc7\u771f\u7a7a\u4fdd\u6301\u5728\u5361\u76d8\u4e0a\u3002\u76ae\u5e26\u53ef\u4e3a\u591a\u5b54PTFE(\u805a\u56db\u6c1f\u4e59\u70ef)\u3002\u67d4\u6027\u5370\u6a21\u5728\u5176\u65bd\u52a0\u81f3\u5de5\u4ef6\u4e4b\u524d\u88ab\u9884\u70ed\uff0c\u901a\u8fc7\u4f8b\u5982\u7528\u771f\u7a7a\u5c06\u5370\u6a21\u62c9\u5411\u53d7\u70ed\u677f\u3002",
+      "publicationNumber": "CN103958161",
+      "publicationDate": "2017-09-08",
+      "assignee": [
+        "1366 TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "E.M. Sachs",
+        "P.E. Kane",
+        "H.G. Gates",
+        "D.W. Harris",
+        "B.F. Polito",
+        "INIRIO HECTOR A."
+      ],
+      "applicationDate": "2012-09-22",
+      "claimsCount": 14,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Other special machines"
+      ],
+      "score": 12.903374
+    },
+    {
+      "id": "US-9419167-B2",
+      "title": [
+        "Making semiconductor bodies from molten material using a free-standing interposer sheet"
+      ],
+      "abstract": "An interposer sheet can be used for making semiconductor bodies, such as of silicon, such as for solar cell use. It is free-standing, very thin, flexible, porous and able to withstand the chemical and thermal environment of molten semiconductor without degradation. It is typically of a ceramic material, such as silica, silicon nitride, silicon oxynitride, silicon oxycarbide, silicon carbide, silicon carbonitride, silicon oxycarbonitride and others. It is provided between a forming surface of a mold sheet, and the molten material from which a semiconductor body will be formed. It may be secured to the forming surface or deposited upon the melt. The interposer sheet suppresses grain nucleation, and limits heat flow from the melt. It promotes separation of the semiconductor body from the forming surface. It can be fabricated before its use. Because free-standing and not adhered to the forming surface, problems of mismatch of CTE are minimized. The interposer sheet and semiconductor body are free to expand and contract relatively independently of the forming surface.",
+      "publicationNumber": "US9419167",
+      "publicationDate": "2016-08-16",
+      "assignee": [
+        "1366 TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "Ralf Jonczyk",
+        "Emanuel M. Sachs"
+      ],
+      "applicationDate": "2011-12-01",
+      "claimsCount": 14,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Materials, metallurgy",
+        "Semiconductors",
+        "Solar energy",
+        "Surface technology, coating"
+      ],
+      "score": 12.808184
+    },
+    {
+      "id": "US-9815072-B2",
+      "title": [
+        "Apparatus for depositing a thin layer of polymer resist on a substrate"
+      ],
+      "abstract": "The present inventions relate to the formation of a thin polymer film on a substrate. Apparatus is described for transforming a solid polymer resist into an aerosol of small particles, electrostatically charging and depositing the particles onto a substrate, and flowing the particles into a continuous layer. Apparatus is further described for transforming solid resist into an aerosol of small particles by heating the resist to form a low viscosity liquid such as is compatible with nebulization and applying the techniques of jet or impact nebulization and aerosol particle sizing to form the aerosol. A method is further described of using ionized gas to confer charge onto the aerosol particles and using a progression of charging devices establish an electric field directing the flow of charged particles to the substrate. The progression of charging devices and associated apparatus results in high collection efficiency for the aerosol particles.",
+      "publicationNumber": "US9815072",
+      "publicationDate": "2017-11-14",
+      "assignee": [
+        "1366 TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "Guy M. Danner",
+        "Vladimir S. Tarasov",
+        "Peter E. Kane",
+        "Peter G. Madden",
+        "Holly G. Gates",
+        "Emanuel M. Sachs"
+      ],
+      "applicationDate": "2012-10-12",
+      "claimsCount": 15,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Chemical engineering",
+        "Micro-structural and nano-technology",
+        "Optics",
+        "Semiconductors",
+        "Surface technology, coating"
+      ],
+      "score": 12.755699
+    },
+    {
+      "id": "MY-185093-A",
+      "title": [
+        "APPARATUS AND PROCESS FOR DEPOSITING A THIN LAYER OF RESIST ON A SUBSTRATE"
+      ],
+      "abstract": "The present inventions relate to the formation of a thin polymer film on a substrate (120). Apparatus is described for transforming a solid polymer resist into an aerosol of small particles, electrostatically charging and depositing the particles onto a substrate (120), and flowing the particles into a continuous layer. Apparatus is further described for transforming solid resist into an aerosol of small particles by heating the resist to form a low viscosity liquid such as is compatible with nebulization and applying the techniques of jet or impact nebulization and aerosol particle sizing to form the aerosol. A method is further described of using ionized gas to confer charge onto the aerosol particles and using a progression of charging devices establish an electric field (403) directing the flow of charged particles to the substrate (120). The progression of charging devices and associated apparatus results in high collection efficiency for the aerosol particles. (Figure 1)",
+      "publicationNumber": "MY185093",
+      "publicationDate": "2021-04-30",
+      "assignee": [
+        "1366 TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "DANNER,GUY M.",
+        "GATES,HOLLY G.",
+        "TARASOV,VLADIMIR S.",
+        "KANE,PETER E.",
+        "MADDEN,PETER G.",
+        "SACHS,EMANUEL M."
+      ],
+      "applicationDate": "2012-10-12",
+      "claimsCount": 14,
+      "independentClaimsCount": 3,
+      "technologyFields": [],
+      "score": 12.755699
+    },
+    {
+      "id": "HK-1204344-B",
+      "title": [
+        "APPARATUS AND PROCESS FOR DEPOSITING A THIN LAYER OF RESIST ON A SUBSTRATE"
+      ],
+      "abstract": "",
+      "publicationNumber": "HK1204344",
+      "publicationDate": "2018-04-20",
+      "assignee": [
+        "1366 TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "GUY, M. DANNER",
+        "HOLLY, G. GATES",
+        "Vladimir, S. TARASOV",
+        "Peter, E. KANE",
+        "PETER, G. MADDEN",
+        "EMANUEL, M. SACHS"
+      ],
+      "applicationDate": "2015-05-22",
+      "claimsCount": 26,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Surface technology, coating"
+      ],
+      "score": 12.755699
+    },
+    {
+      "id": "HK-1165094-B",
+      "title": [
+        "DISPENSING LIQUID CONTAINING MATERIAL TO PATTERNED SURFACES USING A DISPENSING TUBE"
+      ],
+      "abstract": "",
+      "publicationNumber": "HK1165094",
+      "publicationDate": "2016-05-27",
+      "assignee": [
+        "1366 TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "EMANUEL, M. SACHS",
+        "RICHARD, L. WALLACE",
+        "JAMES, F. BREDT",
+        "BENJAMIN, F. POLITO",
+        "ALI ERSEN"
+      ],
+      "applicationDate": "2012-06-07",
+      "claimsCount": 23,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Semiconductors"
+      ],
+      "score": 12.755699
+    },
+    {
+      "id": "EP-2766130-B1",
+      "title": [
+        "APPARATUS AND PROCESS FOR DEPOSITING A THIN LAYER OF RESIST ON A SUBSTRATE"
+      ],
+      "abstract": "The present inventions relate to the formation of a thin polymer film on a substrate. Apparatus is described for transforming a solid polymer resist into an aerosol of small particles, electrostatically charging and depositing the particles onto a substrate, and flowing the particles into a continuous layer. Apparatus is further described for transforming solid resist into an aerosol of small particles by heating the resist to form a low viscosity liquid such as is compatible with nebulization and applying the techniques of jet or impact nebulization and aerosol particle sizing to form the aerosol. A method is further described of using ionized gas to confer charge onto the aerosol particles and using a progression of charging devices establish an electric field directing the flow of charged particles to the substrate. The progression of charging devices and associated apparatus results in high collection efficiency for the aerosol particles.",
+      "publicationNumber": "EP2766130",
+      "publicationDate": "2020-07-08",
+      "assignee": [
+        "1366 Technologies Inc."
+      ],
+      "inventors": [
+        "GUY M. DANNER",
+        "HOLLY G. GATES",
+        "VLADIMIR S. TARASOV",
+        "PETER E. KANE",
+        "PETER G. MADDEN",
+        "EMANUEL M. SACHS"
+      ],
+      "applicationDate": "2012-10-12",
+      "claimsCount": 17,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Materials, metallurgy",
+        "Micro-structural and nano-technology",
+        "Optics",
+        "Semiconductors",
+        "Surface technology, coating"
+      ],
+      "score": 12.755699
+    },
+    {
+      "id": "VN-51389-A1",
+      "title": [
+        "PH\u01af\u01a0NG PH\u00c1P T\u1ea0O L\u00c1T B\u00c1N D\u1eaaN M\u1eceNG, C\u00c1C L\u00c1T B\u00c1N D\u1eaaN V\u00c0 KHU\u00d4N R\u1ed6NG \u0110\u01af\u1ee2C T\u1ea0O H\u00ccNH \u0110\u1ec2 T\u1ea0O RA C\u00c1C L\u00c1T N\u00c0Y"
+      ],
+      "abstract": "S\u00e1ng ch\u1ebf \u0111\u1ec1 c\u1eadp \u0111\u1ebfn ph\u01b0\u01a1ng ph\u00e1p t\u1ea1o l\u00e1t b\u00e1n d\u1eabn m\u1ecfng, c\u00e1c l\u00e1t b\u00e1n d\u1eabn v\u00e0 khu\u00f4n r\u1ed7ng \u0111\u01b0\u1ee3c t\u1ea1o h\u00ecnh \u0111\u1ec3 t\u1ea1o ra c\u00e1c l\u00e1t n\u00e0y. L\u00e1t b\u00e1n d\u1eabn c\u00f3 c\u00e1c v\u00f9ng \u0111\u01b0\u1ee3c ki\u1ec3m so\u00e1t c\u1ee5c b\u1ed9 m\u00e0 t\u01b0\u01a1ng \u0111\u1ed1i d\u00e0y h\u01a1n c\u00e1c v\u00f9ng kh\u00e1c. V\u00f9ng b\u00ean trong c\u00f3 \u0111\u1ed9 d\u00e0y nh\u1ecf h\u01a1n 180 micr\u00f4met, \u0111\u1ebfn m\u1ee9c 50 micr\u00f4met, v\u1edbi ph\u1ea7n d\u00e0y c\u00f3 \u0111\u1ed9 d\u00e0y t\u1eeb 180 \u0111\u1ebfn 250 micr\u00f4met. L\u00e1t m\u1ecfng c\u00f3 hi\u1ec7u su\u1ea5t cao h\u01a1n. V\u00f9ng bao ngo\u00e0i d\u00e0y t\u1ea1o ra \u0111\u1ed9 b\u1ec1n x\u1eed l\u00fd. C\u00e1c s\u1ecdc b\u1ebfn v\u00e0 \u0111\u1ea3o d\u00e0y h\u01a1n l\u00e0 \u0111\u1ec3 n\u1ed1i b\u1eb1ng c\u00e1ch m\u1ea1 kim lo\u1ea1i. L\u00e1t c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c s\u1ea3n xu\u1ea5t tr\u1ef1c ti\u1ebfp t\u1eeb v\u1eadt li\u1ec7u n\u00f3ng ch\u1ea3y tr\u00ean khu\u00f4n c\u00f3 c\u00e1c v\u00f9ng c\u00f3 xu h\u01b0\u1edbng tho\u00e1t nhi\u1ec7t kh\u00e1c nhau \u0111\u01b0\u1ee3c b\u1ed1 tr\u00ed \u1edf c\u00e1c v\u1ecb tr \u00ed c\u00f3 \u0111\u1ed9 d\u00e0y t\u01b0\u01a1ng \u1ee9ng. H\u00e0m l\u01b0\u1ee3ng oxy xen k\u1ebd nh\u1ecf h\u01a1n 6 x 10 17 nguy\u00ean t\u1eed/ml, t\u1ed1t h\u01a1n l\u00e0 nh\u1ecf h\u01a1n 2 x 10 17 , t\u1ed5ng h\u00e0m l\u01b0\u1ee3ng oxy t\u1ed5ng nh\u1ecf h\u01a1n 8,75 x 10 17 nguy\u00ean t\u1eed/ml, t\u1ed1t h\u01a1n l\u00e0 nh\u1ecf h\u01a1n 5,25 x 10 17 . C\u00e1c v\u00f9ng d\u00e0y h\u01a1n t\u1ea1o n\u00ean c\u00e1c v\u00f9ng khu\u00f4n li\u1ec1n k\u1ec1 c\u00f3 xu h\u01b0\u1edbng tho\u00e1t nhi\u1ec7t t\u01b0\u01a1ng \u0111\u1ed1i cao; c\u00e1c v\u00f9ng li\u1ec1n k\u1ec1 v\u00f9ng m\u1ecfng c\u00f3 xu h\u01b0\u1edbng tho\u00e1t nhi\u1ec7t \u00edt h\u01a1n. C\u00e1c v\u00f9ng khu\u00f4n d\u00e0y c\u00f3 xu h\u01b0\u1edbng tho\u00e1t nhi\u1ec7t cao h\u01a1n. C\u00e1c v\u1eadt li\u1ec7u ch\u1ee9c n\u0103ng tr\u00ean khu\u00f4n c\u0169ng c\u00f3 xu h\u01b0\u1edbng tho\u00e1t nhi\u1ec7t kh\u00e1c nhau.",
+      "publicationNumber": "VN51389",
+      "publicationDate": "2017-03-27",
+      "assignee": [
+        "1366 TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "RICHARD, L. WALLACE",
+        "G.D. STEPHEN HUDELSON",
+        "EMANUEL, M. SACHS",
+        "RALF JONCZYK",
+        "Adam, L. LORENZ"
+      ],
+      "applicationDate": "2016-11-30",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 12.745595
+    },
+    {
+      "id": "VN-10022659-B",
+      "title": [
+        "PH\u01af\u01a0NG PH\u00c1P T\u1ea0O L\u00c1T B\u00c1N D\u1eaaN M\u1eceNG, C\u00c1C L\u00c1T B\u00c1N D\u1eaaN V\u00c0 KHU\u00d4N R\u1ed6NG \u0110\u01af\u1ee2C T\u1ea0O H\u00ccNH \u0110\u1ec2 T\u1ea0O RA C\u00c1C L\u00c1T N\u00c0Y"
+      ],
+      "abstract": "S\u00e1ng ch\u1ebf \u0111\u1ec1 c\u1eadp \u0111\u1ebfn ph\u01b0\u01a1ng ph\u00e1p t\u1ea1o l\u00e1t b\u00e1n d\u1eabn m\u1ecfng, c\u00e1c l\u00e1t b\u00e1n d\u1eabn v\u00e0 khu\u00f4n r\u1ed7ng \u0111\u01b0\u1ee3c t\u1ea1o h\u00ecnh \u0111\u1ec3 t\u1ea1o ra c\u00e1c l\u00e1t n\u00e0y. L\u00e1t b\u00e1n d\u1eabn c\u00f3 c\u00e1c v\u00f9ng \u0111\u01b0\u1ee3c ki\u1ec3m so\u00e1t c\u1ee5c b\u1ed9 m\u00e0 t\u01b0\u01a1ng \u0111\u1ed1i d\u00e0y h\u01a1n c\u00e1c v\u00f9ng kh\u00e1c. V\u00f9ng b\u00ean trong c\u00f3 \u0111\u1ed9 d\u00e0y nh\u1ecf h\u01a1n 180 micr\u00f4met, \u0111\u1ebfn m\u1ee9c 50 micr\u00f4met, v\u1edbi ph\u1ea7n d\u00e0y c\u00f3 \u0111\u1ed9 d\u00e0y t\u1eeb 180 \u0111\u1ebfn 250 micr\u00f4met. L\u00e1t m\u1ecfng c\u00f3 hi\u1ec7u su\u1ea5t cao h\u01a1n. V\u00f9ng bao ngo\u00e0i d\u00e0y t\u1ea1o ra \u0111\u1ed9 b\u1ec1n x\u1eed l\u00fd. C\u00e1c b\u1ebfn v\u00e0 \u0111\u1ea3o d\u00e0y h\u01a1n l\u00e0 \u0111\u1ec3 n\u1ed1i b\u1eb1ng c\u00e1ch m\u1ea1 kim lo\u1ea1i. L\u00e1t c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c s\u1ea3n xu\u1ea5t tr\u1ef1c ti\u1ebfp t\u1eeb v\u1eadt li\u1ec7u n\u00f3ng ch\u1ea3y tr\u00ean khu\u00f4n c\u00f3 c\u00e1c v\u00f9ng c\u00f3 xu h\u01b0\u1edbng tho\u00e1t nhi\u1ec7t kh\u00e1c nhau \u0111\u01b0\u1ee3c b\u1ed1 tr\u00ed \u1edf c\u00e1c v\u1ecb tr\u00ed c\u00f3 \u0111\u1ed9 d\u00e0y t\u01b0\u01a1ng \u1ee9ng. H\u00e0m l\u01b0\u1ee3ng oxy xen k\u1ebd nh\u1ecf h\u01a1n 6 x 1017 nguy\u00ean t\u1eed/ml, t\u1ed1t h\u01a1n l\u00e0 nh\u1ecf h\u01a1n 2 x 1017 nguy\u00ean t\u1eed/ml, t\u1ed5ng h\u00e0m l\u01b0\u1ee3ng oxy t\u1ed5ng nh\u1ecf h\u01a1n 8,75 x 1017 nguy\u00ean t\u1eed/ml, t\u1ed1t h\u01a1n l\u00e0 nh\u1ecf h\u01a1n 5,25 x 1017 nguy\u00ean t\u1eed/ml. C\u00e1c v\u00f9ng d\u00e0y h\u01a1n t\u1ea1o n\u00ean c\u00e1c v\u00f9ng khu\u00f4n li\u1ec1n k\u1ec1 c\u00f3 xu h\u01b0\u1edbng tho\u00e1t nhi\u1ec7t t\u01b0\u01a1ng \u0111\u1ed1i cao; c\u00e1c v\u00f9ng li\u1ec1n k\u1ec1 v\u00f9ng m\u1ecfng c\u00f3 xu h\u01b0\u1edbng tho\u00e1t nhi\u1ec7t \u00edt h\u01a1n. C\u00e1c v\u00f9ng khu\u00f4n d\u00e0y c\u00f3 xu h\u01b0\u1edbng tho\u00e1t nhi\u1ec7t cao h\u01a1n. C\u00e1c v\u1eadt li\u1ec7u ch\u1ee9c n\u0103ng tr\u00ean khu\u00f4n c\u0169ng c\u00f3 xu h\u01b0\u1edbng tho\u00e1t nhi\u1ec7t kh\u00e1c nhau.",
+      "publicationNumber": "VN10022659",
+      "publicationDate": "2020-01-27",
+      "assignee": [
+        "1366 TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "SACHS EMANUEL M.",
+        "JONCZYK RALF",
+        "RALF JONCZYK",
+        "ADAM, M. LORENZ",
+        "HUDELSON G.D. STEPHEN"
+      ],
+      "applicationDate": "2016-11-30",
+      "claimsCount": 21,
+      "independentClaimsCount": 20,
+      "technologyFields": [],
+      "score": 12.745595
+    },
+    {
+      "id": "JP-2017519354-A5",
+      "title": [],
+      "abstract": "",
+      "publicationNumber": "JP2017519354",
+      "publicationDate": "2019-03-07",
+      "assignee": [],
+      "inventors": [],
+      "applicationDate": "2015-04-17",
+      "claimsCount": 22,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Semiconductors"
+      ],
+      "score": 12.745595
+    },
+    {
+      "id": "IN-522298-B",
+      "title": [
+        "METHODS AND APPARATI FOR MAKING THIN SEMI CONDUCTOR WAFERS WITH LOCALLY CONTROLLED REGIONS THAT ARE RELATIVELY THICKER THAN OTHER REGIONS AND SUCH WAFERS"
+      ],
+      "abstract": "17171717Semi conductor wafers with thin and thicker regions at controlled locations may be for Photovoltaics. The interior may be less than 180 microns or thinner to 50 microns with a thicker portion at 180 250 microns. Thin wafers have higher efficiency. A thicker perimeter provides handling strength. Thicker stripes landings and islands are for metallization coupling. Wafers may be made directly from a melt upon a template with regions of different heat extraction propensity arranged to correspond to locations of relative thicknesses. Interstitial oxygen is less than 6 x 10 atoms/cc preferably less than 2 x 10 total oxygen less than 8. 75 x 10 atoms/cc preferably less than 5. 25 x 10. Thicker regions form adjacent template regions having relatively higher heat extraction propensity; thinner regions adjacent regions with lesser extraction propensity. Thicker template regions have higher extraction propensity. Functional materials upon the template also have differing extraction propensities.",
+      "publicationNumber": "IN522298",
+      "publicationDate": "2024-03-13",
+      "assignee": [
+        "1366 TECHNOLOGIES INC"
+      ],
+      "inventors": [
+        "SACHS EMANUEL M",
+        "JONCZYK RALF",
+        "LORENZ ADAM L",
+        "WALLACE RICHARD L",
+        "HUDELSON G D STEPHEN"
+      ],
+      "applicationDate": "2016-11-24",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 12.745595
+    },
+    {
+      "id": "IN-201637040228-A",
+      "title": [
+        "METHODS AND APPARATI FOR MAKING THIN SEMI CONDUCTOR WAFERS WITH LOCALLY CONTROLLED REGIONS THAT ARE RELATIVELY THICKER THAN OTHER REGIONS AND SUCH WAFERS"
+      ],
+      "abstract": "17171717Semi conductor wafers with thin and thicker regions at controlled locations may be for Photovoltaics. The interior may be less than 180 microns or thinner to 50 microns with a thicker portion at 180 250 microns. Thin wafers have higher efficiency. A thicker perimeter provides handling strength. Thicker stripes landings and islands are for metallization coupling. Wafers may be made directly from a melt upon a template with regions of different heat extraction propensity arranged to correspond to locations of relative thicknesses. Interstitial oxygen is less than 6 x 10 atoms/cc preferably less than 2 x 10 total oxygen less than 8. 75 x 10 atoms/cc preferably less than 5. 25 x 10. Thicker regions form adjacent template regions having relatively higher heat extraction propensity; thinner regions adjacent regions with lesser extraction propensity. Thicker template regions have higher extraction propensity. Functional materials upon the template also have differing extraction propensities.",
+      "publicationNumber": "IN201637040228",
+      "publicationDate": "2017-04-28",
+      "assignee": [
+        "1366 TECHNOLOGIES INC"
+      ],
+      "inventors": [
+        "SACHS EMANUEL M.",
+        "JONCZYK RALF",
+        "LORENZ ADAM L.",
+        "WALLACE RICHARD L.",
+        "HUDELSON G.D. STEPHEN"
+      ],
+      "applicationDate": "2016-11-24",
+      "claimsCount": 29,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Semiconductors"
+      ],
+      "score": 12.745595
+    },
+    {
+      "id": "HK-40037021-A",
+      "title": [
+        "SEMI-CONDUCTOR WAFERS LONGER THAN INDUSTRY STANDARD SQUARE"
+      ],
+      "abstract": "",
+      "publicationNumber": "HK40037021",
+      "publicationDate": "2021-06-04",
+      "assignee": [
+        "1366 TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "ROBERTUS ANTONIUS STEEMAN"
+      ],
+      "applicationDate": "2021-03-01",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Machine tools",
+        "Semiconductors"
+      ],
+      "score": 12.745595
+    },
+    {
+      "id": "EP-3138130-B1",
+      "title": [
+        "METHODS AND APPARATI FOR MAKING THIN SEMI-CONDUCTOR WAFERS WITH LOCALLY CONTROLLED REGIONS THAT ARE RELATIVELY THICKER THAN OTHER REGIONS"
+      ],
+      "abstract": "Semi-conductor wafers with thin and thicker regions at controlled locations may be for Photovoltaics. The interior may be less than 180 microns or thinner, to 50 microns, with a thicker portion, at 180 - 250 microns. Thin wafers have higher efficiency. A thicker perimeter provides handling strength. Thicker stripes, landings and islands are for metallization coupling. Wafers may be made directly from a melt upon a template with regions of different heat extraction propensity arranged to correspond to locations of relative thicknesses. Interstitial oxygen is less than 6 x 1017 atoms/cc, preferably less than 2 x 1017, total oxygen less than 8. 75 x 1017 atoms/cc, preferably less than 5. 25 x 1017. Thicker regions form adjacent template regions having relatively higher heat extraction propensity; thinner regions adjacent regions with lesser extraction propensity. Thicker template regions have higher extraction propensity. Functional materials upon the template also have differing extraction propensities.",
+      "publicationNumber": "EP3138130",
+      "publicationDate": "2021-02-24",
+      "assignee": [
+        "1366 Technologies Inc."
+      ],
+      "inventors": [
+        "EMANUEL M. SACHS",
+        "RALF JONCZYK",
+        "ADAM L. LORENZ",
+        "RICHARD L. WALLACE",
+        "G. D. STEPHEN HUDELSON"
+      ],
+      "applicationDate": "2015-04-17",
+      "claimsCount": 8,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Semiconductors"
+      ],
+      "score": 12.745595
+    },
+    {
+      "id": "EP-2430653-B1",
+      "title": [
+        "POROUS LIFT-OFF LAYER FOR SELECTIVE REMOVAL OF DEPOSITED FILMS"
+      ],
+      "abstract": "A porous lift off layer facilitates removal of films from surfaces, such as semiconductors. A film is applied over a patterned porous layer, the layer comprising openings typically larger than the film thickness. The porous material and the film are then removed from areas where film is not intended. The porous layer can be provided as a slurry, dried to open porosities, or fugitive particles within a field, which disassociate upon the application of heat or solvent. The film can be removed by etchant that enters through porosities where the film does not bridge the spaces between solid portions, so that the etchant attacks both film surfaces",
+      "publicationNumber": "EP2430653",
+      "publicationDate": "2019-03-13",
+      "assignee": [
+        "1366 Technologies Inc."
+      ],
+      "inventors": [
+        "EMANUEL, M. SACHS",
+        "ANDREW, M. GABOR"
+      ],
+      "applicationDate": "2010-05-07",
+      "claimsCount": 14,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Semiconductors",
+        "Solar energy"
+      ],
+      "score": 12.745595
+    },
+    {
+      "id": "ES-2575382-T3",
+      "title": [
+        "Fabricaci\u00f3n de cuerpos semiconductores a partir de material fundido utilizando una chapa de interposici\u00f3n auto-sostenida"
+      ],
+      "abstract": "Procedimiento para realizar un cuerpo semiconductor (419) comprendiendo el procedimiento las etapas de: a. proporcionar un material semiconductor fundido (413), que presenta una superficie (415); b. proporcionar un molde poroso (45), que comprende una superficie de conformaci\u00f3n (46); c. proporcionar un chapa cer\u00e1mica auto sostenida (430) entre la superficie de conformaci\u00f3n (46) y el material fundido (413); d. poner en contacto la superficie de conformaci\u00f3n (46) con la chapa cer\u00e1mica (430) y la chapa cer\u00e1mica (430) con la superficie (415) del material fundido (413) durante un cierto per\u00edodo de contacto), de tal modo que un cuerpo (419) de material semiconductor (413) se solidifica en la chapa cer\u00e1mica (430); y e. retirar el cuerpo solidificado (419) del contacto con el material semiconductor fundido (413) mientras se encuentra todav\u00eda en contacto con la chapa cer\u00e1mica (430), en el que la chapa cer\u00e1mica (430) es porosa y preferentemente el grado de porosidad se encuentra comprendido entre el 1 por ciento y el 80 %.",
+      "publicationNumber": "ES2575382",
+      "publicationDate": "2016-06-28",
+      "assignee": [
+        "1366 TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "RALF JONCZYK",
+        "EMANUEL M. SACHS"
+      ],
+      "applicationDate": "2011-12-01",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Semiconductors",
+        "Surface technology, coating"
+      ],
+      "score": 12.676533
+    },
+    {
+      "id": "VN-84538-A1",
+      "title": [
+        "L\u00c1T B\u00c1N D\u1eaaN V\u00c0 B\u1ed8 THU N\u0102NG L\u01af\u1ee2NG M\u1eb6T TR\u1edcI BAO G\u1ed2M L\u00c1T B\u00c1N D\u1eaaN N\u00c0Y"
+      ],
+      "abstract": "S\u00e1ng ch\u1ebf \u0111\u1ec1 c\u1eadp \u0111\u1ebfn b\u1ed9 thu n\u0103ng l\u01b0\u1ee3ng m\u1eb7t tr\u1eddi, l\u00e1t b\u00e1n d\u1eabn v\u00e0 ph\u01b0\u01a1ng ph\u00e1p ch\u1ebf t\u1ea1o l\u00e1t b\u00e1n d\u1eabn. L\u00e1t b\u00e1n d\u1eabn h\u00ecnh th\u00e0nh tr\u00ean khu\u00f4n ch\u1ee9a ch\u1ea5t pha t\u1ea1p. Ch\u1ea5t pha t\u1ea1p k\u00edch th\u00edch v\u00f9ng n\u00f3ng ch\u1ea3y li\u1ec1n s\u00e1t khu\u00f4n. \u1ede \u0111\u00f3, n\u1ed3ng \u0111\u1ed9 ch\u1ea5t pha t\u1ea1p \u1edf \u0111\u00f3 cao h\u01a1n \u1edf kh\u1ed1i n\u00f3ng ch\u1ea3y. L\u00e1t b\u1eaft \u0111\u1ea7u h\u00f3a r\u1eafn. Ch\u1ea5t pha t\u1ea1p khu\u1ebfch t\u00e1n k\u00e9m trong ch\u1ea5t b\u00e1n d\u1eabn r\u1eafn. Sau khi l\u00e1t b\u1eaft \u0111\u1ea7u h\u00f3a r\u1eafn, ch\u1ea5t pha t\u1ea1p c\u00f3 th\u1ec3 kh\u00f4ng h\u00f2a v\u00e0o v\u1eadt li\u1ec7u n\u00f3ng ch\u1ea3y. Sau \u0111\u00f3, n\u1ed3ng \u0111\u1ed9 ch\u1ea5t pha t\u1ea1p trong ph\u1ea7n n\u00f3ng ch\u1ea3y s\u00e1t m\u1eb7t l\u00e1t th\u1ea5p h\u01a1n n\u1ed3ng \u0111\u1ed9 ch\u1ea5t pha t\u1ea1p c\u00f3 m\u1eb7t trong l\u00e1t b\u1eaft \u0111\u1ea7u h\u00ecnh th\u00e0nh. C\u00e1c v\u00f9ng l\u00e1t m\u1edbi t\u0103ng l\u00ean t\u1eeb v\u00f9ng n\u00f3ng ch\u1ea3y m\u00e0 n\u1ed3ng \u0111\u1ed9 ch\u1ea5t pha t\u1ea1p c\u1ee7a n\u00f3 gi\u1ea3m theo th\u1eddi gian. Vi\u1ec7c n\u00e0y h\u00ecnh th\u00e0nh gra\u0111ien ch\u1ea5t pha t\u1ea1p trong l\u00e1t c\u00f3 n\u1ed3ng \u0111\u1ed9 cao h\u01a1n s\u00e1t khu\u00f4n. Gra\u0111ien c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c \u0111i\u1ec1u ch\u1ec9nh. Gra\u0111ien sinh ra tr\u01b0\u1eddng m\u00e0 c\u00f3 th\u1ec3 c\u00f3 ch\u1ee9c n\u0103ng nh\u01b0 tr\u01b0\u1eddng tr\u00f4i ho\u1eb7c tr\u01b0\u1eddng m\u1eb7t sau. C\u00e1c b\u1ed9 thu n\u0103ng l\u01b0\u1ee3ng m\u1eb7t tr\u1eddi c\u00f3 th\u1ec3 c\u00f3 d\u00e2y d\u1eabn d\u1ea1ng l\u01b0\u1edbi h\u1edf v\u00e0 v\u1eadt ph\u1ea3n x\u1ea1 quang t\u1ed1t h\u01a1n \u1edf m\u1eb7t sau, c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c t\u1ea1o ra b\u1edfi tr\u01b0\u1eddng m\u1eb7t sau b\u00ean trong.",
+      "publicationNumber": "VN84538",
+      "publicationDate": "2022-02-25",
+      "assignee": [
+        "1366 TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "RALF JONCZYK",
+        "BRIAN, D. KERNAN",
+        "G. D. STEPHEN HUDELSON",
+        "ADAM, M. LORENZ",
+        "EMANUEL, M. SACHS"
+      ],
+      "applicationDate": "2015-10-14",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 12.662523
+    },
+    {
+      "id": "VN-54477-A1",
+      "title": [
+        "B\u1ed8 THU N\u0102NG L\u01af\u1ee2NG M\u1eb6T TR\u1edcI, L\u00c1T B\u00c1N D\u1eaaN V\u00c0 PH\u01af\u01a0NG PH\u00c1P S\u1ea2N XU\u1ea4T L\u00c1T B\u00c1N D\u1eaaN"
+      ],
+      "abstract": "S\u00e1ng ch\u1ebf \u0111\u1ec1 c\u1eadp \u0111\u1ebfn b\u1ed9 thu n\u0103ng l\u01b0\u1ee3ng m\u1eb7t tr\u1eddi, l\u00e1t b\u00e1n d\u1eabn v\u00e0 ph\u01b0\u01a1ng ph\u00e1p s\u1ea3n xu\u1ea5t l\u00e1t b\u00e1n d\u1eabn. L\u00e1t b\u00e1n d\u1eabn h\u00ecnh th\u00e0nh tr\u00ean khu\u00f4n ch\u1ee9a t\u1ea1p ch\u1ea5t. T\u1ea1p ch\u1ea5t k\u00edch th\u00edch v\u00f9ng n\u00f3ng ch\u1ea3y li\u1ec1n s\u00e1t khu\u00f4n. N\u1ed3ng \u0111\u1ed9 t\u1ea1p ch\u1ea5t \u1edf \u0111\u00f3 cao h\u01a1n \u1edf kh\u1ed1i n\u00f3ng ch\u1ea3y. L\u00e1t b\u1eaft \u0111\u1ea7u \u0111\u00f4ng c\u1ee9ng. T\u1ea1p ch\u1ea5t ph\u00e2n t\u00e1n k\u00e9m trong ch\u1ea5t b\u00e1n d \u1eabn r\u1eafn. Sau khi l\u00e1t b\u1eaft \u0111\u1ea7u \u0111\u00f4ng c\u1ee9ng, t\u1ea1p c h\u1ea5t kh\u00f4ng th\u1ec3 h\u00f2a v\u00e0o v\u1eadt li\u1ec7u n\u00f3ng ch\u1ea3y. Sau \u0111\u00f3, n\u1ed3ng \u0111\u1ed9 t\u1ea1p c h\u1ea5t trong v\u1eadt li\u1ec7u n\u00f3ng ch\u1ea3y s\u00e1t m\u1eb7t l\u00e1t th\u1ea5p h\u01a1n n\u1ed3ng \u0111\u1ed9 t\u1ea1p ch\u1ea5t c\u00f3 m\u1eb7t trong l\u00e1t b\u1eaft \u0111\u1ea7u h\u00ecnh th\u00e0nh. C\u00e1c v\u00f9ng l\u00e1t m\u1edbi l\u1edbn d\u1ea7n t\u01b0 v\u00f9ng n\u00f3ng ch\u1ea3y m\u00e0 n\u1ed3ng \u0111\u1ed9 t\u1ea1p ch\u1ea5t c\u1ee7a n\u00f3 gi\u1ea3m theo th\u1eddi gian. Vi\u1ec7c n\u00e0y h\u00ecnh th\u00e0nh gra\u0111ien t\u1ea1p ch\u1ea5t trong l\u00e1t c\u00f3 n\u1ed3ng \u0111\u1ed9 c ao h\u01a1n s\u00e1t khu\u00f4n. Gra\u0111ien c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c \u0111i\u1ec1u ch\u1ec9nh. Gra\u0111ien sinh ra tr\u01b0\u1eddng m\u00e0 c \u00f3 th\u1ec3 c \u00f3 ch\u1ee9c n\u0103ng nh\u01b0 tr\u01b0\u1eddng tr\u00f4i ho\u1eb7c tr\u01b0\u1eddng m\u1eb7t sau. C\u00e1c b\u1ed9 thu n\u0103ng l\u01b0\u1ee3ng m\u1eb7t tr\u1eddi c\u00f3 th\u1ec3 c\u00f3 d\u00e2y d\u1eabn d\u1ea1ng l\u01b0\u1edbi h\u1edf v\u00e0 v\u1eadt ph\u1ea3n x\u1ea1 quang t\u1ed1t h\u01a1n \u1edf m\u1eb7t sau, c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c t\u1ea1o ra b\u1edfi tr\u01b0\u1eddng m\u1eb7t sau b\u00ean trong.",
+      "publicationNumber": "VN54477",
+      "publicationDate": "2017-10-25",
+      "assignee": [],
+      "inventors": [
+        "RALF JONCZYK",
+        "EMANUEL, M. SACHS",
+        "BRIAN, D. KERNAN",
+        "ADAM, M. LORENZ",
+        "G.D. STEPHEN HUDELSON"
+      ],
+      "applicationDate": "2017-08-07",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 12.662523
+    },
+    {
+      "id": "VN-10031582-B",
+      "title": [
+        "PH\u01af\u01a0NG PH\u00c1P CH\u1ebe T\u1ea0O L\u00c1T B\u00c1N D\u1eaaN"
+      ],
+      "abstract": "S\u00e1ng ch\u1ebf \u0111\u1ec1 c\u1eadp \u0111\u1ebfn b\u1ed9 thu n\u0103ng l\u01b0\u1ee3ng m\u1eb7t tr\u1eddi, l\u00e1t b\u00e1n d\u1eabn v\u00e0 ph\u01b0\u01a1ng ph\u00e1p ch\u1ebf t\u1ea1o l\u00e1t b\u00e1n d\u1eabn. L\u00e1t b\u00e1n d\u1eabn h\u00ecnh th\u00e0nh tr\u00ean khu\u00f4n ch\u1ee9a ch\u1ea5t pha t\u1ea1p. Ch\u1ea5t pha t\u1ea1p k\u00edch th\u00edch v\u00f9ng n\u00f3ng ch\u1ea3y li\u1ec1n s\u00e1t khu\u00f4n. \u1ede \u0111\u00f3, n\u1ed3ng \u0111\u1ed9 ch\u1ea5t pha t\u1ea1p \u1edf \u0111\u00f3 cao h\u01a1n \u1edf kh\u1ed1i n\u00f3ng ch\u1ea3y. L\u00e1t b\u1eaft \u0111\u1ea7u h\u00f3a r\u1eafn. Ch\u1ea5t pha t\u1ea1p khu\u1ebfch t\u00e1n k\u00e9m trong ch\u1ea5t b\u00e1n d\u1eabn r\u1eafn. Sau khi l\u00e1t b\u1eaft \u0111\u1ea7u h\u00f3a r\u1eafn, ch\u1ea5t pha t\u1ea1p c\u00f3 th\u1ec3 kh\u00f4ng h\u00f2a v\u00e0o v\u1eadt li\u1ec7u n\u00f3ng ch\u1ea3y. Sau \u0111\u00f3, n\u1ed3ng \u0111\u1ed9 ch\u1ea5t pha t\u1ea1p trong ph\u1ea7n n\u00f3ng ch\u1ea3y s\u00e1t m\u1eb7t l\u00e1t th\u1ea5p h\u01a1n n\u1ed3ng \u0111\u1ed9 ch\u1ea5t pha t\u1ea1p c\u00f3 m\u1eb7t trong l\u00e1t b\u1eaft \u0111\u1ea7u h\u00ecnh th\u00e0nh. C\u00e1c v\u00f9ng l\u00e1t m\u1edbi t\u0103ng l\u00ean t\u1eeb v\u00f9ng n\u00f3ng ch\u1ea3y m\u00e0 n\u1ed3ng \u0111\u1ed9 ch\u1ea5t pha t\u1ea1p c\u1ee7a n\u00f3 gi\u1ea3m theo th\u1eddi gian. Vi\u1ec7c n\u00e0y h\u00ecnh th\u00e0nh gra\u0111ien ch\u1ea5t pha t\u1ea1p trong l\u00e1t c\u00f3 n\u1ed3ng \u0111\u1ed9 cao h\u01a1n s\u00e1t khu\u00f4n. Gra\u0111ien c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c \u0111i\u1ec1u ch\u1ec9nh. Gra\u0111ien sinh ra tr\u01b0\u1eddng m\u00e0 c\u00f3 th\u1ec3 c\u00f3 ch\u1ee9c n\u0103ng nh\u01b0 tr\u01b0\u1eddng tr\u00f4i ho\u1eb7c tr\u01b0\u1eddng m\u1eb7t sau. C\u00e1c b\u1ed9 thu n\u0103ng l\u01b0\u1ee3ng m\u1eb7t tr\u1eddi c\u00f3 th\u1ec3 c\u00f3 d\u00e2y d\u1eabn d\u1ea1ng l\u01b0\u1edbi h\u1edf v\u00e0 v\u1eadt ph\u1ea3n x\u1ea1 quang t\u1ed1t h\u01a1n \u1edf m\u1eb7t sau, c\u00f3 th\u1ec3 \u0111\u01b0\u1ee3c t\u1ea1o ra b\u1edfi tr\u01b0\u1eddng m\u1eb7t sau b\u00ean trong.",
+      "publicationNumber": "VN10031582",
+      "publicationDate": "2022-04-25",
+      "assignee": [
+        "1366 TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "RALF JONCZYK",
+        "BRIAN, D. KERNAN",
+        "G.D. STEPHEN HUDELSON",
+        "ADAM, M. LORENZ",
+        "EMANUEL, M. SACHS"
+      ],
+      "applicationDate": "2015-10-14",
+      "claimsCount": 20,
+      "independentClaimsCount": 20,
+      "technologyFields": [],
+      "score": 12.662523
+    },
+    {
+      "id": "MY-PI2017001016-A0",
+      "title": [
+        "METHODS FOR CREATING A SEMICONDUCTOR WAFER HAVING PROFILED DOPING AND WAFERS AND SOLAR CELL COMPONENTS HAVING A PROFILED FIELD, SUCH AS DRIFT AND BACK SURFACE"
+      ],
+      "abstract": "A SEMICONDUCTOR WAFER FORMS ON A MOLD CONTAINING A DOPANT. THE DOPANT DOPES A MELT REGION ADJACENT THE MOLD. THERE, DOPANT CONCENTRATION IS HIGHER THAN IN THE MELT BULK. A WAFER STARTS SOLIDIFYING. DOPANT DIFFUSES POORLY IN SOLID SEMICONDUCTOR. AFTER A WAFER STARTS SOLIDIFYING, DOPANT CANNOT ENTER THE MELT. AFTERWARDS, THE CONCENTRATION OF DOPANT IN THE MELT ADJACENT THE WAFER SURFACE IS LESS THAN WHAT WAS PRESENT WHERE THE WAFER BEGAN TO FORM. NEW WAFER REGIONS GROW FROM A MELT REGION WHOSE DOPANT CONCENTRATION LESSENS OVER TIME. THIS ESTABLISHES A DOPANT GRADIENT IN THE WAFER, WITH HIGHER CONCENTRATION ADJACENT THE MOLD. THE GRADIENT CAN BE TAILORED. A GRADIENT GIVES RISE TO A FIELD THAT CAN FUNCTION AS A DRIFT OR BACK SURFACE FIELD. SOLAR COLLECTORS CAN HAVE OPEN GRID CONDUCTORS AND BETTER OPTICAL REFLECTORS ON THE BACK SURFACE, MADE POSSIBLE BY THE INTRINSIC BACK SURFACE FIELD. (FIG. 5)",
+      "publicationNumber": "MYPI2017001016",
+      "publicationDate": "2016-07-26",
+      "assignee": [
+        "1366 TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "RALF JONCZYK",
+        "BRIAN D. KERNAN",
+        "G.D. Stephen Hudelson",
+        "ADAM M. LORENZ",
+        "EMANUEL M. SACHS"
+      ],
+      "applicationDate": "2015-10-14",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 12.662523
+    },
+    {
+      "id": "MY-205282-A",
+      "title": [
+        "METHODS FOR CREATING A SEMICONDUCTOR WAFER HAVING PROFILED DOPING AND WAFERS AND SOLAR CELL COMPONENTS HAVING A PROFILED FIELD, SUCH AS DRIFT AND BACK SURFACE"
+      ],
+      "abstract": "A semiconductor wafer forms on a mold (110) containing a dopant. The dopant dopes a melt region (118) adjacent the mold (110). There, dopant concentration is higher than in the melt bulk. A wafer (100) starts solidifying. Dopant diffuses poorly in solid semiconductor. After a wafer starts solidifying, dopant can not enter the melt. Afterwards, the concentration of dopant in the melt adjacent the wafer surface is less than what was present where the wafer (100) began to form. New wafer regions grow from a melt region (118) whose dopant concentration lessens over time. This establishes a dopant gradient in the wafer (100), with higher concentration adjacent the mold (110). The gradient can be tailored. A gradient gives rise to a field that can function as a drift or back surface field. Solar collectors can have open grid conductors and better optical reflectors on the back surface, made possible by the intrinsic back surface field.",
+      "publicationNumber": "MY205282",
+      "publicationDate": "2024-10-10",
+      "assignee": [
+        "1366 TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "RALF JONCZYK",
+        "BRIAN D. KERNAN",
+        "G.D. Stephen Hudelson",
+        "ADAM, M. LORENZ",
+        "EMANUEL M. SACHS"
+      ],
+      "applicationDate": "2015-10-14",
+      "claimsCount": 26,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Semiconductors",
+        "Solar energy",
+        "Surface technology, coating"
+      ],
+      "score": 12.662523
+    },
+    {
+      "id": "MY-186316-A",
+      "title": [
+        "METHODS FOR CREATING A SEMICONDUCTOR WAFER HAVING PROFILED DOPING AND WAFERS AND SOLAR CELL COMPONENTS HAVING A PROFILED FIELD, SUCH AS DRIFT AND BACK SURFACE"
+      ],
+      "abstract": "A semiconductor wafer forms on a mold (110) containing a dopant. The dopant dopes a melt region (118) adjacent the mold (110). There, dopant concentration is higher than in the melt bulk. A wafer (100) starts solidifying. Dopant diffuses poorly in solid semiconductor. After a wafer (100) starts solidifying, dopant cannot enter the melt. Afterwards, the concentration of dopant in the melt adjacent the wafer surface is less than what was present where the wafer (100) began to form. New wafer regions grow from a melt region (118) whose dopant concentration lessens over time. This establishes a dopant gradient in the wafer (100), with higher concentration adjacent the mold (110). The gradient can be tailored. A gradient gives rise to a field that can function as a drift or back surface field. Solar collectors can have open grid conductors and better optical reflectors on the back surface, made possible by the intrinsic back surface field.",
+      "publicationNumber": "MY186316",
+      "publicationDate": "2021-07-08",
+      "assignee": [
+        "1366 TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "RALF JONCZYK",
+        "BRIAN D. KERNAN",
+        "G.D. Stephen Hudelson",
+        "ADAM L. LORENZ",
+        "EMANUEL M. SACHS"
+      ],
+      "applicationDate": "2015-10-14",
+      "claimsCount": 18,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Semiconductors",
+        "Solar energy"
+      ],
+      "score": 12.662523
+    },
+    {
+      "id": "JP-2018510493-A5",
+      "title": [],
+      "abstract": "",
+      "publicationNumber": "JP2018510493",
+      "publicationDate": "2018-11-22",
+      "assignee": [],
+      "inventors": [],
+      "applicationDate": "2015-10-14",
+      "claimsCount": 30,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Semiconductors",
+        "Solar energy",
+        "Surface technology, coating"
+      ],
+      "score": 12.662523
+    },
+    {
+      "id": "IN-514573-B",
+      "title": [
+        "SEMICONDUCTOR WAFER FOR USE AS A SOLAR COLLECTOR AND SOLAR COLLECTOR"
+      ],
+      "abstract": "A semiconductor wafer forms on a mold containing a dopant. The dopant dopes a melt region adjacent the mold. There, dopant concentration is higher than in the melt bulk. A wafer starts solidifying. Dopant diffuses poorly in solid semiconductor. After a wafer starts solidifying, dopant can not enter the melt. Afterwards, the concentration of dopant in the melt adjacent the wafer surface is less than what was present where the wafer began to form. New wafer regions grow from a melt region whose dopant concentration lessens over time. This establishes a dopant gradient in the wafer, with higher concentration adjacent the mold. The gradient can be tailored. A gradient gives rise to a field that can function as a drift or back surface field. Solar collectors can have open grid conductors and better optical reflectors on the back surface, made possible by the intrinsic back surface field.",
+      "publicationNumber": "IN514573",
+      "publicationDate": "2024-03-01",
+      "assignee": [
+        "1366 TECHNOLOGIES INC"
+      ],
+      "inventors": [
+        "JONCZYK RALF",
+        "KERNAN BRIAN D",
+        "HUDELSON G D STEPHEN",
+        "LORENZ ADAM M",
+        "SACHS EMANUEL M"
+      ],
+      "applicationDate": "2021-11-26",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Solar energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 12.662523
+    },
+    {
+      "id": "IN-425937-B",
+      "title": [
+        "METHOD FOR CREATING A SEMICONDUCTOR WAFER HAVING PROFILED DOPING AND WAFERS AND SOLAR CELL COMPONENTS HAVING A PROFILED FIELD SUCH AS DRIFT AND BACK SURFACE"
+      ],
+      "abstract": "A semiconductor wafer forms on a mold containing a dopant. The dopant dopes a melt region adjacent the mold. There, dopant concentration is higher than in the melt bulk. A wafer starts solidifying. Dopant diffuses poorly in solid semiconductor. After a wafer starts solidifying, dopant can not enter the melt. Afterwards, the concentration of dopant in the melt adjacent the wafer surface is less than what was present where the wafer began to form. New wafer regions grow from a melt region whose dopant concentration lessens over time. This establishes a dopant gradient in the wafer, with higher concentration adjacent the mold. The gradient can be tailored. A gradient gives rise to a field that can function as a drift or back surface field. Solar collectors can have open grid conductors and better optical reflectors on the back surface, made possible by the intrinsic back surface field. [WO2016122731A1]",
+      "publicationNumber": "IN425937",
+      "publicationDate": "2023-03-21",
+      "assignee": [
+        "1366 TECHNOLOGIES INC"
+      ],
+      "inventors": [
+        "JONCZYK RALF",
+        "KERNAN BRIAN D",
+        "HUDELSON G D STEPHEN",
+        "LORENZ ADAM M",
+        "SACHS EMANUEL M"
+      ],
+      "applicationDate": "2017-07-11",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Semiconductors"
+      ],
+      "score": 12.662523
+    },
+    {
+      "id": "IN-202138054836-A",
+      "title": [
+        "SEMICONDUCTOR WAFER FOR USE AS A SOLAR COLLECTOR AND SOLAR COLLECTOR"
+      ],
+      "abstract": "A semiconductor wafer forms on a mold containing a dopant. The dopant dopes a melt region adjacent the mold. There, dopant concentration is higher than in the melt bulk. A wafer starts solidifying. Dopant diffuses poorly in solid semiconductor. After a wafer starts solidifying, dopant can not enter the melt. Afterwards, the concentration of dopant in the melt adjacent the wafer surface is less than what was present where the wafer began to form. New wafer regions grow from a melt region whose dopant concentration lessens over time. This establishes a dopant gradient in the wafer, with higher concentration adjacent the mold. The gradient can be tailored. A gradient gives rise to a field that can function as a drift or back surface field. Solar collectors can have open grid conductors and better optical reflectors on the back surface, made possible by the intrinsic back surface field.",
+      "publicationNumber": "IN202138054836",
+      "publicationDate": "2022-04-22",
+      "assignee": [
+        "1366 TECHNOLOGIES INC"
+      ],
+      "inventors": [
+        "JONCZYK RALF",
+        "KERNAN BRIAN D",
+        "HUDELSON G D STEPHEN",
+        "LORENZ ADAM M",
+        "SACHS EMANUEL M"
+      ],
+      "applicationDate": "2021-11-26",
+      "claimsCount": 53,
+      "independentClaimsCount": 6,
+      "technologyFields": [
+        "Solar energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 12.662523
+    },
+    {
+      "id": "IN-201737024438-A",
+      "title": [
+        "METHOD FOR CREATING A SEMICONDUCTOR WAFER HAVING PROFILED DOPING AND WAFERS AND SOLAR CELL COMPONENTS HAVING A PROFILED FIELD SUCH AS DRIFT AND BACK SURFACE"
+      ],
+      "abstract": "A semiconductor wafer forms on a mold containing a dopant. The dopant dopes a melt region adjacent the mold. There dopant concentration is higher than in the melt bulk. A wafer starts solidifying. Dopant diffuses poorly in solid semiconductor. After a wafer starts solidifying dopant can not enter the melt. Afterwards the concentration of dopant in the melt adjacent the wafer surface is less than what was present where the wafer began to form. New wafer regions grow from a melt region whose dopant concentration lessens over time. This establishes a dopant gradient in the wafer with higher concentration adjacent the mold. The gradient can be tailored. A gradient gives rise to a field that can function as a drift or back surface field. Solar collectors can have open grid conductors and better optical reflectors on the back surface made possible by the intrinsic back surface field.",
+      "publicationNumber": "IN201737024438",
+      "publicationDate": "2017-09-08",
+      "assignee": [
+        "1366 TECHNOLOGIES INC"
+      ],
+      "inventors": [
+        "JONCZYK RALF",
+        "KERNAN BRIAN D.",
+        "HUDELSON G. D. STEPHEN",
+        "LORENZ ADAM M.",
+        "SACHS EMANUEL M."
+      ],
+      "applicationDate": "2017-07-11",
+      "claimsCount": 53,
+      "independentClaimsCount": 6,
+      "technologyFields": [
+        "Semiconductors"
+      ],
+      "score": 12.662523
+    },
+    {
+      "id": "HK-1243548-A1",
+      "title": [
+        "METHODS FOR CREATING A SEMICONDUCTOR WAFER HAVING PROFILED DOPING AND WAFERS AND SOLAR CELL COMPONENTS HAVING A PROFILED FIELD, SUCH AS DRIFT AND BACK SURFACE"
+      ],
+      "abstract": "A semiconductor wafer forms on a mold containing a dopant. The dopant dopes a melt region adjacent the mold. There, dopant concentration is higher than in the melt bulk. A wafer starts solidifying. Dopant diffuses poorly in solid semiconductor. After a wafer starts solidifying, dopant can not enter the melt. Afterwards, the concentration of dopant in the melt adjacent the wafer surface is less than what was present where the wafer began to form. New wafer regions grow from a melt region whose dopant concentration lessens over time. This establishes a dopant gradient in the wafer, with higher concentration adjacent the mold. The gradient can be tailored. A gradient gives rise to a field that can function as a drift or back surface field. Solar collectors can have open grid conductors and better optical reflectors on the back surface, made possible by the intrinsic back surface field.",
+      "publicationNumber": "HK1243548",
+      "publicationDate": "2018-07-13",
+      "assignee": [
+        "1366 TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "RALF JONCZYK",
+        "BRIAN, D. KERNAN",
+        "G.D. Stephen Hudelson",
+        "ADAM, M. LORENZ",
+        "EMANUEL, M. SACHS"
+      ],
+      "applicationDate": "2018-02-27",
+      "claimsCount": 53,
+      "independentClaimsCount": 6,
+      "technologyFields": [
+        "Semiconductors"
+      ],
+      "score": 12.662523
+    },
+    {
+      "id": "EP-3251146-B1",
+      "title": [
+        "METHOD FOR CREATING A SEMICONDUCTOR WAFER HAVING PROFILED DOPING"
+      ],
+      "abstract": "A semiconductor wafer forms on a mold containing a dopant. The dopant dopes a melt region adjacent the mold. There, dopant concentration is higher than in the melt bulk. A wafer starts solidifying. Dopant diffuses poorly in solid semiconductor. After a wafer starts solidifying, dopant can not enter the melt. Afterwards, the concentration of dopant in the melt adjacent the wafer surface is less than what was present where the wafer began to form. New wafer regions grow from a melt region whose dopant concentration lessens over time. This establishes a dopant gradient in the wafer, with higher concentration adjacent the mold. The gradient can be tailored. A gradient gives rise to a field that can function as a drift or back surface field. Solar collectors can have open grid conductors and better optical reflectors on the back surface, made possible by the intrinsic back surface field.",
+      "publicationNumber": "EP3251146",
+      "publicationDate": "2020-12-02",
+      "assignee": [
+        "1366 Technologies Inc."
+      ],
+      "inventors": [
+        "RALF JONCZYK",
+        "BRIAN, D. KERNAN",
+        "G. D. STEPHEN HUDELSON",
+        "ADAM, M. LORENZ",
+        "EMANUEL, M. SACHS"
+      ],
+      "applicationDate": "2015-10-14",
+      "claimsCount": 14,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Semiconductors",
+        "Solar energy",
+        "Surface technology, coating"
+      ],
+      "score": 12.662523
+    },
+    {
+      "id": "MY-160016-A",
+      "title": [
+        "METHODS AND APPARATI FOR MAKING THIN SEMICONDUCTOR BODIES FROM MOLTEN MATERIAL"
+      ],
+      "abstract": "A PRESSURE DIFFERENTIAL IS APPLIED ACROSS A MOLD SHEET AND A SEMICONDUCTOR (E.G. SILICON) WAFER IS FORMED THEREON. RELAXATION OF THE PRESSURE DIFFERENTIAL ALLOWS RELEASE OF THE WAFER. THE MOLD SHEET MAY BE COOLER THAN THE MELT. HEAT IS EXTRACTED ALMOST EXCLUSIVELY THROUGH THE THICKNESS OF THE FORMING WAFER. THE LIQUID AND SOLID INTERFACE IS SUBSTANTIALLY PARALLEL TO THE MOLD SHEET. THE TEMPERATURE OF THE SOLIDIFYING BODY IS SUBSTANTIALLY UNIFORM ACROSS ITS WIDTH, RESULTING IN LOW STRESSES AND DISLOCATION DENSITY AND HIGHER CRYSTALLOGRAPHIC QUALITY. THE MOLD SHEET MUST ALLOW FLOW OF GAS THROUGH IT. THE MELT CAN BE INTRODUCED TO THE SHEET (32) BY: FULL AREA CONTACT WITH THE TOP OF A MELT; TRAVERSING A PARTIAL AREA CONTACT OF MELT WITH THE MOLD SHEET, WHETHER HORIZONTAL OR VERTICAL, OR IN BETWEEN; AND BY DIPPING THE MOLD INTO A MELT. THE GRAIN SIZE CAN BE CONTROLLED BY MANY MEANS.",
+      "publicationNumber": "MY160016",
+      "publicationDate": "2017-02-15",
+      "assignee": [
+        "1366 TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "EMANUEL M. SACHS",
+        "RICHARD L. WALLACE",
+        "EERIK T. HANTSOO",
+        "ADAM M. LORENZ",
+        "G. D. STEPHEN HUDELSON",
+        "RALF JONCZYK"
+      ],
+      "applicationDate": "2010-03-09",
+      "claimsCount": 67,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Other special machines",
+        "Surface technology, coating"
+      ],
+      "score": 12.647048
+    },
+    {
+      "id": "IN-371479-B",
+      "title": [
+        "METHODS AND APPARATI FOR MAKING THIN SEMICONDUCTOR BODIES FROM MOLTEN MATERIAL"
+      ],
+      "abstract": "A pressure differential is applied across a mold sheet and a semiconductor (e.g. silicon) wafer is formed thereon. Relaxation of the pressure differential allows release of the wafer. The mold sheet may be cooler than the melt. Heat is extracted almost exclusively through the thickness of the forming wafer. The liquid and solid interface is substantially parallel to the mold sheet. The temperature of the solidifying body is substantially uniform across its width, resulting in low stresses and dislocation density and higher crystallographic quality. The mold sheet must allow flow of gas through it. The melt can be introduced to the sheet by: full area contact with the top of a melt; traversing a partial area contact of melt with the mold sheet, whether horizontal or vertical, or in between; and by dipping the mold into a melt. The grain size can be controlled by many means. [WO2010104838A1]",
+      "publicationNumber": "IN371479",
+      "publicationDate": "2021-07-08",
+      "assignee": [
+        "1366 TECHNOLOGIES INC"
+      ],
+      "inventors": [
+        "1366 TECHNOLOGIES INC",
+        "LEXINGTON",
+        "MA 02421 UNITED STATES OF AMERICA"
+      ],
+      "applicationDate": "2010-03-09",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 12.647048
+    },
+    {
+      "id": "EP-2406413-B1",
+      "title": [
+        "METHODS FOR MAKING THIN SEMICONDUCTOR BODIES FROM MOLTEN MATERIAL"
+      ],
+      "abstract": "A pressure differential is applied across a mold sheet and a semiconductor (e.g. silicon) wafer is formed thereon. Relaxation of the pressure differential allows release of the wafer. The mold sheet may be cooler than the melt. Heat is extracted almost exclusively through the thickness of the forming wafer. The liquid and solid interface is substantially parallel to the mold sheet. The temperature of the solidifying body is substantially uniform across its width, resulting in low stresses and dislocation density and higher crystallographic quality. The mold sheet must allow flow of gas through it. The melt can be introduced to the sheet by: full area contact with the top of a melt; traversing a partial area contact of melt with the mold sheet, whether horizontal or vertical, or in between; and by dipping the mold into a melt. The grain size can be controlled by many means.",
+      "publicationNumber": "EP2406413",
+      "publicationDate": "2018-05-30",
+      "assignee": [
+        "1366 Technologies Inc."
+      ],
+      "inventors": [
+        "EMANUEL, M. SACHS",
+        "RICHARD, L. WALLACE",
+        "EERIK, T. HANTSOO",
+        "ADAM, M. LORENZ",
+        "G. D., STEPHEN HUDELSON",
+        "RALF JONCZYK"
+      ],
+      "applicationDate": "2010-03-09",
+      "claimsCount": 13,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Other special machines",
+        "Semiconductors",
+        "Solar energy",
+        "Surface technology, coating"
+      ],
+      "score": 12.647048
+    },
+    {
+      "id": "CN-103380481-B",
+      "title": [
+        "\u4f7f\u7528\u72ec\u7acb\u4ecb\u5165\u7247\u7531\u7194\u5316\u6750\u6599\u5236\u4f5c\u534a\u5bfc\u4f53\u672c\u4f53"
+      ],
+      "abstract": "\u4ecb\u5165\u7247\u53ef\u88ab\u7528\u4e8e\u5236\u4f5c\u4f8b\u5982\u7528\u4e8e\u592a\u9633\u80fd\u7535\u6c60\u7528\u9014\u7684\u534a\u5bfc\u4f53\u672c\u4f53\uff0c\u8bf8\u5982\u7845\u3002\u5b83\u662f\u72ec\u7acb\u7684\u3001\u975e\u5e38\u8584\u7684\u3001\u67d4\u6027\u7684\u3001\u591a\u5b54\u7684\u5e76\u4e14\u80fd\u591f\u7ecf\u53d7\u4f4f\u7194\u5316\u7684\u534a\u5bfc\u4f53\u7684\u5316\u5b66\u548c\u70ed\u73af\u5883\u800c\u4e0d\u9000\u5316\u3002\u5b83\u901a\u5e38\u662f\u9676\u74f7\u6750\u6599\uff0c\u4f8b\u5982\u7845\u77f3\u3001\u6c2e\u5316\u7845\u3001\u6c2e\u6c27\u5316\u7845\u3001\u78b3\u6c27\u5316\u7845\u3001\u78b3\u5316\u7845\u3001\u6c2e\u78b3\u5316\u7845\u3001\u78b3\u6c2e\u6c27\u5316\u7845\u4ee5\u53ca\u5176\u5b83\u3002\u5b83\u88ab\u63d0\u4f9b\u5728\u6a21\u7247\u7684\u6210\u5f62\u8868\u9762\u548c\u7194\u5316\u6750\u6599\u4e4b\u95f4\uff0c\u534a\u5bfc\u4f53\u672c\u4f53\u5c06\u7531\u6240\u8ff0\u7194\u5316\u6750\u6599\u5f62\u6210\u3002\u5b83\u53ef\u88ab\u56fa\u5b9a\u5230\u6210\u5f62\u8868\u9762\u6216\u8005\u88ab\u6c89\u79ef\u5728\u7194\u4f53\u4e0a\u3002\u6240\u8ff0\u4ecb\u5165\u7247\u6291\u5236\u9897\u7c92\u6210\u6838\uff0c\u5e76\u4e14\u9650\u5236\u4e86\u6765\u81ea\u6240\u8ff0\u7194\u4f53\u7684\u70ed\u6d41\u3002\u5b83\u4fc3\u8fdb\u4e86\u534a\u5bfc\u4f53\u672c\u4f53\u4e0e\u6210\u5f62\u8868\u9762\u7684\u5206\u79bb\u3002\u5b83\u53ef\u5728\u5176\u4f7f\u7528\u524d\u88ab\u5236\u4f5c\u3002\u56e0\u4e3a\u72ec\u7acb\u5e76\u4e14\u672a\u7c98\u9644\u5230\u6240\u8ff0\u6210\u5f62\u8868\u9762\uff0cCTE\u7684\u5931\u914d\u95ee\u9898\u88ab\u6700\u5c0f\u5316\u3002\u6240\u8ff0\u4ecb\u5165\u7247\u548c\u534a\u5bfc\u4f53\u672c\u4f53\u72ec\u7acb\u4e8e\u6240\u8ff0\u6210\u5f62\u8868\u9762\u800c\u76f8\u5bf9\u5730\u81ea\u7531\u81a8\u80c0\u548c\u6536\u7f29\u3002",
+      "publicationNumber": "CN103380481",
+      "publicationDate": "2018-04-06",
+      "assignee": [
+        "1366 TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "R. Juntsk",
+        "E.M. Sachs"
+      ],
+      "applicationDate": "2011-12-01",
+      "claimsCount": 30,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Semiconductors",
+        "Surface technology, coating"
+      ],
+      "score": 12.421845
+    },
+    {
+      "id": "US-20180119309-A1",
+      "title": [
+        "METHOD FOR MAINTAINING CONTAINED VOLUME OF MOLTEN MATERIAL FROM WHICH MATERIAL IS DEPLETED AND REPLENISHED"
+      ],
+      "abstract": "A main crucible of molten semiconductor is replenished from a supply crucible maintained such that there are always two phases of solid and liquid semiconductor within the supply crucible. Heat added to melt the solid material results in the solid material changing phase to liquid, but will not result in any significant elevation in temperature of the liquid within the supply crucible. The temperature excursions are advantageously small, being less than that which would cause problems with the formed product. The solid product material acts as a sort of temperature buffer, to maintain the supply liquid temperature automatically and passively at or very near to the phase transition temperature. For silicon, excursions are kept to less than 90\u00b0 C., and even as small as 50\u00b0 C. The methods also are useful with germanium. Prior art silicon methods that entirely melt the semiconductor experience excursions exceeding 100\u00b0 C.",
+      "publicationNumber": "US20180119309",
+      "publicationDate": "2018-05-03",
+      "assignee": [
+        "1366 TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "Ralf Jonczyk",
+        "RICHARD L WALLACE",
+        "DAVID S HARVEY"
+      ],
+      "applicationDate": "2016-04-28",
+      "claimsCount": 30,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Surface technology, coating"
+      ],
+      "score": 12.388527
+    },
+    {
+      "id": "US-10633765-B2",
+      "title": [
+        "Method for maintaining contained volume of molten material from which material is depleted and replenished"
+      ],
+      "abstract": "A main crucible of molten semiconductor is replenished from a supply crucible maintained such that there are always two phases of solid and liquid semiconductor within the supply crucible. Heat added to melt the solid material results in the solid material changing phase to liquid, but will not result in any significant elevation in temperature of the liquid within the supply crucible. The temperature excursions are advantageously small, being less than that which would cause problems with the formed product. The solid product material acts as a sort of temperature buffer, to maintain the supply liquid temperature automatically and passively at or very near to the phase transition temperature. For silicon, excursions are kept to less than 90\u00b0 C., and even as small as 50\u00b0 C. The methods also are useful with germanium. Prior art silicon methods that entirely melt the semiconductor experience excursions exceeding 100\u00b0 C.",
+      "publicationNumber": "US10633765",
+      "publicationDate": "2020-04-28",
+      "assignee": [
+        "1366 TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "Ralf Jonczyk",
+        "RICHARD L WALLACE",
+        "DAVID S HARVEY"
+      ],
+      "applicationDate": "2016-04-28",
+      "claimsCount": 29,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Other special machines",
+        "Surface technology, coating"
+      ],
+      "score": 12.388527
+    },
+    {
+      "id": "TW-I575560-B",
+      "title": [
+        "Methods and apparati for handling, heating and cooling a substrate upon which a pattern is made by a tool in heat flowable material coating, including substrate transport, tool laydown, tool tensioning, and tool retraction"
+      ],
+      "abstract": "",
+      "publicationNumber": "TWI575560",
+      "publicationDate": "2017-03-21",
+      "assignee": [
+        "1366 TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "EMANUEL M. SACHS",
+        "PETER E. KANE",
+        "HOLLY G. GATES",
+        "DAMIAN W. HARRIS",
+        "BENJAMIN F. POLITO",
+        "HECTOR A. INIRIO"
+      ],
+      "applicationDate": "2012-09-24",
+      "claimsCount": 31,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Semiconductors"
+      ],
+      "score": 12.288837
+    },
+    {
+      "id": "WO-2016176418-A1",
+      "title": [
+        "METHOD FOR MAINTAINING CONTAINED VOLUME OF MOLTEN MATERIAL FROM WHICH MATERIAL IS DEPLETED AND REPLENISHED"
+      ],
+      "abstract": "A main crucible of molten semiconductor is replenished from a supply crucible maintained such that there are always two phases of solid and liquid semiconductor within the supply crucible. Heat added to melt the solid material results in the solid material changing phase to liquid, but will not result in any significant elevation in temperature of the liquid within the supply crucible. The temperature excursions are advantageously small, being less than that which would cause problems with the formed product. The solid product material acts as a sort of temperature buffer, to maintain the supply liquid temperature automatically and passively at or very near to the phase transition temperature. For silicon, excursions are kept to less than 90\u00b0C, and even as small as 50\u00b0C. The methods also are useful with germanium. Prior art silicon methods that entirely melt the semiconductor experience excursions exceeding 100\u00b0C.",
+      "publicationNumber": "WO2016176418",
+      "publicationDate": "2016-11-03",
+      "assignee": [
+        "1366 TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "RALF JONCZYK",
+        "RICHARD, L. WALLACE",
+        "DAVID, S. HARVEY"
+      ],
+      "applicationDate": "2016-04-28",
+      "claimsCount": 30,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Surface technology, coating"
+      ],
+      "score": 12.26152
+    },
+    {
+      "id": "SG-11201708072V-A",
+      "title": [
+        "METHOD FOR MAINTAINING CONTAINED VOLUME OF MOLTEN MATERIAL FROM WHICH MATERIAL IS DEPLETED AND REPLENISHED"
+      ],
+      "abstract": "",
+      "publicationNumber": "SG11201708072V",
+      "publicationDate": "2017-11-29",
+      "assignee": [
+        "1366 TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "RALF JONCZYK",
+        "RICHARD, L. WALLACE",
+        "DAVID, S. HARVEY"
+      ],
+      "applicationDate": "2016-04-28",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Surface technology, coating"
+      ],
+      "score": 12.26152
+    },
+    {
+      "id": "US-20170051429-A1",
+      "title": [
+        "METHODS AND APPARATI FOR MAKING THIN SEMI-CONDUCTOR WAFERS WITH LOCALLY CONTROLLED REGIONS THAT ARE RELATIVELY THICKER THAN OTHER REGIONS AND SUCH WAFERS"
+      ],
+      "abstract": "Semi-conductor wafers with thin and thicker regions at controlled locations may be for Photovoltaics. The interior may be less than 180 microns or thinner, to 50 microns, with a thicker portion, at 180-250 microns. Thin wafers have higher efficiency. A thicker perimeter provides handling strength. Thicker stripes, landings and islands are for metallization coupling. Wafers may be made directly from a melt upon a template with regions of different heat extraction propensity arranged to correspond to locations of relative thicknesses. Interstitial oxygen is less than 6\u00d71017 atoms/cc, preferably less than 2\u00d71017, total oxygen less than 8.75\u00d71017 atoms/cc, preferably less than 5.25\u00d71017. Thicker regions form adjacent template regions having relatively higher heat extraction propensity; thinner regions adjacent regions with lesser extraction propensity. Thicker template regions have higher extraction propensity. Functional materials upon the template also have differing extraction propensities.",
+      "publicationNumber": "US20170051429",
+      "publicationDate": "2017-02-23",
+      "assignee": [
+        "1366 TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "Emanuel M. Sachs",
+        "Ralf Jonczyk",
+        "ADAM L. LORENZ",
+        "Richard L. Wallace",
+        "G.D. Stephen Hudelson"
+      ],
+      "applicationDate": "2015-04-17",
+      "claimsCount": 21,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Semiconductors",
+        "Surface technology, coating"
+      ],
+      "score": 12.217142
+    },
+    {
+      "id": "US-11562920-B2",
+      "title": [
+        "Semi-conductor wafers longer than industry standard square"
+      ],
+      "abstract": "A semiconductor wafer is as wide as the industry standard width A (presently 156 mm+/\u22121 mm) and is longer than the industry standard A by at least 1 mm and as much as the standard equipment can reasonably accommodate, presently approximately 3-20 mm and potentially longer, thus, gaining significant additional surface area for sunlight absorption. Modules may be composed of a plurality of such larger wafers. Such wafers can be processed in conventional processing equipment that has a wafer retaining portion of industry standard size A and a configuration that also accommodates a wafer with a perpendicular second edge longer than A by at least 1 and typically 3-20 mm. Wet bench carriers and transport and inspection stations can be so used.",
+      "publicationNumber": "US11562920",
+      "publicationDate": "2023-01-24",
+      "assignee": [
+        "CUBICPV INC."
+      ],
+      "inventors": [
+        "Robertus Antonius Steeman"
+      ],
+      "applicationDate": "2018-10-23",
+      "claimsCount": 8,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Handling",
+        "Semiconductors",
+        "Solar energy"
+      ],
+      "score": 12.217142
+    },
+    {
+      "id": "US-10072351-B2",
+      "title": [
+        "Methods and apparati for making thin semi-conductor wafers with locally controlled regions that are relatively thicker than other regions and such wafers"
+      ],
+      "abstract": "Semi-conductor wafers with thin and thicker regions at controlled locations may be for Photovoltaics. The interior may be less than 180 microns or thinner, to 50 microns, with a thicker portion, at 180-250 microns. Thin wafers have higher efficiency. A thicker perimeter provides handling strength. Thicker stripes, landings and islands are for metallization coupling. Wafers may be made directly from a melt upon a template with regions of different heat extraction propensity arranged to correspond to locations of relative thicknesses. Interstitial oxygen is less than 6\u00d71017 atoms/cc, preferably less than 2\u00d71017, total oxygen less than 8.75\u00d71017 atoms/cc, preferably less than 5.25\u00d71017. Thicker regions form adjacent template regions having relatively higher heat extraction propensity; thinner regions adjacent regions with lesser extraction propensity. Thicker template regions have higher extraction propensity. Functional materials upon the template also have differing extraction propensities.",
+      "publicationNumber": "US10072351",
+      "publicationDate": "2018-09-11",
+      "assignee": [
+        "1366 TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "Emanuel M. Sachs",
+        "Ralf Jonczyk",
+        "ADAM L. LORENZ",
+        "Richard L. Wallace",
+        "G. D. Stephen Hudelson"
+      ],
+      "applicationDate": "2015-04-17",
+      "claimsCount": 21,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Semiconductors",
+        "Solar energy",
+        "Surface technology, coating"
+      ],
+      "score": 12.217142
+    },
+    {
+      "id": "HK-1157704-B",
+      "title": [
+        "WEDGE IMPRINT PATTERNING OF IRREGULAR SURFACE"
+      ],
+      "abstract": "",
+      "publicationNumber": "HK1157704",
+      "publicationDate": "2017-01-27",
+      "assignee": [
+        "MASSACHUSETTS INSTITUTE OF TECHNOLOGY"
+      ],
+      "inventors": [
+        "BENJAMIN, F. POLITO",
+        "HOLLY, G. GATES",
+        "EMANUEL, M. SACHS"
+      ],
+      "applicationDate": "2011-11-08",
+      "claimsCount": 70,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Other special machines"
+      ],
+      "score": 12.137316
+    },
+    {
+      "id": "EP-2280813-B1",
+      "title": [
+        "IMPRINT PATTERNING OF IRREGULAR SURFACE"
+      ],
+      "abstract": "Patterned substrates for photovoltaic and other uses are made by pressing a flexible stamp upon a thin layer of resist material, which covers a substrate, such as a wafer. The resist changes phase or becomes flowable, flowing away from locations of impression, revealing the substrate, which is subjected to some shaping process, typically etching. Portions exposed by the stamp being are removed, and portions that protected by the resist, remain. A typical substrate is silicon, and a typical resist is a wax. Workpiece textures include extended grooves, discrete, spaced apart pits, and combinations and intermediates thereof. Platen or rotary patterning apparatus may be used. Rough and irregular workpiece substrates may be accommodated by extended stamp elements. Resist may be applied first to the workpiece, the stamp, or substantially simultaneously, in discrete locations, or over the entire surface of either. The resist dewets the substrate completely where desired.",
+      "publicationNumber": "EP2280813",
+      "publicationDate": "2017-06-07",
+      "assignee": [
+        "MASSACHUSETTS INSTITUTE OF TECHNOLOGY"
+      ],
+      "inventors": [
+        "BENJAMIN, F. POLITO",
+        "HOLLY, G. GATES",
+        "EMANUEL, M. SACHS"
+      ],
+      "applicationDate": "2009-04-17",
+      "claimsCount": 15,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Micro-structural and nano-technology",
+        "Optics",
+        "Other special machines"
+      ],
+      "score": 12.137316
+    },
+    {
+      "id": "US-20180019365-A1",
+      "title": [
+        "METHODS FOR CREATING A SEMICONDUCTOR WAFER HAVING PROFILED DOPING AND WAFERS AND SOLAR CELL COMPONENTS HAVING A PROFILED FIELD, SUCH AS DRIFT AND BACK SURFACE"
+      ],
+      "abstract": "A semiconductor wafer forms on a mold containing a dopant. The dopant dopes a melt region adjacent the mold. There, dopant concentration is higher than in the melt bulk. A wafer starts solidifying. Dopant diffuses poorly in solid semiconductor. After a wafer starts solidifying, dopant can not enter the melt. Afterwards, the concentration of dopant in the melt adjacent the wafer surface is less than what was present where the wafer began to form. New wafer regions grow from a melt region whose dopant concentration lessens over time. This establishes a dopant gradient in the wafer, with higher concentration adjacent the mold. The gradient can be tailored. A gradient gives rise to a field that can function as a drift or back surface field. Solar collectors can have open grid conductors and better optical reflectors on the back surface, made possible by the intrinsic back surface field.",
+      "publicationNumber": "US20180019365",
+      "publicationDate": "2018-01-18",
+      "assignee": [
+        "1366 TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "Ralf Jonczyk",
+        "KERNAN D BRIAN",
+        "G.D. Stephen Hudelson",
+        "Richard L. Wallace",
+        "ADAM M LORENZ"
+      ],
+      "applicationDate": "2015-10-14",
+      "claimsCount": 29,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Semiconductors",
+        "Solar energy"
+      ],
+      "score": 12.136263
+    },
+    {
+      "id": "US-10770613-B2",
+      "title": [
+        "Methods for creating a semiconductor wafer having profiled doping and wafers and solar cell components having a profiled field, such as drift and back surface"
+      ],
+      "abstract": "A semiconductor wafer forms on a mold containing a dopant. The dopant dopes a melt region adjacent the mold. There, dopant concentration is higher than in the melt bulk. A wafer starts solidifying. Dopant diffuses poorly in solid semiconductor. After a wafer starts solidifying, dopant can not enter the melt. Afterwards, the concentration of dopant in the melt adjacent the wafer surface is less than what was present where the wafer began to form. New wafer regions grow from a melt region whose dopant concentration lessens over time. This establishes a dopant gradient in the wafer, with higher concentration adjacent the mold. The gradient can be tailored. A gradient gives rise to a field that can function as a drift or back surface field. Solar collectors can have open grid conductors and better optical reflectors on the back surface, made possible by the intrinsic back surface field.",
+      "publicationNumber": "US10770613",
+      "publicationDate": "2020-09-08",
+      "assignee": [
+        "1366 TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "Ralf Jonczyk",
+        "Brian D. Kernan",
+        "G.D. Stephen Hudelson",
+        "Adam M. Lorenz",
+        "Emanuel M. Sachs"
+      ],
+      "applicationDate": "2019-09-04",
+      "claimsCount": 26,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Semiconductors",
+        "Solar energy",
+        "Surface technology, coating"
+      ],
+      "score": 12.136263
+    },
+    {
+      "id": "US-10439095-B2",
+      "title": [
+        "Methods for creating a semiconductor wafer having profiled doping and wafers and solar cell components having a profiled field, such as drift and back surface"
+      ],
+      "abstract": "A semiconductor wafer forms on a mold containing a dopant. The dopant dopes a melt region adjacent the mold. There, dopant concentration is higher than in the melt bulk. A wafer starts solidifying. Dopant diffuses poorly in solid semiconductor. After a wafer starts solidifying, dopant cannot enter the melt. Afterwards, the concentration of dopant in the melt adjacent the wafer surface is less than what was present where the wafer began to form. New wafer regions grow from a melt region whose dopant concentration lessens over time. This establishes a dopant gradient in the wafer, with higher concentration adjacent the mold. The gradient can be tailored. A gradient gives rise to a field that can function as a drift or back surface field. Solar collectors can have open grid conductors and better optical reflectors on the back surface, made possible by the intrinsic back surface field.",
+      "publicationNumber": "US10439095",
+      "publicationDate": "2019-10-08",
+      "assignee": [
+        "1366 TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "Ralf Jonczyk",
+        "Brian D. Kernan",
+        "G. D. Stephen Hudelson",
+        "Adam M. Lorenz",
+        "Emanuel M. Sachs"
+      ],
+      "applicationDate": "2015-10-14",
+      "claimsCount": 20,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Semiconductors",
+        "Solar energy",
+        "Surface technology, coating"
+      ],
+      "score": 12.136263
+    },
+    {
+      "id": "US-9643342-B2",
+      "title": [
+        "Apparati for fabricating thin semiconductor bodies from molten material"
+      ],
+      "abstract": "A pressure differential can be applied across a mold sheet and a semiconductor (e.g. silicon) wafer (e.g. for solar cell) is formed thereon. Relaxation of the pressure differential can allow release of the wafer. The mold sheet may be cooler than the melt. Heat is extracted through the thickness of the forming wafer. The temperature of the solidifying body is substantially uniform across its width, resulting in low stresses and dislocation density and higher crystallographic quality. The mold sheet can allow flow of gas through it. The melt can be introduced to the sheet by: full area contact with the top of a melt; traversing a partial area contact of melt with the mold sheet, whether horizontal or vertical, or in between; and by dipping the mold into a melt. The grain size can be controlled by many means.",
+      "publicationNumber": "US9643342",
+      "publicationDate": "2017-05-09",
+      "assignee": [
+        "1366 TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "Emanuel M. Sachs",
+        "Richard L. Wallace",
+        "Eerik T. Hantsoo",
+        "Adam M. Lorenz",
+        "G. D. Stephen Hudelson",
+        "Ralf Jonczyk"
+      ],
+      "applicationDate": "2014-04-11",
+      "claimsCount": 14,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Other special machines",
+        "Surface technology, coating"
+      ],
+      "score": 12.123726
+    },
+    {
+      "id": "WO-2021188452-A1",
+      "title": [
+        "HIGH TEMPERATURE ACID ETCH FOR SILICON"
+      ],
+      "abstract": "A method includes etching silicon using a mixture of nitric acid and hydrofluoric acid in which less than 6 mols of hydrofluoric acid is used to etch one mol of silicon. The etching may be conducted at an elevated temperature, such as a temperature of at least 70 degrees Celsius.",
+      "publicationNumber": "WO2021188452",
+      "publicationDate": "2021-09-23",
+      "assignee": [
+        "1366 TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "RALF JONCZYK",
+        "PATRICK MCMAHON"
+      ],
+      "applicationDate": "2021-03-15",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Semiconductors",
+        "Solar energy"
+      ],
+      "score": 12.101848
+    },
+    {
+      "id": "EP-2758999-A4",
+      "title": [
+        "TECHNIQUES FOR IMPROVED IMPRINTING OF SOFT MATERIAL ON SUBSTRATE USING STAMP INCLUDING UNDERFILLING TO LEAVE A GAP AND PULSING STAMP"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP2758999",
+      "publicationDate": "2016-01-27",
+      "assignee": [
+        "1366 TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "Emanuel, M SACHS"
+      ],
+      "applicationDate": "2012-09-22",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Micro-structural and nano-technology",
+        "Other special machines",
+        "Semiconductors",
+        "Solar energy"
+      ],
+      "score": 12.101848
+    },
+    {
+      "id": "WO-2019083956-A1",
+      "title": [
+        "SEMI-CONDUCTOR WAFERS LONGER THAN INDUSTRY STANDARD SQUARE"
+      ],
+      "abstract": "A semiconductor wafer is as wide as the industry standard width A (presently 156 mm +/- 1 mm) and is longer than the industry standard A by at least 1 mm and as much as the standard equipment can reasonably accommodate, presently approximately 3-20 mm and potentially longer, thus, gaining significant additional surface area for sunlight absorption. Modules may be composed of a plurality of such larger wafers. Such wafers can be processed in conventional processing equipment that has a wafer retaining portion of industry standard size A and a configuration that also accommodates a wafer with a perpendicular second edge longer than A by at least 1 and typically 3-20 mm. Wet bench carriers and transport and inspection stations can be so used.",
+      "publicationNumber": "WO2019083956",
+      "publicationDate": "2019-05-02",
+      "assignee": [
+        "1366 TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "ROBERTUS ANTONIUS STEEMAN"
+      ],
+      "applicationDate": "2018-10-23",
+      "claimsCount": 26,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Machine tools",
+        "Semiconductors"
+      ],
+      "score": 12.092377
+    },
+    {
+      "id": "SG-11201608411T-A",
+      "title": [
+        "METHODS AND APPARATI FOR MAKING THIN SEMI-CONDUCTOR WAFERS WITH LOCALLY CONTROLLED REGIONS THAT ARE RELATIVELY THICKER THAN OTHER REGIONS AND SUCH WAFERS"
+      ],
+      "abstract": "",
+      "publicationNumber": "SG11201608411T",
+      "publicationDate": "2016-11-29",
+      "assignee": [
+        "1366 TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "EMANUEL, M. SACHS",
+        "RALF JONCZYK",
+        "Adam, L. LORENZ",
+        "RICHARD, L. WALLACE",
+        "Stephen George, D. HUDELSON"
+      ],
+      "applicationDate": "2015-04-17",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Semiconductors"
+      ],
+      "score": 12.092377
+    },
+    {
+      "id": "PH-12016502141-B1",
+      "title": [
+        "METHODS AND APPARATI FOR MAKING THIN SEMI-CONDUCTOR WAFERS WITH LOCALLY CONTROLLED REGIONS THAT ARE RELATIVELY THICKER THAN OTHER REGIONS AND SUCH WAFERS"
+      ],
+      "abstract": "Semi-conductor wafers with thin and thicker regions at controlled locations may be for Photovoltaics. The interior may be less than 180 microns or thinner, to 50 microns, with a thicker portion, at 180 - 250 microns. Thin wafers have higher efficiency. A thicker perimeter provides handling strength. Thicker stripes, landings and islands are for metallization coupling. Wafers may be made directly from a melt upon a template with regions of different heat extraction propensity arranged to correspond to locations of relative thicknesses. Interstitial oxygen is less than 6 x 1017 atoms/cc, preferably less than 2 x 1017, total oxygen less than 8. 75 x 1017 atoms/cc, preferably less than 5. 25 x 1017. Thicker regions form adjacent template regions having relatively higher heat extraction propensity; thinner regions adjacent regions with lesser extraction propensity. Thicker template regions have higher extraction propensity. Functional materials upon the template also have differing extraction propensities.",
+      "publicationNumber": "PH12016502141",
+      "publicationDate": "2017-01-09",
+      "assignee": [
+        "1366 TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "EMANUEL M. SACHS",
+        "RALF JONCZYK",
+        "ADAM L. LORENZ",
+        "RICHARD L. WALLACE",
+        "G.D. STEPHEN HUDELSON"
+      ],
+      "applicationDate": "2016-10-26",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Semiconductors",
+        "Solar energy",
+        "Surface technology, coating"
+      ],
+      "score": 12.092377
+    },
+    {
+      "id": "PH-12016502141-A1",
+      "title": [
+        "METHODS AND APPARATI FOR MAKING THIN SEMI-CONDUCTOR WAFERS WITH LOCALLY CONTROLLED REGIONS THAT ARE RELATIVELY THICKER THAN OTHER REGIONS AND SUCH WAFERS"
+      ],
+      "abstract": "Semi-conductor wafers with thin and thicker regions at controlled locations may be for Photovoltaics. The interior may be less than 180 microns or thinner, to 50 microns, with a thicker portion, at 180 - 250 microns. Thin wafers have higher efficiency. A thicker perimeter provides handling strength. Thicker stripes, landings and islands are for metallization coupling. Wafers may be made directly from a melt upon a template with regions of different heat extraction propensity arranged to correspond to locations of relative thicknesses. Interstitial oxygen is less than 6 x 1017 atoms/cc, preferably less than 2 x 1017, total oxygen less than 8. 75 x 1017 atoms/cc, preferably less than 5. 25 x 1017. Thicker regions form adjacent template regions having relatively higher heat extraction propensity; thinner regions adjacent regions with lesser extraction propensity. Thicker template regions have higher extraction propensity. Functional materials upon the template also have differing extraction propensities.",
+      "publicationNumber": "PH12016502141",
+      "publicationDate": "2017-01-09",
+      "assignee": [
+        "1366 TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "EMANUEL, M. SACHS",
+        "RALF JONCZYK",
+        "Adam, L. LORENZ",
+        "RICHARD, L. WALLACE",
+        "G.D. STEPHEN HUDELSON"
+      ],
+      "applicationDate": "2016-10-26",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Semiconductors"
+      ],
+      "score": 12.092377
+    },
+    {
+      "id": "MX-363099-B",
+      "title": [
+        "METHODS AND APPARATI FOR MAKING THIN SEMI-CONDUCTOR WAFERS WITH LOCALLY CONTROLLED REGIONS THAT ARE RELATIVELY THICKER THAN OTHER REGIONS AND SUCH WAFERS."
+      ],
+      "abstract": "Semi-conductor wafers with thin and thicker regions at controlled locations may be for Photovoltaics. The interior may be less than 180 microns or thinner, to 50 microns, with a thicker portion, at 180 - 250 microns. Thin wafers have higher efficiency. A thicker perimeter provides handling strength. Thicker stripes, landings and islands are for metallization coupling. Wafers may be made directly from a melt upon a template with regions of different heat extraction propensity arranged to correspond to locations of relative thicknesses. Interstitial oxygen is less than 6 x 1017 atoms/cc, preferably less than 2 x 1017, total oxygen less than 8. 75 x 1017 atoms/cc, preferably less than 5. 25 x 1017. Thicker regions form adjacent template regions having relatively higher heat extraction propensity; thinner regions adjacent regions with lesser extraction propensity. Thicker template regions have higher extraction propensity. Functional materials upon the template also have differing extraction propensities.",
+      "publicationNumber": "MX363099",
+      "publicationDate": "2019-03-08",
+      "assignee": [
+        "1366 TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "EMANUEL M. SACHS",
+        "RALF JONCZYK",
+        "Adam L. LORENZ",
+        "Richard L. WALLACE",
+        "G. D. STEPHEN HUDELSON"
+      ],
+      "applicationDate": "2015-04-17",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Semiconductors",
+        "Solar energy",
+        "Surface technology, coating"
+      ],
+      "score": 12.092377
+    },
+    {
+      "id": "MX-2016013338-A",
+      "title": [
+        "METHODS AND APPARATI FOR MAKING THIN SEMI-CONDUCTOR WAFERS WITH LOCALLY CONTROLLED REGIONS THAT ARE RELATIVELY THICKER THAN OTHER REGIONS AND SUCH WAFERS."
+      ],
+      "abstract": "Semi-conductor wafers with thin and thicker regions at controlled locations may be for Photovoltaics. The interior may be less than 180 microns or thinner, to 50 microns, with a thicker portion, at 180 - 250 microns. Thin wafers have higher efficiency. A thicker perimeter provides handling strength. Thicker stripes, landings and islands are for metallization coupling. Wafers may be made directly from a melt upon a template with regions of different heat extraction propensity arranged to correspond to locations of relative thicknesses. Interstitial oxygen is less than 6 x 1017 atoms/cc, preferably less than 2 x 1017, total oxygen less than 8. 75 x 1017 atoms/cc, preferably less than 5. 25 x 1017. Thicker regions form adjacent template regions having relatively higher heat extraction propensity; thinner regions adjacent regions with lesser extraction propensity. Thicker template regions have higher extraction propensity. Functional materials upon the template also have differing extraction propensities.",
+      "publicationNumber": "MX2016013338",
+      "publicationDate": "2017-04-27",
+      "assignee": [
+        "1366 TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "EMANUEL M. SACHS",
+        "RALF JONCZYK",
+        "Adam L. LORENZ",
+        "Richard L. WALLACE",
+        "G. D. STEPHEN HUDELSON"
+      ],
+      "applicationDate": "2015-04-17",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Semiconductors"
+      ],
+      "score": 12.092377
+    },
+    {
+      "id": "ES-2864962-T3",
+      "title": [
+        "Procedimientos y aparatos para fabricar obleas semiconductoras delgadas con regiones controladas localmente que son relativamente m\u00e1s gruesas que otras regiones"
+      ],
+      "abstract": "Un procedimiento de fabricaci\u00f3n de una oblea semiconductora (100), comprendiendo el procedimiento los pasos de: a. proporcionar un material semiconductor fundido que tenga una superficie; b. proporcionar una plantilla (1200), que comprende un cuerpo poroso que comprende: i. una superficie de fusi\u00f3n (1256); ii. ii. una superficie trasera; iii. una primera regi\u00f3n de plantilla (1220) que tiene una primera propensi\u00f3n a la extracci\u00f3n de calor; iv. una segunda regi\u00f3n de plantilla (1230) que tiene una segunda propensi\u00f3n a la extracci\u00f3n de calor, que es mayor que la primera propensi\u00f3n a la extracci\u00f3n de calor; c. proporcionar un r\u00e9gimen de presi\u00f3n diferencial tal que la presi\u00f3n en al menos una parte de la superficie de fusi\u00f3n (1256) sea menor que la presi\u00f3n en la superficie del material semiconductor fundido; y d. poner en contacto la superficie de fusi\u00f3n (1256) de la plantilla con la superficie del material semiconductor fundido durante al menos una parte de la duraci\u00f3n del contacto, durante la cual la superficie de fusi\u00f3n (1256) y el material semiconductor fundido est\u00e1n en contacto entre s\u00ed, y se proporciona el r\u00e9gimen de presi\u00f3n diferencial, de manera que un cuerpo de material semiconductor, se solidifica sobre la superficie de fusi\u00f3n (1256), cuyo cuerpo formado comprende: i. una primera regi\u00f3n de cuerpo m\u00e1s delgada, que tiene un primer grosor promedio de cuerpo m\u00e1s delgado, habi\u00e9ndose formado la primera regi\u00f3n de cuerpo m\u00e1s delgada adyacente a la primera regi\u00f3n de la plantilla (1220); y ii. una segunda regi\u00f3n del cuerpo, m\u00e1s gruesa, que tiene un segundo grosor promedio del cuerpo m\u00e1s grueso, habiendo formado la segunda regi\u00f3n del cuerpo adyacente a la segunda regi\u00f3n de la plantilla (1230), siendo el segundo grosor promedio del cuerpo mayor que el primer grosor del cuerpo.",
+      "publicationNumber": "ES2864962",
+      "publicationDate": "2021-10-14",
+      "assignee": [
+        "1366 TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "EMANUEL M. SACHS",
+        "RALF JONCZYK",
+        "ADAM L. LORENZ",
+        "RICHARD L. WALLACE",
+        "G. D. STEPHEN HUDELSON"
+      ],
+      "applicationDate": "2015-04-17",
+      "claimsCount": 8,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Semiconductors"
+      ],
+      "score": 12.092377
+    },
+    {
+      "id": "EP-3138130-A4",
+      "title": [
+        "METHODS AND APPARATI FOR MAKING THIN SEMI-CONDUCTOR WAFERS WITH LOCALLY CONTROLLED REGIONS THAT ARE RELATIVELY THICKER THAN OTHER REGIONS AND SUCH WAFERS"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP3138130",
+      "publicationDate": "2017-11-01",
+      "assignee": [
+        "1366 Technologies Inc."
+      ],
+      "inventors": [
+        "EMANUEL M. SACHS",
+        "RALF JONCZYK",
+        "ADAM L. LORENZ",
+        "RICHARD L. WALLACE",
+        "G. D. STEPHEN HUDELSON"
+      ],
+      "applicationDate": "2015-04-17",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Semiconductors"
+      ],
+      "score": 12.092377
+    },
+    {
+      "id": "EP-3138130-A1",
+      "title": [
+        "METHODS AND APPARATI FOR MAKING THIN SEMI-CONDUCTOR WAFERS WITH LOCALLY CONTROLLED REGIONS THAT ARE RELATIVELY THICKER THAN OTHER REGIONS AND SUCH WAFERS"
+      ],
+      "abstract": "Semi-conductor wafers with thin and thicker regions at controlled locations may be for Photovoltaics. The interior may be less than 180 microns or thinner, to 50 microns, with a thicker portion, at 180 - 250 microns. Thin wafers have higher efficiency. A thicker perimeter provides handling strength. Thicker stripes, landings and islands are for metallization coupling. Wafers may be made directly from a melt upon a template with regions of different heat extraction propensity arranged to correspond to locations of relative thicknesses. Interstitial oxygen is less than 6 x 1017 atoms/cc, preferably less than 2 x 1017, total oxygen less than 8. 75 x 1017 atoms/cc, preferably less than 5. 25 x 1017. Thicker regions form adjacent template regions having relatively higher heat extraction propensity; thinner regions adjacent regions with lesser extraction propensity. Thicker template regions have higher extraction propensity. Functional materials upon the template also have differing extraction propensities.",
+      "publicationNumber": "EP3138130",
+      "publicationDate": "2017-03-08",
+      "assignee": [
+        "1366 Technologies Inc."
+      ],
+      "inventors": [
+        "EMANUEL M. SACHS",
+        "RALF JONCZYK",
+        "ADAM L. LORENZ",
+        "RICHARD L. WALLACE",
+        "G. D. STEPHEN HUDELSON"
+      ],
+      "applicationDate": "2015-04-17",
+      "claimsCount": 29,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Semiconductors"
+      ],
+      "score": 12.092377
+    },
+    {
+      "id": "WO-2016122731-A1",
+      "title": [
+        "METHOD FOR CREATING A SEMICONDUCTOR WAFER HAVING PROFILED DOPING AND WAFERS AND SOLAR CELL COMPONENTS HAVING A PROFILED FIELD, SUCH AS DRIFT AND BACK SURFACE"
+      ],
+      "abstract": "A semiconductor wafer forms on a mold containing a dopant. The dopant dopes a melt region adjacent the mold. There, dopant concentration is higher than in the melt bulk. A wafer starts solidifying. Dopant diffuses poorly in solid semiconductor. After a wafer starts solidifying, dopant can not enter the melt. Afterwards, the concentration of dopant in the melt adjacent the wafer surface is less than what was present where the wafer began to form. New wafer regions grow from a melt region whose dopant concentration lessens over time. This establishes a dopant gradient in the wafer, with higher concentration adjacent the mold. The gradient can be tailored. A gradient gives rise to a field that can function as a drift or back surface field. Solar collectors can have open grid conductors and better optical reflectors on the back surface, made possible by the intrinsic back surface field.",
+      "publicationNumber": "WO2016122731",
+      "publicationDate": "2016-08-04",
+      "assignee": [
+        "1366 TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "RALF JONCZYK",
+        "BRIAN, D. KERNAN",
+        "Stephen, G.D. HUDELSON",
+        "ADAM, M. LORENZ",
+        "EMANUEL, M. SACHS"
+      ],
+      "applicationDate": "2015-10-14",
+      "claimsCount": 53,
+      "independentClaimsCount": 6,
+      "technologyFields": [
+        "Semiconductors"
+      ],
+      "score": 12.012035
+    },
+    {
+      "id": "SG-11201705410P-A",
+      "title": [
+        "METHOD FOR CREATING A SEMICONDUCTOR WAFER HAVING PROFILED DOPING AND WAFERS AND SOLAR CELL COMPONENTS HAVING A PROFILED FIELD, SUCH AS DRIFT AND BACK SURFACE"
+      ],
+      "abstract": "",
+      "publicationNumber": "SG11201705410P",
+      "publicationDate": "2017-08-30",
+      "assignee": [
+        "1366 TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "RALF JONCZYK",
+        "BRIAN, D. KERNAN",
+        "G. D. STEPHEN HUDELSON",
+        "ADAM, M. LORENZ",
+        "EMANUEL, M. SACHS"
+      ],
+      "applicationDate": "2015-10-14",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Semiconductors"
+      ],
+      "score": 12.012035
+    },
+    {
+      "id": "PH-12017501266-B1",
+      "title": [
+        "METHOD FOR CREATING A SEMICONDUCTOR WAFER HAVING PROFILED DOPING AND WAFERS AND SOLAR CELL COMPONENTS HAVING A PROFILED FIELD, SUCH AS DRIFT AND BACK SURFACE"
+      ],
+      "abstract": "A semiconductor wafer forms on a mold containing a dopant. The dopant dopes a melt region adjacent the mold. There, dopant concentration is higher than in the melt bulk. A wafer starts solidifying. Dopant diffuses poorly in solid semiconductor. After a wafer starts solidifying, dopant can not enter the melt. Afterwards, the concentration of dopant in the melt adjacent the wafer surface is less than what was present where the wafer began to form. New wafer regions grow from a melt region whose dopant concentration lessens over time. This establishes a dopant gradient in the wafer, with higher concentration adjacent the mold. The gradient can be tailored. A gradient gives rise to a field that can function as a drift or back surface field. Solar collectors can have open grid conductors and better optical reflectors on the back surface, made possible by the intrinsic back surface field.",
+      "publicationNumber": "PH12017501266",
+      "publicationDate": "2022-11-04",
+      "assignee": [
+        "1366 TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "G. D. STEPHEN HUDELSON",
+        "RALF JONCZYK",
+        "BRIAN, D. KERNAN",
+        "ADAM, M. LORENZ",
+        "EMANUEL, M. SACHS"
+      ],
+      "applicationDate": "2015-10-14",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Semiconductors"
+      ],
+      "score": 12.012035
+    },
+    {
+      "id": "PH-12017501266-A1",
+      "title": [
+        "METHOD FOR CREATING A SEMICONDUCTOR WAFER HAVING PROFILED DOPING AND WAFERS AND SOLAR CELL COMPONENTS HAVING A PROFILED FIELD, SUCH AS DRIFT AND BACK SURFACE"
+      ],
+      "abstract": "A semiconductor wafer forms on a mold containing a dopant. The dopant dopes a melt region adjacent the mold. There, dopant concentration is higher than in the melt bulk. A wafer starts solidifying. Dopant diffuses poorly in solid semiconductor. After a wafer starts solidifying, dopant can not enter the melt. Afterwards, the concentration of dopant in the melt adjacent the wafer surface is less than what was present where the wafer began to form. New wafer regions grow from a melt region whose dopant concentration lessens over time. This establishes a dopant gradient in the wafer, with higher concentration adjacent the mold. The gradient can be tailored. A gradient gives rise to a field that can function as a drift or back surface field. Solar collectors can have open grid conductors and better optical reflectors on the back surface, made possible by the intrinsic back surface field.",
+      "publicationNumber": "PH12017501266",
+      "publicationDate": "2018-02-05",
+      "assignee": [
+        "1366 TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "RALF JONCZYK",
+        "BRIAN, D. KERNAN",
+        "G. D. STEPHEN HUDELSON",
+        "ADAM, M. LORENZ",
+        "EMANUEL, M. SACHS"
+      ],
+      "applicationDate": "2015-10-14",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Semiconductors"
+      ],
+      "score": 12.012035
+    },
+    {
+      "id": "MX-391975-B",
+      "title": [
+        "METHOD FOR CREATING A SEMICONDUCTOR WAFER HAVING PROFILED DOPING AND WAFERS AND SOLAR CELL COMPONENTS HAVING A PROFILED FIELD, SUCH AS DRIFT AND BACK SURFACE"
+      ],
+      "abstract": "A semiconductor wafer forms on a mold containing a dopant. The dopant dopes a melt region adjacent the mold. There, dopant concentration is higher than in the melt bulk. A wafer starts solidifying. Dopant diffuses poorly in solid semiconductor. After a wafer starts solidifying, dopant can not enter the melt. Afterwards, the concentration of dopant in the melt adjacent the wafer surface is less than what was present where the wafer began to form. New wafer regions grow from a melt region whose dopant concentration lessens over time. This establishes a dopant gradient in the wafer, with higher concentration adjacent the mold. The gradient can be tailored. A gradient gives rise to a field that can function as a drift or back surface field. Solar collectors can have open grid conductors and better optical reflectors on the back surface, made possible by the intrinsic back surface field.",
+      "publicationNumber": "MX391975",
+      "publicationDate": "2025-03-21",
+      "assignee": [
+        "1366 TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "LORENZ ADAM M.",
+        "KERNAN BRIAN D.",
+        "SACHS EMANUEL M.",
+        "HUDELSON G. D. STEPHEN",
+        "JONCZYK RALF"
+      ],
+      "applicationDate": "2017-06-30",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Semiconductors"
+      ],
+      "score": 12.012035
+    },
+    {
+      "id": "MX-2017008785-A",
+      "title": [
+        "METHOD FOR CREATING A SEMICONDUCTOR WAFER HAVING PROFILED DOPING AND WAFERS AND SOLAR CELL COMPONENTS HAVING A PROFILED FIELD, SUCH AS DRIFT AND BACK SURFACE."
+      ],
+      "abstract": "A semiconductor wafer forms on a mold containing a dopant. The dopant dopes a melt region adjacent the mold. There, dopant concentration is higher than in the melt bulk. A wafer starts solidifying. Dopant diffuses poorly in solid semiconductor. After a wafer starts solidifying, dopant can not enter the melt. Afterwards, the concentration of dopant in the melt adjacent the wafer surface is less than what was present where the wafer began to form. New wafer regions grow from a melt region whose dopant concentration lessens over time. This establishes a dopant gradient in the wafer, with higher concentration adjacent the mold. The gradient can be tailored. A gradient gives rise to a field that can function as a drift or back surface field. Solar collectors can have open grid conductors and better optical reflectors on the back surface, made possible by the intrinsic back surface field.",
+      "publicationNumber": "MX2017008785",
+      "publicationDate": "2017-10-19",
+      "assignee": [
+        "1366 TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "EMANUEL M. SACHS",
+        "ADAM M. LORENZ",
+        "RALF JONCZYK",
+        "G. D. STEPHEN HUDELSON",
+        "Brian D. KERNAN"
+      ],
+      "applicationDate": "2017-06-30",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Semiconductors"
+      ],
+      "score": 12.012035
+    },
+    {
+      "id": "ES-2852725-T3",
+      "title": [
+        "Procedimiento para crear una oblea semiconductora que tiene dopado perfilado"
+      ],
+      "abstract": "Un procedimiento de fabricaci\u00f3n de una oblea semiconductora para uso como un colector solar, comprendiendo el procedimiento las etapas de: a. proporcionar un material semiconductor fundido, que tiene una superficie; b. proporcionar un molde, que comprende una superficie de formaci\u00f3n, comprendiendo el molde tambi\u00e9n un dopante primario en relaci\u00f3n con el material semiconductor; c. poner en contacto la superficie de formaci\u00f3n con la superficie del material fundido, de tal manera que el dopante primario migra desde el molde al material semiconductor fundido; y d. solidificar un cuerpo de material semiconductor en la forma de una oblea sobre la superficie de formaci\u00f3n, con una primera superficie de la oblea puesta en contacto con la superficie de formaci\u00f3n, teniendo la oblea un perfil de la concentraci\u00f3n de dopante primario, habiendo una concentraci\u00f3n mayor del dopante primario en la primera superficie de la oblea, y una concentraci\u00f3n menor del dopante primario en una segunda superficie de la oblea que en la primera superficie de la oblea, estando la segunda superficie de la oblea opuesta a la primera superficie de la oblea, y siendo la primera y segunda superficies de la oblea superficies principales de la oblea.",
+      "publicationNumber": "ES2852725",
+      "publicationDate": "2021-09-14",
+      "assignee": [
+        "1366 TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "RALF JONCZYK",
+        "BRIAN KERNAN",
+        "G. D. STEPHEN HUDELSON",
+        "Adam LORENZ",
+        "EMANUEL SACHS"
+      ],
+      "applicationDate": "2015-10-14",
+      "claimsCount": 14,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Semiconductors",
+        "Solar energy",
+        "Surface technology, coating"
+      ],
+      "score": 12.012035
+    },
+    {
+      "id": "EP-3251146-A4",
+      "title": [
+        "METHOD FOR CREATING A SEMICONDUCTOR WAFER HAVING PROFILED DOPING AND WAFERS AND SOLAR CELL COMPONENTS HAVING A PROFILED FIELD, SUCH AS DRIFT AND BACK SURFACE"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP3251146",
+      "publicationDate": "2018-12-19",
+      "assignee": [
+        "1366 Technologies Inc."
+      ],
+      "inventors": [
+        "RALF JONCZYK",
+        "BRIAN, D. KERNAN",
+        "G. D. STEPHEN HUDELSON",
+        "ADAM, M. LORENZ",
+        "EMANUEL, M. SACHS"
+      ],
+      "applicationDate": "2015-10-14",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Semiconductors",
+        "Solar energy",
+        "Surface technology, coating"
+      ],
+      "score": 12.012035
+    },
+    {
+      "id": "EP-3251146-A1",
+      "title": [
+        "METHOD FOR CREATING A SEMICONDUCTOR WAFER HAVING PROFILED DOPING AND WAFERS AND SOLAR CELL COMPONENTS HAVING A PROFILED FIELD, SUCH AS DRIFT AND BACK SURFACE"
+      ],
+      "abstract": "A semiconductor wafer forms on a mold containing a dopant. The dopant dopes a melt region adjacent the mold. There, dopant concentration is higher than in the melt bulk. A wafer starts solidifying. Dopant diffuses poorly in solid semiconductor. After a wafer starts solidifying, dopant can not enter the melt. Afterwards, the concentration of dopant in the melt adjacent the wafer surface is less than what was present where the wafer began to form. New wafer regions grow from a melt region whose dopant concentration lessens over time. This establishes a dopant gradient in the wafer, with higher concentration adjacent the mold. The gradient can be tailored. A gradient gives rise to a field that can function as a drift or back surface field. Solar collectors can have open grid conductors and better optical reflectors on the back surface, made possible by the intrinsic back surface field.",
+      "publicationNumber": "EP3251146",
+      "publicationDate": "2017-12-06",
+      "assignee": [
+        "1366 Technologies Inc."
+      ],
+      "inventors": [
+        "RALF JONCZYK",
+        "BRIAN, D. KERNAN",
+        "G. D. STEPHEN HUDELSON",
+        "ADAM, M. LORENZ",
+        "EMANUEL, M. SACHS"
+      ],
+      "applicationDate": "2015-10-14",
+      "claimsCount": 53,
+      "independentClaimsCount": 6,
+      "technologyFields": [
+        "Semiconductors"
+      ],
+      "score": 12.012035
+    },
+    {
+      "id": "MX-336781-B",
+      "title": [
+        "METHODS AND APPARATI FOR MAKING THIN SEMICONDUCTOR BODIES FROM MOLTEN MATERIAL."
+      ],
+      "abstract": "A pressure differential is applied across a mold sheet and a semiconductor (e.g. silicon) wafer is formed thereon. Relaxation of the pressure differential allows release of the wafer. The mold sheet may be cooler than the melt. Heat is extracted almost exclusively through the thickness of the forming wafer. The liquid and solid interface is substantially parallel to the mold sheet. The temperature of the solidifying body is substantially uniform across its width, resulting in low stresses and dislocation density and higher crystallographic quality. The mold sheet must allow flow of gas through it. The melt can be introduced to the sheet by: full area contact with the top of a melt; traversing a partial area contact of melt with the mold sheet, whether horizontal or vertical, or in between; and by dipping the mold into a melt. The grain size can be controlled by many means.",
+      "publicationNumber": "MX336781",
+      "publicationDate": "2016-02-02",
+      "assignee": [
+        "1366 TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "EMANUEL M. SACHS",
+        "RICHARD I. WALLACE",
+        "EERIK T. HANTSOO",
+        "ADAM M. LORENZ",
+        "G. D. STEPHEN HUDELSON",
+        "RALF JONCZYK"
+      ],
+      "applicationDate": "2010-03-09",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Other special machines",
+        "Surface technology, coating"
+      ],
+      "score": 12.000162
+    },
+    {
+      "id": "ES-2680648-T3",
+      "title": [
+        "Procedimientos de fabricaci\u00f3n de cuerpos semiconductores delgados a partir de material fundido"
+      ],
+      "abstract": "Procedimiento de fabricaci\u00f3n de un cuerpo (19) semiconductor, comprendiendo el procedimiento las etapas de: a. proporcionar un material (13) semiconductor fundido, que tiene una superficie; b. proporcionar un molde (5) poroso, que comprende una superficie (6) de formaci\u00f3n; c. proporcionar un r\u00e9gimen de presi\u00f3n diferencial de manera que la presi\u00f3n en al menos una parte de la superficie (6) de formaci\u00f3n es menor que la presi\u00f3n en la superficie (15) de material fundido; d. poner en contacto la superficie (6) de formaci\u00f3n con el material (13) fundido durante una duraci\u00f3n de contacto de manera que, durante al menos una parte de la duraci\u00f3n de contacto, el r\u00e9gimen de presi\u00f3n diferencial se proporciona de manera que un cuerpo (19) de material semiconductor solidifica sobre la superficie (6) de formaci\u00f3n; e. provocar el movimiento de la superficie (6) de formaci\u00f3n en relaci\u00f3n con el material (13) semiconductor fundido, con el cuerpo (19) solidificado sobre la superficie (6) de formaci\u00f3n; y f. desprender el cuerpo (19) solidificado de la superficie (6) de formaci\u00f3n.",
+      "publicationNumber": "ES2680648",
+      "publicationDate": "2018-09-10",
+      "assignee": [
+        "1366 TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "EMANUEL, M. SACHS",
+        "RICHARD, L. WALLACE",
+        "EERIK, T. HANTSOO",
+        "ADAM, M. LORENZ",
+        "G. D., STEPHEN HUDELSON",
+        "RALF JONCZYK"
+      ],
+      "applicationDate": "2010-03-09",
+      "claimsCount": 13,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Other special machines",
+        "Semiconductors",
+        "Solar energy",
+        "Surface technology, coating"
+      ],
+      "score": 12.000162
+    },
+    {
+      "id": "CN-104220638-B",
+      "title": [
+        "\u7528\u4e8e\u5728\u886c\u5e95\u4e0a\u6c89\u79ef\u6297\u8680\u5242\u8584\u5c42\u7684\u8bbe\u5907\u548c\u5de5\u827a"
+      ],
+      "abstract": "\u672c\u53d1\u660e\u6d89\u53ca\u8584\u805a\u5408\u7269\u819c\u5728\u886c\u5e95\u4e0a\u7684\u5f62\u6210\u3002\u63cf\u8ff0\u4e86\u4e00\u79cd\u8bbe\u5907\uff0c\u8be5\u8bbe\u5907\u7528\u4e8e\u5c06\u56fa\u4f53\u805a\u5408\u7269\u6297\u8680\u5242\u8f6c\u5316\u4e3a\u5c0f\u9897\u7c92\u7684\u6c14\u6eb6\u80f6\uff0c\u4f7f\u9897\u7c92\u5e26\u9759\u7535\u5e76\u5c06\u5176\u6c89\u79ef\u5728\u886c\u5e95\u4e0a\uff0c\u5e76\u4e14\u4f7f\u9897\u7c92\u6d41\u52a8\u4e3a\u8fde\u7eed\u7684\u5c42\u3002\u8fd8\u63cf\u8ff0\u4e86\u4e00\u79cd\u8bbe\u5907\uff0c\u8be5\u8bbe\u5907\u7528\u4e8e\u901a\u8fc7\u52a0\u70ed\u6297\u8680\u5242\u4ee5\u5f62\u6210\u4f8b\u5982\u9002\u5408\u96fe\u5316\u7684\u4f4e\u7c98\u5ea6\u6db2\u4f53\u5e76\u4e14\u5e94\u7528\u5c04\u6d41\u6216\u51b2\u51fb\u96fe\u5316\u4ee5\u53ca\u6c14\u6eb6\u80f6\u9897\u7c92\u5b9a\u5f84\u7684\u6280\u672f\u6765\u5f62\u6210\u6c14\u6eb6\u80f6\uff0c\u4ece\u800c\u5c06\u56fa\u4f53\u805a\u5408\u7269\u6297\u8680\u5242\u8f6c\u5316\u4e3a\u5c0f\u9897\u7c92\u7684\u6c14\u6eb6\u80f6\u3002\u8fd8\u63cf\u8ff0\u4e86\u4f7f\u7528\u7535\u79bb\u6c14\u4f53\u5728\u6c14\u6eb6\u80f6\u9897\u7c92\u4e0a\u8d4b\u4e88\u7535\u8377\u4ee5\u53ca\u4f7f\u7528\u4e00\u7cfb\u5217\u5145\u7535\u88c5\u7f6e\u5efa\u7acb\u5c06\u5e26\u7535\u9897\u7c92\u6d41\u5bfc\u5411\u81f3\u886c\u5e95\u7684\u7535\u573a\u7684\u65b9\u6cd5\u3002\u8be5\u7cfb\u5217\u5145\u7535\u88c5\u7f6e\u548c\u76f8\u5173\u8054\u7684\u8bbe\u5907\u5bfc\u81f4\u6c14\u6eb6\u80f6\u9897\u7c92\u7684\u9ad8\u6536\u96c6\u6548\u7387\u3002",
+      "publicationNumber": "CN104220638",
+      "publicationDate": "2017-03-22",
+      "assignee": [
+        "1366 TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "DANNER GUY M.",
+        "GATES HOLLY G.",
+        "TARASOV VLADIMIR S.",
+        "KANE PETER E.",
+        "MADDEN PETER G.",
+        "SACHS EMANUEL M."
+      ],
+      "applicationDate": "2012-10-12",
+      "claimsCount": 26,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Surface technology, coating"
+      ],
+      "score": 11.8602295
+    },
+    {
+      "id": "CN-106233468-B",
+      "title": [
+        "\u7528\u4e8e\u5236\u9020\u5e26\u6709\u6bd4\u5176\u4ed6\u533a\u76f8\u5bf9\u66f4\u539a\u7684\u5c40\u90e8\u53d7\u63a7\u533a\u7684\u8584\u534a\u5bfc\u4f53\u6676\u7247\u7684\u65b9\u6cd5\u548c\u88c5\u7f6e\u4ee5\u53ca\u8fd9\u79cd\u6676\u7247"
+      ],
+      "abstract": "\u5728\u53d7\u63a7\u4f4d\u7f6e\u5904\u5e26\u6709\u66f4\u539a\u533a\u548c\u8584\u533a\u7684\u534a\u5bfc\u4f53\u6676\u7247\u53ef\u4ee5\u7528\u4e8e\u5149\u7535\u3002\u5185\u90e8\u53ef\u4ee5\u5c11\u4e8e180\u5fae\u7c73\u6216\u66f4\u8584\u81f350\u5fae\u7c73\uff0c\u5e26\u6709\u5728180\u2011250\u5fae\u7c73\u5904\u7684\u66f4\u539a\u90e8\u5206\u3002\u8584\u6676\u7247\u5177\u6709\u66f4\u9ad8\u7684\u6548\u7387\u3002\u66f4\u539a\u7684\u5468\u754c\u63d0\u4f9b\u52a0\u5de5\u5f3a\u5ea6\u3002\u66f4\u539a\u7684\u6761\u5e26\u3001\u7740\u9646\u53f0\u3001\u548c\u5c9b\u72b6\u7269\u7528\u4e8e\u91d1\u5c5e\u5316\u8026\u5408\u3002\u6676\u7247\u53ef\u4ee5\u4ece\u6a21\u677f\u4e0a\u7684\u7194\u5316\u7269\u76f4\u63a5\u5236\u5f97\uff0c\u6240\u8ff0\u6a21\u677f\u5e26\u6709\u88ab\u5e03\u7f6e\u6210\u5bf9\u5e94\u4e8e\u76f8\u5bf9\u539a\u5ea6\u7684\u4f4d\u7f6e\u7684\u4e0d\u540c\u70ed\u63d0\u53d6\u503e\u5411\u7684\u533a\u3002\u95f4\u9699\u6c27\u5c11\u4e8e6x1017 atoms/cc\uff0c\u4f18\u9009\u5730\u5c11\u4e8e2x1017\uff0c\u603b\u6c27\u5c11\u4e8e8.75x1017 atoms/cc\uff0c\u4f18\u9009\u5730\u5c11\u4e8e5.25x1017\u3002\u66f4\u539a\u7684\u533a\u90bb\u8fd1\u5177\u6709\u76f8\u5bf9\u66f4\u9ad8\u70ed\u63d0\u53d6\u503e\u5411\u7684\u6a21\u677f\u533a\u5f62\u6210\uff1b\u66f4\u8584\u7684\u533a\u90bb\u8fd1\u5e26\u6709\u66f4\u5c0f\u63d0\u53d6\u503e\u5411\u7684\u533a\u3002\u66f4\u539a\u7684\u6a21\u677f\u533a\u5177\u6709\u66f4\u9ad8\u7684\u63d0\u53d6\u503e\u5411\u3002\u5728\u6a21\u677f\u4e0a\u7684\u529f\u80fd\u6750\u6599\u4e5f\u5177\u6709\u4e0d\u540c\u7684\u63d0\u53d6\u503e\u5411\u3002",
+      "publicationNumber": "CN106233468",
+      "publicationDate": "2019-11-29",
+      "assignee": [
+        "1366 TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "E.M. Sachs",
+        "R. Rontzk",
+        "A.L. Lawrence",
+        "R.L. WALLACE",
+        "G.D.S. Kazakhstan Deersen"
+      ],
+      "applicationDate": "2015-04-17",
+      "claimsCount": 33,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Semiconductors"
+      ],
+      "score": 11.850989
+    },
+    {
+      "id": "EP-3289116-A4",
+      "title": [
+        "METHOD FOR MAINTAINING CONTAINED VOLUME OF MOLTEN MATERIAL FROM WHICH MATERIAL IS DEPLETED AND REPLENISHED"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP3289116",
+      "publicationDate": "2019-01-16",
+      "assignee": [
+        "1366 Technologies Inc."
+      ],
+      "inventors": [
+        "RALF JONCZYK",
+        "RICHARD, L. WALLACE",
+        "DAVID, S. HARVEY"
+      ],
+      "applicationDate": "2016-04-28",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Surface technology, coating"
+      ],
+      "score": 11.780613
+    },
+    {
+      "id": "EP-3289116-A1",
+      "title": [
+        "METHOD FOR MAINTAINING CONTAINED VOLUME OF MOLTEN MATERIAL FROM WHICH MATERIAL IS DEPLETED AND REPLENISHED"
+      ],
+      "abstract": "A main crucible of molten semiconductor is replenished from a supply crucible maintained such that there are always two phases of solid and liquid semiconductor within the supply crucible. Heat added to melt the solid material results in the solid material changing phase to liquid, but will not result in any significant elevation in temperature of the liquid within the supply crucible. The temperature excursions are advantageously small, being less than that which would cause problems with the formed product. The solid product material acts as a sort of temperature buffer, to maintain the supply liquid temperature automatically and passively at or very near to the phase transition temperature. For silicon, excursions are kept to less than 90\u00b0C, and even as small as 50\u00b0C. The methods also are useful with germanium. Prior art silicon methods that entirely melt the semiconductor experience excursions exceeding 100\u00b0C.",
+      "publicationNumber": "EP3289116",
+      "publicationDate": "2018-03-07",
+      "assignee": [
+        "1366 Technologies Inc."
+      ],
+      "inventors": [
+        "RALF JONCZYK",
+        "RICHARD, L. WALLACE",
+        "DAVID, S. HARVEY"
+      ],
+      "applicationDate": "2016-04-28",
+      "claimsCount": 30,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Surface technology, coating"
+      ],
+      "score": 11.780613
+    },
+    {
+      "id": "CN-107408490-B",
+      "title": [
+        "\u521b\u5efa\u5177\u6709\u5206\u5e03\u63ba\u6742\u7684\u534a\u5bfc\u4f53\u6676\u7247\u7684\u65b9\u6cd5\u548c\u542b\u5206\u5e03\u573a\u7684\u6676\u7247"
+      ],
+      "abstract": "\u534a\u5bfc\u4f53\u6676\u7247\u5728\u5305\u542b\u63ba\u6742\u5242\u7684\u6a21\u5177\u4e0a\u5f62\u6210\u3002\u63ba\u6742\u5242\u5bf9\u90bb\u8fd1\u6a21\u5177\u7684\u7194\u4f53\u533a\u57df\u8fdb\u884c\u63ba\u6742\u3002\u5728\u90a3\u91cc\uff0c\u63ba\u6742\u5242\u6d53\u5ea6\u9ad8\u4e8e\u7194\u4f53\u5757\u4f53\u4e2d\u7684\u63ba\u6742\u5242\u6d53\u5ea6\u3002\u6676\u7247\u5f00\u59cb\u51dd\u56fa\u3002\u63ba\u6742\u5242\u5728\u56fa\u4f53\u534a\u5bfc\u4f53\u4e2d\u4e0d\u826f\u5730\u6269\u6563\u3002\u5728\u6676\u7247\u5f00\u59cb\u51dd\u56fa\u4e4b\u540e\uff0c\u63ba\u6742\u5242\u4e0d\u80fd\u8fdb\u5165\u7194\u4f53\u3002\u4e4b\u540e\uff0c\u90bb\u8fd1\u6676\u7247\u8868\u9762\u7684\u7194\u4f53\u4e2d\u7684\u63ba\u6742\u5242\u7684\u6d53\u5ea6\u5c0f\u4e8e\u6676\u7247\u5f00\u59cb\u5f62\u6210\u7684\u5730\u65b9\u5b58\u5728\u7684\u63ba\u6742\u5242\u7684\u6d53\u5ea6\u3002\u65b0\u7684\u6676\u7247\u533a\u57df\u4ece\u5176\u63ba\u6742\u5242\u6d53\u5ea6\u968f\u65f6\u95f4\u7684\u63a8\u79fb\u51cf\u5c11\u7684\u7194\u4f53\u533a\u57df\u751f\u957f\u3002\u8fd9\u5728\u6676\u7247\u4e2d\u5efa\u7acb\u4e86\u63ba\u6742\u5242\u68af\u5ea6\uff0c\u90bb\u8fd1\u6a21\u5177\u5177\u6709\u8f83\u9ad8\u6d53\u5ea6\u3002\u80fd\u591f\u4fee\u6574\u68af\u5ea6\u3002\u68af\u5ea6\u4ea7\u751f\u80fd\u591f\u8d77\u6f02\u79fb\u573a\u6216\u80cc\u8868\u9762\u573a\u7684\u4f5c\u7528\u7684\u573a\u3002\u592a\u9633\u80fd\u6536\u96c6\u5668\u80fd\u591f\u5728\u80cc\u8868\u9762\u4e0a\u5177\u6709\u5f00\u653e\u6805\u683c\u5bfc\u4f53\u548c\u66f4\u597d\u7684\u5149\u5b66\u53cd\u5c04\u5668\uff0c\u56fa\u6709\u7684\u80cc\u8868\u9762\u573a\u4f7f\u6240\u8ff0\u66f4\u597d\u7684\u5149\u5b66\u53cd\u5c04\u5668\u53d8\u5f97\u53ef\u80fd\u3002",
+      "publicationNumber": "CN107408490",
+      "publicationDate": "2021-05-25",
+      "assignee": [
+        "1366 TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "R. Rontzk",
+        "B.D. Kernan",
+        "G.D.S. Hudson",
+        "A.M. Lawrence",
+        "E.M. Sachs"
+      ],
+      "applicationDate": "2015-10-14",
+      "claimsCount": 46,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Semiconductors"
+      ],
+      "score": 11.771713
+    },
+    {
+      "id": "CN-102421947-B",
+      "title": [
+        "\u4ece\u5df2\u7194\u5316\u6750\u6599\u5236\u9020\u8584\u534a\u5bfc\u4f53\u672c\u4f53\u7684\u65b9\u6cd5\u548c\u88c5\u7f6e"
+      ],
+      "abstract": "\u5c06\u538b\u5dee\u65bd\u52a0\u5230\u6a21\u5177\u677f\u4e24\u4fa7\uff0c\u5e76\u4e14\u5728\u6a21\u5177\u677f\u4e0a\u5f62\u6210\u534a\u5bfc\u4f53(\u4f8b\u5982\u7845)\u6676\u5706\u3002\u538b\u5dee\u7684\u677e\u5f1b\u5141\u8bb8\u6676\u5706\u7684\u91ca\u653e\u3002\u6a21\u5177\u677f\u53ef\u4ee5\u6bd4\u7194\u5316\u7269\u51b7\u3002\u70ed\u91cf\u51e0\u4e4e\u4ec5\u7a7f\u8fc7\u5f62\u6210\u7684\u6676\u5706\u7684\u539a\u5ea6\u63d0\u53d6\u3002\u6db2\u4f53\u548c\u56fa\u4f53\u754c\u9762\u57fa\u672c\u5e73\u884c\u4e8e\u6a21\u5177\u677f\u3002\u56fa\u5316\u4f53\u7684\u6e29\u5ea6\u6a2a\u8de8\u5176\u5bbd\u5ea6\u662f\u57fa\u672c\u7edf\u4e00\u7684\uff0c\u5bfc\u81f4\u4f4e\u5e94\u529b\u548c\u4f4e\u4f4d\u9519\u5bc6\u5ea6\u4ee5\u53ca\u8f83\u9ad8\u7684\u7ed3\u6676\u8d28\u91cf\u3002\u6a21\u5177\u677f\u5fc5\u987b\u5141\u8bb8\u6c14\u4f53\u6d41\u52a8\u901a\u8fc7\u3002\u7194\u5316\u7269\u80fd\u591f\u901a\u8fc7\u4ee5\u4e0b\u65b9\u5f0f\u5f15\u5165\u5230\u6a21\u5177\u677f\uff1a\u4e0e\u7194\u5316\u7269\u7684\u9876\u90e8\u5168\u533a\u57df\u63a5\u89e6\uff1b\u4ee5\u6c34\u5e73\u6216\u7ad6\u76f4\u7684\u65b9\u5f0f\u6216\u4ecb\u4e8e\u5176\u95f4\u7684\u65b9\u5f0f\u6765\u56de\u5728\u7194\u5316\u7269\u4e0e\u6a21\u5177\u677f\u7684\u90e8\u5206\u533a\u57df\u63a5\u89e6\u6765\u56de\u79fb\u52a8\uff1b\u4ee5\u53ca\u901a\u8fc7\u5c06\u6a21\u5177\u677f\u6cbe\u5165\u5230\u7194\u5316\u7269\u4e2d\u3002\u80fd\u591f\u901a\u8fc7\u591a\u79cd\u65b9\u5f0f\u6765\u63a7\u5236\u6676\u7c92\u5c3a\u5bf8\u3002",
+      "publicationNumber": "CN102421947",
+      "publicationDate": "2016-09-28",
+      "assignee": [
+        "1366 TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "SACHS EMANUEL M.",
+        "WALLACE RICHARD L.",
+        "HANTSOO EERIK T",
+        "LORENZ ADAM M",
+        "HUDELSON G. D. STEPHEN",
+        "JONCZYK RALF"
+      ],
+      "applicationDate": "2010-03-09",
+      "claimsCount": 72,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Other special machines",
+        "Surface technology, coating"
+      ],
+      "score": 11.761091
+    },
+    {
+      "id": "CA-2819144-C",
+      "title": [
+        "MAKING SEMICONDUCTOR BODIES FROM MOLTEN MATERIAL USING A FREE-STANDING INTERPOSER SHEET"
+      ],
+      "abstract": "An interposer sheet can be used for making semiconductor bodies, such as of silicon, such as for solar cell use. It is free-standing, very thin, flexible, porous and able to withstand the chemical and thermal environment of molten semiconductor without degradation. It is typically of a ceramic material, such as silica, silicon nitride, silicon oxynitride, silicon oxycarbide, silicon carbide, silicon carbonitride, silicon oxycarbonitride and others. It is provided between a forming surface of a mold sheet, and the molten material from which a semiconductor body will be formed. It may be secured to the forming surface or deposited upon the melt. The interposer sheet suppresses grain nucleation, and limits heat flow from the melt. It promotes separation of the semiconductor body from the forming surface. It can be fabricated before its use. Because free-standing and not adhered to the forming surface, problems of mismatch of CTE are minimized. The interposer sheet and semiconductor body are free to expand and contract relatively independently of the forming surface.",
+      "publicationNumber": "CA2819144",
+      "publicationDate": "2019-06-04",
+      "assignee": [
+        "1366 TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "RALF JONCZYK",
+        "EMANUEL M. SACHS"
+      ],
+      "applicationDate": "2011-12-01",
+      "claimsCount": 28,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Surface technology, coating"
+      ],
+      "score": 11.720351
+    },
+    {
+      "id": "US-9425346-B2",
+      "title": [
+        "Methods of imprint patterning of irregular surface"
+      ],
+      "abstract": "Patterned substrates for photovoltaic and other uses are made by pressing a flexible stamp upon a thin layer of resist material, which covers a substrate, such as a wafer. The resist changes phase or becomes flowable, flowing away from locations of impression, revealing the substrate, which is subjected to some shaping process. A typical substrate is silicon, and a typical resist is a wax. Workpiece textures include extended grooves, discrete, spaced apart pits, and combinations and intermediates thereof. Platen or rotary patterning apparatus may be used. Rough and irregular workpiece substrates may be accommodated by extended stamp elements. Resist may be applied first to the workpiece, the stamp, or substantially simultaneously, in discrete locations, or over the entire surface of either. The resist dewets the substrate completely where desired.",
+      "publicationNumber": "US9425346",
+      "publicationDate": "2016-08-23",
+      "assignee": [
+        "1366 TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "Benjamin F. Polito",
+        "Holly G. Gates",
+        "Emanuel M. Sachs"
+      ],
+      "applicationDate": "2014-01-16",
+      "claimsCount": 20,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Micro-structural and nano-technology",
+        "Optics",
+        "Other special machines",
+        "Semiconductors",
+        "Solar energy"
+      ],
+      "score": 11.666737
+    },
+    {
+      "id": "US-20210288207-A1",
+      "title": [
+        "HIGH TEMPERATURE ACID ETCH FOR SILICON"
+      ],
+      "abstract": "A method includes etching silicon using a mixture of nitric acid and hydrofluoric acid in which less than 6 mols of hydrofluoric acid is used to etch one mol of silicon. The etching may be conducted at an elevated temperature, such as a temperature of at least 70 degrees Celsius.",
+      "publicationNumber": "US20210288207",
+      "publicationDate": "2021-09-16",
+      "assignee": [
+        "1366 TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "Ralf Jonczyk",
+        "Patrick McMahon"
+      ],
+      "applicationDate": "2021-03-15",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Semiconductors",
+        "Solar energy"
+      ],
+      "score": 11.628904
+    },
+    {
+      "id": "US-20200251355-A1",
+      "title": [
+        "SEMI-CONDUCTOR WAFERS LONGER THAN INDUSTRY STANDARD SQUARE"
+      ],
+      "abstract": "A semiconductor wafer is as wide as the industry standard width A (presently 156 mm+/\u22121 mm) and is longer than the industry standard A by at least 1 mm and as much as the standard equipment can reasonably accommodate, presently approximately 3-20 mm and potentially longer, thus, gaining significant additional surface area for sunlight absorption. Modules may be composed of a plurality of such larger wafers. Such wafers can be processed in conventional processing equipment that has a wafer retaining portion of industry standard size A and a configuration that also accommodates a wafer with a perpendicular second edge longer than A by at least 1 and typically 3-20 mm. Wet bench carriers and transport and inspection stations can be so used.",
+      "publicationNumber": "US20200251355",
+      "publicationDate": "2020-08-06",
+      "assignee": [
+        "1366 TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "Robertus Antonius Steeman"
+      ],
+      "applicationDate": "2018-10-23",
+      "claimsCount": 6,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Handling",
+        "Semiconductors",
+        "Solar energy"
+      ],
+      "score": 11.619885
+    },
+    {
+      "id": "EP-3701564-A4",
+      "title": [
+        "SEMI-CONDUCTOR WAFERS LONGER THAN INDUSTRY STANDARD SQUARE"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP3701564",
+      "publicationDate": "2021-07-28",
+      "assignee": [
+        "1366 Technologies Inc."
+      ],
+      "inventors": [
+        "ROBERTUS ANTONIUS STEEMAN"
+      ],
+      "applicationDate": "2018-10-23",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Machine tools",
+        "Semiconductors",
+        "Solar energy"
+      ],
+      "score": 11.619885
+    },
+    {
+      "id": "EP-3701564-A1",
+      "title": [
+        "SEMI-CONDUCTOR WAFERS LONGER THAN INDUSTRY STANDARD SQUARE"
+      ],
+      "abstract": "A semiconductor wafer is as wide as the industry standard width A (presently 156 mm +/- 1 mm) and is longer than the industry standard A by at least 1 mm and as much as the standard equipment can reasonably accommodate, presently approximately 3-20 mm and potentially longer, thus, gaining significant additional surface area for sunlight absorption. Modules may be composed of a plurality of such larger wafers. Such wafers can be processed in conventional processing equipment that has a wafer retaining portion of industry standard size A and a configuration that also accommodates a wafer with a perpendicular second edge longer than A by at least 1 and typically 3-20 mm. Wet bench carriers and transport and inspection stations can be so used.",
+      "publicationNumber": "EP3701564",
+      "publicationDate": "2020-09-02",
+      "assignee": [
+        "1366 Technologies Inc."
+      ],
+      "inventors": [
+        "ROBERTUS ANTONIUS STEEMAN"
+      ],
+      "applicationDate": "2018-10-23",
+      "claimsCount": 26,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Machine tools",
+        "Semiconductors"
+      ],
+      "score": 11.619885
+    },
+    {
+      "id": "TW-I667700-B",
+      "title": [
+        "Making semiconductor bodies from molten material using a free-standing interposer sheet"
+      ],
+      "abstract": "\u4e00\u7a2e\u63d2\u5165\u7247\u53ef\u7528\u65bc\u88fd\u9020\u5982\u77fd\u4e4b\u534a\u5c0e\u9ad4\u4e3b\u9ad4\uff0c\u5982\u7528\u65bc\u592a\u967d\u80fd\u96fb\u6c60\u4f7f\u7528\u3002\u8a72\u63d2\u5165\u7247\u70ba\u7368\u7acb\u7684\u3001\u6975\u8584\u3001\u53ef\u6493\u3001\u591a\u5b54\uff0c\u4e14\u80fd\u5920\u5728\u4e0d\u964d\u89e3\u7684\u60c5\u6cc1\u4e0b\u8010\u53d7\u7194\u878d\u534a\u5c0e\u9ad4\u4e4b\u5316\u5b78\u53ca\u71b1\u74b0\u5883\u3002\u8a72\u63d2\u5165\u7247\u901a\u5e38\u7531\u9676\u74f7\u6750\u6599\u88fd\u6210\uff0c\u5982\u4e8c\u6c27\u5316\u77fd\u3001\u6c2e\u5316\u77fd\u3001\u6c2e\u6c27\u5316\u77fd\u3001\u78b3\u6c27\u5316\u77fd\u3001\u78b3\u5316\u77fd\u3001\u78b3\u6c2e\u5316\u77fd\u3001\u78b3\u6c2e\u6c27\u5316\u77fd\u53ca\u5176\u4ed6\u6750\u6599\u3002\u8a72\u63d2\u5165\u7247\u8a2d\u7f6e\u65bc\u4e00\u6a21\u88fd\u7247\u4e4b\u4e00\u5f62\u6210\u8868\u9762\u8207\u5c07\u5f62\u6210\u4e00\u534a\u5c0e\u9ad4\u4e3b\u9ad4\u4e4b\u7194\u878d\u6750\u6599\u4e4b\u9593\u3002\u53ef\u5c07\u8a72\u63d2\u5165\u7247\u7dca\u56fa\u81f3\u8a72\u5f62\u6210\u8868\u9762\u6216\u6c89\u7a4d\u65bc\u8a72\u7194\u878d\u7269\u4e0a\u3002\u8a72\u63d2\u5165\u7247\u6291\u5236\u6676\u7c92\u6210\u6838\uff0c\u4e14\u9650\u5236\u4f86\u81ea\u8a72\u7194\u878d\u7269\u4e4b\u71b1\u6d41\u3002\u8a72\u63d2\u5165\u7247\u4fc3\u9032\u8a72\u534a\u5c0e\u9ad4\u4e3b\u9ad4\u8207\u8a72\u5f62\u6210\u8868\u9762\u4e4b\u5206\u96e2\u3002\u53ef\u5728\u8a72\u63d2\u5165\u7247\u4f7f\u7528\u4e4b\u524d\u88fd\u9020\u8a72\u63d2\u5165\u7247\u3002\u56e0\u70ba\u7368\u7acb\u4e14\u4e0d\u9ecf\u9644\u81f3\u8a72\u5f62\u6210\u8868\u9762\uff0c\u6240\u4ee5CTE\u4e0d\u5339\u914d\u4e4b\u554f\u984c\u5f97\u4ee5\u6700\u5c0f\u5316\u3002\u8a72\u63d2\u5165\u7247\u53ca\u534a\u5c0e\u9ad4\u4e3b\u9ad4\u4ee5\u76f8\u5c0d\u7368\u7acb\u65bc\u8a72\u5f62\u6210\u8868\u9762\u4e4b\u65b9\u5f0f\u81ea\u7531\u81a8\u8139\u53ca\u6536\u7e2e\u3002",
+      "publicationNumber": "TWI667700",
+      "publicationDate": "2019-08-01",
+      "assignee": [
+        "1366 TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "RALF JONCZYK",
+        "EMANUEL M. SACHS"
+      ],
+      "applicationDate": "2011-12-01",
+      "claimsCount": 35,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Semiconductors"
+      ],
+      "score": 11.611729
+    },
+    {
+      "id": "US-20190393375-A1",
+      "title": [
+        "METHODS FOR CREATING A SEMICONDUCTOR WAFER HAVING PROFILED DOPING AND WAFERS AND SOLAR CELL COMPONENTS HAVING A PROFILED FIELD, SUCH AS DRIFT AND BACK SURFACE"
+      ],
+      "abstract": "A semiconductor wafer forms on a mold containing a dopant. The dopant dopes a melt region adjacent the mold. There, dopant concentration is higher than in the melt bulk. A wafer starts solidifying. Dopant diffuses poorly in solid semiconductor. After a wafer starts solidifying, dopant can not enter the melt. Afterwards, the concentration of dopant in the melt adjacent the wafer surface is less than what was present where the wafer began to form. New wafer regions grow from a melt region whose dopant concentration lessens over time. This establishes a dopant gradient in the wafer, with higher concentration adjacent the mold. The gradient can be tailored. A gradient gives rise to a field that can function as a drift or back surface field. Solar collectors can have open grid conductors and better optical reflectors on the back surface, made possible by the intrinsic back surface field.",
+      "publicationNumber": "US20190393375",
+      "publicationDate": "2019-12-26",
+      "assignee": [
+        "1366 TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "Ralf Jonczyk",
+        "Brian D. Kernan",
+        "G.D. Stephen Hudelson",
+        "Adam M. Lorenz",
+        "Emanuel M. Sachs"
+      ],
+      "applicationDate": "2019-09-04",
+      "claimsCount": 26,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Semiconductors",
+        "Solar energy"
+      ],
+      "score": 11.541658
+    },
+    {
+      "id": "SA-516380177-B1",
+      "title": [
+        "METHODS AND APPARATI FOR MAKING THIN SEMI-CONDUCTOR WAFERS WITH LOCALLY CONTROLLED REGIONS THAT ARE RELATIVELY THICKER THAN OTHER REGIONS AND SUCH WAFERS"
+      ],
+      "abstract": "Semi-conductor wafers with thin and thicker regions at controlled locations may be for Photovoltaics. The interior may be less than 180 microns or thinner, to 50 microns, with a thicker portion, at 180 - 250 microns. Thin wafers have higher efficiency. A thicker perimeter provides handling strength. Thicker stripes, landings and islands are for metallization coupling. Wafers may be made directly from a melt upon a template with regions of different heat extraction propensity arranged to correspond to locations of relative thicknesses. Interstitial oxygen is less than 6 x 1017 atoms/cc, preferably less than 2 x 1017, total oxygen less than 8.75 x 1017 atoms/cc, preferably less than 5.25 x 1017. Thicker regions form adjacent template regions having relatively higher heat extraction propensity; thinner regions adjacent regions with lesser extraction propensity. Thicker template regions have higher extraction propensity. Functional materials upon the template also have differing extractio",
+      "publicationNumber": "SA516380177",
+      "publicationDate": "2020-09-06",
+      "assignee": [
+        "1366 TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "RALF JONCZYK",
+        "EMANUEL SACHS",
+        "Adam LORENZ",
+        "Stephen G.D. HUDELSON",
+        "RICHARD WALLACE"
+      ],
+      "applicationDate": "2016-10-27",
+      "claimsCount": 1,
+      "independentClaimsCount": 1,
+      "technologyFields": [],
+      "score": 11.507986
+    },
+    {
+      "id": "KR-101889858-B1",
+      "title": [
+        "Making semiconductor bodies from molten material using a free-standing interposer sheet"
+      ],
+      "abstract": "\uc778\ud130\ud3ec\uc800 \uc2dc\ud2b8\ub294, \ud0dc\uc591 \uc804\uc9c0 \uc6a9\ub3c4\ub97c \uc704\ud55c \uac83\uacfc \uac19\uc774, \uc2e4\ub9ac\ucf58 \ub4f1\uc73c\ub85c \ub41c \ubc18\ub3c4\uccb4 \ubab8\uccb4\ub4e4\uc744 \ub9cc\ub4e4\uae30 \uc704\ud574 \uc0ac\uc6a9\ub420 \uc218 \uc788\ub2e4. \uc778\ud130\ud3ec\uc800 \uc2dc\ud2b8\ub294 \uc790\uc720\ub86d\uac8c \uc11c\uc788\uace0, \ub9e4\uc6b0 \uc587\uc73c\uba70, \uc720\uc5f0\uc131 \uc788\ub294 \ub2e4\uacf5\uc131\uc758 \uac83\uc774\uace0, \uc5f4\ud654 \uc5c6\uc774, \ub179\uc740 \ubc18\ub3c4\uccb4\uc758 \ud654\ud559\uc801 \ubc0f \uc5f4\uc801 \ud658\uacbd\uc744 \uacac\ub51c \uc218 \uc788\ub2e4. \uc778\ud130\ud3ec\uc800 \uc2dc\ud2b8\ub294, \ud1b5\uc0c1\uc801\uc73c\ub85c, \uc2e4\ub9ac\uce74, \uc2e4\ub9ac\ucf58 \ub2c8\ud2b8\ub77c\uc774\ub4dc, \uc2e4\ub9ac\ucf58 \uc625\uc2dc\ub2c8\ud2b8\ub77c\uc774\ub4dc, \uc2e4\ub9ac\ucf58 \uc625\uc2dc\uce74\ubc14\uc774\ub4dc, \uc2e4\ub9ac\ucf58 \uce74\ubc14\uc774\ub4dc, \uc2e4\ub9ac\ucf58 \uce74\ubcf4\ub2c8\ud2b8\ub77c\uc774\ub4dc, \uc2e4\ub9ac\ucf58 \uc625\uc2dc\uce74\ubcf4\ub2c8\ud2b8\ub77c\uc774\ub4dc \ub4f1\uacfc \uac19\uc740 \uc138\ub77c\ubbf9 \ubb3c\uc9c8\ub85c \ub418\uc5b4 \uc788\ub2e4. \uc778\ud130\ud3ec\uc800 \uc2dc\ud2b8\ub294 \ubab0\ub4dc \uc2dc\ud2b8\uc758 \ud615\uc131 \ud45c\uba74\uacfc, \ubc18\ub3c4\uccb4 \ubab8\uccb4\uac00 \ud615\uc131\ub420 \ub179\uc740 \ubb3c\uc9c8 \uc0ac\uc774\uc5d0 \uc81c\uacf5\ub41c\ub2e4. \uc778\ud130\ud3ec\uc800 \uc2dc\ud2b8\ub294 \ud615\uc131 \ud45c\uba74\uc5d0 \uace0\ucc29\ub418\uac70\ub098 \uc6a9\uc735\uccb4 \uc0c1\uc5d0 \uc801\uce35\ub420 \uc218 \uc788\ub2e4. \uc778\ud130\ud3ec\uc800 \uc2dc\ud2b8\ub294 \uadf8\ub808\uc778 \ud575 \ud615\uc131\uc744 \uc5b5\ub204\ub974\uace0, \uc6a9\uc735\uccb4\ub85c\ubd80\ud130\uc758 \uc5f4 \ud750\ub984\uc744 \uc81c\ud55c\ud55c\ub2e4. \uc778\ud130\ud3ec\uc800 \uc2dc\ud2b8\ub294 \ud615\uc131 \ud45c\uba74\uc73c\ub85c\ubd80\ud130 \ubc18\ub3c4\uccb4 \ubab8\uccb4\uc758 \ubd84\ub9ac\ub97c \ucd09\uc9c4\ud55c\ub2e4. \uc778\ud130\ud3ec\uc800 \uc2dc\ud2b8\ub294 \uadf8\uac83\uc774 \uc0ac\uc6a9\ub418\uae30 \uc804\uc5d0 \uc81c\uc791\ub420 \uc218 \uc788\ub2e4. \uc790\uc720\ub86d\uac8c \uc11c \uc788\uace0, \ud615\uc131 \ud45c\uba74\uc5d0 \ub2ec\ub77c\ubd99\uc9c0 \uc54a\uae30 \ub54c\ubb38\uc5d0, CTE\uc758 \ubd80\uc815\ud569 \ubb38\uc81c\ub4e4\uc774 \ucd5c\uc18c\ud654\ub41c\ub2e4. \uc778\ud130\ud3ec\uc800 \uc2dc\ud2b8\uc640 \ubc18\ub3c4\uccb4 \ubab8\uccb4\ub294, \uc790\uc720\ub86d\uac8c \ud655\uc7a5\ud558\uace0 \ud615\uc131 \ud45c\uba74\uc5d0 \ub300\ud574 \ube44\uad50\uc801 \ub3c5\ub9bd\uc801\uc73c\ub85c \uc811\ucd09\ud55c\ub2e4.",
+      "publicationNumber": "KR101889858",
+      "publicationDate": "2018-08-20",
+      "assignee": [
+        "1366 \ud14c\ud06c\ub180\ub85c\uc9c0 \uc778\ucf54\ud3ec\ub808\uc774\ud2f0\ub4dc"
+      ],
+      "inventors": [
+        "\uc874\ud06c\uc790\ud06c \ub784\ud504",
+        "\uc0ad\uc2a4 \uc5d0\ub9c8\ub274\uc5d8 \uc5e0."
+      ],
+      "applicationDate": "2011-12-01",
+      "claimsCount": 25,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Semiconductors",
+        "Surface technology, coating"
+      ],
+      "score": 11.505284
+    },
+    {
+      "id": "TW-201718958-A",
+      "title": [
+        "Method for maintaining contained volume of molten material from which material is depleted and replenished"
+      ],
+      "abstract": "A main crucible of molten semiconductor is replenished from a supply crucible maintained such that there are always two phases of solid and liquid semiconductor within the supply crucible. Heat added to melt the solid material results in the solid material changing phase to liquid, but will not result in any significant elevation in temperature of the liquid within the supply crucible. The temperature excursions are advantageously small, being less than that which would cause problems with the formed product. The solid product material acts as a sort of temperature buffer, to maintain the supply liquid temperature automatically and passively at or very near to the phase transition temperature. For silicon, excursions are kept to less than 90 DEG C, and even as small as 50 DEG C. The methods also are useful with germanium. Prior art silicon methods that entirely melt the semiconductor experience excursions exceeding 100 DEG C.",
+      "publicationNumber": "TW201718958",
+      "publicationDate": "2017-06-01",
+      "assignee": [
+        "1366 TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "RALF JONCZYK",
+        "RICHARD L. WALLACE",
+        "DAVID S. HARVEY"
+      ],
+      "applicationDate": "2016-04-29",
+      "claimsCount": 30,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Surface technology, coating"
+      ],
+      "score": 11.446051
+    },
+    {
+      "id": "CN-107709633-A",
+      "title": [
+        "\u7528\u4e8e\u7ef4\u6301\u6750\u6599\u88ab\u8017\u5c3d\u548c\u8865\u5145\u7684\u7194\u878d\u6750\u6599\u6240\u542b\u4f53\u79ef\u7684\u65b9\u6cd5"
+      ],
+      "abstract": "\u4e00\u79cd\u4ece\u5728\u4f9b\u6599\u5769\u57da\u5185\u603b\u662f\u7ef4\u6301\u56fa\u4f53\u548c\u6db2\u4f53\u534a\u5bfc\u4f53\u4e24\u76f8\u7684\u4f9b\u6599\u5769\u57da\u8865\u5145\u7194\u878d\u534a\u5bfc\u4f53\u7684\u4e3b\u8981\u5769\u57da\u3002\u52a0\u70ed\u4ee5\u7194\u5316\u56fa\u4f53\u6750\u6599\u5bfc\u81f4\u56fa\u4f53\u6750\u6599\u76f8\u53d8\u4e3a\u6db2\u4f53\uff0c\u4f46\u5c06\u4e0d\u5bfc\u81f4\u4f9b\u6599\u5769\u57da\u5185\u6db2\u4f53\u6e29\u5ea6\u7684\u4efb\u4f55\u660e\u663e\u7684\u5347\u9ad8\u3002\u6e29\u5ea6\u504f\u79fb\u6709\u5229\u5730\u662f\u5c0f\u7684\uff0c\u5373\u5c0f\u4e8e\u5176\u5c06\u5f15\u8d77\u6210\u5f62\u4ea7\u7269\u7684\u95ee\u9898\u3002\u56fa\u4f53\u4ea7\u7269\u6750\u6599\u7528\u4f5c\u4e00\u79cd\u6e29\u5ea6\u7f13\u51b2\u5242\uff0c\u4ee5\u81ea\u52a8\u5730\u548c\u88ab\u52a8\u5730\u7ef4\u6301\u4f9b\u5e94\u6db2\u4f53\u6e29\u5ea6\u5728\u6216\u975e\u5e38\u63a5\u8fd1\u4e8e\u76f8\u53d8\u6e29\u5ea6\u3002\u5bf9\u4e8e\u7845\uff0c\u504f\u79fb\u88ab\u4fdd\u6301\u5c0f\u4e8e90\u2103\uff0c\u4e14\u751a\u81f3\u5c0f\u81f350\u2103\u3002\u4f7f\u7528\u9517\u7684\u65b9\u6cd5\u4e5f\u662f\u6709\u7528\u7684\u3002\u5b8c\u5168\u7194\u5316\u534a\u5bfc\u4f53\u7684\u73b0\u6709\u6280\u672f\u7845\u65b9\u6cd5\u7ecf\u5386\u8d85\u8fc7100\u2103\u7684\u504f\u79fb\u3002",
+      "publicationNumber": "CN107709633",
+      "publicationDate": "2018-02-16",
+      "assignee": [
+        "1366 TECHNOLOGIES, INC."
+      ],
+      "inventors": [
+        "JONCZYK RALF",
+        "R.L. Huailaishi",
+        "D.S. Harvey"
+      ],
+      "applicationDate": "2016-04-28",
+      "claimsCount": 30,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Surface technology, coating"
+      ],
+      "score": 11.446051
+    },
+    {
+      "id": "SA-517381945-B1",
+      "title": [
+        "METHODS FOR CREATING A SEMICONDUCTOR WAFER HAVING PROFILED DOPING"
+      ],
+      "abstract": "A semiconductor wafer forms on a mold containing a dopant. The dopant dopes a melt region adjacent the mold. There, dopant concentration is higher than in the melt bulk. A wafer starts solidifying. Dopant diffuses poorly in solid semiconductor. After a wafer starts solidifying, dopant can not enter the melt. Afterwards, the concentration of dopant in the melt adjacent the wafer surface is less than what was present where the wafer began to form. New wafer regions grow from a melt region whose dopant concentration lessens over time. This establishes a dopant gradient in the wafer, with higher concentration adjacent the mold. The gradient can be tailored. A gradient gives rise to a field that can function as a drift or back surface field. Solar collectors can have open grid conductors and better optical reflectors on the back surface, made possible by the intrinsic back surface field.",
+      "publicationNumber": "SA517381945",
+      "publicationDate": "2021-01-25",
+      "assignee": [
+        "1366 TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "RALF JONCZYK",
+        "G.D. Stephen Hudelson",
+        "EMANUEL SACHS",
+        "BRIAN KERNAN",
+        "Adam LORENZ"
+      ],
+      "applicationDate": "2017-07-19",
+      "claimsCount": 1,
+      "independentClaimsCount": 1,
+      "technologyFields": [],
+      "score": 11.430277
+    },
+    {
+      "id": "TW-I607809-B",
+      "title": [
+        "Apparatus and process for depositing a thin layer of resist on a substrate"
+      ],
+      "abstract": "",
+      "publicationNumber": "TWI607809",
+      "publicationDate": "2017-12-11",
+      "assignee": [
+        "1366 TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "GUY M. DANNER",
+        "HOLLY G. GATES",
+        "VLADIMIR S. TARASOV",
+        "PETER E. KANE",
+        "PETER G. MADDEN",
+        "EMANUEL M. SACHS"
+      ],
+      "applicationDate": "2012-10-12",
+      "claimsCount": 26,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Surface technology, coating"
+      ],
+      "score": 11.299822
+    },
+    {
+      "id": "TW-201608729-A",
+      "title": [
+        "Methods and apparatus for making thin semi-conductor wafers with locally controlled regions that are relatively thicker than other regions and such wafers"
+      ],
+      "abstract": "Semi-conductor wafers with thin and thicker regions at controlled locations may be for Photovoltaics. The interior may be less than 180 microns or thinner, to 50 microns, with a thicker portion, at 180-250 microns. Thin wafers have higher efficiency. A thicker perimeter provides handling strength. Thicker stripes, landing and islands are for metallization coupling. Wafers may be made directly from a melt upon a template with regions of different heat extraction propensity arranged to correspond to locations of relative thicknesses. Interstitial oxygen is less than 6 x 10<SP>17</SP> atoms/cc, preferably less than 2 x 10<SP>17</SP>, total oxygen less than 8.75 x 10<SP>17</SP> atoms/cc, preferably less than 5.25 x 10<SP>17</SP>. Thicker regions form adjacent template regions having relatively higher heat extraction propensity; thinner regions adjacent regions with lesser extraction propensity. Thicker template regions have higher extraction propensity. Functional materials upon the template also have differing extraction propensities.",
+      "publicationNumber": "TW201608729",
+      "publicationDate": "2016-03-01",
+      "assignee": [
+        "1366 TECHNOLOGIES INC."
+      ],
+      "inventors": [
+        "EMANUEL M. SACHS",
+        "RALF JONCZYK",
+        "ADAM L. LORENZ",
+        "RICHARD L. WALLACE",
+        "GEORGE D. STEPHEN HUDELSON"
+      ],
+      "applicationDate": "2015-04-29",
+      "claimsCount": 44,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Semiconductors"
+      ],
+      "score": 11.291115
+    }
+  ]
+}

@@ -1,0 +1,2412 @@
+{
+  "count": 346,
+  "numFound": 346,
+  "docs": [
+    {
+      "id": "DE-102024200588-A1",
+      "title": [
+        "Speicheranlage mit optimierter W\u00e4rmezufuhr"
+      ],
+      "abstract": "Die Erfindung betrifft eine Speicheranlage zum Speichern thermischer Energie mit einem Ladekreislauf, welcher in unmittelbarer oder mittelbarer Abfolge einen Verdampfer und einen Verdichter und einen mit einem W\u00e4rmespeicher gekoppelten Lade-W\u00e4rmetauscher und eine Drossel umfasst. Der Verdampfer ist zur W\u00e4rmeaufnahme mit einem Kaltspeicher oder einer externen W\u00e4rmequelle gekoppelt.",
+      "publicationNumber": "DE102024200588",
+      "publicationDate": "2025-07-24",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "Sebastian Voss",
+        "Michael Wechsung",
+        "Dominic Schlehuber",
+        "Rudolf P\u00f6tter",
+        "Kai Borgmann"
+      ],
+      "applicationDate": "2024-01-23",
+      "claimsCount": 9,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 12.339488
+    },
+    {
+      "id": "DE-102024200590-A1",
+      "title": [
+        "Speicheranlage mit optimierter W\u00e4rmenutzung"
+      ],
+      "abstract": "Die Erfindung betrifft eine Speicheranlage zum Speichern thermischer Energie mit einem Ladekreislauf, welcher in unmittelbarer oder mittelbarer Abfolge einen Verdampfer und einen Verdichter und einen mit einem W\u00e4rmespeicher gekoppelten Lade-W\u00e4rmetauscher und eine Drossel umfasst. Der Verdampfer ist zur W\u00e4rmeaufnahme mit einem Kaltspeicher oder einer externen W\u00e4rmequelle gekoppelt.",
+      "publicationNumber": "DE102024200590",
+      "publicationDate": "2025-07-24",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "Sebastian Voss",
+        "Michael Wechsung",
+        "Dominic Schlehuber",
+        "Rudolf P\u00f6tter",
+        "Kai Borgmann"
+      ],
+      "applicationDate": "2024-01-23",
+      "claimsCount": 9,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 12.1546545
+    },
+    {
+      "id": "DE-102024200589-A1",
+      "title": [
+        "Speicheranlage mit optimierter W\u00e4rmezufuhr"
+      ],
+      "abstract": "Die Erfindung betrifft eine Speicheranlage zum Speichern thermischer Energie mit einem Ladekreislauf, welcher in unmittelbarer oder mittelbarer Abfolge einen Verdampfer und einen Verdichter und einen mit einem W\u00e4rmespeicher gekoppelten Lade-W\u00e4rmetauscher und eine Drossel umfasst. Zur R\u00fcckgewinnung der im W\u00e4rmespeicher gespeicherten Energie wird ein Entladekreislauf verwendet. Dabei umfasst der Entladekreislauf in unmittelbarer oder mittelbarer Abfolge eine Pumpe und einen Entlade-W\u00e4rmetauscher und eine Dampfturbine und einen Kondensator. Zur R\u00fcckgewinnung der W\u00e4rmeenergie wird hierzu der Entlade-W\u00e4rmetauscher mit dem W\u00e4rmespeicher gekoppelt. Zur Optimierung der W\u00e4rmenutzung werden sowohl der Verdampfer als auch der Kondensator mit einem gemeinsamen Kaltspeicher gekoppelt.",
+      "publicationNumber": "DE102024200589",
+      "publicationDate": "2025-07-24",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "Sebastian Voss",
+        "Michael Wechsung",
+        "Dominic Schlehuber",
+        "Rudolf P\u00f6tter",
+        "Kai Borgmann"
+      ],
+      "applicationDate": "2024-01-23",
+      "claimsCount": 12,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 12.1546545
+    },
+    {
+      "id": "DE-102024200583-A1",
+      "title": [
+        "Speicheranlage mit Prozessdampf-Versorgung"
+      ],
+      "abstract": "Die Erfindung betrifft eine Speicheranlage zum Speichern thermischer Energie mit einem Ladekreislauf, welcher in unmittelbarer oder mittelbarer Abfolge einen Verdampfer und einen Verdichter und einen mit einem W\u00e4rmespeicher gekoppelten Lade-W\u00e4rmetauscher und eine Drossel umfasst. Weiterhin bedarf es einer Prozessdampfleitung, welche geeignet ist, externe Anlagen mit Prozessdampf zu versorgen. Dabei weist der Ladekreislauf weiterhin in unmittelbarer oder mittelbarer Abfolge zwischen dem Lade-W\u00e4rmetauscher und der Drossel eine Entnahmedrossel und einen Separator auf, wobei der Separator direkt oder indirekt \u00fcber einen Prozessdampf-W\u00e4rmetauscher mit der Prozessdampfleitung verbunden ist.",
+      "publicationNumber": "DE102024200583",
+      "publicationDate": "2025-07-24",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "Sebastian Voss",
+        "Michael Wechsung",
+        "Rudolf P\u00f6tter",
+        "Dominic Schlehuber",
+        "Kai Borgmann"
+      ],
+      "applicationDate": "2024-01-23",
+      "claimsCount": 6,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 12.1546545
+    },
+    {
+      "id": "WO-2021158639-A1",
+      "title": [
+        "REVERSIBLE TURBOMACHINES IN PUMPED HEAT ENERGY STORAGE SYSTEMS"
+      ],
+      "abstract": "Pumped heat energy storage systems and methods utilizing reversible turbomachines alternately acting as compressor and turbines to reversibly circulate working fluid through heat exchangers, including a hot-side heat exchanger and a cold-side heat exchanger.",
+      "publicationNumber": "WO2021158639",
+      "publicationDate": "2021-08-12",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "ROBERT B. LAUGHLIN"
+      ],
+      "applicationDate": "2021-02-03",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 12.149315
+    },
+    {
+      "id": "EP-4100632-A4",
+      "title": [
+        "REVERSIBLE TURBOMACHINES IN PUMPED HEAT ENERGY STORAGE SYSTEMS"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP4100632",
+      "publicationDate": "2024-03-06",
+      "assignee": [
+        "Malta Inc."
+      ],
+      "inventors": [
+        "ROBERT B. LAUGHLIN"
+      ],
+      "applicationDate": "2021-02-03",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 12.149315
+    },
+    {
+      "id": "EP-4100632-A1",
+      "title": [
+        "REVERSIBLE TURBOMACHINES IN PUMPED HEAT ENERGY STORAGE SYSTEMS"
+      ],
+      "abstract": "Pumped heat energy storage systems and methods utilizing reversible turbomachines alternately acting as compressor and turbines to reversibly circulate working fluid through heat exchangers, including a hot-side heat exchanger and a cold-side heat exchanger.",
+      "publicationNumber": "EP4100632",
+      "publicationDate": "2022-12-14",
+      "assignee": [
+        "Malta Inc."
+      ],
+      "inventors": [
+        "ROBERT B. LAUGHLIN"
+      ],
+      "applicationDate": "2021-02-03",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 12.149315
+    },
+    {
+      "id": "AU-2021217355-A1",
+      "title": [
+        "Reversible turbomachines in pumped heat energy storage systems"
+      ],
+      "abstract": "Pumped heat energy storage systems and methods utilizing reversible turbomachines alternately acting as compressor and turbines to reversibly circulate working fluid through heat exchangers, including a hot-side heat exchanger and a cold-side heat exchanger.",
+      "publicationNumber": "AU2021217355",
+      "publicationDate": "2022-08-25",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "ROBERT B. LAUGHLIN"
+      ],
+      "applicationDate": "2021-02-03",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 12.149315
+    },
+    {
+      "id": "WO-2021158641-A1",
+      "title": [
+        "PUMPED HEAT ELECTRIC STORAGE SYSTEM WITH DUAL-CLUTCH POWERTRAIN SYSTEM"
+      ],
+      "abstract": "Pumped heat energy storage systems that can be used to store and extract electrical energy. A motor/generator system is releasably coupled and decoupled via clutches from a charge mode powertrain and a generation mode powertrain depending on the operating mode of the pumped heat energy storage system.",
+      "publicationNumber": "WO2021158641",
+      "publicationDate": "2021-08-12",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "RAJ B. APTE",
+        "PHILIPPE LAROCHELLE",
+        "BENJAMIN R. BOLLINGER"
+      ],
+      "applicationDate": "2021-02-03",
+      "claimsCount": 20,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines"
+      ],
+      "score": 12.134308
+    },
+    {
+      "id": "US-20230073676-A1",
+      "title": [
+        "PUMPED HEAT ELECTRIC STORAGE SYSTEM WITH DUAL-CLUTCH POWERTRAIN SYSTEM"
+      ],
+      "abstract": "Pumped heat energy storage systems that can be used to store and extract electrical energy. A motor/generator system is releasably coupled and decoupled via clutches from a charge mode powertrain and a generation mode powertrain depending on the operating mode of the pumped heat energy storage system.",
+      "publicationNumber": "US20230073676",
+      "publicationDate": "2023-03-09",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "Raj B. Apte",
+        "Philippe Larochelle",
+        "Benjamin R. Bollinger"
+      ],
+      "applicationDate": "2021-02-03",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines"
+      ],
+      "score": 12.134308
+    },
+    {
+      "id": "EP-4101056-A4",
+      "title": [
+        "PUMPED HEAT ELECTRIC STORAGE SYSTEM WITH DUAL-CLUTCH POWERTRAIN SYSTEM"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP4101056",
+      "publicationDate": "2024-02-28",
+      "assignee": [
+        "Malta Inc."
+      ],
+      "inventors": [
+        "RAJ B. APTE",
+        "PHILIPPE LAROCHELLE",
+        "BENJAMIN R. BOLLINGER"
+      ],
+      "applicationDate": "2021-02-03",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines"
+      ],
+      "score": 12.134308
+    },
+    {
+      "id": "EP-4101056-A1",
+      "title": [
+        "PUMPED HEAT ELECTRIC STORAGE SYSTEM WITH DUAL-CLUTCH POWERTRAIN SYSTEM"
+      ],
+      "abstract": "Pumped heat energy storage systems that can be used to store and extract electrical energy. A motor/generator system is releasably coupled and decoupled via clutches from a charge mode powertrain and a generation mode powertrain depending on the operating mode of the pumped heat energy storage system.",
+      "publicationNumber": "EP4101056",
+      "publicationDate": "2022-12-14",
+      "assignee": [
+        "Malta Inc."
+      ],
+      "inventors": [
+        "RAJ B. APTE",
+        "PHILIPPE LAROCHELLE",
+        "BENJAMIN R. BOLLINGER"
+      ],
+      "applicationDate": "2021-02-03",
+      "claimsCount": 20,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines"
+      ],
+      "score": 12.134308
+    },
+    {
+      "id": "AU-2021216928-A1",
+      "title": [
+        "Pumped heat electric storage system with dual-clutch powertrain system"
+      ],
+      "abstract": "Pumped heat energy storage systems that can be used to store and extract electrical energy. A motor/generator system is releasably coupled and decoupled via clutches from a charge mode powertrain and a generation mode powertrain depending on the operating mode of the pumped heat energy storage system.",
+      "publicationNumber": "AU2021216928",
+      "publicationDate": "2022-08-18",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "RAJ B. APTE",
+        "BENJAMIN R. BOLLINGER",
+        "PHILIPPE LAROCHELLE"
+      ],
+      "applicationDate": "2021-02-03",
+      "claimsCount": 20,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines"
+      ],
+      "score": 12.134308
+    },
+    {
+      "id": "WO-2023114339-A1",
+      "title": [
+        "PUMPED HEAT ENERGY STORAGE SYSTEM INTEGRATED WITH COAL-FIRED ENERGY GENERATION UNIT"
+      ],
+      "abstract": "The present disclosure provides pumped heat energy storage systems that can be integrated with a Coal Fired Energy Generation Unit (CF-EGU) to repurpose CF-EGUs as thermal energy storage systems. A pumped heat energy storage system of the present disclosure can store thermal energy by operating as a heat pump with heat discharge occurring as a result of heat engine operation of the pumped heat energy storage system and/or a steam cycle of the CF-EGUs to provide heating thereto. For example, thermal energy can be exchanged via working fluids flowing between the pumped heat energy storage systems and the CF-EGUs to drive turbines that provide power to generators while repurposing equipment from the CF-EGUs to create energy.",
+      "publicationNumber": "WO2023114339",
+      "publicationDate": "2023-06-22",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "Bao, H. TRUONG",
+        "BENJAMIN, R. BOLLINGER"
+      ],
+      "applicationDate": "2022-12-14",
+      "claimsCount": 79,
+      "independentClaimsCount": 7,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 12.09819
+    },
+    {
+      "id": "WO-2022036031-A1",
+      "title": [
+        "PUMPED HEAT ENERGY STORAGE SYSTEM WITH LOAD FOLLOWING"
+      ],
+      "abstract": "A method including: (i) receiving a first amount of electricity into a pumped-heat energy storage system (\"PHES system\") from a power generation plant supplying a second amount of electricity to an electrical grid; (ii) operating the PHES system in a charge mode, converting at least a portion of the received first amount of electricity to stored thermal energy; and (iii) increasing a power level of the PHES system such that the first amount of electricity that the PHES system receives from the power generation plant is increased such that the second amount of electricity supplied to the electrical grid by the power generation plant is a reduced amount of electricity less than the second amount of electricity.",
+      "publicationNumber": "WO2022036031",
+      "publicationDate": "2022-02-17",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "BENJAMIN, R. BOLLINGER",
+        "Bao, H. TRUONG"
+      ],
+      "applicationDate": "2021-08-12",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 12.09819
+    },
+    {
+      "id": "US-20250116211-A1",
+      "title": [
+        "PUMPED HEAT ENERGY STORAGE SYSTEM INTEGRATED WITH COAL-FIRED ENERGY GENERATION UNIT"
+      ],
+      "abstract": "The present disclosure provides pumped heat energy storage systems that can be integrated with a Coal Fired Energy Generation Unit (CF-EGU) to repurpose CF-EGUs as thermal energy storage systems. A pumped heat energy storage system of the present disclosure can store thermal energy by operating as a heat pump with heat discharge occurring as a result of heat engine operation of the pumped heat energy storage system and/or a steam cycle of the CF-EGUs to provide heating thereto. For example, thermal energy can be exchanged via working fluids flowing between the pumped heat energy storage systems and the CF-EGUs to drive turbines that provide power to generators while repurposing equipment from the CF-EGUs to create energy.",
+      "publicationNumber": "US20250116211",
+      "publicationDate": "2025-04-10",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "Bao H. Truong",
+        "Benjamin R. Bollinger"
+      ],
+      "applicationDate": "2022-12-14",
+      "claimsCount": 13,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 12.09819
+    },
+    {
+      "id": "US-20250043718-A1",
+      "title": [
+        "PUMPED HEAT ENERGY STORAGE SYSTEM WITH LOAD FOLLOWING"
+      ],
+      "abstract": "A method including: operating a pumped-heat energy storage (\u201cPHES\u201d) system in a generation mode to generate electricity; and responsive, at least in part, to a determination that a power generation plant will reduce supply of electricity to an electrical grid by a reduction amount of electricity, changing modes of the PHES system from the generation mode to operate in a charge mode. Operating in the charge mode can include receiving a charge amount of electricity, at least equal to the reduction amount of electricity, into the PHES system from the power generation plant and converting at least a portion of the charge amount of electricity to stored thermal energy.",
+      "publicationNumber": "US20250043718",
+      "publicationDate": "2025-02-06",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "Benjamin R. Bollinger",
+        "Bao H. Truong"
+      ],
+      "applicationDate": "2024-10-21",
+      "claimsCount": 8,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 12.09819
+    },
+    {
+      "id": "US-20230081576-A1",
+      "title": [
+        "PUMPED HEAT ENERGY STORAGE SYSTEM WITH LOAD FOLLOWING"
+      ],
+      "abstract": "A method including: operating a pumped-heat energy storage (\u201cPHES\u201d) system in a generation mode to generate electricity; and responsive, at least in part, to a determination that a power generation plant will reduce supply of electricity to an electrical grid by a reduction amount of electricity, changing modes of the PHES system from the generation mode to operate in a charge mode. Operating in the charge mode can include receiving a charge amount of electricity, at least equal to the reduction amount of electricity, into the PHES system from the power generation plant and converting at least a portion of the charge amount of electricity to stored thermal energy.",
+      "publicationNumber": "US20230081576",
+      "publicationDate": "2023-03-16",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "Benjamin R. Bollinger",
+        "Bao H. Truong"
+      ],
+      "applicationDate": "2022-10-31",
+      "claimsCount": 21,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 12.09819
+    },
+    {
+      "id": "US-20220049651-A1",
+      "title": [
+        "PUMPED HEAT ENERGY STORAGE SYSTEM WITH LOAD FOLLOWING"
+      ],
+      "abstract": "A method including: (i) receiving a first amount of electricity into a pumped-heat energy storage system (\u201cPHES system\u201d) from a power generation plant supplying a second amount of electricity to an electrical grid; (ii) operating the PHES system in a charge mode, converting at least a portion of the received first amount of electricity to stored thermal energy; and (iii) increasing a power level of the PHES system such that the first amount of electricity that the PHES system receives from the power generation plant is increased such that the second amount of electricity supplied to the electrical grid by the power generation plant is a reduced amount of electricity less than the second amount of electricity.",
+      "publicationNumber": "US20220049651",
+      "publicationDate": "2022-02-17",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "Benjamin R. Bollinger",
+        "Bao H. Truong"
+      ],
+      "applicationDate": "2020-08-12",
+      "claimsCount": 21,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 12.09819
+    },
+    {
+      "id": "EP-4530445-A3",
+      "title": [
+        "PUMPED HEAT ENERGY STORAGE SYSTEM WITH LOAD FOLLOWING"
+      ],
+      "abstract": "A method including: (i) receiving a first amount of electricity into a pumped-heat energy storage system (\"PHES system\") from a power generation plant supplying a second amount of electricity to an electrical grid; (ii) operating the PHES system in a charge mode, converting at least a portion of the received first amount of electricity to stored thermal energy; and (iii) increasing a power level of the PHES system such that the first amount of electricity that the PHES system receives from the power generation plant is increased such that the second amount of electricity supplied to the electrical grid by the power generation plant is a reduced amount of electricity less than the second amount of electricity.",
+      "publicationNumber": "EP4530445",
+      "publicationDate": "2025-06-25",
+      "assignee": [
+        "Malta Inc."
+      ],
+      "inventors": [
+        "BENJAMIN R. BOLLINGER",
+        "BAO H. TRUONG"
+      ],
+      "applicationDate": "2021-08-12",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 12.09819
+    },
+    {
+      "id": "EP-4530445-A2",
+      "title": [
+        "PUMPED HEAT ENERGY STORAGE SYSTEM WITH LOAD FOLLOWING"
+      ],
+      "abstract": "A method including: (i) receiving a first amount of electricity into a pumped-heat energy storage system (\"PHES system\") from a power generation plant supplying a second amount of electricity to an electrical grid; (ii) operating the PHES system in a charge mode, converting at least a portion of the received first amount of electricity to stored thermal energy; and (iii) increasing a power level of the PHES system such that the first amount of electricity that the PHES system receives from the power generation plant is increased such that the second amount of electricity supplied to the electrical grid by the power generation plant is a reduced amount of electricity less than the second amount of electricity.",
+      "publicationNumber": "EP4530445",
+      "publicationDate": "2025-04-02",
+      "assignee": [
+        "Malta Inc."
+      ],
+      "inventors": [
+        "BENJAMIN R. BOLLINGER",
+        "BAO H. TRUONG"
+      ],
+      "applicationDate": "2021-08-12",
+      "claimsCount": 15,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 12.09819
+    },
+    {
+      "id": "EP-4430285-A4",
+      "title": [
+        "PUMPED HEAT ENERGY STORAGE SYSTEM INTEGRATED WITH COAL-FIRED ENERGY GENERATION UNIT"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP4430285",
+      "publicationDate": "2025-11-26",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "Bao, H. TRUONG",
+        "BENJAMIN, R. BOLLINGER"
+      ],
+      "applicationDate": "2022-12-14",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 12.09819
+    },
+    {
+      "id": "EP-4430285-A1",
+      "title": [
+        "PUMPED HEAT ENERGY STORAGE SYSTEM INTEGRATED WITH COAL-FIRED ENERGY GENERATION UNIT"
+      ],
+      "abstract": "The present disclosure provides pumped heat energy storage systems that can be integrated with a Coal Fired Energy Generation Unit (CF-EGU) to repurpose CF-EGUs as thermal energy storage systems. A pumped heat energy storage system of the present disclosure can store thermal energy by operating as a heat pump with heat discharge occurring as a result of heat engine operation of the pumped heat energy storage system and/or a steam cycle of the CF-EGUs to provide heating thereto. For example, thermal energy can be exchanged via working fluids flowing between the pumped heat energy storage systems and the CF-EGUs to drive turbines that provide power to generators while repurposing equipment from the CF-EGUs to create energy.",
+      "publicationNumber": "EP4430285",
+      "publicationDate": "2024-09-18",
+      "assignee": [
+        "Malta Inc."
+      ],
+      "inventors": [
+        "Bao, H. TRUONG",
+        "BENJAMIN, R. BOLLINGER"
+      ],
+      "applicationDate": "2022-12-14",
+      "claimsCount": 79,
+      "independentClaimsCount": 7,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 12.09819
+    },
+    {
+      "id": "EP-4193043-A1",
+      "title": [
+        "PUMPED HEAT ENERGY STORAGE SYSTEM WITH LOAD FOLLOWING"
+      ],
+      "abstract": "A method including: (i) receiving a first amount of electricity into a pumped-heat energy storage system (\"PHES system\") from a power generation plant supplying a second amount of electricity to an electrical grid; (ii) operating the PHES system in a charge mode, converting at least a portion of the received first amount of electricity to stored thermal energy; and (iii) increasing a power level of the PHES system such that the first amount of electricity that the PHES system receives from the power generation plant is increased such that the second amount of electricity supplied to the electrical grid by the power generation plant is a reduced amount of electricity less than the second amount of electricity.",
+      "publicationNumber": "EP4193043",
+      "publicationDate": "2023-06-14",
+      "assignee": [
+        "Malta Inc."
+      ],
+      "inventors": [
+        "BENJAMIN R. BOLLINGER",
+        "BAO H. TRUONG"
+      ],
+      "applicationDate": "2021-08-12",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 12.09819
+    },
+    {
+      "id": "CL-2023000423-A1",
+      "title": [
+        "Pumped heat energy storage system with load following"
+      ],
+      "abstract": "<pre> Un m\u00e9todo que incluye: (i) recibir una primera cantidad de electricidad en un sistema de almacenamiento de energ\u00eda de calor bombeado (\"sistema PHES\") desde una planta de generaci\u00f3n de energ\u00eda que suministra una segunda cantidad de electricidad a una red el\u00e9ctrica; (ii) operar el sistema PHES en un modo de carga, convirtiendo al menos una parte de la primera cantidad de electricidad recibida en energ\u00eda t\u00e9rmica almacenada; y (iii) aumentar el nivel de potencia del sistema PHES de manera que la primera cantidad de electricidad que el sistema PHES recibe de la planta de generaci\u00f3n de energ\u00eda aumente de manera que la segunda cantidad de electricidad suministrada a la red el\u00e9ctrica por la planta de generaci\u00f3n de energ\u00eda sea una cantidad reducida de electricidad menos que la segunda cantidad de electricidad.</pre>",
+      "publicationNumber": "CL2023000423",
+      "publicationDate": "2023-09-29",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "BENJAMIN R. BOLLINGER",
+        "BAO H. TRUONG"
+      ],
+      "applicationDate": "2023-02-10",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 12.09819
+    },
+    {
+      "id": "BR-112023002586-A2",
+      "title": [
+        "SISTEMA DE ARMAZENAMENTO DE ENERGIA T\u00c9RMICA BOMBEADA COM SEGUIDOR DE CARGA"
+      ],
+      "abstract": "SISTEMA DE ARMAZENAMENTO DE ENERGIA T\u00c9RMICA BOMBEADA COM SEGUIDOR DE CARGA. A presente inven\u00e7\u00e3o refere-se a m\u00e9todo que inclui: (i) receber uma primeira quantidade de eletricidade em um sistema de armazenamento de energia t\u00e9rmica bombeada (\"sistema PHES\") a partir de uma usina de gera\u00e7\u00e3o de energia que alimenta uma segunda quantidade de eletricidade a uma rede el\u00e9trica; (ii) operar o sistema PHES em um modo de carregamento ao converter pelo menos uma parte da primeira quantidade de eletricidade recebida em energia t\u00e9rmica armazenada; e (iii) aumentar o n\u00edvel de energia do sistema PHES de modo que a primeira quantidade de eletricidade que o sistema PHES recebe a partir da usina de gera\u00e7\u00e3o de energia seja aumentada para que a segunda quantidade de eletricidade fornecida \u00e0 rede el\u00e9trica pela usina de gera\u00e7\u00e3o de energia seja uma quantidade reduzida de eletricidade menor do que a segunda quantidade de eletricidade.",
+      "publicationNumber": "BR112023002586",
+      "publicationDate": "2023-05-02",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "BENJAMIN R. BOLLINGER",
+        "BAO H. TRUONG"
+      ],
+      "applicationDate": "2021-08-12",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 12.09819
+    },
+    {
+      "id": "AU-2022413246-A1",
+      "title": [
+        "PUMPED HEAT ENERGY STORAGE SYSTEM INTEGRATED WITH COAL-FIRED ENERGY GENERATION UNIT"
+      ],
+      "abstract": "The present disclosure provides pumped heat energy storage systems that can be integrated with a Coal Fired Energy Generation Unit (CF-EGU) to repurpose CF-EGUs as thermal energy storage systems. A pumped heat energy storage system of the present disclosure can store thermal energy by operating as a heat pump with heat discharge occurring as a result of heat engine operation of the pumped heat energy storage system and/or a steam cycle of the CF-EGUs to provide heating thereto. For example, thermal energy can be exchanged via working fluids flowing between the pumped heat energy storage systems and the CF-EGUs to drive turbines that provide power to generators while repurposing equipment from the CF-EGUs to create energy.",
+      "publicationNumber": "AU2022413246",
+      "publicationDate": "2024-07-04",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "BENJAMIN, R. BOLLINGER",
+        "Bao, H. TRUONG"
+      ],
+      "applicationDate": "2022-12-14",
+      "claimsCount": 79,
+      "independentClaimsCount": 7,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 12.09819
+    },
+    {
+      "id": "AU-2021326502-A1",
+      "title": [
+        "Pumped heat energy storage system with load following"
+      ],
+      "abstract": "A method including: (i) receiving a first amount of electricity into a pumped-heat energy storage system (\"PHES system\") from a power generation plant supplying a second amount of electricity to an electrical grid; (ii) operating the PHES system in a charge mode, converting at least a portion of the received first amount of electricity to stored thermal energy; and (iii) increasing a power level of the PHES system such that the first amount of electricity that the PHES system receives from the power generation plant is increased such that the second amount of electricity supplied to the electrical grid by the power generation plant is a reduced amount of electricity less than the second amount of electricity.",
+      "publicationNumber": "AU2021326502",
+      "publicationDate": "2023-03-16",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "BENJAMIN R. BOLLINGER",
+        "BAO H. TRUONG"
+      ],
+      "applicationDate": "2021-08-12",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 12.09819
+    },
+    {
+      "id": "DE-102024200585-A1",
+      "title": [
+        "Speicheranlage mit Mehrfachzirkulation"
+      ],
+      "abstract": "Die Erfindung betrifft eine Speicheranlage zum Speichern thermischer Energie mit einem Ladekreislauf, welcher in unmittelbarer oder mittelbarer Abfolge einen Verdampfer und einen Verdichter und einen mit einem W\u00e4rmespeicher gekoppelten Lade-W\u00e4rmetauscher und eine Drossel umfasst. Zur Effizienzsteigerung ist zun\u00e4chst vorgesehen, dass die Verdichtung und W\u00e4rme\u00fcbertragung mehrstufig erfolgt. D.h. es ist mehrfach eine Anordnung aus Verdichter und Lade-W\u00e4rmetauscher mit nachfolgendem Leitungsabschnitt vorhanden. Erfindungsgem\u00e4\u00df wird der Ladekreislauf zur weiteren Effizienzsteigerung in mehreren Stufen mit einer Verbindung zwischen einem jeweiligen Separator und dem zugeh\u00f6rigen Leitungsabschnitt versehen, wobei der Separator zwischen einer Drossel der nachfolgenden Stufe und einer zur Stufe zugeh\u00f6rigen Drossel angeordnet ist.",
+      "publicationNumber": "DE102024200585",
+      "publicationDate": "2025-07-24",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "Sebastian Voss",
+        "Michael Wechsung",
+        "Dominic Schlehuber",
+        "Rudolf P\u00f6tter",
+        "Kai Borgmann"
+      ],
+      "applicationDate": "2024-01-23",
+      "claimsCount": 10,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 12.079382
+    },
+    {
+      "id": "DE-102024200584-A1",
+      "title": [
+        "Speicheranlage mit K\u00fchlkreislauf"
+      ],
+      "abstract": "Die Erfindung betrifft eine Speicheranlage zum Speichern thermischer Energie mit einem Ladekreislauf, welcher in unmittelbarer oder mittelbarer Abfolge einen Verdampfer und einen Verdichter und einen mit einem W\u00e4rmespeicher gekoppelten W\u00e4rmetauscher und eine Drossel umfasst. Dazu wird der Ladekreislauf um einen K\u00fchlkreislauf erg\u00e4nzt. Dieser umfasst in unmittelbarer oder mittelbarer Abfolge den Verdichter und eine K\u00fchlkreislaufdrossel und eine Mischvorrichtung, wobei \u00fcber die Mischvorrichtung Wasser in den K\u00fchlkreislauf eingebracht werden kann.",
+      "publicationNumber": "DE102024200584",
+      "publicationDate": "2025-07-24",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "Stephan Klumpp",
+        "Dominic Schlehuber",
+        "Sebastian Voss",
+        "Christopher Butzeck"
+      ],
+      "applicationDate": "2024-01-23",
+      "claimsCount": 5,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 12.079382
+    },
+    {
+      "id": "WO-2022036023-A1",
+      "title": [
+        "PUMPED HEAT ENERGY STORAGE SYSTEM WITH GENERATION CYCLE THERMAL INTEGRATION"
+      ],
+      "abstract": "A first system herein may include: (i) a pumped-heat energy storage system (\"PHES system\"), wherein the PHES system is operable in a generation mode to convert at least a portion of stored thermal energy into electricity, wherein the PHES system includes a working fluid path circulating a working fluid through, in sequence, at least a compressor system, a hot-side heat exchanger system, a turbine system, a cold-side heat exchanger system, and back to the compressor system; and (ii) a fluid path directing a first fluid through an intercooler and to a power generation plant, and wherein the working fluid path through the compressor system includes circulating the working fluid through, in sequence, at least a first compressor, the intercooler, and a second compressor, and wherein the intercooler thermally contacts the working fluid with the first fluid, transferring heat from the working fluid to the first fluid.",
+      "publicationNumber": "WO2022036023",
+      "publicationDate": "2022-02-17",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "BAO H. TRUONG"
+      ],
+      "applicationDate": "2021-08-12",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 12.033104
+    },
+    {
+      "id": "US-20250146425-A1",
+      "title": [
+        "PUMPED HEAT ENERGY STORAGE SYSTEM WITH GENERATION CYCLE THERMAL INTEGRATION"
+      ],
+      "abstract": "In accordance with the present disclosure, a pumped-heat energy storage (\u201cPHES\u201d) system operable in charge and power generation modes can include a working fluid path circulating a working fluid through, in sequence, at least a compressor system, a hot-side heat exchanger system, a turbine system, a cold-side heat exchanger system, and back to the compressor system; and an intercooler system for providing cooling to the compressor system, the intercooling system including at least one intercooler heat exchanger arranged for transferring heat out from working fluid amid different stages of the compressor system to a power plant. A fluid path can be arranged for providing a power plant fluid to receive heat from the intercooler system. The fluid path can be arranged to pass the power plant fluid to the intercooler system to receive heat and to the power plant for use in heating in power generation.",
+      "publicationNumber": "US20250146425",
+      "publicationDate": "2025-05-08",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "Bao H. Truong"
+      ],
+      "applicationDate": "2025-01-13",
+      "claimsCount": 13,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 12.033104
+    },
+    {
+      "id": "US-20240102402-A1",
+      "title": [
+        "PUMPED HEAT ENERGY STORAGE SYSTEM WITH GENERATION CYCLE THERMAL INTEGRATION"
+      ],
+      "abstract": "In accordance with the present disclosure, a pumped-heat energy storage (\u201cPHES\u201d) system operable in charge and power generation modes can include a working fluid path circulating a working fluid through, in sequence, at least a compressor system, a hot-side heat exchanger system, a turbine system, a cold-side heat exchanger system, and back to the compressor system; and an intercooler system for providing cooling to the compressor system, the intercooling system including at least one intercooler heat exchanger arranged for transferring heat out from working fluid amid different stages of the compressor system to a power plant. A fluid path can be arranged for providing a power plant fluid to receive heat from the intercooler system. The fluid path can be arranged to pass the power plant fluid to the intercooler system to receive heat and to the power plant for use in heating in power generation.",
+      "publicationNumber": "US20240102402",
+      "publicationDate": "2024-03-28",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "Bao H. Truong"
+      ],
+      "applicationDate": "2023-12-11",
+      "claimsCount": 16,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 12.033104
+    },
+    {
+      "id": "US-20230203966-A1",
+      "title": [
+        "USE OF EXTERNAL AIR FOR CLOSED CYCLE INVENTORY CONTROL"
+      ],
+      "abstract": "Systems and methods relating to use of external air for inventory control of a closed thermodynamic cycle system or energy storage system, such as a reversible Brayton cycle system, are disclosed. A method may involve, in a closed cycle system operating in a power generation mode, circulating a working fluid may through a closed cycle fluid path. The closed cycle fluid path may include a high pressure leg and a low pressure leg. The method may further involve in response to a demand for increased power generation, compressing and dehumidifying environmental air. And the method may involve injecting the compressed and dehumidified environmental air into the low pressure leg.",
+      "publicationNumber": "US20230203966",
+      "publicationDate": "2023-06-29",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "Raj Apte",
+        "Philippe Larochelle"
+      ],
+      "applicationDate": "2023-02-10",
+      "claimsCount": 9,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Environmental technology",
+        "Thermal processes and apparatus"
+      ],
+      "score": 12.033104
+    },
+    {
+      "id": "US-20220049616-A1",
+      "title": [
+        "PUMPED HEAT ENERGY STORAGE SYSTEM WITH GENERATION CYCLE THERMAL INTEGRATION"
+      ],
+      "abstract": "A first system herein may include: (i) a pumped-heat energy storage system (\u201cPHES system\u201d), wherein the PHES system is operable in a generation mode to convert at least a portion of stored thermal energy into electricity, wherein the PHES system includes a working fluid path circulating a working fluid through, in sequence, at least a compressor system, a hot-side heat exchanger system, a turbine system, a cold-side heat exchanger system, and back to the compressor system; and (ii) a fluid path directing a first fluid through an intercooler and to a power generation plant, and wherein the working fluid path through the compressor system includes circulating the working fluid through, in sequence, at least a first compressor, the intercooler, and a second compressor, and wherein the intercooler thermally contacts the working fluid with the first fluid, transferring heat from the working fluid to the first fluid.",
+      "publicationNumber": "US20220049616",
+      "publicationDate": "2022-02-17",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "Bao H. Truong"
+      ],
+      "applicationDate": "2020-08-12",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 12.033104
+    },
+    {
+      "id": "US-20210180522-A1",
+      "title": [
+        "USE OF EXTERNAL AIR FOR CLOSED CYCLE INVENTORY CONTROL"
+      ],
+      "abstract": "Systems and methods relating to use of external air for inventory control of a closed thermodynamic cycle system or energy storage system, such as a reversible Brayton cycle system, are disclosed. A method may involve, in a closed cycle system operating in a power generation mode, circulating a working fluid may through a closed cycle fluid path. The closed cycle fluid path may include a high pressure leg and a low pressure leg. The method may further involve in response to a demand for increased power generation, compressing and dehumidifying environmental air. And the method may involve injecting the compressed and dehumidified environmental air into the low pressure leg.",
+      "publicationNumber": "US20210180522",
+      "publicationDate": "2021-06-17",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "Raj Apte",
+        "Philippe Larochelle"
+      ],
+      "applicationDate": "2021-02-01",
+      "claimsCount": 9,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Environmental technology",
+        "Thermal processes and apparatus"
+      ],
+      "score": 12.033104
+    },
+    {
+      "id": "EP-4520933-A3",
+      "title": [
+        "PUMPED HEAT ENERGY STORAGE SYSTEM WITH GENERATION CYCLE THERMAL INTEGRATION"
+      ],
+      "abstract": "A first system herein may include: (i) a pumped-heat energy storage system (\"PHES system\"), wherein the PHES system is operable in a generation mode to convert at least a portion of stored thermal energy into electricity, wherein the PHES system includes a working fluid path circulating a working fluid through, in sequence, at least a compressor system, a hot-side heat exchanger system, a turbine system, a cold-side heat exchanger system, and back to the compressor system; and (ii) a fluid path directing a first fluid through an intercooler and to a power generation plant, and wherein the working fluid path through the compressor system includes circulating the working fluid through, in sequence, at least a first compressor, the intercooler, and a second compressor, and wherein the intercooler thermally contacts the working fluid with the first fluid, transferring heat from the working fluid to the first fluid.",
+      "publicationNumber": "EP4520933",
+      "publicationDate": "2025-06-18",
+      "assignee": [
+        "Malta Inc."
+      ],
+      "inventors": [
+        "BAO H. TRUONG"
+      ],
+      "applicationDate": "2021-08-12",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 12.033104
+    },
+    {
+      "id": "EP-4520933-A2",
+      "title": [
+        "PUMPED HEAT ENERGY STORAGE SYSTEM WITH GENERATION CYCLE THERMAL INTEGRATION"
+      ],
+      "abstract": "A first system herein may include: (i) a pumped-heat energy storage system (\"PHES system\"), wherein the PHES system is operable in a generation mode to convert at least a portion of stored thermal energy into electricity, wherein the PHES system includes a working fluid path circulating a working fluid through, in sequence, at least a compressor system, a hot-side heat exchanger system, a turbine system, a cold-side heat exchanger system, and back to the compressor system; and (ii) a fluid path directing a first fluid through an intercooler and to a power generation plant, and wherein the working fluid path through the compressor system includes circulating the working fluid through, in sequence, at least a first compressor, the intercooler, and a second compressor, and wherein the intercooler thermally contacts the working fluid with the first fluid, transferring heat from the working fluid to the first fluid.",
+      "publicationNumber": "EP4520933",
+      "publicationDate": "2025-03-12",
+      "assignee": [
+        "Malta Inc."
+      ],
+      "inventors": [
+        "BAO H. TRUONG"
+      ],
+      "applicationDate": "2021-08-12",
+      "claimsCount": 13,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 12.033104
+    },
+    {
+      "id": "EP-4193037-A1",
+      "title": [
+        "PUMPED HEAT ENERGY STORAGE SYSTEM WITH GENERATION CYCLE THERMAL INTEGRATION"
+      ],
+      "abstract": "A first system herein may include: (i) a pumped-heat energy storage system (\"PHES system\"), wherein the PHES system is operable in a generation mode to convert at least a portion of stored thermal energy into electricity, wherein the PHES system includes a working fluid path circulating a working fluid through, in sequence, at least a compressor system, a hot-side heat exchanger system, a turbine system, a cold-side heat exchanger system, and back to the compressor system; and (ii) a fluid path directing a first fluid through an intercooler and to a power generation plant, and wherein the working fluid path through the compressor system includes circulating the working fluid through, in sequence, at least a first compressor, the intercooler, and a second compressor, and wherein the intercooler thermally contacts the working fluid with the first fluid, transferring heat from the working fluid to the first fluid.",
+      "publicationNumber": "EP4193037",
+      "publicationDate": "2023-06-14",
+      "assignee": [
+        "Malta Inc."
+      ],
+      "inventors": [
+        "BAO H. TRUONG"
+      ],
+      "applicationDate": "2021-08-12",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 12.033104
+    },
+    {
+      "id": "EP-3563043-A4",
+      "title": [
+        "USE OF EXTERNAL AIR FOR CLOSED CYCLE INVENTORY CONTROL"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP3563043",
+      "publicationDate": "2020-11-18",
+      "assignee": [
+        "Malta Inc."
+      ],
+      "inventors": [
+        "Raj Apte",
+        "PHILIPPE LAROCHELLE"
+      ],
+      "applicationDate": "2017-12-07",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 12.033104
+    },
+    {
+      "id": "EP-3563043-A1",
+      "title": [
+        "USE OF EXTERNAL AIR FOR CLOSED CYCLE INVENTORY CONTROL"
+      ],
+      "abstract": "Systems and methods relating to use of external air for inventory control of a closed thermodynamic cycle system or energy storage system, such as a reversible Brayton cycle system, are disclosed. A method may involve, in a closed cycle system operating in a power generation mode, circulating a working fluid may through a closed cycle fluid path. The closed cycle fluid path may include a high pressure leg and a low pressure leg. The method may further involve in response to a demand for increased power generation, compressing and dehumidifying environmental air. And the method may involve injecting the compressed and dehumidified environmental air into the low pressure leg.",
+      "publicationNumber": "EP3563043",
+      "publicationDate": "2019-11-06",
+      "assignee": [
+        "Malta Inc."
+      ],
+      "inventors": [
+        "Raj Apte",
+        "PHILIPPE LAROCHELLE"
+      ],
+      "applicationDate": "2017-12-07",
+      "claimsCount": 21,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 12.033104
+    },
+    {
+      "id": "CL-2023000429-A1",
+      "title": [
+        "Pumped heat energy storage system with generation cycle thermal integration"
+      ],
+      "abstract": "A first system herein may include: (i) a pumped-heat energy storage system (\"PHES system\"), wherein the PHES system is operable in a generation mode to convert at least a portion of stored thermal energy into electricity, wherein the PHES system includes a working fluid path circulating a working fluid through, in sequence, at least a compressor system, a hot-side heat exchanger system, a turbine system, a cold-side heat exchanger system, and back to the compressor system; and (ii) a fluid path directing a first fluid through an intercooler and to a power generation plant, and wherein the working fluid path through the compressor system includes circulating the working fluid through, in sequence, at least a first compressor, the intercooler, and a second compressor, and wherein the intercooler thermally contacts the working fluid with the first fluid, transferring heat from the working fluid to the first fluid.",
+      "publicationNumber": "CL2023000429",
+      "publicationDate": "2023-08-18",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "BAO H. TRUONG"
+      ],
+      "applicationDate": "2023-02-10",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 12.033104
+    },
+    {
+      "id": "BR-112023002560-A2",
+      "title": [
+        "SISTEMA DE ARMAZENAMENTO DE ENERGIA T\u00c9RMICA BOMBEADA COM INTEGRA\u00c7\u00c3O T\u00c9RMICA DE CICLO DE GERA\u00c7\u00c3O"
+      ],
+      "abstract": "SISTEMA DE ARMAZENAMENTO DE ENERGIA T\u00c9RMICA BOMBEADA COM INTEGRA\u00c7\u00c3O T\u00c9RMICA DE CICLO DE GERA\u00c7\u00c3O. A presente inven\u00e7\u00e3o refere-se a sistema que compreende primeiro sistema que pode incluir: (i) um sistema de armazenamento de energia t\u00e9rmica bombeada (\"sistema PHES\"), em que o sistema PHES \u00e9 oper\u00e1vel em um modo de gera\u00e7\u00e3o para converter pelo menos uma parte da energia t\u00e9rmica armazenada em eletricidade, em que o sistema PHES inclui um caminho de fluido de trabalho circulando um fluido de trabalho atrav\u00e9s, em sequ\u00eancia, de pelo menos um sistema de compressor, um sistema do trocador de calor lado-quente, um sistema de turbina, um sistema do trocador de calor lado-frio e de volta ao sistema de compressor; e (ii) um caminho de fluido direcionando um primeiro fluido atrav\u00e9s de um intercooler e para uma usina de gera\u00e7\u00e3o de energia, e em que o caminho de fluido de trabalho atrav\u00e9s do sistema de compressor inclui a circula\u00e7\u00e3o do fluido de trabalho atrav\u00e9s, em sequ\u00eancia, de pelo menos um primeiro compressor, do intercooler, e um segundo compressor, e em que o intercooler contata termicamente o fluido de trabalho com o primeiro fluido, transferindo calor do fluido de trabalho para o primeiro fluido.",
+      "publicationNumber": "BR112023002560",
+      "publicationDate": "2023-04-18",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "BAO H. TRUONG"
+      ],
+      "applicationDate": "2021-08-12",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 12.033104
+    },
+    {
+      "id": "BR-112019013446-A2",
+      "title": [
+        "uso de ar externo para controle de invent\u00e1rio de ciclo fechado"
+      ],
+      "abstract": "sistemas e m\u00e9todos relacionados ao uso de ar externo para controle de estoque de um sistema fechado de ciclo termodin\u00e2mico ou sistema de armazenamento de energia, como um sistema de ciclo revers\u00edvel de brayton, s\u00e3o divulgados. um m\u00e9todo pode envolver, em um sistema de ciclo fechado operando em um modo de gera\u00e7\u00e3o de energia, circulando um fluido de trabalho pode atrav\u00e9s de um caminho fluido ciclo fechado. o trajeto fluido do ciclo fechado pode incluir uma perna de alta press\u00e3o e uma perna de baixa press\u00e3o. o m\u00e9todo pode envolver ainda mais em resposta a uma demanda de aumento da gera\u00e7\u00e3o de energia, compress\u00e3o e desumidifica\u00e7\u00e3o do ar ambiental. e o m\u00e9todo pode envolver injetando o ar ambiental comprimido e desumidificado no p\u00e9 da baixa press\u00e3o.",
+      "publicationNumber": "BR112019013446",
+      "publicationDate": "2019-12-31",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "RAJ APTE",
+        "PHILIPPE LAROCHELLE"
+      ],
+      "applicationDate": "2017-12-07",
+      "claimsCount": 21,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 12.033104
+    },
+    {
+      "id": "AU-2021324766-A1",
+      "title": [
+        "Pumped heat energy storage system with generation cycle thermal integration"
+      ],
+      "abstract": "A first system herein may include: (i) a pumped-heat energy storage system (\"PHES system\"), wherein the PHES system is operable in a generation mode to convert at least a portion of stored thermal energy into electricity, wherein the PHES system includes a working fluid path circulating a working fluid through, in sequence, at least a compressor system, a hot-side heat exchanger system, a turbine system, a cold-side heat exchanger system, and back to the compressor system; and (ii) a fluid path directing a first fluid through an intercooler and to a power generation plant, and wherein the working fluid path through the compressor system includes circulating the working fluid through, in sequence, at least a first compressor, the intercooler, and a second compressor, and wherein the intercooler thermally contacts the working fluid with the first fluid, transferring heat from the working fluid to the first fluid.",
+      "publicationNumber": "AU2021324766",
+      "publicationDate": "2023-03-16",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "BAO H. TRUONG"
+      ],
+      "applicationDate": "2021-08-12",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 12.033104
+    },
+    {
+      "id": "AU-2020267295-B2",
+      "title": [
+        "Use of external air for closed cycle inventory control"
+      ],
+      "abstract": "Systems and methods relating to use of external air for inventory control of a closed thermodynamic cycle system or energy storage system, such as a reversible Brayton cycle system, are disclosed. A method may involve, in a closed cycle system operating in a power generation mode, circulating a working fluid may through a closed cycle fluid path. The closed cycle fluid path may include a high pressure leg and a low pressure leg. The method may further involve in response to a demand for increased power generation, compressing and dehumidifying environmental air. And the method may involve injecting the compressed and dehumidified environmental air into the low pressure leg.",
+      "publicationNumber": "AU2020267295",
+      "publicationDate": "2022-12-08",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "Raj Apte",
+        "PHILIPPE LAROCHELLE"
+      ],
+      "applicationDate": "2020-11-13",
+      "claimsCount": 20,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 12.033104
+    },
+    {
+      "id": "AU-2020267295-A1",
+      "title": [
+        "Use of external air for closed cycle inventory control"
+      ],
+      "abstract": "Systems and methods relating to use of external air for inventory control of a closed thermodynamic cycle system or energy storage system, such as a reversible Brayton cycle system, are disclosed. A method may involve, in a closed cycle system operating in a power generation mode, circulating a working fluid may through a closed cycle fluid path. The closed cycle fluid path may include a high pressure leg and a low pressure leg. The method may further involve in response to a demand for increased power generation, compressing and dehumidifying environmental air. And the method may involve injecting the compressed and dehumidified environmental air into the low pressure leg.",
+      "publicationNumber": "AU2020267295",
+      "publicationDate": "2020-12-10",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "Raj Apte",
+        "PHILIPPE LAROCHELLE"
+      ],
+      "applicationDate": "2020-11-13",
+      "claimsCount": 20,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 12.033104
+    },
+    {
+      "id": "AU-2017387788-B2",
+      "title": [
+        "Use of external air for closed cycle inventory control"
+      ],
+      "abstract": "Systems and methods relating to use of external air for inventory control of a closed thermodynamic cycle system or energy storage system, such as a reversible Brayton cycle system, are disclosed. A method may involve, in a closed cycle system operating in a power generation mode, circulating a working fluid may through a closed cycle fluid path. The closed cycle fluid path may include a high pressure leg and a low pressure leg. The method may further involve in response to a demand for increased power generation, compressing and dehumidifying environmental air. And the method may involve injecting the compressed and dehumidified environmental air into the low pressure leg.",
+      "publicationNumber": "AU2017387788",
+      "publicationDate": "2020-08-13",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "Raj Apte",
+        "PHILIPPE LAROCHELLE"
+      ],
+      "applicationDate": "2017-12-07",
+      "claimsCount": 21,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 12.033104
+    },
+    {
+      "id": "AU-2017387788-A1",
+      "title": [
+        "Use of external air for closed cycle inventory control"
+      ],
+      "abstract": "Systems and methods relating to use of external air for inventory control of a closed thermodynamic cycle system or energy storage system, such as a reversible Brayton cycle system, are disclosed. A method may involve, in a closed cycle system operating in a power generation mode, circulating a working fluid may through a closed cycle fluid path. The closed cycle fluid path may include a high pressure leg and a low pressure leg. The method may further involve in response to a demand for increased power generation, compressing and dehumidifying environmental air. And the method may involve injecting the compressed and dehumidified environmental air into the low pressure leg.",
+      "publicationNumber": "AU2017387788",
+      "publicationDate": "2019-07-18",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "Raj Apte",
+        "PHILIPPE LAROCHELLE"
+      ],
+      "applicationDate": "2017-12-07",
+      "claimsCount": 21,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 12.033104
+    },
+    {
+      "id": "US-20230383998-A1",
+      "title": [
+        "PUMPED THERMAL STORAGE CYCLES WITH TURBOMACHINE SPEED CONTROL"
+      ],
+      "abstract": "The present disclosure provides pumped thermal energy storage systems that can be used to store electrical energy. A pumped thermal energy storage system of the present disclosure can store energy by operating as a heat pump or refrigerator, whereby network input can be used to transfer heat from the cold side to the hot side. A working fluid of the system is capable of efficient heat exchange with heat storage fluids on a hot side of the system and on a cold side of the system. The system can extract energy by operating as a heat engine transferring heat from the hot side to the cold side, which can result in network output. Systems of the present disclosure can employ solar heating for improved storage efficiency.",
+      "publicationNumber": "US20230383998",
+      "publicationDate": "2023-11-30",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "Robert B. Laughlin",
+        "Philippe Larochelle",
+        "Nicholas Cizek"
+      ],
+      "applicationDate": "2023-08-04",
+      "claimsCount": 14,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Solar energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 12.018116
+    },
+    {
+      "id": "US-20220042720-A1",
+      "title": [
+        "PUMPED THERMAL STORAGE CYCLES WITH TURBOMACHINE SPEED CONTROL"
+      ],
+      "abstract": "The present disclosure provides pumped thermal energy storage systems that can be used to store electrical energy. A pumped thermal energy storage system of the present disclosure can store energy by operating as a heat pump or refrigerator, whereby network input can be used to transfer heat from the cold side to the hot side. A working fluid of the system is capable of efficient heat exchange with heat storage fluids on a hot side of the system and on a cold side of the system. The system can extract energy by operating as a heat engine transferring heat from the hot side to the cold side, which can result in network output. Systems of the present disclosure can employ solar heating for improved storage efficiency.",
+      "publicationNumber": "US20220042720",
+      "publicationDate": "2022-02-10",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "Robert B. Laughlin",
+        "Philippe Larochelle",
+        "Nicholas Cizek"
+      ],
+      "applicationDate": "2021-10-25",
+      "claimsCount": 8,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Solar energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 12.018116
+    },
+    {
+      "id": "WO-2025230842-A1",
+      "title": [
+        "DIRECT CONTACT THERMAL STORAGE OF PUMPED HEAT ENERGY STORAGE SYSTEM"
+      ],
+      "abstract": "A pumped heat energy storage (\"PHES\") system is operable in a generation mode and a charge mode. In the generation mode, the PHES includes a fluid circuit for circulation of a working fluid therethrough, including a heat exchanger system and a turbine system for expanding the working fluid received from the heat exchanger system to generate rotational drive. A thermal storage system receives an extracted portion of the working fluid for mixture with cold side thermal storage fluid for direct contact heat exchange.",
+      "publicationNumber": "WO2025230842",
+      "publicationDate": "2025-11-06",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "Samar SHAH"
+      ],
+      "applicationDate": "2025-04-25",
+      "claimsCount": 27,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 11.973913
+    },
+    {
+      "id": "WO-2022036122-A1",
+      "title": [
+        "PUMPED HEAT ENERGY STORAGE SYSTEM WITH DISTRICT HEATING INTEGRATION"
+      ],
+      "abstract": "The present disclosure provides pumped heat energy storage systems that can be used to store and/or extract electrical energy. A pumped heat energy storage system of the present disclosure can store energy by operating as a heat pump, whereby net work input can be used to transfer heat from the cold side to the hot side. A working fluid of the system is capable of efficient heat exchange with heat storage fluids on a hot side of the system and on a cold side of the system. Such pumped energy storage systems can be beneficially integrated with district heating systems to provide and/or supplement heat supplied to the district heating systems.",
+      "publicationNumber": "WO2022036122",
+      "publicationDate": "2022-02-17",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "BENJAMIN R. BOLLINGER"
+      ],
+      "applicationDate": "2021-08-12",
+      "claimsCount": 5,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 11.973913
+    },
+    {
+      "id": "WO-2022036106-A1",
+      "title": [
+        "PUMPED HEAT ENERGY STORAGE SYSTEM WITH THERMAL PLANT INTEGRATION"
+      ],
+      "abstract": "The present disclosure provides pumped heat energy storage systems that can be used to store and/or extract electrical energy. A pumped heat energy storage system of the present disclosure can store energy by operating as a heat pump, whereby net work input can be used to transfer heat from the cold side to the hot side. A working fluid of the system is capable of efficient heat exchange with heat storage fluids on a hot side of the system and on a cold side of the system. Such pumped energy storage systems can be beneficially integrated with thermal plants to provided heat transfer to and/or from the thermal plants.",
+      "publicationNumber": "WO2022036106",
+      "publicationDate": "2022-02-17",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "BENJAMIN R. BOLLINGER",
+        "BAO H. TRUONG"
+      ],
+      "applicationDate": "2021-08-12",
+      "claimsCount": 15,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 11.973913
+    },
+    {
+      "id": "WO-2022036098-A1",
+      "title": [
+        "PUMPED HEAT ENERGY STORAGE SYSTEM WITH STEAM CYCLE"
+      ],
+      "abstract": "The present disclosure provides pumped heat energy storage systems that can be used to store and/or extract electrical energy. A pumped heat energy storage system of the present disclosure can store energy by operating as a heat pump, whereby net work input can be used to transfer heat from the cold side to the hot side. A working fluid of the system is capable of efficient heat exchange with heat storage fluids on a hot side of the system and on a cold side of the system. Such pumped energy storage systems can be beneficially integrated with steam plants to provided heating to the steam cycle.",
+      "publicationNumber": "WO2022036098",
+      "publicationDate": "2022-02-17",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "BENJAMIN R. BOLLINGER",
+        "BAO H. TRUONG",
+        "MICHAEL GEYER",
+        "Frederick REDELL"
+      ],
+      "applicationDate": "2021-08-12",
+      "claimsCount": 22,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.973913
+    },
+    {
+      "id": "WO-2022036034-A1",
+      "title": [
+        "PUMPED HEAT ENERGY STORAGE SYSTEM WITH MODULAR TURBOMACHINERY"
+      ],
+      "abstract": "The present disclosure provides pumped heat energy storage systems that can be used to store and extract electrical energy. A pumped heat energy storage system of the present disclosure can store energy by operating as a heat pump, whereby net work input can be used to transfer heat from the cold side to the hot side. A working fluid of the system is capable of efficient heat exchange with heat storage fluids on a hot side of the system and on a cold side of the system. The system can also extract energy by operating as a heat engine transferring heat from the hot side to the cold side, which can result in net work output. Shared powertrains and reversible powertrains are disclosed to circulate the working fluid.",
+      "publicationNumber": "WO2022036034",
+      "publicationDate": "2022-02-17",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "MERT GEVECI",
+        "BENJAMIN R. BOLLINGER",
+        "Samar J. SHAH"
+      ],
+      "applicationDate": "2021-08-12",
+      "claimsCount": 120,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.973913
+    },
+    {
+      "id": "US-20250101912-A1",
+      "title": [
+        "PUMPED HEAT ENERGY STORAGE SYSTEM WITH THERMAL PLANT INTEGRATION"
+      ],
+      "abstract": "The present disclosure provides pumped heat energy storage systems that can be used to store and/or extract electrical energy. A pumped heat energy storage system of the present disclosure can store energy by operating as a heat pump, whereby net work input can be used to transfer heat from the cold side to the hot side. A working fluid of the system is capable of efficient heat exchange with heat storage fluids on a hot side of the system and on a cold side of the system. Such pumped energy storage systems can be beneficially integrated with thermal plants to provided heat transfer to and/or from the thermal plants.",
+      "publicationNumber": "US20250101912",
+      "publicationDate": "2025-03-27",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "Benjamin R. Bollinger",
+        "Bao H. Truong"
+      ],
+      "applicationDate": "2024-12-04",
+      "claimsCount": 15,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 11.973913
+    },
+    {
+      "id": "US-20240301821-A1",
+      "title": [
+        "PUMPED HEAT ENERGY STORAGE SYSTEM WITH STEAM CYCLE"
+      ],
+      "abstract": "The present disclosure provides pumped heat energy storage systems that can be used to store and/or extract electrical energy. A pumped heat energy storage system of the present disclosure can store energy by operating as a heat pump, whereby net work input can be used to transfer heat from the cold side to the hot side. A working fluid of the system is capable of efficient heat exchange with heat storage fluids on a hot side of the system and on a cold side of the system. Such pumped energy storage systems can be beneficially integrated with steam plants to provided heating to the steam cycle.",
+      "publicationNumber": "US20240301821",
+      "publicationDate": "2024-09-12",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "Benjamin R. Bollinger",
+        "Bao H. Truong",
+        "Michael Geyer",
+        "Frederick Redell"
+      ],
+      "applicationDate": "2024-05-13",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 11.973913
+    },
+    {
+      "id": "US-20230279786-A1",
+      "title": [
+        "PUMPED HEAT ENERGY STORAGE SYSTEM WITH MODULAR TURBOMACHINERY"
+      ],
+      "abstract": "The present disclosure provides pumped heat energy storage systems that can be used to store and extract electrical energy. A pumped heat energy storage system of the present disclosure can store energy by operating as a heat pump, whereby net work input can be used to transfer heat from the cold side to the hot side. A working fluid of the system is capable of efficient heat exchange with heat storage fluids on a hot side of the system and on a cold side of the system. The system can also extract energy by operating as a heat engine transferring heat from the hot side to the cold side, which can result in net work output. Shared powertrains and reversible powertrains are disclosed to circulate the working fluid.",
+      "publicationNumber": "US20230279786",
+      "publicationDate": "2023-09-07",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "Mert Geveci",
+        "Benjamin R. Bollinger",
+        "Samar J. SHAH"
+      ],
+      "applicationDate": "2023-02-10",
+      "claimsCount": 48,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.973913
+    },
+    {
+      "id": "US-20230203969-A1",
+      "title": [
+        "PUMPED HEAT ENERGY STORAGE SYSTEM WITH MODULAR TURBOMACHINERY"
+      ],
+      "abstract": "The present disclosure provides pumped heat energy storage systems that can be used to store and extract electrical energy. A pumped heat energy storage system of the present disclosure can store energy by operating as a heat pump, whereby net work input can be used to transfer heat from the cold side to the hot side. A working fluid of the system is capable of efficient heat exchange with heat storage fluids on a hot side of the system and on a cold side of the system. The system can also extract energy by operating as a heat engine transferring heat from the hot side to the cold side, which can result in net work output. Shared powertrains and reversible powertrains are disclosed to circulate the working fluid.",
+      "publicationNumber": "US20230203969",
+      "publicationDate": "2023-06-29",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "Mert Geveci",
+        "Benjamin R. Bollinger",
+        "Samar J. SHAH"
+      ],
+      "applicationDate": "2023-02-10",
+      "claimsCount": 72,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.973913
+    },
+    {
+      "id": "US-20220049653-A1",
+      "title": [
+        "PUMPED HEAT ENERGY STORAGE SYSTEM WITH STEAM CYCLE"
+      ],
+      "abstract": "The present disclosure provides pumped heat energy storage systems that can be used to store and/or extract electrical energy. A pumped heat energy storage system of the present disclosure can store energy by operating as a heat pump, whereby net work input can be used to transfer heat from the cold side to the hot side. A working fluid of the system is capable of efficient heat exchange with heat storage fluids on a hot side of the system and on a cold side of the system. Such pumped energy storage systems can be beneficially integrated with steam plants to provided heating to the steam cycle.",
+      "publicationNumber": "US20220049653",
+      "publicationDate": "2022-02-17",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "Benjamin R. Bollinger",
+        "Bao Truong",
+        "Michael Geyer",
+        "Frederick Redell"
+      ],
+      "applicationDate": "2021-08-12",
+      "claimsCount": 22,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.973913
+    },
+    {
+      "id": "US-20220049652-A1",
+      "title": [
+        "PUMPED HEAT ENERGY STORAGE SYSTEM WITH THERMAL PLANT INTEGRATION"
+      ],
+      "abstract": "The present disclosure provides pumped heat energy storage systems that can be used to store and/or extract electrical energy. A pumped heat energy storage system of the present disclosure can store energy by operating as a heat pump, whereby net work input can be used to transfer heat from the cold side to the hot side. A working fluid of the system is capable of efficient heat exchange with heat storage fluids on a hot side of the system and on a cold side of the system. Such pumped energy storage systems can be beneficially integrated with thermal plants to provided heat transfer to and/or from the thermal plants.",
+      "publicationNumber": "US20220049652",
+      "publicationDate": "2022-02-17",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "Benjamin R. Bollinger",
+        "Bao H. Truong"
+      ],
+      "applicationDate": "2021-08-12",
+      "claimsCount": 15,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.973913
+    },
+    {
+      "id": "EP-4545769-A3",
+      "title": [
+        "PUMPED HEAT ENERGY STORAGE SYSTEM WITH THERMAL PLANT INTEGRATION"
+      ],
+      "abstract": "The present disclosure provides pumped heat energy storage systems that can be used to store and/or extract electrical energy. A pumped heat energy storage system of the present disclosure can store energy by operating as a heat pump, whereby net work input can be used to transfer heat from the cold side to the hot side. A working fluid of the system is capable of efficient heat exchange with heat storage fluids on a hot side of the system and on a cold side of the system. Such pumped energy storage systems can be beneficially integrated with thermal plants to provided heat transfer to and/or from the thermal plants.",
+      "publicationNumber": "EP4545769",
+      "publicationDate": "2025-07-02",
+      "assignee": [
+        "Malta Inc."
+      ],
+      "inventors": [
+        "BENJAMIN R. BOLLINGER",
+        "BAO H. TRUONG"
+      ],
+      "applicationDate": "2021-08-12",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 11.973913
+    },
+    {
+      "id": "EP-4545769-A2",
+      "title": [
+        "PUMPED HEAT ENERGY STORAGE SYSTEM WITH THERMAL PLANT INTEGRATION"
+      ],
+      "abstract": "The present disclosure provides pumped heat energy storage systems that can be used to store and/or extract electrical energy. A pumped heat energy storage system of the present disclosure can store energy by operating as a heat pump, whereby net work input can be used to transfer heat from the cold side to the hot side. A working fluid of the system is capable of efficient heat exchange with heat storage fluids on a hot side of the system and on a cold side of the system. Such pumped energy storage systems can be beneficially integrated with thermal plants to provided heat transfer to and/or from the thermal plants.",
+      "publicationNumber": "EP4545769",
+      "publicationDate": "2025-04-30",
+      "assignee": [
+        "Malta Inc."
+      ],
+      "inventors": [
+        "BENJAMIN R. BOLLINGER",
+        "BAO H. TRUONG"
+      ],
+      "applicationDate": "2021-08-12",
+      "claimsCount": 15,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.973913
+    },
+    {
+      "id": "EP-4545768-A8",
+      "title": [
+        "METHOD FOR USING A PUMPED HEAT ENERGY STORAGE SYSTEM WITH DISTRICT HEATING INTEGRATION"
+      ],
+      "abstract": "The present disclosure provides pumped heat energy storage systems that can be used to store and/or extract electrical energy. A pumped heat energy storage system of the present disclosure can store energy by operating as a heat pump, whereby net work input can be used to transfer heat from the cold side to the hot side. A working fluid of the system is capable of efficient heat exchange with heat storage fluids on a hot side of the system and on a cold side of the system. Such pumped energy storage systems can be beneficially integrated with district heating systems to provide and/or supplement heat supplied to the district heating systems.",
+      "publicationNumber": "EP4545768",
+      "publicationDate": "2025-06-04",
+      "assignee": [
+        "Malta Inc."
+      ],
+      "inventors": [
+        "Benjamin R Bollinger"
+      ],
+      "applicationDate": "2021-08-12",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.973913
+    },
+    {
+      "id": "EP-4545768-A3",
+      "title": [
+        "METHOD FOR USING A PUMPED HEAT ENERGY STORAGE SYSTEM WITH DISTRICT HEATING INTEGRATION"
+      ],
+      "abstract": "The present disclosure provides pumped heat energy storage systems that can be used to store and/or extract electrical energy. A pumped heat energy storage system of the present disclosure can store energy by operating as a heat pump, whereby net work input can be used to transfer heat from the cold side to the hot side. A working fluid of the system is capable of efficient heat exchange with heat storage fluids on a hot side of the system and on a cold side of the system. Such pumped energy storage systems can be beneficially integrated with district heating systems to provide and/or supplement heat supplied to the district heating systems.",
+      "publicationNumber": "EP4545768",
+      "publicationDate": "2025-07-09",
+      "assignee": [
+        "Malta Inc."
+      ],
+      "inventors": [
+        "Benjamin R Bollinger"
+      ],
+      "applicationDate": "2021-08-12",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 11.973913
+    },
+    {
+      "id": "EP-4545768-A2",
+      "title": [
+        "METHOD FOR USING A PUMPED HEAT ENERGY STORAGE SYSTEM WITH DISTRICT HEATING INTEGRATION"
+      ],
+      "abstract": "The present disclosure provides pumped heat energy storage systems that can be used to store and/or extract electrical energy. A pumped heat energy storage system of the present disclosure can store energy by operating as a heat pump, whereby net work input can be used to transfer heat from the cold side to the hot side. A working fluid of the system is capable of efficient heat exchange with heat storage fluids on a hot side of the system and on a cold side of the system. Such pumped energy storage systems can be beneficially integrated with district heating systems to provide and/or supplement heat supplied to the district heating systems.",
+      "publicationNumber": "EP4545768",
+      "publicationDate": "2025-04-30",
+      "assignee": [
+        "Malta Inc."
+      ],
+      "inventors": [
+        "Benjamin R Bollinger"
+      ],
+      "applicationDate": "2021-08-12",
+      "claimsCount": 9,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.973913
+    },
+    {
+      "id": "EP-4296477-A3",
+      "title": [
+        "PUMPED HEAT ENERGY STORAGE SYSTEM WITH MODULAR TURBOMACHINERY"
+      ],
+      "abstract": "The present disclosure provides pumped heat energy storage systems that can be used to store and extract electrical energy. A pumped heat energy storage system of the present disclosure can store energy by operating as a heat pump, whereby net work input can be used to transfer heat from the cold side to the hot side. A working fluid of the system is capable of efficient heat exchange with heat storage fluids on a hot side of the system and on a cold side of the system. The system can also extract energy by operating as a heat engine transferring heat from the hot side to the cold side, which can result in net work output. Shared powertrains and reversible powertrains are disclosed to circulate the working fluid.",
+      "publicationNumber": "EP4296477",
+      "publicationDate": "2024-02-28",
+      "assignee": [
+        "Malta Inc."
+      ],
+      "inventors": [
+        "MERT GEVECI",
+        "BENJAMIN R. BOLLINGER",
+        "Samar J. SHAH"
+      ],
+      "applicationDate": "2021-08-12",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.973913
+    },
+    {
+      "id": "EP-4296477-A2",
+      "title": [
+        "PUMPED HEAT ENERGY STORAGE SYSTEM WITH MODULAR TURBOMACHINERY"
+      ],
+      "abstract": "The present disclosure provides pumped heat energy storage systems that can be used to store and extract electrical energy. A pumped heat energy storage system of the present disclosure can store energy by operating as a heat pump, whereby net work input can be used to transfer heat from the cold side to the hot side. A working fluid of the system is capable of efficient heat exchange with heat storage fluids on a hot side of the system and on a cold side of the system. The system can also extract energy by operating as a heat engine transferring heat from the hot side to the cold side, which can result in net work output. Shared powertrains and reversible powertrains are disclosed to circulate the working fluid.",
+      "publicationNumber": "EP4296477",
+      "publicationDate": "2023-12-27",
+      "assignee": [
+        "Malta Inc."
+      ],
+      "inventors": [
+        "MERT GEVECI",
+        "BENJAMIN R. BOLLINGER",
+        "Samar J. SHAH"
+      ],
+      "applicationDate": "2021-08-12",
+      "claimsCount": 30,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.973913
+    },
+    {
+      "id": "EP-4193042-A1",
+      "title": [
+        "PUMPED HEAT ENERGY STORAGE SYSTEM WITH THERMAL PLANT INTEGRATION"
+      ],
+      "abstract": "The present disclosure provides pumped heat energy storage systems that can be used to store and/or extract electrical energy. A pumped heat energy storage system of the present disclosure can store energy by operating as a heat pump, whereby net work input can be used to transfer heat from the cold side to the hot side. A working fluid of the system is capable of efficient heat exchange with heat storage fluids on a hot side of the system and on a cold side of the system. Such pumped energy storage systems can be beneficially integrated with thermal plants to provided heat transfer to and/or from the thermal plants.",
+      "publicationNumber": "EP4193042",
+      "publicationDate": "2023-06-14",
+      "assignee": [
+        "Malta Inc."
+      ],
+      "inventors": [
+        "BENJAMIN R. BOLLINGER",
+        "BAO H. TRUONG"
+      ],
+      "applicationDate": "2021-08-12",
+      "claimsCount": 15,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 11.973913
+    },
+    {
+      "id": "EP-4193041-A1",
+      "title": [
+        "PUMPED HEAT ENERGY STORAGE SYSTEM WITH DISTRICT HEATING INTEGRATION"
+      ],
+      "abstract": "The present disclosure provides pumped heat energy storage systems that can be used to store and/or extract electrical energy. A pumped heat energy storage system of the present disclosure can store energy by operating as a heat pump, whereby net work input can be used to transfer heat from the cold side to the hot side. A working fluid of the system is capable of efficient heat exchange with heat storage fluids on a hot side of the system and on a cold side of the system. Such pumped energy storage systems can be beneficially integrated with district heating systems to provide and/or supplement heat supplied to the district heating systems.",
+      "publicationNumber": "EP4193041",
+      "publicationDate": "2023-06-14",
+      "assignee": [
+        "Malta Inc."
+      ],
+      "inventors": [
+        "BENJAMIN R. BOLLINGER"
+      ],
+      "applicationDate": "2021-08-12",
+      "claimsCount": 5,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 11.973913
+    },
+    {
+      "id": "EP-4193039-A1",
+      "title": [
+        "PUMPED HEAT ENERGY STORAGE SYSTEM WITH MODULAR TURBOMACHINERY"
+      ],
+      "abstract": "The present disclosure provides pumped heat energy storage systems that can be used to store and extract electrical energy. A pumped heat energy storage system of the present disclosure can store energy by operating as a heat pump, whereby net work input can be used to transfer heat from the cold side to the hot side. A working fluid of the system is capable of efficient heat exchange with heat storage fluids on a hot side of the system and on a cold side of the system. The system can also extract energy by operating as a heat engine transferring heat from the hot side to the cold side, which can result in net work output. Shared powertrains and reversible powertrains are disclosed to circulate the working fluid.",
+      "publicationNumber": "EP4193039",
+      "publicationDate": "2023-06-14",
+      "assignee": [
+        "Malta Inc."
+      ],
+      "inventors": [
+        "MERT GEVECI",
+        "BENJAMIN R. BOLLINGER",
+        "Samar J. SHAH"
+      ],
+      "applicationDate": "2021-08-12",
+      "claimsCount": 120,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.973913
+    },
+    {
+      "id": "EP-4193036-A1",
+      "title": [
+        "PUMPED HEAT ENERGY STORAGE SYSTEM WITH STEAM CYCLE"
+      ],
+      "abstract": "The present disclosure provides pumped heat energy storage systems that can be used to store and/or extract electrical energy. A pumped heat energy storage system of the present disclosure can store energy by operating as a heat pump, whereby net work input can be used to transfer heat from the cold side to the hot side. A working fluid of the system is capable of efficient heat exchange with heat storage fluids on a hot side of the system and on a cold side of the system. Such pumped energy storage systems can be beneficially integrated with steam plants to provided heating to the steam cycle.",
+      "publicationNumber": "EP4193036",
+      "publicationDate": "2023-06-14",
+      "assignee": [
+        "Malta Inc."
+      ],
+      "inventors": [
+        "BENJAMIN R. BOLLINGER",
+        "BAO H. TRUONG",
+        "MICHAEL GEYER",
+        "Frederick REDELL"
+      ],
+      "applicationDate": "2021-08-12",
+      "claimsCount": 22,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.973913
+    },
+    {
+      "id": "CL-2023000434-A1",
+      "title": [
+        "Pumped heat energy storage system with thermal plant integration"
+      ],
+      "abstract": "La presente divulgaci\u00f3n proporciona sistemas de almacenamiento de energ\u00eda t\u00e9rmica por bombeo que pueden utilizarse para almacenar y/o extraer energ\u00eda el\u00e9ctrica. Un sistema de almacenamiento de energ\u00eda t\u00e9rmica por bombeo de la presente divulgaci\u00f3n puede almacenar energ\u00eda operando como una bomba de calor, por lo que la entrada de trabajo neto se puede utilizar para transferir calor desde el lado fr\u00edo al lado caliente. Un fluido de trabajo del sistema es capaz de intercambiar calor eficazmente con fluidos de almacenamiento de calor en un lado caliente del sistema y en un lado fr\u00edo del sistema. Estos sistemas de acumulaci\u00f3n de energ\u00eda por bombeo pueden integrarse de forma beneficiosa con plantas t\u00e9rmicas para proporcionar transferencia de calor hacia y/o desde las plantas t\u00e9rmicas.",
+      "publicationNumber": "CL2023000434",
+      "publicationDate": "2023-08-18",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "BENJAMIN R. BOLLINGER",
+        "BAO H. TRUONG"
+      ],
+      "applicationDate": "2023-02-10",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 11.973913
+    },
+    {
+      "id": "CL-2023000433-A1",
+      "title": [
+        "Pumped heat energy storage system with steam cycle"
+      ],
+      "abstract": "The present disclosure provides pumped heat energy storage systems that can be used to store and/or extract electrical energy. A pumped heat energy storage system of the present disclosure can store energy by operating as a heat pump, whereby net work input can be used to transfer heat from the cold side to the hot side. A working fluid of the system is capable of efficient heat exchange with heat storage fluids on a hot side of the system and on a cold side of the system. Such pumped energy storage systems can be beneficially integrated with steam plants to provided heating to the steam cycle.",
+      "publicationNumber": "CL2023000433",
+      "publicationDate": "2023-08-18",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "BENJAMIN R. BOLLINGER",
+        "BAO H. TRUONG",
+        "MICHAEL GEYER",
+        "FREDERICK REDELL"
+      ],
+      "applicationDate": "2023-02-10",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.973913
+    },
+    {
+      "id": "CL-2023000420-A1",
+      "title": [
+        "Pumped heat energy storage system with modular turbomachinery"
+      ],
+      "abstract": "The present disclosure provides pumped heat energy storage systems that can be used to store and extract electrical energy. A pumped heat energy storage system of the present disclosure can store energy by operating as a heat pump, whereby net work input can be used to transfer heat from the cold side to the hot side. A working fluid of the system is capable of efficient heat exchange with heat storage fluids on a hot side of the system and on a cold side of the system. The system can also extract energy by operating as a heat engine transferring heat from the hot side to the cold side, which can result in net work output. Shared powertrains and reversible powertrains are disclosed to circulate the working fluid.",
+      "publicationNumber": "CL2023000420",
+      "publicationDate": "2023-08-11",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "MERT GEVECI",
+        "BENJAMIN R. BOLLINGER",
+        "SAMAR J. SHAH"
+      ],
+      "applicationDate": "2023-02-10",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.973913
+    },
+    {
+      "id": "BR-112023002561-A2",
+      "title": [
+        "SISTEMA DE ARMAZENAMENTO DE ENERGIA T\u00c9RMICA BOMBEADA COM INTEGRA\u00c7\u00c3O DE PLANTA T\u00c9RMICA"
+      ],
+      "abstract": "SISTEMA DE ARMAZENAMENTO DE ENERGIA T\u00c9RMICA BOMBEADA COM INTEGRA\u00c7\u00c3O DE PLANTA T\u00c9RMICA. A presente inven\u00e7\u00e3o refere-se a sistemas de armazenamento de energia t\u00e9rmica bombeada que podem ser usados para armazenar e /ou extrair energia el\u00e9trica. Um sistema de armazenamento de energia t\u00e9rmica bombeado da presente inven\u00e7\u00e3o pode armazenar energia operando como uma bomba de calor, em que a entrada de trabalho l\u00edquido pode ser usada para transferir calor do lado frio para o lado quente. Um fluido de trabalho do sistema \u00e9 capaz de troca de calor eficiente com fluidos de armazenamento de calor em um lado quente do sistema e em um lado frio do sistema. Esses sistemas de armazenamento de energia bombeada podem ser integrados de forma ben\u00e9fica com plantas t\u00e9rmicas para fornecer transfer\u00eancia de calor para e/ou \u00e0s plantas t\u00e9rmicas.",
+      "publicationNumber": "BR112023002561",
+      "publicationDate": "2023-04-18",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "BENJAMIN R. BOLLINGER",
+        "BAO H. TRUONG"
+      ],
+      "applicationDate": "2021-08-12",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 11.973913
+    },
+    {
+      "id": "BR-112023002547-A2",
+      "title": [
+        "SISTEMA DE ARMAZENAMENTO DE ENERGIA T\u00c9RMICA BOMBEADA COM TURBOM\u00c1QUINAS MODULARES"
+      ],
+      "abstract": "SISTEMA DE ARMAZENAMENTO DE ENERGIA T\u00c9RMICA BOMBEADA COM TURBOM\u00c1QUINAS MODULARES. A presente inven\u00e7\u00e3o refere-se a sistemas de armazenamento de energia t\u00e9rmica bombeada que podem ser usados para armazenar e obter energia el\u00e9trica. Um sistema de armazenamento de energia t\u00e9rmica bombeado da presente divulga\u00e7\u00e3o pode armazenar energia operando como uma bomba de calor, em que a entrada de trabalho fluido pode ser usada para transferir calor do lado frio para o lado quente. Um fluido de trabalho do sistema \u00e9 capaz de troca de calor eficiente com fluidos de armazenamento de calor em um lado quente do sistema e em um lado frio do sistema. O sistema tamb\u00e9m pode obter energia operando como um motor t\u00e9rmico, transferindo calor do lado quente para o lado frio, o que pode resultar em sa\u00edda de trabalho fluido. Trens de for\u00e7a compartilhados e trens de for\u00e7a revers\u00edveis s\u00e3o divulgados para circular o fluido de trabalho.",
+      "publicationNumber": "BR112023002547",
+      "publicationDate": "2023-04-18",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "MERT GEVECI",
+        "BENJAMIN R. BOLLINGER",
+        "SAMAR J. SHAH"
+      ],
+      "applicationDate": "2021-08-12",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.973913
+    },
+    {
+      "id": "BR-112023002535-A2",
+      "title": [
+        "SISTEMA DE ARMAZENAMENTO DE ENERGIA T\u00c9RMICA BOMBEADA COM CICLO DE VAPOR"
+      ],
+      "abstract": "SISTEMA DE ARMAZENAMENTO DE ENERGIA T\u00c9RMICA BOMBEADA COM CICLO DE VAPOR. A presente inven\u00e7\u00e3o refere-se a sistemas de armazenamento de energia t\u00e9rmica bombeada que podem ser usados para armazenar e /ou extrair energia el\u00e9trica. Um sistema de armazenamento de energia t\u00e9rmica bombeado da presente divulga\u00e7\u00e3o pode armazenar energia operando como uma bomba de calor, em que a entrada de trabalho l\u00edquido pode ser usada para transferir calor do lado frio para o lado quente. Um fluido de trabalho do sistema \u00e9 capaz de troca de calor eficiente com fluidos de armazenamento de calor em um lado quente do sistema e em um lado frio do sistema. Esses sistemas de armazenamento de energia bombeada podem ser integrados de forma ben\u00e9fica com usinas de vapor para fornecer aquecimento ao ciclo de vapor.",
+      "publicationNumber": "BR112023002535",
+      "publicationDate": "2023-04-18",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "BENJAMIN R. BOLLINGER",
+        "BAO H. TRUONG",
+        "MICHAEL GEYER",
+        "FREDERICK REDELL"
+      ],
+      "applicationDate": "2021-08-12",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.973913
+    },
+    {
+      "id": "AU-2021326517-A1",
+      "title": [
+        "Pumped heat energy storage system with thermal plant integration"
+      ],
+      "abstract": "The present disclosure provides pumped heat energy storage systems that can be used to store and/or extract electrical energy. A pumped heat energy storage system of the present disclosure can store energy by operating as a heat pump, whereby net work input can be used to transfer heat from the cold side to the hot side. A working fluid of the system is capable of efficient heat exchange with heat storage fluids on a hot side of the system and on a cold side of the system. Such pumped energy storage systems can be beneficially integrated with thermal plants to provided heat transfer to and/or from the thermal plants.",
+      "publicationNumber": "AU2021326517",
+      "publicationDate": "2023-03-16",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "BENJAMIN R. BOLLINGER",
+        "BAO H. TRUONG"
+      ],
+      "applicationDate": "2021-08-12",
+      "claimsCount": 15,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 11.973913
+    },
+    {
+      "id": "AU-2021325078-A1",
+      "title": [
+        "Pumped heat energy storage system with district heating integration"
+      ],
+      "abstract": "The present disclosure provides pumped heat energy storage systems that can be used to store and/or extract electrical energy. A pumped heat energy storage system of the present disclosure can store energy by operating as a heat pump, whereby net work input can be used to transfer heat from the cold side to the hot side. A working fluid of the system is capable of efficient heat exchange with heat storage fluids on a hot side of the system and on a cold side of the system. Such pumped energy storage systems can be beneficially integrated with district heating systems to provide and/or supplement heat supplied to the district heating systems.",
+      "publicationNumber": "AU2021325078",
+      "publicationDate": "2023-03-16",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "BENJAMIN R. BOLLINGER"
+      ],
+      "applicationDate": "2021-08-12",
+      "claimsCount": 5,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 11.973913
+    },
+    {
+      "id": "AU-2021324829-A1",
+      "title": [
+        "Pumped heat energy storage system with steam cycle"
+      ],
+      "abstract": "The present disclosure provides pumped heat energy storage systems that can be used to store and/or extract electrical energy. A pumped heat energy storage system of the present disclosure can store energy by operating as a heat pump, whereby net work input can be used to transfer heat from the cold side to the hot side. A working fluid of the system is capable of efficient heat exchange with heat storage fluids on a hot side of the system and on a cold side of the system. Such pumped energy storage systems can be beneficially integrated with steam plants to provided heating to the steam cycle.",
+      "publicationNumber": "AU2021324829",
+      "publicationDate": "2023-03-16",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "BENJAMIN R. BOLLINGER",
+        "MICHAEL GEYER",
+        "Frederick REDELL",
+        "BAO H. TRUONG"
+      ],
+      "applicationDate": "2021-08-12",
+      "claimsCount": 22,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.973913
+    },
+    {
+      "id": "AU-2021324771-A1",
+      "title": [
+        "Pumped heat energy storage system with modular turbomachinery"
+      ],
+      "abstract": "The present disclosure provides pumped heat energy storage systems that can be used to store and extract electrical energy. A pumped heat energy storage system of the present disclosure can store energy by operating as a heat pump, whereby net work input can be used to transfer heat from the cold side to the hot side. A working fluid of the system is capable of efficient heat exchange with heat storage fluids on a hot side of the system and on a cold side of the system. The system can also extract energy by operating as a heat engine transferring heat from the hot side to the cold side, which can result in net work output. Shared powertrains and reversible powertrains are disclosed to circulate the working fluid.",
+      "publicationNumber": "AU2021324771",
+      "publicationDate": "2023-03-16",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "BENJAMIN R. BOLLINGER",
+        "MERT GEVECI",
+        "Samar J. SHAH"
+      ],
+      "applicationDate": "2021-08-12",
+      "claimsCount": 120,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.973913
+    },
+    {
+      "id": "WO-2021097413-A1",
+      "title": [
+        "PUMPED HEAT ELECTRIC STORAGE SYSTEM"
+      ],
+      "abstract": "The present disclosure provides pumped thermal energy storage systems that can be used to store and extract electrical energy. A pumped thermal energy storage system of the present disclosure can store energy by operating as a heat pump or refrigerator, whereby net work input can be used to transfer heat from the cold side to the hot side. A working fluid of the system is capable of efficient heat exchange with heat storage fluids on a hot side of the system and on a cold side of the system. The system can extract energy by operating as a heat engine transferring heat from the hot side to the cold side, which can result in net work output.",
+      "publicationNumber": "WO2021097413",
+      "publicationDate": "2021-05-20",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "BENJAMIN R. BOLLINGER",
+        "MERT GEVECI",
+        "BAO H. TRUONG",
+        "ERHAN KARACA",
+        "SEBASTIAN W. FREUND",
+        "David M. BRANTZEG",
+        "James J. UNDERWOOD",
+        "JOHN S. BOWEN",
+        "ROY T. COLLINS"
+      ],
+      "applicationDate": "2020-11-16",
+      "claimsCount": 273,
+      "independentClaimsCount": 37,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.915219
+    },
+    {
+      "id": "US-20250084773-A1",
+      "title": [
+        "DUAL-POWERTRAIN PUMPED HEAT ENERGY STORAGE WITH INVENTORY CONTROL AND PURGE"
+      ],
+      "abstract": "The present disclosure provides pumped thermal energy storage systems that can be used to store and extract electrical energy. A pumped thermal energy storage system of the present disclosure can store energy by operating as a heat pump or refrigerator, whereby net work input can be used to transfer heat from the cold side to the hot side. A working fluid of the system is capable of efficient heat exchange with heat storage fluids on a hot side of the system and on a cold side of the system. The system can extract energy by operating as a beat engine transferring heat from the hot side to the cold side, which can result in net work output.",
+      "publicationNumber": "US20250084773",
+      "publicationDate": "2025-03-13",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "Benjamin R. Bollinger",
+        "Sebastian W. Freund",
+        "Mert Geveci"
+      ],
+      "applicationDate": "2024-11-21",
+      "claimsCount": 1,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.915219
+    },
+    {
+      "id": "US-20240159168-A1",
+      "title": [
+        "DUAL-POWERTRAIN PUMPED HEAT ENERGY STORAGE WITH INVENTORY CONTROL AND PURGE"
+      ],
+      "abstract": "The present disclosure provides pumped thermal energy storage systems that can be used to store and extract electrical energy. A pumped thermal energy storage system of the present disclosure can store energy by operating as a heat pump or refrigerator, whereby net work input can be used to transfer heat from the cold side to the hot side. A working fluid of the system is capable of efficient heat exchange with heat storage fluids on a hot side of the system and on a cold side of the system. The system can extract energy by operating as a heat engine transferring heat from the hot side to the cold side, which can result in net work output.",
+      "publicationNumber": "US20240159168",
+      "publicationDate": "2024-05-16",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "Benjamin R. Bollinger",
+        "Sebastian W. Freund",
+        "Mert Geveci"
+      ],
+      "applicationDate": "2023-12-21",
+      "claimsCount": 24,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.915219
+    },
+    {
+      "id": "US-20220389839-A1",
+      "title": [
+        "PUMPED HEAT ELECTRIC STORAGE SYSTEM"
+      ],
+      "abstract": "The present disclosure provides pumped thermal energy storage systems that can be used to store and extract electrical energy. A pumped thermal energy storage system of the present disclosure can store energy by operating as a heat pump or refrigerator, whereby net work input can be used to transfer heat from the cold side to the hot side. A working fluid of the system is capable of efficient heat exchange with heat storage fluids on a hot side of the system and on a cold side of the system. The system can extract energy by operating as a heat engine transferring heat from the hot side to the cold side, which can result in net work output.",
+      "publicationNumber": "US20220389839",
+      "publicationDate": "2022-12-08",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "Benjamin R. Bollinger",
+        "Mert Geveci",
+        "Bao H. Truong",
+        "Erhan Karaca",
+        "Sebastian W. Freund",
+        "David M. BRANTZEG",
+        "James J. Underwood",
+        "John S. Bowen",
+        "Roy T. Collins"
+      ],
+      "applicationDate": "2020-11-16",
+      "claimsCount": 273,
+      "independentClaimsCount": 37,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.915219
+    },
+    {
+      "id": "EP-4058659-A1",
+      "title": [
+        "PUMPED HEAT ELECTRIC STORAGE SYSTEM"
+      ],
+      "abstract": "The present disclosure provides pumped thermal energy storage systems that can be used to store and extract electrical energy. A pumped thermal energy storage system of the present disclosure can store energy by operating as a heat pump or refrigerator, whereby net work input can be used to transfer heat from the cold side to the hot side. A working fluid of the system is capable of efficient heat exchange with heat storage fluids on a hot side of the system and on a cold side of the system. The system can extract energy by operating as a heat engine transferring heat from the hot side to the cold side, which can result in net work output.",
+      "publicationNumber": "EP4058659",
+      "publicationDate": "2022-09-21",
+      "assignee": [
+        "Malta Inc."
+      ],
+      "inventors": [
+        "BENJAMIN R. BOLLINGER",
+        "MERT GEVECI",
+        "BAO H. TRUONG",
+        "ERHAN KARACA",
+        "SEBASTIAN W. FREUND",
+        "David M. BRANTZEG",
+        "James J. UNDERWOOD",
+        "JOHN S. BOWEN",
+        "ROY T. COLLINS"
+      ],
+      "applicationDate": "2020-11-16",
+      "claimsCount": 273,
+      "independentClaimsCount": 37,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.915219
+    },
+    {
+      "id": "AU-2020384893-A1",
+      "title": [
+        "Pumped heat electric storage system"
+      ],
+      "abstract": "The present disclosure provides pumped thermal energy storage systems that can be used to store and extract electrical energy. A pumped thermal energy storage system of the present disclosure can store energy by operating as a heat pump or refrigerator, whereby net work input can be used to transfer heat from the cold side to the hot side. A working fluid of the system is capable of efficient heat exchange with heat storage fluids on a hot side of the system and on a cold side of the system. The system can extract energy by operating as a heat engine transferring heat from the hot side to the cold side, which can result in net work output.",
+      "publicationNumber": "AU2020384893",
+      "publicationDate": "2022-06-09",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "BENJAMIN R. BOLLINGER",
+        "JOHN S. BOWEN",
+        "David M. BRANTZEG",
+        "ROY T. COLLINS",
+        "SEBASTIAN W. FREUND",
+        "MERT GEVECI",
+        "ERHAN KARACA",
+        "BAO H. TRUONG",
+        "James J. UNDERWOOD"
+      ],
+      "applicationDate": "2020-11-16",
+      "claimsCount": 273,
+      "independentClaimsCount": 37,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.915219
+    },
+    {
+      "id": "WO-2022036092-A1",
+      "title": [
+        "PUMPED HEAT ENERGY STORAGE SYSTEM WITH ELECTRIC HEATING INTEGRATION"
+      ],
+      "abstract": "A method including: (i) operating a pumped-heat energy storage system (\"PHES system\") in a charge mode to convert electricity into stored thermal energy in a hot thermal storage medium (\"HTS medium\") by transferring heat from a working fluid to a warm HTS medium, resulting in a hot HTS medium, wherein the PHES system is further operable in a generation mode to convert at least a portion of the stored thermal energy into electricity; and (ii) heating the hot HTS medium with an electric heater above a temperature achievable by transferring heat from the working fluid to the warm HTS medium.",
+      "publicationNumber": "WO2022036092",
+      "publicationDate": "2022-02-17",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "BENJAMIN R. BOLLINGER",
+        "BAO H. TRUONG"
+      ],
+      "applicationDate": "2021-08-12",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 11.81543
+    },
+    {
+      "id": "US-20250116210-A1",
+      "title": [
+        "PUMPED HEAT ENERGY STORAGE SYSTEM WITH ELECTRIC HEATING INTEGRATION"
+      ],
+      "abstract": "A method including: (i) operating a pumped-heat energy storage system (\u201cPHES system\u201d) in a charge mode to convert electricity into stored thermal energy in a hot thermal storage medium (\u201cHTS medium\u201d) by transferring heat from a working fluid to a warm HTS medium, resulting in a hot HTS medium, wherein the PHES system is further operable in a generation mode to convert at least a portion of the stored thermal energy into electricity; and (ii) heating the hot HTS medium with an electric heater above a temperature achievable by transferring heat from the working fluid to the warm HTS medium.",
+      "publicationNumber": "US20250116210",
+      "publicationDate": "2025-04-10",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "Benjamin R. Bollinger",
+        "Bao H. Truong"
+      ],
+      "applicationDate": "2024-12-20",
+      "claimsCount": 12,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.81543
+    },
+    {
+      "id": "US-20240209774-A1",
+      "title": [
+        "PUMP CONTROL OF CLOSED CYCLE POWER GENERATION SYSTEM"
+      ],
+      "abstract": "Disclosed are systems and methods for pump control of a closed thermodynamic cycle system, such as a Brayton cycle. Operational parameters such as working fluid temperature, thermal fluid temperature, stream pressure, and power generation may be the basis for controlling a thermal fluid pump rate.",
+      "publicationNumber": "US20240209774",
+      "publicationDate": "2024-06-27",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "Raj Apte",
+        "Philippe Larochelle"
+      ],
+      "applicationDate": "2024-03-11",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Solar energy"
+      ],
+      "score": 11.81543
+    },
+    {
+      "id": "US-20240159167-A1",
+      "title": [
+        "PUMPED HEAT ENERGY STORAGE SYSTEM WITH ELECTRIC HEATING INTEGRATION"
+      ],
+      "abstract": "A method including: (i) operating a pumped-heat energy storage system (\u201cPHES system\u201d) in a charge mode to convert electricity into stored thermal energy in a hot thermal storage medium (\u201cHTS medium\u201d) by transferring heat from a working fluid to a warm HTS medium, resulting in a hot HTS medium, wherein the PHES system is further operable in a generation mode to convert at least a portion of the stored thermal energy into electricity; and (ii) heating the hot HTS medium with an electric heater above a temperature achievable by transferring heat from the working fluid to the warm HTS medium.",
+      "publicationNumber": "US20240159167",
+      "publicationDate": "2024-05-16",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "Benjamin R. Bollinger",
+        "Bao H. Truong"
+      ],
+      "applicationDate": "2024-01-26",
+      "claimsCount": 21,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.81543
+    },
+    {
+      "id": "US-20230399948-A1",
+      "title": [
+        "ADIABATIC SALT ENERGY STORAGE"
+      ],
+      "abstract": "Efficient energy storage is provided by using a working fluid flowing in a closed cycle including a ganged compressor and turbine, and capable of efficient heat exchange with heat storage fluids on a hot side of the system and on a cold side of the system. This system can operate as a heat engine by transferring heat from the hot side to the cold side to mechanically drive the turbine. The system can also operate as a refrigerator by mechanically driving the compressor to transfer heat from the cold side to the hot side. Heat exchange between the working fluid of the system and the heat storage fluids occurs in counter-flow heat exchangers. In a preferred approach, molten salt is the hot side heat storage fluid and water is the cold side heat storage fluid.",
+      "publicationNumber": "US20230399948",
+      "publicationDate": "2023-12-14",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "Robert B. Laughlin"
+      ],
+      "applicationDate": "2023-08-24",
+      "claimsCount": 19,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.81543
+    },
+    {
+      "id": "US-20230019518-A1",
+      "title": [
+        "PUMP CONTROL OF CLOSED CYCLE POWER GENERATION SYSTEM"
+      ],
+      "abstract": "Disclosed are systems and methods for pump control of a closed thermodynamic cycle system, such as a Brayton cycle. Operational parameters such as working fluid temperature, thermal fluid temperature, stream pressure, and power generation may be the basis for controlling a thermal fluid pump rate.",
+      "publicationNumber": "US20230019518",
+      "publicationDate": "2023-01-19",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "Raj Apte",
+        "Philippe Larochelle"
+      ],
+      "applicationDate": "2022-09-26",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Solar energy"
+      ],
+      "score": 11.81543
+    },
+    {
+      "id": "US-20230012284-A1",
+      "title": [
+        "PUMPED HEAT ENERGY STORAGE SYSTEM WITH ELECTRIC HEATING INTEGRATION"
+      ],
+      "abstract": "A method including: (i) operating a pumped-heat energy storage system (\u201cPHES system\u201d) in a charge mode to convert electricity into stored thermal energy in a hot thermal storage medium (\u201cHTS medium\u201d) by transferring heat from a working fluid to a warm HTS medium, resulting in a hot HTS medium, wherein the PHES system is further operable in a generation mode to convert at least a portion of the stored thermal energy into electricity; and (ii) heating the hot HTS medium with an electric heater above a temperature achievable by transferring heat from the working fluid to the warm HTS medium.",
+      "publicationNumber": "US20230012284",
+      "publicationDate": "2023-01-12",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "Benjamin R. Bollinger",
+        "Bao H. Truong"
+      ],
+      "applicationDate": "2022-07-25",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.81543
+    },
+    {
+      "id": "US-20220307416-A1",
+      "title": [
+        "VARIABLE PRESSURE TURBINE"
+      ],
+      "abstract": "Systems and methods relating to variable pressure turbines are disclosed. A power generation system may include a closed cycle system configured to generate power, a combustor, and a control system. The closed cycle system may include a working fluid circulating in a closed cycle path. The combustor may provide thermal energy to the working fluid. Further, the control system may be configured to determine to increase an amount of power generated by the closed cycle system, and in response to the determination to increase the amount of power generated by the closed cycle system, cause an increase in pressure of the working fluid in the closed cycle path.",
+      "publicationNumber": "US20220307416",
+      "publicationDate": "2022-09-29",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "Raj Apte",
+        "Richard DeVaul",
+        "Philippe Larochelle"
+      ],
+      "applicationDate": "2022-06-06",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.81543
+    },
+    {
+      "id": "US-20220049630-A1",
+      "title": [
+        "PUMPED HEAT ENERGY STORAGE SYSTEM WITH ELECTRIC HEATING INTEGRATION"
+      ],
+      "abstract": "A method including: (i) operating a pumped-heat energy storage system (\u201cPHES system\u201d) in a charge mode to convert electricity into stored thermal energy in a hot thermal storage medium (\u201cHTS medium\u201d) by transferring heat from a working fluid to a warm HTS medium, resulting in a hot HTS medium, wherein the PHES system is further operable in a generation mode to convert at least a portion of the stored thermal energy into electricity; and (ii) heating the hot HTS medium with an electric heater above a temperature achievable by transferring heat from the working fluid to the warm HTS medium.",
+      "publicationNumber": "US20220049630",
+      "publicationDate": "2022-02-17",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "Benjamin R. Bollinger",
+        "Bao H. Truong"
+      ],
+      "applicationDate": "2020-08-12",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.81543
+    },
+    {
+      "id": "US-20210180457-A1",
+      "title": [
+        "ADIABATIC SALT ENERGY STORAGE"
+      ],
+      "abstract": "Efficient energy storage is provided by using a working fluid flowing in a closed cycle including a ganged compressor and turbine, and capable of efficient heat exchange with heat storage fluids on a hot side of the system and on a cold side of the system. This system can operate as a heat engine by transferring heat from the hot side to the cold side to mechanically drive the turbine. The system can also operate as a refrigerator by mechanically driving the compressor to transfer heat from the cold side to the hot side. Heat exchange between the working fluid of the system and the heat storage fluids occurs in counter-flow heat exchangers. In a preferred approach, molten salt is the hot side heat storage fluid and water is the cold side heat storage fluid.",
+      "publicationNumber": "US20210180457",
+      "publicationDate": "2021-06-17",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "Robert B. Laughlin"
+      ],
+      "applicationDate": "2021-02-01",
+      "claimsCount": 9,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.81543
+    },
+    {
+      "id": "US-20210172371-A1",
+      "title": [
+        "PUMP CONTROL OF CLOSED CYCLE POWER GENERATION SYSTEM"
+      ],
+      "abstract": "Disclosed are systems and methods for pump control of a closed thermodynamic cycle system, such as a Brayton cycle. Operational parameters such as working fluid temperature, thermal fluid temperature, stream pressure, and power generation may be the basis for controlling a thermal fluid pump rate.",
+      "publicationNumber": "US20210172371",
+      "publicationDate": "2021-06-10",
+      "assignee": [
+        "MALTA INC."
+      ],
+      "inventors": [
+        "Raj Apte",
+        "Philippe Larochelle"
+      ],
+      "applicationDate": "2021-02-12",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Solar energy"
+      ],
+      "score": 11.81543
+    }
+  ]
+}

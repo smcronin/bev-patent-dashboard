@@ -1,0 +1,11 @@
+{
+  "search_id": "search_20260114_121424",
+  "timestamp": "2026-01-14T12:14:24.747932",
+  "query_type": "ai_search",
+  "user_prompt": "PA=(Pivot Bio) AND PD>2015",
+  "minesoft_query": "PA=(Pivot Bio) AND PD>2015",
+  "results_count": 492,
+  "directory": "2026-01-14_pivot_bio_and_2015",
+  "execution_time_ms": 7060.8580112457275,
+  "api_endpoint": "query"
+}

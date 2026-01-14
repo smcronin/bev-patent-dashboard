@@ -1,0 +1,11 @@
+{
+  "search_id": "search_20260114_121958",
+  "timestamp": "2026-01-14T12:19:58.837805",
+  "query_type": "ai_search",
+  "user_prompt": "PA=(Planted Solar) AND PD>2015",
+  "minesoft_query": "PA=(Planted Solar) AND PD>2015",
+  "results_count": 28,
+  "directory": "2026-01-14_planted_solar_and_2015",
+  "execution_time_ms": 694.1995620727539,
+  "api_endpoint": "query"
+}

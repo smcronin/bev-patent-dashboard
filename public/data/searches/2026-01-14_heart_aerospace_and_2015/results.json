@@ -1,0 +1,1026 @@
+{
+  "count": 43,
+  "numFound": 43,
+  "docs": [
+    {
+      "id": "WO-2025012138-A1",
+      "title": [
+        "AN ENERGY DISTRIBUTION SYSTEM FOR AN AIRCRAFT"
+      ],
+      "abstract": "The present invention relates to an energy distribution system (100; 200) for an aircraft, wherein said aircraft comprising: electrical loads (117) comprising: a first electrical load (101); and a second electrical load (102), wherein the first electrical load and the second electrical load are a first type of electrical loads operable to receive a first control signal, FCS, which controls the power usage of each of the first type of electrical loads; electrical sources (118) comprising at least two energy storage units (106, 107) each having an output voltage and being operable to supply electric power to the electrical loads (117); and wherein the energy distribution system (100; 200) comprises: a network (108) operable to supply the electrical loads (117) with electrical power from the electrical sources (118) and; a voltage control module, VCM (116) comprising a measuring unit (109) operable to measure at least the output voltage of each of the at least two energy storage units (106,107;), and to generate a measurement signal indicative of the measurements; an open circuit voltage, OCV, unit (110) operable to receive the measurement signal and to estimate the OCV of each of the at least two energy storage units based on the received measurement signal; a control unit (111) operable to receive the estimated OCV and to calculate a differential OCV to determine an absolute value representing the difference in estimated OCV between the at least two energy storage units, generating the FCS based on the differential OCV, such that the power usage of each of the first type of loads are adjusted such that the absolute value of the differential OCV is reduced.",
+      "publicationNumber": "WO2025012138",
+      "publicationDate": "2025-01-16",
+      "assignee": [
+        "Heart Aerospace AB"
+      ],
+      "inventors": [
+        "Bassem FARAG"
+      ],
+      "applicationDate": "2024-07-05",
+      "claimsCount": 27,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 14.245158
+    },
+    {
+      "id": "SE-547061-C2",
+      "title": [
+        "AN ENERGY DISTRIBUTION SYSTEM FOR AN AIRCRAFT"
+      ],
+      "abstract": "The present invention relates to an energy distribution system (100) for an aircraft comprising a first electrical load (101), a second electrical load (102) and at least two energy storage units (106, 107) being operable to supply electric power to the electrical loads. The first electrical load and the second electrical load are a first type of electrical loads operable to receive a first control signal, FCS, which controls the power usage of each of the first type of electrical loads. The energy distribution system comprises a network (108) operable to supply the electrical loads (117) with electrical power from the electrical sources (118) and an open circuit voltage, OCV, unit (110) operable to estimate the OCV of each of the at least two energy storage units; a control unit (111) operable to calculate a differential OCV, generating the FCS based on the differential OCV, to reduce the differential OCV.",
+      "publicationNumber": "SE547061",
+      "publicationDate": "2025-04-15",
+      "assignee": [
+        "Heart Aerospace AB"
+      ],
+      "inventors": [
+        "Bassem FARAG"
+      ],
+      "applicationDate": "2023-07-07",
+      "claimsCount": 16,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Transport"
+      ],
+      "score": 14.245158
+    },
+    {
+      "id": "SE-2350876-A1",
+      "title": [
+        "AN ENERGY DISTRIBUTION SYSTEM FOR AN AIRCRAFT"
+      ],
+      "abstract": "The present invention relates to an energy distribution system (100; 200) for an aircraft, wherein said aircraft comprising: electrical loads (117) comprising: a first electrical load (101); and a second electrical load (102), wherein the first electrical load and the second electrical load are a first type of electrical loads operable to receive a first control signal, FCS, which controls the power usage of each of the first type of electrical loads; electrical sources (118) comprising at least two energy storage units (106, 107) each having an output voltage and being operable to supply electric power to the electrical loads (117); and wherein the energy distribution system (100; 200) comprises: a network (108) operable to supply the electrical loads (117) with electrical power from the electrical sources (118) and; a voltage control module, VCM (116) comprising a measuring unit (109) operable to measure at least the output voltage of each of the at least two energy storage units (106,107;), and to generate a measurement signal indicative of the measurements; an open circuit voltage, OCV, unit (110) operable to receive the measurement signal and to estimate the OCV of each of the at least two energy storage units based on the received measurement signal; a control unit (111) operable to receive the estimated OCV and to calculate a differential OCV to determine an absolute value representing the difference in estimated OCV between the at least two energy storage units, generating the FCS based on the differential OCV, such that the power usage of each of the first type of loads are adjusted such that the absolute value of the differential OCV is reduced.",
+      "publicationNumber": "SE2350876",
+      "publicationDate": "2025-01-08",
+      "assignee": [
+        "Heart Aerospace AB"
+      ],
+      "inventors": [
+        "Bassem FARAG"
+      ],
+      "applicationDate": "2023-07-07",
+      "claimsCount": 16,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Transport"
+      ],
+      "score": 14.245158
+    },
+    {
+      "id": "WO-2024056549-A1",
+      "title": [
+        "A SYSTEM AND METHOD FOR CHARGING AN AIRCRAFT"
+      ],
+      "abstract": "The present invention relates to a system (10; 20; 30) for reconfiguring power distribution in an aircraft, the system comprises at least two propulsion units (3), at least two energy storage units (13) and an interconnecting network (15). The interconnecting network (15) is configured to alternate between different operating modes comprising a propulsion mode and a charging mode, and the interconnecting network is configured to create a local direct current, DC, bus (4) between each respective energy storage unit (13) and one of the at least two propulsion units (3) when operating in propulsion mode; or connect the at least two energy storage units (13) to a common DC bus (6) configured to receive power from a power source when operating in charging mode. The invention also relates to a method for reconfiguring power distribution in an aircraft.",
+      "publicationNumber": "WO2024056549",
+      "publicationDate": "2024-03-21",
+      "assignee": [
+        "Heart Aerospace AB"
+      ],
+      "inventors": [
+        "Bassem FARAG",
+        "Luis Antonio AGUILERA MEDINA",
+        "Oskar DAHL"
+      ],
+      "applicationDate": "2023-09-08",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 14.183665
+    },
+    {
+      "id": "SE-546663-C2",
+      "title": [
+        "A SYSTEM AND METHOD FOR CHARGING AN AIRPLANE"
+      ],
+      "abstract": "The present invention relates to a system (10; 20; 30) for reconfiguring power distribution in an airplane, the system comprises at least two propulsion units (3), at least two energy storage units (13) and an interconnecting network (15). The interconnecting network (15) is configured to alternate between different operating modes comprising a propulsion mode and a charging mode, and the interconnecting network is configured to create a local direct current, DC, bus (4) between each respective energy storage unit (13) and one of the at least two propulsion units (3) when operating in propulsion mode; or connect the at least two energy storage units (13) to a common DC bus (6) configured to receive power from a power source when operating in charging mode. The invention also relates to a method for reconfiguring power distribution in an airplane.",
+      "publicationNumber": "SE546663",
+      "publicationDate": "2025-01-14",
+      "assignee": [
+        "Heart Aerospace AB"
+      ],
+      "inventors": [
+        "Bassem FARAG",
+        "Luis Antonio AGUILERA MEDINA",
+        "Oskar DAHL"
+      ],
+      "applicationDate": "2022-09-13",
+      "claimsCount": 17,
+      "independentClaimsCount": 0,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 14.183665
+    },
+    {
+      "id": "SE-2251056-A1",
+      "title": [
+        "A SYSTEM AND METHOD FOR CHARGING AN AIRPLANE"
+      ],
+      "abstract": "The present invention relates to a system (10; 20; 30) for reconfiguring power distribution in an airplane, the system comprises at least two propulsion units (3), at least two energy storage units (13) and an interconnecting network (15). The interconnecting network (15) is configured to alternate between different operating modes comprising a propulsion mode and a charging mode, and the interconnecting network is configured to create a local direct current, DC, bus (4) between each respective energy storage unit (13) and one of the at least two propulsion units (3) when operating in propulsion mode; or connect the at least two energy storage units (13) to a common DC bus (6) configured to receive power from a power source when operating in charging mode. The invention also relates to a method for reconfiguring power distribution in an airplane.",
+      "publicationNumber": "SE2251056",
+      "publicationDate": "2024-03-14",
+      "assignee": [
+        "Heart Aerospace AB"
+      ],
+      "inventors": [
+        "Bassem FARAG",
+        "Luis Antonio AGUILERA MEDINA",
+        "Oskar DAHL"
+      ],
+      "applicationDate": "2022-09-13",
+      "claimsCount": 17,
+      "independentClaimsCount": 0,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 14.183665
+    },
+    {
+      "id": "EP-4587330-A1",
+      "title": [
+        "A SYSTEM AND METHOD FOR CHARGING AN AIRCRAFT"
+      ],
+      "abstract": "The present invention relates to a system (10; 20; 30) for reconfiguring power distribution in an aircraft, the system comprises at least two propulsion units (3), at least two energy storage units (13) and an interconnecting network (15). The interconnecting network (15) is configured to alternate between different operating modes comprising a propulsion mode and a charging mode, and the interconnecting network is configured to create a local direct current, DC, bus (4) between each respective energy storage unit (13) and one of the at least two propulsion units (3) when operating in propulsion mode; or connect the at least two energy storage units (13) to a common DC bus (6) configured to receive power from a power source when operating in charging mode. The invention also relates to a method for reconfiguring power distribution in an aircraft.",
+      "publicationNumber": "EP4587330",
+      "publicationDate": "2025-07-23",
+      "assignee": [
+        "Heart Aerospace AB"
+      ],
+      "inventors": [
+        "Bassem FARAG",
+        "Luis Antonio AGUILERA MEDINA",
+        "Oskar DAHL"
+      ],
+      "applicationDate": "2023-09-08",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 14.183665
+    },
+    {
+      "id": "WO-2025163030-A1",
+      "title": [
+        "AEROSPACE THERMAL MANAGEMENT SYSTEM"
+      ],
+      "abstract": "The present invention relates to a thermal management system (10) for a hybrid electric aircraft (100), wherein the system comprises: at least one aircraft unit (12) configured to be used in electric propulsion of the aircraft; a first fluid circuit (18) arranged to cool the at least one aircraft unit; an internal combustion engine (28); a second fluid circuit (30) for the internal combustion engine; and a heat exchanger (20), wherein the first fluid circuit is arranged to provide heating to the second fluid circuit via said heat exchanger.",
+      "publicationNumber": "WO2025163030",
+      "publicationDate": "2025-08-07",
+      "assignee": [
+        "Heart Aerospace AB"
+      ],
+      "inventors": [
+        "JOEL FRANSSON",
+        "Francisco Martins",
+        "NILS CARLSON",
+        "ENIS D\u00d6NMEZ"
+      ],
+      "applicationDate": "2025-01-30",
+      "claimsCount": 13,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Transport"
+      ],
+      "score": 14.167739
+    },
+    {
+      "id": "WO-2024038189-A1",
+      "title": [
+        "A SYSTEM AND METHOD FOR AN AIRCRAFT"
+      ],
+      "abstract": "The present invention relates to a system (40) for redistributing power in an aircraft with at least two electrical powertrain units (10), each powertrain unit (10) comprises a propulsion unit (15) powered by an energy storage unit (13); and a control system (41) configured to monitor operating status of each propulsion unit (15) and each energy storage unit (13); identify a malfunctioning unit (A-D) from the group of propulsion units (15) and energy storage units (13); and control at least one set of reconfiguration switches (28; 38; 48; 58) to disconnect the identified malfunctioning unit (A-D) from the system and to reroute power from one or more energy storage units (13) to one or more propulsion units (15). The system also comprises an auxiliary power supply (32) configured to provide extra power to the system, the control system being configured to -receive status information from the auxiliary power supply (32); - control the operation of the auxiliary power supply (32), and - provide power from the auxiliary power supply (32) to one or more of the propulsion units (15) by controlling the at least one set of reconfiguration switches (28; 38; 48; 58), wherein the auxiliary power supply comprises a turbogenerator (52) supplying DC power to the system via a rectifier (53), when connected. The invention also relates to a method for redistributing power in an aircraft.",
+      "publicationNumber": "WO2024038189",
+      "publicationDate": "2024-02-22",
+      "assignee": [
+        "Heart Aerospace AB"
+      ],
+      "inventors": [
+        "Bassem FARAG",
+        "Luis Antonio AGUILERA MEDINA",
+        "Fabr\u00edcio DE OLIVEIRA SPIGOLON"
+      ],
+      "applicationDate": "2023-08-18",
+      "claimsCount": 15,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Transport"
+      ],
+      "score": 14.167739
+    },
+    {
+      "id": "US-20250243804-A1",
+      "title": [
+        "AEROSPACE THERMAL MANAGEMENT SYSTEM"
+      ],
+      "abstract": "The present invention relates to a thermal management system (10) for a hybrid electric aircraft (100), wherein the system comprises: at least one aircraft unit (12) configured to be used in electric propulsion of the aircraft; a first fluid circuit (18) arranged to cool the at least one aircraft unit; an internal combustion engine (28); a second fluid circuit (30) for the internal combustion engine; and a heat exchanger (20), wherein the first fluid circuit is arranged to provide heating to the second fluid circuit via said heat exchanger.",
+      "publicationNumber": "US20250243804",
+      "publicationDate": "2025-07-31",
+      "assignee": [
+        "Heart Aerospace AB"
+      ],
+      "inventors": [
+        "Joel FRANSSON",
+        "Francisco Martins",
+        "Nils CARLSON",
+        "Enis D\u00d5NMEZ"
+      ],
+      "applicationDate": "2025-01-30",
+      "claimsCount": 13,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Transport"
+      ],
+      "score": 14.167739
+    },
+    {
+      "id": "SE-2450100-A1",
+      "title": [
+        "AEROSPACE THERMAL MANAGEMENT SYSTEM"
+      ],
+      "abstract": "The present invention relates to a thermal management system (10) for a hybrid electric aircraft (100), wherein the system comprises: at least one aircraft unit (12) configured to be used in electric propulsion of the aircraft; a first fluid circuit (18) arranged to cool the at least one aircraft unit; an internal combustion engine (28); a second fluid circuit (30) for the internal combustion engine; and a heat exchanger (20), wherein the first fluid circuit is arranged to provide heating to the second fluid circuit via said heat exchanger.",
+      "publicationNumber": "SE2450100",
+      "publicationDate": "2025-08-01",
+      "assignee": [
+        "Heart Aerospace AB"
+      ],
+      "inventors": [
+        "ENIS D\u00d6NMEZ",
+        "Francisco Martins",
+        "JOEL FRANSSON",
+        "NILS CARLSON"
+      ],
+      "applicationDate": "2024-01-31",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Transport"
+      ],
+      "score": 14.167739
+    },
+    {
+      "id": "SE-2250982-A1",
+      "title": [
+        "A SYSTEM AND METHOD FOR AN AIRPLANE"
+      ],
+      "abstract": "The present invention relates to a system (40) for redistributing power in an airplane with at least two electrical powertrain units (10), each powertrain unit (10) comprises a propulsion unit (15) powered by an energy storage unit (13); and a control system (41) configured to monitor operating status of each propulsion unit (15) and each energy storage unit (13); identify a malfunctioning unit (A-D) from the group of propulsion units (15) and energy storage units (13); and control at least one set of reconfiguration switches (28; 38; 48; 58) to disconnect the identified malfunctioning unit (A-D) from the system and to reroute power from one or more energy storage units (13) to one or more propulsion units (15). The invention also relates to a method for redistributing power in an airplane.",
+      "publicationNumber": "SE2250982",
+      "publicationDate": "2024-02-20",
+      "assignee": [
+        "Heart Aerospace AB"
+      ],
+      "inventors": [
+        "Bassem FARAG",
+        "Fabr\u00edcio DE OLIVEIRA SPIGOLON",
+        "Luis Antonio AGUILERA MEDINA"
+      ],
+      "applicationDate": "2022-08-19",
+      "claimsCount": 15,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 14.167739
+    },
+    {
+      "id": "EP-4573009-A1",
+      "title": [
+        "A SYSTEM AND METHOD FOR AN AIRCRAFT"
+      ],
+      "abstract": "The present invention relates to a system (40) for redistributing power in an aircraft with at least two electrical powertrain units (10), each powertrain unit (10) comprises a propulsion unit (15) powered by an energy storage unit (13); and a control system (41) configured to monitor operating status of each propulsion unit (15) and each energy storage unit (13); identify a malfunctioning unit (A-D) from the group of propulsion units (15) and energy storage units (13); and control at least one set of reconfiguration switches (28; 38; 48; 58) to disconnect the identified malfunctioning unit (A-D) from the system and to reroute power from one or more energy storage units (13) to one or more propulsion units (15). The system also comprises an auxiliary power supply (32) configured to provide extra power to the system, the control system being configured to -receive status information from the auxiliary power supply (32); - control the operation of the auxiliary power supply (32), and - provide power from the auxiliary power supply (32) to one or more of the propulsion units (15) by controlling the at least one set of reconfiguration switches (28; 38; 48; 58), wherein the auxiliary power supply comprises a turbogenerator (52) supplying DC power to the system via a rectifier (53), when connected. The invention also relates to a method for redistributing power in an aircraft.",
+      "publicationNumber": "EP4573009",
+      "publicationDate": "2025-06-25",
+      "assignee": [
+        "Heart Aerospace AB"
+      ],
+      "inventors": [
+        "Bassem FARAG",
+        "Luis Antonio AGUILERA MEDINA",
+        "Fabr\u00edcio DE OLIVEIRA SPIGOLON"
+      ],
+      "applicationDate": "2023-08-18",
+      "claimsCount": 15,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Transport"
+      ],
+      "score": 14.167739
+    },
+    {
+      "id": "WO-2024023316-A1",
+      "title": [
+        "THERMAL MANAGEMENT SYSTEM"
+      ],
+      "abstract": "The invention relates to a thermal management system (1, 1a, 1b, 41, 51, 61) comprising a fluid cooling circuit (2) comprising a cooling channel (3) in a thermal load (4), a cooling pump (5) arranged to circulate cooling fluid inside the fluid cooling circuit (2) and a heat exchanger (6) connected between the cooling channel (3) in the thermal load (4) and the cooling pump (5). The fluid cooling circuit (2) comprises a heat exchanger by-pass valve (7) connected to the cooling channel (3) in the thermal load (4) and to the cooling pump (5). The thermal management system (1, 1a, 1b, 41, 51, 61) comprises a ram air channel (8) comprising a ram air inlet door (9). The ram air channel (8) is arranged to provide cooling to the heat exchanger (6) by ram air cooling when the ram air inlet door (9) is open. The thermal load (4) is an electric motor (13) with at least two associated motor controllers (14) connected in parallel with the electric motor (13). The invention also relates to an electric aircraft (23) comprising a thermal management system.",
+      "publicationNumber": "WO2024023316",
+      "publicationDate": "2024-02-01",
+      "assignee": [
+        "Heart Aerospace AB"
+      ],
+      "inventors": [
+        "Celso Valerio BASTOS CASAGRANDE",
+        "Matheus CUIN",
+        "Fabio STABILE DE OLIVEIRA"
+      ],
+      "applicationDate": "2023-07-28",
+      "claimsCount": 16,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Audio-visual technology",
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 14.165196
+    },
+    {
+      "id": "US-20250242937-A1",
+      "title": [
+        "AEROSPACE ELECTRIC PROPULSION THERMAL MANAGEMENT SYSTEM"
+      ],
+      "abstract": "A system (10) for an aircraft (100), including an electric motor (12) configured for propulsion of the aircraft; a motor control unit (14); a first fluid cooling circuit (16) arranged to circulate a first fluid (18a-c) and comprising at least one first cooling channel (20) in the at least one motor control unit; a first heat exchanger (22) connected to the first fluid cooling circuit for providing cooling to the first fluid cooling circuit; a ram air inlet (24) arranged to provide cooling to the first heat exchanger; a second fluid cooling circuit (26) arranged to circulate a second fluid (28a-b) and comprising at least one second cooling channel (30) in the electric motor; and a second heat exchanger (32), wherein the first fluid cooling circuit is arranged to provide cooling or heating to the second fluid cooling circuit via the second heat exchanger.",
+      "publicationNumber": "US20250242937",
+      "publicationDate": "2025-07-31",
+      "assignee": [
+        "Heart Aerospace AB"
+      ],
+      "inventors": [
+        "Nils CARLSON",
+        "Alain CUENCA",
+        "Johan HELLSING",
+        "Joel FRANSSON",
+        "Francisco Martins"
+      ],
+      "applicationDate": "2025-01-30",
+      "claimsCount": 20,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Transport"
+      ],
+      "score": 14.165196
+    },
+    {
+      "id": "EP-4596414-A1",
+      "title": [
+        "AEROSPACE ELECTRIC PROPULSION THERMAL MANAGEMENT SYSTEM"
+      ],
+      "abstract": "The present invention relates to a system (10) for an aircraft (100), wherein the system comprises: an electric motor (12) configured for propulsion of the aircraft; at least one motor control unit (14); a first fluid cooling circuit (16) arranged to circulate a first fluid (18a-c) and comprising at least one first cooling channel (20) in the at least one motor control unit; a first heat exchanger (22) connected to the first fluid cooling circuit for providing cooling to the first fluid cooling circuit; a ram air inlet (24) arranged to provide cooling to the first heat exchanger by ram air cooling; a second fluid cooling circuit (26) arranged to circulate a second fluid (28a-b) and comprising at least one second cooling channel (30) in the electric motor; and a second heat exchanger (32), wherein the first fluid cooling circuit is arranged to provide cooling or heating to the second fluid cooling circuit via the second heat exchanger.",
+      "publicationNumber": "EP4596414",
+      "publicationDate": "2025-08-06",
+      "assignee": [
+        "Heart Aerospace AB"
+      ],
+      "inventors": [
+        "NILS CARLSON",
+        "ALAIN CUENCA",
+        "Johan HELLSING",
+        "JOEL FRANSSON",
+        "Francisco Martins"
+      ],
+      "applicationDate": "2025-01-30",
+      "claimsCount": 15,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Transport"
+      ],
+      "score": 14.165196
+    },
+    {
+      "id": "EP-4561901-A1",
+      "title": [
+        "THERMAL MANAGEMENT SYSTEM"
+      ],
+      "abstract": "The invention relates to a thermal management system (1, 1a, 1b, 41, 51, 61) comprising a fluid cooling circuit (2) comprising a cooling channel (3) in a thermal load (4), a cooling pump (5) arranged to circulate cooling fluid inside the fluid cooling circuit (2) and a heat exchanger (6) connected between the cooling channel (3) in the thermal load (4) and the cooling pump (5). The fluid cooling circuit (2) comprises a heat exchanger by-pass valve (7) connected to the cooling channel (3) in the thermal load (4) and to the cooling pump (5). The thermal management system (1, 1a, 1b, 41, 51, 61) comprises a ram air channel (8) comprising a ram air inlet door (9). The ram air channel (8) is arranged to provide cooling to the heat exchanger (6) by ram air cooling when the ram air inlet door (9) is open. The thermal load (4) is an electric motor (13) with at least two associated motor controllers (14) connected in parallel with the electric motor (13). The invention also relates to an electric aircraft (23) comprising a thermal management system.",
+      "publicationNumber": "EP4561901",
+      "publicationDate": "2025-06-04",
+      "assignee": [
+        "Heart Aerospace AB"
+      ],
+      "inventors": [
+        "Celso Valerio BASTOS CASAGRANDE",
+        "Matheus CUIN",
+        "Fabio STABILE DE OLIVEIRA"
+      ],
+      "applicationDate": "2023-07-28",
+      "claimsCount": 16,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Audio-visual technology",
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 14.165196
+    },
+    {
+      "id": "WO-2025176600-A1",
+      "title": [
+        "METHOD OF MANAGING CONDITIONING FLUID OF A THERMAL MANAGEMENT SYSTEM FOR AN AIRCRAFT"
+      ],
+      "abstract": "The present invention relates to a method of managing conditioning fluid of a thermal management system (10) for an aircraft (100), comprising: obtaining an indication (36) that a conditioning fluid (20) present in at least one passage (12) for conditioning at least one aircraft component (14) has reached or may reach a temperature outside a predetermined operating temperature range of said conditioning fluid at a time when the at least one aircraft component does not require conditioning; removing, in response to obtaining said indication, at least some of the conditioning fluid from said at least one passage to a reservoir (24) at least temporarily in fluid communication with said at least one passage, thereby at least partly emptying said at least one passage of conditioning fluid; causing the temperature of the conditioning fluid in said reservoir to be within said predetermined operating temperature range; and returning the conditioning fluid having its temperature within said predetermined operating temperature range from the reservoir to said at least one passage.",
+      "publicationNumber": "WO2025176600",
+      "publicationDate": "2025-08-28",
+      "assignee": [
+        "Heart Aerospace AB"
+      ],
+      "inventors": [
+        "Bassem FARAG"
+      ],
+      "applicationDate": "2025-02-17",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 14.161839
+    },
+    {
+      "id": "SE-2450214-A1",
+      "title": [
+        "METHOD OF MANAGING CONDITIONING FLUID OF A THERMAL MANAGEMENT SYSTEM FOR AN AIRCRAFT"
+      ],
+      "abstract": "The present invention relates to a method of managing conditioning fluid of a thermal management system (10) for an aircraft (100), comprising: obtaining an indication (36) that a conditioning fluid (20) present in at least one passage (12) for conditioning at least one aircraft component (14) has reached or may reach a temperature outside a predetermined operating temperature range of said conditioning fluid at a time when the at least one aircraft component does not require conditioning; removing, in response to obtaining said indication, at least some of the conditioning fluid from said at least one passage to a reservoir (24) at least temporarily in fluid communication with said at least one passage, thereby at least partly emptying said at least one passage of conditioning fluid; causing the temperature of the conditioning fluid in said reservoir to be within said predetermined operating temperature range; and returning the conditioning fluid having its temperature within said predetermined operating temperature range from the reservoir to said at least one passage.",
+      "publicationNumber": "SE2450214",
+      "publicationDate": "2025-08-21",
+      "assignee": [
+        "Heart Aerospace AB"
+      ],
+      "inventors": [
+        "Bassem FARAG"
+      ],
+      "applicationDate": "2024-02-20",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 14.161839
+    },
+    {
+      "id": "WO-2024023305-A1",
+      "title": [
+        "AN ENERGY DISTRIBUTION SYSTEM"
+      ],
+      "abstract": "The present invention relates to an energy distribution system (20) for an aircraft with at least two electrical powertrain units, each comprising a propulsion unit (1) powered by energy storage units (13) each configured to supply a first direct current, DC, voltage. The energy distribution system (20) comprises at least one converter unit (25) configured to energize a DC bus (16) having a lower DC voltage than the first DC voltage provided from each respective energy storage unit (13), each converter unit (25; 35) comprises a DC/DC converter arrangement (21) configured to convert the first DC voltage from at least one energy storage units (13) to a second DC voltage on the DC bus (16), and a DC bus battery (22) with a nominal operating DC voltage of the second DC voltage. The DC bus (16) provides energy for charging the DC bus battery (22) when energized from the energy storage units (13), and the DC bus battery (22) supply energy to the DC bus (16) when the energy storage units fail to energize the DC bus (16).",
+      "publicationNumber": "WO2024023305",
+      "publicationDate": "2024-02-01",
+      "assignee": [
+        "Heart Aerospace AB"
+      ],
+      "inventors": [
+        "Luis Antonio AGUILERA MEDINA",
+        "Farag BASSEM",
+        "Fabr\u00edcio DE OLIVEIRA SPIGOLON"
+      ],
+      "applicationDate": "2023-07-28",
+      "claimsCount": 14,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 14.119138
+    },
+    {
+      "id": "US-20240039292-A1",
+      "title": [
+        "ENERGY DISTRIBUTION SYSTEM"
+      ],
+      "abstract": "The present invention relates to an energy distribution system (20) for an aircraft with at least two electrical powertrain units, each comprising a propulsion unit (1) powered by energy storage units (13) each configured to supply a first direct current, DC, voltage. The energy distribution system (20) comprises at least one converter unit (25) configured to energize a DC bus (16) having a lower DC voltage than the first DC voltage provided from each respective energy storage unit (13), each converter unit (25; 35) comprises a DC/DC converter arrangement (21) configured to convert the first DC voltage from at least one energy storage units (13) to a second DC voltage on the DC bus (16), and a DC bus battery (22) with a nominal operating DC voltage of the second DC voltage. The DC bus (16) provides energy for charging the DC bus battery (22) when energized from the energy storage units (13), and the DC bus battery (22) supply energy to the DC bus (16) when the energy storage units fail to energize the DC bus (16).",
+      "publicationNumber": "US20240039292",
+      "publicationDate": "2024-02-01",
+      "assignee": [
+        "Heart Aerospace AB"
+      ],
+      "inventors": [
+        "Luis Antonio Aguilera Medina",
+        "Bassem FARAG",
+        "Fabr\u00edcio DE OLIVEIRA SPIGOLON"
+      ],
+      "applicationDate": "2023-07-28",
+      "claimsCount": 15,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 14.119138
+    },
+    {
+      "id": "SE-545936-C2",
+      "title": [
+        "AN ENERGY DISTRIBUTION SYSTEM"
+      ],
+      "abstract": "The present invention relates to an energy distribution system (20; 30) for an airplane with at least two electrical powertrain units, each comprising a propulsion unit (11, 12) powered by an energy storage unit (13) configured to supply a first direct current, DC, voltage. The energy distribution system (20; 30) comprises at least one converter unit (25; 35) configured to energize a DC bus (16) having a lower DC voltage than the first DC voltage provided from each respective energy storage unit (13), each converter unit (25; 35) comprises a DC/DC converter arrangement (21) configured to convert the first DC voltage from each energy storage unit (13) to a second DC voltage on the DC bus (16), and a DC bus battery (22) with a nominal operating DC voltage of the second DC voltage. The DC bus (16) provides energy for charging the DC bus battery (22) when energized from the energy storage units (13), and the DC bus battery (22) supply energy to the DC bus (16) when the energy storage units fail to energize the DC bus (16).",
+      "publicationNumber": "SE545936",
+      "publicationDate": "2024-03-19",
+      "assignee": [
+        "Heart Aerospace AB"
+      ],
+      "inventors": [
+        "Bassem FARAG",
+        "Fabr\u00edcio DE OLIVEIRA SPIGOLON",
+        "Luis Antonio AGUILERA MEDINA"
+      ],
+      "applicationDate": "2022-07-29",
+      "claimsCount": 10,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 14.119138
+    },
+    {
+      "id": "SE-2250933-A1",
+      "title": [
+        "AN ENERGY DISTRIBUTION SYSTEM"
+      ],
+      "abstract": "The present invention relates to an energy distribution system (20; 30) for an airplane with at least two electrical powertrain units, each comprising a propulsion unit (11, 12) powered by an energy storage unit (13) configured to supply a first direct current, DC, voltage. The energy distribution system (20; 30) comprises at least one converter unit (25; 35) configured to energize a DC bus (16) having a lower DC voltage than the first DC voltage provided from each respective energy storage unit (13), each converter unit (25; 35) comprises a DC/DC converter arrangement (21) configured to convert the first DC voltage from each energy storage unit (13) to a second DC voltage on the DC bus (16), and a DC bus battery (22) with a nominal operating DC voltage of the second DC voltage. The DC bus (16) provides energy for charging the DC bus battery (22) when energized from the energy storage units (13), and the DC bus battery (22) supply energy to the DC bus (16) when the energy storage units fail to energize the DC bus (16).",
+      "publicationNumber": "SE2250933",
+      "publicationDate": "2024-01-30",
+      "assignee": [
+        "Heart Aerospace AB"
+      ],
+      "inventors": [
+        "Bassem FARAG",
+        "Fabr\u00edcio DE OLIVEIRA SPIGOLON",
+        "Luis Antonio AGUILERA MEDINA"
+      ],
+      "applicationDate": "2022-07-29",
+      "claimsCount": 10,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 14.119138
+    },
+    {
+      "id": "EP-4561902-A1",
+      "title": [
+        "AN ENERGY DISTRIBUTION SYSTEM"
+      ],
+      "abstract": "The present invention relates to an energy distribution system (20) for an aircraft with at least two electrical powertrain units, each comprising a propulsion unit (1) powered by energy storage units (13) each configured to supply a first direct current, DC, voltage. The energy distribution system (20) comprises at least one converter unit (25) configured to energize a DC bus (16) having a lower DC voltage than the first DC voltage provided from each respective energy storage unit (13), each converter unit (25; 35) comprises a DC/DC converter arrangement (21) configured to convert the first DC voltage from at least one energy storage units (13) to a second DC voltage on the DC bus (16), and a DC bus battery (22) with a nominal operating DC voltage of the second DC voltage. The DC bus (16) provides energy for charging the DC bus battery (22) when energized from the energy storage units (13), and the DC bus battery (22) supply energy to the DC bus (16) when the energy storage units fail to energize the DC bus (16).",
+      "publicationNumber": "EP4561902",
+      "publicationDate": "2025-06-04",
+      "assignee": [
+        "Heart Aerospace AB"
+      ],
+      "inventors": [
+        "Luis Antonio AGUILERA MEDINA",
+        "Farag BASSEM",
+        "Fabr\u00edcio DE OLIVEIRA SPIGOLON"
+      ],
+      "applicationDate": "2023-07-28",
+      "claimsCount": 14,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 14.119138
+    },
+    {
+      "id": "AU-2023316788-A1",
+      "title": [
+        "AN ENERGY DISTRIBUTION SYSTEM"
+      ],
+      "abstract": "The present invention relates to an energy distribution system (20) for an aircraft with at least two electrical powertrain units, each comprising a propulsion unit (1) powered by energy storage units (13) each configured to supply a first direct current, DC, voltage. The energy distribution system (20) comprises at least one converter unit (25) configured to energize a DC bus (16) having a lower DC voltage than the first DC voltage provided from each respective energy storage unit (13), each converter unit (25; 35) comprises a DC/DC converter arrangement (21) configured to convert the first DC voltage from at least one energy storage units (13) to a second DC voltage on the DC bus (16), and a DC bus battery (22) with a nominal operating DC voltage of the second DC voltage. The DC bus (16) provides energy for charging the DC bus battery (22) when energized from the energy storage units (13), and the DC bus battery (22) supply energy to the DC bus (16) when the energy storage units fail to energize the DC bus (16).",
+      "publicationNumber": "AU2023316788",
+      "publicationDate": "2025-02-06",
+      "assignee": [
+        "Heart Aerospace AB"
+      ],
+      "inventors": [
+        "Luis Antonio AGUILERA MEDINA",
+        "Farag BASSEM",
+        "Fabr\u00edcio DE OLIVEIRA SPIGOLON"
+      ],
+      "applicationDate": "2023-07-28",
+      "claimsCount": 14,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 14.119138
+    },
+    {
+      "id": "IN-202547019848-A",
+      "title": [
+        "A SYSTEM AND METHOD FOR CHARGING AN AIRCRAFT"
+      ],
+      "abstract": "The present invention relates to a system (10; 20; 30) for reconfiguring power distribution in an aircraft, the system comprises at least two propulsion units (3), at least two energy storage units (13) and an interconnecting network (15). The interconnecting network (15) is configured to alternate between different operating modes comprising a propulsion mode and a charging mode, and the interconnecting network is configured to create a local direct current, DC, bus (4) between each respective energy storage unit (13) and one of the at least two propulsion units (3) when operating in propulsion mode; or connect the at least two energy storage units (13) to a common DC bus (6) configured to receive power from a power source when operating in charging mode. The invention also relates to a method for reconfiguring power distribution in an aircraft.",
+      "publicationNumber": "IN202547019848",
+      "publicationDate": "2025-03-21",
+      "assignee": [
+        "Heart Aerospace AB"
+      ],
+      "inventors": [
+        "FARAG BASSEM",
+        "AGUILERA MEDINA LUIS ANTONIO",
+        "DAHL OSKAR"
+      ],
+      "applicationDate": "2025-03-05",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 12.752407
+    },
+    {
+      "id": "BR-112025003241-A2",
+      "title": [
+        "SISTEMA E M\u00c9TODO PARA RECONFIGURAR A DISTRIBUI\u00c7\u00c3O DE ENERGIA EM UMA AERONAVE, MEIO DE ARMAZENAMENTO LEG\u00cdVEL POR COMPUTADOR, E, AERONAVE"
+      ],
+      "abstract": "",
+      "publicationNumber": "BR112025003241",
+      "publicationDate": "2025-08-05",
+      "assignee": [
+        "Heart Aerospace AB"
+      ],
+      "inventors": [
+        "BASSEM FARAG",
+        "Luis Antonio AGUILERA MEDINA",
+        "OSKAR DAHL"
+      ],
+      "applicationDate": "2023-09-08",
+      "claimsCount": 16,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 12.752407
+    },
+    {
+      "id": "IN-202547011332-A",
+      "title": [
+        "THERMAL MANAGEMENT SYSTEM"
+      ],
+      "abstract": "The invention relates to a thermal management system (1, 1a, 1b, 41, 51, 61) comprising a fluid cooling circuit (2) comprising a cooling channel (3) in a thermal load (4), a cooling pump (5) arranged to circulate cooling fluid inside the fluid cooling circuit (2) and a heat exchanger (6) connected between the cooling channel (3) in the thermal load (4) and the cooling pump (5). The fluid cooling circuit (2) comprises a heat exchanger by-pass valve (7) connected to the cooling channel (3) in the thermal load (4) and to the cooling pump (5). The thermal management system (1, 1a, 1b, 41, 51, 61) comprises a ram air channel (8) comprising a ram air inlet door (9). The ram air channel (8) is arranged to provide cooling to the heat exchanger (6) by ram air cooling when the ram air inlet door (9) is open. The thermal load (4) is an electric motor (13) with at least two associated motor controllers (14) connected in parallel with the electric motor (13). The invention also relates to an electric aircraft (23) comprising a thermal management system.",
+      "publicationNumber": "IN202547011332",
+      "publicationDate": "2025-02-14",
+      "assignee": [
+        "Heart Aerospace AB"
+      ],
+      "inventors": [
+        "BASTOS CASAGRANDE CELSO VALERIO",
+        "CUIN MATHEUS",
+        "STABILE DE OLIVEIRA FABIO"
+      ],
+      "applicationDate": "2025-02-11",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 12.735815
+    },
+    {
+      "id": "BR-112025001654-A2",
+      "title": [
+        "SISTEMA DE GERENCIAMENTO T\u00c9RMICO, E, AERONAVE EL\u00c9TRICA"
+      ],
+      "abstract": "",
+      "publicationNumber": "BR112025001654",
+      "publicationDate": "2025-07-01",
+      "assignee": [
+        "Heart Aerospace AB"
+      ],
+      "inventors": [
+        "CELSO VALERIO BASTOS CASAGRANDE",
+        "MATHEUS CUIN",
+        "FABIO STABILE DE OLIVEIRA"
+      ],
+      "applicationDate": "2023-07-28",
+      "claimsCount": 12,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Audio-visual technology",
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 12.735815
+    },
+    {
+      "id": "EM-90992290002-S",
+      "title": [
+        "Aeroplanes"
+      ],
+      "abstract": "",
+      "publicationNumber": "EM90992290002",
+      "publicationDate": "2022-12-21",
+      "assignee": [
+        "Heart Aerospace AB"
+      ],
+      "inventors": [
+        "The designer has waived the right to be cited"
+      ],
+      "applicationDate": "2022-07-28",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 12.732624
+    },
+    {
+      "id": "EM-90992290001-S",
+      "title": [
+        "Aeroplanes"
+      ],
+      "abstract": "",
+      "publicationNumber": "EM90992290001",
+      "publicationDate": "2022-12-21",
+      "assignee": [
+        "Heart Aerospace AB"
+      ],
+      "inventors": [
+        "The designer has waived the right to be cited"
+      ],
+      "applicationDate": "2022-07-28",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 12.732624
+    },
+    {
+      "id": "EM-150711740003-S",
+      "title": [
+        "Aeroplanes (part of -)"
+      ],
+      "abstract": "",
+      "publicationNumber": "EM150711740003",
+      "publicationDate": "2024-11-22",
+      "assignee": [
+        "Heart Aerospace AB"
+      ],
+      "inventors": [
+        "Alain Cuenca"
+      ],
+      "applicationDate": "2024-09-02",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 12.732624
+    },
+    {
+      "id": "EM-150711740002-S",
+      "title": [
+        "Aeroplanes (part of -)"
+      ],
+      "abstract": "",
+      "publicationNumber": "EM150711740002",
+      "publicationDate": "2024-11-22",
+      "assignee": [
+        "Heart Aerospace AB"
+      ],
+      "inventors": [
+        "Alain Cuenca"
+      ],
+      "applicationDate": "2024-09-02",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 12.732624
+    },
+    {
+      "id": "EM-150711740001-S",
+      "title": [
+        "Aeroplanes (part of -)"
+      ],
+      "abstract": "",
+      "publicationNumber": "EM150711740001",
+      "publicationDate": "2024-11-19",
+      "assignee": [
+        "Heart Aerospace AB"
+      ],
+      "inventors": [
+        "Alain Cuenca"
+      ],
+      "applicationDate": "2024-09-02",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 12.732624
+    },
+    {
+      "id": "IN-202547010557-A",
+      "title": [
+        "AN ENERGY DISTRIBUTION SYSTEM"
+      ],
+      "abstract": "The present invention relates to an energy distribution system (20) for an aircraft with at least two electrical powertrain units, each comprising a propulsion unit (1) powered by energy storage units (13) each configured to supply a first direct current, DC, voltage. The energy distribution system (20) comprises at least one converter unit (25) configured to energize a DC bus (16) having a lower DC voltage than the first DC voltage provided from each respective energy storage unit (13), each converter unit (25; 35) comprises a DC/DC converter arrangement (21) configured to convert the first DC voltage from at least one energy storage units (13) to a second DC voltage on the DC bus (16), and a DC bus battery (22) with a nominal operating DC voltage of the second DC voltage. The DC bus (16) provides energy for charging the DC bus battery (22) when energized from the energy storage units (13), and the DC bus battery (22) supply energy to the DC bus (16) when the energy storage units fail to energize the DC bus (16).",
+      "publicationNumber": "IN202547010557",
+      "publicationDate": "2025-02-14",
+      "assignee": [
+        "Heart Aerospace AB"
+      ],
+      "inventors": [
+        "AGUILERA MEDINA LUIS ANTONIO",
+        "BASSEM FARAG",
+        "DE OLIVEIRA SPIGOLON FABR\u00cdCIO"
+      ],
+      "applicationDate": "2025-02-07",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 12.694544
+    },
+    {
+      "id": "CA-3262652-A1",
+      "title": [
+        "AN ENERGY DISTRIBUTION SYSTEM"
+      ],
+      "abstract": "",
+      "publicationNumber": "CA3262652",
+      "publicationDate": "2024-02-01",
+      "assignee": [
+        "Heart Aerospace AB"
+      ],
+      "inventors": [
+        "Luis Antonio Aguilera Medina",
+        "Farag BASSEM",
+        "Fabricio DE OLIVEIRA SPIGOLON"
+      ],
+      "applicationDate": "2023-07-28",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 12.694544
+    },
+    {
+      "id": "BR-112025001566-A2",
+      "title": [
+        "SISTEMA DE DISTRIBUI\u00c7\u00c3O DE ENERGIA, AERONAVE EL\u00c9TRICA, E, M\u00c9TODO PARA CONTROLAR UM SISTEMA DE DISTRIBUI\u00c7\u00c3O DE ENERGIA"
+      ],
+      "abstract": "",
+      "publicationNumber": "BR112025001566",
+      "publicationDate": "2025-07-01",
+      "assignee": [
+        "Heart Aerospace AB"
+      ],
+      "inventors": [
+        "Luis Antonio AGUILERA MEDINA",
+        "FARAG BASSEM",
+        "Fabr\u00edcio DE OLIVEIRA SPIGOLON"
+      ],
+      "applicationDate": "2023-07-28",
+      "claimsCount": 14,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 12.694544
+    },
+    {
+      "id": "EM-150711300003-S",
+      "title": [
+        "Aeroplanes (part of -)"
+      ],
+      "abstract": "",
+      "publicationNumber": "EM150711300003",
+      "publicationDate": "2024-11-19",
+      "assignee": [
+        "Heart Aerospace AB"
+      ],
+      "inventors": [
+        "Alain Cuenca"
+      ],
+      "applicationDate": "2024-09-02",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 12.626783
+    },
+    {
+      "id": "EM-150711300002-S",
+      "title": [
+        "Aeroplanes (part of -)"
+      ],
+      "abstract": "",
+      "publicationNumber": "EM150711300002",
+      "publicationDate": "2024-11-19",
+      "assignee": [
+        "Heart Aerospace AB"
+      ],
+      "inventors": [
+        "Alain Cuenca"
+      ],
+      "applicationDate": "2024-09-02",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 12.626783
+    },
+    {
+      "id": "EM-150711300001-S",
+      "title": [
+        "Aeroplanes (part of -)"
+      ],
+      "abstract": "",
+      "publicationNumber": "EM150711300001",
+      "publicationDate": "2024-11-19",
+      "assignee": [
+        "Heart Aerospace AB"
+      ],
+      "inventors": [
+        "Alain Cuenca"
+      ],
+      "applicationDate": "2024-09-02",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 12.626783
+    },
+    {
+      "id": "IN-D449561001-S",
+      "title": [
+        "AEROPLANE (-PART OF)"
+      ],
+      "abstract": "",
+      "publicationNumber": "IND449561001",
+      "publicationDate": "2025-07-11",
+      "assignee": [
+        "HEART AEROSPACE AB FREDSFLOTTILJENS V\u00c4G 19"
+      ],
+      "inventors": [],
+      "applicationDate": "2025-02-26",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 12.332105
+    },
+    {
+      "id": "JP-2025525252-A",
+      "title": [
+        "\u30a8\u30cd\u30eb\u30ae\u30fc\u5206\u914d\u30b7\u30b9\u30c6\u30e0"
+      ],
+      "abstract": "\u672c\u767a\u660e\u306f\u3001\u5c11\u306a\u304f\u3068\u3082\u4e8c\u3064\u306e\u96fb\u6c17\u30d1\u30ef\u30fc\u30c8\u30ec\u30a4\u30f3\u30e6\u30cb\u30c3\u30c8\u3092\u5099\u3048\u305f\u822a\u7a7a\u6a5f\u7528\u306e\u30a8\u30cd\u30eb\u30ae\u30fc\u5206\u914d\u30b7\u30b9\u30c6\u30e0\uff08\uff12\uff10\uff09\u306b\u95a2\u3057\u3001\u5404\u30e6\u30cb\u30c3\u30c8\u306f\u3001\u8907\u6570\u306e\u30a8\u30cd\u30eb\u30ae\u30fc\u8caf\u8535\u30e6\u30cb\u30c3\u30c8\uff08\uff11\uff13\uff09\u306b\u3088\u3063\u3066\u96fb\u529b\u304c\u4f9b\u7d66\u3055\u308c\u308b\u63a8\u9032\u30e6\u30cb\u30c3\u30c8\uff08\uff11\uff09\u3092\u5099\u3048\u3001\u7b2c\u4e00\u76f4\u6d41\uff08\uff24\uff23\uff09\u96fb\u5727\u3092\u4f9b\u7d66\u3059\u308b\u3088\u3046\u306b\u69cb\u6210\u3055\u308c\u308b\u3002\u524d\u8a18\u30a8\u30cd\u30eb\u30ae\u30fc\u5206\u914d\u30b7\u30b9\u30c6\u30e0\uff08\uff12\uff10\uff09\u306f\u3001\u5404\u30a8\u30cd\u30eb\u30ae\u30fc\u8caf\u8535\u30e6\u30cb\u30c3\u30c8\uff08\uff11\uff13\uff09\u304b\u3089\u63d0\u4f9b\u3055\u308c\u308b\u524d\u8a18\u7b2c\u4e00\uff24\uff23\u96fb\u5727\u3088\u308a\u3082\u4f4e\u3044\uff24\uff23\u96fb\u5727\u3092\u6709\u3059\u308b\uff24\uff23\u30d0\u30b9\uff08\uff11\uff16\uff09\u306b\u901a\u96fb\u3059\u308b\u3088\u3046\u306b\u69cb\u6210\u3055\u308c\u305f\u5c11\u306a\u304f\u3068\u3082\u4e00\u3064\u306e\u30b3\u30f3\u30d0\u30fc\u30bf\u30e6\u30cb\u30c3\u30c8\uff08\uff12\uff15\uff09\u3092\u5099\u3048\u3001\u5404\u30b3\u30f3\u30d0\u30fc\u30bf\u30e6\u30cb\u30c3\u30c8\uff08\uff12\uff15\uff1b\uff13\uff15\uff09\u306f\u3001\u524d\u8a18\u5c11\u306a\u304f\u3068\u3082\u4e00\u3064\u306e\u30a8\u30cd\u30eb\u30ae\u30fc\u8caf\u8535\u30e6\u30cb\u30c3\u30c8\uff08\uff11\uff13\uff09\u304b\u3089\u306e\u524d\u8a18\u7b2c\u4e00\uff24\uff23\u96fb\u5727\u3092\uff24\uff23\u30d0\u30b9\uff08\uff11\uff16\uff09\u306b\u304a\u3044\u3066\u7b2c\u4e8c\uff24\uff23\u96fb\u5727\u306b\u5909\u63db\u3059\u308b\u3088\u3046\u306b\u69cb\u6210\u3055\u308c\u308b\uff24\uff23\uff0f\uff24\uff23\u30b3\u30f3\u30d0\u30fc\u30bf\u69cb\u6210\uff08\uff12\uff11\uff09\u3068\u3001\u524d\u8a18\u7b2c\u4e8c\uff24\uff23\u96fb\u5727\u306e\u901a\u5e38\u52d5\u4f5c\uff24\uff23\u96fb\u5727\u3092\u6709\u3059\u308b\uff24\uff23\u30d0\u30b9\u30d0\u30c3\u30c6\u30ea\u30fc\uff08\uff12\uff12\uff09\u3068\u3001\u3092\u5099\u3048\u308b\u3002\u524d\u8a18\uff24\uff23\u30d0\u30b9\uff08\uff11\uff16\uff09\u304c\u524d\u8a18\u30a8\u30cd\u30eb\u30ae\u30fc\u8caf\u8535\u30e6\u30cb\u30c3\u30c8\uff08\uff11\uff13\uff09\u304b\u3089\u901a\u96fb\u3055\u308c\u308b\u5834\u5408\u3001\u524d\u8a18\uff24\uff23\u30d0\u30b9\uff08\uff11\uff16\uff09\u306f\u524d\u8a18\uff24\uff23\u30d0\u30b9\u30d0\u30c3\u30c6\u30ea\u30fc\uff08\uff12\uff12\uff09\u3092\u5145\u96fb\u3059\u308b\u305f\u3081\u306e\u30a8\u30cd\u30eb\u30ae\u30fc\u3092\u4f9b\u7d66\u3057\u3001\u524d\u8a18\u30a8\u30cd\u30eb\u30ae\u30fc\u8caf\u8535\u30e6\u30cb\u30c3\u30c8\u304c\u524d\u8a18\uff24\uff23\u30d0\u30b9\uff08\uff11\uff16\uff09\u306b\u901a\u96fb\u3067\u304d\u306a\u3044\u5834\u5408\u3001\u524d\u8a18\uff24\uff23\u30d0\u30b9\u30d0\u30c3\u30c6\u30ea\u30fc\uff08\uff12\uff12\uff09\u306f\u524d\u8a18\uff24\uff23\u30d0\u30b9\uff08\uff11\uff16\uff09\u306b\u30a8\u30cd\u30eb\u30ae\u30fc\u3092\u4f9b\u7d66\u3059\u308b \u3010\u9078\u629e\u56f3\u3011\u56f3\uff13",
+      "publicationNumber": "JP2025525252",
+      "publicationDate": "2025-08-01",
+      "assignee": [
+        "Heart Aerospace AB"
+      ],
+      "inventors": [
+        "\u30a2\u30b4\u30ec\u30e9 \u30e1\u30c7\u30a3\u30ca \u30eb\u30a4\u30b9 \u30a2\u30f3\u30c8\u30cb\u30aa",
+        "\u30d0\u30c3\u30bb\u30e0 \u30d5\u30a1\u30e9\u30b0",
+        "\u30c7 \u30aa\u30ea\u30f4\u30a7\u30a4\u30e9 \u30b9\u30d4\u30b4\u30ed\u30f3 \u30d5\u30a1\u30d6\u30ea\u30b7\u30aa"
+      ],
+      "applicationDate": "2023-07-28",
+      "claimsCount": 15,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 12.295394
+    },
+    {
+      "id": "KR-20250071229-A",
+      "title": [
+        "\uc5d0\ub108\uc9c0 \ubd84\ubc30 \uc2dc\uc2a4\ud15c"
+      ],
+      "abstract": "\ubcf8 \ubc1c\uba85\uc740 \uac01\uac01 \uc81c1 \uc9c1\ub958(DC) \uc804\uc555\uc744 \uacf5\uae09\ud558\ub3c4\ub85d \uad6c\uc131\ub41c \uc5d0\ub108\uc9c0 \uc800\uc7a5 \uc7a5\uce58(13)\uc5d0 \uc758\ud574 \uad6c\ub3d9\ub418\ub294 \ucd94\uc9c4 \uc7a5\uce58(1)\ub97c \uac01\uac01 \ud3ec\ud568\ud558\ub294, \uc801\uc5b4\ub3c4 \ub450 \uac1c\uc758 \uc804\uae30 \ud30c\uc6cc\ud2b8\ub808\uc778 \uc7a5\uce58\ub97c \uad6c\ube44\ud55c \ud56d\uacf5\uae30\uc6a9 \uc5d0\ub108\uc9c0 \ubd84\ubc30 \uc2dc\uc2a4\ud15c(20)\uc5d0 \uad00\ud55c \uac83\uc774\ub2e4. \uc5d0\ub108\uc9c0 \ubd84\ubc30 \uc2dc\uc2a4\ud15c(20)\uc740 \uac01 \uc5d0\ub108\uc9c0 \uc800\uc7a5 \uc7a5\uce58(13)\uc5d0\uc11c \uacf5\uae09\ub418\ub294 \uc81c1 DC \uc804\uc555\ubcf4\ub2e4 \ub0ae\uc740 DC \uc804\uc555\uc744 \uac16\ub294 DC \ubc84\uc2a4(16)\uc5d0 \uc804\ub825\uc744 \uacf5\uae09\ud558\ub3c4\ub85d \uad6c\uc131\ub41c \uc801\uc5b4\ub3c4 \ud558\ub098\uc758 \ucee8\ubc84\ud130 \uc7a5\uce58(25)\ub97c \ud3ec\ud568\ud558\uba70, \uac01 \ucee8\ubc84\ud130 \uc7a5\uce58(25; 35)\ub294 \uc801\uc5b4\ub3c4 \ud558\ub098\uc758 \uc5d0\ub108\uc9c0 \uc800\uc7a5 \uc7a5\uce58(13)\uc5d0\uc11c \uc81c1 DC \uc804\uc555\uc744 DC \ubc84\uc2a4(16) \uc0c1\uc758 \uc81c2 DC \uc804\uc555\uc73c\ub85c \ubcc0\ud658\ud558\ub3c4\ub85d \uad6c\uc131\ub41c DC/DC \ucee8\ubc84\ud130 \uc7a5\uce58; \ubc0f \uc81c2 DC \uc804\uc555\uc758 \uacf5\uce6d \uc791\ub3d9 DC \uc804\uc555\uc744 \uac16\ub294 DC \ubc84\uc2a4 \ubc30\ud130\ub9ac(22)\ub97c \ud3ec\ud568\ud55c\ub2e4. DC \ubc84\uc2a4(16)\ub294 \uc801\uc5b4\ub3c4 \ud558\ub098\uc758 \uc5d0\ub108\uc9c0 \uc800\uc7a5 \uc7a5\uce58(13)\ub85c\ubd80\ud130 \uc804\uc6d0\uc774 \uacf5\uae09\ub420 \ub54c DC \ubc84\uc2a4 \ubc30\ud130\ub9ac(22)\ub97c \ucda9\uc804\ud558\uae30 \uc704\ud55c \uc5d0\ub108\uc9c0\ub97c \uacf5\uae09\ud558\uace0, DC \ubc84\uc2a4 \ubc30\ud130\ub9ac(22)\ub294 \uc5d0\ub108\uc9c0 \uc800\uc7a5 \uc7a5\uce58\uac00 DC \ubc84\uc2a4(16)\uc5d0 \uc804\uc6d0\uc744 \uacf5\uae09\ud558\uc9c0 \ubabb\ud560 \ub54c DC \ubc84\uc2a4(16)\uc5d0 \uc5d0\ub108\uc9c0\ub97c \uacf5\uae09\ud55c\ub2e4.",
+      "publicationNumber": "KR20250071229",
+      "publicationDate": "2025-05-21",
+      "assignee": [
+        "Heart Aerospace AB"
+      ],
+      "inventors": [
+        "AGUILERA MEDINA LUIS ANTONIO",
+        "BASSEM FARAG",
+        "DE OLIVEIRA SPIGOLON FABRICIO"
+      ],
+      "applicationDate": "2023-07-28",
+      "claimsCount": 15,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 11.039028
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "query": "PA=(Reactive Technologies) AND PD>2015",
+  "query_type": "ai_search",
+  "timestamp": "2026-01-14T12:14:52.077606",
+  "user_prompt": "PA=(Reactive Technologies) AND PD>2015"
+}

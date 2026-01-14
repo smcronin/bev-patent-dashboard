@@ -1,0 +1,2257 @@
+{
+  "count": 93,
+  "numFound": 93,
+  "docs": [
+    {
+      "id": "FR-3023830-B1",
+      "title": [
+        "PROCEDE DE CONDITIONNEMENT D&apos;UN PRODUIT ALIMENTAIRE"
+      ],
+      "abstract": "",
+      "publicationNumber": "FR3023830",
+      "publicationDate": "2016-08-26",
+      "assignee": [
+        "SAVOR CREATIONS"
+      ],
+      "inventors": [
+        "LEON ALAIN"
+      ],
+      "applicationDate": "2014-07-21",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Food chemistry",
+        "Handling"
+      ],
+      "score": 12.891162
+    },
+    {
+      "id": "FR-3023830-A1",
+      "title": [
+        "PROCEDE DE CONDITIONNEMENT D&apos;UN PRODUIT ALIMENTAIRE"
+      ],
+      "abstract": "La pr\u00e9sente invention concerne un proc\u00e9d\u00e9 de conditionnement d&apos;un produit alimentaire dans un contenant de sorte qu&apos;une couche d&apos;au moins un ingr\u00e9dient est d\u00e9pos\u00e9e sur les parois dudit contenant et reste fig\u00e9e entre lesdites parois dudit contenant et ledit produit alimentaire ins\u00e9r\u00e9 \u00e0 l&apos;int\u00e9rieur dudit contenant.",
+      "publicationNumber": "FR3023830",
+      "publicationDate": "2016-01-22",
+      "assignee": [
+        "SAVOR CREATIONS"
+      ],
+      "inventors": [
+        "LEON ALAIN"
+      ],
+      "applicationDate": "2014-07-21",
+      "claimsCount": 10,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Food chemistry",
+        "Handling"
+      ],
+      "score": 12.891162
+    },
+    {
+      "id": "WO-2025049597-A1",
+      "title": [
+        "LIQUID OR SEMI-SOLID FAT FORMULATIONS"
+      ],
+      "abstract": "A fat formulation can include triglycerides that include saturated fatty acids with carbon chain lengths between 4 and 24 carbon atoms long, wherein the fat formulation is a liquid or semi-solid at a temperature between 18-25\u00baC. A fat formulation can additionally or alternatively include triglycerides comprising glycerol esterified with: odd carbon chain length, linear saturated fatty acids; even carbon chain length, linear saturated fatty acids; and unsaturated fatty acids. A method can include: optionally, receiving an unsaturated fatty acid; oxidizing hydrocarbons or oxygenates to form saturated fatty acids; selecting a distribution of saturated fatty acids from the formed saturated fatty acids; and esterifying glycerol with the unsaturated fatty acid and the distribution of saturated fatty acids to form a fat composition.",
+      "publicationNumber": "WO2025049597",
+      "publicationDate": "2025-03-06",
+      "assignee": [
+        "Savor Foods Limited"
+      ],
+      "inventors": [
+        "Aleesha SLATTENGREN",
+        "Nikifar LAZOUSKI",
+        "KATHLEEN ALEXANDER"
+      ],
+      "applicationDate": "2024-08-28",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Food chemistry"
+      ],
+      "score": 12.733944
+    },
+    {
+      "id": "US-20250072443-A1",
+      "title": [
+        "LIQUID OR SEMI-SOLID FAT FORMULATIONS"
+      ],
+      "abstract": "A fat formulation can include triglycerides that include saturated fatty acids with carbon chain lengths between 4 and 24 carbon atoms long, wherein the fat formulation is a liquid or semi-solid at a temperature between 18-25\u00b0 C. A fat formulation can additionally or alternatively include triglycerides comprising glycerol esterified with: odd carbon chain length, linear saturated fatty acids; even carbon chain length, linear saturated fatty acids; and unsaturated fatty acids. A method can include: optionally, receiving an unsaturated fatty acid; oxidizing hydrocarbons or oxygenates to form saturated fatty acids; selecting a distribution of saturated fatty acids from the formed saturated fatty acids; and esterifying glycerol with the unsaturated fatty acid and the distribution of saturated fatty acids to form a fat composition.",
+      "publicationNumber": "US20250072443",
+      "publicationDate": "2025-03-06",
+      "assignee": [
+        "Savor Foods Limited"
+      ],
+      "inventors": [
+        "Aleesha Slattengren",
+        "Nikifar Lazouski",
+        "Kathleen Alexander"
+      ],
+      "applicationDate": "2024-08-28",
+      "claimsCount": 21,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Food chemistry"
+      ],
+      "score": 12.733944
+    },
+    {
+      "id": "WO-2022212778-A1",
+      "title": [
+        "SYSTEMS AND METHODS FOR AUGMENTED AND VIRTUAL RETAIL EXPERIENCES"
+      ],
+      "abstract": "A system comprising: at least one hardware processor; and one or more software modules that are configured to, when executed by the at least one hardware processor, receive a virtual rendering option; receive an image scan of a target area, generate a retail overlay comprising at least one virtual shelf with at least one product on a display; and once the overlay is fully rendered with the at least one product, receive a user interaction; and provide content in response to the received interaction.",
+      "publicationNumber": "WO2022212778",
+      "publicationDate": "2022-10-06",
+      "assignee": [
+        "Savor Brands Inc."
+      ],
+      "inventors": [
+        "Mio L.K. LAU",
+        "Patrick C.W. LAU",
+        "Josu\u00e9 M. GONZALEZ",
+        "Jayaraj MUTHUKUMARASAMY"
+      ],
+      "applicationDate": "2022-03-31",
+      "claimsCount": 4,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Computer technology",
+        "IT methods for management"
+      ],
+      "score": 12.645445
+    },
+    {
+      "id": "US-20220318893-A1",
+      "title": [
+        "SYSTEMS AND METHODS FOR AUGMENTED AND VIRTUAL RETAIL EXPERIENCES"
+      ],
+      "abstract": "A system comprising: at least one hardware processor; and one or more software modules that are configured to, when executed by the at least one hardware processor, receive a virtual rendering option; receive an image scan of a target area, generate a retail overlay comprising at least one virtual shelf with at least one product on a display; and once the overlay is fully rendered with the at least one product, receive a user interaction; and provide content in response to the received interaction.",
+      "publicationNumber": "US20220318893",
+      "publicationDate": "2022-10-06",
+      "assignee": [
+        "Savor Brands Inc."
+      ],
+      "inventors": [
+        "Mio L.K. LAU",
+        "Patrick C.W. LAU",
+        "Josu\u00e9 M. GONZALEZ",
+        "Jayaraj MUTHUKUMARASAMY"
+      ],
+      "applicationDate": "2022-03-31",
+      "claimsCount": 4,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "IT methods for management"
+      ],
+      "score": 12.645445
+    },
+    {
+      "id": "GB-2620091-A",
+      "title": [
+        "Systems and methods for augmented and virtual retail experiences"
+      ],
+      "abstract": "A system comprising: at least one hardware processor; and one or more software modules that are configured to, when executed by the at least one hardware processor, receive a virtual rendering option; receive an image scan of a target area, generate a retail overlay comprising at least one virtual shelf with at least one product on a display; and once the overlay is fully rendered with the at least one product, receive a user interaction; and provide content in response to the received interaction.",
+      "publicationNumber": "GB2620091",
+      "publicationDate": "2023-12-27",
+      "assignee": [
+        "Savor Brands Inc."
+      ],
+      "inventors": [
+        "Mio L.K. Lau",
+        "Patrick C.W. Lau",
+        "JOSU\u00c9 M GONZALEZ",
+        "JAYARAJ MUTHUKUMARASAMY"
+      ],
+      "applicationDate": "2022-03-31",
+      "claimsCount": 4,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Computer technology",
+        "IT methods for management"
+      ],
+      "score": 12.645445
+    },
+    {
+      "id": "GB-202316237-D0",
+      "title": [
+        "Systems and methods for augmented and virtual retail experiences"
+      ],
+      "abstract": "",
+      "publicationNumber": "GB202316237",
+      "publicationDate": "2023-12-06",
+      "assignee": [
+        "Savor Brands Inc."
+      ],
+      "inventors": [],
+      "applicationDate": "2022-03-31",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 12.645445
+    },
+    {
+      "id": "WO-2025123041-A1",
+      "title": [
+        "FAT COMPOSITION AND RELATIONSHIP WITH FREE FATTY ACID DISTRIBUTION"
+      ],
+      "abstract": "A fat formulation can include a first set of glycerides that can include glycerides with fatty acids selected from a first distribution of linear saturated fatty acids and a second set of glycerides with fatty acids selected from a second distribution of linear saturated fatty acids, where the first and second distribution of linear saturated fatty acids are each subsets from a shared initial distribution of fatty acids.",
+      "publicationNumber": "WO2025123041",
+      "publicationDate": "2025-06-12",
+      "assignee": [
+        "Savor Foods Limited"
+      ],
+      "inventors": [
+        "Sydney SCHREPPLER",
+        "Aleesha SLATTENGREN",
+        "Ailin ZHANG",
+        "KATHLEEN ALEXANDER",
+        "Nikifar LAZOUSKI"
+      ],
+      "applicationDate": "2024-12-09",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Food chemistry"
+      ],
+      "score": 12.426121
+    },
+    {
+      "id": "US-20250376433-A1",
+      "title": [
+        "SYSTEM AND METHOD FOR PRODUCTION OF SYNTHETIC FATTY ACIDS"
+      ],
+      "abstract": "A method for producing a fatty acid can include: receiving a hydrocarbon sample derived from methane or other suitable carbon feedstock, oxidizing the hydrocarbon sample to form oxygenated hydrocarbons, optionally separating different oxygenated species from the oxygenated hydrocarbons, optionally fractioning the oxygenated hydrocarbons, and optionally esterifying the oxygenated hydrocarbons such as to form triglycerides.",
+      "publicationNumber": "US20250376433",
+      "publicationDate": "2025-12-11",
+      "assignee": [
+        "Savor Foods Limited"
+      ],
+      "inventors": [
+        "Kathleen Alexander",
+        "Ian McKay"
+      ],
+      "applicationDate": "2025-08-25",
+      "claimsCount": 15,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Chemical engineering",
+        "Materials, metallurgy",
+        "Organic fine chemistry",
+        "Surface technology, coating"
+      ],
+      "score": 12.426121
+    },
+    {
+      "id": "US-20250188384-A1",
+      "title": [
+        "FAT COMPOSITION AND RELATIONSHIP WITH FREE FATTY ACID DISTRIBUTION"
+      ],
+      "abstract": "A fat formulation can include a first set of glycerides that can include glycerides with fatty acids selected from a first distribution of linear saturated fatty acids and a second set of glycerides with fatty acids selected from a second distribution of linear saturated fatty acids, where the first and second distribution of linear saturated fatty acids are each subsets from a shared initial distribution of fatty acids.",
+      "publicationNumber": "US20250188384",
+      "publicationDate": "2025-06-12",
+      "assignee": [
+        "Savor Foods Limited"
+      ],
+      "inventors": [
+        "Sydney Schreppler",
+        "Aleesha Slattengren",
+        "Ailin ZHANG",
+        "Kathleen Alexander",
+        "Nikifar Lazouski"
+      ],
+      "applicationDate": "2024-12-09",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Food chemistry"
+      ],
+      "score": 12.426121
+    },
+    {
+      "id": "US-20200115122-A1",
+      "title": [
+        "DEVICE AND SYSTEM FOR ADDITIVE DISPENSING"
+      ],
+      "abstract": "This disclosure includes techniques, apparatuses, and implementations for providing a beverage additive and mixing device compatible with standard pre-packaged beverage containers, such as cans, plastic bottles, or glass bottles. For example, in one implementation, the beverage additive and mixing device may be configured to releasably couple with an open beverage container. Once coupled the beverage additive and mixing device may be used to dispense pre-configured amounts of additives, such as a flavor, national supplements, or sweeteners, into the open beverage container.",
+      "publicationNumber": "US20200115122",
+      "publicationDate": "2020-04-16",
+      "assignee": [
+        "Flavor Savor, Inc."
+      ],
+      "inventors": [
+        "Ryan Golden",
+        "Roy Paul Prosise",
+        "Benjamin Derek Litteral",
+        "Daniel F. Caputo"
+      ],
+      "applicationDate": "2018-10-10",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Handling"
+      ],
+      "score": 12.426121
+    },
+    {
+      "id": "US-12415772-B1",
+      "title": [
+        "System and method for production of synthetic fatty acids"
+      ],
+      "abstract": "A method for producing a fatty acid can include: receiving a hydrocarbon sample derived from at least one of carbon dioxide, methane, coal, biomass, or other suitable carbon feedstock, oxidizing the hydrocarbon sample to form oxygenated hydrocarbons, optionally separating different oxygenated species from the oxygenated hydrocarbons, optionally fractioning the oxygenated hydrocarbons, and optionally esterifying the oxygenated hydrocarbons such as to form triglycerides.",
+      "publicationNumber": "US12415772",
+      "publicationDate": "2025-09-16",
+      "assignee": [
+        "Savor Foods Limited"
+      ],
+      "inventors": [
+        "Kathleen Alexander",
+        "Ian McKay"
+      ],
+      "applicationDate": "2022-05-26",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Chemical engineering",
+        "Materials, metallurgy",
+        "Organic fine chemistry",
+        "Surface technology, coating"
+      ],
+      "score": 12.426121
+    },
+    {
+      "id": "WO-2026010994-A1",
+      "title": [
+        "SYSTEM AND METHOD FOR FATTY ACID PURIFICATION AND/OR LIPID MANUFACTURE"
+      ],
+      "abstract": "A method can include oxidizing hydrocarbons (and optionally oxygenates with oxygenation states less than carboxylic acids such as alcohols, aldehydes, etc.), separating the oxygenated hydrocarbons into saponifiable species and nonsaponifiable species, and treating the saponifiable species (e.g., heat treating, hydrogenation, etc. such as to reduce unsaturated bonds to saturated bonds, to convert oxygenates with greater degrees of oxygenation than monocarboxylic acids into monocarboxylic acids, etc.).",
+      "publicationNumber": "WO2026010994",
+      "publicationDate": "2026-01-08",
+      "assignee": [
+        "Savor Foods Limited"
+      ],
+      "inventors": [
+        "Trevor SEIDEL",
+        "EVAN ROBERTS",
+        "Nikifar LAZOUSKI"
+      ],
+      "applicationDate": "2025-07-01",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Macromolecular chemistry, polymers",
+        "Organic fine chemistry"
+      ],
+      "score": 12.370811
+    },
+    {
+      "id": "US-20260002091-A1",
+      "title": [
+        "SYSTEM AND METHOD FOR FATTY ACID PURIFICATION AND/OR LIPID MANUFACTURE"
+      ],
+      "abstract": "A method can include oxidizing hydrocarbons (and optionally oxygenates with oxygenation states less than carboxylic acids such as alcohols, aldehydes, etc.), separating the oxygenated hydrocarbons into saponifiable species and nonsaponifiable species, and treating the saponifiable species (e.g., heat treating, hydrogenation, etc. such as to reduce unsaturated bonds to saturated bonds, to convert oxygenates with greater degrees of oxygenation than monocarboxylic acids into monocarboxylic acids, etc.).",
+      "publicationNumber": "US20260002091",
+      "publicationDate": "2026-01-01",
+      "assignee": [
+        "Savor Foods Limited"
+      ],
+      "inventors": [
+        "Trevor Seidel",
+        "Evan Roberts",
+        "Nikifar Lazouski"
+      ],
+      "applicationDate": "2025-07-01",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Basic materials chemistry"
+      ],
+      "score": 12.370811
+    },
+    {
+      "id": "WO-2024163606-A4",
+      "title": [
+        "MILKFAT OR BUTTERFAT FORMULATIONS"
+      ],
+      "abstract": "A fat formulation can include triacylglycerides that can be made of glycerol esterified with straight-chain saturated fatty acids, where a solid fat content as a function of temperature of the triacylglycerides differs from a solid fat content of butterfat by at most 0.1 at any temperature between 0\u00baC and 40\u00baC. A fat formulation can include triglycerides that include straight-chain, saturated fatty acids selected from a distribution of fatty acids with between 4 and 24 carbon atoms, where the distribution comprises a non-monotonic change in relative fatty acid content between the fatty acids with between 4 and 24 carbon atoms.",
+      "publicationNumber": "WO2024163606",
+      "publicationDate": "2024-11-14",
+      "assignee": [
+        "Savor Foods Limited"
+      ],
+      "inventors": [
+        "Aleesha SLATTENGREN",
+        "KATHLEEN ALEXANDER",
+        "Nikifar LAZOUSKI",
+        "Ailin ZHANG"
+      ],
+      "applicationDate": "2024-01-31",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Food chemistry"
+      ],
+      "score": 12.106239
+    },
+    {
+      "id": "WO-2024163606-A3",
+      "title": [
+        "MILKFAT OR BUTTERFAT FORMULATIONS"
+      ],
+      "abstract": "A fat formulation can include triacylglycerides that can be made of glycerol esterified with straight-chain saturated fatty acids, where a solid fat content as a function of temperature of the triacylglycerides differs from a solid fat content of butterfat by at most 0.1 at any temperature between 0\u00baC and 40\u00baC. A fat formulation can include triglycerides that include straight-chain, saturated fatty acids selected from a distribution of fatty acids with between 4 and 24 carbon atoms, where the distribution comprises a non-monotonic change in relative fatty acid content between the fatty acids with between 4 and 24 carbon atoms.",
+      "publicationNumber": "WO2024163606",
+      "publicationDate": "2024-09-26",
+      "assignee": [
+        "Savor Foods Limited"
+      ],
+      "inventors": [
+        "Aleesha SLATTENGREN",
+        "KATHLEEN ALEXANDER",
+        "Nikifar LAZOUSKI",
+        "Ailin ZHANG"
+      ],
+      "applicationDate": "2024-01-31",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Food chemistry"
+      ],
+      "score": 12.106239
+    },
+    {
+      "id": "WO-2024163606-A2",
+      "title": [
+        "MILKFAT OR BUTTERFAT FORMULATIONS"
+      ],
+      "abstract": "A fat formulation can include triacylglycerides that can be made of glycerol esterified with straight-chain saturated fatty acids, where a solid fat content as a function of temperature of the triacylglycerides differs from a solid fat content of butterfat by at most 0.1 at any temperature between 0\u00baC and 40\u00baC. A fat formulation can include triglycerides that include straight-chain, saturated fatty acids selected from a distribution of fatty acids with between 4 and 24 carbon atoms, where the distribution comprises a non-monotonic change in relative fatty acid content between the fatty acids with between 4 and 24 carbon atoms.",
+      "publicationNumber": "WO2024163606",
+      "publicationDate": "2024-08-08",
+      "assignee": [
+        "Savor Foods Limited"
+      ],
+      "inventors": [
+        "Aleesha SLATTENGREN",
+        "KATHLEEN ALEXANDER",
+        "Nikifar LAZOUSKI",
+        "Ailin ZHANG"
+      ],
+      "applicationDate": "2024-01-31",
+      "claimsCount": 20,
+      "independentClaimsCount": 7,
+      "technologyFields": [
+        "Food chemistry"
+      ],
+      "score": 12.106239
+    },
+    {
+      "id": "US-20240260599-A1",
+      "title": [
+        "MILKFAT OR BUTTERFAT FORMULATIONS"
+      ],
+      "abstract": "A fat formulation can include triacylglycerides that can be made of glycerol esterified with straight-chain saturated fatty acids, where a solid fat content as a function of temperature of the triacylglycerides differs from a solid fat content of butterfat by at most 0.1 at any temperature between 0\u00b0 C. and 40\u00b0 C. A fat formulation can include triglycerides that include straight-chain, saturated fatty acids selected from a distribution of fatty acids with between 4 and 24 carbon atoms, where the distribution comprises a non-monotonic change in relative fatty acid content between the fatty acids with between 4 and 24 carbon atoms.",
+      "publicationNumber": "US20240260599",
+      "publicationDate": "2024-08-08",
+      "assignee": [
+        "Savor Foods Limited"
+      ],
+      "inventors": [
+        "Aleesha Slattengren",
+        "Kathleen Alexander",
+        "Nikifar Lazouski",
+        "Ailin ZHANG"
+      ],
+      "applicationDate": "2024-01-31",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Food chemistry"
+      ],
+      "score": 12.106239
+    },
+    {
+      "id": "IN-202517071972-A",
+      "title": [
+        "MILKFAT OR BUTTERFAT FORMULATIONS"
+      ],
+      "abstract": "A fat formulation can include triacylglycerides that can be made of glycerol esterified with straight-chain saturated fatty acids, where a solid fat content as a function of temperature of the triacylglycerides differs from a solid fat content of butterfat by at most 0.1 at any temperature between 0\u00baC and 40\u00baC. A fat formulation can include triglycerides that include straight-chain, saturated fatty acids selected from a distribution of fatty acids with between 4 and 24 carbon atoms, where the distribution comprises a non-monotonic change in relative fatty acid content between the fatty acids with between 4 and 24 carbon atoms.",
+      "publicationNumber": "IN202517071972",
+      "publicationDate": "2025-08-15",
+      "assignee": [
+        "Savor Foods Limited"
+      ],
+      "inventors": [
+        "SLATTENGREN ALEESHA",
+        "ALEXANDER KATHLEEN",
+        "ZHANG AILIN"
+      ],
+      "applicationDate": "2025-07-29",
+      "claimsCount": 20,
+      "independentClaimsCount": 8,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Food chemistry"
+      ],
+      "score": 12.106239
+    },
+    {
+      "id": "EP-4658082-A2",
+      "title": [
+        "MILKFAT OR BUTTERFAT FORMULATIONS"
+      ],
+      "abstract": "A fat formulation can include triacylglycerides that can be made of glycerol esterified with straight-chain saturated fatty acids, where a solid fat content as a function of temperature of the triacylglycerides differs from a solid fat content of butterfat by at most 0.1 at any temperature between 0\u00baC and 40\u00baC. A fat formulation can include triglycerides that include straight-chain, saturated fatty acids selected from a distribution of fatty acids with between 4 and 24 carbon atoms, where the distribution comprises a non-monotonic change in relative fatty acid content between the fatty acids with between 4 and 24 carbon atoms.",
+      "publicationNumber": "EP4658082",
+      "publicationDate": "2025-12-10",
+      "assignee": [
+        "Savor Foods Limited"
+      ],
+      "inventors": [
+        "Aleesha SLATTENGREN",
+        "KATHLEEN ALEXANDER",
+        "Nikifar LAZOUSKI",
+        "Ailin ZHANG"
+      ],
+      "applicationDate": "2024-01-31",
+      "claimsCount": 20,
+      "independentClaimsCount": 7,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Food chemistry"
+      ],
+      "score": 12.106239
+    },
+    {
+      "id": "US-D782573-S1",
+      "title": [
+        "Storage unit"
+      ],
+      "abstract": "",
+      "publicationNumber": "USD782573",
+      "publicationDate": "2017-03-28",
+      "assignee": [
+        "Savor Goods, LLC"
+      ],
+      "inventors": [
+        "Karla the Losen",
+        "Jennifer Nevins"
+      ],
+      "applicationDate": "2015-06-23",
+      "claimsCount": 1,
+      "independentClaimsCount": 1,
+      "technologyFields": [],
+      "score": 11.9266815
+    },
+    {
+      "id": "WO-2023244719-A4",
+      "title": [
+        "FAT FORMULATIONS"
+      ],
+      "abstract": "A fat composition can include a majority of triglycerides consisting of glycerol esterified with saturated fatty acids. The fat composition may be a gapped formulation. The saturated fatty acids may be linear. The saturated fatty acids can include even-chain length only fatty acids, odd-chain length only fatty acids, or mixtures of even-chain length fatty acids and odd-chain length fatty acids.",
+      "publicationNumber": "WO2023244719",
+      "publicationDate": "2024-02-15",
+      "assignee": [
+        "Savor Foods Limited"
+      ],
+      "inventors": [
+        "KATHLEEN ALEXANDER",
+        "IAN MCKAY",
+        "Nikifar LAZOUSKI",
+        "Aleesha SLATTENGREN"
+      ],
+      "applicationDate": "2023-06-15",
+      "claimsCount": 43,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Food chemistry"
+      ],
+      "score": 11.915259
+    },
+    {
+      "id": "WO-2023244719-A1",
+      "title": [
+        "FAT FORMULATIONS"
+      ],
+      "abstract": "A fat composition can include a majority of triglycerides consisting of glycerol esterified with saturated fatty acids. The fat composition may be a gapped formulation. The saturated fatty acids may be linear. The saturated fatty acids can include even-chain length only fatty acids, odd-chain length only fatty acids, or mixtures of even-chain length fatty acids and odd-chain length fatty acids.",
+      "publicationNumber": "WO2023244719",
+      "publicationDate": "2023-12-21",
+      "assignee": [
+        "Savor Foods Limited"
+      ],
+      "inventors": [
+        "KATHLEEN ALEXANDER",
+        "IAN MCKAY",
+        "Nikifar LAZOUSKI",
+        "Aleesha SLATTENGREN"
+      ],
+      "applicationDate": "2023-06-15",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Food chemistry"
+      ],
+      "score": 11.915259
+    },
+    {
+      "id": "US-20260007142-A1",
+      "title": [
+        "FAT FORMULATIONS"
+      ],
+      "abstract": "A fat composition can include a majority of triglycerides consisting of glycerol esterified with saturated fatty acids. The fat composition may be a gapped formulation. The saturated fatty acids may be linear. The saturated fatty acids can include even-chain length only fatty acids, odd-chain length only fatty acids, or mixtures of even-chain length fatty acids and odd-chain length fatty acids.",
+      "publicationNumber": "US20260007142",
+      "publicationDate": "2026-01-08",
+      "assignee": [
+        "Savor Foods Limited"
+      ],
+      "inventors": [
+        "Kathleen Alexander",
+        "Ian McKay",
+        "Nikifar Lazouski",
+        "Aleesha Slattengren"
+      ],
+      "applicationDate": "2025-09-10",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Food chemistry"
+      ],
+      "score": 11.915259
+    },
+    {
+      "id": "US-20260007141-A1",
+      "title": [
+        "FAT FORMULATIONS"
+      ],
+      "abstract": "An animal fat functional analogue (e.g., mimic) can include a gapped formulation of interesterified triglycerides that include saturated fatty acids. The animal fat functional analogue can have thermal properties (e.g., melting point, solid fat content, specific heat, etc.), rheological properties (e.g., viscosity), organoleptic properties (e.g., texture, mouthfeel, etc.), and/or other properties that imitate the properties of animal fat produced agriculturally.",
+      "publicationNumber": "US20260007141",
+      "publicationDate": "2026-01-08",
+      "assignee": [
+        "Savor Foods Limited"
+      ],
+      "inventors": [
+        "Kathleen Alexander",
+        "Ian McKay",
+        "Nikifar Lazouski",
+        "Aleesha Slattengren"
+      ],
+      "applicationDate": "2025-09-10",
+      "claimsCount": 8,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Food chemistry"
+      ],
+      "score": 11.915259
+    },
+    {
+      "id": "US-20240237667-A1",
+      "title": [
+        "FAT FORMULATIONS"
+      ],
+      "abstract": "An animal fat functional analogue (e.g., mimic) can include a gapped formulation of interesterified triglycerides that include saturated fatty acids. The animal fat functional analogue can have thermal properties (e.g., melting point, solid fat content, specific heat, etc.), rheological properties (e.g., viscosity), organoleptic properties (e.g., texture, mouthfeel, etc.), and/or other properties that imitate the properties of animal fat produced agriculturally.",
+      "publicationNumber": "US20240237667",
+      "publicationDate": "2024-07-18",
+      "assignee": [
+        "Savor Foods Limited"
+      ],
+      "inventors": [
+        "Kathleen Alexander",
+        "Ian Salmon McKay",
+        "Nikifar Lazouski",
+        "Aleesha Slattengren"
+      ],
+      "applicationDate": "2024-03-28",
+      "claimsCount": 14,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Food chemistry"
+      ],
+      "score": 11.915259
+    },
+    {
+      "id": "US-20230404101-A1",
+      "title": [
+        "FAT FORMULATIONS"
+      ],
+      "abstract": "A fat composition can include a majority of triglycerides consisting of glycerol esterified with saturated fatty acids. The fat composition may be a gapped formulation. The saturated fatty acids may be linear. The saturated fatty acids can include even-chain length only fatty acids, odd-chain length only fatty acids, or mixtures of even-chain length fatty acids and odd-chain length fatty acids.",
+      "publicationNumber": "US20230404101",
+      "publicationDate": "2023-12-21",
+      "assignee": [
+        "Savor Foods Limited"
+      ],
+      "inventors": [
+        "Kathleen Alexander",
+        "Ian McKay",
+        "Nikifar Lazouski",
+        "Aleesha Slattengren"
+      ],
+      "applicationDate": "2023-06-15",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Food chemistry"
+      ],
+      "score": 11.915259
+    },
+    {
+      "id": "US-20230404100-A1",
+      "title": [
+        "FAT FORMULATIONS"
+      ],
+      "abstract": "An animal fat functional analogue (e.g., mimic) can include a gapped formulation of interesterified triglycerides that include saturated fatty acids. The animal fat functional analogue can have thermal properties (e.g., melting point, solid fat content, specific heat, etc.), rheological properties (e.g., viscosity), organoleptic properties (e.g., texture, mouthfeel, etc.), and/or other properties that imitate the properties of animal fat produced agriculturally.",
+      "publicationNumber": "US20230404100",
+      "publicationDate": "2023-12-21",
+      "assignee": [
+        "Savor Foods Limited"
+      ],
+      "inventors": [
+        "Kathleen Alexander",
+        "Ian McKay",
+        "Nikifar Lazouski",
+        "Aleesha Slattengren"
+      ],
+      "applicationDate": "2023-06-15",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Food chemistry"
+      ],
+      "score": 11.915259
+    },
+    {
+      "id": "US-12439933-B2",
+      "title": [
+        "Fat formulations"
+      ],
+      "abstract": "An animal fat functional analogue (e.g., mimic) can include a gapped formulation of interesterified triglycerides that include saturated fatty acids. The animal fat functional analogue can have thermal properties (e.g., melting point, solid fat content, specific heat, etc.), rheological properties (e.g., viscosity), organoleptic properties (e.g., texture, mouthfeel, etc.), and/or other properties that imitate the properties of animal fat produced agriculturally.",
+      "publicationNumber": "US12439933",
+      "publicationDate": "2025-10-14",
+      "assignee": [
+        "Savor Foods Limited"
+      ],
+      "inventors": [
+        "Kathleen Alexander",
+        "Ian Salmon McKay",
+        "Nikifar Lazouski",
+        "Aleesha Slattengren"
+      ],
+      "applicationDate": "2024-03-28",
+      "claimsCount": 7,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Food chemistry"
+      ],
+      "score": 11.915259
+    },
+    {
+      "id": "US-11968994-B2",
+      "title": [
+        "Fat formulations"
+      ],
+      "abstract": "An animal fat functional analogue (e.g., mimic) can include a gapped formulation of interesterified triglycerides that include saturated fatty acids. The animal fat functional analogue can have thermal properties (e.g., melting point, solid fat content, specific heat, etc.), rheological properties (e.g., viscosity), organoleptic properties (e.g., texture, mouthfeel, etc.), and/or other properties that imitate the properties of animal fat produced agriculturally.",
+      "publicationNumber": "US11968994",
+      "publicationDate": "2024-04-30",
+      "assignee": [
+        "Savor Foods Limited"
+      ],
+      "inventors": [
+        "Kathleen Alexander",
+        "Ian McKay",
+        "Nikifar Lazouski",
+        "Aleesha Slattengren"
+      ],
+      "applicationDate": "2023-06-15",
+      "claimsCount": 6,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Food chemistry",
+        "Pharmaceuticals"
+      ],
+      "score": 11.915259
+    },
+    {
+      "id": "IN-202417097295-A",
+      "title": [
+        "FAT FORMULATIONS"
+      ],
+      "abstract": "A fat composition can include a majority of triglycerides consisting of glycerol esterified with saturated fatty acids. The fat composition may be a gapped formulation. The saturated fatty acids may be linear. The saturated fatty acids can include even-chain length only fatty acids, odd-chain length only fatty acids, or mixtures of even- chain length fatty acids and odd-chain length fatty acids.",
+      "publicationNumber": "IN202417097295",
+      "publicationDate": "2025-01-10",
+      "assignee": [
+        "Savor Foods Limited"
+      ],
+      "inventors": [
+        "ALEXANDER KATHLEEN",
+        "MCKAY IAN",
+        "LAZOUSKI NIKIFAR",
+        "SLATTENGREN ALEESHA"
+      ],
+      "applicationDate": "2024-12-10",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Food chemistry"
+      ],
+      "score": 11.915259
+    },
+    {
+      "id": "EP-4540356-A1",
+      "title": [
+        "FAT FORMULATIONS"
+      ],
+      "abstract": "A fat composition can include a majority of triglycerides consisting of glycerol esterified with saturated fatty acids. The fat composition may be a gapped formulation. The saturated fatty acids may be linear. The saturated fatty acids can include even-chain length only fatty acids, odd-chain length only fatty acids, or mixtures of even-chain length fatty acids and odd-chain length fatty acids.",
+      "publicationNumber": "EP4540356",
+      "publicationDate": "2025-04-23",
+      "assignee": [
+        "Savor Foods Limited"
+      ],
+      "inventors": [
+        "KATHLEEN ALEXANDER",
+        "IAN MCKAY",
+        "Nikifar LAZOUSKI",
+        "Aleesha SLATTENGREN"
+      ],
+      "applicationDate": "2023-06-15",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Food chemistry"
+      ],
+      "score": 11.915259
+    },
+    {
+      "id": "JP-2025520487-A",
+      "title": [
+        "\u8102\u80aa\u914d\u5408\u7269"
+      ],
+      "abstract": "\u8102\u80aa\u7d44\u6210\u7269\u304c\u3001\u98fd\u548c\u8102\u80aa\u9178\u3067\u30a8\u30b9\u30c6\u30eb\u5316\u3055\u308c\u305f\u30b0\u30ea\u30bb\u30ed\u30fc\u30eb\u304b\u3089\u306a\u308b\u5927\u90e8\u5206\u306e\u30c8\u30ea\u30b0\u30ea\u30bb\u30ea\u30c9\u3092\u542b\u307f\u5f97\u308b\u3002\u8102\u80aa\u7d44\u6210\u7269\u306f\u3001\u30ae\u30e3\u30c3\u30d7\u3042\u308a\u914d\u5408\u7269\uff08gapped formulation\uff09\u3067\u3082\u3088\u3044\u3002\u98fd\u548c\u8102\u80aa\u9178\u306f\u3001\u76f4\u9396\u72b6\u3067\u3082\u3088\u3044\u3002\u98fd\u548c\u8102\u80aa\u9178\u306f\u3001\u5076\u6570\u9396\u9577\u306e\u307f\u8102\u80aa\u9178\u3001\u5947\u6570\u9396\u9577\u306e\u307f\u8102\u80aa\u9178\u3001\u53c8\u306f\u5076\u6570\u9396\u9577\u8102\u80aa\u9178\u3068\u5947\u6570\u9396\u9577\u8102\u80aa\u9178\u3068\u306e\u6df7\u5408\u7269\u3092\u542b\u307f\u5f97\u308b\u3002 \u3010\u9078\u629e\u56f3\u3011 \u56f3\uff11",
+      "publicationNumber": "JP2025520487",
+      "publicationDate": "2025-07-03",
+      "assignee": [
+        "Savor Foods Limited"
+      ],
+      "inventors": [
+        "\u30a2\u30ec\u30af\u30b5\u30f3\u30c0\u30fc\uff0c\u30ad\u30e3\u30b9\u30ea\u30fc\u30f3",
+        "\u30de\u30c3\u30b1\u30a4\uff0c\u30a4\u30a2\u30f3",
+        "\u30e9\u30be\u30a6\u30b9\u30ad\uff0c\u30cb\u30ad\u30d5\u30a1\u30eb",
+        "\u30b9\u30e9\u30c3\u30c6\u30f3\u30b0\u30ec\u30f3\uff0c\u30a2\u30ea\u30fc\u30b7\u30e3"
+      ],
+      "applicationDate": "2023-06-15",
+      "claimsCount": 43,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Food chemistry"
+      ],
+      "score": 11.703136
+    },
+    {
+      "id": "US-20170220772-A1",
+      "title": [
+        "METHOD AND APPARATUS FOR TRACKING OF FOOD INTAKE AND OTHER BEHAVIORS AND PROVIDING RELEVANT FEEDBACK"
+      ],
+      "abstract": "A sensing device monitors and tracks food intake events and details. A processor, appropriately programmed, controls aspects of the sensing device to capture data, store data, analyze data and provide suitable feedback related to food intake. More generally, the methods might include detecting, identifying, analyzing, quantifying, tracking, processing and/or influencing, related to the intake of food, eating habits, eating patterns, and/or triggers for food intake events, eating habits, or eating patterns. Feedback might be targeted for influencing the intake of food, eating habits, or eating patterns, and/or triggers for those. The sensing device can also be used to track and provide feedback beyond food-related behaviors and more generally track behavior events, detect behavior event triggers and behavior event patterns and provide suitable feedback.",
+      "publicationNumber": "US20170220772",
+      "publicationDate": "2017-08-03",
+      "assignee": [
+        "Savor Labs, Inc."
+      ],
+      "inventors": [
+        "Katelijn Vleugels",
+        "Ronald Marianetti II"
+      ],
+      "applicationDate": "2017-01-30",
+      "claimsCount": 20,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Medical technology"
+      ],
+      "score": 11.664249
+    },
+    {
+      "id": "CN-117404874-A",
+      "title": [
+        "\u4e00\u79cd\u57fa\u4e8e\u751f\u7269\u8d28\u71c3\u6599\u7684\u8c37\u7269\u5e72\u71e5\u673a"
+      ],
+      "abstract": "\u672c\u53d1\u660e\u63d0\u4f9b\u4e00\u79cd\u57fa\u4e8e\u751f\u7269\u8d28\u71c3\u6599\u7684\u8c37\u7269\u5e72\u71e5\u673a\uff0c\u5305\u62ec\u4e3b\u7bb1\u4f53\uff0c\u4e3b\u7bb1\u4f53\u7684\u5185\u90e8\u9876\u90e8\u5b89\u88c5\u6709\u70ed\u98ce\u7089\uff0c\u70ed\u98ce\u7089\u7684\u4e24\u4fa7\u5bf9\u79f0\u4f38\u5165\u6709\u71c3\u6599\u8865\u7ed9\u4ed3\uff0c\u4e3b\u7bb1\u4f53\u7684\u5185\u90e8\u5e95\u90e8\u8bbe\u6709\u7cae\u98df\u5bfc\u51fa\u7ba1\uff0c\u4e3b\u7bb1\u4f53\u7684\u5916\u58c1\u4e0e\u7cae\u98df\u5bfc\u51fa\u7ba1\u76f8\u5bf9\u4f4d\u7f6e\u5904\u5f00\u8bbe\u6709\u51fa\u6599\u69fd\uff0c\u7cae\u98df\u5bfc\u51fa\u7ba1\u7684\u9876\u90e8\u5b89\u88c5\u6709\u7cae\u98df\u98ce\u5e72\u7ec4\u4ef6\uff1b\u71c3\u6599\u8865\u7ed9\u4ed3\u7684\u4e24\u7aef\u5747\u4e3a\u5f00\u53e3\u7ed3\u6784\uff0c\u71c3\u6599\u8865\u7ed9\u4ed3\u7684\u5185\u7aef\u4e0e\u71c3\u6599\u8865\u7ed9\u4ed3\u8fde\u901a\uff0c\u71c3\u6599\u8865\u7ed9\u4ed3\u7684\u5916\u7aef\u5b89\u88c5\u6709\u7b2c\u4e8c\u98ce\u673a\uff0c\u71c3\u6599\u8865\u7ed9\u4ed3\u7684\u5185\u90e8\u6ed1\u52a8\u5b89\u88c5\u6709\u63a8\u6599\u7ec4\u4ef6\u3002\u672c\u53d1\u660e\u7cae\u98df\u6ce8\u5165\u53e3\u6ce8\u5165\u7684\u7cae\u98df\uff0c\u53ef\u7ecf\u8fc7\u7b2c\u4e8c\u98ce\u673a\uff0c\u7b2c\u4e8c\u98ce\u673a\u5439\u51fa\u7cae\u98df\u4e2d\u7684\u7a3b\u58f3\u3001\u79f8\u79c6\uff0c\u5439\u51fa\u7684\u7a3b\u58f3\u548c\u79f8\u79c6\u805a\u96c6\u71c3\u6599\u8865\u7ed9\u4ed3\u5185\u90e8\u5185\u7aef\uff0c\u518d\u5982\u6b64\uff0c\u5373\u53ef\u5b9e\u73b0\u5bf9\u4e8e\u7cae\u98df\u7684\u9664\u6742\u7b5b\u9009\uff0c\u53c8\u53ef\u5728\u4e0b\u6599\u8fc7\u7a0b\u4e2d\u5bf9\u7cae\u98df\u4e2d\u7684\u751f\u7269\u8d28\u539f\u6599\u8fdb\u884c\u56de\u6536\u3002",
+      "publicationNumber": "CN117404874",
+      "publicationDate": "2024-01-16",
+      "assignee": [
+        "ANHUI SAVOR MACHINERY CO.,LTD."
+      ],
+      "inventors": [
+        "LUO YONGGENG",
+        "XIONG LONG"
+      ],
+      "applicationDate": "2023-11-09",
+      "claimsCount": 9,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Chemical engineering",
+        "Food chemistry"
+      ],
+      "score": 11.61155
+    },
+    {
+      "id": "WO-2025038940-A1",
+      "title": [
+        "SYSTEM AND METHOD FOR TRIGLYCERIDE MANUFACTURE"
+      ],
+      "abstract": "A method can include receiving an oxygenate sample, fractioning the oxygenate sample into one or more fractions, and separating the fractions (e.g. using FAME fractionation, FAEE fractionation, crystallization, solvent extraction, or other similar methods). The fractions can optionally be separated independently. The method can optionally include esterifying carboxylic acids separated from the fractions with glycerol and deodorizing the glycerides.",
+      "publicationNumber": "WO2025038940",
+      "publicationDate": "2025-02-20",
+      "assignee": [
+        "Savor Foods Limited"
+      ],
+      "inventors": [
+        "KATHLEEN ALEXANDER",
+        "Ian Salmon McKAY",
+        "Nikifar LAZOUSKI",
+        "EVAN ROBERTS",
+        "Trevor SEIDEL"
+      ],
+      "applicationDate": "2024-08-16",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology",
+        "Organic fine chemistry"
+      ],
+      "score": 11.60666
+    },
+    {
+      "id": "WO-2021195593-A1",
+      "title": [
+        "SYSTEMS AND METHODS FOR CONSUMER INTEGRATION INTO A POINT-OF-SALE SYSTEM"
+      ],
+      "abstract": "A platform comprising storage; a plurality of APIs; a plurality of resources; and one or more servers, the servers configured to enable a plurality of partners to build and manage a mobile ordering and payment facilitation application comprising a front end application and a back end application, the front end application configured to enable customers of each partner to browse products, purchase, view purchase history, set up product favorites, receive direct marketing, and wherein the back end application allows the partner to fulfill orders, track orders, manage inventory and push direct marketing to customers.",
+      "publicationNumber": "WO2021195593",
+      "publicationDate": "2021-09-30",
+      "assignee": [
+        "Savor Brands Inc."
+      ],
+      "inventors": [
+        "Mio L.K. LAU",
+        "Patrick C.W. LAU",
+        "Josu\u00e9 M. GONZALEZ",
+        "Jayaraj MUTHUKUMARASAMY"
+      ],
+      "applicationDate": "2021-03-26",
+      "claimsCount": 3,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "IT methods for management"
+      ],
+      "score": 11.60666
+    },
+    {
+      "id": "US-20260009583-A1",
+      "title": [
+        "SYSTEM AND METHOD FOR TRIGLYCERIDE MANUFACTURE"
+      ],
+      "abstract": "A method can include receiving an oxygenate sample, fractioning the oxygenate sample into one or more fractions, and separating the fractions (e.g. using FAME fractionation, FAEE fractionation, crystallization, solvent extraction, or other similar methods). The fractions can optionally be separated independently. The method can optionally include esterifying carboxylic acids separated from the fractions with glycerol and deodorizing the glycerides.",
+      "publicationNumber": "US20260009583",
+      "publicationDate": "2026-01-08",
+      "assignee": [
+        "Savor Foods Limited"
+      ],
+      "inventors": [
+        "Kathleen Alexander",
+        "Ian Salmon McKay",
+        "Nikifar Lazouski",
+        "Evan Roberts",
+        "Trevor Seidel"
+      ],
+      "applicationDate": "2025-09-15",
+      "claimsCount": 3,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 11.60666
+    },
+    {
+      "id": "US-20250059463-A1",
+      "title": [
+        "SYSTEM AND METHOD FOR TRIGLYCERIDE MANUFACTURE"
+      ],
+      "abstract": "A method can include receiving an oxygenate sample, fractioning the oxygenate sample into one or more fractions, and separating the fractions (e.g. using FAME fractionation, FAEE fractionation, crystallization, solvent extraction, or other similar methods). The fractions can optionally be separated independently. The method can optionally include esterifying carboxylic acids separated from the fractions with glycerol and deodorizing the glycerides.",
+      "publicationNumber": "US20250059463",
+      "publicationDate": "2025-02-20",
+      "assignee": [
+        "Savor Foods Limited"
+      ],
+      "inventors": [
+        "Kathleen Alexander",
+        "Ian Salmon McKay",
+        "Nikifar Lazouski",
+        "Evan Roberts",
+        "Trevor Seidel"
+      ],
+      "applicationDate": "2024-08-16",
+      "claimsCount": 21,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Basic materials chemistry"
+      ],
+      "score": 11.60666
+    },
+    {
+      "id": "US-20210304267-A1",
+      "title": [
+        "SYSTEMS AND METHODS FOR CONSUMER INTEGRATION INTO A POINT-OF-SALE SYSTEM"
+      ],
+      "abstract": "A platform comprising storage; a plurality of APIs; a plurality of resources; and one or more servers, the servers configured to enable a plurality of partners to build and manage a mobile ordering and payment facilitation application comprising a front end application and a back end application, the front end application configured to enable customers of each partner to browse products, purchase, view purchase history, set up product favorites, receive direct marketing, and wherein the back end application allows the partner to fulfill orders, track orders, manage inventory and push direct marketing to customers.",
+      "publicationNumber": "US20210304267",
+      "publicationDate": "2021-09-30",
+      "assignee": [
+        "Savor Brands Inc."
+      ],
+      "inventors": [
+        "Mio L.K. LAU",
+        "Patrick C.W. LAU",
+        "Josu\u00e9 M. GONZALEZ",
+        "Jayaraj MUTHUKUMARASAMY"
+      ],
+      "applicationDate": "2021-03-26",
+      "claimsCount": 3,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "IT methods for management"
+      ],
+      "score": 11.60666
+    },
+    {
+      "id": "US-12441955-B2",
+      "title": [
+        "System and method for triglyceride manufacture"
+      ],
+      "abstract": "A method can include receiving an oxygenate sample, fractioning the oxygenate sample into one or more fractions, and separating the fractions (e.g. using FAME fractionation, FAEE fractionation, crystallization, solvent extraction, or other similar methods). The fractions can optionally be separated independently. The method can optionally include esterifying carboxylic acids separated from the fractions with glycerol and deodorizing the glycerides.",
+      "publicationNumber": "US12441955",
+      "publicationDate": "2025-10-14",
+      "assignee": [
+        "Savor Foods Limited"
+      ],
+      "inventors": [
+        "Kathleen Alexander",
+        "Ian Salmon McKay",
+        "Nikifar Lazouski",
+        "Evan Roberts",
+        "Trevor Seidel"
+      ],
+      "applicationDate": "2024-08-16",
+      "claimsCount": 18,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Basic materials chemistry"
+      ],
+      "score": 11.60666
+    },
+    {
+      "id": "US-11682056-B2",
+      "title": [
+        "Systems and methods for consumer integration into a point-of-sale system"
+      ],
+      "abstract": "A platform comprising storage; a plurality of APIs; a plurality of resources; and one or more servers, the servers configured to enable a plurality of partners to build and manage a mobile ordering and payment facilitation application comprising a front end application and a back end application, the front end application configured to enable customers of each partner to browse products, purchase, view purchase history, set up product favorites, receive direct marketing, and wherein the back end application allows the partner to fulfill orders, track orders, manage inventory and push direct marketing to customers.",
+      "publicationNumber": "US11682056",
+      "publicationDate": "2023-06-20",
+      "assignee": [
+        "Savor Brands Inc."
+      ],
+      "inventors": [
+        "Mio L. K. Lau",
+        "Patrick C. W. Lau",
+        "Josu\u00e9 M. GONZALEZ",
+        "Jayaraj MUTHUKUMARASAMY"
+      ],
+      "applicationDate": "2021-03-26",
+      "claimsCount": 10,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "IT methods for management"
+      ],
+      "score": 11.60666
+    },
+    {
+      "id": "EP-4128118-A4",
+      "title": [
+        "SYSTEMS AND METHODS FOR CONSUMER INTEGRATION INTO A POINT-OF-SALE SYSTEM"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP4128118",
+      "publicationDate": "2023-11-01",
+      "assignee": [
+        "Savor Brands Inc."
+      ],
+      "inventors": [
+        "Mio L.K. LAU",
+        "Patrick C.W. LAU",
+        "Josu\u00e9 M. GONZALEZ",
+        "Jayaraj MUTHUKUMARASAMY"
+      ],
+      "applicationDate": "2021-03-26",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "IT methods for management"
+      ],
+      "score": 11.60666
+    },
+    {
+      "id": "EP-4128118-A1",
+      "title": [
+        "SYSTEMS AND METHODS FOR CONSUMER INTEGRATION INTO A POINT-OF-SALE SYSTEM"
+      ],
+      "abstract": "A platform comprising storage; a plurality of APIs; a plurality of resources; and one or more servers, the servers configured to enable a plurality of partners to build and manage a mobile ordering and payment facilitation application comprising a front end application and a back end application, the front end application configured to enable customers of each partner to browse products, purchase, view purchase history, set up product favorites, receive direct marketing, and wherein the back end application allows the partner to fulfill orders, track orders, manage inventory and push direct marketing to customers.",
+      "publicationNumber": "EP4128118",
+      "publicationDate": "2023-02-08",
+      "assignee": [
+        "Savor Brands Inc."
+      ],
+      "inventors": [
+        "Mio L.K. LAU",
+        "Patrick C.W. LAU",
+        "Josu\u00e9 M. GONZALEZ",
+        "Jayaraj MUTHUKUMARASAMY"
+      ],
+      "applicationDate": "2021-03-26",
+      "claimsCount": 3,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "IT methods for management"
+      ],
+      "score": 11.60666
+    },
+    {
+      "id": "US-D782574-S1",
+      "title": [
+        "Storage unit"
+      ],
+      "abstract": "",
+      "publicationNumber": "USD782574",
+      "publicationDate": "2017-03-28",
+      "assignee": [
+        "Savor Goods, LLC"
+      ],
+      "inventors": [
+        "Karla the Losen",
+        "Jennifer Nevins"
+      ],
+      "applicationDate": "2015-06-23",
+      "claimsCount": 1,
+      "independentClaimsCount": 1,
+      "technologyFields": [],
+      "score": 11.551603
+    },
+    {
+      "id": "EM-151017200003-S",
+      "title": [
+        "Bags (part of -)"
+      ],
+      "abstract": "",
+      "publicationNumber": "EM151017200003",
+      "publicationDate": "2025-05-15",
+      "assignee": [
+        "Savor Goods, LLC"
+      ],
+      "inventors": [
+        "Jennifer Nevins",
+        "Robert Spalding"
+      ],
+      "applicationDate": "2025-05-09",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 11.551603
+    },
+    {
+      "id": "EM-151017200002-S",
+      "title": [
+        "Bags (part of -)"
+      ],
+      "abstract": "",
+      "publicationNumber": "EM151017200002",
+      "publicationDate": "2025-05-15",
+      "assignee": [
+        "Savor Goods, LLC"
+      ],
+      "inventors": [
+        "Jennifer Nevins",
+        "Robert Spalding"
+      ],
+      "applicationDate": "2025-05-09",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 11.551603
+    },
+    {
+      "id": "EM-151017200001-S",
+      "title": [
+        "Bags (part of -)"
+      ],
+      "abstract": "",
+      "publicationNumber": "EM151017200001",
+      "publicationDate": "2025-05-15",
+      "assignee": [
+        "Savor Goods, LLC"
+      ],
+      "inventors": [
+        "Jennifer Nevins",
+        "Robert Spalding"
+      ],
+      "applicationDate": "2025-05-09",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 11.551603
+    },
+    {
+      "id": "WO-2017132690-A1",
+      "title": [
+        "METHOD AND APPARATUS FOR TRACKING OF FOOD INTAKE AND OTHER BEHAVIORS AND PROVIDING RELEVANT FEEDBACK"
+      ],
+      "abstract": "A sensing device monitors and tracks food intake events and details. A processor, appropriately programmed, controls aspects of the sensing device to capture data, store data, analyze data and provide suitable feedback related to food intake. More generally, the methods might include detecting, identifying, analyzing, quantifying, tracking, processing and/or influencing, related to the intake of food, eating habits, eating patterns, and/or triggers for food intake events, eating habits, or eating patterns. Feedback might be targeted for influencing the intake of food, eating habits, or eating patterns, and/or triggers for those. The sensing device can also be used to track and provide feedback beyond food-related behaviors and more generally track behavior events, detect behavior event triggers and behavior event patterns and provide suitable feedback.",
+      "publicationNumber": "WO2017132690",
+      "publicationDate": "2017-08-03",
+      "assignee": [
+        "Savor Labs, Inc."
+      ],
+      "inventors": [
+        "RONALD MARIANETTI II",
+        "KATELIJN VLEUGELS"
+      ],
+      "applicationDate": "2017-01-30",
+      "claimsCount": 20,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Computer technology",
+        "Medical technology"
+      ],
+      "score": 11.333787
+    },
+    {
+      "id": "US-10373716-B2",
+      "title": [
+        "Method and apparatus for tracking of food intake and other behaviors and providing relevant feedback"
+      ],
+      "abstract": "A sensing device monitors and tracks food intake events and details. A processor, appropriately programmed, controls aspects of the sensing device to capture data, store data, analyze data and provide suitable feedback related to food intake. More generally, the methods might include detecting, identifying, analyzing, quantifying, tracking, processing and/or influencing, related to the intake of food, eating habits, eating patterns, and/or triggers for food intake events, eating habits, or eating patterns. Feedback might be targeted for influencing the intake of food, eating habits, or eating patterns, and/or triggers for those. The sensing device can also be used to track and provide feedback beyond food-related behaviors and more generally track behavior events, detect behavior event triggers and behavior event patterns and provide suitable feedback.",
+      "publicationNumber": "US10373716",
+      "publicationDate": "2019-08-06",
+      "assignee": [
+        "KLUE, INC."
+      ],
+      "inventors": [
+        "Katelijn Vleugels",
+        "Ronald Marianetti, II"
+      ],
+      "applicationDate": "2017-01-30",
+      "claimsCount": 21,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Medical technology"
+      ],
+      "score": 11.074603
+    },
+    {
+      "id": "US-20180300458-A1",
+      "title": [
+        "METHOD AND APPARATUS FOR TRACKING OF FOOD INTAKE AND OTHER BEHAVIORS AND PROVIDING RELEVANT FEEDBACK"
+      ],
+      "abstract": "A sensing device monitors and tracks food intake events and details. A processor, appropriately programmed, controls aspects of the sensing device to capture data, store data, analyze data and provide suitable feedback related to food intake. More generally, the methods might include detecting, identifying, analyzing, quantifying, tracking, processing and/or influencing, related to the intake of food, eating habits, eating patterns, and/or triggers for food intake events, eating habits, or eating patterns. Feedback might be targeted for influencing the intake of food, eating habits, or eating patterns, and/or triggers for those. The sensing device can also be used to track and provide feedback beyond food-related behaviors and more generally track behavior events, detect behavior event triggers and behavior event patterns and provide suitable feedback.",
+      "publicationNumber": "US20180300458",
+      "publicationDate": "2018-10-18",
+      "assignee": [
+        "Savor Labs, Inc."
+      ],
+      "inventors": [
+        "Katelijn Vleugels",
+        "Ronald Marianetti II"
+      ],
+      "applicationDate": "2017-02-27",
+      "claimsCount": 29,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Medical technology"
+      ],
+      "score": 11.011826
+    },
+    {
+      "id": "US-D1084121-S1",
+      "title": [
+        "Storage unit"
+      ],
+      "abstract": "",
+      "publicationNumber": "USD1084121",
+      "publicationDate": "2025-07-15",
+      "assignee": [
+        "Savor Goods, LLC"
+      ],
+      "inventors": [
+        "Karla the Losen"
+      ],
+      "applicationDate": "2022-12-15",
+      "claimsCount": 1,
+      "independentClaimsCount": 1,
+      "technologyFields": [],
+      "score": 10.900514
+    },
+    {
+      "id": "EM-150232490002-S",
+      "title": [
+        "Storage containers"
+      ],
+      "abstract": "",
+      "publicationNumber": "EM150232490002",
+      "publicationDate": "2023-06-07",
+      "assignee": [
+        "Savor Goods, LLC"
+      ],
+      "inventors": [
+        "Karla the Losen"
+      ],
+      "applicationDate": "2023-05-31",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 10.900514
+    },
+    {
+      "id": "EM-150232490001-S",
+      "title": [
+        "Storage containers"
+      ],
+      "abstract": "",
+      "publicationNumber": "EM150232490001",
+      "publicationDate": "2023-06-07",
+      "assignee": [
+        "Savor Goods, LLC"
+      ],
+      "inventors": [
+        "Karla the Losen"
+      ],
+      "applicationDate": "2023-05-31",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 10.900514
+    },
+    {
+      "id": "CN-222586008-U",
+      "title": [
+        "\u4e00\u79cd\u6392\u9664\u6742\u8d28\u7684\u9664\u5c18\u88c5\u7f6e"
+      ],
+      "abstract": "\u672c\u5b9e\u7528\u65b0\u578b\u516c\u5f00\u4e86\u4e00\u79cd\u6392\u9664\u6742\u8d28\u7684\u9664\u5c18\u88c5\u7f6e\uff0c\u6d89\u53ca\u9664\u5c18\u88c5\u7f6e\u7684\u6280\u672f\u9886\u57df\uff0c\u89e3\u51b3\u4e86\u6536\u96c6\u76d2\u4e0e\u7bb1\u4f53\u7684\u5185\u90e8\u662f\u8fde\u901a\u7684\uff0c\u5e76\u4e14\u8fdb\u5165\u7684\u6742\u8d28\u901a\u8fc7\u4e0a\u7aef\u9f13\u98ce\u673a\u5411\u4e0b\u5439\u52a8\uff0c\u867d\u7136\u80fd\u591f\u4f7f\u8fdb\u5165\u81f3\u7684\u6742\u8d28\u5439\u5165\u6536\u96c6\u76d2\u7684\u5185\u90e8\uff0c\u540c\u65f6\u4e5f\u80fd\u591f\u4f7f\u6536\u96c6\u76d2\u5185\u7684\u7684\u6742\u8d28\u53ca\u7070\u5c18\u4ece\u6536\u96c6\u76d2\u7684\u5185\u90e8\u5411\u5916\u98d8\u52a8\uff0c\u6742\u8d28\u4e0e\u7070\u5c18\u7684\u91cd\u91cf\u662f\u975e\u5e38\u8f7b\u7684\uff0c\u5f88\u5bb9\u6613\u5f25\u6f2b\u5728\u7a7a\u4e2d\uff0c\u4ece\u800c\u4f1a\u9020\u6210\u7bb1\u4f53\u7684\u5185\u90e8\u4fa7\u58c1\u5145\u6ee1\u4e86\u7070\u5c18\u7684\u95ee\u9898\uff0c\u5305\u62ec\u7bb1\u4f53\u4e0e\u6c34\u69fd\uff0c\u6240\u8ff0\u7bb1\u4f53\u7684\u5de6\u4fa7\u4e0e\u53f3\u4fa7\u5206\u522b\u56fa\u5b9a\u5b89\u88c5\u6709\u8fdb\u98ce\u7ba1\u4e0e\u6392\u98ce\u7ba1\uff0c\u6240\u8ff0\u6c34\u69fd\u8bbe\u7f6e\u4e8e\u7bb1\u4f53\u7684\u5185\u90e8\uff0c\u6240\u8ff0\u7bb1\u4f53\u7684\u9876\u9762\u56fa\u5b9a\u5b89\u88c5\u6709\u6c34\u6cf5\uff0c\u901a\u8fc7\u8bbe\u7f6e\u7684\u55b7\u6dcb\u7ba1\uff0c\u80fd\u591f\u4fbf\u6377\u7684\u5c06\u8fdb\u5165\u7bb1\u4f53\u5185\u7684\u6c14\u4f53\u4e2d\u542b\u6709\u7684\u7070\u5c18\u53ca\u6742\u8d28\u8fdb\u884c\u6dcb\u843d\uff0c\u4f7f\u8fd9\u4e9b\u7070\u5c18\u53ca\u6742\u8d28\u80fd\u518d\u6c34\u7684\u4f5c\u7528\u4e0b\u8fdb\u5165\u6c34\u69fd\u7684\u5185\u90e8\uff0c\u5e76\u4e14\u80fd\u591f\u5904\u4e8e\u6c34\u7684\u5185\u90e8\u3002",
+      "publicationNumber": "CN222586008",
+      "publicationDate": "2025-03-11",
+      "assignee": [
+        "ANHUI SAVOR MACHINERY CO.,LTD."
+      ],
+      "inventors": [
+        "LUO YONGGENG",
+        "XIONG LONG"
+      ],
+      "applicationDate": "2024-04-07",
+      "claimsCount": 5,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 10.530906
+    },
+    {
+      "id": "CN-216159592-U",
+      "title": [
+        "\u8c37\u7269\u5e72\u71e5\u673a\u7528\u94fe\u6761\u88c5\u7d27\u673a\u6784"
+      ],
+      "abstract": "\u672c\u5b9e\u7528\u65b0\u578b\u516c\u5f00\u4e86\u8c37\u7269\u5e72\u71e5\u673a\u7528\u94fe\u6761\u88c5\u7d27\u673a\u6784\uff0c\u5305\u62ec\u5e95\u5ea7\uff0c\u5e95\u5ea7\u4e0a\u7aef\u8bbe\u7f6e\u6709\u88c5\u7d27\u5757\uff0c\u88c5\u7d27\u5757\u5185\u8f6c\u52a8\u8fde\u63a5\u6709\u5e73\u6ed1\u8f6e\uff0c\u5e73\u6ed1\u8f6e\u8bbe\u7f6e\u6709\u4e24\u4e2a\uff0c\u4e24\u4e2a\u5e73\u6ed1\u8f6e\u4e4b\u95f4\u8bbe\u7f6e\u6709\u88c5\u7d27\u8f6e\uff0c\u5e73\u6ed1\u8f6e\u5916\u4fa7\u5f00\u8bbe\u6709\u556e\u5408\u69fd\uff0c\u88c5\u7d27\u8f6e\u4e0e\u5e73\u6ed1\u8f6e\u4e4b\u95f4\u76f8\u4e92\u556e\u5408\uff0c\u88c5\u7d27\u5757\u4e00\u4fa7\u8fde\u63a5\u6709\u7528\u4ee5\u8c03\u8282\u88c5\u7d27\u8f6e\u88c5\u7d27\u7a0b\u5ea6\u7684\u8c03\u8282\u673a\u6784\uff0c\u8c03\u8282\u673a\u6784\u5305\u62ec\u8c03\u8282\u67b6\uff0c\u8c03\u8282\u67b6\u8bbe\u7f6e\u6709\u4e24\u4e2a\uff0c\u4e24\u4e2a\u8c03\u8282\u67b6\u5bf9\u79f0\u8bbe\u7f6e\u5728\u88c5\u7d27\u5757\u4e0b\u7aef\uff0c\u8c03\u8282\u67b6\u4e0e\u88c5\u7d27\u5757\u4e4b\u95f4\u8f6c\u52a8\u8fde\u63a5\u3002\u672c\u5b9e\u7528\u65b0\u578b\u5229\u7528\u8c03\u8282\u67b6\u4e0e\u6863\u4f4d\u5757\u7ed3\u6784\u4e4b\u95f4\u76f8\u4e92\u8fde\u63a5\uff0c\u5b8c\u6210\u4e0d\u540c\u94fe\u6761\u88c5\u7d27\u7a0b\u5ea6\u7684\u9700\u6c42\uff0c\u7ed3\u6784\u5177\u6709\u53ef\u8c03\u8282\u6027\uff0c\u540c\u65f6\u6863\u4f4d\u5757\u4e0b\u7aef\u5f00\u8bbe\u6709\u69fd\u7ed3\u6784\uff0c\u5229\u7528\u69fd\u7ed3\u6784\u4e0e\u5bf9\u63a5\u6761\u4e4b\u95f4\u76f8\u4e92\u5951\u5408\uff0c\u69fd\u7ed3\u6784\u7684\u6df1\u5ea6\u4f7f\u5f97\u88c5\u7d27\u673a\u6784\u5b58\u5728\u7f13\u51b2\uff0c\u4f7f\u5f97\u7ed3\u6784\u66f4\u52a0\u7a33\u5b9a\u3002",
+      "publicationNumber": "CN216159592",
+      "publicationDate": "2022-04-01",
+      "assignee": [
+        "ANHUI SAVOR MACHINERY CO.,LTD."
+      ],
+      "inventors": [
+        "SONG JUNBO"
+      ],
+      "applicationDate": "2021-09-14",
+      "claimsCount": 6,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Chemical engineering",
+        "Food chemistry"
+      ],
+      "score": 10.530906
+    },
+    {
+      "id": "EP-4128118-B1",
+      "title": [
+        "SYSTEMS AND METHODS FOR CONSUMER INTEGRATION INTO A POINT-OF-SALE SYSTEM"
+      ],
+      "abstract": "A platform comprising storage; a plurality of APIs; a plurality of resources; and one or more servers, the servers configured to enable a plurality of partners to build and manage a mobile ordering and payment facilitation application comprising a front end application and a back end application, the front end application configured to enable customers of each partner to browse products, purchase, view purchase history, set up product favorites, receive direct marketing, and wherein the back end application allows the partner to fulfill orders, track orders, manage inventory and push direct marketing to customers.",
+      "publicationNumber": "EP4128118",
+      "publicationDate": "2024-12-18",
+      "assignee": [
+        "Savor Brands Inc."
+      ],
+      "inventors": [
+        "Mio L.K. LAU",
+        "Patrick C.W. LAU",
+        "Josu\u00e9 M. GONZALEZ",
+        "Jayaraj MUTHUKUMARASAMY"
+      ],
+      "applicationDate": "2021-03-26",
+      "claimsCount": 8,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "IT methods for management"
+      ],
+      "score": 10.454832
+    },
+    {
+      "id": "CN-222688761-U",
+      "title": [
+        "\u4e00\u79cd\u70d8\u5e72\u673a\u7684\u62fc\u88c5\u5f0f\u5b89\u88c5\u7f51\u677f\u673a\u6784"
+      ],
+      "abstract": "\u672c\u5b9e\u7528\u65b0\u578b\u5c5e\u4e8e\u70d8\u5e72\u673a\u7f51\u677f\u6280\u672f\u9886\u57df\uff0c\u5c24\u5176\u662f\u4e00\u79cd\u70d8\u5e72\u673a\u7684\u62fc\u88c5\u5f0f\u5b89\u88c5\u7f51\u677f\u673a\u6784\uff0c\u5305\u62ec\u70d8\u5e72\u673a\uff0c\u6240\u8ff0\u70d8\u5e72\u673a\u7684\u5185\u90e8\u8bbe\u7f6e\u6709\u63a7\u5236\u88c5\u7f6e\uff0c\u6240\u8ff0\u63a7\u5236\u88c5\u7f6e\u5305\u62ec\u63a7\u5236\u7535\u673a\u3001\u87ba\u7eb9\u6746\u3001\u79fb\u52a8\u5361\u5757\u548c\u6e05\u6d01\u6746\u3002\u8be5\u70d8\u5e72\u673a\u7684\u62fc\u88c5\u5f0f\u5b89\u88c5\u7f51\u677f\u673a\u6784\uff0c\u5728\u7528\u70d8\u5e72\u673a\u8fdb\u884c\u70d8\u7269\u65f6\uff0c\u5c06\u76d6\u677f\u62ff\u8d77\uff0c\u800c\u540e\u628a\u5f85\u70d8\u5e72\u7684\u7269\u4ef6\u653e\u5728\u56fa\u5b9a\u7f51\u677f\u548c\u6ed1\u52a8\u7f51\u677f\u4e0a\uff0c\u518d\u5f00\u542f\u70d8\u5e72\u673a\u8fdb\u884c\u70d8\u70e4\u5373\u53ef\uff0c\u4f7f\u7528\u4e00\u6bb5\u65f6\u95f4\u540e\u9700\u8981\u5bf9\u4e24\u4e2a\u7f51\u677f\u8fdb\u884c\u6e05\u6d17\uff0c\u6b64\u65f6\u542f\u52a8\u63a7\u5236\u7535\u673a\uff0c\u8ba9\u8f6c\u8f74\u5e26\u52a8\u87ba\u7eb9\u6746\u8f6c\u52a8\uff0c\u63a7\u5236\u79fb\u52a8\u5361\u5757\u5361\u5728\u5361\u69fd\u5185\u79fb\u52a8\uff0c\u5e26\u52a8\u6e05\u6d01\u6746\u8fdb\u884c\u79fb\u52a8\uff0c\u5bf9\u4e0b\u65b9\u7684\u56fa\u5b9a\u7f51\u677f\u548c\u6ed1\u52a8\u7f51\u677f\u8fdb\u884c\u6e05\u6d01\uff0c\u800c\u5728\u5bf9\u6e05\u6d01\u6746\u4e0b\u7684\u5237\u6bdb\u8fdb\u884c\u6e05\u6d01\u65f6\uff0c\u5c06\u6ed1\u52a8\u7f51\u677f\u53d6\u51fa\uff0c\u8ba9\u6e05\u6d01\u6746\u79fb\u52a8\u5230\u5148\u524d\u6ed1\u52a8\u7f51\u677f\u7684\u4f4d\u7f6e\u4e0a\u65b9\uff0c\u65b9\u4fbf\u5bf9\u6e05\u6d01\u6746\u8fdb\u884c\u6e05\u7406\u3002",
+      "publicationNumber": "CN222688761",
+      "publicationDate": "2025-03-28",
+      "assignee": [
+        "ANHUI SAVOR MACHINERY CO.,LTD."
+      ],
+      "inventors": [
+        "LUO YONGGENG",
+        "XIONG LONG"
+      ],
+      "applicationDate": "2024-03-18",
+      "claimsCount": 6,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Chemical engineering"
+      ],
+      "score": 10.38187
+    },
+    {
+      "id": "CN-222336174-U",
+      "title": [
+        "\u4e00\u79cd\u4e0d\u6613\u5835\u6362\u70ed\u7ba1\u7684\u6362\u70ed\u5668"
+      ],
+      "abstract": "\u672c\u5b9e\u7528\u65b0\u578b\u63d0\u4f9b\u4e86\u4e00\u79cd\u4e0d\u6613\u5835\u6362\u70ed\u7ba1\u7684\u6362\u70ed\u5668\uff0c\u5305\u62ec\u7ba1\u4f53\uff0c\u6240\u8ff0\u7ba1\u4f53\u7684\u9876\u90e8\u8fde\u901a\u6709\u8fdb\u6c34\u7ba1\uff0c\u6240\u8ff0\u7ba1\u4f53\u5185\u8154\u7684\u5de6\u4fa7\u56fa\u5b9a\u5b89\u88c5\u6709\u6ee4\u7f51\uff0c\u6240\u8ff0\u7ba1\u4f53\u7684\u5de6\u4fa7\u56fa\u5b9a\u5b89\u88c5\u6709\u6cd5\u5170\u76d8\uff0c\u6240\u8ff0\u6cd5\u5170\u76d8\u7684\u8868\u9762\u5747\u5f00\u8bbe\u6709\u87ba\u69fd\uff0c\u6240\u8ff0\u7ba1\u4f53\u7684\u53f3\u4fa7\u8bbe\u7f6e\u6709\u9664\u57a2\u673a\u6784\uff0c\u6240\u8ff0\u9664\u57a2\u673a\u6784\u5305\u62ec\u5706\u5f62\u677f\u3001\u5361\u5757\u3001\u522e\u5200\u3001\u7b2c\u4e8c\u5939\u677f\u548c\u6bdb\u5237\uff0c\u6240\u8ff0\u5706\u5f62\u677f\u8bbe\u7f6e\u4e8e\u7ba1\u4f53\u7684\u53f3\u4fa7\uff0c\u901a\u8fc7\u8bbe\u7f6e\u9664\u57a2\u673a\u6784\uff0c\u53ef\u4ee5\u5bf9\u5806\u79ef\u4e8e\u7ba1\u4f53\u5185\u8154\u4e2d\u7684\u6c34\u57a2\u8fdb\u884c\u6e05\u9664\u5de5\u4f5c\uff0c\u907f\u514d\u6c34\u57a2\u957f\u65f6\u95f4\u7c98\u7ed3\u4e8e\u7ba1\u4f53\u7684\u5185\u8154\u4e2d\uff0c\u5bfc\u81f4\u7ba1\u4f53\u4e2d\u6240\u80fd\u6d41\u901a\u6c34\u6d41\u7684\u7a7a\u95f4\u53d8\u5c0f\uff0c\u540c\u65f6\u4e5f\u907f\u514d\u4e86\u7684\u6c34\u57a2\u8fdb\u5165\u6362\u70ed\u5668\u7684\u5185\u90e8\uff0c\u7ee7\u800c\u4f7f\u5f97\u6362\u70ed\u5668\u4e2d\u7684\u6362\u70ed\u7ba1\u7531\u4e8e\u6c34\u57a2\u7684\u8986\u76d6\u800c\u5835\u585e\uff0c\u63d0\u9ad8\u4e86\u6362\u70ed\u5668\u6574\u4f53\u8fd0\u884c\u65f6\u7684\u7a33\u5b9a\u6027\uff0c\u4e0d\u4f1a\u7531\u4e8e\u6c34\u57a2\u7684\u5e72\u6270\u800c\u5bfc\u81f4\u6362\u70ed\u6548\u7387\u4e0b\u964d\u3002",
+      "publicationNumber": "CN222336174",
+      "publicationDate": "2025-01-10",
+      "assignee": [
+        "ANHUI SAVOR MACHINERY CO.,LTD."
+      ],
+      "inventors": [
+        "LUO YONGGENG",
+        "XIONG LONG"
+      ],
+      "applicationDate": "2024-05-25",
+      "claimsCount": 7,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Thermal processes and apparatus"
+      ],
+      "score": 10.054147
+    },
+    {
+      "id": "CN-216159333-U",
+      "title": [
+        "\u4e00\u79cd\u57fa\u4e8e\u6a21\u5757\u8bbe\u8ba1\u7684\u591a\u7528\u9014\u751f\u7269\u8d28\u70ed\u98ce\u7089"
+      ],
+      "abstract": "\u672c\u5b9e\u7528\u65b0\u578b\u516c\u5f00\u4e86\u4e00\u79cd\u57fa\u4e8e\u6a21\u5757\u8bbe\u8ba1\u7684\u591a\u7528\u9014\u751f\u7269\u8d28\u70ed\u98ce\u7089\uff0c\u5305\u62ec\u7089\u4f53\u548c\u5b89\u88c5\u5728\u7089\u4f53\u5185\u90e8\u9876\u7aef\u7684\u5bfc\u70ed\u5668\uff0c\u6240\u8ff0\u67b6\u677f\u7684\u4e0a\u4fa7\u6ed1\u52a8\u8fde\u63a5\u6709\u6ed1\u63a5\u67b6\uff0c\u6240\u8ff0\u6ed1\u63a5\u67b6\u7684\u5185\u4fa7\u88c5\u653e\u6709\u6321\u5c18\u7f51\uff0c\u6240\u8ff0\u6ed1\u63a5\u67b6\u7684\u4e0a\u7aef\u56fa\u8bbe\u6709\u4e24\u4e2a\u652f\u67b6\uff0c\u6240\u8ff0\u7089\u4f53\u7684\u5185\u90e8\u8bbe\u7f6e\u6709\u4ee5\u9a71\u4f7f\u6ed1\u63a5\u67b6\u79fb\u52a8\u7684\u65cb\u52a8\u5f0f\u63a8\u6324\u673a\u6784\uff0c\u6240\u8ff0\u7089\u4f53\u7684\u5185\u90e8\u8fd8\u8bbe\u7f6e\u6709\u4ee5\u4f7f\u6ed1\u63a5\u67b6\u590d\u4f4d\u7684\u5f39\u6027\u590d\u4f4d\u673a\u6784\u3002\u672c\u5b9e\u7528\u65b0\u578b\u4e2d\uff0c\u9996\u5148\uff0c\u6321\u5c18\u7f51\u4f1a\u5bf9\u751f\u7269\u6599\u71c3\u70e7\u4ea7\u751f\u7684\u7070\u5c18\u8fdb\u884c\u963b\u6321\uff0c\u4ece\u800c\u4fdd\u969c\u5bfc\u70ed\u5668\u7684\u6301\u7eed\u5bfc\u70ed\u6548\u679c\uff0c\u540c\u65f6\u901a\u8fc7\u53ef\u62c6\u5378\u5f0f\u7684\u6321\u5c18\u7f51\uff0c\u4fbf\u4e8e\u4f7f\u7528\u4eba\u5458\u5bf9\u6321\u5c18\u7f51\u7684\u6e05\u6d17\u6216\u66f4\u6362\uff0c\u5176\u6b21\uff0c\u901a\u8fc7\u9a71\u52a8\u5957\u7684\u6301\u7eed\u5f80\u590d\u632f\u52a8\uff0c\u907f\u514d\u6321\u5c18\u7f51\u7684\u5b54\u9699\u53d1\u751f\u5835\u585e\u7684\u73b0\u8c61\uff0c\u6709\u5229\u4e8e\u5bfc\u70ed\u5668\u70ed\u91cf\u7684\u6269\u6563\u3002",
+      "publicationNumber": "CN216159333",
+      "publicationDate": "2022-04-01",
+      "assignee": [
+        "ANHUI SAVOR MACHINERY CO.,LTD."
+      ],
+      "inventors": [
+        "SONG JUNBO"
+      ],
+      "applicationDate": "2021-09-07",
+      "claimsCount": 6,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Thermal processes and apparatus"
+      ],
+      "score": 10.054147
+    },
+    {
+      "id": "CN-216154891-U",
+      "title": [
+        "\u4e00\u79cd\u7528\u4e8e\u63a7\u5236\u8c37\u7269\u6d41\u5411\u7684\u5378\u6599\u4e09\u901a"
+      ],
+      "abstract": "\u672c\u5b9e\u7528\u65b0\u578b\u516c\u5f00\u4e86\u4e00\u79cd\u7528\u4e8e\u63a7\u5236\u8c37\u7269\u6d41\u5411\u7684\u5378\u6599\u4e09\u901a\uff0c\u5305\u62ec\u5378\u6599\u4e09\u901a\u4e3b\u4f53\uff0c\u8fd8\u5305\u62ec\uff1a\u8fde\u63a5\u677f\u4e0e\u8f6c\u6746\uff0c\u4e24\u7ec4\u6240\u8ff0\u8fde\u63a5\u677f\u5206\u522b\u56fa\u5b9a\u5b89\u88c5\u4e8e\u5378\u6599\u4e09\u901a\u4e3b\u4f53\u5185\u8154\u5e95\u90e8\uff0c\u6240\u8ff0\u8f6c\u6746\u4e00\u7aef\u4e0e\u540e\u7aef\u9762\u7684\u8fde\u63a5\u677f\u5185\u8154\u5361\u5408\u8fde\u63a5\u3002\u672c\u5b9e\u7528\u65b0\u578b\u4e2d\uff0c\u901a\u8fc7\u5c06\u4e24\u7ec4\u8fde\u63a5\u677f\u56fa\u5b9a\u5b89\u88c5\u4e8e\u5378\u6599\u4e09\u901a\u4e3b\u4f53\u5185\u8154\u5e95\u90e8\uff0c\u5c06\u8f6c\u6746\u4e00\u7aef\u4e0e\u8fde\u63a5\u677f\u5361\u5408\u8fde\u63a5\uff0c\u53e6\u4e00\u7aef\u4e0e\u8fde\u63a5\u677f\u87ba\u7eb9\u65cb\u5408\u8fde\u63a5\uff0c\u63a7\u5236\u8c37\u7269\u6d41\u5411\u65f6\uff0c\u901a\u8fc7\u8f6c\u67c4\u8f6c\u52a8\u8f6c\u6746\uff0c\u7531\u4e8e\u6321\u677f\u4e0e\u8f6c\u6746\u5916\u8868\u58c1\u56fa\u5b9a\u8fde\u63a5\uff0c\u8f6c\u6746\u8f6c\u52a8\u5373\u6321\u677f\u8f6c\u52a8\uff0c\u7531\u4e8e\u8f6c\u6746\u4e00\u7aef\u4e0e\u8fde\u63a5\u677f\u87ba\u7eb9\u65cb\u5408\u8fde\u63a5\uff0c\u8f6c\u6746\u8f6c\u52a8\u65f6\u81ea\u884c\u9501\u7d27\uff0c\u6321\u677f\u53ef\u8c03\u8282\u81f3\u6307\u5b9a\u4f4d\u7f6e\uff0c\u6321\u677f\u7684\u8fd0\u52a8\u8def\u5f84\u4e0d\u53d7\u9650\u5236\uff0c\u4ece\u800c\u63d0\u9ad8\u4e86\u5378\u6599\u4e09\u901a\u7684\u4f7f\u7528\u6548\u679c\u3002",
+      "publicationNumber": "CN216154891",
+      "publicationDate": "2022-04-01",
+      "assignee": [
+        "ANHUI SAVOR MACHINERY CO.,LTD."
+      ],
+      "inventors": [
+        "SONG JUNBO"
+      ],
+      "applicationDate": "2021-09-14",
+      "claimsCount": 6,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Handling"
+      ],
+      "score": 10.049852
+    },
+    {
+      "id": "CN-215696059-U",
+      "title": [
+        "Intelligent dust removal system for grain dryer"
+      ],
+      "abstract": "\u672c\u5b9e\u7528\u65b0\u578b\u516c\u5f00\u4e86\u8c37\u7269\u70d8\u5e72\u673a\u7528\u667a\u80fd\u9664\u5c18\u7cfb\u7edf\uff0c\u5305\u62ec\u70d8\u5e72\u673a\u4e3b\u4f53\u4e0e\u6ee4\u7b52\uff0c\u8fd8\u5305\u62ec\uff1a\u4f3a\u670d\u7535\u673a\u4e0e\u5706\u73af\uff0c\u6240\u8ff0\u4f3a\u670d\u7535\u673a\u56fa\u5b9a\u5b89\u88c5\u4e8e\u70d8\u5e72\u673a\u4e3b\u4f53\u4e00\u4fa7\u5185\u8868\u58c1\uff0c\u6240\u8ff0\u4f3a\u670d\u7535\u673a\u8f93\u51fa\u7aef\u4f20\u52a8\u8fde\u63a5\u6709\u87ba\u7eb9\u6746\uff0c\u6240\u8ff0\u87ba\u7eb9\u6746\u4e00\u7aef\u4e0e\u70d8\u5e72\u673a\u4e3b\u4f53\u7ad6\u76f4\u7aef\u5185\u8868\u58c1\u8f6c\u52a8\u8fde\u63a5\uff0c\u6240\u8ff0\u6ee4\u7b52\u5e95\u90e8\u4e00\u7aef\u56fa\u5b9a\u8fde\u63a5\u6709\u56fa\u5b9a\u5757\u3002\u672c\u5b9e\u7528\u65b0\u578b\u4e2d\uff0c\u901a\u8fc7\u5728\u6ee4\u7b52\u5916\u8868\u58c1\u8bbe\u7f6e\u6709\u5237\u5757\uff0c\u5de5\u4f5c\u4eba\u5458\u901a\u8fc7\u89c2\u5bdf\u8c37\u7269\u4ece\u6ee4\u7b52\u6389\u843d\u7684\u901f\u5ea6\u6765\u6e05\u7406\u6ee4\u7b52\uff0c\u6e05\u7406\u65f6\u542f\u52a8\u4f3a\u670d\u7535\u673a\uff0c\u4f3a\u670d\u7535\u673a\u5e26\u52a8\u87ba\u7eb9\u6746\u8f6c\u52a8\u65f6\u5706\u73af\u6cbf\u7740\u6ee4\u7b52\u5916\u8868\u58c1\u5f80\u590d\u8fd0\u52a8\uff0c\u5706\u73af\u79fb\u52a8\u65f6\u5237\u5757\u968f\u4e4b\u79fb\u52a8\uff0c\u5b9e\u73b0\u6ee4\u7b52\u8868\u9762\u7070\u5c18\u7684\u6e05\u7406\uff0c\u8fdb\u800c\u63d0\u9ad8\u4e86\u70d8\u5e72\u6548\u7387\uff0c\u4ece\u800c\u63d0\u9ad8\u4e86\u8c37\u7269\u70d8\u5e72\u673a\u7684\u4f7f\u7528\u6548\u679c\u3002",
+      "publicationNumber": "CN215696059",
+      "publicationDate": "2022-02-01",
+      "assignee": [
+        "ANHUI SAVOR MACHINERY CO.,LTD."
+      ],
+      "inventors": [
+        "SONG JUNBO"
+      ],
+      "applicationDate": "2021-09-02",
+      "claimsCount": 6,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Chemical engineering"
+      ],
+      "score": 10.049852
+    },
+    {
+      "id": "CN-222718353-U",
+      "title": [
+        "\u4e00\u79cd\u56de\u6536\u70df\u7ba1\u70ed\u91cf\u7684\u70ed\u98ce\u7089"
+      ],
+      "abstract": "\u672c\u5b9e\u7528\u65b0\u578b\u516c\u5f00\u4e86\u4e00\u79cd\u56de\u6536\u70df\u7ba1\u70ed\u91cf\u7684\u70ed\u98ce\u7089\uff0c\u89e3\u51b3\u4e86\u8fc7\u6ee4\u88c5\u7f6e\u5728\u8fdb\u884c\u4f7f\u7528\u65f6\u901a\u8fc7\u63d2\u5165\u8fc7\u6ee4\u88c5\u7f6e\uff0c\u800c\u8fc7\u6ee4\u88c5\u7f6e\u5728\u8fdb\u884c\u62bd\u51fa\u6e05\u7406\u65f6\uff0c\u5411\u524d\u62bd\u51fa\uff0c\u800c\u70df\u5c18\u5728\u8fdb\u5165\u7ba1\u9053\u7684\u5185\u90e8\u65f6\uff0c\u7531\u4e8e\u8fc7\u6ee4\u963b\u6321\u7684\u539f\u56e0\uff0c\u4f1a\u4f7f\u70df\u5c18\u4e2d\u88ab\u963b\u6321\u7684\u7070\u5c18\u9644\u7740\u5728\u7ba1\u9053\u7684\u4fa7\u58c1\uff0c\u5e76\u4e14\u4e0d\u4fbf\u4e8e\u6e05\u7406\u7684\u95ee\u9898\uff0c\u5305\u62ec\u70ed\u98ce\u7089\u4e0e\u8fc7\u6ee4\u7ba1\uff0c\u6240\u8ff0\u70ed\u98ce\u7089\u7684\u53f3\u7aef\u56fa\u5b9a\u5b89\u88c5\u6709\u8fdb\u98ce\u7ba1\uff0c\u6240\u8ff0\u8fdb\u98ce\u7ba1\u7684\u53f3\u7aef\u56fa\u5b9a\u8fde\u63a5\u6709\u7b2c\u4e00\u8fde\u63a5\u7ba1\uff0c\u6240\u8ff0\u8fc7\u6ee4\u7ba1\u8bbe\u7f6e\u4e8e\u8fdb\u98ce\u7ba1\u7684\u53f3\u4fa7\uff0c\u4e14\u8fc7\u6ee4\u7ba1\u7684\u53f3\u4fa7\u8bbe\u7f6e\u6709\u7b2c\u4e8c\u8fde\u63a5\u7ba1\uff0c\u6240\u8ff0\u7b2c\u4e00\u8fde\u63a5\u7ba1\u3001\u8fc7\u6ee4\u7ba1\u4e0e\u7b2c\u4e8c\u8fde\u63a5\u7ba1\u7684\u5916\u90e8\u4fa7\u58c1\u5747\u56fa\u5b9a\u5957\u63a5\u5b89\u88c5\u6709\u8fde\u63a5\u6cd5\u5170\uff0c\u901a\u8fc7\u8bbe\u7f6e\u7684\u8fc7\u6ee4\u7ba1\u80fd\u591f\u8fdb\u884c\u62c6\u5378\u5b89\u88c5\uff0c\u80fd\u591f\u4fbf\u6377\u7684\u5bf9\u9632\u5c18\u7f51\u8fdb\u884c\u53d6\u51fa\u6e05\u7406\uff0c\u540c\u65f6\u5c06\u8fc7\u6ee4\u7ba1\u53d6\u51fa\u540e\uff0c\u4fbf\u4e8e\u5bf9\u7b2c\u4e8c\u8fde\u63a5\u7ba1\u7684\u5185\u90e8\u8fdb\u884c\u6e05\u7406\u3002",
+      "publicationNumber": "CN222718353",
+      "publicationDate": "2025-04-04",
+      "assignee": [
+        "ANHUI SAVOR MACHINERY CO.,LTD."
+      ],
+      "inventors": [
+        "LUO YONGGENG",
+        "XIONG LONG"
+      ],
+      "applicationDate": "2024-04-10",
+      "claimsCount": 4,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Environmental technology",
+        "Materials, metallurgy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 9.916725
+    },
+    {
+      "id": "CN-216159587-U",
+      "title": [
+        "\u4e00\u79cd\u7528\u4e8e\u8c37\u7269\u5904\u7406\u7684\u6279\u5f0f\u5faa\u73af\u8c37\u7269\u5e72\u71e5\u673a"
+      ],
+      "abstract": "\u672c\u5b9e\u7528\u65b0\u578b\u516c\u5f00\u4e86\u4e00\u79cd\u7528\u4e8e\u8c37\u7269\u5904\u7406\u7684\u6279\u5f0f\u5faa\u73af\u8c37\u7269\u5e72\u71e5\u673a\uff0c\u5305\u62ec\u673a\u4f53\uff0c\u6240\u8ff0\u673a\u4f53\u7684\u4e0a\u7aef\u56fa\u5b9a\u8fde\u63a5\u6709\u65b9\u677f\uff0c\u6240\u8ff0\u65b9\u677f\u4e0a\u65b9\u5bf9\u5e94\u6709\u65b9\u5757\uff0c\u6240\u8ff0\u65b9\u5757\u4e0e\u65b9\u677f\u4e4b\u95f4\u8bbe\u6709\u5f39\u529b\u4ef6\uff0c\u6240\u8ff0\u65b9\u5757\u4e0a\u5f00\u8bbe\u6709\u6ed1\u69fd\uff0c\u6240\u8ff0\u6ed1\u69fd\u5185\u6ed1\u52a8\u8fde\u63a5\u6709\u6ee4\u677f\u56fa\u5b9a\u8fde\u63a5\u7684\u6ed1\u5757\uff0c\u6240\u8ff0\u65b9\u5757\u4e4b\u95f4\u56fa\u5b9a\u8fde\u63a5\u6709\u8fde\u63a5\u677f\uff0c\u6240\u8ff0\u8fde\u63a5\u677f\u7684\u5e95\u90e8\u8bbe\u6709\u7535\u673a\uff0c\u6240\u8ff0\u7535\u673a\u7684\u8f93\u51fa\u7aef\u8fde\u63a5\u6709\u51f8\u8f6e\u3002\u672c\u5b9e\u7528\u65b0\u578b\u4e2d\uff0c\u7535\u673a\u5e26\u52a8\u51f8\u8f6e\u65cb\u8f6c\uff0c\u4ece\u800c\u4f7f\u5f97\u534a\u9f7f\u8f6e\u5728\u8f6c\u52a8\u7684\u8fc7\u7a0b\u4e2d\u63a8\u52a8\u9f7f\u6761\u79fb\u52a8\uff0c\u56e0\u6b64\u6ee4\u677f\u5728\u6c34\u5e73\u65b9\u5411\u4e0a\u6765\u56de\u8fd0\u52a8\uff0c\u4f7f\u5f97\u6ee4\u7f51\u4e0a\u7684\u8c37\u7269\u80fd\u591f\u88ab\u5747\u5300\u5316\uff0c\u4ece\u800c\u843d\u5165\u5230\u5e72\u71e5\u673a\u5185\uff0c\u7701\u53bb\u4e86\u4eba\u5de5\u64cd\u4f5c\uff0c\u66f4\u4e3a\u65b9\u4fbf\u5feb\u6377\uff0c\u51cf\u8f7b\u4e86\u5de5\u4eba\u7684\u5de5\u4f5c\u91cf\uff0c\u8c37\u7269\u7684\u5e72\u71e5\u66f4\u4e3a\u6709\u6548\u3002",
+      "publicationNumber": "CN216159587",
+      "publicationDate": "2022-04-01",
+      "assignee": [
+        "ANHUI SAVOR MACHINERY CO.,LTD."
+      ],
+      "inventors": [
+        "SONG JUNBO"
+      ],
+      "applicationDate": "2021-09-07",
+      "claimsCount": 6,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Chemical engineering",
+        "Food chemistry"
+      ],
+      "score": 9.916725
+    },
+    {
+      "id": "CN-215724970-U",
+      "title": [
+        "\u4e00\u79cd\u5e72\u71e5\u673a\u7528\u667a\u80fd\u63a7\u5236\u7bb1"
+      ],
+      "abstract": "\u672c\u5b9e\u7528\u65b0\u578b\u516c\u5f00\u4e86\u4e00\u79cd\u5e72\u71e5\u673a\u7528\u667a\u80fd\u63a7\u5236\u7bb1\uff0c\u5305\u62ec\u7bb1\u4f53\uff0c\u8fd8\u5305\u62ec\uff1a\u7b2c\u4e8c\u652f\u6491\u677f\u548c\u7b2c\u4e09\u652f\u6491\u677f\uff0c\u6240\u8ff0\u7bb1\u4f53\u7684\u4fa7\u9762\u5ef6\u4f38\u6709\u7b2c\u4e00\u652f\u6491\u677f\uff0c\u6240\u8ff0\u7b2c\u4e00\u652f\u6491\u677f\u7684\u4fa7\u9762\u4fa7\u9762\u8bbe\u7f6e\u6709\u9650\u4f4d\u677f\uff0c\u6240\u8ff0\u7b2c\u4e8c\u652f\u6491\u677f\u7684\u4fa7\u9762\u5f00\u8bbe\u6709\u9650\u4f4d\u69fd\uff0c\u6240\u8ff0\u9650\u4f4d\u677f\u4f4d\u4e8e\u6240\u8ff0\u9650\u4f4d\u69fd\u5185\uff0c\u6240\u8ff0\u9650\u4f4d\u677f\u7684\u4e24\u7aef\u4e0e\u6240\u8ff0\u9650\u4f4d\u69fd\u4e4b\u95f4\u8bbe\u7f6e\u6709\u7b2c\u4e00\u5f39\u7c27\u3002\u672c\u7533\u8bf7\u901a\u8fc7\u8bbe\u7f6e\u6709\u7bb1\u4f53\u3001\u7b2c\u4e00\u652f\u6491\u677f\u3001\u7b2c\u4e8c\u652f\u6491\u677f\u3001\u7b2c\u4e09\u652f\u6491\u677f\u3001\u9650\u4f4d\u677f\u3001\u7b2c\u4e00\u5f39\u7c27\u3001\u9650\u4f4d\u69fd\u3001\u9650\u4f4d\u6746\u3001\u7b2c\u4e8c\u5f39\u7c27\u548c\u9650\u4f4d\u6846\u7ed3\u6784\uff0c\u7b2c\u4e00\u652f\u6491\u677f\u4fa7\u9762\u8bbe\u7f6e\u7684\u9650\u4f4d\u677f\u4f4d\u4e8e\u7b2c\u4e8c\u652f\u6491\u677f\u4e0a\u7684\u9650\u4f4d\u69fd\u5185\uff0c\u9650\u4f4d\u677f\u7684\u4e24\u7aef\u8bbe\u7f6e\u6709\u7b2c\u4e00\u5f39\u7c27\uff0c\u7b2c\u4e8c\u652f\u6491\u677f\u5185\u8d2f\u7a7f\u6709\u9650\u4f4d\u6746\uff0c\u9650\u4f4d\u6746\u7684\u4e24\u7aef\u5747\u5957\u8bbe\u6709\u7b2c\u4e8c\u5f39\u7c27\uff0c\u672c\u7533\u8bf7\u901a\u8fc7\u4ee5\u4e0a\u8bbe\u7f6e\u53ef\u4ee5\u7ed9\u7bb1\u4f53\u63d0\u4f9b\u51cf\u9707\u9632\u62a4\u529f\u80fd\uff0c\u63d0\u9ad8\u63a7\u5236\u7bb1\u7684\u62b5\u6297\u529b\u3002",
+      "publicationNumber": "CN215724970",
+      "publicationDate": "2022-02-01",
+      "assignee": [
+        "ANHUI SAVOR MACHINERY CO.,LTD."
+      ],
+      "inventors": [
+        "SONG JUNBO"
+      ],
+      "applicationDate": "2021-09-02",
+      "claimsCount": 6,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Chemical engineering"
+      ],
+      "score": 9.916725
+    },
+    {
+      "id": "CN-215724969-U",
+      "title": [
+        "\u8c37\u7269\u70d8\u5e72\u673a\u7528\u7cae\u98df\u5206\u6563\u76d8"
+      ],
+      "abstract": "\u672c\u5b9e\u7528\u65b0\u578b\u516c\u5f00\u4e86\u8c37\u7269\u70d8\u5e72\u673a\u7528\u7cae\u98df\u5206\u6563\u76d8\uff0c\u5305\u62ec\u5706\u73af\uff0c\u6240\u8ff0\u5706\u73af\u7684\u5916\u5468\u8bbe\u7f6e\u6709\u81f3\u5c11\u4e09\u4e2a\u7528\u4e8e\u62b5\u63a5\u5e72\u71e5\u673a\u5185\u58c1\u7684\u652f\u6491\u7ec4\u4ef6\uff0c\u6240\u8ff0\u5706\u73af\u7684\u5185\u4fa7\u7531\u4e0a\u81f3\u4e0b\u4f9d\u6b21\u8bbe\u7f6e\u6709\u6f0f\u6597\u3001\u56fa\u5b9a\u5957\u548c\u6392\u6599\u7ba1\uff0c\u6240\u8ff0\u6392\u6599\u7ba1\u4e0a\u8bbe\u7f6e\u6709\u591a\u4e2a\u901a\u5b54\uff0c\u6240\u8ff0\u56fa\u5b9a\u5957\u548c\u6392\u6599\u7ba1\u8f6c\u52a8\u8fde\u63a5\uff0c\u6240\u8ff0\u56fa\u5b9a\u5957\u4e0a\u8bbe\u7f6e\u6709\u7528\u4e8e\u5e26\u52a8\u6392\u6599\u7ba1\u7ed5\u56fa\u5b9a\u5957\u8f6c\u52a8\u7684\u9a71\u52a8\u673a\u6784\u3002\u672c\u5b9e\u7528\u65b0\u578b\u4e2d\uff0c\u8bbe\u7f6e\u5706\u73af\uff0c\u5728\u5706\u73af\u4e0a\u8bbe\u7f6e\u6f0f\u6597\u3001\u6392\u6599\u7ba1\u4ee5\u53ca\u9a71\u52a8\u673a\u6784\uff0c\u4f7f\u7528\u65f6\uff0c\u901a\u8fc7\u8c37\u7269\u4e0b\u843d\u4ea7\u751f\u7684\u52a8\u80fd\u5e26\u52a8\u9a71\u52a8\u673a\u6784\u4f7f\u6392\u6599\u7ba1\u8f6c\u52a8\uff0c\u4ece\u800c\u5b9e\u73b0\u8c37\u7269\u5747\u5300\u5206\u6563\uff0c\u76f8\u8f83\u4e8e\u5e38\u89c4\u7684\u7535\u52a8\u9a71\u52a8\uff0c\u5177\u6709\u8282\u7701\u7a7a\u95f4\uff0c\u964d\u4f4e\u80fd\u8017\u7684\u4f18\u52bf\u3002",
+      "publicationNumber": "CN215724969",
+      "publicationDate": "2022-02-01",
+      "assignee": [
+        "ANHUI SAVOR MACHINERY CO.,LTD."
+      ],
+      "inventors": [
+        "SONG JUNBO"
+      ],
+      "applicationDate": "2021-09-02",
+      "claimsCount": 6,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Chemical engineering",
+        "Food chemistry"
+      ],
+      "score": 9.911116
+    },
+    {
+      "id": "CN-106286821-A",
+      "title": [
+        "\u4e00\u79cd\u62e8\u53c9\u6362\u6321\u7ec4\u4ef6"
+      ],
+      "abstract": "\u672c\u53d1\u660e\u6d89\u53ca\u4e00\u79cd\u62e8\u53c9\u6362\u6321\u7ec4\u4ef6\uff0c\u5305\u62ec\u6362\u6321\u8f6c\u81c2\u3001\u8f6c\u81c2\u710a\u5408\u3001\u62e8\u53c9\u8f74\u548c\u62e8\u53c9\uff0c\u5176\u4e2d\u8f6c\u81c2\u710a\u5408\u7531\u8f6c\u8f74\u3001Z\u578b\u8f6c\u81c2\u8fde\u63a5\u677f\u548c\u8f6c\u81c2\u5c0f\u8f74\u710a\u63a5\u7ec4\u6210\uff0c\u8f6c\u8f74\u4e0e\u6362\u6321\u8f6c\u81c2\u6d3b\u52a8\u8fde\u63a5\uff0c\u8f6c\u81c2\u5c0f\u8f74\u4e0e\u62e8\u53c9\u6d3b\u52a8\u8fde\u63a5\uff0c\u6240\u8ff0\u7684\u62e8\u53c9\u6d3b\u52a8\u8fde\u63a5\u5728\u62e8\u53c9\u8f74\u4e0a\u3002\u901a\u8fc7\u6273\u52a8\u6362\u6321\u8f6c\u81c2\u5e26\u52a8\u8f6c\u81c2\u710a\u5408\uff0c\u8f6c\u81c2\u710a\u5408\u7684\u8f6c\u81c2\u5c0f\u8f74\u5728\u62e8\u53c9\u7684\u51f9\u69fd\u5185\u6ed1\u52a8\uff0c\u8fdb\u800c\u5e26\u52a8\u9f7f\u8f6e\u5728\u82b1\u952e\u8f74\u4e0a\u79fb\u52a8\u3002\u62e8\u53c9\u7684\u9650\u4f4d\u5b54\u67f1\u5185\u914d\u6709\u538b\u7c27\u548c\u94a2\u7403\uff0c\u4e0e\u62e8\u53c9\u8f74\u4e0a\u7684\u9650\u4f4dU\u69fd\u914d\u5408\uff0c\u8d77\u5230\u6362\u6321\u9650\u4f4d\u7684\u4f5c\u7528\uff1b\u6362\u6321\u8f6c\u81c2\u91c7\u7528Z\u578b\u7ed3\u6784\uff0c\u4f7f\u5f97\u6362\u6321\u7a7a\u95f4\u66f4\u5927\u3001\u66f4\u7701\u529b\u3002",
+      "publicationNumber": "CN106286821",
+      "publicationDate": "2017-01-04",
+      "assignee": [
+        "ANHUI SAIWEI MACHINERY CO., LTD."
+      ],
+      "inventors": [
+        "CHEN WEI",
+        "ZHANG LIANCHUN",
+        "SONG JUNBO",
+        "GAO XUEFEI",
+        "ZHANG JIN",
+        "LIU HUILI"
+      ],
+      "applicationDate": "2015-05-29",
+      "claimsCount": 6,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Mechanical elements"
+      ],
+      "score": 9.762453
+    },
+    {
+      "id": "CN-222504856-U",
+      "title": [
+        "\u4e00\u79cd\u56de\u6536\u70d8\u5e72\u673a\u5185\u90e8\u70ed\u91cf\u7684\u70ed\u98ce\u7089"
+      ],
+      "abstract": "\u672c\u5b9e\u7528\u65b0\u578b\u5c5e\u4e8e\u70d8\u5e72\u673a\u70ed\u91cf\u56de\u6536\u6280\u672f\u9886\u57df\uff0c\u5c24\u5176\u662f\u4e00\u79cd\u56de\u6536\u70d8\u5e72\u673a\u5185\u90e8\u70ed\u91cf\u7684\u70ed\u98ce\u7089\uff0c\u5305\u62ec\u70d8\u5e72\u673a\u548c\u5b89\u88c5\u7bb1\uff0c\u6240\u8ff0\u70d8\u5e72\u673a\u7684\u4e0a\u7aef\u56fa\u5b9a\u8fde\u901a\u6709\u6392\u70df\u7ba1\uff0c\u6240\u8ff0\u6392\u70df\u7ba1\u7684\u5916\u90e8\u8bbe\u7f6e\u6709\u8854\u63a5\u88c5\u7f6e\uff0c\u6240\u8ff0\u8854\u63a5\u88c5\u7f6e\u5305\u62ec\u5b89\u88c5\u73af\u3001\u8854\u63a5\u73af\u3001\u4e24\u4e2a\u63d2\u6746\u3001\u4e24\u4e2a\u9650\u4f4d\u87ba\u6746\u548c\u4e24\u4e2a\u9650\u4f4d\u87ba\u6bcd\u3002\u8be5\u56de\u6536\u70d8\u5e72\u673a\u5185\u90e8\u70ed\u91cf\u7684\u70ed\u98ce\u7089\uff0c\u70d8\u5e72\u673a\u5de5\u4f5c\u65f6\u4ea7\u751f\u7684\u70df\u6c14\u4f1a\u4ece\u6392\u70df\u7ba1\u6392\u51fa\uff0c\u70df\u6c14\u800c\u540e\u8fdb\u5165\u6ed1\u52a8\u63d2\u7b52\u548c\u8fde\u63a5\u7ba1\u5185\uff0c\u7136\u540e\u8fdb\u5165\u5b89\u88c5\u76d2\u5185\uff0c\u6b64\u65f6\u8fc7\u6ee4\u677f\u5c06\u70df\u6c14\u5185\u7684\u6742\u8d28\u8fdb\u884c\u8fc7\u6ee4\uff0c\u6362\u70ed\u5668\u5c06\u70df\u6c14\u5185\u7684\u70ed\u91cf\u8fdb\u884c\u6362\u70ed\uff0c\u800c\u540e\u901a\u8fc7\u5b89\u88c5\u7ba1\u4f20\u5230\u70ed\u98ce\u7089\uff0c\u5e73\u5e38\u4e0d\u4f7f\u7528\u65f6\u5c06\u6ed1\u52a8\u63d2\u7b52\u4ece\u6392\u70df\u53e3\u53d6\u4e0b\uff0c\u5c06\u9650\u4f4d\u87ba\u6746\u548c\u9650\u4f4d\u87ba\u6bcd\u53d6\u4e0b\uff0c\u518d\u5c06\u63d2\u6746\u4ece\u8854\u63a5\u73af\u5185\u79fb\u51fa\u5373\u53ef\uff0c\u800c\u9700\u8981\u5bf9\u8fc7\u6ee4\u677f\u8fdb\u884c\u6e05\u7406\u65f6\uff0c\u5c06\u87ba\u7eb9\u6746\u4ece\u63d2\u5757\u5185\u53d6\u4e0b\u5373\u53ef\u3002",
+      "publicationNumber": "CN222504856",
+      "publicationDate": "2025-02-18",
+      "assignee": [
+        "ANHUI SAVOR MACHINERY CO.,LTD."
+      ],
+      "inventors": [
+        "LUO YONGGENG",
+        "XIONG LONG"
+      ],
+      "applicationDate": "2024-03-13",
+      "claimsCount": 6,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Chemical engineering",
+        "Environmental technology"
+      ],
+      "score": 9.743498
+    },
+    {
+      "id": "CN-216158248-U",
+      "title": [
+        "\u4e00\u79cd\u4e13\u7528\u8c37\u7269\u70d8\u5e72\u673a\u7684\u6362\u5411\u53d8\u901f\u7bb1"
+      ],
+      "abstract": "\u672c\u5b9e\u7528\u65b0\u578b\u516c\u5f00\u4e86\u4e00\u79cd\u4e13\u7528\u8c37\u7269\u70d8\u5e72\u673a\u7684\u6362\u5411\u53d8\u901f\u7bb1\uff0c\u5305\u62ec\u53d8\u901f\u7bb1\u4f53\u4e0e\u56fa\u5b9a\u677f\uff0c\u6240\u8ff0\u56fa\u5b9a\u677f\u5e95\u90e8\u901a\u8fc7\u7b2c\u4e00\u63d2\u5757\u4e0e\u56fa\u5b9a\u677f\u9876\u90e8\u63d2\u63a5\uff0c\u6240\u8ff0\u56fa\u5b9a\u677f\u5e95\u90e8\u56fa\u5b9a\u8fde\u63a5\u6709\u7b2c\u4e8c\u63d2\u5757\u4e0e\u7b2c\u4e09\u63d2\u5757\uff0c\u6240\u8ff0\u7b2c\u4e8c\u63d2\u5757\u5916\u8868\u58c1\u4e0e\u56fa\u5b9a\u677f\u9876\u90e8\u63d2\u63a5\u3002\u672c\u5b9e\u7528\u65b0\u578b\u4e2d\uff0c\u4f7f\u7528\u8005\u5728\u5bf9\u6362\u5411\u53d8\u901f\u7bb1\u8fdb\u884c\u7ef4\u62a4\u65f6\uff0c\u65e0\u9700\u501f\u52a9\u5916\u529b\u5de5\u5177\u5c06\u53d8\u901f\u7bb1\u4f53\u62c6\u5378\u4e0b\uff0c\u51cf\u5c11\u4e86\u4eba\u529b\u7684\u6d88\u8017\uff0c\u62c6\u5378\u65f6\uff0c\u6253\u5f00\u4fdd\u62a4\u58f3\uff0c\u62c9\u52a8\u628a\u624b\uff0c\u628a\u624b\u5e26\u52a8\u8fde\u63a5\u6746\u79fb\u52a8\uff0c\u8fde\u63a5\u6746\u79fb\u52a8\u5e26\u52a8\u8fde\u63a5\u5757\u79fb\u52a8\uff0c\u8fde\u63a5\u5757\u6324\u538b\u5f39\u7c27\uff0c\u5f53\u8fde\u63a5\u5757\u8131\u79bb\u7b2c\u4e09\u63d2\u5757\u65f6\uff0c\u7b2c\u4e8c\u63d2\u5757\u4e0e\u7b2c\u4e00\u63d2\u5757\u540c\u65f6\u4e0e\u56fa\u5b9a\u677f\u8131\u79bb\uff0c\u4fbf\u53ef\u5c06\u56fa\u5b9a\u677f\u4e0e\u53d8\u901f\u7bb1\u4f53\u5206\u79bb\uff0c\u64cd\u4f5c\u7b80\u5355\u4fbf\u6377\uff0c\u8fdb\u800c\u63d0\u9ad8\u4e86\u73b0\u6709\u7684\u4e13\u7528\u8c37\u7269\u70d8\u5e72\u673a\u7684\u6362\u5411\u53d8\u901f\u7bb1\u4f7f\u7528\u6548\u679c\u3002",
+      "publicationNumber": "CN216158248",
+      "publicationDate": "2022-04-01",
+      "assignee": [
+        "ANHUI SAVOR MACHINERY CO.,LTD."
+      ],
+      "inventors": [
+        "SONG JUNBO"
+      ],
+      "applicationDate": "2021-09-07",
+      "claimsCount": 6,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Mechanical elements"
+      ],
+      "score": 9.743498
+    },
+    {
+      "id": "CN-308949590-S",
+      "title": [
+        "\u50a8\u7269\u76d2\u7684\u4e3b\u4f53"
+      ],
+      "abstract": "1.\u672c\u5916\u89c2\u8bbe\u8ba1\u4ea7\u54c1\u7684\u540d\u79f0\uff1a\u50a8\u7269\u76d2\u7684\u4e3b\u4f53\u30022.\u672c\u5916\u89c2\u8bbe\u8ba1\u4ea7\u54c1\u7684\u7528\u9014\uff1a\u672c\u5916\u89c2\u8bbe\u8ba1\u4ea7\u54c1\u7684\u6574\u4f53\u7528\u9014\u548c\u5c40\u90e8\u7528\u9014\u5747\u7528\u4e8e\u5b58\u653e\u7eaa\u5ff5\u54c1\u548c\u76f8\u7247\u30023.\u672c\u5916\u89c2\u8bbe\u8ba1\u4ea7\u54c1\u7684\u8bbe\u8ba1\u8981\u70b9\uff1a\u5728\u4e8e\u8981\u6c42\u4fdd\u62a4\u7684\u5c40\u90e8\u5f62\u72b6\u30024.\u6700\u80fd\u8868\u660e\u8bbe\u8ba1\u8981\u70b9\u7684\u56fe\u7247\u6216\u7167\u7247\uff1a\u7acb\u4f53\u56fe\u30025.\u5176\u4ed6\u9700\u8981\u8bf4\u660e\u7684\u60c5\u5f62\u5176\u4ed6\u8bf4\u660e\uff1a\u56fe\u4e2d\u7528\u865a\u7ebf\u8868\u793a\u4e0d\u8981\u6c42\u4fdd\u62a4\u7684\u90e8\u5206\u3002",
+      "publicationNumber": "CN308949590",
+      "publicationDate": "2024-11-19",
+      "assignee": [
+        "\u54c1\u5473\u5546\u54c1\u6709\u9650\u8d23\u4efb\u516c\u53f8"
+      ],
+      "inventors": [
+        "\u5361\u62c9\u00b7\u6cf0\u52d2\u68ee"
+      ],
+      "applicationDate": "2023-05-31",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 9.670286
+    },
+    {
+      "id": "US-12374455-B2",
+      "title": [
+        "Method and apparatus for tracking food intake behaviors and providing relevant feedback"
+      ],
+      "abstract": "A sensing device monitors and tracks food intake events and details. A processor, appropriately programmed, controls aspects of the sensing device to capture data, store data, analyze data and provide suitable feedback related to food intake. More generally, the methods might include detecting, identifying, analyzing, quantifying, tracking, processing and/or influencing, related to the intake of food, eating habits, eating patterns, and/or triggers for food intake events, eating habits, or eating patterns. Feedback might be targeted for influencing the intake of food, eating habits, or eating patterns, and/or triggers for those. The sensing device can also be used to track and provide feedback beyond food-related behaviors and more generally track behavior events, detect behavior event triggers and behavior event patterns and provide suitable feedback.",
+      "publicationNumber": "US12374455",
+      "publicationDate": "2025-07-29",
+      "assignee": [
+        "MEDTRONIC MINIMED, INC."
+      ],
+      "inventors": [
+        "Katelijn Vleugels",
+        "Ronald Marianetti, II"
+      ],
+      "applicationDate": "2024-01-26",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Medical technology"
+      ],
+      "score": 9.549273
+    },
+    {
+      "id": "US-11929167-B2",
+      "title": [
+        "Method and apparatus for tracking of food intake and other behaviors and providing relevant feedback"
+      ],
+      "abstract": "A sensing device monitors and tracks food intake events and details. A processor, appropriately programmed, controls aspects of the sensing device to capture data, store data, analyze data and provide suitable feedback related to food intake. More generally, the methods might include detecting, identifying, analyzing, quantifying, tracking, processing and/or influencing, related to the intake of food, eating habits, eating patterns, and/or triggers for food intake events, eating habits, or eating patterns. Feedback might be targeted for influencing the intake of food, eating habits, or eating patterns, and/or triggers for those. The sensing device can also be used to track and provide feedback beyond food-related behaviors and more generally track behavior events, detect behavior event triggers and behavior event patterns and provide suitable feedback.",
+      "publicationNumber": "US11929167",
+      "publicationDate": "2024-03-12",
+      "assignee": [
+        "MEDTRONIC MINIMED, INC."
+      ],
+      "inventors": [
+        "Katelijn Vleugels",
+        "Ronald Marianetti, II"
+      ],
+      "applicationDate": "2021-07-19",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Medical technology"
+      ],
+      "score": 9.549273
+    },
+    {
+      "id": "US-11069443-B2",
+      "title": [
+        "Method and apparatus for tracking of food intake and other behaviors and providing relevant feedback"
+      ],
+      "abstract": "A sensing device monitors and tracks food intake events and details. A processor, appropriately programmed, controls aspects of the sensing device to capture data, store data, analyze data and provide suitable feedback related to food intake. More generally, the methods might include detecting, identifying, analyzing, quantifying, tracking, processing and/or influencing, related to the intake of food, eating habits, eating patterns, and/or triggers for food intake events, eating habits, or eating patterns. Feedback might be targeted for influencing the intake of food, eating habits, or eating patterns, and/or triggers for those. The sensing device can also be used to track and provide feedback beyond food-related behaviors and more generally track behavior events, detect behavior event triggers and behavior event patterns and provide suitable feedback.",
+      "publicationNumber": "US11069443",
+      "publicationDate": "2021-07-20",
+      "assignee": [
+        "MEDTRONIC MINIMED, INC."
+      ],
+      "inventors": [
+        "Katelijn Vleugels",
+        "Ronald Marianetti, II"
+      ],
+      "applicationDate": "2019-07-10",
+      "claimsCount": 30,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Medical technology"
+      ],
+      "score": 9.549273
+    },
+    {
+      "id": "US-10102342-B1",
+      "title": [
+        "Method and apparatus for tracking of food intake and other behaviors and providing relevant feedback"
+      ],
+      "abstract": "A sensing device monitors and tracks food intake events and details. A processor, appropriately programmed, controls aspects of the sensing device to capture data, store data, analyze data and provide suitable feedback related to food intake. More generally, the methods might include detecting, identifying, analyzing, quantifying, tracking, processing and/or influencing, related to the intake of food, eating habits, eating patterns, and/or triggers for food intake events, eating habits, or eating patterns. Feedback might be targeted for influencing the intake of food, eating habits, or eating patterns, and/or triggers for those. The sensing device can also be used to track and provide feedback beyond food-related behaviors and more generally track behavior events, detect behavior event triggers and behavior event patterns and provide suitable feedback.",
+      "publicationNumber": "US10102342",
+      "publicationDate": "2018-10-16",
+      "assignee": [
+        "KLUE, INC."
+      ],
+      "inventors": [
+        "Katelijn Vleugels",
+        "Ronald Marianetti, II"
+      ],
+      "applicationDate": "2017-02-27",
+      "claimsCount": 29,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Medical technology"
+      ],
+      "score": 9.549273
+    },
+    {
+      "id": "CN-222048472-U",
+      "title": [
+        "\u4e00\u79cd\u70d8\u5e72\u673a\u9632\u6b62\u56de\u98ce\u88c5\u7f6e"
+      ],
+      "abstract": "\u672c\u5b9e\u7528\u65b0\u578b\u6d89\u53ca\u70d8\u5e72\u673a\u6280\u672f\u9886\u57df\uff0c\u4e14\u516c\u5f00\u4e86\u4e00\u79cd\u70d8\u5e72\u673a\u9632\u6b62\u56de\u98ce\u88c5\u7f6e\uff0c\u5305\u62ec\u70d8\u5e72\u673a\u672c\u4f53\uff0c\u6240\u8ff0\u70d8\u5e72\u673a\u672c\u4f53\u7684\u5185\u90e8\u5f00\u8bbe\u6709\u70d8\u5e72\u5ba4\uff0c\u6240\u8ff0\u70d8\u5e72\u673a\u672c\u4f53\u53f3\u4fa7\u7684\u5185\u90e8\u56fa\u5b9a\u8fde\u63a5\u6709\u6696\u98ce\u673a\uff0c\u4e14\u6240\u8ff0\u6696\u98ce\u673a\u7684\u8f93\u51fa\u7aef\u4e0e\u6240\u8ff0\u70d8\u5e72\u5ba4\u76f8\u8fde\u901a\u3002\u8be5\u9632\u6b62\u56de\u98ce\u88c5\u7f6e\uff0c\u901a\u8fc7\u8bbe\u7f6e\u6696\u98ce\u673a\uff0c\u901a\u8fc7\u6696\u98ce\u673a\u7684\u8f93\u51fa\u7aef\u4ea7\u751f\u5438\u529b\uff0c\u5c06\u5916\u63a5\u7684\u51b7\u7a7a\u6c14\u7ecf\u7531\u5916\u63a5\u98ce\u7ba1\u5438\u81f3\u6696\u98ce\u673a\u7684\u5185\u90e8\u8fdb\u884c\u52a0\u70ed\u540e\uff0c\u901a\u8fc7\u6696\u98ce\u673a\u7684\u8f93\u51fa\u7aef\u5c06\u70ed\u98ce\u9001\u81f3\u70d8\u5e72\u5ba4\u4e2d\uff0c\u901a\u8fc7\u8bbe\u7f6e\u9632\u56de\u98ce\u673a\u6784\uff0c\u53ef\u4ee5\u5bf9\u6696\u98ce\u8fdb\u884c\u62e6\u622a\uff0c\u907f\u514d\u6696\u98ce\u518d\u6b21\u901a\u8fc7\u6696\u98ce\u673a\u6d41\u901a\u51fa\u53bb\uff0c\u9020\u6210\u70d8\u5e72\u5ba4\u7684\u6c14\u538b\u8fc7\u9ad8\uff0c\u5f71\u54cd\u70d8\u5e72\u673a\u672c\u4f53\u7684\u4f7f\u7528\u5bff\u547d\uff0c\u5e76\u4e14\u5728\u4e0d\u4f7f\u7528\u6696\u98ce\u673a\u7684\u65f6\u5019\uff0c\u8fd8\u53ef\u4ee5\u907f\u514d\u5916\u754c\u7684\u6742\u8d28\u6216\u868a\u866b\u7b49\u7ecf\u8fc7\u5916\u63a5\u7ba1\u9053\u548c\u6696\u98ce\u673a\u8fdb\u81f3\u70d8\u5e72\u5ba4\uff0c\u4f7f\u70d8\u5e72\u5ba4\u5185\u4fdd\u6301\u5e72\u51c0\u6574\u6d01\u3002",
+      "publicationNumber": "CN222048472",
+      "publicationDate": "2024-11-22",
+      "assignee": [
+        "ANHUI SAVOR MACHINERY CO.,LTD."
+      ],
+      "inventors": [
+        "LUO YONGGENG",
+        "XIONG LONG"
+      ],
+      "applicationDate": "2023-12-30",
+      "claimsCount": 7,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Chemical engineering"
+      ],
+      "score": 9.4943695
+    },
+    {
+      "id": "CN-216158210-U",
+      "title": [
+        "\u4e00\u79cd\u7528\u4e8e\u70d8\u5e72\u673a\u7684\u4e24\u7ea7\u53d8\u901f\u7bb1"
+      ],
+      "abstract": "\u672c\u5b9e\u7528\u65b0\u578b\u516c\u5f00\u4e86\u4e00\u79cd\u7528\u4e8e\u70d8\u5e72\u673a\u7684\u4e24\u7ea7\u53d8\u901f\u7bb1\uff0c\u5305\u62ec\u7bb1\u4f53\uff0c\u6240\u8ff0\u7bb1\u4f53\u7684\u5185\u90e8\u5e73\u884c\u8bbe\u7f6e\u6709\u4ece\u52a8\u8f74\u548c\u9a71\u52a8\u8f74\uff0c\u6240\u8ff0\u4ece\u52a8\u8f74\u7684\u5916\u4fa7\u8bbe\u7f6e\u6709\u7b2c\u4e00\u4ece\u52a8\u9f7f\u8f6e\u548c\u7b2c\u4e8c\u4ece\u52a8\u9f7f\u8f6e\uff0c\u6240\u8ff0\u9a71\u52a8\u8f74\u7684\u5916\u4fa7\u8bbe\u7f6e\u6709\u7b2c\u4e00\u9a71\u52a8\u9f7f\u8f6e\u548c\u7b2c\u4e8c\u9a71\u52a8\u9f7f\u8f6e\uff0c\u6240\u8ff0\u7b2c\u4e00\u9a71\u52a8\u9f7f\u8f6e\u548c\u6240\u8ff0\u7b2c\u4e8c\u9a71\u52a8\u9f7f\u8f6e\u4e0e\u6240\u8ff0\u9a71\u52a8\u8f74\u6ed1\u52a8\u8fde\u63a5\u3002\u672c\u7533\u8bf7\u901a\u8fc7\u8bbe\u7f6e\u6709\u3001\u7bb1\u4f53\u3001\u4ece\u52a8\u8f74\u3001\u9a71\u52a8\u8f74\u3001\u9a71\u52a8\u7535\u673a\u3001\u6c14\u7f38\u3001\u7b2c\u4e00\u4ece\u52a8\u9f7f\u8f6e\u3001\u7b2c\u4e8c\u4ece\u52a8\u9f7f\u8f6e\u3001\u7b2c\u4e8c\u9a71\u52a8\u9f7f\u8f6e\u3001\u7b2c\u4e00\u9a71\u52a8\u9f7f\u8f6e\u3001\u9650\u4f4d\u51f8\u8d77\u3001\u5957\u7b52\u3001\u9650\u4f4d\u69fd\u3001\u5957\u73af\u3001\u4f20\u52a8\u6746\u3001\u901a\u5b54\u548c\u9650\u4f4d\u5b54\u7ed3\u6784\uff0c\u4e0a\u8ff0\u591a\u4e2a\u7ed3\u6784\u7ec4\u6210\u7684\u673a\u6784\u53ef\u4ee5\u5b9e\u73b0\u4ece\u52a8\u8f74\u7684\u4e8c\u7ea7\u53d8\u901f\uff0c\u4e0d\u9700\u9891\u7e41\u6539\u53d8\u9a71\u52a8\u7535\u673a\u7684\u8f93\u51fa\u529f\u7387\u53bb\u6539\u53d8\u70d8\u5e72\u7b52\u7684\u8f6c\u901f\uff0c\u63d0\u9ad8\u9a71\u52a8\u7535\u673a\u7684\u4f7f\u7528\u5bff\u547d\u3002",
+      "publicationNumber": "CN216158210",
+      "publicationDate": "2022-04-01",
+      "assignee": [
+        "ANHUI SAVOR MACHINERY CO.,LTD."
+      ],
+      "inventors": [
+        "SONG JUNBO"
+      ],
+      "applicationDate": "2021-09-07",
+      "claimsCount": 7,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Mechanical elements"
+      ],
+      "score": 9.4943695
+    },
+    {
+      "id": "CN-105594323-A",
+      "title": [
+        "\u65cb\u8015\u673a"
+      ],
+      "abstract": "\u672c\u53d1\u660e\u516c\u5f00\u4e86\u4e00\u79cd\u65cb\u8015\u673a\uff0c\u5305\u62ec\u60ac\u6302\u67b6\u548c\u5347\u964d\u6cb9\u7f38\uff0c\u5347\u964d\u6cb9\u7f38\u4e0e\u60ac\u6302\u81c2\u8fde\u63a5\uff0c\u5e76\u80fd\u5e26\u52a8\u60ac\u6302\u81c2\u7ed5\u652f\u70b9\u8f6c\u52a8\u5b9e\u73b0\u4e0a\u4e0b\u79fb\u52a8\uff0c\u8fd8\u5305\u62ec\u8015\u6df1\u8c03\u8282\u88c5\u7f6e\uff0c\u8015\u6df1\u8c03\u8282\u88c5\u7f6e\u5305\u62ec\uff1a\u9650\u4f4d\u5f00\u5173\u548c\u8c03\u8282\u6ed1\u69fd\uff0c\u9650\u4f4d\u5f00\u5173\u901a\u8fc7\u56fa\u5b9a\u87ba\u6813\u56fa\u5b9a\u5728\u8c03\u8282\u6ed1\u69fd\u4e0a\uff0c\u8c03\u8282\u6ed1\u69fd\u56fa\u5b9a\u5728\u60ac\u6302\u81c2\u4e0b\u65b9\u7684\u60ac\u6302\u67b6\u4e0a\uff0c\u5f53\u56fa\u5b9a\u87ba\u6813\u5904\u4e8e\u677e\u52a8\u72b6\u6001\u65f6\uff0c\u9650\u4f4d\u5f00\u5173\u80fd\u5728\u8c03\u8282\u6ed1\u69fd\u7684\u69fd\u5185\u4e0a\u4e0b\u79fb\u52a8\uff0c\u9650\u4f4d\u5f00\u5173\u5728\u60ac\u6302\u81c2\u7684\u4e0b\u65b9\uff0c\u5f53\u60ac\u6302\u81c2\u4e0b\u964d\u5230\u4e00\u5b9a\u9ad8\u5ea6\u80fd\u78b0\u89e6\u5230\u9650\u4f4d\u5f00\u5173\u7684\u5f00\u5173\u6309\u94ae\u3002\u9650\u4f4d\u5f00\u5173\u4e3a\u5e38\u95ed\u72b6\u6001\uff0c\u60ac\u6302\u81c2\u78b0\u5230\u9650\u4f4d\u5f00\u5173\u5f00\u5173\u6309\u94ae\u540e\uff0c\u9650\u4f4d\u5f00\u5173\u6253\u5f00\uff0c\u63a7\u5236\u60ac\u6302\u81c2\u4e0b\u964d\u7684\u56de\u8def\u65ad\u5f00\uff0c\u60ac\u6302\u81c2\u8fbe\u5230\u5b9e\u73b0\u8bbe\u5b9a\u7684\u9ad8\u5ea6\u540e\u505c\u6b62\u4e0b\u964d\u3002\u672c\u53d1\u660e\u5bf9\u539f\u7ed3\u6784\u6539\u53d8\u4e0d\u5927\uff0c\u589e\u52a0\u7684\u6210\u672c\u5c0f\u5e76\u4e14\u64cd\u4f5c\u7b80\u5355\uff0c\u6548\u679c\u7cbe\u51c6\u3002",
+      "publicationNumber": "CN105594323",
+      "publicationDate": "2016-05-25",
+      "assignee": [
+        "ANHUI SAIWEI MACHINERY CO., LTD."
+      ],
+      "inventors": [
+        "LU SHENGAN",
+        "ZHANG LIANCHUN",
+        "SONG JUNBO",
+        "CHEN WEI",
+        "SHU SHENGLI"
+      ],
+      "applicationDate": "2014-11-13",
+      "claimsCount": 4,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Other special machines"
+      ],
+      "score": 9.450209
+    },
+    {
+      "id": "CN-106274466-A",
+      "title": [
+        "\u4e00\u79cd\u5c65\u5e26\u5f0f\u62d6\u62c9\u673a\u76f4\u8054\u4f20\u52a8\u53d8\u901f\u7bb1\u603b\u6210\u53ca\u5176\u5c65\u5e26\u5f0f\u62d6\u62c9\u673a"
+      ],
+      "abstract": "\u672c\u53d1\u660e\u6d89\u53ca\u4e00\u79cd\u5c65\u5e26\u5f0f\u62d6\u62c9\u673a\u76f4\u8054\u4f20\u52a8\u53d8\u901f\u7bb1\u603b\u6210\uff0c\u6d89\u53ca\u519c\u5de5\u62d6\u62c9\u673a\u9886\u57df\uff0c\u4f9d\u7167\u52a8\u529b\u4f20\u52a8\u987a\u5e8f\u4f9d\u6b21\u5305\u62ec\u53d1\u52a8\u673a\u3001\u4e07\u5411\u8282\u3001\u76f4\u8054\u53d8\u901f\u7bb1\u3001\u8054\u8f74\u5668\u3001\u540e\u53d8\u901f\u7bb1\uff1b\u53d1\u52a8\u673a\u63d0\u4f9b\u52a8\u529b\uff0c\u52a8\u529b\u8f93\u51fa\u529f\u7387\u901a\u8fc7\u4e07\u5411\u8282\u4f20\u9012\u7ed9\u76f4\u8054\u53d8\u901f\u7bb1\uff0c\u76f4\u8054\u53d8\u901f\u7bb1\u7684\u9f7f\u8f6e\u556e\u5408\u4f20\u9012\u529f\u7387\u81f3\u8054\u8f74\u5668\uff0c\u8054\u8f74\u5668\u901a\u8fc7\u87ba\u6813\u8fde\u63a5\u5c06\u529f\u7387\u4f20\u9012\u81f3\u540e\u53d8\u901f\u7bb1\uff0c\u4ece\u800c\u5b9e\u73b0\u52a8\u529b\u7684\u76f4\u8054\u4f20\u52a8\u3002\u672c\u53d1\u660e\u91c7\u7528\u501f\u9274\u5c65\u5e26\u5f0f\u6536\u5272\u673a\u7684\u5e95\u76d8\u7ed3\u6784\uff0c\u5e76\u5c06\u5176\u5e94\u7528\u5230\u519c\u5de5\u62d6\u62c9\u673a\u4e0a\uff0c\u89e3\u51b3\u4e86\u5357\u65b9\u4e18\u9675\u90e8\u5206\u6c34\u65f1\u7530\u65e0\u6cd5\u4f7f\u7528\u62d6\u62c9\u673a\u8015\u4f5c\u7684\u95ee\u9898\uff1b\u91c7\u7528\u72ec\u7279\u7684\u76f4\u8054\u4f20\u52a8\u673a\u5236\uff0c\u5c06\u53d1\u52a8\u673a\u8f93\u51fa\u529f\u7387\u4ee5\u76f4\u8054\u65b9\u5f0f\u4f20\u9012\u7ed9\u65cb\u8015\u673a\u3001\u8d77\u5784\u673a\u3001\u5f00\u6c9f\u673a\u7b49\u5de5\u4f5c\u90e8\u4ef6\uff0c\u63d0\u9ad8\u4e86\u53d1\u7535\u673a\u529f\u7387\u7684\u5229\u7528\u7387\u3002",
+      "publicationNumber": "CN106274466",
+      "publicationDate": "2017-01-04",
+      "assignee": [
+        "ANHUI SAIWEI MACHINERY CO., LTD."
+      ],
+      "inventors": [
+        "CHEN WEI",
+        "ZHANG LIANCHUN",
+        "SONG JUNBO",
+        "GAO XUEFEI",
+        "ZHANG JIN",
+        "LIU HUILI"
+      ],
+      "applicationDate": "2015-05-28",
+      "claimsCount": 5,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Mechanical elements",
+        "Transport"
+      ],
+      "score": 9.384617
+    },
+    {
+      "id": "CA-3214217-A1",
+      "title": [
+        "SYSTEMS AND METHODS FOR AUGMENTED AND VIRTUAL RETAIL EXPERIENCES"
+      ],
+      "abstract": "A system comprising: at least one hardware processor; and one or more software modules that are configured to, when executed by the at least one hardware processor, receive a virtual rendering option; receive an image scan of a target area, generate a retail overlay comprising at least one virtual shelf with at least one product on a display; and once the overlay is fully rendered with the at least one product, receive a user interaction; and provide content in response to the received interaction.",
+      "publicationNumber": "CA3214217",
+      "publicationDate": "2022-10-06",
+      "assignee": [
+        "LAU, Mio L.K."
+      ],
+      "inventors": [
+        "Mio L.K. LAU",
+        "Patrick C.W. LAU",
+        "JOSUE M. GONZALEZ",
+        "Jayaraj MUTHUKUMARASAMY"
+      ],
+      "applicationDate": "2022-03-31",
+      "claimsCount": 4,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "IT methods for management"
+      ],
+      "score": 9.321981
+    },
+    {
+      "id": "US-20190333634-A1",
+      "title": [
+        "METHOD AND APPARATUS FOR TRACKING OF FOOD INTAKE AND OTHER BEHAVIORS AND PROVIDING RELEVANT FEEDBACK"
+      ],
+      "abstract": "A sensing device monitors and tracks food intake events and details. A processor, appropriately programmed, controls aspects of the sensing device to capture data, store data, analyze data and provide suitable feedback related to food intake. More generally, the methods might include detecting, identifying, analyzing, quantifying, tracking, processing and/or influencing, related to the intake of food, eating habits, eating patterns, and/or triggers for food intake events, eating habits, or eating patterns. Feedback might be targeted for influencing the intake of food, eating habits, or eating patterns, and/or triggers for those. The sensing device can also be used to track and provide feedback beyond food-related behaviors and more generally track behavior events, detect behavior event triggers and behavior event patterns and provide suitable feedback.",
+      "publicationNumber": "US20190333634",
+      "publicationDate": "2019-10-31",
+      "assignee": [
+        "KLUE, INC."
+      ],
+      "inventors": [
+        "Katelijn Vleugels",
+        "Ronald Marianetti, II"
+      ],
+      "applicationDate": "2019-07-10",
+      "claimsCount": 30,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Medical technology"
+      ],
+      "score": 9.200209
+    },
+    {
+      "id": "CA-3013053-A1",
+      "title": [
+        "METHOD AND APPARATUS FOR TRACKING OF FOOD INTAKE AND OTHER BEHAVIORS AND PROVIDING RELEVANT FEEDBACK"
+      ],
+      "abstract": "A sensing device monitors and tracks food intake events and details. A processor, appropriately programmed, controls aspects of the sensing device to capture data, store data, analyze data and provide suitable feedback related to food intake. More generally, the methods might include detecting, identifying, analyzing, quantifying, tracking, processing and/or influencing, related to the intake of food, eating habits, eating patterns, and/or triggers for food intake events, eating habits, or eating patterns. Feedback might be targeted for influencing the intake of food, eating habits, or eating patterns, and/or triggers for those. The sensing device can also be used to track and provide feedback beyond food-related behaviors and more generally track behavior events, detect behavior event triggers and behavior event patterns and provide suitable feedback.",
+      "publicationNumber": "CA3013053",
+      "publicationDate": "2017-08-03",
+      "assignee": [
+        "Savor Labs, Inc."
+      ],
+      "inventors": [
+        "RONALD, II MARIANETTI",
+        "KATELIJN VLEUGELS"
+      ],
+      "applicationDate": "2017-01-30",
+      "claimsCount": 20,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Computer technology",
+        "Medical technology"
+      ],
+      "score": 9.200209
+    },
+    {
+      "id": "CN-106286818-A",
+      "title": [
+        "\u4e00\u79cd\u4f20\u52a8\u79bb\u5408\u6362\u6321\u88c5\u7f6e"
+      ],
+      "abstract": "\u672c\u53d1\u660e\u6d89\u53ca\u4e00\u79cd\u4f20\u52a8\u79bb\u5408\u6362\u6321\u88c5\u7f6e,\u6240\u8ff0\u4f20\u52a8\u79bb\u5408\u6362\u6321\u88c5\u7f6e\u5305\u62ec\u8f93\u51fa\u53cc\u8054\u9f7f\u8f6e\u3001\u8f74\u627f\u3001\u5f39\u6027\u6321\u5708\u3001\u4e09\u8f74\u9694\u5957\u3001\u8f6c\u5411\u5236\u52a8\u9f7f\u8f6e\u3001\u62e8\u5757\u3001\u8f6c\u5411\u62e8\u53c9\u710a\u5408\u3001\u79bb\u5408\u624b\u81c2\u3001\u79bb\u5408\u5239\u8f66\u7bb1\u548c\u4e09\u8f74\uff0c\u6240\u8ff0\u8f93\u51fa\u53cc\u8054\u9f7f\u8f6e\u901a\u8fc7\u8f74\u627f\u3001\u4e09\u8f74\u9694\u5957\u3001\u5f39\u6027\u6321\u5708\u3001\u8fde\u63a5\u5728\u4e09\u8f74\u4e0a\uff1b\u6240\u8ff0\u79bb\u5408\u624b\u81c2\u5b89\u88c5\u5728\u8f6c\u5411\u62e8\u53c9\u710a\u5408\u4e0a\uff1b\u6240\u8ff0\u8f6c\u5411\u62e8\u53c9\u710a\u5408\u8fde\u63a5\u62e8\u5757\u5b89\u88c5\u5728\u8f6c\u5411\u5236\u52a8\u9f7f\u8f6e\u4e0a\uff1b\u6240\u8ff0\u8f6c\u5411\u5236\u52a8\u9f7f\u8f6e\u5b89\u88c5\u5728\u4e09\u8f74\u4e0a\u4e0e\u8f93\u51fa\u53cc\u8054\u9f7f\u8f6e\u76f8\u556e\u5408\u3002\u672c\u53d1\u660e\u4f7f\u519c\u7528\u673a\u68b0\u6613\u4e8e\u64cd\u4f5c\u3001\u7ef4\u4fee\u4fdd\u517b\u65b9\u4fbf\u3001\u5e73\u7a33\u8d77\u6b65\u3001\u5b9e\u73b0\u5e73\u987a\u6362\u6321\u548c\u9632\u6b62\u4f20\u52a8\u7cfb\u8fc7\u8f7d\u3002",
+      "publicationNumber": "CN106286818",
+      "publicationDate": "2017-01-04",
+      "assignee": [
+        "ANHUI SAIWEI MACHINERY CO., LTD."
+      ],
+      "inventors": [
+        "ZHANG JIN",
+        "ZHANG LIANCHUN",
+        "CHEN WEI",
+        "SONG JUNBO",
+        "GAO XUEFEI"
+      ],
+      "applicationDate": "2015-05-28",
+      "claimsCount": 3,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Mechanical elements"
+      ],
+      "score": 9.121855
+    },
+    {
+      "id": "CN-106274457-A",
+      "title": [
+        "\u4e00\u79cd\u5c65\u5e26\u5f0f\u62d6\u62c9\u673a\u4f20\u52a8\u7bb1\u4f53\u7684\u8fde\u63a5\u7ed3\u6784"
+      ],
+      "abstract": "\u672c\u53d1\u660e\u6d89\u53ca\u4e00\u79cd\u5c65\u5e26\u5f0f\u62d6\u62c9\u673a\u4f20\u52a8\u7bb1\u4f53\u7684\u8fde\u63a5\u7ed3\u6784\uff0c\u6d89\u53ca\u519c\u5de5\u62d6\u62c9\u673a\u9886\u57df\uff0c\u5305\u62ec\u4f20\u52a8\u7bb1\u4f53\u3001\u53d1\u52a8\u673a\u98de\u8f6e\u76d8\u3001\u52a8\u529b\u76ae\u5e26\u76d8\u3001\u4e07\u5411\u8282\u3001\u8f93\u5165\u8f74\u5957\uff0c\u6240\u8ff0\u7684\u4e07\u5411\u8282\u4e00\u7aef\u8fde\u63a5\u52a8\u529b\u76ae\u5e26\u76d8\uff0c\u53e6\u4e00\u7aef\u8fde\u63a5\u4f20\u52a8\u7bb1\u4f53\u7684\u8f93\u5165\u8f74\u5957\u3002\u672c\u53d1\u660e\u91c7\u7528\u4e07\u5411\u8282\u8fde\u63a5\u7ed3\u6784\uff0c\u66ff\u6362\u539f\u6709\u7684\u76ae\u5e26\u8fde\u63a5\u7ed3\u6784\uff0c\u6539\u53d8\u4f20\u52a8\u65b9\u5f0f\uff0c\u63d0\u9ad8\u4f20\u52a8\u6548\u7387\uff0c\u51cf\u5c11\u529f\u7387\u635f\u8017\uff1b\u4e0e\u6b64\u540c\u65f6\uff0c\u4e07\u5411\u8282\u8fde\u63a5\u7ed3\u6784\u8fd8\u6709\u5141\u8bb8\u88ab\u8fde\u63a5\u96f6\u4ef6\u4e4b\u95f4\u7684\u5939\u89d2\u5728\u4e00\u5b9a\u8303\u56f4\u5185\u53d8\u5316\u3002",
+      "publicationNumber": "CN106274457",
+      "publicationDate": "2017-01-04",
+      "assignee": [
+        "ANHUI SAIWEI MACHINERY CO., LTD."
+      ],
+      "inventors": [
+        "GAO XUEFEI",
+        "ZHANG LIANCHUN",
+        "SONG JUNBO",
+        "ZHANG JIN",
+        "CHEN WEI"
+      ],
+      "applicationDate": "2015-05-28",
+      "claimsCount": 3,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Transport"
+      ],
+      "score": 9.121855
+    },
+    {
+      "id": "CN-105984715-A",
+      "title": [
+        "\u4e00\u79cd\u6597\u5f0f\u63d0\u5347\u673a\u8fdb\u6599\u88c5\u7f6e"
+      ],
+      "abstract": "\u672c\u53d1\u660e\u6d89\u53ca\u4e00\u79cd\u6597\u5f0f\u63d0\u5347\u673a\u8fdb\u6599\u88c5\u7f6e\uff0c\u6d89\u53ca\u519c\u7528\u673a\u68b0\u6280\u672f\u9886\u57df\uff0c\u5305\u62ec\u6599\u6597\u3001\u8fdb\u6599\u5f00\u5173\u677f\u548c\u8fdb\u6599\u5f00\u5173\u677f\u63d2\u69fd\u3002\u6599\u6597\u5b89\u88c5\u5728\u6597\u5f0f\u63d0\u5347\u673a\u4e0a\uff0c\u4e0e\u6597\u5f0f\u63d0\u5347\u673a\u4e4b\u95f4\u9884\u7559\u8fdb\u6599\u5f00\u5173\u677f\u63d2\u69fd\uff0c\u8fdb\u6599\u5f00\u5173\u677f\u6d3b\u52a8\u4e8e\u8fdb\u6599\u5f00\u5173\u677f\u63d2\u69fd\u5185\u3002\u8fdb\u6599\u5f00\u5173\u677f\u9644\u6709\u63d0\u5347-\u56fa\u5b9a\u88c5\u7f6e\uff0c\u65b9\u4fbf\u5bf9\u8fdb\u6599\u5f00\u5173\u677f\u8fdb\u884c\u624b\u52a8\u63d0\u5347\u548c\u56fa\u5b9a\u3002\u672c\u53d1\u660e\u8fd0\u7528\u5230\u6597\u5f0f\u63d0\u5347\u673a\u4e0a\uff0c\u53ef\u4ee5\u65b9\u4fbf\u5feb\u6377\u5730\u8c03\u8282\u8fdb\u6599\u53e3\u5927\u5c0f\u8fdb\u800c\u63a7\u5236\u8fdb\u6599\u901f\u5ea6\uff1b\u5f53\u673a\u68b0\u9700\u8981\u68c0\u4fee\u6216\u65e0\u9700\u8fdb\u6599\u65f6\uff0c\u5173\u95ed\u8fdb\u6599\u5f00\u5173\u677f\uff0c\u53ef\u4ee5\u53ca\u65f6\u8fc5\u901f\u5730\u505c\u6b62\u8fdb\u6599\u3002",
+      "publicationNumber": "CN105984715",
+      "publicationDate": "2016-10-05",
+      "assignee": [
+        "ANHUI SAIWEI MACHINERY CO., LTD."
+      ],
+      "inventors": [
+        "GAO XUEFEI",
+        "SONG JUNBO"
+      ],
+      "applicationDate": "2015-01-28",
+      "claimsCount": 3,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Handling"
+      ],
+      "score": 9.121855
+    },
+    {
+      "id": "CN-105656367-A",
+      "title": [
+        "\u8015\u6df1\u8c03\u8282\u7535\u8def"
+      ],
+      "abstract": "\u672c\u53d1\u660e\u516c\u5f00\u4e86\u4e00\u79cd\u8015\u6df1\u8c03\u8282\u7535\u8def\uff0c\u5305\u62ec\uff1a\u84c4\u7535\u6c60\u3001\u4e3b\u5f00\u5173\u3001\u4e0b\u964d\u5f00\u5173\u3001\u4e0a\u5347\u5f00\u5173\u548c\u4e24\u4e2a\u7535\u78c1\u5f00\u5173\u3002\u84c4\u7535\u6c60\u548c\u4e3b\u5f00\u5173\u4e32\u8054\uff0c\u4e0b\u964d\u5f00\u5173\u548c\u4e0a\u5347\u5f00\u5173\u5206\u522b\u4e32\u8054\u4e00\u7535\u78c1\u5f00\u5173\u540e\u5e76\u8054\uff0c\u84c4\u7535\u6c60\u548c\u4e3b\u5f00\u5173\u8fde\u6210\u7684\u4e32\u8054\u7535\u8def\u4e0e\u4e0b\u964d\u5f00\u5173\u548c\u4e0a\u5347\u5f00\u5173\u7ec4\u6210\u7684\u5e76\u8054\u7535\u8def\u4e32\u8054\u5f62\u6210\u56de\u8def\uff0c\u8fd8\u5305\u62ec\u9650\u4f4d\u5f00\u5173\uff0c\u9650\u4f4d\u5f00\u5173\u4e32\u8054\u5728\u84c4\u7535\u6c60\u3001\u4e3b\u5f00\u5173\u3001\u4e0b\u964d\u5f00\u5173\u548c\u4e0a\u5347\u5f00\u5173\u7ec4\u6210\u7684\u5e76\u8054\u7535\u8def\u4e32\u8054\u8fde\u6210\u7684\u4e32\u8054\u7535\u8def\u91cc\u3002\u9650\u4f4d\u5f00\u5173\u901a\u5e38\u4e3a\u5e38\u95ed\u72b6\u6001\u3002\u5408\u4e0a\u4e0b\u964d\u5f00\u5173\uff0c\u8015\u8019\u519c\u673a\u5177\u4e0b\u964d\uff0c\u4e0b\u964d\u5230\u4e00\u5b9a\u9ad8\u5ea6\u78b0\u89e6\u5230\u9650\u4f4d\u5f00\u5173\uff0c\u9650\u4f4d\u5f00\u5173\u6253\u5f00\uff0c\u6574\u4e2a\u7535\u8def\u65ad\u5f00\uff0c\u8015\u8019\u519c\u673a\u5177\u8fbe\u5230\u9884\u8bbe\u4f4d\u7f6e\u505c\u6b62\u4e0b\u964d\u3002\u672c\u53d1\u660e\u5bf9\u539f\u6709\u5347\u964d\u6cb9\u7f38\u4f38\u7f29\u7535\u8def\u6539\u53d8\u5f88\u5c0f\uff0c\u6210\u672c\u4f4e\u3002\u64cd\u4f5c\u65b9\u4fbf\uff0c\u6548\u679c\u597d\uff0c\u9002\u7528\u8303\u56f4\u5e7f\u3002",
+      "publicationNumber": "CN105656367",
+      "publicationDate": "2016-06-08",
+      "assignee": [
+        "ANHUI SAIWEI MACHINERY CO., LTD."
+      ],
+      "inventors": [
+        "LU SHENGAN",
+        "ZHANG LIANCHUN",
+        "SONG JUNBO",
+        "CHEN WEI",
+        "SHU SHENGLI"
+      ],
+      "applicationDate": "2014-11-13",
+      "claimsCount": 3,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 9.121855
+    },
+    {
+      "id": "US-20250308688-A1",
+      "title": [
+        "METHOD AND APPARATUS FOR TRACKING OF FOOD INTAKE AND OTHER BEHAVIORS AND PROVIDING RELEVANT FEEDBACK"
+      ],
+      "abstract": "Techniques disclosed herein relate generally to monitoring and tracking food intake events or other behaviors. In some examples, the techniques involve detecting, based on at least one of user input or sensor input from a first set of one or more sensors, a start of a food intake event; activating, in response to detecting the start of the food intake event, a second set of one or more sensors for tracking the food intake event; and determining, based on at least sensor data from the second set of one or more sensors, one or more event-specific parameters for the food intake event.",
+      "publicationNumber": "US20250308688",
+      "publicationDate": "2025-10-02",
+      "assignee": [
+        "MEDTRONIC MINIMED, INC."
+      ],
+      "inventors": [
+        "Katelijn Vleugels",
+        "Ronald Marianetti, II"
+      ],
+      "applicationDate": "2025-06-16",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Medical technology"
+      ],
+      "score": 9.117352
+    },
+    {
+      "id": "US-20240170145-A1",
+      "title": [
+        "Method and Apparatus for Tracking of Food Intake and other Behaviors and Providing Relevant Feedback"
+      ],
+      "abstract": "A sensing device monitors and tracks food intake events and details. A processor, appropriately programmed, controls aspects of the sensing device to capture data, store data, analyze data and provide suitable feedback related to food intake. More generally, the methods might include detecting, identifying, analyzing, quantifying, tracking, processing and/or influencing, related to the intake of food, eating habits, eating patterns, and/or triggers for food intake events, eating habits, or eating patterns. Feedback might be targeted for influencing the intake of food, eating habits, or eating patterns, and/or triggers for those. The sensing device can also be used to track and provide feedback beyond food-related behaviors and more generally track behavior events, detect behavior event triggers and behavior event patterns and provide suitable feedback.",
+      "publicationNumber": "US20240170145",
+      "publicationDate": "2024-05-23",
+      "assignee": [
+        "MEDTRONIC MINIMED, INC."
+      ],
+      "inventors": [
+        "Katelijn Vleugels",
+        "Ronald Marianetti, II"
+      ],
+      "applicationDate": "2024-01-26",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Medical technology"
+      ],
+      "score": 9.117352
+    },
+    {
+      "id": "US-20210350920-A1",
+      "title": [
+        "METHOD AND APPARATUS FOR TRACKING OF FOOD INTAKE AND OTHER BEHAVIORS AND PROVIDING RELEVANT FEEDBACK"
+      ],
+      "abstract": "A sensing device monitors and tracks food intake events and details. A processor, appropriately programmed, controls aspects of the sensing device to capture data, store data, analyze data and provide suitable feedback related to food intake. More generally, the methods might include detecting, identifying, analyzing, quantifying, tracking, processing and/or influencing, related to the intake of food, eating habits, eating patterns, and/or triggers for food intake events, eating habits, or eating patterns. Feedback might be targeted for influencing the intake of food, eating habits, or eating patterns, and/or triggers for those. The sensing device can also be used to track and provide feedback beyond food-related behaviors and more generally track behavior events, detect behavior event triggers and behavior event patterns and provide suitable feedback.",
+      "publicationNumber": "US20210350920",
+      "publicationDate": "2021-11-11",
+      "assignee": [
+        "MEDTRONIC MINIMED, INC."
+      ],
+      "inventors": [
+        "Katelijn Vleugels",
+        "Ronald Marianetti, II"
+      ],
+      "applicationDate": "2021-07-19",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Medical technology"
+      ],
+      "score": 9.117352
+    },
+    {
+      "id": "CN-215724978-U",
+      "title": [
+        "\u4e00\u79cd\u70d8\u5e72\u5c42\u6321\u677f\u81ea\u52a8\u66f4\u6362\u673a\u6784"
+      ],
+      "abstract": "\u672c\u5b9e\u7528\u65b0\u578b\u516c\u5f00\u4e86\u4e00\u79cd\u70d8\u5e72\u5c42\u6321\u677f\u81ea\u52a8\u66f4\u6362\u673a\u6784\uff0c\u5305\u62ec\u8c37\u7269\u70d8\u5e72\u673a\u4e3b\u4f53\u4e0e\u5e95\u5ea7\uff0c\u8fd8\u5305\u62ec\u6709\uff1a\u591a\u7ec4\u6321\u677f\u673a\u6784\uff0c\u591a\u7ec4\u6240\u8ff0\u6321\u677f\u673a\u6784\u5747\u7531\u8fb9\u6846\u4e0e\u9542\u7a7a\u6321\u677f\u7ec4\u6210\u3002\u672c\u7533\u8bf7\u4e2d\uff0c\u8bbe\u7f6e\u6709\u6709\u9542\u7a7a\u6321\u677f\u3001\u8fb9\u6846\u7ec4\u6210\u7684\u4e24\u7ec4\u6321\u677f\u673a\u6784\uff0c\u4f7f\u7528\u65f6\uff0c\u8fb9\u6846\u4e0e\u8c37\u7269\u70d8\u5e72\u673a\u4e3b\u4f53\u5185\u8868\u58c1\u76f8\u8d34\u5408\uff0c\u4f7f\u5f97\u901a\u8fc7\u8c37\u7269\u53ef\u5b8c\u6574\u7684\u901a\u8fc7\u9542\u7a7a\u6321\u677f\u4e0b\u843d\uff0c\u5728\u9700\u8981\u8fdb\u884c\u9542\u7a7a\u6321\u677f\u7684\u66f4\u6362\u65f6\uff0c\u4f3a\u670d\u7535\u673a\u5e26\u52a8\u4f20\u52a8\u6746\u8fdb\u884c\u6307\u5b9a\u5468\u671f\u7684\u8f6c\u52a8\uff0c\u4f20\u52a8\u6746\u4e0e\u8fde\u63a5\u6761\u65cb\u5408\u8fde\u63a5\u5e76\u63a8\u52a8\u5916\u4fa7\u7684\u7684\u6321\u677f\u673a\u6784\u8fdb\u884c\u6c34\u5e73\u79fb\u52a8\uff0c\u5916\u4fa7\u7684\u6321\u677f\u673a\u6784\u4f1a\u63a8\u52a8\u4e0e\u8c37\u7269\u70d8\u5e72\u673a\u4e3b\u4f53\u7ed3\u5408\u7684\u70d8\u5e72\u673a\u6784\uff0c\u76f4\u81f3\u5916\u4fa7\u7684\u6321\u677f\u673a\u6784\u5b8c\u5168\u4e0e\u8c37\u7269\u70d8\u5e72\u673a\u7ed3\u6784\uff0c\u4ee5\u5b9e\u73b0\u9542\u7a7a\u6321\u677f\u7684\u81ea\u52a8\u66f4\u6362\uff0c\u65e0\u9700\u4eba\u4e3a\u8fdb\u884c\u64cd\u4f5c\uff0c\u4ece\u800c\u63d0\u9ad8\u4e86\u70d8\u5e72\u5c42\u6321\u677f\u4f7f\u7528\u7684\u4fbf\u6377\u6027\u3002",
+      "publicationNumber": "CN215724978",
+      "publicationDate": "2022-02-01",
+      "assignee": [
+        "ANHUI SAVOR MACHINERY CO.,LTD."
+      ],
+      "inventors": [
+        "SONG JUNBO"
+      ],
+      "applicationDate": "2021-09-14",
+      "claimsCount": 6,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Chemical engineering",
+        "Food chemistry"
+      ],
+      "score": 9.117352
+    },
+    {
+      "id": "CN-106689355-A",
+      "title": [
+        "\u4e00\u79cd\u963b\u65cb\u5f0f\u81ea\u52a8\u62a5\u8b66\u5668\u88c5\u7f6e"
+      ],
+      "abstract": "\u672c\u53d1\u660e\u6d89\u53ca\u4e00\u79cd\u963b\u65cb\u5f0f\u81ea\u52a8\u62a5\u8b66\u5668\u88c5\u7f6e,\u5305\u62ec\u5fae\u63a7\u5f00\u5173\u3001\u6247\u5f62\u677f\u3001\u62a5\u8b66\u5668\u5b89\u88c5\u677f\u3001\u5f39\u7c27\u4e00\u3001\u5f39\u7c27\u4e8c\u3001\u65cb\u8f6c\u53f6\u7247\u3001\u7535\u673a\u3001\u8054\u8f74\u5668\u3001\u5957\u7ba1\u710a\u5408\u3001\u62a5\u8b66\u5668\u7f69\u710a\u5408\u548c\u87ba\u6813\uff0c\u6240\u8ff0\u65cb\u8f6c\u53f6\u7247\u7a7f\u8fc7\u5957\u7ba1\u710a\u5408\u56fa\u5b9a\u8fde\u63a5\u5728\u8054\u8f74\u5668\u4e00\u7aef\uff1b\u6240\u8ff0\u8054\u8f74\u5668\u7684\u53e6\u4e00\u7aef\u56fa\u5b9a\u8fde\u63a5\u5728\u7535\u673a\u5e95\u90e8\uff1b\u6240\u8ff0\u7535\u673a\u901a\u8fc7\u87ba\u6813\u8fde\u63a5\u5728\u6247\u5f62\u677f\u4e0a\uff1b\u6240\u8ff0\u6247\u5f62\u677f\u8fde\u63a5\u5728\u5957\u7ba1\u710a\u5408\u4e0a\uff1b\u6240\u8ff0\u5f39\u7c27\u4e00\u548c\u5f39\u7c27\u4e8c\u4e00\u7aef\u52fe\u5728\u87ba\u6813\u4e0a,\u53e6\u4e00\u7aef\u52fe\u5728\u62a5\u8b66\u5668\u5b89\u88c5\u677f\u4e0a;\u6240\u8ff0\u5fae\u63a7\u5f00\u5173\u8bbe\u7f6e\u5728\u62a5\u8b66\u5668\u5b89\u88c5\u677f\u4e0a;\u6240\u8ff0\u62a5\u8b66\u5668\u5b89\u88c5\u677f\u56fa\u5b9a\u5728\u5957\u7ba1\u710a\u5408\u4e0a;\u6240\u8ff0\u62a5\u8b66\u5668\u7f69\u710a\u5408\u56fa\u5b9a\u8fde\u63a5\u5728\u5957\u7ba1\u710a\u5408\u4e0a\u3002\u672c\u53d1\u660e\u4f7f\u519c\u7528\u673a\u68b0\u66f4\u5bb9\u6613\u63a7\u5236\u88c5\u8f7d\u8c37\u7269\u8fc7\u8f7d\u548c\u9632\u6b62\u88c5\u8f7d\u8c37\u7269\u8fc7\u8f7d\u3002",
+      "publicationNumber": "CN106689355",
+      "publicationDate": "2017-05-24",
+      "assignee": [
+        "ANHUI SAIWEI MACHINERY CO., LTD."
+      ],
+      "inventors": [
+        "ZHANG JIN",
+        "ZHANG LIANCHUN",
+        "SONG JUNBO",
+        "SHU SHENGLI",
+        "GAO XUEFEI",
+        "CHEN WEI"
+      ],
+      "applicationDate": "2015-07-24",
+      "claimsCount": 5,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Control",
+        "Food chemistry"
+      ],
+      "score": 8.9311495
+    },
+    {
+      "id": "CN-105637994-A",
+      "title": [
+        "\u8015\u6df1\u8c03\u8282\u88c5\u7f6e"
+      ],
+      "abstract": "\u672c\u53d1\u660e\u516c\u5f00\u4e86\u4e00\u79cd\u8015\u6df1\u8c03\u8282\u88c5\u7f6e\uff0c\u5305\u62ec\uff1a\u9650\u4f4d\u5f00\u5173\u3001\u9650\u4f4d\u5f00\u5173\u5b89\u88c5\u677f\u3001\u8c03\u8282\u6ed1\u69fd\u548c\u56fa\u5b9a\u87ba\u6813\uff0c\u9650\u4f4d\u5f00\u5173\u5b89\u88c5\u5728\u9650\u4f4d\u5f00\u5173\u5b89\u88c5\u677f\u4e0a\uff0c\u9650\u4f4d\u5f00\u5173\u548c\u9650\u4f4d\u5f00\u5173\u5b89\u88c5\u677f\u7ec4\u6210\u7684\u6574\u4f53\u901a\u8fc7\u56fa\u5b9a\u87ba\u6813\u56fa\u5b9a\u5728\u8c03\u8282\u6ed1\u69fd\u4e0a\uff0c\u8c03\u8282\u6ed1\u69fd\u56fa\u5b9a\u4e0d\u52a8\uff0c\u5f53\u56fa\u5b9a\u87ba\u6813\u5904\u4e8e\u677e\u52a8\u72b6\u6001\u65f6\uff0c\u9650\u4f4d\u5f00\u5173\u548c\u9650\u4f4d\u5f00\u5173\u5b89\u88c5\u677f\u80fd\u5728\u8c03\u8282\u6ed1\u69fd\u7684\u69fd\u5185\u4e0a\u4e0b\u79fb\u52a8\u3002\u8015\u6df1\u8c03\u8282\u88c5\u7f6e\u5b89\u88c5\u5728\u519c\u673a\u5177\u60ac\u6302\u81c2\u4e0b\u65b9\uff0c\u60ac\u6302\u81c2\u7528\u4e8e\u60ac\u6302\u8015\u4f5c\u7528\u7684\u5200\u9f7f\u3002\u60ac\u6302\u81c2\u4e0b\u964d\u8fc7\u7a0b\u4e2d\u80fd\u78b0\u5230\u9650\u4f4d\u5f00\u5173\u7684\u5f00\u5173\u6309\u94ae\u3002\u9650\u4f4d\u5f00\u5173\u901a\u5e38\u662f\u95ed\u5408\u72b6\u6001\uff0c\u60ac\u6302\u81c2\u4e0b\u964d\u5230\u4e00\u5b9a\u9ad8\u5ea6\uff0c\u78b0\u89e6\u9650\u4f4d\u5f00\u5173\u7684\u5f00\u5173\u6309\u94ae\uff0c\u9650\u4f4d\u5f00\u5173\u88ab\u6253\u5f00\uff0c\u60ac\u6302\u81c2\u505c\u6b62\u4e0b\u964d\u3002\u8be5\u88c5\u7f6e\u7ed3\u6784\u7b80\u5355\uff0c\u6210\u672c\u4f4e\uff0c\u53ef\u9760\u6027\u9ad8\u3002\u4e14\u53d7\u7530\u95f4\u6076\u52a3\u7684\u4f5c\u4e1a\u73af\u5883\u5f71\u54cd\u8f83\u5c0f\u3002\u540c\u65f6\u64cd\u4f5c\u7b80\u5355\u3002",
+      "publicationNumber": "CN105637994",
+      "publicationDate": "2016-06-08",
+      "assignee": [
+        "ANHUI SAIWEI MACHINERY CO., LTD."
+      ],
+      "inventors": [
+        "LU SHENGAN",
+        "ZHANG LIANCHUN",
+        "SONG JUNBO",
+        "CHEN WEI",
+        "SHU SHENGLI"
+      ],
+      "applicationDate": "2014-11-13",
+      "claimsCount": 4,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Other special machines"
+      ],
+      "score": 8.9311495
+    },
+    {
+      "id": "CN-105599814-A",
+      "title": [
+        "\u4e00\u79cd\u62d6\u62c9\u673a"
+      ],
+      "abstract": "\u672c\u53d1\u660e\u6d89\u53ca\u519c\u7528\u673a\u68b0\u9886\u57df\uff0c\u5177\u4f53\u6d89\u53ca\u4e00\u79cd\u62d6\u62c9\u673a\uff1b\u672c\u53d1\u660e\u6240\u8981\u89e3\u51b3\u7684\u6280\u672f\u95ee\u9898\u662f\uff1a\u63d0\u4f9b\u4e00\u79cd\u52a8\u529b\u4f20\u9012\u6548\u7387\u9ad8\u3001\u53ef\u5b9e\u73b0\u591a\u79cd\u4f5c\u4e1a\u529f\u80fd\u7684\u62d6\u62c9\u673a\uff1b\u672c\u53d1\u660e\u5305\u62ec\u64cd\u7eb5\u7cfb\u7edf\uff081\uff09\u3001\u884c\u8d70\u53d8\u901f\u7bb1\uff082\uff09\u3001\u5c65\u5e26\u8f6e\u7cfb\u7edf\uff083\uff09\u3001\u4fa7\u53d8\u901f\u7bb1\uff084\uff09\u3001\u540e\u53d8\u901f\u7bb1\uff085\uff09\u3001\u5e95\u76d8\u7cfb\u7edf\uff086\uff09\u3001\u60ac\u6302\u67b6\uff087\uff09\u3001\u52a8\u529b\u7cfb\u7edf\uff088\uff09\u3001\u9632\u4fa7\u7ffb\u5b89\u5168\u67b6\uff089\uff09\uff1b\u901a\u8fc7\u4ee5\u4e0a\u65b9\u6848\uff0c\u672c\u53d1\u660e\u5b9e\u73b0\u626d\u77e9\u9ad8\u6548\u4f20\u9012\uff0c\u5b9e\u73b0\u591a\u79cd\u4f5c\u4e1a\u529f\u80fd\uff0c\u5e76\u4e14\uff0c\u5404\u4e2d\u4f5c\u4e1a\u90fd\u80fd\u5728\u5404\u81ea\u6700\u9ad8\u6548\u7684\u626d\u77e9\u4e0b\u5de5\u4f5c\uff0c\u5b9e\u73b0\u52a8\u529b\u6700\u4f18\u5316\uff1b\u53e6\u5916\uff0c\u65e0\u7ea7\u53d8\u901f\u6280\u672f\u914d\u5408\u5c65\u5e26\u8f6e\uff0c\u5728\u5357\u65b9\u4e18\u9675\u5730\u5e26\uff0c\u64cd\u63a7\u6027\u6781\u4f73\u3002",
+      "publicationNumber": "CN105599814",
+      "publicationDate": "2016-05-25",
+      "assignee": [
+        "ANHUI SAIWEI MACHINERY CO., LTD."
+      ],
+      "inventors": [
+        "CHEN WEI",
+        "ZHANG LIANCHUN",
+        "SONG JUNBO",
+        "GAO XUEFEI"
+      ],
+      "applicationDate": "2016-01-25",
+      "claimsCount": 10,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Transport"
+      ],
+      "score": 8.581138
+    }
+  ]
+}

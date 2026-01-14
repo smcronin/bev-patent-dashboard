@@ -1,0 +1,11 @@
+{
+  "search_id": "search_20260114_121408",
+  "timestamp": "2026-01-14T12:14:08.378359",
+  "query_type": "ai_search",
+  "user_prompt": "PA=(Solidia) AND PD>2015",
+  "minesoft_query": "PA=(Solidia) AND PD>2015",
+  "results_count": 517,
+  "directory": "2026-01-14_solidia_and_2015",
+  "execution_time_ms": 2660.5782508850098,
+  "api_endpoint": "query"
+}

@@ -1,0 +1,6 @@
+{
+  "query": "PA=(Electric Hydrogen) AND PD>2015",
+  "query_type": "ai_search",
+  "timestamp": "2026-01-14T12:15:46.874500",
+  "user_prompt": "PA=(Electric Hydrogen) AND PD>2015"
+}

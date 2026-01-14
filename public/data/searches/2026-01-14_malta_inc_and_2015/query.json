@@ -1,0 +1,6 @@
+{
+  "query": "PA=(Malta Inc) AND PD>2015",
+  "query_type": "ai_search",
+  "timestamp": "2026-01-14T12:14:36.215917",
+  "user_prompt": "PA=(Malta Inc) AND PD>2015"
+}

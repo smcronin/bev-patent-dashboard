@@ -1,0 +1,2167 @@
+{
+  "count": 90,
+  "numFound": 90,
+  "docs": [
+    {
+      "id": "WO-2025024363-A1",
+      "title": [
+        "CELL WITH IMPROVED ABUSE TOLERANCE"
+      ],
+      "abstract": "An anode-free cell including a cathode, an anode current collector and a separator disposed between the cathode and the anode current collector. It also includes a short-circuit limitation configuration configured by (i) the anode current collector and/or the cathode current collector being a polymer current collector, and/or (ii) the cathode dimension being the same as the anode current collector and/or of the separator dimension, or the dimension of the cathode being larger than the dimension of the anode current collector. The dimension is measured in the X-axis and/or Y-axis. Another cell includes a cathode and an anode and the short-circuit limitation configuration is configured by (i) the anode current collector being a polymer anode current collector and the cathode current collector being a polymer cathode current collector; and (ii) the dimension of the anode active material layer and of the cathode active material layer being the same.",
+      "publicationNumber": "WO2025024363",
+      "publicationDate": "2025-01-30",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Qingcheng ZENG",
+        "Tushar SWAMY"
+      ],
+      "applicationDate": "2024-07-22",
+      "claimsCount": 20,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 21.117702
+    },
+    {
+      "id": "WO-2024182550-A1",
+      "title": [
+        "PRELITHIATION BY COMPOSITE LITHIUM"
+      ],
+      "abstract": "Prelithiating a cell with an initial amount of lithium by providing a substrate and generating lithium and a filler material in an amount ratio of filler material to lithium for use as components of a composite lithium. The lithium and the filler material are disposed, by pressure processing using a pressure processing machine, onto the substrate. Disposing of the lithium and the filler material is performed at the same time or sequentially. The substrate with the composite lithium is then placed into the cell.",
+      "publicationNumber": "WO2024182550",
+      "publicationDate": "2024-09-06",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Qingcheng ZENG",
+        "Peyman Sirous"
+      ],
+      "applicationDate": "2024-02-28",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 21.117702
+    },
+    {
+      "id": "ZA-202304178-B",
+      "title": [
+        "SUPPLYING POWER TO AN ELECTRIC VEHICLE"
+      ],
+      "abstract": "",
+      "publicationNumber": "ZA202304178",
+      "publicationDate": "2023-07-26",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "MUJEEB IJAZ",
+        "BRIAN MOORHEAD"
+      ],
+      "applicationDate": "2023-04-05",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 21.093075
+    },
+    {
+      "id": "WO-2025255581-A1",
+      "title": [
+        "BATTEY CELL HAVING AT LEAST THREE TERMINALS"
+      ],
+      "abstract": "A cell includes a cell housing, at least one end cap, at least three terminals, the at least three terminals including at least one positive terminal and at least one negative terminal. The cell further includes a coupling device for each of the at least three terminals, the coupling device including a busbar and a thermal interface material, the busbar being in contact with and disposed between the terminal and the thermal interface material, the busbar and the thermal interface material thermally coupling the terminal to a top or bottom cold plate. The thermal interface material further electrically insulates the top or bottom cold plate from the terminal.",
+      "publicationNumber": "WO2025255581",
+      "publicationDate": "2025-12-11",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "NATHAN SALIGA",
+        "Vignesh Sekar",
+        "Qingcheng ZENG"
+      ],
+      "applicationDate": "2025-06-09",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 21.093075
+    },
+    {
+      "id": "WO-2024229170-A1",
+      "title": [
+        "BATTERY PACKS WITH PARTIAL-POWER PROCESSING DC-DC CONVERTERS"
+      ],
+      "abstract": "Energy storage units and systems using batteries in combination with DC-DC converters are arranged in various parallel and/or series configurations to provide partial power processing through the DC-DC converters, and achieve low power loss and safe operation.",
+      "publicationNumber": "WO2024229170",
+      "publicationDate": "2024-11-07",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Aaron Christopher HARKNESS",
+        "ASHISH KUMAR"
+      ],
+      "applicationDate": "2024-05-01",
+      "claimsCount": 25,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 21.093075
+    },
+    {
+      "id": "WO-2023122118-A1",
+      "title": [
+        "SINGLE CORE CROSS-COUPLED MULTI-PHASE INDUCTOR"
+      ],
+      "abstract": "A cross-coupled multi-phase inductor (500) that includes a single core (310) and pairs of adjacent windings (302, 308) wound on the single core (310). Each member of an adjacent pair includes a first sub\u00ac winding (402) and a second sub-winding (404) which extends from the first sub-winding (402), and each member is cross-coupled with the other member of the pair. The first and second sub-windings (402, 404) of each member of the adjacent pair are disposed diametrically opposite or substantially diametrically opposite each other on the single core (310). This results in reducing core losses and increasing power conversion efficiency of the cross coupled multi-phase inductor (500).",
+      "publicationNumber": "WO2023122118",
+      "publicationDate": "2023-06-29",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "AARON C. HARKNESS"
+      ],
+      "applicationDate": "2022-12-20",
+      "claimsCount": 25,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 21.093075
+    },
+    {
+      "id": "WO-2023056071-A1",
+      "title": [
+        "LONG CYCLE LIFE LITHIUM METAL AND ANODE-FREE CELLS"
+      ],
+      "abstract": "Methods and systems for providing controlling in a repeatable manner a plurality of anode-free or lithium metal cells in a power-supply system. The cells are connected in series in one or more high energy density hybrid modules connected in parallel. Each high energy density hybrid module includes a corresponding hybrid module controller (HMC) and has a corresponding bi-directional DC-DC-converter, and each cell of the plurality of cells is independently measurable by the HMC. The corresponding bi-directional DC-DC-converter is used to charge and discharge of the plurality of cells in a repeatable manner to be within a selected state of charge (SOC) range that corresponds to a defined cycle life and energy density requirement.",
+      "publicationNumber": "WO2023056071",
+      "publicationDate": "2023-04-06",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "STEPHEN GLAZIER",
+        "LARRY BECK",
+        "STEVEN KAYE",
+        "MUJEEB IJAZ",
+        "Hezhen XIE",
+        "YADONG HUANG"
+      ],
+      "applicationDate": "2022-09-30",
+      "claimsCount": 40,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Transport"
+      ],
+      "score": 21.093075
+    },
+    {
+      "id": "WO-2022076146-A1",
+      "title": [
+        "SUPPLYING POWER TO AN ELECTRIC VEHICLE"
+      ],
+      "abstract": "A power supply system that utilizes a hybrid architecture to enable low cycle-life, high energy density chemistries to be used in rechargeable batteries to extend the range of a traction battery.",
+      "publicationNumber": "WO2022076146",
+      "publicationDate": "2022-04-14",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "MUJEEB IJAZ",
+        "BRIAN MOORHEAD"
+      ],
+      "applicationDate": "2021-09-17",
+      "claimsCount": 67,
+      "independentClaimsCount": 9,
+      "technologyFields": [
+        "Transport"
+      ],
+      "score": 21.093075
+    },
+    {
+      "id": "US-20250379280-A1",
+      "title": [
+        "OPPOSED TERMINAL CELL CONFIGURATION"
+      ],
+      "abstract": "A cell includes a cell housing, at least one end cap, at least three terminals, the at least three terminals including at least one positive terminal and at least one negative terminal. The cell further includes a coupling device for each of the at least three terminals, the coupling device including a busbar and a thermal interface material, the busbar being in contact with and disposed between the terminal and the thermal interface material, the busbar and the thermal interface material thermally coupling the terminal to a top or bottom cold plate. The thermal interface material further electrically insulates the top or bottom cold plate from the terminal.",
+      "publicationNumber": "US20250379280",
+      "publicationDate": "2025-12-11",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "NATHAN SALIGA",
+        "Vignesh Sekar",
+        "Qingcheng Zeng"
+      ],
+      "applicationDate": "2025-06-09",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 21.093075
+    },
+    {
+      "id": "EP-4408700-A1",
+      "title": [
+        "LONG CYCLE LIFE LITHIUM METAL AND ANODE-FREE CELLS"
+      ],
+      "abstract": "Methods and systems for providing controlling in a repeatable manner a plurality of anode-free or lithium metal cells in a power-supply system. The cells are connected in series in one or more high energy density hybrid modules connected in parallel. Each high energy density hybrid module includes a corresponding hybrid module controller (HMC) and has a corresponding bi-directional DC-DC-converter, and each cell of the plurality of cells is independently measurable by the HMC. The corresponding bi-directional DC-DC-converter is used to charge and discharge of the plurality of cells in a repeatable manner to be within a selected state of charge (SOC) range that corresponds to a defined cycle life and energy density requirement.",
+      "publicationNumber": "EP4408700",
+      "publicationDate": "2024-08-07",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "STEPHEN GLAZIER",
+        "LARRY BECK",
+        "STEVEN KAYE",
+        "MUJEEB IJAZ",
+        "Hezhen XIE",
+        "YADONG HUANG"
+      ],
+      "applicationDate": "2022-09-30",
+      "claimsCount": 40,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Transport"
+      ],
+      "score": 21.093075
+    },
+    {
+      "id": "EP-4225606-A4",
+      "title": [
+        "SUPPLYING POWER TO AN ELECTRIC VEHICLE"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP4225606",
+      "publicationDate": "2024-05-15",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "MUJEEB IJAZ",
+        "BRIAN MOORHEAD"
+      ],
+      "applicationDate": "2021-09-17",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 21.093075
+    },
+    {
+      "id": "EP-4225606-A1",
+      "title": [
+        "SUPPLYING POWER TO AN ELECTRIC VEHICLE"
+      ],
+      "abstract": "A power supply system that utilizes a hybrid architecture to enable low cycle-life, high energy density chemistries to be used in rechargeable batteries to extend the range of a traction battery.",
+      "publicationNumber": "EP4225606",
+      "publicationDate": "2023-08-16",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "MUJEEB IJAZ",
+        "BRIAN MOORHEAD"
+      ],
+      "applicationDate": "2021-09-17",
+      "claimsCount": 67,
+      "independentClaimsCount": 9,
+      "technologyFields": [
+        "Transport"
+      ],
+      "score": 21.093075
+    },
+    {
+      "id": "WO-2024112837-A1",
+      "title": [
+        "CELL WITH AN EXTERNAL WELDED STRUCTURE"
+      ],
+      "abstract": "A cell that includes a housing and a current collector with a protrusion. The cell also includes a cap assembly that closes the housing, the cap assembly including a terminal with a first opening, a second opening, and a terminal partition material separating the second opening from the first opening. The current collector is placed in the second opening and welded to the terminal at the first opening to form a terminal - to - current collector weld at an external area of the cell.",
+      "publicationNumber": "WO2024112837",
+      "publicationDate": "2024-05-30",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "SEONG WOO PARK",
+        "JIN SUB PARK"
+      ],
+      "applicationDate": "2023-11-22",
+      "claimsCount": 19,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 21.079784
+    },
+    {
+      "id": "WO-2023183615-A1",
+      "title": [
+        "CONFIGURABLE POWER SUPPLY SYSTEM"
+      ],
+      "abstract": "A configurable power supply system that includes batteries, isolated bi-directional DCDC converters, and contactors. Each battery has an isolated bi-directional DC-DC converter and contactors that are controlled in a sequence to pre-charge a DC-link capacitor and balance voltages of the batteries.",
+      "publicationNumber": "WO2023183615",
+      "publicationDate": "2023-09-28",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "MUJEEB IJAZ",
+        "AARON C. HARKNESS",
+        "JOHN WILLIAM WAGNER",
+        "Santhosh Abraham JOGI"
+      ],
+      "applicationDate": "2023-03-24",
+      "claimsCount": 44,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 21.079784
+    },
+    {
+      "id": "US-20250329838-A1",
+      "title": [
+        "BATTERY ENERGY STORAGE SYSTEM"
+      ],
+      "abstract": "A battery energy storage system including a housing, a top flange disposed at a top portion of the battery energy storage system, a bottom flange including a plenum, disposed at a bottom portion of the battery energy storage system, a middle web disposed between the top flange and the bottom flange, the middle web is defined by several modules arranged vertically in the housing, each of the modules including a module housing and a collection of cells. The top flange, the bottom flange, and the middle web define an I-beam structure of the battery energy storage system. A vent gas management system and a skip-module connection strategy are also disclosed.",
+      "publicationNumber": "US20250329838",
+      "publicationDate": "2025-10-23",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Mujeeb Ijaz",
+        "NATHAN SALIGA",
+        "Eric Cunningham",
+        "Emerson Miller"
+      ],
+      "applicationDate": "2025-04-03",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 21.038736
+    },
+    {
+      "id": "WO-2024206948-A1",
+      "title": [
+        "METALLIZED POLYMER CURRENT COLLECTOR-TO-TAB WELDED CONNECTION"
+      ],
+      "abstract": "An article including a first active material layer, a second active material layer positioned opposite the first active material layer, a polymer current collector layer positioned between the first active material layer and the second active material layer, and projecting beyond a first edge of the first and second active material layers. In the article, a first metal layer is welded to a first side of the polymer current collector layer at a first welding zone, a second metal layer is welded to a second side of the polymer current collector layer opposite the first side at the first welding zone, and an extension of one of the metal layers that is longer is welded to the other metal layer at a second welding zone that is opposite the first welding zone and on a side of the first welding zone that is away from the first edge.",
+      "publicationNumber": "WO2024206948",
+      "publicationDate": "2024-10-03",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Qingcheng ZENG",
+        "Peyman Sirous"
+      ],
+      "applicationDate": "2024-03-29",
+      "claimsCount": 22,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Machine tools"
+      ],
+      "score": 21.001179
+    },
+    {
+      "id": "WO-2024108196-A1",
+      "title": [
+        "CELL FORMATION"
+      ],
+      "abstract": "Apparatus and method for forming solid-electrolyte-interface layers on electrodes of a plurality of electrolytic cells involves use of a cell formation fixture configured to define a sealable and pressurizable volume containing the electrolytic cells, while exposing terminals of the cells to ambient atmospheric pressure.",
+      "publicationNumber": "WO2024108196",
+      "publicationDate": "2024-05-23",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Qingcheng ZENG",
+        "STEVEN KAYE"
+      ],
+      "applicationDate": "2023-11-17",
+      "claimsCount": 24,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 21.001179
+    },
+    {
+      "id": "WO-2024055045-A1",
+      "title": [
+        "BATTERY PACK WITH INTERLEAVED CELLS"
+      ],
+      "abstract": "A battery pack that includes a cell array, a set of first cells of the cell array disposed within the battery pack as one or more first groups of electrically coupled cells, and a set of second cells of the cell array disposed within the module housing as one or more second groups of electrically coupled cells. The set of first cells have a first chemistry, the set of second cells have a second chemistry different from the first chemistry, and the set of first cells are interleaved with the set of second cells inside the battery pack.",
+      "publicationNumber": "WO2024055045",
+      "publicationDate": "2024-03-14",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "STEVEN KAYE",
+        "Cameron David ROBERTSON",
+        "JASON DAVIS",
+        "MUJEEB IJAZ"
+      ],
+      "applicationDate": "2023-09-11",
+      "claimsCount": 20,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 21.001179
+    },
+    {
+      "id": "WO-2023122119-A1",
+      "title": [
+        "OFF-AXIS AND OFF-PLANE COMPLIANT BUSBAR"
+      ],
+      "abstract": "A busbar that includes a body having a first end corresponding to a first terminal contact area of the busbar, a second end opposite the first end, corresponding to a second terminal contact area of the busbar, and a spring-like middle portion located between the first end.",
+      "publicationNumber": "WO2023122119",
+      "publicationDate": "2023-06-29",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Hoa The TRAN",
+        "Nathan Schroeder",
+        "GARY LATHAM"
+      ],
+      "applicationDate": "2022-12-20",
+      "claimsCount": 22,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 21.001179
+    },
+    {
+      "id": "WO-2024250028-A3",
+      "title": [
+        "ELECTRODE DESIGN FOR CONTINUOUS ROLL-TO-ROLL LAMINATION"
+      ],
+      "abstract": "A cell that includes a pouch, a cathode including a cathode current collector disposed between two cathode active material layers, an anode including an anode current collector disposed between two anode active material layers, and separator disposed between the cathode and the anode. A first dimension in an X-axis and/or Y-axis of the separator, anode current collector and cathode current collector are the same. A method of manufacturing the cell includes continuous roll to roll lamination of cell components.",
+      "publicationNumber": "WO2024250028",
+      "publicationDate": "2025-01-09",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Qingcheng ZENG"
+      ],
+      "applicationDate": "2024-06-03",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 20.995256
+    },
+    {
+      "id": "WO-2024250028-A2",
+      "title": [
+        "ELECTRODE DESIGN FOR CONTINUOUS ROLL-TO-ROLL LAMINATION"
+      ],
+      "abstract": "A cell that includes a pouch, a cathode including a cathode current collector disposed between two cathode active material layers, an anode including an anode current collector disposed between two anode active material layers, and separator disposed between the cathode and the anode. A first dimension in an X-axis and/or Y-axis of the separator, anode current collector and cathode current collector are the same. A method of manufacturing the cell includes continuous roll to roll lamination of cell components.",
+      "publicationNumber": "WO2024250028",
+      "publicationDate": "2024-12-05",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Qingcheng ZENG"
+      ],
+      "applicationDate": "2024-06-03",
+      "claimsCount": 22,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 20.995256
+    },
+    {
+      "id": "WO-2024233988-A1",
+      "title": [
+        "BATTERY CELL WITH CATHODIC CAN"
+      ],
+      "abstract": "A cell that includes a can and an electrode assembly disposed in the can, the electrode assembly including at least one positive electrode and at least one negative electrode. The cell also includes a cap assembly at a positive terminal of the cell, the cap assembly includes a terminal block, a cap plate, an insulating member disposed between the terminal block and the cap plate, and a fuse disposed in a region of the insulating member. The insulating member is configured to insulate the cap plate from the terminal block, and the fuse is operable in two modes: a first cathodic mode in which the fuse electrically connects the terminal block to the cap plate and a second abuse mode in which the fuse disconnects, responsive to excessive current being generated, the terminal block from the cap plate.",
+      "publicationNumber": "WO2024233988",
+      "publicationDate": "2024-11-14",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "SANKET SUDAM MUNDHE",
+        "JIN SUB PARK",
+        "SEONG WOO PARK"
+      ],
+      "applicationDate": "2024-05-10",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 20.995256
+    },
+    {
+      "id": "WO-2023288029-A1",
+      "title": [
+        "STRUCTURAL CELL TO PACK BATTERY"
+      ],
+      "abstract": "A battery pack that includes an enclosure having at least four sidewalls and a base. An array of cells is arranged on the base, with each of the cells having a large wall surface and a small wall surface. The cells are arranged such that the large wall surfaces are parallel to each other. Components of the enclosure are made from an extrusion process and are mechanically attached or welded together. A base of the enclosure has fluid channels formed from the extrusion for use in cooling the array of cells.",
+      "publicationNumber": "WO2023288029",
+      "publicationDate": "2023-01-19",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "MUJEEB IJAZ",
+        "JASON DAVIS",
+        "TIM HUGHES",
+        "DYLAN PROPST"
+      ],
+      "applicationDate": "2022-07-14",
+      "claimsCount": 24,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 20.962427
+    },
+    {
+      "id": "WO-2023244667-A3",
+      "title": [
+        "ENERGY MANAGEMENT SYSTEM"
+      ],
+      "abstract": "An energy management system including a universal energy flow manager that has a housing, an energy storage device disposed in the housing, a power electronics module disposed in the housing and adapted to convert and manage power and a connections interface. It also includes distribution and communications module with a HVDC Bus (High-Voltage Direct Current Bus) having variable power limits that powers an entire load requirement of one or more coupled electrical loads up to a defined power limit determined by an aggregation of power from one or more coupled energy sources. The one or more coupled electrical loads and the one or more coupled energy sources are external to the universal energy flow manager and connect to the HVDC Bus through the connections interface.",
+      "publicationNumber": "WO2023244667",
+      "publicationDate": "2024-01-25",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Ahmad Z. ALBANNA",
+        "KRZYSZTOF KLESYK",
+        "YAN ZHOU",
+        "Jarold, A. GONZALEZ SOSA",
+        "RICHARD, J. HAMPO"
+      ],
+      "applicationDate": "2023-06-14",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "IT methods for management",
+        "Transport"
+      ],
+      "score": 20.962427
+    },
+    {
+      "id": "WO-2023244667-A2",
+      "title": [
+        "ENERGY MANAGEMENT SYSTEM"
+      ],
+      "abstract": "An energy management system including a universal energy flow manager that has a housing, an energy storage device disposed in the housing, a power electronics module disposed in the housing and adapted to convert and manage power and a connections interface. It also includes distribution and communications module with a HVDC Bus (High-Voltage Direct Current Bus) having variable power limits that powers an entire load requirement of one or more coupled electrical loads up to a defined power limit determined by an aggregation of power from one or more coupled energy sources. The one or more coupled electrical loads and the one or more coupled energy sources are external to the universal energy flow manager and connect to the HVDC Bus through the connections interface.",
+      "publicationNumber": "WO2023244667",
+      "publicationDate": "2023-12-21",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Ahmad Z. ALBANNA",
+        "KRZYSZTOF KLESYK",
+        "YAN ZHOU",
+        "Jarold, A. GONZALEZ SOSA",
+        "RICHARD, J. HAMPO"
+      ],
+      "applicationDate": "2023-06-14",
+      "claimsCount": 70,
+      "independentClaimsCount": 10,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "IT methods for management"
+      ],
+      "score": 20.962427
+    },
+    {
+      "id": "WO-2023225378-A1",
+      "title": [
+        "LARGE SCALE ENERGY STORAGE WITH AI-BASED GRADING AND EFFICIENCY ASSESSMENT"
+      ],
+      "abstract": "A large-scale energy storage facility that includes autonomous energy storage towers for housing cells in a manufacturing stage. Electrical energy is selectively stored in the cells from an energy source or grid as reserve energy by providing. This is performed during an inventorying stage of a manufacturing process of the cells. The energy storage includes a charge cycle that is exploited in a quality assessment process of the cells. The energy is selectively retrieved for provision back to the grid or energy source in a discharge cycle which is also exploited for quality assessment of the cells. A highly energy efficient and cost-effective framework is thus obtained from the architecture.",
+      "publicationNumber": "WO2023225378",
+      "publicationDate": "2023-11-23",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "MUJEEB IJAZ",
+        "Deeana IJAZ",
+        "SHAZAD BUTT"
+      ],
+      "applicationDate": "2023-05-19",
+      "claimsCount": 106,
+      "independentClaimsCount": 10,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 20.962427
+    },
+    {
+      "id": "WO-2023121984-A1",
+      "title": [
+        "POWER SUPPLY SYSTEM FOR POWERING A HOME"
+      ],
+      "abstract": "A power supply system for an electric vehicle that includes a battery pack, an inverter electrically coupled to the battery pack, and one or more switches disposed between the inverter and a motor of said electric vehicle. The inverter is operable, by operation of the one or more switches, in a first mode of operation to power a motor of the electric vehicle and in a second mode of operation to an entire load of the home up to a defined power limit of the battery pack.",
+      "publicationNumber": "WO2023121984",
+      "publicationDate": "2023-06-29",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "MUJEEB IJAZ"
+      ],
+      "applicationDate": "2022-12-16",
+      "claimsCount": 25,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 20.962427
+    },
+    {
+      "id": "EP-4540907-A2",
+      "title": [
+        "ENERGY MANAGEMENT SYSTEM"
+      ],
+      "abstract": "An energy management system including a universal energy flow manager that has a housing, an energy storage device disposed in the housing, a power electronics module disposed in the housing and adapted to convert and manage power and a connections interface. It also includes distribution and communications module with a HVDC Bus (High-Voltage Direct Current Bus) having variable power limits that powers an entire load requirement of one or more coupled electrical loads up to a defined power limit determined by an aggregation of power from one or more coupled energy sources. The one or more coupled electrical loads and the one or more coupled energy sources are external to the universal energy flow manager and connect to the HVDC Bus through the connections interface.",
+      "publicationNumber": "EP4540907",
+      "publicationDate": "2025-04-23",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Ahmad Z. ALBANNA",
+        "KRZYSZTOF KLESYK",
+        "YAN ZHOU",
+        "Jarold A. Gonzalez Sosa",
+        "RICHARD J. HAMPO"
+      ],
+      "applicationDate": "2023-06-14",
+      "claimsCount": 70,
+      "independentClaimsCount": 10,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "IT methods for management",
+        "Transport"
+      ],
+      "score": 20.962427
+    },
+    {
+      "id": "WO-2024020226-A1",
+      "title": [
+        "BATTERY CELL RIVETING LAMINATE STRUCTURE"
+      ],
+      "abstract": "An anode-free cell that includes a cathode and a separator-collector-separator structure. The separator-collector-separator structure includes a perforated anode current collector, and a polymer layer contiguously disposed on both surfaces of the perforated anode current collector through perforations in the perforated anode current collector. The polymer layer is a binder.",
+      "publicationNumber": "WO2024020226",
+      "publicationDate": "2024-01-25",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Qingcheng ZENG",
+        "STEVEN KAYE"
+      ],
+      "applicationDate": "2023-07-21",
+      "claimsCount": 21,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 20.933666
+    },
+    {
+      "id": "WO-2024254495-A1",
+      "title": [
+        "POWER DISTRIBUTION UNIT HAVING CONTACTORS AND SHUNT CONNECTED TO PRINTED CIRCUIT BOARD"
+      ],
+      "abstract": "Power distribution units, such as for electric vehicles, having a power distribution circuit board (28) having pin receptacles (52, 56) for receiving and electrically connecting with corresponding pins (50, 54), and electrical components (22, 24, 26) having pins (50, 54) such that the electrical components (22, 24, 26) are located in fixed proximity to the circuit board (28) to facilitate an electrical connection between a connector pin (50, 54) and a corresponding pin receptacle (52, 56) on the circuit board (28).",
+      "publicationNumber": "WO2024254495",
+      "publicationDate": "2024-12-12",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "RICHARD HAMPO",
+        "Shane GREENWOOD"
+      ],
+      "applicationDate": "2024-06-07",
+      "claimsCount": 9,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Audio-visual technology",
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 20.908245
+    },
+    {
+      "id": "WO-2024211856-A1",
+      "title": [
+        "HERMETIC SEAL STRUCTURE"
+      ],
+      "abstract": "A cell that includes a housing, a current collector placed in the housing, and a cap assembly that closes the housing. The cap assembly includes a terminal block, a cap plate, and a terminal insulator disposed between the terminal block and the cap plate. The terminal insulator is brazed at one side to the terminal block and at another side opposite to the one side to the cap plate.",
+      "publicationNumber": "WO2024211856",
+      "publicationDate": "2024-10-10",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "SANKET SUDAM MUNDHE",
+        "JIN SUB PARK",
+        "SEONG WOO PARK"
+      ],
+      "applicationDate": "2024-04-05",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 20.908245
+    },
+    {
+      "id": "WO-2024020227-A1",
+      "title": [
+        "CAP ASSEMBLY"
+      ],
+      "abstract": "A cap assembly that includes a cap plate having an upper surface and a lower surface, the cap plate being formed to seal an opening of a cell case and to have a terminal hole, an electrode terminal inserted into the terminal hole, and an insulator positioned between the cap plate and the electrode terminal and inserted into the terminal hole, with the insulator making contact with the lower surface of the cap plate. The insulator has a first unibody structure and insulates the electrode terminal from the cap plate.",
+      "publicationNumber": "WO2024020227",
+      "publicationDate": "2024-01-25",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Qingcheng ZENG",
+        "STEVEN KAYE"
+      ],
+      "applicationDate": "2023-07-21",
+      "claimsCount": 27,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 20.908245
+    },
+    {
+      "id": "WO-2023121983-A3",
+      "title": [
+        "MANUFACTURING BATTERY ELECTRODES"
+      ],
+      "abstract": "Producing an electrode by providing a solvent-free powder that includes an electrode active material and a binder, determining a temperature to be produced at a location of application of a laser beam, selecting a scan frequency at which to control oscillation of the laser beam, producing the electrode by feeding, via a powder feeder, the solvent-free powder onto a current collector and concurrently applying the laser beam to the solvent-free powder to melt the binder of the solvent-free powder at the temperature to produce a coating on the current collector.",
+      "publicationNumber": "WO2023121983",
+      "publicationDate": "2023-08-10",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "DYLAN PROPST",
+        "MUJEEB IJAZ"
+      ],
+      "applicationDate": "2022-12-16",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Materials, metallurgy"
+      ],
+      "score": 20.908245
+    },
+    {
+      "id": "WO-2023121983-A2",
+      "title": [
+        "MANUFACTURING BATTERY ELECTRODES"
+      ],
+      "abstract": "Producing an electrode by providing a solvent-free powder that includes an electrode active material and a binder, determining a temperature to be produced at a location of application of a laser beam, selecting a scan frequency at which to control oscillation of the laser beam, producing the electrode by feeding, via a powder feeder, the solvent-free powder onto a current collector and concurrently applying the laser beam to the solvent-free powder to melt the binder of the solvent-free powder at the temperature to produce a coating on the current collector.",
+      "publicationNumber": "WO2023121983",
+      "publicationDate": "2023-06-29",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "DYLAN PROPST",
+        "MUJEEB IJAZ"
+      ],
+      "applicationDate": "2022-12-16",
+      "claimsCount": 41,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Materials, metallurgy"
+      ],
+      "score": 20.908245
+    },
+    {
+      "id": "US-20230402845-A1",
+      "title": [
+        "ENERGY MANAGEMENT SYSTEM"
+      ],
+      "abstract": "An energy management system including a universal energy flow manager that has a housing, an energy storage device disposed in the housing, a power electronics module disposed in the housing and adapted to convert and manage power and a connections interface. It also includes distribution and communications module with a HVDC Bus (High-Voltage Direct Current Bus) having variable power limits that powers an entire load requirement of one or more coupled electrical loads up to a defined power limit determined by an aggregation of power from one or more coupled energy sources. The one or more coupled electrical loads and the one or more coupled energy sources are external to the universal energy flow manager and connect to the HVDC Bus through the connections interface.",
+      "publicationNumber": "US20230402845",
+      "publicationDate": "2023-12-14",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Ahmad Z. Albanna",
+        "Krzysztof Klesyk",
+        "Yan Zhou",
+        "Jarold A. Gonzalez Sosa",
+        "Richard J. Hampo"
+      ],
+      "applicationDate": "2023-06-14",
+      "claimsCount": 29,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 20.453678
+    },
+    {
+      "id": "US-20250155507-A1",
+      "title": [
+        "ISOLATION DETECTION"
+      ],
+      "abstract": "Providing a first battery and a second battery, coupling a negative terminal of the first battery to a positive terminal of the second battery at a coupling point, such that the first battery and the second battery are coupled in series, closing a first set of switches of the corresponding isolation detection circuitry of the first battery and of the second battery, and sensing a first voltage between the coupling point and a chassis ground, closing a second set of switches of the corresponding isolation detection circuitry of the first battery and of the second battery, and sensing a second voltage between the coupling point and the chassis ground, computing a total isolation resistance based on at least the first voltage and the second voltage.",
+      "publicationNumber": "US20250155507",
+      "publicationDate": "2025-05-15",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Yan Zhou"
+      ],
+      "applicationDate": "2024-11-13",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Measurement"
+      ],
+      "score": 19.885962
+    },
+    {
+      "id": "US-20250113448-A1",
+      "title": [
+        "MOLDED MOUNTING FEATURE"
+      ],
+      "abstract": "An integral mounting feature for attachment of components to a molded plastic housing component or chassis includes an embossment integrally formed with and projecting away from a main generally planar surface of the housing component or chassis, a recess that extends into the embossment from a top of the embossment, and a bore that extends from a side of the embossment perpendicular to the depth direction of the recess and that is connected with the recess.",
+      "publicationNumber": "US20250113448",
+      "publicationDate": "2025-04-03",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Daniel James Jilg",
+        "Richard Hampo"
+      ],
+      "applicationDate": "2024-10-01",
+      "claimsCount": 10,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Audio-visual technology",
+        "Mechanical elements"
+      ],
+      "score": 19.885962
+    },
+    {
+      "id": "US-20240290941-A1",
+      "title": [
+        "PRELITHIATION BY COMPOSITE LITHIUM"
+      ],
+      "abstract": "Prelithiating a cell with an initial amount of lithium by providing a substrate and generating lithium and a filler material in an amount ratio of filler material to lithium for use as components of a composite lithium. The lithium and the filler material are disposed, by pressure processing using a pressure processing machine, onto the substrate. Disposing of the lithium and the filler material is performed at the same time or sequentially. The substrate with the composite lithium is then placed into the cell.",
+      "publicationNumber": "US20240290941",
+      "publicationDate": "2024-08-29",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Qingcheng Zeng",
+        "Peyman Sirous"
+      ],
+      "applicationDate": "2024-02-28",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 19.885962
+    },
+    {
+      "id": "US-20240391355-A1",
+      "title": [
+        "SUPPLYING POWER TO AN ELECTRIC VEHICLE"
+      ],
+      "abstract": "A power supply system that utilizes a hybrid architecture to enable low cycle-life, high energy density chemistries to be used in rechargeable batteries to extend the range of a traction battery.",
+      "publicationNumber": "US20240391355",
+      "publicationDate": "2024-11-28",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Mujeeb Ijaz"
+      ],
+      "applicationDate": "2024-08-07",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 19.859745
+    },
+    {
+      "id": "US-20240372378-A1",
+      "title": [
+        "BATTERY PACKS WITH PARTIAL-POWER PROCESSING DC-DC CONVERTERS"
+      ],
+      "abstract": "Energy storage units and systems using batteries in combination with DC-DC converters are arranged in various parallel and/or series configurations to provide partial power processing through the DC-DC converters, and achieve low power loss and safe operation.",
+      "publicationNumber": "US20240372378",
+      "publicationDate": "2024-11-07",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Aaron Christopher Harkness",
+        "Ashish Kumar"
+      ],
+      "applicationDate": "2024-05-01",
+      "claimsCount": 13,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 19.859745
+    },
+    {
+      "id": "US-20240239240-A1",
+      "title": [
+        "SUPPLYING POWER TO AN ELECTRIC VEHICLE"
+      ],
+      "abstract": "A power supply system that utilizes a hybrid architecture to enable low cycle-life, high energy density chemistries to be used in rechargeable batteries to extend the range of a traction battery.",
+      "publicationNumber": "US20240239240",
+      "publicationDate": "2024-07-18",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Mujeeb Ijaz",
+        "Brian Moorhead"
+      ],
+      "applicationDate": "2023-11-13",
+      "claimsCount": 20,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 19.859745
+    },
+    {
+      "id": "US-20230197336-A1",
+      "title": [
+        "SINGLE CORE CROSS-COUPLED MULTI-PHASE INDUCTOR"
+      ],
+      "abstract": "A cross-coupled multi-phase inductor that includes a single core and pairs of adjacent windings wound on the single core. Each member of an adjacent pair includes a first sub-winding and a second sub-winding which extends from the first sub-winding and each member is cross-coupled with the other member of the pair such that the first and second sub-windings of each member of the adjacent pair are disposed diametrically opposite or substantially diametrically opposite each other on the single core. This results in reducing core losses and increasing power conversion efficiency of the cross coupled multi-phase inductor.",
+      "publicationNumber": "US20230197336",
+      "publicationDate": "2023-06-22",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Aaron C. Harkness"
+      ],
+      "applicationDate": "2022-12-20",
+      "claimsCount": 25,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 19.859745
+    },
+    {
+      "id": "US-20230106403-A1",
+      "title": [
+        "LONG CYCLE LIFE LITHIUM METAL AND ANODE-FREE CELLS"
+      ],
+      "abstract": "Methods and systems for providing controlling in a repeatable manner a plurality of anode-free or lithium metal cells in a power-supply system. The cells are connected in series in one or more high energy density hybrid modules connected in parallel. Each high energy density hybrid module includes a corresponding hybrid module controller (HMC) and has a corresponding bi-directional DC-DC-converter, and each cell of the plurality of cells is independently measurable by the HMC. The corresponding bi-directional DC-DC-converter is used to charge and discharge of the plurality of cells in a repeatable manner to be within a selected state of charge (SOC) range that corresponds to a defined cycle life and energy density requirement.",
+      "publicationNumber": "US20230106403",
+      "publicationDate": "2023-04-06",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Stephen Glazier",
+        "Larry Beck",
+        "Steven Kaye",
+        "Mujeeb Ijaz",
+        "Hezhen Xie",
+        "Yadong Huang"
+      ],
+      "applicationDate": "2022-09-30",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 19.859745
+    },
+    {
+      "id": "US-20240170815-A1",
+      "title": [
+        "CELL WITH AN EXTERNAL WELDED STRUCTURE"
+      ],
+      "abstract": "A cell that includes a housing and a current collector with a protrusion. The cell also includes a cap assembly that closes the housing, the cap assembly including a terminal with a first opening, a second opening, and a terminal partition material separating the second opening from the first opening. The current collector is placed in the second opening and welded to the terminal at the first opening to form a terminal-to-current collector weld at an external area of the cell.",
+      "publicationNumber": "US20240170815",
+      "publicationDate": "2024-05-23",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Seong Woo Park",
+        "Jin Sub Park"
+      ],
+      "applicationDate": "2023-11-21",
+      "claimsCount": 19,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 19.851526
+    },
+    {
+      "id": "US-20230378770-A1",
+      "title": [
+        "CONFIGURABLE POWER SUPPLY SYSTEM"
+      ],
+      "abstract": "A configurable power supply system that includes batteries, isolated bi-directional DC-DC converters, and contactors. Each battery has an isolated bi-directional DC-DC converter and contactors that are controlled in a sequence to pre-charge a DC-link capacitor and balance voltages of the batteries.",
+      "publicationNumber": "US20230378770",
+      "publicationDate": "2023-11-23",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Mujeeb Ijaz",
+        "Aaron C. Harkness",
+        "John William Wagner",
+        "Santhosh Abraham Jogi"
+      ],
+      "applicationDate": "2023-03-24",
+      "claimsCount": 21,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 19.851526
+    },
+    {
+      "id": "US-20240332540-A1",
+      "title": [
+        "METALLIZED POLYMER CURRENT COLLECTOR-TO-TAB WELDED CONNECTION"
+      ],
+      "abstract": "An article including a first active material layer, a second active material layer positioned opposite the first active material layer, a polymer current collector layer positioned between the first active material layer and the second active material layer, and projecting beyond a first edge of the first and second active material layers. In the article, a first metal layer is welded to a first side of the polymer current collector layer at a first welding zone, a second metal layer is welded to a second side of the polymer current collector layer opposite the first side at the first welding zone, and an extension of one of the metal layers that is longer is welded to the other metal layer at a second welding zone that is opposite the first welding zone and on a side of the first welding zone that is away from the first edge.",
+      "publicationNumber": "US20240332540",
+      "publicationDate": "2024-10-03",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Qingcheng Zeng",
+        "Peyman Sirous"
+      ],
+      "applicationDate": "2024-03-29",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 19.77598
+    },
+    {
+      "id": "US-20240170689-A1",
+      "title": [
+        "ELECTROLYTIC CELL FORMATION"
+      ],
+      "abstract": "Apparatus and method for forming solid-electrolyte-interface layers on electrodes of a plurality of electrolytic cells involves use of a cell formation fixture configured to define a scalable and pressurizable volume containing the electrolytic cells, while exposing terminals of the cells to ambient atmospheric pressure.",
+      "publicationNumber": "US20240170689",
+      "publicationDate": "2024-05-23",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Qingcheng Zeng",
+        "Steven Kaye"
+      ],
+      "applicationDate": "2023-11-17",
+      "claimsCount": 24,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 19.77598
+    },
+    {
+      "id": "US-20240088510-A1",
+      "title": [
+        "BATTERY PACK WITH INTERLEAVED CELLS"
+      ],
+      "abstract": "A battery pack that includes a cell array, a set of first cells of the cell array disposed within the battery pack as one or more first groups of electrically coupled cells, and a set of second cells of the cell array disposed within the module housing as one or more second groups of electrically coupled cells. The set of first cells have a first chemistry, the set of second cells have a second chemistry different from the first chemistry, and the set of first cells are interleaved with the set of second cells inside the battery pack.",
+      "publicationNumber": "US20240088510",
+      "publicationDate": "2024-03-14",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Steven Kaye",
+        "Cameron David Robertson",
+        "Jason Davis",
+        "Mujeeb Ijaz"
+      ],
+      "applicationDate": "2023-09-11",
+      "claimsCount": 21,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 19.77598
+    },
+    {
+      "id": "US-20230198100-A1",
+      "title": [
+        "OFF-AXIS AND OFF-PLANE COMPLIANT BUSBAR"
+      ],
+      "abstract": "A busbar that includes a body having a first end corresponding to a first terminal contact area of the busbar, a second end opposite the first end, corresponding to a second terminal contact area of the busbar, and a spring-like middle portion located between the first end.",
+      "publicationNumber": "US20230198100",
+      "publicationDate": "2023-06-22",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Hoa The Tran",
+        "Nathan SCHROEDER",
+        "Gary Latham"
+      ],
+      "applicationDate": "2022-12-20",
+      "claimsCount": 22,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 19.77598
+    },
+    {
+      "id": "US-20240405289-A1",
+      "title": [
+        "ELECTRODE DESIGN FOR CONTINUOUS ROLL-TO-ROLL LAMINATION"
+      ],
+      "abstract": "A cell that includes a pouch, a cathode including a cathode current collector disposed between two cathode active material layers, an anode including an anode current collector disposed between two anode active material layers, and separator disposed between the cathode and the anode. A first dimension in an X-axis and/or Y-axis of the separator, anode current collector and cathode current collector are the same. A method of manufacturing the cell includes continuous roll to roll lamination of cell components.",
+      "publicationNumber": "US20240405289",
+      "publicationDate": "2024-12-05",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Qingcheng Zeng"
+      ],
+      "applicationDate": "2024-06-03",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 19.768518
+    },
+    {
+      "id": "US-20240380087-A1",
+      "title": [
+        "BATTERY CELL WITH CATHODIC CAN"
+      ],
+      "abstract": "A cell that includes a can and an electrode assembly disposed in the can, the electrode assembly including at least one positive electrode and at least one negative electrode. The cell also includes a cap assembly at a positive terminal of the cell, the cap assembly includes a terminal block, a cap plate, an insulating member disposed between the terminal block and the cap plate, and a fuse disposed in a region of the insulating member. The insulating member is configured to insulate the cap plate from the terminal block, and the fuse is operable in two modes: a first cathodic mode in which the fuse electrically connects the terminal block to the cap plate and a second abuse mode in which the fuse disconnects, responsive to excessive current being generated, the terminal block from the cap plate.",
+      "publicationNumber": "US20240380087",
+      "publicationDate": "2024-11-14",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Sanket Sudam Mundhe",
+        "Jin Sub Park",
+        "Seong Woo Park"
+      ],
+      "applicationDate": "2024-05-10",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 19.768518
+    },
+    {
+      "id": "US-20230191947-A1",
+      "title": [
+        "LOW TEMPERATURE SECONDARY BATTERY"
+      ],
+      "abstract": "A power supply system that includes a traction battery, and a secondary battery that includes one or more hybrid modules having one or more low temperature chemistries. The power supply system also has one or more temperature sensors, and a switching device that connects or disconnects the secondary battery or the traction battery from a high-voltage DC (Direct Current) bus of an electric vehicle based on measurements of the one or more temperature sensors.",
+      "publicationNumber": "US20230191947",
+      "publicationDate": "2023-06-22",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Dylan Propst",
+        "Mujeeb Ijaz"
+      ],
+      "applicationDate": "2022-12-16",
+      "claimsCount": 31,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 19.757086
+    },
+    {
+      "id": "US-20250125327-A1",
+      "title": [
+        "CURRENT COLLECTOR MATING"
+      ],
+      "abstract": "A method including melting a metallic material, converting the metallic material into an aerosolized metal spray, reducing a temperature of the aerosolized metal spray from a first temperature to a second temperature by generating a temperature gradient for transmission of the aerosolized metal spray, and transmitting the aerosolized metal spray through or using the temperature gradient. In the method a substrate is coated with the aerosolized metal spray prior to solidification of the aerosolized metal spray to form a solidified metal-to-substrate bond, which is a mechanical and an electrical bond.",
+      "publicationNumber": "US20250125327",
+      "publicationDate": "2025-04-17",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Peyman James Sirous",
+        "Qingcheng Zeng",
+        "Julie Goetz"
+      ],
+      "applicationDate": "2024-10-11",
+      "claimsCount": 21,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 19.737385
+    },
+    {
+      "id": "US-20230378756-A1",
+      "title": [
+        "LARGE SCALE ENERGY STORAGE WITH AI-BASED GRADING AND EFFICIENCY ASSESSMENT"
+      ],
+      "abstract": "A large-scale energy storage facility that includes autonomous energy storage towers for housing cells in a manufacturing stage. Electrical energy is selectively stored in the cells from an energy source or grid as reserve energy by providing. This is performed during an inventorying stage of a manufacturing process of the cells. The energy storage includes a charge cycle that is exploited in a quality assessment process of the cells. The energy is selectively retrieved for provision back to the grid or energy source in a discharge cycle which is also exploited for quality assessment of the cells. A highly energy efficient and cost-effective framework is thus obtained from the architecture.",
+      "publicationNumber": "US20230378756",
+      "publicationDate": "2023-11-23",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Mujeeb Ijaz",
+        "Deeana Ijaz",
+        "Shazad Butt"
+      ],
+      "applicationDate": "2023-05-19",
+      "claimsCount": 20,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 19.737385
+    },
+    {
+      "id": "US-20230191940-A1",
+      "title": [
+        "POWER SUPPLY SYSTEM FOR POWERING A HOME"
+      ],
+      "abstract": "A power supply system for an electric vehicle that includes a battery pack, an inverter electrically coupled to the battery pack, and one or more switches disposed between the inverter and a motor of said electric vehicle. The inverter is operable, by operation of the one or more switches, in a first mode of operation to power a motor of the electric vehicle and in a second mode of operation to an entire load of the home up to a defined power limit of the battery pack.",
+      "publicationNumber": "US20230191940",
+      "publicationDate": "2023-06-22",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Mujeeb Ijaz"
+      ],
+      "applicationDate": "2022-12-16",
+      "claimsCount": 25,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 19.737385
+    },
+    {
+      "id": "US-20230026549-A1",
+      "title": [
+        "STRUCTURAL CELL TO PACK BATTERY"
+      ],
+      "abstract": "A battery pack that includes an enclosure having at least four sidewalls and a base. An array of cells is arranged on the base, with each of the cells having a large wall surface and a small wall surface. The cells are arranged such that the large wall surfaces are parallel to each other. Components of the enclosure are made from an extrusion process and are mechanically attached or welded together. A base of the enclosure has fluid channels formed from the extrusion for use in cooling the array of cells.",
+      "publicationNumber": "US20230026549",
+      "publicationDate": "2023-01-26",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Mujeeb Ijaz",
+        "Jason Davis",
+        "Tim Hughes",
+        "Dylan Propst"
+      ],
+      "applicationDate": "2022-07-14",
+      "claimsCount": 22,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 19.737385
+    },
+    {
+      "id": "US-20250158430-A1",
+      "title": [
+        "SELF-RECOVERY MODULE"
+      ],
+      "abstract": "A power supply system including a controller, a high-voltage battery, a low-voltage electric storage device operatively coupled to the high-voltage battery through a positive and a negative contactor, and a self-recovery module that bypasses the positive and negative contactors and is directly and electrically connected to the high-voltage battery. The self-recovery module includes a step-down converter and a charging circuit. The controller is configured to sense a voltage of the low-voltage electric storage device and charge the low-voltage electric storage device via the charging circuit responsive to sensing the voltage to be below a predetermined threshold.",
+      "publicationNumber": "US20250158430",
+      "publicationDate": "2025-05-15",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Krzysztof Klesyk",
+        "Yingying Gui",
+        "Yan Zhou",
+        "Richard Hampo"
+      ],
+      "applicationDate": "2024-11-11",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 19.722477
+    },
+    {
+      "id": "US-20250158133-A1",
+      "title": [
+        "ANODE-FREE CELL WITH CONTINUOUS STACKING FOLD"
+      ],
+      "abstract": "An anode-free cell including a housing and a plurality of cathode layers each cathode layer includes a cathode current collector disposed between two cathode active material layers. The anode-free cell also includes a pair of separators, and an anode current collector laminated in between the pair of separators to form a continuous laminated separator-current collector-separator layer. The continuous laminated separator-current collector-separator layer is positioned in between adjacent cathode layers of the plurality of cathode layers in a continuous stacking fold.",
+      "publicationNumber": "US20250158133",
+      "publicationDate": "2025-05-15",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Qingcheng Zeng"
+      ],
+      "applicationDate": "2024-11-11",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 19.722477
+    },
+    {
+      "id": "US-20230108379-A1",
+      "title": [
+        "BATTERY PACK ASSEMBLY WITH A HEATER INTEGRATED VOLTAGE SENSE"
+      ],
+      "abstract": "A battery pack assembly that includes a heater integrated into a voltage sense circuit. The heater integrated voltage sense also includes a heat spreader that transfers thermal energy away from the heater. An array of cells is arranged on the base of the assembly and below the heater integrated voltage sense to allow the heater of the heater integrated voltage sense to be serviced without removing the cells.",
+      "publicationNumber": "US20230108379",
+      "publicationDate": "2023-04-06",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Jason Davis"
+      ],
+      "applicationDate": "2022-09-30",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 19.722477
+    },
+    {
+      "id": "US-20250023211-A1",
+      "title": [
+        "CELL WITH INTEGRATED CONDUCTIVE MATERIAL"
+      ],
+      "abstract": "A cell including a housing, a first terminal with a first polarity, a second terminal with a second polarity different from the first polarity, the second terminal being disposed on a second cap plate or on the same first cap plate in a case where the cell has one cap plate. A conductive material is disposed on at least one large wall surface of the cell and dimensioned to cover an area of the cell at the at least one large wall surface. The conductive material further includes a first extension that is electrically coupled to the first terminal, and a second extension that is affixed to the second cap plate or to the same first cap plate.",
+      "publicationNumber": "US20250023211",
+      "publicationDate": "2025-01-16",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Thomas Patrick Harvey"
+      ],
+      "applicationDate": "2024-07-12",
+      "claimsCount": 18,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Measurement"
+      ],
+      "score": 19.713394
+    },
+    {
+      "id": "US-20230137286-A1",
+      "title": [
+        "FLEXIBLE ALUMINUM BUSBAR"
+      ],
+      "abstract": "A busbar that includes a low profile, flexible body made of aluminum layers stacked together on their longitudinal surfaces. The aluminum layers are laser welded together and are designed to have an offset at a middle portion such that the middle portion has a raised profile. A method of laser welding the aluminum layers is also disclosed.",
+      "publicationNumber": "US20230137286",
+      "publicationDate": "2023-05-04",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Jason Davis",
+        "Najah George"
+      ],
+      "applicationDate": "2022-10-27",
+      "claimsCount": 26,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 19.713394
+    },
+    {
+      "id": "US-20250023188-A1",
+      "title": [
+        "FORMED IN PLACE VENT CHANNEL"
+      ],
+      "abstract": "A battery pack that includes a battery pack housing, and an encapsulating foam material that encapsulates a number of cells. Each cell has a cell vent arranged on a first side of the cell. The battery pack also includes a vent channel that includes a reception duct that includes adjacent sections, and a connection duct. The vent channel is positioned in place, by the encapsulating foam material, such that the reception duct is opposite the cell vents and such that each cell vent corresponds to and faces an adjacent section. The melting point of the material of the adjacent sections is below a predetermined cell venting temperature, and each adjacent section can melt upon contact with escaping gas from the corresponding cell vent to direct the escaping gas to an external area of the battery pack through the connection duct.",
+      "publicationNumber": "US20250023188",
+      "publicationDate": "2025-01-16",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "NATHAN SALIGA"
+      ],
+      "applicationDate": "2024-07-12",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 19.6862
+    },
+    {
+      "id": "US-20240413557-A1",
+      "title": [
+        "DIRECT CONNECTION OF CONTACTORS AND SHUNT TO PRINTED CIRCUIT BOARD"
+      ],
+      "abstract": "Power distribution units, such as for electric vehicles, having reduced mass, volume and complexity are achieved with a power distribution circuit board having pin receptacles for receiving and electrically connecting with corresponding pins, and contactors having pins located in fixed proximity to the circuit board to facilitate an electrical connection between a connector pin and a corresponding pin receptacle on the circuit board.",
+      "publicationNumber": "US20240413557",
+      "publicationDate": "2024-12-12",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Richard Hampo",
+        "Shane Greenwood"
+      ],
+      "applicationDate": "2024-06-07",
+      "claimsCount": 9,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Audio-visual technology",
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 19.6862
+    },
+    {
+      "id": "US-20240339705-A1",
+      "title": [
+        "HERMETIC SEAL STRUCTURE"
+      ],
+      "abstract": "A cell that includes a housing, a current collector placed in the housing, and a cap assembly that closes the housing. The cap assembly includes a terminal block, a cap plate, and a terminal insulator disposed between the terminal block and the cap plate. The terminal insulator is brazed at one side to the terminal block and at another side opposite to the one side to the cap plate.",
+      "publicationNumber": "US20240339705",
+      "publicationDate": "2024-10-10",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Sanket Sudam Mundhe",
+        "Jin Sub Park",
+        "Seong Woo Park"
+      ],
+      "applicationDate": "2024-04-05",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 19.6862
+    },
+    {
+      "id": "US-20230197920-A1",
+      "title": [
+        "MANUFACTURING BATTERY ELECTRODES"
+      ],
+      "abstract": "Producing an electrode by providing a solvent-free powder that includes an electrode active material and a binder, determining a temperature to be produced at a location of application of a laser beam, selecting a scan frequency at which to control oscillation of the laser beam, producing the electrode by feeding, via a powder feeder, the solvent-free powder onto a current collector and concurrently applying the laser beam to the solvent-free powder to melt the binder of the solvent-free powder at the temperature to produce a coating on the current collector.",
+      "publicationNumber": "US20230197920",
+      "publicationDate": "2023-06-22",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Najah George"
+      ],
+      "applicationDate": "2022-12-16",
+      "claimsCount": 41,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 19.6862
+    },
+    {
+      "id": "US-20230402839-A1",
+      "title": [
+        "ENERGY MANAGEMENT SYSTEM WITH MACHINE LEARNING"
+      ],
+      "abstract": "An energy management system including a universal energy flow manager that has a housing, an energy storage device disposed in the housing, a power electronics module disposed in the housing and adapted to convert and manage power and a connections interface. It also includes distribution and communications module with a HVDC Bus (High-Voltage Direct Current Bus) having variable power limits that powers an entire load requirement of one or more coupled electrical loads up to a defined power limit determined by an aggregation of power from one or more coupled energy sources. The one or more coupled electrical loads and the one or more coupled energy sources are external to the universal energy flow manager and connect to the HVDC Bus through the connections interface.",
+      "publicationNumber": "US20230402839",
+      "publicationDate": "2023-12-14",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Ahmad Z. Albanna",
+        "Krzysztof Klesyk",
+        "Yan Zhou",
+        "Jarold A. Gonzalez Sosa",
+        "Richard J. Hampo"
+      ],
+      "applicationDate": "2023-06-28",
+      "claimsCount": 16,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology",
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 19.288458
+    },
+    {
+      "id": "US-20230398896-A1",
+      "title": [
+        "ENERGY MANAGEMENT SYSTEM WITH CHARGE HAILING TECHNICAL FIELD"
+      ],
+      "abstract": "An energy management system including a universal energy flow manager that has a housing, an energy storage device disposed in the housing, a power electronics module disposed in the housing and adapted to convert and manage power and a connections interface. It also includes distribution and communications module with a HVDC Bus (High-Voltage Direct Current Bus) having variable power limits that powers an entire load requirement of one or more coupled electrical loads up to a defined power limit determined by an aggregation of power from one or more coupled energy sources. The one or more coupled electrical loads and the one or more coupled energy sources are external to the universal energy flow manager and connect to the HVDC Bus through the connections interface.",
+      "publicationNumber": "US20230398896",
+      "publicationDate": "2023-12-14",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Ahmad Z. Albanna",
+        "Krzysztof Klesyk",
+        "Yan Zhou",
+        "Jarold A. Gonzalez Sosa",
+        "Richard J. Hampo"
+      ],
+      "applicationDate": "2023-06-28",
+      "claimsCount": 25,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 19.288458
+    },
+    {
+      "id": "JP-WO2022076146-A5",
+      "title": [],
+      "abstract": "",
+      "publicationNumber": "JPWO2022076146",
+      "publicationDate": "2024-09-26",
+      "assignee": [],
+      "inventors": [],
+      "applicationDate": null,
+      "claimsCount": 11,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 18.937057
+    },
+    {
+      "id": "IN-202317031669-A",
+      "title": [
+        "SUPPLYING POWER TO AN ELECTRIC VEHICLE"
+      ],
+      "abstract": "A power supply system that utilizes a hybrid architecture to enable low cycle-life, high energy density chemistries to be used in rechargeable batteries to extend the range of a traction battery.",
+      "publicationNumber": "IN202317031669",
+      "publicationDate": "2023-11-24",
+      "assignee": [
+        "OUR NEXT ENERGY INC"
+      ],
+      "inventors": [
+        "IJAZ MUJEEB",
+        "MOORHEAD BRIAN"
+      ],
+      "applicationDate": "2023-05-03",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Transport"
+      ],
+      "score": 18.937057
+    },
+    {
+      "id": "IN-202517003059-A",
+      "title": [
+        "ENERGY MANAGEMENT SYSTEM"
+      ],
+      "abstract": "An energy management system including a universal energy flow manager that has a housing, an energy storage device disposed in the housing, a power electronics module disposed in the housing and adapted to convert and manage power and a connections interface. It also includes distribution and communications module with a HVDC Bus (High-Voltage Direct Current Bus) having variable power limits that powers an entire load requirement of one or more coupled electrical loads up to a defined power limit determined by an aggregation of power from one or more coupled energy sources. The one or more coupled electrical loads and the one or more coupled energy sources are external to the universal energy flow manager and connect to the HVDC Bus through the connections interface.",
+      "publicationNumber": "IN202517003059",
+      "publicationDate": "2025-04-18",
+      "assignee": [
+        "OUR NEXT ENERGY INC"
+      ],
+      "inventors": [
+        "ALBANNA AHMAD Z",
+        "KLESYK KRZYSZTOF",
+        "ZHOU YAN",
+        "GONZALEZ SOSA JAROLD A",
+        "HAMPO RICHARD J"
+      ],
+      "applicationDate": "2025-01-14",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "IT methods for management"
+      ],
+      "score": 18.82039
+    },
+    {
+      "id": "CA-3263061-A1",
+      "title": [
+        "ENERGY MANAGEMENT SYSTEM"
+      ],
+      "abstract": "",
+      "publicationNumber": "CA3263061",
+      "publicationDate": "2023-12-21",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Ahmad Z. Albanna",
+        "Krzysztof Klesyk",
+        "Yan Zhou",
+        "Jarold A. Gonzalez Sosa",
+        "Richard J. Hampo"
+      ],
+      "applicationDate": "2023-06-14",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "IT methods for management",
+        "Transport"
+      ],
+      "score": 18.82039
+    },
+    {
+      "id": "CA-3198204-A1",
+      "title": [
+        "SUPPLYING POWER TO AN ELECTRIC VEHICLE"
+      ],
+      "abstract": "A power supply system that utilizes a hybrid architecture to enable low cycle-life, high energy density chemistries to be used in rechargeable batteries to extend the range of a traction battery.",
+      "publicationNumber": "CA3198204",
+      "publicationDate": "2022-04-14",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "MUJEEB IJAZ",
+        "BRIAN MOORHEAD"
+      ],
+      "applicationDate": "2021-09-17",
+      "claimsCount": 67,
+      "independentClaimsCount": 9,
+      "technologyFields": [
+        "Transport"
+      ],
+      "score": 17.404778
+    },
+    {
+      "id": "US-20250030063-A1",
+      "title": [
+        "CELL WITH IMPROVED ABUSE TOLERANCE"
+      ],
+      "abstract": "An anode-free cell including a cathode, an anode current collector and a separator disposed between the cathode and the anode current collector. It also includes a short-circuit limitation configuration configured by (i) the anode current collector and/or the cathode current collector being a polymer current collector, and/or (ii) the cathode dimension being the same as the anode current collector and/or of the separator dimension, or the dimension of the cathode being larger than the dimension of the anode current collector. The dimension is measured in the X-axis and/or Y-axis. Another cell includes a cathode and an anode and the short-circuit limitation configuration is configured by (i) the anode current collector being a polymer anode current collector and the cathode current collector being a polymer cathode current collector; and (ii) the dimension of the anode active material layer and of the cathode active material layer being the same.",
+      "publicationNumber": "US20250030063",
+      "publicationDate": "2025-01-23",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Qingcheng Zeng",
+        "Tushar Swamy"
+      ],
+      "applicationDate": "2024-07-22",
+      "claimsCount": 20,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 17.085587
+    },
+    {
+      "id": "US-20220115897-A1",
+      "title": [
+        "SUPPLYING POWER TO AN ELECTRIC VEHICLE"
+      ],
+      "abstract": "A power supply system that utilizes a hybrid architecture to enable low cycle-life, high energy density chemistries to be used in rechargeable batteries to extend the range of a traction battery.",
+      "publicationNumber": "US20220115897",
+      "publicationDate": "2022-04-14",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Mujeeb Ijaz"
+      ],
+      "applicationDate": "2021-09-17",
+      "claimsCount": 22,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 17.061754
+    },
+    {
+      "id": "US-20220111759-A1",
+      "title": [
+        "SUPPLYING POWER TO AN ELECTRIC VEHICLE"
+      ],
+      "abstract": "A power supply system that utilizes a hybrid architecture to enable low cycle-life, high energy density chemistries to be used in rechargeable batteries to extend the range of a traction battery.",
+      "publicationNumber": "US20220111759",
+      "publicationDate": "2022-04-14",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Mujeeb Ijaz"
+      ],
+      "applicationDate": "2021-09-17",
+      "claimsCount": 25,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 17.061754
+    },
+    {
+      "id": "US-20220111758-A1",
+      "title": [
+        "SUPPLYING POWER TO AN ELECTRIC VEHICLE"
+      ],
+      "abstract": "A power supply system that utilizes a hybrid architecture to enable low cycle-life, high energy density chemistries to be used in rechargeable batteries to extend the range of a traction battery.",
+      "publicationNumber": "US20220111758",
+      "publicationDate": "2022-04-14",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Mujeeb Ijaz",
+        "Brian Moorhead"
+      ],
+      "applicationDate": "2021-09-17",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 17.061754
+    },
+    {
+      "id": "US-12447863-B2",
+      "title": [
+        "Supplying power to an electric vehicle"
+      ],
+      "abstract": "A power supply system that utilizes a hybrid architecture to enable low cycle-life, high energy density chemistries to be used in rechargeable batteries to extend the range of a traction battery.",
+      "publicationNumber": "US12447863",
+      "publicationDate": "2025-10-21",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Mujeeb Ijaz",
+        "Brian Moorhead"
+      ],
+      "applicationDate": "2023-11-13",
+      "claimsCount": 20,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 17.061754
+    },
+    {
+      "id": "US-12071040-B2",
+      "title": [
+        "Supplying power to an electric vehicle"
+      ],
+      "abstract": "A power supply system that utilizes a hybrid architecture to enable low cycle-life, high energy density chemistries to be used in rechargeable batteries to extend the range of a traction battery.",
+      "publicationNumber": "US12071040",
+      "publicationDate": "2024-08-27",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Mujeeb Ijaz"
+      ],
+      "applicationDate": "2021-09-17",
+      "claimsCount": 22,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 17.061754
+    },
+    {
+      "id": "US-11813962-B2",
+      "title": [
+        "Supplying power to an electric vehicle"
+      ],
+      "abstract": "A power supply system that utilizes a hybrid architecture to enable low cycle-life, high energy density chemistries to be used in rechargeable batteries to extend the range of a traction battery.",
+      "publicationNumber": "US11813962",
+      "publicationDate": "2023-11-14",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Mujeeb Ijaz",
+        "Brian Moorhead"
+      ],
+      "applicationDate": "2021-09-17",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 17.061754
+    },
+    {
+      "id": "US-20250055047-A1",
+      "title": [
+        "ACTIVE CELL VENT CONTROL"
+      ],
+      "abstract": "Actively venting by measuring venting parameters of the cell, computing, using the venting parameters, a pre-venting state of the cell, and preemptively triggering, responsive to computing that the pre-venting state has reached a threshold pre-venting state, an opening of a vent of the cell to release vent-gas. The preemptive triggering is performed by activating a cell vent opening device to open the vent.",
+      "publicationNumber": "US20250055047",
+      "publicationDate": "2025-02-13",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "NATHAN SALIGA"
+      ],
+      "applicationDate": "2024-08-09",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 17.056822
+    },
+    {
+      "id": "US-20250088117-A1",
+      "title": [
+        "BATTERY PACK WITH TRIPLE-ACTIVE BRIDGE DC-DC CONVERTER"
+      ],
+      "abstract": "A highly efficient arrangement for a battery pack including a first battery and a second battery inductively coupled together to transfer energy from the second battery to the first battery includes a triple-active bridge DC-DC converter.",
+      "publicationNumber": "US20250088117",
+      "publicationDate": "2025-03-13",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Ashish Kumar"
+      ],
+      "applicationDate": "2024-09-06",
+      "claimsCount": 15,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 16.973831
+    },
+    {
+      "id": "US-12252033-B2",
+      "title": [
+        "Low temperature secondary battery"
+      ],
+      "abstract": "A power supply system that includes a traction battery, and a secondary battery that includes one or more hybrid modules having one or more low temperature chemistries. The power supply system also has one or more temperature sensors, and a switching device that connects or disconnects the secondary battery or the traction battery from a high-voltage DC (Direct Current) bus of an electric vehicle based on measurements of the one or more temperature sensors.",
+      "publicationNumber": "US12252033",
+      "publicationDate": "2025-03-18",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Dylan Propst",
+        "Mujeeb Ijaz"
+      ],
+      "applicationDate": "2022-12-16",
+      "claimsCount": 31,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 16.973831
+    },
+    {
+      "id": "US-20240030453-A1",
+      "title": [
+        "BATTERY CELL RIVETING LAMINATE STRUCTURE"
+      ],
+      "abstract": "An anode-free cell that includes a cathode and a separator-collector-separator structure. The separator-collector-separator structure includes a perforated anode current collector, and a polymer layer contiguously disposed on both surfaces of the perforated anode current collector through perforations in the perforated anode current collector. The polymer layer is a binder.",
+      "publicationNumber": "US20240030453",
+      "publicationDate": "2024-01-25",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Qingcheng Zeng",
+        "Steven Kaye"
+      ],
+      "applicationDate": "2023-07-21",
+      "claimsCount": 21,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 16.938705
+    },
+    {
+      "id": "US-12145517-B2",
+      "title": [
+        "Flexible aluminum busbar"
+      ],
+      "abstract": "A busbar that includes a low profile, flexible body made of aluminum layers stacked together on their longitudinal surfaces. The aluminum layers are laser welded together and are designed to have an offset at a middle portion such that the middle portion has a raised profile. A method of laser welding the aluminum layers is also disclosed.",
+      "publicationNumber": "US12145517",
+      "publicationDate": "2024-11-19",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Jason Davis",
+        "Najah George"
+      ],
+      "applicationDate": "2022-10-27",
+      "claimsCount": 26,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 16.938705
+    },
+    {
+      "id": "US-20240030529-A1",
+      "title": [
+        "CAP ASSEMBLY"
+      ],
+      "abstract": "A cap assembly that includes a cap plate having an upper surface and a lower surface, the cap plate being formed to seal an opening of a cell case and to have a terminal hole, an electrode terminal inserted into the terminal hole, and an insulator positioned between the cap plate and the electrode terminal and inserted into the terminal hole, with the insulator making contact with the lower surface of the cap plate. The insulator has a first unibody structure and insulates the electrode terminal from the cap plate.",
+      "publicationNumber": "US20240030529",
+      "publicationDate": "2024-01-25",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Qingcheng Zeng",
+        "Steven Kaye"
+      ],
+      "applicationDate": "2023-07-21",
+      "claimsCount": 27,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 16.913929
+    },
+    {
+      "id": "US-12525599-B2",
+      "title": [
+        "Manufacturing battery electrodes"
+      ],
+      "abstract": "Producing an electrode by providing a solvent-free powder that includes an electrode active material and a binder, determining a temperature to be produced at a location of application of a laser beam, selecting a scan frequency at which to control oscillation of the laser beam, producing the electrode by feeding, via a powder feeder, the solvent-free powder onto a current collector and concurrently applying the laser beam to the solvent-free powder to melt the binder of the solvent-free powder at the temperature to produce a coating on the current collector.",
+      "publicationNumber": "US12525599",
+      "publicationDate": "2026-01-13",
+      "assignee": [
+        "Our Next Energy, Inc."
+      ],
+      "inventors": [
+        "Najah George"
+      ],
+      "applicationDate": "2022-12-16",
+      "claimsCount": 40,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Materials, metallurgy"
+      ],
+      "score": 16.913929
+    },
+    {
+      "id": "US-12441208-B2",
+      "title": [
+        "Energy management system"
+      ],
+      "abstract": "An energy management system including a universal energy flow manager that has a housing, an energy storage device disposed in the housing, a power electronics module disposed in the housing and adapted to convert and manage power and a connections interface. It also includes distribution and communications module with a HVDC Bus (High-Voltage Direct Current Bus) having variable power limits that powers an entire load requirement of one or more coupled electrical loads up to a defined power limit determined by an aggregation of power from one or more coupled energy sources. The one or more coupled electrical loads and the one or more coupled energy sources are external to the universal energy flow manager and connect to the HVDC Bus through the connections interface.",
+      "publicationNumber": "US12441208",
+      "publicationDate": "2025-10-14",
+      "assignee": [
+        "Ahmad Albanna"
+      ],
+      "inventors": [
+        "Ahmad Z. Albanna",
+        "Krzysztof Klesyk",
+        "Yan Zhou",
+        "Jarold A. Gonzalez Sosa",
+        "Richard J. Hampo"
+      ],
+      "applicationDate": "2023-06-14",
+      "claimsCount": 25,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Computer technology",
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 16.792603
+    },
+    {
+      "id": "KR-20230161415-A",
+      "title": [
+        "\uc804\uae30 \ucc28\ub7c9\uc73c\ub85c\uc758 \uc804\ub825 \uacf5\uae09"
+      ],
+      "abstract": "\uc804\ub825 \uacf5\uae09 \uc2dc\uc2a4\ud15c\uc740 \ud2b8\ub799\uc158 \ubc30\ud130\ub9ac\uc758 \ubc94\uc704\ub97c \ud655\uc7a5\ud558\uae30 \uc704\ud574 \uc7ac\ucda9\uc804\uac00\ub2a5 \ubc30\ud130\ub9ac\uc5d0 \uc0ac\uc6a9\ub418\ub294 \uc800-\uc0ac\uc774\ud074-\uc218\uba85, \uace0 \uc5d0\ub108\uc9c0 \ubc00\ub3c4 \ud654\ud559\ubb3c\uc9c8\uc744 \uac00\ub2a5\ud558\uac8c \ud558\ub294 \ud558\uc774\ube0c\ub9ac\ub4dc \uc544\ud0a4\ud14d\ucc98\ub97c \ud65c\uc6a9\ud55c\ub2e4.",
+      "publicationNumber": "KR20230161415",
+      "publicationDate": "2023-11-27",
+      "assignee": [
+        "OUR NEXT ENERGY INC."
+      ],
+      "inventors": [
+        "IJAZ MUJEEB",
+        "MOORHEAD BRIAN"
+      ],
+      "applicationDate": "2021-09-17",
+      "claimsCount": 67,
+      "independentClaimsCount": 9,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 16.732784
+    },
+    {
+      "id": "US-12434588-B2",
+      "title": [
+        "Energy management system with charge hailing technical field"
+      ],
+      "abstract": "An energy management system including a universal energy flow manager that has a housing, an energy storage device disposed in the housing, a power electronics module disposed in the housing and adapted to convert and manage power and a connections interface. It also includes distribution and communications module with a HVDC Bus (High-Voltage Direct Current Bus) having variable power limits that powers an entire load requirement of one or more coupled electrical loads up to a defined power limit determined by an aggregation of power from one or more coupled energy sources. The one or more coupled electrical loads and the one or more coupled energy sources are external to the universal energy flow manager and connect to the HVDC Bus through the connections interface.",
+      "publicationNumber": "US12434588",
+      "publicationDate": "2025-10-07",
+      "assignee": [
+        "Ahmad Albanna"
+      ],
+      "inventors": [
+        "Ahmad Z. Albanna",
+        "Krzysztof Klesyk",
+        "Yan Zhou",
+        "Jarold A. Gonzalez Sosa",
+        "Richard J. Hampo"
+      ],
+      "applicationDate": "2023-06-28",
+      "claimsCount": 25,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology",
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 15.312079
+    },
+    {
+      "id": "US-12415437-B2",
+      "title": [
+        "Energy management system with machine learning"
+      ],
+      "abstract": "An energy management system including a universal energy flow manager that has a housing, an energy storage device disposed in the housing, a power electronics module disposed in the housing and adapted to convert and manage power and a connections interface. It also includes distribution and communications module with a HVDC Bus (High-Voltage Direct Current Bus) having variable power limits that powers an entire load requirement of one or more coupled electrical loads up to a defined power limit determined by an aggregation of power from one or more coupled energy sources. The one or more coupled electrical loads and the one or more coupled energy sources are external to the universal energy flow manager and connect to the HVDC Bus through the connections interface.",
+      "publicationNumber": "US12415437",
+      "publicationDate": "2025-09-16",
+      "assignee": [
+        "Ahmad Albanna"
+      ],
+      "inventors": [
+        "Ahmad Z. Albanna",
+        "Krzysztof Klesyk",
+        "Yan Zhou",
+        "Jarold A. Gonzalez Sosa",
+        "Richard J. Hampo"
+      ],
+      "applicationDate": "2023-06-28",
+      "claimsCount": 16,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology",
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 15.312079
+    }
+  ]
+}

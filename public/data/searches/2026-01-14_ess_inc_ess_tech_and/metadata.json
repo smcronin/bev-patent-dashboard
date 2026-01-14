@@ -1,0 +1,11 @@
+{
+  "search_id": "search_20260114_121427",
+  "timestamp": "2026-01-14T12:14:27.449402",
+  "query_type": "ai_search",
+  "user_prompt": "PA=(ESS Inc OR ESS Tech) AND PD>2015",
+  "minesoft_query": "PA=(ESS Inc OR ESS Tech) AND PD>2015",
+  "results_count": 475,
+  "directory": "2026-01-14_ess_inc_ess_tech_and",
+  "execution_time_ms": 2561.9559288024902,
+  "api_endpoint": "query"
+}

@@ -1,0 +1,1376 @@
+{
+  "count": 56,
+  "numFound": 56,
+  "docs": [
+    {
+      "id": "WO-2025184436-A1",
+      "title": [
+        "SYSTEMS AND METHODS FOR APPLICATION OF HEAT FOR IGNITION OF LOW CETANE FUELS"
+      ],
+      "abstract": "Embodiments described herein relate to combustion of low cetane fuels in compression ignition engine architectures. In some embodiments, a method of operating a compression ignition engine can include activating a first heating device. In some embodiments, the first heating device can include a first glow plug. After a first preheating period of between about 3 seconds and about 7 seconds, the method further includes activating a second heating device. In some embodiments, the second heating device can include a second glow plug. In some embodiments, the second glow plug can be located inside of a flame plug. After a second preheating period of between about 5 seconds and about 10 seconds, a volume of air is drawn into a combustion chamber via the intake flow path.",
+      "publicationNumber": "WO2025184436",
+      "publicationDate": "2025-09-04",
+      "assignee": [
+        "CLEARFLAME ENGINES, INC."
+      ],
+      "inventors": [
+        "PETER V. WOON",
+        "Julie BLUMREITER",
+        "Brandon BARNGROVER",
+        "Jeremy BABINET"
+      ],
+      "applicationDate": "2025-02-27",
+      "claimsCount": 22,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 14.145967
+    },
+    {
+      "id": "WO-2025184438-A1",
+      "title": [
+        "SYSTEMS AND METHODS FOR CONTROLLING INTAKE MANIFOLD TEMPERATURES IN COMPRESSION IGNITION ENGINES"
+      ],
+      "abstract": "Embodiments described herein relate to temperature management in compression ignition engines. In some aspects, a method of operating a compression ignition engine can include moving a volume of air through an intake flow path of the compression engine, the intake flow path including a charge air cooler (CAC) and a CAC bypass. The method further includes moving the volume of air into a combustion chamber via an intake manifold and combusting the volume of fuel in the combustion chamber to form exhaust, the volume of fuel having a cetane number less than about 40. The method further includes moving the exhaust through an exhaust flow path, the exhaust flow path including an exhaust gas recirculation EGR flow path and an uncooled EGR flow path.",
+      "publicationNumber": "WO2025184438",
+      "publicationDate": "2025-09-04",
+      "assignee": [
+        "CLEARFLAME ENGINES, INC."
+      ],
+      "inventors": [
+        "PETER V. WOON",
+        "Julie BLUMREITER",
+        "BERNARD JOHNSON",
+        "Brandon BARNGROVER",
+        "Joe TRZASKA",
+        "PHILIP M. DIMPELFELD",
+        "Robert Schanz",
+        "Levi MCCUE",
+        "GREG HENDERSON",
+        "Yeshwanth SAYANI",
+        "Jeremy BABINET"
+      ],
+      "applicationDate": "2025-02-27",
+      "claimsCount": 7,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 13.738314
+    },
+    {
+      "id": "WO-2024044702-A1",
+      "title": [
+        "FUEL-BASED HEATING TO ENABLE MIXING-CONTROLLED COMBUSTION OF SMALL-MOLECULE FUELS"
+      ],
+      "abstract": "Embodiments described herein relate to fuel-based heating of intake charge in internal combustion engines. In some aspects, a method of operating a compression ignition engine can include combusting a first fuel in an intake flow path to heat a volume of air. The method further includes drawing the heated volume of air into a plurality of cylinders via an intake manifold and combusting a volume of a second fuel in the plurality of cylinders in a mixing-controlled compression ignition mode (MCCI). The second fuel can be the same or different from the first fuel and can include a small-molecule fuel. Heating the volume of air maintains a temperature in the plurality of cylinders greater than a threshold temperature.",
+      "publicationNumber": "WO2024044702",
+      "publicationDate": "2024-02-29",
+      "assignee": [
+        "CLEARFLAME ENGINES, INC."
+      ],
+      "inventors": [
+        "PETER V. WOON",
+        "Guanyu Frank ZHENG",
+        "Julie BLUMREITER",
+        "Robert Schanz",
+        "Manohar VITTAL",
+        "Jeremy BABINET",
+        "CRAIG BARNES",
+        "JIM CLERC",
+        "GREG HENDERSON"
+      ],
+      "applicationDate": "2023-08-24",
+      "claimsCount": 42,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 13.738314
+    },
+    {
+      "id": "WO-2023028156-A3",
+      "title": [
+        "FUEL AGNOSTIC COMPRESSION IGNITION ENGINE"
+      ],
+      "abstract": "Some embodiments described herein relate to a method of operating a compression ignition (CI) engine. The CI engine can include a combustion chamber. The method of operating the CI engine includes receiving a volume of intake charge in the combustion chamber, compressing the intake charge, injecting a volume of fuel into the combustion chamber, the fuel having a cetane number less than about 40, and combusting substantially all of the volume of fuel. A delay between injecting the volume of fuel into the combustion chamber and initiation of combustion is less than about 2 ms. The CI engine includes at least a two-stroke engine, an opposed-piston engine, a two-stroke opposed piston engine, a five-stroke engine, a six-stroke engine, a free-piston engine, a free piston engine linear, a rotary engine, and/or a Wankel rotary engine.",
+      "publicationNumber": "WO2023028156",
+      "publicationDate": "2023-04-06",
+      "assignee": [
+        "CLEARFLAME ENGINES, INC."
+      ],
+      "inventors": [
+        "Julie BLUMREITER",
+        "BERNARD JOHNSON",
+        "Robert Schanz",
+        "Manohar VITTAL"
+      ],
+      "applicationDate": "2022-08-24",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 12.493835
+    },
+    {
+      "id": "WO-2023028156-A2",
+      "title": [
+        "FUEL AGNOSTIC COMPRESSION IGNITION ENGINE"
+      ],
+      "abstract": "Some embodiments described herein relate to a method of operating a compression ignition (CI) engine. The CI engine can include a combustion chamber. The method of operating the CI engine includes receiving a volume of intake charge in the combustion chamber, compressing the intake charge, injecting a volume of fuel into the combustion chamber, the fuel having a cetane number less than about 40, and combusting substantially all of the volume of fuel. A delay between injecting the volume of fuel into the combustion chamber and initiation of combustion is less than about 2 ms. The CI engine includes at least a two-stroke engine, an opposed-piston engine, a two-stroke opposed piston engine, a five-stroke engine, a six-stroke engine, a free-piston engine, a free piston engine linear, a rotary engine, and/or a Wankel rotary engine.",
+      "publicationNumber": "WO2023028156",
+      "publicationDate": "2023-03-02",
+      "assignee": [
+        "CLEARFLAME ENGINES, INC."
+      ],
+      "inventors": [
+        "Julie BLUMREITER",
+        "BERNARD JOHNSON",
+        "Robert Schanz",
+        "Manohar VITTAL"
+      ],
+      "applicationDate": "2022-08-24",
+      "claimsCount": 59,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 12.493835
+    },
+    {
+      "id": "MX-2024002380-A",
+      "title": [
+        "FUEL AGNOSTIC COMPRESSION IGNITION ENGINE."
+      ],
+      "abstract": "Some embodiments described herein relate to a method of operating a compression ignition (CI) engine. The CI engine can include a combustion chamber. The method of operating the CI engine includes receiving a volume of intake charge in the combustion chamber, compressing the intake charge, injecting a volume of fuel into the combustion chamber, the fuel having a cetane number less than about 40, and combusting substantially all of the volume of fuel. A delay between injecting the volume of fuel into the combustion chamber and initiation of combustion is less than about 2 ms. The CI engine includes at least a two-stroke engine, an opposed-piston engine, a two-stroke opposed piston engine, a five-stroke engine, a six-stroke engine, a free-piston engine, a free piston engine linear, a rotary engine, and/or a Wankel rotary engine.",
+      "publicationNumber": "MX2024002380",
+      "publicationDate": "2024-03-14",
+      "assignee": [
+        "CLEARFLAME ENGINES, INC."
+      ],
+      "inventors": [
+        "BLUMREITER JULIE",
+        "JOHNSON BERNARD",
+        "SCHANZ ROBERT",
+        "VITTAL MANOHAR"
+      ],
+      "applicationDate": "2022-08-24",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 12.493835
+    },
+    {
+      "id": "EP-4392654-A2",
+      "title": [
+        "FUEL AGNOSTIC COMPRESSION IGNITION ENGINE"
+      ],
+      "abstract": "Some embodiments described herein relate to a method of operating a compression ignition (CI) engine. The CI engine can include a combustion chamber. The method of operating the CI engine includes receiving a volume of intake charge in the combustion chamber, compressing the intake charge, injecting a volume of fuel into the combustion chamber, the fuel having a cetane number less than about 40, and combusting substantially all of the volume of fuel. A delay between injecting the volume of fuel into the combustion chamber and initiation of combustion is less than about 2 ms. The CI engine includes at least a two-stroke engine, an opposed-piston engine, a two-stroke opposed piston engine, a five-stroke engine, a six-stroke engine, a free-piston engine, a free piston engine linear, a rotary engine, and/or a Wankel rotary engine.",
+      "publicationNumber": "EP4392654",
+      "publicationDate": "2024-07-03",
+      "assignee": [
+        "Clearflame Engines, Inc."
+      ],
+      "inventors": [
+        "Julie BLUMREITER",
+        "BERNARD JOHNSON",
+        "Robert Schanz",
+        "Manohar VITTAL"
+      ],
+      "applicationDate": "2022-08-24",
+      "claimsCount": 59,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 12.493835
+    },
+    {
+      "id": "AU-2022335417-A1",
+      "title": [
+        "FUEL AGNOSTIC COMPRESSION IGNITION ENGINE"
+      ],
+      "abstract": "Some embodiments described herein relate to a method of operating a compression ignition (CI) engine. The CI engine can include a combustion chamber. The method of operating the CI engine includes receiving a volume of intake charge in the combustion chamber, compressing the intake charge, injecting a volume of fuel into the combustion chamber, the fuel having a cetane number less than about 40, and combusting substantially all of the volume of fuel. A delay between injecting the volume of fuel into the combustion chamber and initiation of combustion is less than about 2 ms. The CI engine includes at least a two-stroke engine, an opposed-piston engine, a two-stroke opposed piston engine, a five-stroke engine, a six-stroke engine, a free-piston engine, a free piston engine linear, a rotary engine, and/or a Wankel rotary engine.",
+      "publicationNumber": "AU2022335417",
+      "publicationDate": "2024-03-07",
+      "assignee": [
+        "CLEARFLAME ENGINES, INC."
+      ],
+      "inventors": [
+        "Julie BLUMREITER",
+        "BERNARD JOHNSON",
+        "Robert Schanz",
+        "Manohar VITTAL"
+      ],
+      "applicationDate": "2022-08-24",
+      "claimsCount": 59,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 12.493835
+    },
+    {
+      "id": "WO-2022011275-A1",
+      "title": [
+        "SYSTEMS AND METODS OF CYLINDER DEACTIVATION IN HIGH-TEMPERATURE MIXING-CONTROLLED ENGINES"
+      ],
+      "abstract": "Embodiments described herein relate to systems and methods of cylinder deactivation in compression-ignition engines. An engine described herein can include N cylinders, with N being an integer of at least 2, with each cylinder including an inner surface, a piston disposed and configured to move in each cylinder of the N cylinders, an intake port, an exhaust port, and a fuel injector. The piston and the inner surface define a combustion chamber. A method of operating the compression ignition engine includes injecting a fuel into each of the combustion chambers, combusting substantially all of the fuel in the compression ignition engine, monitoring engine load of the compression ignition engine, and deactivating a cylinder of the N cylinders upon a decrease in load to less than (N-1)/N x FL, wherein FL is a full load at a given engine speed.",
+      "publicationNumber": "WO2022011275",
+      "publicationDate": "2022-01-13",
+      "assignee": [
+        "CLEARFLAME ENGINES, INC."
+      ],
+      "inventors": [
+        "Julie BLUMREITER",
+        "BERNARD JOHNSON",
+        "Robert Schanz",
+        "Manohar VITTAL"
+      ],
+      "applicationDate": "2021-07-09",
+      "claimsCount": 43,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 12.307547
+    },
+    {
+      "id": "MX-2023000435-A",
+      "title": [
+        "SYSTEMS AND METODS OF CYLINDER DEACTIVATION IN HIGH-TEMPERATURE MIXING-CONTROLLED ENGINES."
+      ],
+      "abstract": "Embodiments described herein relate to systems and methods of cylinder deactivation in compression-ignition engines. An engine described herein can include N cylinders, with N being an integer of at least 2, with each cylinder including an inner surface, a piston disposed and configured to move in each cylinder of the N cylinders, an intake port, an exhaust port, and a fuel injector. The piston and the inner surface define a combustion chamber. A method of operating the compression ignition engine includes injecting a fuel into each of the combustion chambers, combusting substantially all of the fuel in the compression ignition engine, monitoring engine load of the compression ignition engine, and deactivating a cylinder of the N cylinders upon a decrease in load to less than (N-1)/N x FL, wherein FL is a full load at a given engine speed.",
+      "publicationNumber": "MX2023000435",
+      "publicationDate": "2023-04-12",
+      "assignee": [
+        "CLEARFLAME ENGINES, INC."
+      ],
+      "inventors": [
+        "BLUMREITER JULIE",
+        "JOHNSON BERNARD",
+        "SCHANZ ROBERT",
+        "VITTAL MANOHAR"
+      ],
+      "applicationDate": "2021-07-09",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 12.307547
+    },
+    {
+      "id": "EP-4179191-A1",
+      "title": [
+        "SYSTEMS AND METODS OF CYLINDER DEACTIVATION IN HIGH-TEMPERATURE MIXING-CONTROLLED ENGINES"
+      ],
+      "abstract": "Embodiments described herein relate to systems and methods of cylinder deactivation in compression-ignition engines. An engine described herein can include N cylinders, with N being an integer of at least 2, with each cylinder including an inner surface, a piston disposed and configured to move in each cylinder of the N cylinders, an intake port, an exhaust port, and a fuel injector. The piston and the inner surface define a combustion chamber. A method of operating the compression ignition engine includes injecting a fuel into each of the combustion chambers, combusting substantially all of the fuel in the compression ignition engine, monitoring engine load of the compression ignition engine, and deactivating a cylinder of the N cylinders upon a decrease in load to less than (N-1)/N x FL, wherein FL is a full load at a given engine speed.",
+      "publicationNumber": "EP4179191",
+      "publicationDate": "2023-05-17",
+      "assignee": [
+        "Clearflame Engines, Inc."
+      ],
+      "inventors": [
+        "Julie BLUMREITER",
+        "BERNARD JOHNSON",
+        "Robert Schanz",
+        "Manohar VITTAL"
+      ],
+      "applicationDate": "2021-07-09",
+      "claimsCount": 43,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 12.307547
+    },
+    {
+      "id": "BR-112023000330-A2",
+      "title": [
+        "SISTEMAS E M\u00c9TODOS DE DESATIVA\u00c7\u00c3O DE CILINDRO EM MOTORES COM CONTROLE DE MISTURA EM ALTA TEMPERATURA"
+      ],
+      "abstract": "SISTEMAS E M\u00c9TODOS DE DESATIVA\u00c7\u00c3O DE CILINDRO EM MOTORES COM CONTROLE DE MISTURA EM ALTA TEMPERATURA. As modalidades descritas no presente documento referem-se a sistemas e m\u00e9todos de desativa\u00e7\u00e3o de cilindro em motores de igni\u00e7\u00e3o por compress\u00e3o. Um motor descrito no presente documento pode incluir N cilindros, com N sendo um n\u00famero inteiro pelo menos igual a 2, com cada cilindro incluindo uma superf\u00edcie interna, um pist\u00e3o disposto e configurado para se mover em cada cilindro dos N cilindros, uma porta de admiss\u00e3o, uma porta de escape e um injetor de combust\u00edvel. O pist\u00e3o e a superf\u00edcie interna definem uma c\u00e2mara de combust\u00e3o. Um m\u00e9todo para operar o motor de igni\u00e7\u00e3o por compress\u00e3o inclui injetar um combust\u00edvel em cada uma das c\u00e2maras de combust\u00e3o, queimar substancialmente todo o combust\u00edvel no motor de igni\u00e7\u00e3o por compress\u00e3o, monitorar a carga de motor do motor de igni\u00e7\u00e3o por compress\u00e3o e desativar um cilindro dos N cilindros mediante uma diminui\u00e7\u00e3o na carga para menos que (N-1)/N x FL, em que FL \u00e9 uma carga completa em uma dada velocidade de motor.",
+      "publicationNumber": "BR112023000330",
+      "publicationDate": "2023-03-28",
+      "assignee": [
+        "CLEARFLAME ENGINES, INC."
+      ],
+      "inventors": [
+        "JULIE BLUMREITER",
+        "BERNARD JOHNSON",
+        "ROBERT SCHANZ",
+        "MANOHAR VITTAL"
+      ],
+      "applicationDate": "2021-07-09",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 12.307547
+    },
+    {
+      "id": "AU-2021306345-A1",
+      "title": [
+        "Systems and metods of cylinder deactivation in high-temperature mixing-controlled engines"
+      ],
+      "abstract": "Embodiments described herein relate to systems and methods of cylinder deactivation in compression-ignition engines. An engine described herein can include N cylinders, with N being an integer of at least 2, with each cylinder including an inner surface, a piston disposed and configured to move in each cylinder of the N cylinders, an intake port, an exhaust port, and a fuel injector. The piston and the inner surface define a combustion chamber. A method of operating the compression ignition engine includes injecting a fuel into each of the combustion chambers, combusting substantially all of the fuel in the compression ignition engine, monitoring engine load of the compression ignition engine, and deactivating a cylinder of the N cylinders upon a decrease in load to less than (N-1)/N x FL, wherein FL is a full load at a given engine speed.",
+      "publicationNumber": "AU2021306345",
+      "publicationDate": "2023-02-09",
+      "assignee": [
+        "CLEARFLAME ENGINES, INC."
+      ],
+      "inventors": [
+        "Julie BLUMREITER",
+        "BERNARD JOHNSON",
+        "Robert Schanz",
+        "Manohar VITTAL"
+      ],
+      "applicationDate": "2021-07-09",
+      "claimsCount": 43,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 12.307547
+    },
+    {
+      "id": "WO-2020232287-A9",
+      "title": [
+        "COLD-START FOR HIGH-OCTANE FUELS IN A DIESEL ENGINE ARCHITECTURE"
+      ],
+      "abstract": "Embodiments disclosed herein relate generally to systems and methods of operating internal combustion (IC) engines, and more specifically to systems and methods of starting compression ignition (CI) engines when the surrounding environment is significantly colder than the normal operating temperature of the engine (i.e., \"cold-starting\"). In some embodiments, the CI engine can include an ignition-assist device. In some embodiments, a method of operating a CI engine during cold-start can include opening an intake valve to draw a volume of air into the combustion chamber, moving a piston from a bottom-dead-center position to a top-dead-center position in a combustion chamber at a compression ratio of between about 15 and about 25, injecting a volume of fuel, the fuel having a cetane number of less than about 30, closing the intake valve, and combusting substantially all of the volume of fuel.",
+      "publicationNumber": "WO2020232287",
+      "publicationDate": "2021-04-15",
+      "assignee": [
+        "CLEARFLAME ENGINES, INC."
+      ],
+      "inventors": [
+        "Julie BLUMREITER",
+        "BERNARD JOHNSON"
+      ],
+      "applicationDate": "2020-05-14",
+      "claimsCount": 43,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 12.250826
+    },
+    {
+      "id": "WO-2020232287-A1",
+      "title": [
+        "COLD-START FOR HIGH-OCTANE FUELS IN A DIESEL ENGINE ARCHITECTURE"
+      ],
+      "abstract": "Embodiments disclosed herein relate generally to systems and methods of operating internal combustion (IC) engines, and more specifically to systems and methods of starting compression ignition (CI) engines when the surrounding environment is significantly colder than the normal operating temperature of the engine (i.e., \"cold-starting\"). In some embodiments, the CI engine can include an ignition-assist device. In some embodiments, a method of operating a CI engine during cold-start can include opening an intake valve to draw a volume of air into the combustion chamber, moving a piston from a bottom-dead-center position to a top-dead-center position in a combustion chamber at a compression ratio of between about 15 and about 25, injecting a volume of fuel, the fuel having a cetane number of less than about 30, closing the intake valve, and combusting substantially all of the volume of fuel.",
+      "publicationNumber": "WO2020232287",
+      "publicationDate": "2020-11-19",
+      "assignee": [
+        "CLEARFLAME ENGINES, INC."
+      ],
+      "inventors": [
+        "Julie BLUMREITER",
+        "BERNARD JOHNSON"
+      ],
+      "applicationDate": "2020-05-14",
+      "claimsCount": 43,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 12.250826
+    },
+    {
+      "id": "EP-3969738-A1",
+      "title": [
+        "COLD-START FOR HIGH-OCTANE FUELS IN A DIESEL ENGINE ARCHITECTURE"
+      ],
+      "abstract": "Embodiments disclosed herein relate generally to systems and methods of operating internal combustion (IC) engines, and more specifically to systems and methods of starting compression ignition (CI) engines when the surrounding environment is significantly colder than the normal operating temperature of the engine (i.e., \"cold-starting\"). In some embodiments, the CI engine can include an ignition-assist device. In some embodiments, a method of operating a CI engine during cold-start can include opening an intake valve to draw a volume of air into the combustion chamber, moving a piston from a bottom-dead-center position to a top-dead-center position in a combustion chamber at a compression ratio of between about 15 and about 25, injecting a volume of fuel, the fuel having a cetane number of less than about 30, closing the intake valve, and combusting substantially all of the volume of fuel.",
+      "publicationNumber": "EP3969738",
+      "publicationDate": "2022-03-23",
+      "assignee": [
+        "Clearflame Engines, Inc."
+      ],
+      "inventors": [
+        "Julie BLUMREITER",
+        "BERNARD JOHNSON"
+      ],
+      "applicationDate": "2020-05-14",
+      "claimsCount": 43,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 12.250826
+    },
+    {
+      "id": "BR-112021022895-A2",
+      "title": [
+        "Partida a frio para combust\u00edveis de alta octanagem em uma arquitetura de motor a diesel"
+      ],
+      "abstract": "partida a frio para combust\u00edveis de alta octanagem em uma arquitetura de motor a diesel . modalidades divulgadas aqui referem-se geralmente a sistemas e m\u00e9todos de opera\u00e7\u00e3o de motores de combust\u00e3o interna (ic) e, mais especificamente, a sistemas e m\u00e9todos de motores de igni\u00e7\u00e3o por compress\u00e3o (ci) de partida quando o ambiente circundante \u00e9 significantemente mais frio do que a temperatura normal de opera\u00e7\u00e3o do motor (isto \u00e9, inicializa\u00e7\u00e3o a frio). em algumas modalidades, o motor de ci pode incluir um dispositivo auxiliar de igni\u00e7\u00e3o. em algumas modalidades, um m\u00e9todo de opera\u00e7\u00e3o de um motor de ci durante a partida a frio pode incluir a abertura de uma v\u00e1lvula de admiss\u00e3o para puxar um volume de ar na c\u00e2mara de combust\u00e3o, movendo um pist\u00e3o de uma posi\u00e7\u00e3o de centro morto inferior para uma posi\u00e7\u00e3o de centro morto superior em uma c\u00e2mara de combust\u00e3o a uma raz\u00e3o de compress\u00e3o entre cerca de 15 e cerca de 25, injetando um volume de combust\u00edvel, o combust\u00edvel tendo um n\u00famero de cetano de menos do que cerca de 30, fechando a v\u00e1lvula de admiss\u00e3o, e queimando substancialmente todo o volume de combust\u00edvel.",
+      "publicationNumber": "BR112021022895",
+      "publicationDate": "2022-01-18",
+      "assignee": [
+        "CLEARFLAME ENGINES, INC."
+      ],
+      "inventors": [
+        "JOHNSON BERNARD",
+        "BLUMREITER JULIE"
+      ],
+      "applicationDate": "2020-05-14",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 12.250826
+    },
+    {
+      "id": "US-20220018297-A1",
+      "title": [
+        "SYSTEMS AND METHODS OF CYLINDER DEACTIVATION IN HIGH-TEMPERATURE MIXING-CONTROLLED ENGINES"
+      ],
+      "abstract": "Embodiments described herein relate to systems and methods of cylinder deactivation in compression-ignition engines. An engine described herein can include N cylinders, with N being an integer of at least 2, with each cylinder including an inner surface, a piston disposed and configured to move in each cylinder of the N cylinders, an intake port, an exhaust port, and a fuel injector. The piston and the inner surface define a combustion chamber. A method of operating the compression ignition engine includes injecting a fuel into each of the combustion chambers, combusting substantially all of the fuel in the compression ignition engine, monitoring engine load of the compression ignition engine, and deactivating a cylinder of the N cylinders upon a decrease in load to less than (N\u22121)/N\u00d7FL, wherein FL is a full load at a given engine speed.",
+      "publicationNumber": "US20220018297",
+      "publicationDate": "2022-01-20",
+      "assignee": [
+        "CLEARFLAME ENGINES, INC."
+      ],
+      "inventors": [
+        "Julie BLUMREITER",
+        "Bernard Johnson",
+        "Robert Schanz",
+        "MANOHAR VITTAL"
+      ],
+      "applicationDate": "2021-09-30",
+      "claimsCount": 30,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 12.027865
+    },
+    {
+      "id": "US-20250027440-A1",
+      "title": [
+        "SYSTEMS AND METHODS FOR COMBUSTING UNCONVENTIONAL FUEL CHEMISTRIES IN A DIESEL ENGINE ARCHITECTURE"
+      ],
+      "abstract": "Embodiments described herein relate to systems and methods of operating internal combustion (IC) engines by combusting various fuel chemistries therein. Specifically, engines described herein can operate a wide range of fuel chemistries with varying molecular formulas. The chemical compositions of the fuels described herein make them more difficult to ignite than long chain hydrocarbons (i.e., fuels that include 6 or more carbon atoms in a molecule). In some embodiments, engines described herein can combust fuels that have the chemical properties of alcohols. In some embodiments, engines described herein can combust fuels that include hydroxide groups. Examples of such fuels include methanol and/or ethanol. In some embodiments, engines described herein can combust natural gas. These fuel chemistries are difficult to ignite, particularly at low temperatures and during initial engine startup. Systems and methods described herein address these ignition difficulties, particularly in diesel engine architectures.",
+      "publicationNumber": "US20250027440",
+      "publicationDate": "2025-01-23",
+      "assignee": [
+        "CLEARFLAME ENGINES, INC."
+      ],
+      "inventors": [
+        "Julie BLUMREITER",
+        "Bernard Johnson"
+      ],
+      "applicationDate": "2024-03-04",
+      "claimsCount": 30,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.969691
+    },
+    {
+      "id": "JP-2025107190-A",
+      "title": [
+        "COLD-START FOR HIGH-OCTANE FUELS IN DIESEL ENGINE ARCHITECTURE"
+      ],
+      "abstract": "To disclose embodiments that relate generally to systems and methods of operating internal combustion (IC) engines, and more specifically to systems and methods of starting compression ignition (CI) engines when a surrounding environment is significantly colder than a normal operating temperature of the engine (i.e., \"cold-start\").SOLUTION: In some embodiments, the CI engine can include an ignition-assist device. In some embodiments, a method of operating the CI engine during cold-start can include opening an intake valve to draw a volume of air into the combustion chamber, moving a piston from a bottom-dead-center position to a top-dead-center position in a combustion chamber at a compression ratio of between about 15 and about 25, injecting a volume of fuel, the fuel having a cetane number of less than about 30, closing the intake valve, and combusting substantially all of the volume of fuel.SELECTED DRAWING: Figure 2",
+      "publicationNumber": "JP2025107190",
+      "publicationDate": "2025-07-17",
+      "assignee": [
+        "CLEARFLAME ENGINES INC"
+      ],
+      "inventors": [
+        "JULIE BLUMREITER",
+        "BERNARD JOHNSON"
+      ],
+      "applicationDate": "2025-04-18",
+      "claimsCount": 43,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.960474
+    },
+    {
+      "id": "WO-2024044699-A1",
+      "title": [
+        "INTAKE TEMPERATURE MANAGEMENT SYSTEMS FOR COMPRESSION IGNITION OF SMALL MOLECULE FUELS"
+      ],
+      "abstract": "Embodiments described herein relate to systems and methods of managing intake temperature of intake gases in internal combustion engines to enable autoignition of small-molecule low-cetane fuels. In some aspects, a method of operating a compression ignition engine can include moving a volume of air through a first flow path, closing a first valve to prevent the volume of air from entering a charge air cooler (CAC), opening a second valve to guide the volume of air to a second flow path, the second flow path including a heating unit, and moving the volume of air to an intake manifold. In some embodiments, the method can further include applying heat via the heating unit to the volume of air while the volume of air moves through the second flow path.",
+      "publicationNumber": "WO2024044699",
+      "publicationDate": "2024-02-29",
+      "assignee": [
+        "CLEARFLAME ENGINES, INC."
+      ],
+      "inventors": [
+        "Julie BLUMREITER",
+        "Robert Schanz",
+        "IV, Bernard Henry JOHNSON",
+        "PETER V. WOON",
+        "Manohar VITTAL",
+        "Jeremy BABINET",
+        "CRAIG BARNES",
+        "JIM CLERC",
+        "GREG HENDERSON",
+        "Cody WOLFLE",
+        "Brandon BARNGROVER"
+      ],
+      "applicationDate": "2023-08-24",
+      "claimsCount": 25,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.851768
+    },
+    {
+      "id": "WO-2021174016-A1",
+      "title": [
+        "FUEL AGNOSTIC COMPRESSION IGNITION ENGINE"
+      ],
+      "abstract": "Some embodiments described herein relate to a method of operating a compression ignition engine. The method of operating the compression ignition engine includes opening an intake valve to draw a volume of air into a combustion chamber, closing an intake valve, and moving a piston from a bottom-dead-center (BDC) position to a top-dead-center (TDC) position in the combustion chamber at a compression ratio of at least about 15:1. The method further includes injecting a volume of fuel into the combustion chamber at an engine crank angle between about 330 degrees and about 365 degrees during a first time period. The fuel has a cetane number less than about 40. The method further includes combusting substantially all of the volume of fuel. In some embodiments, a delay between injecting the volume of fuel into the combustion chamber and initiation of combustion is less than about 2 ms.",
+      "publicationNumber": "WO2021174016",
+      "publicationDate": "2021-09-02",
+      "assignee": [
+        "CLEARFLAME ENGINES, INC."
+      ],
+      "inventors": [
+        "Julie BLUMREITER",
+        "BERNARD JOHNSON",
+        "Robert Schanz"
+      ],
+      "applicationDate": "2021-02-26",
+      "claimsCount": 53,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.851768
+    },
+    {
+      "id": "MX-2022010464-A",
+      "title": [
+        "FUEL AGNOSTIC COMPRESSION IGNITION ENGINE."
+      ],
+      "abstract": "Some embodiments described herein relate to a method of operating a compression ignition engine. The method of operating the compression ignition engine includes opening an intake valve to draw a volume of air into a combustion chamber, closing an intake valve, and moving a piston from a bottom-dead-center (BDC) position to a top-dead-center (TDC) position in the combustion chamber at a compression ratio of at least about 15:1. The method further includes injecting a volume of fuel into the combustion chamber at an engine crank angle between about 330 degrees and about 365 degrees during a first time period. The fuel has a cetane number less than about 40. The method further includes combusting substantially all of the volume of fuel. In some embodiments, a delay between injecting the volume of fuel into the combustion chamber and initiation of combustion is less than about 2 ms.",
+      "publicationNumber": "MX2022010464",
+      "publicationDate": "2022-12-13",
+      "assignee": [
+        "CLEARFLAME ENGINES, INC"
+      ],
+      "inventors": [
+        "BLUMREITER JULIE",
+        "JOHNSON BERNARD",
+        "SCHANZ ROBERT"
+      ],
+      "applicationDate": "2021-02-26",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.851768
+    },
+    {
+      "id": "EP-4111043-A1",
+      "title": [
+        "FUEL AGNOSTIC COMPRESSION IGNITION ENGINE"
+      ],
+      "abstract": "Some embodiments described herein relate to a method of operating a compression ignition engine. The method of operating the compression ignition engine includes opening an intake valve to draw a volume of air into a combustion chamber, closing an intake valve, and moving a piston from a bottom-dead-center (BDC) position to a top-dead-center (TDC) position in the combustion chamber at a compression ratio of at least about 15:1. The method further includes injecting a volume of fuel into the combustion chamber at an engine crank angle between about 330 degrees and about 365 degrees during a first time period. The fuel has a cetane number less than about 40. The method further includes combusting substantially all of the volume of fuel. In some embodiments, a delay between injecting the volume of fuel into the combustion chamber and initiation of combustion is less than about 2 ms.",
+      "publicationNumber": "EP4111043",
+      "publicationDate": "2023-01-04",
+      "assignee": [
+        "Clearflame Engines, Inc."
+      ],
+      "inventors": [
+        "Julie BLUMREITER",
+        "BERNARD JOHNSON",
+        "Robert Schanz"
+      ],
+      "applicationDate": "2021-02-26",
+      "claimsCount": 53,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.851768
+    },
+    {
+      "id": "BR-112022016440-A2",
+      "title": [
+        "MOTOR DE IGNI\u00c7\u00c3O POR COMPRESS\u00c3O AGN\u00d3STICO DE COMBUST\u00cdVEL"
+      ],
+      "abstract": "MOTOR DE IGNI\u00c7\u00c3O POR COMPRESS\u00c3O AGN\u00d3STICO DE COMBUST\u00cdVEL. Algumas modalidades descritas no presente documento se referem a um m\u00e9todo de funcionamento de um motor de igni\u00e7\u00e3o por compress\u00e3o. O m\u00e9todo de funcionamento do motor de igni\u00e7\u00e3o por compress\u00e3o inclui abrir uma v\u00e1lvula de admiss\u00e3o para arrastar um volume de ar para uma c\u00e2mara de combust\u00e3o, fechar uma v\u00e1lvula de admiss\u00e3o, e mover um pist\u00e3o de uma posi\u00e7\u00e3o de ponto morto inferior (BDC) para uma posi\u00e7\u00e3o de ponto morto superior (TDC) na c\u00e2mara de combust\u00e3o em uma taxa de compress\u00e3o de pelo menos cerca 15:1. O m\u00e9todo inclui ainda injetar um volume de combust\u00edvel na c\u00e2mara de combust\u00e3o em um \u00e2ngulo de manivela de motor entre cerca de 330 graus e cerca de 365 graus durante um primeiro per\u00edodo de tempo. O combust\u00edvel tem um \u00edndice de cetano menor que cerca 40. O m\u00e9todo inclui ainda queimar substancialmente todo o volume de combust\u00edvel. De acordo com algumas modalidades, um atraso entre injetar o volume de combust\u00edvel na c\u00e2mara de combust\u00e3o e iniciar combust\u00e3o \u00e9 menor que cerca 2 ms.",
+      "publicationNumber": "BR112022016440",
+      "publicationDate": "2022-10-04",
+      "assignee": [
+        "CLEARFLAME ENGINES, INC."
+      ],
+      "inventors": [
+        "JULIE BLUMREITER",
+        "BERNARD JOHNSON",
+        "ROBERT SCHANZ"
+      ],
+      "applicationDate": "2021-02-26",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.851768
+    },
+    {
+      "id": "AU-2021225956-A1",
+      "title": [
+        "Fuel agnostic compression ignition engine"
+      ],
+      "abstract": "Some embodiments described herein relate to a method of operating a compression ignition engine. The method of operating the compression ignition engine includes opening an intake valve to draw a volume of air into a combustion chamber, closing an intake valve, and moving a piston from a bottom-dead-center (BDC) position to a top-dead-center (TDC) position in the combustion chamber at a compression ratio of at least about 15:1. The method further includes injecting a volume of fuel into the combustion chamber at an engine crank angle between about 330 degrees and about 365 degrees during a first time period. The fuel has a cetane number less than about 40. The method further includes combusting substantially all of the volume of fuel. In some embodiments, a delay between injecting the volume of fuel into the combustion chamber and initiation of combustion is less than about 2 ms.",
+      "publicationNumber": "AU2021225956",
+      "publicationDate": "2022-08-25",
+      "assignee": [
+        "CLEARFLAME ENGINES, INC."
+      ],
+      "inventors": [
+        "Julie BLUMREITER",
+        "BERNARD JOHNSON",
+        "Robert Schanz"
+      ],
+      "applicationDate": "2021-02-26",
+      "claimsCount": 53,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.851768
+    },
+    {
+      "id": "US-20250035062-A1",
+      "title": [
+        "FUEL AGNOSTIC COMPRESSION IGNITION ENGINE"
+      ],
+      "abstract": "Some embodiments described herein relate to a method of operating a compression ignition engine. The method of operating the compression ignition engine includes opening an intake valve to draw a volume of air into a combustion chamber, closing an intake valve, and moving a piston from a bottom-dead-center (BDC) position to a top-dead-center (TDC) position in the combustion chamber at a compression ratio of at least about 15:1. The method further includes injecting a volume of fuel into the combustion chamber at an engine crank angle between about 330 degrees and about 365 degrees during a first time period. The fuel has a cetane number less than about 40. The method further includes combusting substantially all of the volume of fuel. In some embodiments, a delay between injecting the volume of fuel into the combustion chamber and initiation of combustion is less than about 2 ms.",
+      "publicationNumber": "US20250035062",
+      "publicationDate": "2025-01-30",
+      "assignee": [
+        "CLEARFLAME ENGINES, INC."
+      ],
+      "inventors": [
+        "Julie BLUMREITER",
+        "Bernard Johnson",
+        "Robert Schanz"
+      ],
+      "applicationDate": "2024-03-04",
+      "claimsCount": 30,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.581797
+    },
+    {
+      "id": "US-20230258143-A1",
+      "title": [
+        "FULL AGNOSTIC COMPRESSION IGNITION ENGINE"
+      ],
+      "abstract": "Some embodiments described herein relate to a method of operating a compression ignition engine. The method of operating the compression ignition engine includes opening an intake valve to draw a volume of air into a combustion chamber, closing an intake valve, and moving a piston from a bottom-dead-center (BDC) position to a top-dead-center (TDC) position in the combustion chamber at a compression ratio of at least about 15:1. The method further includes injecting a volume of fuel into the combustion chamber at an engine crank angle between about 330 degrees and about 365 degrees during a first time period. The fuel has a cetane number less than about 40. The method further includes combusting substantially all of the volume of fuel. In some embodiments, a delay between injecting the volume of fuel into the combustion chamber and initiation of combustion is less than about 2 ms.",
+      "publicationNumber": "US20230258143",
+      "publicationDate": "2023-08-17",
+      "assignee": [
+        "CLEARFLAME ENGINES, INC."
+      ],
+      "inventors": [
+        "Julie BLUMREITER",
+        "Bernard Johnson",
+        "Robert Schanz"
+      ],
+      "applicationDate": "2023-02-27",
+      "claimsCount": 30,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.581797
+    },
+    {
+      "id": "US-20230212997-A1",
+      "title": [
+        "FUEL AGNOSTIC COMPRESSION IGNITION ENGINE"
+      ],
+      "abstract": "Some embodiments described herein relate to a method of operating a compression ignition engine. The method of operating the compression ignition engine includes opening an intake valve to draw a volume of air into a combustion chamber, closing an intake valve, and moving a piston from a bottom-dead-center (BDC) position to a top-dead-center (TDC) position in the combustion chamber at a compression ratio of at least about 15:1. The method further includes injecting a volume of fuel into the combustion chamber at an engine crank angle between about 330 degrees and about 365 degrees during a first time period. The fuel has a cetane number less than about 40. The method further includes combusting substantially all of the volume of fuel. In some embodiments, a delay between injecting the volume of fuel into the combustion chamber and initiation of combustion is less than about 2 ms.",
+      "publicationNumber": "US20230212997",
+      "publicationDate": "2023-07-06",
+      "assignee": [
+        "CLEARFLAME ENGINES, INC."
+      ],
+      "inventors": [
+        "Julie BLUMREITER",
+        "Bernard Johnson",
+        "Robert Schanz"
+      ],
+      "applicationDate": "2023-02-27",
+      "claimsCount": 30,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.581797
+    },
+    {
+      "id": "US-20220349359-A1",
+      "title": [
+        "FUEL AGNOSTIC COMPRESSION IGNITION ENGINE"
+      ],
+      "abstract": "Some embodiments described herein relate to a method of operating a compression ignition engine. The method of operating the compression ignition engine includes opening an intake valve to draw a volume of air into a combustion chamber, closing an intake valve, and moving a piston from a bottom-dead-center (BDC) position to a top-dead-center (TDC) position in the combustion chamber at a compression ratio of at least about 15:1. The method further includes injecting a volume of fuel into the combustion chamber at an engine crank angle between about 330 degrees and about 365 degrees during a first time period. The fuel has a cetane number less than about 40. The method further includes combusting substantially all of the volume of fuel. In some embodiments, a delay between injecting the volume of fuel into the combustion chamber and initiation of combustion is less than about 2 ms.",
+      "publicationNumber": "US20220349359",
+      "publicationDate": "2022-11-03",
+      "assignee": [
+        "CLEARFLAME ENGINES, INC."
+      ],
+      "inventors": [
+        "Julie BLUMREITER",
+        "Bernard Johnson",
+        "Robert Schanz"
+      ],
+      "applicationDate": "2022-07-13",
+      "claimsCount": 53,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.581797
+    },
+    {
+      "id": "US-20240191649-A1",
+      "title": [
+        "FUEL AGNOSTIC COMPRESSION IGNITION ENGINE"
+      ],
+      "abstract": "Some embodiments described herein relate to a method of operating a compression ignition (CI) engine. The CI engine can include a combustion chamber. The method of operating the CI engine includes receiving a volume of intake charge in the combustion chamber, compressing the intake charge, injecting a volume of fuel into the combustion chamber, the fuel having a cetane number less than about 40, and combusting substantially all of the volume of fuel. A delay between injecting the volume of fuel into the combustion chamber and initiation of combustion is less than about 2 ms. The CI engine includes at least a two-stroke engine, an opposed-piston engine, a two-stroke opposed piston engine, a five-stroke engine, a six-stroke engine, a free-piston engine, a free piston engine linear, a rotary engine, and/or a Wankel rotary engine.",
+      "publicationNumber": "US20240191649",
+      "publicationDate": "2024-06-13",
+      "assignee": [
+        "CLEARFLAME ENGINES, INC."
+      ],
+      "inventors": [
+        "Julie BLUMREITER",
+        "Bernard Johnson",
+        "Robert Schanz",
+        "MANOHAR VITTAL"
+      ],
+      "applicationDate": "2024-02-26",
+      "claimsCount": 59,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.457448
+    },
+    {
+      "id": "US-20240102426-A1",
+      "title": [
+        "SYSTEMS AND METHODS OF CYLINDER DEACTIVATION IN HIGH-TEMPERATURE MIXING-CONTROLLED ENGINES"
+      ],
+      "abstract": "Embodiments described herein relate to systems and methods of cylinder deactivation in compression-ignition engines. An engine described herein can include N cylinders, with N being an integer of at least 2, with each cylinder including an inner surface, a piston disposed and configured to move in each cylinder of the N cylinders, an intake port, an exhaust port, and a fuel injector. The piston and the inner surface define a combustion chamber. A method of operating the compression ignition engine includes injecting a fuel into each of the combustion chambers, combusting substantially all of the fuel in the compression ignition engine, monitoring engine load of the compression ignition engine, and deactivating a cylinder of the N cylinders upon a decrease in load to less than (N\u22121)/N\u00d7FL, wherein FL is a full load at a given engine speed.",
+      "publicationNumber": "US20240102426",
+      "publicationDate": "2024-03-28",
+      "assignee": [
+        "CLEARFLAME ENGINES, INC."
+      ],
+      "inventors": [
+        "Julie BLUMREITER",
+        "Bernard Johnson",
+        "Robert Schanz",
+        "MANOHAR VITTAL"
+      ],
+      "applicationDate": "2023-04-28",
+      "claimsCount": 20,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.289345
+    },
+    {
+      "id": "US-12497926-B2",
+      "title": [
+        "Systems and methods of cylinder deactivation in high-temperature mixing-controlled engines"
+      ],
+      "abstract": "Embodiments described herein relate to systems and methods of cylinder deactivation in compression-ignition engines. An engine described herein can include N cylinders, with N being an integer of at least 2, with each cylinder including an inner surface, a piston disposed and configured to move in each cylinder of the N cylinders, an intake port, an exhaust port, and a fuel injector. The piston and the inner surface define a combustion chamber. A method of operating the compression ignition engine includes injecting a fuel into each of the combustion chambers, combusting substantially all of the fuel in the compression ignition engine, monitoring engine load of the compression ignition engine, and deactivating a cylinder of the N cylinders upon a decrease in load to less than (N\u22121)/N\u00d7FL, wherein FL is a full load at a given engine speed.",
+      "publicationNumber": "US12497926",
+      "publicationDate": "2025-12-16",
+      "assignee": [
+        "CLIMATE ENERGY INVESTMENTS, LLC"
+      ],
+      "inventors": [
+        "Julie BLUMREITER",
+        "Bernard Johnson",
+        "Robert Schanz",
+        "MANOHAR VITTAL"
+      ],
+      "applicationDate": "2023-04-28",
+      "claimsCount": 29,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.289345
+    },
+    {
+      "id": "US-11674462-B2",
+      "title": [
+        "Systems and methods of cylinder deactivation in high-temperature mixing-controlled engines"
+      ],
+      "abstract": "Embodiments described herein relate to systems and methods of cylinder deactivation in compression-ignition engines. An engine described herein can include N cylinders, with N being an integer of at least 2, with each cylinder including an inner surface, a piston disposed and configured to move in each cylinder of the N cylinders, an intake port, an exhaust port, and a fuel injector. The piston and the inner surface define a combustion chamber. A method of operating the compression ignition engine includes injecting a fuel into each of the combustion chambers, combusting substantially all of the fuel in the compression ignition engine, monitoring engine load of the compression ignition engine, and deactivating a cylinder of the N cylinders upon a decrease in load to less than (N\u22121)/N\u00d7FL, wherein FL is a full load at a given engine speed.",
+      "publicationNumber": "US11674462",
+      "publicationDate": "2023-06-13",
+      "assignee": [
+        "CLEARFLAME ENGINES, INC."
+      ],
+      "inventors": [
+        "Julie BLUMREITER",
+        "Bernard Johnson",
+        "Robert Schanz",
+        "MANOHAR VITTAL"
+      ],
+      "applicationDate": "2021-09-30",
+      "claimsCount": 27,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.289345
+    },
+    {
+      "id": "IN-202417013828-A",
+      "title": [
+        "FUEL AGNOSTIC COMPRESSION IGNITION ENGINE"
+      ],
+      "abstract": "Some embodiments described herein relate to a method of operating a compression ignition (CI) engine. The CI engine can include a combustion chamber. The method of operating the CI engine includes receiving a volume of intake charge in the combustion chamber, compressing the intake charge, injecting a volume of fuel into the combustion chamber, the fuel having a cetane number less than about 40, and combusting substantially all of the volume of fuel. A delay between injecting the volume of fuel into the combustion chamber and initiation of combustion is less than about 2 ms. The CI engine includes at least a two-stroke engine, an opposed-piston engine, a two-stroke opposed piston engine, a five-stroke engine, a six-stroke engine, a free-piston engine, a free piston engine linear, a rotary engine, and/or a Wankel rotary engine.",
+      "publicationNumber": "IN202417013828",
+      "publicationDate": "2024-03-08",
+      "assignee": [
+        "CLEARFLAME ENGINES INC"
+      ],
+      "inventors": [
+        "BLUMREITER JULIE",
+        "JOHNSON BERNARD",
+        "SCHANZ ROBERT",
+        "VITTAL MANOHAR"
+      ],
+      "applicationDate": "2024-02-26",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.245732
+    },
+    {
+      "id": "BR-112024003566-A2",
+      "title": [
+        "MOTOR DE IGNI\u00c7\u00c3O POR COMPRESS\u00c3O AGN\u00d3STICA DE COMBUST\u00cdVEL"
+      ],
+      "abstract": "",
+      "publicationNumber": "BR112024003566",
+      "publicationDate": "2024-06-11",
+      "assignee": [
+        "CLEARFLAME ENGINES, INC."
+      ],
+      "inventors": [
+        "JULIE BLUMREITER",
+        "BERNARD JOHNSON",
+        "ROBERT SCHANZ",
+        "MANOHAR VITTAL"
+      ],
+      "applicationDate": "2022-08-24",
+      "claimsCount": 59,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.245732
+    },
+    {
+      "id": "US-20230129315-A1",
+      "title": [
+        "Cold Start for High-Octane Fuels in a Diesel Engine Architecture"
+      ],
+      "abstract": "Embodiments disclosed herein relate generally to systems and methods of operating internal combustion (IC) engines, and more specifically to systems and methods of starting compression ignition (CI) engines when the surrounding environment is significantly colder than the normal operating temperature of the engine (i.e., \u201ccold-starting\u201d). In some embodiments, the CI engine can include an ignition-assist device. In some embodiments, a method of operating a CI engine during cold-start can include opening an intake valve to draw a volume of air into the combustion chamber, moving a piston from a bottom-dead-center position to a top-dead-center position in a combustion chamber at a compression ratio of between about 15 and about 25, injecting a volume of fuel, the fuel having a cetane number of less than about 30, closing the intake valve, and combusting substantially all of the volume of fuel.",
+      "publicationNumber": "US20230129315",
+      "publicationDate": "2023-04-27",
+      "assignee": [
+        "CLEARFLAME ENGINES, INC."
+      ],
+      "inventors": [
+        "Julie BLUMREITER",
+        "Bernard Henry JOHNSON, IV"
+      ],
+      "applicationDate": "2022-12-23",
+      "claimsCount": 43,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.234158
+    },
+    {
+      "id": "US-20210054777-A1",
+      "title": [
+        "COLD START FOR HIGH-OCTANE FUELS IN A DIESEL ENGINE ARCHITECTURE"
+      ],
+      "abstract": "Embodiments disclosed herein relate generally to systems and methods of operating internal combustion (IC) engines, and more specifically to systems and methods of starting compression ignition (CI) engines when the surrounding environment is significantly colder than the normal operating temperature of the engine (i.e., \u201ccold-starting\u201d). In some embodiments, the CI engine can include an ignition-assist device. In some embodiments, a method of operating a CI engine during cold-start can include opening an intake valve to draw a volume of air into the combustion chamber, moving a piston from a bottom-dead-center position to a top-dead-center position in a combustion chamber at a compression ratio of between about 15 and about 25, injecting a volume of fuel, the fuel having a cetane number of less than about 30, closing the intake valve, and combusting substantially all of the volume of fuel.",
+      "publicationNumber": "US20210054777",
+      "publicationDate": "2021-02-25",
+      "assignee": [
+        "CLEARFLAME ENGINES, INC."
+      ],
+      "inventors": [
+        "Julie BLUMREITER",
+        "Bernard Johnson"
+      ],
+      "applicationDate": "2020-11-09",
+      "claimsCount": 30,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.234158
+    },
+    {
+      "id": "US-11952936-B1",
+      "title": [
+        "Systems and methods for combusting unconventional fuel chemistries in a diesel engine architecture"
+      ],
+      "abstract": "Embodiments described herein relate to systems and methods of operating internal combustion (IC) engines by combusting various fuel chemistries therein. Specifically, engines described herein can operate a wide range of fuel chemistries with varying molecular formulas. The chemical compositions of the fuels described herein make them more difficult to ignite than long chain hydrocarbons (i.e., fuels that include 6 or more carbon atoms in a molecule). In some embodiments, engines described herein can combust fuels that have the chemical properties of alcohols. In some embodiments, engines described herein can combust fuels that include hydroxide groups. Examples of such fuels include methanol and/or ethanol. In some embodiments, engines described herein can combust natural gas. These fuel chemistries are difficult to ignite, particularly at low temperatures and during initial engine startup. Systems and methods described herein address these ignition difficulties, particularly in diesel engine architectures.",
+      "publicationNumber": "US11952936",
+      "publicationDate": "2024-04-09",
+      "assignee": [
+        "CLEARFLAME ENGINES, INC."
+      ],
+      "inventors": [
+        "Julie BLUMREITER",
+        "Bernard Henry JOHNSON, IV"
+      ],
+      "applicationDate": "2023-01-09",
+      "claimsCount": 30,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.234158
+    },
+    {
+      "id": "IN-202317002040-A",
+      "title": [
+        "SYSTEMS AND METODS OF CYLINDER DEACTIVATION IN HIGH-TEMPERATURE MIXING- CONTROLLED ENGINES"
+      ],
+      "abstract": "Embodiments described herein relate to systems and methods of cylinder deactivation in compression-ignition engines. An engine described herein can include N cylinders, with N being an integer of at least 2, with each cylinder including an inner surface, a piston disposed and configured to move in each cylinder of the N cylinders, an intake port, an exhaust port, and a fuel injector. The piston and the inner surface define a combustion chamber. A method of operating the compression ignition engine includes injecting a fuel into each of the combustion chambers, combusting substantially all of the fuel in the compression ignition engine, monitoring engine load of the compression ignition engine, and deactivating a cylinder of the N cylinders upon a decrease in load to less than (N-1)/N x FL, wherein FL is a full load at a given engine speed.",
+      "publicationNumber": "IN202317002040",
+      "publicationDate": "2023-10-13",
+      "assignee": [
+        "CLEARFLAME ENGINES INC"
+      ],
+      "inventors": [
+        "BLUMREITER JULIE",
+        "JOHNSON BERNARD",
+        "SCHANZ ROBERT",
+        "VITTAL MANOHAR"
+      ],
+      "applicationDate": "2023-01-10",
+      "claimsCount": 43,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.0795555
+    },
+    {
+      "id": "IN-202117054740-A",
+      "title": [
+        "COLD-START FOR HIGH-OCTANE FUELS IN A DIESEL ENGINE ARCHITECTURE"
+      ],
+      "abstract": "Embodiments disclosed herein relate generally to systems and methods of operating internal combustion (IC) engines, and more specifically to systems and methods of starting compression ignition (CI) engines when the surrounding environment is significantly colder than the normal operating temperature of the engine (i.e., cold-starting). In some embodiments, the CI engine can include an ignition-assist device. In some embodiments, a method of operating a CI engine during cold-start can include opening an intake valve to draw a volume of air into the combustion chamber, moving a piston from a bottom-dead-center position to a top-dead-center position in a combustion chamber at a compression ratio of between about 15 and about 25, injecting a volume of fuel, the fuel having a cetane number of less than about 30, closing the intake valve, and combusting substantially all of the volume of fuel.",
+      "publicationNumber": "IN202117054740",
+      "publicationDate": "2022-04-29",
+      "assignee": [
+        "CLEARFLAME ENGINES INC"
+      ],
+      "inventors": [
+        "BLUMREITER JULIE",
+        "JOHNSON BERNARD"
+      ],
+      "applicationDate": "2021-11-26",
+      "claimsCount": 43,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.029294
+    },
+    {
+      "id": "US-20220003184-A1",
+      "title": [
+        "FUEL AGNOSTIC COMPRESSION IGNITION ENGINE"
+      ],
+      "abstract": "Some embodiments described herein relate to a method of operating a compression ignition engine. The method of operating the compression ignition engine includes opening an intake valve to draw a volume of air into a combustion chamber, closing an intake valve, and moving a piston from a bottom-dead-center (BDC) position to a top-dead-center (TDC) position in the combustion chamber at a compression ratio of at least about 15:1. The method further includes injecting a volume of fuel into the combustion chamber at an engine crank angle between about 330 degrees and about 365 degrees during a first time period. The fuel has a cetane number less than about 40. The method further includes combusting substantially all of the volume of fuel. In some embodiments, a delay between injecting the volume of fuel into the combustion chamber and initiation of combustion is less than about 2 ms.",
+      "publicationNumber": "US20220003184",
+      "publicationDate": "2022-01-06",
+      "assignee": [
+        "CLEARFLAME ENGINES, INC."
+      ],
+      "inventors": [
+        "Julie BLUMREITER",
+        "Bernard Johnson",
+        "Robert Schanz"
+      ],
+      "applicationDate": "2021-09-16",
+      "claimsCount": 30,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 10.872652
+    },
+    {
+      "id": "US-11976606-B2",
+      "title": [
+        "Full agnostic compression ignition engine"
+      ],
+      "abstract": "Some embodiments described herein relate to a method of operating a compression ignition engine. The method of operating the compression ignition engine includes opening an intake valve to draw a volume of air into a combustion chamber, closing an intake valve, and moving a piston from a bottom-dead-center (BDC) position to a top-dead-center (TDC) position in the combustion chamber at a compression ratio of at least about 15:1. The method further includes injecting a volume of fuel into the combustion chamber at an engine crank angle between about 330 degrees and about 365 degrees during a first time period. The fuel has a cetane number less than about 40. The method further includes combusting substantially all of the volume of fuel. In some embodiments, a delay between injecting the volume of fuel into the combustion chamber and initiation of combustion is less than about 2 ms.",
+      "publicationNumber": "US11976606",
+      "publicationDate": "2024-05-07",
+      "assignee": [
+        "CLEARFLAME ENGINES, INC."
+      ],
+      "inventors": [
+        "Julie BLUMREITER",
+        "Bernard Johnson",
+        "Robert Schanz"
+      ],
+      "applicationDate": "2023-02-27",
+      "claimsCount": 30,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 10.872652
+    },
+    {
+      "id": "US-11959434-B2",
+      "title": [
+        "Fuel agnostic compression ignition engine"
+      ],
+      "abstract": "Some embodiments described herein relate to a method of operating a compression ignition engine. The method of operating the compression ignition engine includes opening an intake valve to draw a volume of air into a combustion chamber, closing an intake valve, and moving a piston from a bottom-dead-center (BDC) position to a top-dead-center (TDC) position in the combustion chamber at a compression ratio of at least about 15:1. The method further includes injecting a volume of fuel into the combustion chamber at an engine crank angle between about 330 degrees and about 365 degrees during a first time period. The fuel has a cetane number less than about 40. The method further includes combusting substantially all of the volume of fuel. In some embodiments, a delay between injecting the volume of fuel into the combustion chamber and initiation of combustion is less than about 2 ms.",
+      "publicationNumber": "US11959434",
+      "publicationDate": "2024-04-16",
+      "assignee": [
+        "CLEARFLAME ENGINES, INC."
+      ],
+      "inventors": [
+        "Julie BLUMREITER",
+        "Bernard Johnson",
+        "Robert Schanz"
+      ],
+      "applicationDate": "2022-07-13",
+      "claimsCount": 52,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 10.872652
+    },
+    {
+      "id": "US-11952954-B2",
+      "title": [
+        "Fuel agnostic compression ignition engine"
+      ],
+      "abstract": "Some embodiments described herein relate to a method of operating a compression ignition engine. The method of operating the compression ignition engine includes opening an intake valve to draw a volume of air into a combustion chamber, closing an intake valve, and moving a piston from a bottom-dead-center (BDC) position to a top-dead-center (TDC) position in the combustion chamber at a compression ratio of at least about 15:1. The method further includes injecting a volume of fuel into the combustion chamber at an engine crank angle between about 330 degrees and about 365 degrees during a first time period. The fuel has a cetane number less than about 40. The method further includes combusting substantially all of the volume of fuel. In some embodiments, a delay between injecting the volume of fuel into the combustion chamber and initiation of combustion is less than about 2 ms.",
+      "publicationNumber": "US11952954",
+      "publicationDate": "2024-04-09",
+      "assignee": [
+        "CLEARFLAME ENGINES, INC."
+      ],
+      "inventors": [
+        "Julie BLUMREITER",
+        "Bernard Johnson",
+        "Robert Schanz"
+      ],
+      "applicationDate": "2023-02-27",
+      "claimsCount": 30,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 10.872652
+    },
+    {
+      "id": "US-11428186-B2",
+      "title": [
+        "Fuel agnostic compression ignition engine"
+      ],
+      "abstract": "Some embodiments described herein relate to a method of operating a compression ignition engine. The method of operating the compression ignition engine includes opening an intake valve to draw a volume of air into a combustion chamber, closing an intake valve, and moving a piston from a bottom-dead-center (BDC) position to a top-dead-center (TDC) position in the combustion chamber at a compression ratio of at least about 15:1. The method further includes injecting a volume of fuel into the combustion chamber at an engine crank angle between about 330 degrees and about 365 degrees during a first time period. The fuel has a cetane number less than about 40. The method further includes combusting substantially all of the volume of fuel. In some embodiments, a delay between injecting the volume of fuel into the combustion chamber and initiation of combustion is less than about 2 ms.",
+      "publicationNumber": "US11428186",
+      "publicationDate": "2022-08-30",
+      "assignee": [
+        "CLEARFLAME ENGINES, INC."
+      ],
+      "inventors": [
+        "Julie BLUMREITER",
+        "Bernard Johnson",
+        "Robert Schanz"
+      ],
+      "applicationDate": "2021-09-16",
+      "claimsCount": 30,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 10.872652
+    },
+    {
+      "id": "JP-2024530262-A",
+      "title": [
+        "\u71c3\u6599\u306b\u4f9d\u5b58\u3057\u306a\u3044\u5727\u7e2e\u7740\u706b\u30a8\u30f3\u30b8\u30f3"
+      ],
+      "abstract": "\u672c\u660e\u7d30\u66f8\u306b\u8a18\u8f09\u306e\u4e00\u90e8\u306e\u5b9f\u65bd\u5f62\u614b\u306f\u3001\u5727\u7e2e\u7740\u706b\uff08\uff23\uff29\uff09\u30a8\u30f3\u30b8\u30f3\u3092\u52d5\u4f5c\u3055\u305b\u308b\u65b9\u6cd5\u306b\u95a2\u3059\u308b\u3002\uff23\uff29\u30a8\u30f3\u30b8\u30f3\u306f\u3001\u71c3\u713c\u5ba4\u3092\u5099\u3048\u308b\u53ef\u80fd\u6027\u304c\u3042\u308b\u3002\uff23\uff29\u30a8\u30f3\u30b8\u30f3\u3092\u52d5\u4f5c\u3055\u305b\u308b\u65b9\u6cd5\u306f\u3001\u3042\u308b\u91cf\u306e\u5438\u6c17\u30c1\u30e3\u30fc\u30b8\u3092\u71c3\u713c\u5ba4\u306b\u53d7\u3051\u5165\u308c\u308b\u3053\u3068\u3001\u5438\u6c17\u30c1\u30e3\u30fc\u30b8\u3092\u5727\u7e2e\u3059\u308b\u3053\u3068\u3001\u71c3\u713c\u5ba4\u5185\u306b\u30bb\u30bf\u30f3\u4fa1\u304c\u7d04\uff14\uff10\u672a\u6e80\u306e\u3042\u308b\u91cf\u306e\u71c3\u6599\u3092\u5674\u5c04\u3059\u308b\u3053\u3068\u3001\u53ca\u3073\u3001\u3042\u308b\u91cf\u306e\u71c3\u6599\u306e\u5b9f\u8cea\u7684\u306b\u5168\u3066\u3092\u71c3\u713c\u3055\u305b\u308b\u3053\u3068\u3001\u3092\u542b\u3080\u3002\u71c3\u713c\u5ba4\u5185\u306b\u3042\u308b\u91cf\u306e\u71c3\u6599\u3092\u5674\u5c04\u3059\u308b\u3053\u3068\u3068\u71c3\u713c\u306e\u958b\u59cb\u3068\u306e\u9593\u306e\u9045\u5ef6\u304c\u3001\u7d04\uff12\uff4d\uff53\u672a\u6e80\u3067\u3042\u308b\u3002\uff23\uff29\u30a8\u30f3\u30b8\u30f3\u306f\u3001\u5c11\u306a\u304f\u3068\u3082\uff12\u30b9\u30c8\u30ed\u30fc\u30af\u30a8\u30f3\u30b8\u30f3\u3001\u5bfe\u5411\u30d4\u30b9\u30c8\u30f3\u30a8\u30f3\u30b8\u30f3\u3001\uff12\u30b9\u30c8\u30ed\u30fc\u30af\u5bfe\u5411\u30d4\u30b9\u30c8\u30f3\u30a8\u30f3\u30b8\u30f3\u3001\uff15\u30b9\u30c8\u30ed\u30fc\u30af\u30a8\u30f3\u30b8\u30f3\u3001\uff16\u30b9\u30c8\u30ed\u30fc\u30af\u30a8\u30f3\u30b8\u30f3\u3001\u30d5\u30ea\u30fc\u30d4\u30b9\u30c8\u30f3\u30a8\u30f3\u30b8\u30f3\u3001\u30d5\u30ea\u30fc\u30d4\u30b9\u30c8\u30f3\u30a8\u30f3\u30b8\u30f3\u30ea\u30cb\u30a2\u3001\u30ed\u30fc\u30bf\u30ea\u30a8\u30f3\u30b8\u30f3\u3001\u53ca\u3073\uff0f\u53c8\u306f\u3001\u30f4\u30a1\u30f3\u30b1\u30eb\u30ed\u30fc\u30bf\u30ea\u30a8\u30f3\u30b8\u30f3\u3092\u542b\u3080\u3002 \u3010\u9078\u629e\u56f3\u3011\u56f3\uff12",
+      "publicationNumber": "JP2024530262",
+      "publicationDate": "2024-08-16",
+      "assignee": [
+        "\u30af\u30ea\u30a2\u30d5\u30ec\u30fc\u30e0 \u30a8\u30f3\u30b8\u30f3\u30ba\uff0c\u30a4\u30f3\u30b3\u30fc\u30dd\u30ec\u30a4\u30c6\u30c3\u30c9"
+      ],
+      "inventors": [
+        "\u30d6\u30eb\u30e0\u30e9\u30a4\u30bf\u30fc\uff0c\u30b8\u30e5\u30ea\u30fc",
+        "\u30b8\u30e7\u30f3\u30bd\u30f3\uff0c\u30d0\u30fc\u30ca\u30fc\u30c9",
+        "\u30b7\u30e3\u30f3\u30c4\uff0c\u30ed\u30d0\u30fc\u30c8",
+        "\u30f4\u30a3\u30bf\u30c3\u30eb\uff0c\u30de\u30ce\u30cf\u30fc\u30eb"
+      ],
+      "applicationDate": "2022-08-24",
+      "claimsCount": 59,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 10.784711
+    },
+    {
+      "id": "JP-WO2021174016-A5",
+      "title": [],
+      "abstract": "",
+      "publicationNumber": "JPWO2021174016",
+      "publicationDate": "2024-04-18",
+      "assignee": [],
+      "inventors": [],
+      "applicationDate": null,
+      "claimsCount": 53,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 10.673437
+    },
+    {
+      "id": "IN-202217052011-A",
+      "title": [
+        "FUEL AGNOSTIC COMPRESSION IGNITION ENGINE"
+      ],
+      "abstract": "Some embodiments described herein relate to a method of operating a compression ignition engine. The method of operating the compression ignition engine includes opening an intake valve to draw a volume of air into a combustion chamber, closing an intake valve, and moving a piston from a bottom-dead-center (BDC) position to a top-dead-center (TDC) position in the combustion chamber at a compression ratio of at least about 15:1. The method further includes injecting a volume of fuel into the combustion chamber at an engine crank angle between about 330 degrees and about 365 degrees during a first time period. The fuel has a cetane number less than about 40. The method further includes combusting substantially all of the volume of fuel. In some embodiments, a delay between injecting the volume of fuel into the combustion chamber and initiation of combustion is less than about 2 ms.",
+      "publicationNumber": "IN202217052011",
+      "publicationDate": "2023-07-14",
+      "assignee": [
+        "CLEARFLAME ENGINES INC"
+      ],
+      "inventors": [
+        "BLUMREITER JULIE",
+        "JOHNSON BERNARD",
+        "SCHANZ ROBERT"
+      ],
+      "applicationDate": "2022-09-12",
+      "claimsCount": 53,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 10.673437
+    },
+    {
+      "id": "JP-2023516273-A",
+      "title": [
+        "\u71c3\u6599\u306b\u4f9d\u5b58\u3057\u306a\u3044\u5727\u7e2e\u7740\u706b\u30a8\u30f3\u30b8\u30f3"
+      ],
+      "abstract": "\u672c\u660e\u7d30\u66f8\u306b\u8a18\u8f09\u306e\u4e00\u90e8\u306e\u5b9f\u65bd\u5f62\u614b\u306f\u3001\u5727\u7e2e\u7740\u706b\u30a8\u30f3\u30b8\u30f3\u3092\u52d5\u4f5c\u3055\u305b\u308b\u65b9\u6cd5\u306b\u95a2\u3059\u308b\u3002\u5727\u7e2e\u7740\u706b\u30a8\u30f3\u30b8\u30f3\u3092\u52d5\u4f5c\u3055\u305b\u308b\u65b9\u6cd5\u306f\u3001\u3042\u308b\u91cf\u306e\u7a7a\u6c17\u3092\u71c3\u713c\u5ba4\u306b\u5438\u3044\u8fbc\u3080\u305f\u3081\u306b\u5438\u6c17\u30d0\u30eb\u30d6\u3092\u958b\u653e\u3059\u308b\u3053\u3068\u3068\u3001\u5438\u6c17\u30d0\u30eb\u30d6\u3092\u9589\u9396\u3059\u308b\u3053\u3068\u3068\u3001\u71c3\u713c\u5ba4\u5185\u306e\u4e0b\u6b7b\u70b9\uff08\uff22\uff24\uff23\uff09\u4f4d\u7f6e\u304b\u3089\u4e0a\u6b7b\u70b9\uff08\uff34\uff24\uff23\uff09\u4f4d\u7f6e\u307e\u3067\u5c11\u306a\u304f\u3068\u3082\u7d04\uff11\uff15\uff1a\uff11\u306e\u5727\u7e2e\u6bd4\u3067\u30d4\u30b9\u30c8\u30f3\u3092\u79fb\u52d5\u3055\u305b\u308b\u3053\u3068\u3068\u3001\u3092\u542b\u3080\u3002\u65b9\u6cd5\u306f\u3001\u3042\u308b\u91cf\u306e\u71c3\u6599\u3092\u71c3\u713c\u5ba4\u5185\u306b\u7d04\uff13\uff13\uff10\u5ea6\u304b\u3089\u7d04\uff13\uff16\uff15\u5ea6\u306e\u30a8\u30f3\u30b8\u30f3\u30af\u30e9\u30f3\u30af\u89d2\u5ea6\u3067\u7b2c\uff11\u306e\u671f\u9593\u306b\u5674\u5c04\u3059\u308b\u3053\u3068\u3092\u66f4\u306b\u542b\u3080\u3002\u71c3\u6599\u306f\u3001\u7d04\uff14\uff10\u672a\u6e80\u306e\u30bb\u30bf\u30f3\u4fa1\u3092\u6709\u3059\u308b\u3002\u65b9\u6cd5\u306f\u3001\u3042\u308b\u91cf\u306e\u71c3\u6599\u306e\u5b9f\u8cea\u7684\u306b\u5168\u3066\u3092\u71c3\u713c\u3055\u305b\u308b\u3053\u3068\u3092\u66f4\u306b\u542b\u3080\u3002\u4e00\u90e8\u306e\u5b9f\u65bd\u5f62\u614b\u306b\u304a\u3044\u3066\u3001\u3042\u308b\u91cf\u306e\u71c3\u6599\u3092\u71c3\u713c\u5ba4\u5185\u306b\u5674\u5c04\u3059\u308b\u3053\u3068\u3068\u71c3\u713c\u306e\u958b\u59cb\u3068\u306e\u9593\u306e\u9045\u5ef6\u306f\u7d04\uff12\uff4d\uff53\u672a\u6e80\u3067\u3042\u308b\u3002 \u3010\u9078\u629e\u56f3\u3011\u56f3\uff12",
+      "publicationNumber": "JP2023516273",
+      "publicationDate": "2023-04-19",
+      "assignee": [
+        "\u30af\u30ea\u30a2\u30d5\u30ec\u30fc\u30e0 \u30a8\u30f3\u30b8\u30f3\u30ba\uff0c\u30a4\u30f3\u30b3\u30fc\u30dd\u30ec\u30a4\u30c6\u30c3\u30c9"
+      ],
+      "inventors": [
+        "\u30d6\u30eb\u30e0\u30e9\u30a4\u30bf\u30fc\uff0c\u30b8\u30e5\u30ea\u30fc",
+        "\u30b8\u30e7\u30f3\u30bd\u30f3\uff0c\u30d0\u30fc\u30ca\u30fc\u30c9",
+        "\u30b7\u30e3\u30f3\u30c4\uff0c\u30ed\u30d0\u30fc\u30c8"
+      ],
+      "applicationDate": "2021-02-26",
+      "claimsCount": 53,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 10.237874
+    },
+    {
+      "id": "CA-3140048-A1",
+      "title": [
+        "COLD-START FOR HIGH-OCTANE FUELS IN A DIESEL ENGINE ARCHITECTURE"
+      ],
+      "abstract": "Embodiments disclosed herein relate generally to systems and methods of operating internal combustion (IC) engines, and more specifically to systems and methods of starting compression ignition (CI) engines when the surrounding environment is significantly colder than the normal operating temperature of the engine (i.e., \"cold-starting\"). In some embodiments, the CI engine can include an ignition-assist device. In some embodiments, a method of operating a CI engine during cold-start can include opening an intake valve to draw a volume of air into the combustion chamber, moving a piston from a bottom-dead-center position to a top-dead-center position in a combustion chamber at a compression ratio of between about 15 and about 25, injecting a volume of fuel, the fuel having a cetane number of less than about 30, closing the intake valve, and combusting substantially all of the volume of fuel.",
+      "publicationNumber": "CA3140048",
+      "publicationDate": "2020-11-19",
+      "assignee": [
+        "CLEARFLAME ENGINES, INC."
+      ],
+      "inventors": [
+        "Julie BLUMREITER",
+        "BERNARD JOHNSON"
+      ],
+      "applicationDate": "2020-05-14",
+      "claimsCount": 43,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 10.163702
+    },
+    {
+      "id": "CN-118056067-A",
+      "title": [
+        "\u71c3\u6599\u4e0d\u9650\u5b9a\u538b\u71c3\u53d1\u52a8\u673a"
+      ],
+      "abstract": "\u672c\u6587\u63cf\u8ff0\u7684\u4e00\u4e9b\u5b9e\u65bd\u4f8b\u6d89\u53ca\u64cd\u4f5c\u538b\u71c3(CI)\u53d1\u52a8\u673a\u7684\u65b9\u6cd5\u3002CI\u53d1\u52a8\u673a\u53ef\u4ee5\u5305\u62ec\u71c3\u70e7\u5ba4\u3002\u64cd\u4f5cCI\u53d1\u52a8\u673a\u7684\u65b9\u6cd5\u5305\u62ec\uff1a\u5728\u71c3\u70e7\u5ba4\u4e2d\u63a5\u6536\u4e00\u5b9a\u91cf\u8fdb\u6c14\u5145\u91cf\uff0c\u538b\u7f29\u8fdb\u6c14\u5145\u91cf\uff0c\u5c06\u4e00\u5b9a\u91cf\u71c3\u6599\u55b7\u5c04\u5230\u71c3\u70e7\u5ba4\u4e2d\uff0c\u71c3\u6599\u5177\u6709\u5c0f\u4e8e\u7ea640\u7684\u5341\u516d\u70f7\u503c\uff0c\u5e76\u4e14\u71c3\u70e7\u57fa\u672c\u4e0a\u6240\u6709\u6240\u8ff0\u4e00\u5b9a\u91cf\u71c3\u6599\u3002\u5c06\u6240\u8ff0\u4e00\u5b9a\u91cf\u71c3\u6599\u55b7\u5c04\u5230\u71c3\u70e7\u5ba4\u4e2d\u4e0e\u71c3\u70e7\u5f00\u59cb\u4e4b\u95f4\u7684\u5ef6\u8fdf\u5c0f\u4e8e\u7ea62\u6beb\u79d2\u3002CI\u53d1\u52a8\u673a\u81f3\u5c11\u5305\u62ec\u4e8c\u51b2\u7a0b\u53d1\u52a8\u673a\u3001\u5bf9\u7f6e\u6d3b\u585e\u53d1\u52a8\u673a\u3001\u4e8c\u51b2\u7a0b\u5bf9\u7f6e\u6d3b\u585e\u53d1\u52a8\u673a\u3001\u4e94\u51b2\u7a0b\u53d1\u52a8\u673a\u3001\u516d\u51b2\u7a0b\u53d1\u52a8\u673a\u3001\u81ea\u7531\u6d3b\u585e\u53d1\u52a8\u673a\u3001\u81ea\u7531\u6d3b\u585e\u53d1\u52a8\u673a\u7ebf\u6027\u53d1\u7535\u673a\u3001\u65cb\u8f6c\u53d1\u52a8\u673a\u548c/\u6216\u6c6a\u514b\u5c14\u65cb\u8f6c\u53d1\u52a8\u673a\u3002",
+      "publicationNumber": "CN118056067",
+      "publicationDate": "2024-05-17",
+      "assignee": [
+        "Qingyan engine Co."
+      ],
+      "inventors": [
+        "J. Bloomlet",
+        "B. JOHNSON",
+        "R. Shanz",
+        "M. Vital"
+      ],
+      "applicationDate": "2022-08-24",
+      "claimsCount": 59,
+      "independentClaimsCount": 23,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 9.795315
+    },
+    {
+      "id": "CA-3229675-A1",
+      "title": [
+        "FUEL AGNOSTIC COMPRESSION IGNITION ENGINE"
+      ],
+      "abstract": "Some embodiments described herein relate to a method of operating a compression ignition (CI) engine. The CI engine can include a combustion chamber. The method of operating the CI engine includes receiving a volume of intake charge in the combustion chamber, compressing the intake charge, injecting a volume of fuel into the combustion chamber, the fuel having a cetane number less than about 40, and combusting substantially all of the volume of fuel. A delay between injecting the volume of fuel into the combustion chamber and initiation of combustion is less than about 2 ms. The CI engine includes at least a two-stroke engine, an opposed-piston engine, a two-stroke opposed piston engine, a five-stroke engine, a six-stroke engine, a free-piston engine, a free piston engine linear, a rotary engine, and/or a Wankel rotary engine.",
+      "publicationNumber": "CA3229675",
+      "publicationDate": "2023-03-02",
+      "assignee": [
+        "BLUMREITER, Julie"
+      ],
+      "inventors": [
+        "Julie BLUMREITER",
+        "BERNARD JOHNSON",
+        "Robert Schanz",
+        "Manohar VITTAL"
+      ],
+      "applicationDate": "2022-08-24",
+      "claimsCount": 59,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 9.620971
+    },
+    {
+      "id": "CA-3185131-A1",
+      "title": [
+        "SYSTEMS AND METODS OF CYLINDER DEACTIVATION IN HIGH-TEMPERATURE MIXING-CONTROLLED ENGINES"
+      ],
+      "abstract": "Embodiments described herein relate to systems and methods of cylinder deactivation in compression-ignition engines. An engine described herein can include N cylinders, with N being an integer of at least 2, with each cylinder including an inner surface, a piston disposed and configured to move in each cylinder of the N cylinders, an intake port, an exhaust port, and a fuel injector. The piston and the inner surface define a combustion chamber. A method of operating the compression ignition engine includes injecting a fuel into each of the combustion chambers, combusting substantially all of the fuel in the compression ignition engine, monitoring engine load of the compression ignition engine, and deactivating a cylinder of the N cylinders upon a decrease in load to less than (N-1)/N x FL, wherein FL is a full load at a given engine speed.",
+      "publicationNumber": "CA3185131",
+      "publicationDate": "2022-01-13",
+      "assignee": [
+        "BLUMREITER, Julie"
+      ],
+      "inventors": [
+        "Julie BLUMREITER",
+        "BERNARD JOHNSON",
+        "Robert Schanz",
+        "Manohar VITTAL"
+      ],
+      "applicationDate": "2021-07-09",
+      "claimsCount": 43,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 9.483175
+    },
+    {
+      "id": "CA-3172413-A1",
+      "title": [
+        "FUEL AGNOSTIC COMPRESSION IGNITION ENGINE"
+      ],
+      "abstract": "Some embodiments described herein relate to a method of operating a compression ignition engine. The method of operating the compression ignition engine includes opening an intake valve to draw a volume of air into a combustion chamber, closing an intake valve, and moving a piston from a bottom-dead-center (BDC) position to a top-dead-center (TDC) position in the combustion chamber at a compression ratio of at least about 15:1. The method further includes injecting a volume of fuel into the combustion chamber at an engine crank angle between about 330 degrees and about 365 degrees during a first time period. The fuel has a cetane number less than about 40. The method further includes combusting substantially all of the volume of fuel. In some embodiments, a delay between injecting the volume of fuel into the combustion chamber and initiation of combustion is less than about 2 ms.",
+      "publicationNumber": "CA3172413",
+      "publicationDate": "2021-09-02",
+      "assignee": [
+        "CLEARFLAME ENGINES, INC."
+      ],
+      "inventors": [
+        "Julie BLUMREITER",
+        "BERNARD JOHNSON",
+        "Robert Schanz"
+      ],
+      "applicationDate": "2021-02-26",
+      "claimsCount": 53,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 9.474697
+    },
+    {
+      "id": "CN-115176077-A",
+      "title": [
+        "Fuel agnostic compression ignition engine"
+      ],
+      "abstract": "\u672c\u6587\u6240\u8ff0\u7684\u4e00\u4e9b\u5b9e\u65bd\u4f8b\u6d89\u53ca\u4e00\u79cd\u64cd\u4f5c\u538b\u71c3\u5f0f\u53d1\u52a8\u673a\u7684\u65b9\u6cd5\u3002\u64cd\u4f5c\u538b\u71c3\u5f0f\u53d1\u52a8\u673a\u7684\u65b9\u6cd5\u5305\u62ec\u6253\u5f00\u8fdb\u6c14\u95e8\u4ee5\u5c06\u4e00\u5b9a\u4f53\u79ef\u7684\u7a7a\u6c14\u5438\u5165\u71c3\u70e7\u5ba4\uff0c\u5173\u95ed\u8fdb\u6c14\u95e8\uff0c\u4ee5\u53ca\u4ee5\u81f3\u5c11\u7ea615:1\u7684\u538b\u7f29\u6bd4\u5728\u71c3\u70e7\u5ba4\u4e2d\u4f7f\u6d3b\u585e\u4ece\u4e0b\u6b62\u70b9(BDC)\u4f4d\u7f6e\u79fb\u52a8\u5230\u4e0a\u6b62\u70b9(TDC)\u4f4d\u7f6e\u3002\u8be5\u65b9\u6cd5\u8fd8\u5305\u62ec\u5728\u7b2c\u4e00\u65f6\u95f4\u6bb5\u671f\u95f4\u4ee5\u4ecb\u4e8e\u7ea6330\u5ea6\u548c\u7ea6365\u5ea6\u4e4b\u95f4\u7684\u53d1\u52a8\u673a\u66f2\u67c4\u89d2\u5c06\u4e00\u5b9a\u4f53\u79ef\u7684\u71c3\u6599\u55b7\u5c04\u5230\u71c3\u70e7\u5ba4\u4e2d\u3002\u8be5\u71c3\u6599\u5177\u6709\u5c0f\u4e8e\u7ea640\u7684\u5341\u516d\u70f7\u503c\u3002\u8be5\u65b9\u6cd5\u8fd8\u5305\u62ec\u71c3\u70e7\u57fa\u672c\u4e0a\u6240\u6709\u6240\u8ff0\u4f53\u79ef\u7684\u71c3\u6599\u3002\u5728\u4e00\u4e9b\u5b9e\u65bd\u4f8b\u4e2d\uff0c\u5c06\u6240\u8ff0\u4f53\u79ef\u7684\u71c3\u6599\u55b7\u5c04\u5230\u71c3\u70e7\u5ba4\u548c\u5f00\u59cb\u71c3\u70e7\u4e4b\u95f4\u7684\u5ef6\u8fdf\u5c0f\u4e8e\u7ea62ms\u3002",
+      "publicationNumber": "CN115176077",
+      "publicationDate": "2022-10-11",
+      "assignee": [
+        "Qingyan engine Co."
+      ],
+      "inventors": [
+        "J. Bloomlet",
+        "B. JOHNSON",
+        "R. Shanz"
+      ],
+      "applicationDate": "2021-02-26",
+      "claimsCount": 53,
+      "independentClaimsCount": 20,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 9.303207
+    }
+  ]
+}

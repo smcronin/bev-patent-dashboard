@@ -1,0 +1,6 @@
+{
+  "query": "PA=(Mill Industries) AND PD>2015",
+  "query_type": "ai_search",
+  "timestamp": "2026-01-14T12:20:11.417146",
+  "user_prompt": "PA=(Mill Industries) AND PD>2015"
+}

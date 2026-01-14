@@ -1,0 +1,11 @@
+{
+  "search_id": "search_20260114_121657",
+  "timestamp": "2026-01-14T12:16:57.586202",
+  "query_type": "ai_search",
+  "user_prompt": "PA=(Verdox) AND PD>2015",
+  "minesoft_query": "PA=(Verdox) AND PD>2015",
+  "results_count": 72,
+  "directory": "2026-01-14_verdox_and_2015",
+  "execution_time_ms": 2435.420274734497,
+  "api_endpoint": "query"
+}

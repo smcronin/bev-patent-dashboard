@@ -1,0 +1,6 @@
+{
+  "query": "PA=(Heart Aerospace) AND PD>2015",
+  "query_type": "ai_search",
+  "timestamp": "2026-01-14T12:18:47.353265",
+  "user_prompt": "PA=(Heart Aerospace) AND PD>2015"
+}

@@ -1,0 +1,987 @@
+{
+  "count": 40,
+  "numFound": 40,
+  "docs": [
+    {
+      "id": "WO-2024197215-A1",
+      "title": [
+        "CONTROL SYSTEMS FOR HEATING VENTILATION AND COOLING SYSTEMS"
+      ],
+      "abstract": "The disclosure relates to control systems for heating ventilation and cooling systems. In some examples, a controller for a heating ventilation and cooling system receives, from a first temperature sensor, a first temperature of a first air flow entering a conditioner system. The controller also receives, from a first humidity sensor, a first dew point of the first air flow, and also receives, from a thermostat, a desired temperature for a conditioned space. The controller generates adjustment data characterizing an adjustment to at least one of: (1) an exhaust air flow, (2) a desiccant flow rate, (3) a water flow rate, (4) a total air flow rate, and (5) a liquid desiccant concentration of the conditioner system based on at least one of the first temperature, the first dew point, and the desired temperature. The controller transmits the adjustment data to the conditioner system to cause the adjustment.",
+      "publicationNumber": "WO2024197215",
+      "publicationDate": "2024-09-26",
+      "assignee": [
+        "BLUE FRONTIER INC."
+      ],
+      "inventors": [
+        "DANIEL BETTS",
+        "Matthew TILGHMAN",
+        "MATTHEW GRAHAM",
+        "Dean WIERSMA"
+      ],
+      "applicationDate": "2024-03-22",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Thermal processes and apparatus"
+      ],
+      "score": 14.63482
+    },
+    {
+      "id": "WO-2024211286-A1",
+      "title": [
+        "LIQUID DESICCANT AIR CONDITIONING SYSTEM WITH DIRECTED FLUID FLOW"
+      ],
+      "abstract": "The disclosure relates to mass transfer assemblies for heating ventilation and cooling systems. In some examples, a mass transfer apparatus includes a stack of plates, where the stack defines channel pairs, and each channel pair has one conditioning channel and one exhaust channel. An upstream edge of the conditioning channels and a downstream edge of the exhaust channels define an upstream portion of the stack and extend laterally. In addition, the mass transfer apparatus is adapted to feed a fluid feed stream to the conditioning channels, and feed a first portion of the conditioned fluid feed stream to the exhaust channels. For each channel pair, an open portion of the upstream edge of the conditioning channel is open for receiving the fluid feed stream, and an open portion of the downstream edge of the exhaust channel is open for exhausting the conditioned fluid feed stream.",
+      "publicationNumber": "WO2024211286",
+      "publicationDate": "2024-10-10",
+      "assignee": [
+        "BLUE FRONTIER INC."
+      ],
+      "inventors": [
+        "MATTHEW GRAHAM",
+        "Daniel, A. BETTS",
+        "Matthew TILGHMAN"
+      ],
+      "applicationDate": "2024-04-02",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Thermal processes and apparatus"
+      ],
+      "score": 14.59264
+    },
+    {
+      "id": "WO-2025226526-A1",
+      "title": [
+        "LIQUID DESICCANT ENHANCED MOISTURE SWING SYSTEM"
+      ],
+      "abstract": "A moisture swing system including a moisture swing housing including a moisture swing material and a liquid desiccant (LD) regenerator is provided. The LD regenerator is adapted to contact a low concentration liquid desiccant (LCLD) stream with a dry CO2 feed stream, where moisture from the LCLD stream is transferred into the CO2 feed stream as water vapor to form a high concentration liquid desiccant (HCLD) stream and a wet CO2 feed stream. The wet CO2 stream is contacted with the moisture swing material to form a wet, concentrated CO2 stream that exits the moisture swing housing. The system can also include a LD conditioner adapted to produce a dry CO2-rich target stream to contact with the moisture swing material. The LD conditioner and the LD regenerator can be connected to produce a closed-loop system that uses and regenerates the LD used in the moisture swing system.",
+      "publicationNumber": "WO2025226526",
+      "publicationDate": "2025-10-30",
+      "assignee": [
+        "BLUE FRONTIER INC."
+      ],
+      "inventors": [
+        "Matthew TILGHMAN",
+        "DANIEL A. BETTS"
+      ],
+      "applicationDate": "2025-04-18",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 14.59042
+    },
+    {
+      "id": "CN-120752478-A",
+      "title": [
+        "\u5177\u6709\u96c6\u6210\u7684\u6d41\u4f53\u5206\u914d\u4ef6\u7684\u6db2\u4f53\u5e72\u71e5\u5242\u53e0\u5806"
+      ],
+      "abstract": "\u672c\u516c\u5f00\u6d89\u53ca\u7528\u4e8e\u52a0\u70ed\u901a\u98ce\u548c\u51b7\u5374\u7cfb\u7edf\u7684\u8d28\u91cf\u4f20\u9012\u7ec4\u4ef6\u3002\u5728\u4e00\u4e9b\u793a\u4f8b\u4e2d\uff0c\u8d28\u91cf\u4f20\u9012\u8bbe\u5907\u5305\u62ec\u9650\u5b9a\u4ea4\u66ff\u7684\u8c03\u8282\u901a\u9053\u548c\u6392\u51fa\u901a\u9053\u7684\u677f\u4ef6\u7684\u5806\u53e0\u3002\u8d28\u91cf\u4f20\u9012\u8bbe\u5907\u8fd8\u5305\u62ec\u6d41\u4f53\u5206\u914d\u7cfb\u7edf\uff0c\u8be5\u6d41\u4f53\u5206\u914d\u7cfb\u7edf\u5305\u62ec\u90e8\u5206\u5730\u7531\u6bcf\u4e2a\u677f\u4ef6\u7684\u4e0a\u90e8\u90e8\u5206\u4e2d\u7684\u7b2c\u4e00\u5b54\u6d1e\u9650\u5b9a\u7684\u8c03\u8282\u4f9b\u5e94\u7ba1\u7ebf\uff0c\u4ee5\u53ca\u90e8\u5206\u5730\u7531\u6bcf\u4e2a\u677f\u4ef6\u7684\u4e0a\u90e8\u90e8\u5206\u4e2d\u7684\u7b2c\u4e8c\u5b54\u6d1e\u9650\u5b9a\u7684\u5de5\u4f5c\u4f9b\u5e94\u7ba1\u7ebf\u3002\u8c03\u8282\u4f9b\u5e94\u7ba1\u7ebf\u5411\u8c03\u8282\u901a\u9053\u4f9b\u5e94\u8c03\u8282\u6d41\u4f53\uff0c\u5de5\u4f5c\u4f9b\u5e94\u7ba1\u7ebf\u5411\u6392\u51fa\u901a\u9053\u4f9b\u5e94\u5de5\u4f5c\u6d41\u4f53\u3002\u6d41\u4f53\u5206\u914d\u7cfb\u7edf\u8fd8\u5305\u62ec\u6536\u96c6\u8c03\u8282\u6d41\u4f53\u7684\u8c03\u8282\u56de\u6d41\u7ba1\u7ebf\u548c\u6536\u96c6\u5de5\u4f5c\u6d41\u4f53\u7684\u5de5\u4f5c\u56de\u6d41\u7ba1\u7ebf\uff0c\u6bcf\u4e2a\u6536\u96c6\u4ef6\u5728\u6bcf\u4e2a\u677f\u4ef6\u7684\u4e0b\u90e8\u90e8\u5206\u3002",
+      "publicationNumber": "CN120752478",
+      "publicationDate": "2025-10-03",
+      "assignee": [
+        "Blue Frontier Co."
+      ],
+      "inventors": [
+        "Matthew Grahame",
+        "Matthew Tillman",
+        "Daniel a bates"
+      ],
+      "applicationDate": "2023-12-22",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Environmental technology",
+        "Thermal processes and apparatus"
+      ],
+      "score": 14.560214
+    },
+    {
+      "id": "CN-120019248-A",
+      "title": [
+        "\u677f\u7fc5\u5f0f\u6362\u70ed\u5668"
+      ],
+      "abstract": "\u672c\u516c\u5f00\u6d89\u53ca\u7528\u4e8e\u6362\u70ed\u5668\u7684\u677f\u7fc5\u548c\u6b67\u7ba1\u7ec4\u4ef6\u3002\u5728\u4e00\u4e9b\u793a\u4f8b\u4e2d\uff0c\u7ec4\u4ef6\u5305\u62ec\u7b2c\u4e00\u677f\u548c\u7b2c\u4e8c\u677f\u3002\u8be5\u7ec4\u4ef6\u8fd8\u5305\u62ec\u8bbe\u7f6e\u5728\u7b2c\u4e00\u677f\u548c\u7b2c\u4e8c\u677f\u4e4b\u95f4\u7684\u591a\u4e2a\u7fc5\u7247\u3002\u53e6\u5916\uff0c\u591a\u4e2a\u7fc5\u7247\u95f4\u9694\u5f00\u8db3\u591f\u5927\u7684\u5bbd\u5ea6\uff0c\u4ee5\u9002\u7528\u4e8e\u5728\u591a\u4e2a\u7fc5\u7247\u7684\u76f8\u90bb\u7fc5\u7247\u4e4b\u95f4\u7684\u591a\u79cd\u6d41\u4f53\u7684\u53cd\u5411\u6d41\u52a8\u3002\u8fdb\u4e00\u6b65\uff0c\u591a\u4e2a\u7fc5\u7247\u88ab\u914d\u7f6e\u6210\u5f15\u5bfc\u6d41\u4f53\u6d41\u7ecf\u8fc7\u7b2c\u4e00\u677f\u548c\u7b2c\u4e8c\u677f\u7684\u957f\u5ea6\u3002",
+      "publicationNumber": "CN120019248",
+      "publicationDate": "2025-05-16",
+      "assignee": [
+        "Blue Frontier Co."
+      ],
+      "inventors": [
+        "Matthew Tillman",
+        "Daniel a bates",
+        "Dean Velsma",
+        "Matthew Grahame"
+      ],
+      "applicationDate": "2023-07-27",
+      "claimsCount": 15,
+      "independentClaimsCount": 6,
+      "technologyFields": [
+        "Thermal processes and apparatus"
+      ],
+      "score": 14.560214
+    },
+    {
+      "id": "WO-2025042751-A1",
+      "title": [
+        "MACHINE LEARNING BASED CONTROL SYSTEMS FOR HEATING VENTILATION AND COOLING SYSTEMS"
+      ],
+      "abstract": "The disclosure relates to machine learning and artificial intelligence based control systems for heating ventilation and cooling systems. In some examples, a computing device receives flow data characterizing flow rates of a first fluid over a time range. The computing device also receives humidity data characterizing humidity levels over the time range. Further, the computing device receives temperature data characterizing temperatures over the time range. The computing device also generates a training set of features based on the flow data, the humidity data, and the temperature data. The computing device further trains a machine learning process based on the training set of features. The computing device stores machine learning model data characterizing the trained machine learning process in a data repository.",
+      "publicationNumber": "WO2025042751",
+      "publicationDate": "2025-02-27",
+      "assignee": [
+        "BLUE FRONTIER INC."
+      ],
+      "inventors": [
+        "Daniel, A. BETTS",
+        "Matthew TILGHMAN",
+        "MATTHEW GRAHAM"
+      ],
+      "applicationDate": "2024-08-16",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology",
+        "Thermal processes and apparatus"
+      ],
+      "score": 14.518563
+    },
+    {
+      "id": "WO-2024229357-A1",
+      "title": [
+        "PARALLEL PLATE SUPPORT ELEMENTS"
+      ],
+      "abstract": "The disclosure relates to parallel plate and manifold assemblies for heat exchangers. In some examples, a plate assembly includes at least one plate. The plate includes a first side defining a side of a conditioning channel, where the first side is configured to receive desiccant. The plate also includes a second side that is opposite the first side. The second side defines a side of an exhaust channel. In addition, at least one of the first side and the second side include a plurality of support structures that are distributed in a predetermined pattern and are configured to maintain a predetermined width of the respective conditioning channel or exhaust channel.",
+      "publicationNumber": "WO2024229357",
+      "publicationDate": "2024-11-07",
+      "assignee": [
+        "BLUE FRONTIER INC."
+      ],
+      "inventors": [
+        "Daniel, A. BETTS",
+        "Matthew TILGHMAN",
+        "MATTHEW GRAHAM"
+      ],
+      "applicationDate": "2024-05-03",
+      "claimsCount": 23,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Thermal processes and apparatus"
+      ],
+      "score": 14.518563
+    },
+    {
+      "id": "AU-2024266309-A1",
+      "title": [
+        "PARALLEL PLATE SUPPORT ELEMENTS"
+      ],
+      "abstract": "The disclosure relates to parallel plate and manifold assemblies for heat exchangers. In some examples, a plate assembly includes at least one plate. The plate includes a first side defining a side of a conditioning channel, where the first side is configured to receive desiccant. The plate also includes a second side that is opposite the first side. The second side defines a side of an exhaust channel. In addition, at least one of the first side and the second side include a plurality of support structures that are distributed in a predetermined pattern and are configured to maintain a predetermined width of the respective conditioning channel or exhaust channel.",
+      "publicationNumber": "AU2024266309",
+      "publicationDate": "2025-11-13",
+      "assignee": [
+        "BLUE FRONTIER INC."
+      ],
+      "inventors": [
+        "Daniel, A. BETTS",
+        "MATTHEW GRAHAM",
+        "Matthew TILGHMAN"
+      ],
+      "applicationDate": "2024-05-03",
+      "claimsCount": 23,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Thermal processes and apparatus"
+      ],
+      "score": 14.518563
+    },
+    {
+      "id": "WO-2022256650-A1",
+      "title": [
+        "HEAT AND MASS EXCHANGER FIN INSERTS"
+      ],
+      "abstract": "The disclosure relates to fin inserts for heat and mass exchangers and corresponding methods. For instance, in some examples, a fin insert to a heat and mass exchanger includes a generally rigid, longitudinally-extending member that includes a top portion and side portions. The side portions may be disposed on opposite sides of the top portion, and may include a concave shape facing away from one another. The side portions may further are each be positioned around a portion of a respective heat transfer tube.",
+      "publicationNumber": "WO2022256650",
+      "publicationDate": "2022-12-08",
+      "assignee": [
+        "BLUE FRONTIER INC."
+      ],
+      "inventors": [
+        "MATTHEW GRAHAM",
+        "Daniel, A. BETTS",
+        "Matthew TILGHMAN"
+      ],
+      "applicationDate": "2022-06-03",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Thermal processes and apparatus"
+      ],
+      "score": 14.504904
+    },
+    {
+      "id": "WO-2024138183-A1",
+      "title": [
+        "LIQUID-DESICCANT STACK WITH INTEGRATED FLUID DISTRIBUTION"
+      ],
+      "abstract": "The disclosure relates to mass transfer assemblies for heating ventilation and cooling systems. In some examples, a mass transfer apparatus includes a stack of plates defining alternating conditioning channels and exhaust channels. The mass transfer apparatus also includes a fluid distribution system that includes a conditioning supply line defined in part by a first hole in an upper portion of each of the plates, and a working supply line defined in part by a second hole in the upper portion of each of the plates. The conditioning supply line supplies a conditioning fluid to the conditioning channels and the working supply line supplies a working fluid to the exhaust channels. The fluid distribution system also includes a conditioning return line that collects the conditioning fluid, and a working return line that collects the working fluid, each collection at a lower portion of each of the plates.",
+      "publicationNumber": "WO2024138183",
+      "publicationDate": "2024-06-27",
+      "assignee": [
+        "BLUE FRONTIER INC."
+      ],
+      "inventors": [
+        "MATTHEW GRAHAM",
+        "Matthew TILGHMAN",
+        "Daniel, A. BETTS"
+      ],
+      "applicationDate": "2023-12-22",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Environmental technology",
+        "Thermal processes and apparatus"
+      ],
+      "score": 14.427691
+    },
+    {
+      "id": "WO-2024025999-A1",
+      "title": [
+        "PLATE-FIN HEAT EXCHANGER"
+      ],
+      "abstract": "The disclosure relates to plate-fin and manifold assemblies for heat exchangers. In some examples, an assembly includes a first plate and a second plate. The assembly also includes a plurality of fins disposed between the first plate and the second plate. In addition, the plurality of fins are spaced apart by a width large enough adapted for counter-flow of a plurality of fluids between adjacent fins of the plurality of fins. Further, the plurality of fins are configured to direct fluid flow across a length of the first plate and the second plate.",
+      "publicationNumber": "WO2024025999",
+      "publicationDate": "2024-02-01",
+      "assignee": [
+        "BLUE FRONTIER INC."
+      ],
+      "inventors": [
+        "Matthew TILGHMAN",
+        "Daniel, A. BETTS",
+        "Dean WIERSMA",
+        "MATTHEW GRAHAM"
+      ],
+      "applicationDate": "2023-07-27",
+      "claimsCount": 15,
+      "independentClaimsCount": 6,
+      "technologyFields": [
+        "Thermal processes and apparatus"
+      ],
+      "score": 14.427691
+    },
+    {
+      "id": "EP-4639040-A1",
+      "title": [
+        "LIQUID-DESICCANT STACK WITH INTEGRATED FLUID DISTRIBUTION"
+      ],
+      "abstract": "The disclosure relates to mass transfer assemblies for heating ventilation and cooling systems. In some examples, a mass transfer apparatus includes a stack of plates defining alternating conditioning channels and exhaust channels. The mass transfer apparatus also includes a fluid distribution system that includes a conditioning supply line defined in part by a first hole in an upper portion of each of the plates, and a working supply line defined in part by a second hole in the upper portion of each of the plates. The conditioning supply line supplies a conditioning fluid to the conditioning channels and the working supply line supplies a working fluid to the exhaust channels. The fluid distribution system also includes a conditioning return line that collects the conditioning fluid, and a working return line that collects the working fluid, each collection at a lower portion of each of the plates.",
+      "publicationNumber": "EP4639040",
+      "publicationDate": "2025-10-29",
+      "assignee": [
+        "Blue Frontier Inc."
+      ],
+      "inventors": [
+        "MATTHEW GRAHAM",
+        "Matthew TILGHMAN",
+        "Daniel, A. BETTS"
+      ],
+      "applicationDate": "2023-12-22",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Environmental technology",
+        "Thermal processes and apparatus"
+      ],
+      "score": 14.427691
+    },
+    {
+      "id": "EP-4562358-A1",
+      "title": [
+        "PLATE-FIN HEAT EXCHANGER"
+      ],
+      "abstract": "The disclosure relates to plate-fin and manifold assemblies for heat exchangers. In some examples, an assembly includes a first plate and a second plate. The assembly also includes a plurality of fins disposed between the first plate and the second plate. In addition, the plurality of fins are spaced apart by a width large enough adapted for counter-flow of a plurality of fluids between adjacent fins of the plurality of fins. Further, the plurality of fins are configured to direct fluid flow across a length of the first plate and the second plate.",
+      "publicationNumber": "EP4562358",
+      "publicationDate": "2025-06-04",
+      "assignee": [
+        "Blue Frontier Inc."
+      ],
+      "inventors": [
+        "Matthew TILGHMAN",
+        "Daniel, A. BETTS",
+        "Dean WIERSMA",
+        "MATTHEW GRAHAM"
+      ],
+      "applicationDate": "2023-07-27",
+      "claimsCount": 15,
+      "independentClaimsCount": 6,
+      "technologyFields": [
+        "Thermal processes and apparatus"
+      ],
+      "score": 14.427691
+    },
+    {
+      "id": "AU-2023410894-A1",
+      "title": [
+        "LIQUID-DESICCANT STACK WITH INTEGRATED FLUID DISTRIBUTION"
+      ],
+      "abstract": "The disclosure relates to mass transfer assemblies for heating ventilation and cooling systems. In some examples, a mass transfer apparatus includes a stack of plates defining alternating conditioning channels and exhaust channels. The mass transfer apparatus also includes a fluid distribution system that includes a conditioning supply line defined in part by a first hole in an upper portion of each of the plates, and a working supply line defined in part by a second hole in the upper portion of each of the plates. The conditioning supply line supplies a conditioning fluid to the conditioning channels and the working supply line supplies a working fluid to the exhaust channels. The fluid distribution system also includes a conditioning return line that collects the conditioning fluid, and a working return line that collects the working fluid, each collection at a lower portion of each of the plates.",
+      "publicationNumber": "AU2023410894",
+      "publicationDate": "2025-07-10",
+      "assignee": [
+        "BLUE FRONTIER INC."
+      ],
+      "inventors": [
+        "Daniel, A. BETTS",
+        "MATTHEW GRAHAM",
+        "Matthew TILGHMAN"
+      ],
+      "applicationDate": "2023-12-22",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Environmental technology",
+        "Thermal processes and apparatus"
+      ],
+      "score": 14.427691
+    },
+    {
+      "id": "GB-2567406-B",
+      "title": [
+        "Cable including monitoring strand"
+      ],
+      "abstract": "",
+      "publicationNumber": "GB2567406",
+      "publicationDate": "2021-12-15",
+      "assignee": [
+        "Blue Frontier Engineering Limited"
+      ],
+      "inventors": [
+        "ANDREW SIMMONDS"
+      ],
+      "applicationDate": "2017-07-31",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Measurement"
+      ],
+      "score": 14.412762
+    },
+    {
+      "id": "GB-2567406-A",
+      "title": [
+        "Cable including monitoring strand"
+      ],
+      "abstract": "A monitoring cable 200 extending in an elongate direction comprises: an elongate protective jacket 210; transport conduits or cables 220; and a monitoring strand 248. The physical relationships between the components, placed in a helical arrangement, reduces relative movement and twisting of the cable. The monitoring strand has a solid casing carrying optical fibres, spaced apart in a plane orthogonal to the cables longitudinal direction. The monitoring stand casing 240 maintains the spacing of the monitoring optical fibres whilst its outer surface is shaped or moulded to prevent movement/twisting of the monitoring strand relative the cable. Also claimed is an umbilical power cable, a cable shape monitoring system having a laser source and detector and a monitoring strand suitable for strain sensing, its outer surface shaped to prevent twisting relative to the cable in which it is installed. The cable may be a submarine cable for power delivery, communication or transport of hydraulics or fluid such as oil or gas. The monitoring strand senses strain and bending which might damage the cable and cause failure.",
+      "publicationNumber": "GB2567406",
+      "publicationDate": "2019-04-17",
+      "assignee": [
+        "Blue Frontier Engineering Limited"
+      ],
+      "inventors": [
+        "ANDREW SIMMONDS"
+      ],
+      "applicationDate": "2017-07-31",
+      "claimsCount": 17,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Measurement"
+      ],
+      "score": 14.412762
+    },
+    {
+      "id": "GB-201712269-D0",
+      "title": [
+        "Cable including monitoring strand"
+      ],
+      "abstract": "",
+      "publicationNumber": "GB201712269",
+      "publicationDate": "2017-09-13",
+      "assignee": [
+        "Blue Frontier Engineering Limited"
+      ],
+      "inventors": [],
+      "applicationDate": "2017-07-31",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 14.412762
+    },
+    {
+      "id": "CN-121175525-A",
+      "title": [
+        "\u7528\u4e8e\u52a0\u70ed\u901a\u98ce\u548c\u51b7\u5374\u7cfb\u7edf\u7684\u63a7\u5236\u7cfb\u7edf"
+      ],
+      "abstract": "\u672c\u516c\u5f00\u6d89\u53ca\u7528\u4e8e\u52a0\u70ed\u901a\u98ce\u548c\u51b7\u5374\u7cfb\u7edf\u7684\u63a7\u5236\u7cfb\u7edf\u3002\u5728\u4e00\u4e9b\u793a\u4f8b\u4e2d\uff0c\u7528\u4e8e\u52a0\u70ed\u901a\u98ce\u548c\u51b7\u5374\u7cfb\u7edf\u7684\u63a7\u5236\u5668\u4ece\u7b2c\u4e00\u6e29\u5ea6\u4f20\u611f\u5668\u63a5\u6536\u8fdb\u5165\u8c03\u8282\u5668\u7cfb\u7edf\u7684\u7b2c\u4e00\u7a7a\u6c14\u6d41\u7684\u7b2c\u4e00\u6e29\u5ea6\u3002\u8be5\u63a7\u5236\u5668\u8fd8\u4ece\u7b2c\u4e00\u6e7f\u5ea6\u4f20\u611f\u5668\u63a5\u6536\u7b2c\u4e00\u7a7a\u6c14\u6d41\u7684\u7b2c\u4e00\u9732\u70b9\uff0c\u5e76\u4e14\u8fd8\u4ece\u6052\u6e29\u5668\u63a5\u6536\u7528\u4e8e\u53d7\u8c03\u8282\u7684\u7a7a\u95f4\u7684\u671f\u671b\u6e29\u5ea6\u3002\u8be5\u63a7\u5236\u5668\u57fa\u4e8e\u7b2c\u4e00\u6e29\u5ea6\u3001\u7b2c\u4e00\u9732\u70b9\u548c\u671f\u671b\u6e29\u5ea6\u4e2d\u7684\u81f3\u5c11\u4e00\u9879\u6765\u751f\u6210\u8c03\u6574\u6570\u636e\uff0c\u8be5\u8c03\u6574\u6570\u636e\u8868\u5f81\u5bf9\u4ee5\u4e0b\u4e2d\u7684\u81f3\u5c11\u4e00\u9879\u7684\u8c03\u6574\uff1a\u8c03\u8282\u5668\u7cfb\u7edf\u7684\uff081\uff09\u6392\u653e\u7a7a\u6c14\u6d41\u3001\uff082\uff09\u5e72\u71e5\u5242\u6d41\u52a8\u901f\u7387\u3001\uff083\uff09\u6c34\u6d41\u52a8\u901f\u7387\u3001\uff084\uff09\u603b\u7a7a\u6c14\u6d41\u52a8\u901f\u7387\u548c\uff085\uff09\u6db2\u4f53\u5e72\u71e5\u5242\u6d53\u5ea6\u3002\u8be5\u63a7\u5236\u5668\u5c06\u8c03\u6574\u6570\u636e\u4f20\u8f93\u5230\u8c03\u8282\u5668\u7cfb\u7edf\uff0c\u4ee5\u5f15\u8d77\u8c03\u6574\u3002",
+      "publicationNumber": "CN121175525",
+      "publicationDate": "2025-12-19",
+      "assignee": [
+        "Blue Frontier Co."
+      ],
+      "inventors": [
+        "BETTS DANIEL",
+        "Matthew Tillman",
+        "Matthew Grahame",
+        "Dean Velsma"
+      ],
+      "applicationDate": "2024-03-22",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Thermal processes and apparatus"
+      ],
+      "score": 13.951289
+    },
+    {
+      "id": "CN-121241229-A",
+      "title": [
+        "\u5177\u6709\u5b9a\u5411\u6d41\u4f53\u6d41\u52a8\u7684\u6db2\u4f53\u5e72\u71e5\u5242\u7a7a\u6c14\u8c03\u8282\u7cfb\u7edf"
+      ],
+      "abstract": "\u672c\u516c\u5f00\u6d89\u53ca\u7528\u4e8e\u52a0\u70ed\u901a\u98ce\u548c\u51b7\u5374\u7cfb\u7edf\u7684\u4f20\u8d28\u7ec4\u4ef6\u3002\u5728\u4e00\u4e9b\u793a\u4f8b\u4e2d\uff0c\u4f20\u8d28\u8bbe\u5907\u5305\u62ec\u677f\u7684\u5806\u53e0\uff0c\u5176\u4e2d\uff0c\u5806\u53e0\u9650\u5b9a\u901a\u9053\u5bf9\uff0c\u5e76\u4e14\u6bcf\u4e2a\u901a\u9053\u5bf9\u5177\u6709\u4e00\u4e2a\u8c03\u8282\u901a\u9053\u548c\u4e00\u4e2a\u6392\u653e\u901a\u9053\u3002\u8c03\u8282\u901a\u9053\u7684\u4e0a\u6e38\u8fb9\u7f18\u548c\u6392\u653e\u901a\u9053\u7684\u4e0b\u6e38\u8fb9\u7f18\u9650\u5b9a\u5806\u53e0\u7684\u4e0a\u6e38\u90e8\u5206\u5e76\u4e14\u6a2a\u5411\u5ef6\u4f38\u3002\u53e6\u5916\uff0c\u4f20\u8d28\u8bbe\u5907\u9002\u4e8e\u5c06\u6d41\u4f53\u4f9b\u7ed9\u6d41\u4f9b\u7ed9\u5230\u8c03\u8282\u901a\u9053\uff0c\u5e76\u4e14\u5c06\u7ecf\u8c03\u8282\u7684\u6d41\u4f53\u4f9b\u7ed9\u6d41\u7684\u7b2c\u4e00\u90e8\u5206\u4f9b\u7ed9\u5230\u6392\u653e\u901a\u9053\u3002\u5bf9\u4e8e\u6bcf\u4e2a\u901a\u9053\u5bf9\uff0c\u8c03\u8282\u901a\u9053\u7684\u4e0a\u6e38\u8fb9\u7f18\u7684\u5f00\u53e3\u90e8\u5206\u662f\u655e\u5f00\u7684\uff0c\u7528\u4e8e\u63a5\u6536\u6d41\u4f53\u4f9b\u7ed9\u6d41\uff0c\u5e76\u4e14\u6392\u653e\u901a\u9053\u7684\u4e0b\u6e38\u8fb9\u7f18\u7684\u5f00\u53e3\u90e8\u5206\u662f\u655e\u5f00\u7684\uff0c\u7528\u4e8e\u6392\u653e\u7ecf\u8c03\u8282\u7684\u6d41\u4f53\u4f9b\u7ed9\u6d41\u3002",
+      "publicationNumber": "CN121241229",
+      "publicationDate": "2025-12-30",
+      "assignee": [
+        "Blue Frontier Co."
+      ],
+      "inventors": [
+        "Matthew Grahame",
+        "Daniel a bates",
+        "Matthew Tillman"
+      ],
+      "applicationDate": "2024-04-02",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Thermal processes and apparatus"
+      ],
+      "score": 13.910139
+    },
+    {
+      "id": "WO-2025064764-A1",
+      "title": [
+        "HEAT AND MASS TRANSFER ASSEMBLIES"
+      ],
+      "abstract": "The disclosure relates to heat and mass exchangers. In some examples, a heat-mass exchanger includes a plurality of regeneration fins extending generally vertically, and a plurality of desiccant feed tubes extending generally horizontally. The heat-mass exchanger also includes a plurality of regenerator heating tubes extending generally horizontally. The plurality of desiccant feed tubes are positioned above the plurality of regenerator heating tubes. In addition, the plurality of desiccant feed tubes and the plurality of regenerator heating tubes extend through the plurality of regeneration fins. Further, the plurality of desiccant feed tubes include feed tube openings adapted for delivering liquid desiccant onto surfaces of the plurality of regeneration fins.",
+      "publicationNumber": "WO2025064764",
+      "publicationDate": "2025-03-27",
+      "assignee": [
+        "ALLIANCE FOR SUSTAINABLE ENERGY, LLC"
+      ],
+      "inventors": [
+        "ERIC KOZUBAL",
+        "MATTHEW GRAHAM",
+        "DANIEL A. BETTS",
+        "Matthew TILGHMAN",
+        "Chase CAMAROTTI",
+        "Gregory Matthias SHOUKAS"
+      ],
+      "applicationDate": "2024-09-20",
+      "claimsCount": 22,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Environmental technology",
+        "Thermal processes and apparatus"
+      ],
+      "score": 13.649351
+    },
+    {
+      "id": "US-20250099907-A1",
+      "title": [
+        "HEAT AND MASS TRANSFER ASSEMBLIES"
+      ],
+      "abstract": "The disclosure relates to heat and mass exchangers. In some examples, a heat-mass exchanger includes a plurality of regeneration fins extending generally vertically, and a plurality of desiccant feed tubes extending generally horizontally. The heat-mass exchanger also includes a plurality of regenerator heating tubes extending generally horizontally. The plurality of desiccant feed tubes are positioned above the plurality of regenerator heating tubes. In addition, the plurality of desiccant feed tubes and the plurality of regenerator heating tubes extend through the plurality of regeneration fins. Further, the plurality of desiccant feed tubes include feed tube openings adapted for delivering liquid desiccant onto surfaces of the plurality of regeneration fins.",
+      "publicationNumber": "US20250099907",
+      "publicationDate": "2025-03-27",
+      "assignee": [
+        "ALLIANCE FOR SUSTAINABLE ENERGY, LLC"
+      ],
+      "inventors": [
+        "Eric KOZUBAL",
+        "Matthew Graham",
+        "Daniel A. Betts",
+        "Matthew Tilghman",
+        "Chase CAMAROTTI",
+        "Gregory Matthias SHOUKAS"
+      ],
+      "applicationDate": "2024-09-20",
+      "claimsCount": 22,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Environmental technology",
+        "Thermal processes and apparatus"
+      ],
+      "score": 13.129322
+    },
+    {
+      "id": "US-20240328642-A1",
+      "title": [
+        "LIQUID DESICCANT AIR CONDITIONING SYSTEM WITH DIRECTED FLUID FLOW"
+      ],
+      "abstract": "The disclosure relates to mass transfer assemblies for heating ventilation and cooling systems. In some examples, a mass transfer apparatus includes a stack of plates, where the stack defines channel pairs, and each channel pair has one conditioning channel and one exhaust channel. An upstream edge of the conditioning channels and a downstream edge of the exhaust channels define an upstream portion of the stack and extend laterally. In addition, the mass transfer apparatus is adapted to feed a fluid feed stream to the conditioning channels, and feed a first portion of the conditioned fluid feed stream to the exhaust channels. For each channel pair, an open portion of the upstream edge of the conditioning channel is open for receiving the fluid feed stream, and an open portion of the downstream edge of the exhaust channel is open for exhausting the conditioned fluid feed stream.",
+      "publicationNumber": "US20240328642",
+      "publicationDate": "2024-10-03",
+      "assignee": [
+        "BLUE FRONTIER INC."
+      ],
+      "inventors": [
+        "Matthew Graham",
+        "Daniel A. Betts",
+        "Matthew Tilghman"
+      ],
+      "applicationDate": "2024-04-02",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Thermal processes and apparatus"
+      ],
+      "score": 13.116646
+    },
+    {
+      "id": "US-20250325934-A1",
+      "title": [
+        "LIQUID DESICCANT ENHANCED MOISTURE SWING SYSTEM"
+      ],
+      "abstract": "A moisture swing system including a moisture swing housing including a moisture swing material and a liquid desiccant (LD) regenerator is provided. The LD regenerator is adapted to contact a low concentration liquid desiccant (LCLD) stream with a dry CO2 feed stream, where moisture from the LCLD stream is transferred into the CO2 feed stream as water vapor to form a high concentration liquid desiccant (HCLD) stream and a wet CO2 feed stream. The wet CO2 stream is contacted with the moisture swing material to form a wet, concentrated CO2 stream that exits the moisture swing housing. The system can also include a LD conditioner adapted to produce a dry CO2-rich target stream to contact with the moisture swing material. The LD conditioner and the LD regenerator can be connected to produce a closed-loop system that uses and regenerates the LD used in the moisture swing system.",
+      "publicationNumber": "US20250325934",
+      "publicationDate": "2025-10-23",
+      "assignee": [
+        "BLUE FRONTIER INC."
+      ],
+      "inventors": [
+        "Matthew Tilghman",
+        "Daniel A. Betts"
+      ],
+      "applicationDate": "2025-04-18",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 13.114871
+    },
+    {
+      "id": "US-20250264392-A1",
+      "title": [
+        "APPARATUS AND METHODS FOR LIQUID-DESICCANT CONCENTRATION MEASUREMENT WITHIN MASS TRANSFER ASSEMBLIES"
+      ],
+      "abstract": "The disclosure relates to heating ventilation and cooling systems that use liquid desiccant to remove moisture from air. In some examples, a system is configured to measure the density of a liquid. The system includes a measuring column having an inlet and an outlet. The inlet is a predetermined distance below the outlet, and the outlet is adapted such that liquid exits the outlet to low pressure. The system also includes a pressure sensor located proximate the inlet. Further, the system includes a processor adapted for receiving a reading from the pressure sensor and calculating a density of liquid flowing through the system using the reading.",
+      "publicationNumber": "US20250264392",
+      "publicationDate": "2025-08-21",
+      "assignee": [
+        "BLUE FRONTIER INC"
+      ],
+      "inventors": [
+        "Daniel A. Betts",
+        "Matthew Tilghman",
+        "Matthew Graham",
+        "Dean WIERSMA"
+      ],
+      "applicationDate": "2025-02-19",
+      "claimsCount": 24,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Environmental technology",
+        "Measurement"
+      ],
+      "score": 13.055213
+    },
+    {
+      "id": "US-20250060122-A1",
+      "title": [
+        "MACHINE LEARNING BASED CONTROL SYSTEMS FOR HEATING VENTILATION AND COOLING SYSTEMS"
+      ],
+      "abstract": "The disclosure relates to machine learning and artificial intelligence based control systems for heating ventilation and cooling systems. In some examples, a computing device receives flow data characterizing flow rates of a first fluid over a time range. The computing device also receives humidity data characterizing humidity levels over the time range. Further, the computing device receives temperature data characterizing temperatures over the time range. The computing device also generates a training set of features based on the flow data, the humidity data, and the temperature data. The computing device further trains a machine learning process based on the training set of features. The computing device stores machine learning model data characterizing the trained machine learning process in a data repository.",
+      "publicationNumber": "US20250060122",
+      "publicationDate": "2025-02-20",
+      "assignee": [
+        "BLUE FRONTIER INC."
+      ],
+      "inventors": [
+        "Daniel A. Betts",
+        "Matthew Tilghman",
+        "Matthew Graham"
+      ],
+      "applicationDate": "2024-08-16",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology",
+        "Thermal processes and apparatus"
+      ],
+      "score": 13.050519
+    },
+    {
+      "id": "US-20240369312-A1",
+      "title": [
+        "PARALLEL PLATE SUPPORT ELEMENTS"
+      ],
+      "abstract": "The disclosure relates to parallel plate and manifold assemblies for heat exchangers. In some examples, a plate assembly includes at least one plate. The plate includes a first side defining a side of a conditioning channel, where the first side is configured to receive desiccant. The plate also includes a second side that is opposite the first side. The second side defines a side of an exhaust channel. In addition, at least one of the first side and the second side include a plurality of support structures that are distributed in a predetermined pattern and are configured to maintain a predetermined width of the respective conditioning channel or exhaust channel.",
+      "publicationNumber": "US20240369312",
+      "publicationDate": "2024-11-07",
+      "assignee": [
+        "BLUE FRONTIER INC."
+      ],
+      "inventors": [
+        "Daniel A. Betts",
+        "Matthew Tilghman",
+        "Matthew Graham"
+      ],
+      "applicationDate": "2024-05-03",
+      "claimsCount": 23,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Thermal processes and apparatus"
+      ],
+      "score": 13.050519
+    },
+    {
+      "id": "CA-3291286-A1",
+      "title": [
+        "PARALLEL PLATE SUPPORT ELEMENTS"
+      ],
+      "abstract": "",
+      "publicationNumber": "CA3291286",
+      "publicationDate": "2024-11-07",
+      "assignee": [
+        "BLUE FRONTIER INC."
+      ],
+      "inventors": [
+        "Daniel A. Betts",
+        "Matthew Tilghman",
+        "Matthew Graham"
+      ],
+      "applicationDate": "2024-05-03",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Thermal processes and apparatus"
+      ],
+      "score": 13.050519
+    },
+    {
+      "id": "US-20220390189-A1",
+      "title": [
+        "HEAT AND MASS EXCHANGER FIN INSERTS"
+      ],
+      "abstract": "The disclosure relates to fin inserts for heat and mass exchangers and corresponding methods. For instance, in some examples, a fin insert to a heat and mass exchanger includes a generally rigid, longitudinally-extending member that includes a top portion and side portions. The side portions may be disposed on opposite sides of the top portion, and may include a concave shape facing away from one another. The side portions may further are each be positioned around a portion of a respective heat transfer tube.",
+      "publicationNumber": "US20220390189",
+      "publicationDate": "2022-12-08",
+      "assignee": [
+        "BLUE FRONTIER INC."
+      ],
+      "inventors": [
+        "Matthew Graham",
+        "Daniel A. Betts",
+        "Matthew Tilghman"
+      ],
+      "applicationDate": "2022-06-03",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Thermal processes and apparatus"
+      ],
+      "score": 13.038689
+    },
+    {
+      "id": "US-12018898-B2",
+      "title": [
+        "Heat and mass exchanger fin inserts"
+      ],
+      "abstract": "The disclosure relates to fin inserts for heat and mass exchangers and corresponding methods. For instance, in some examples, a fin insert to a heat and mass exchanger includes a generally rigid, longitudinally-extending member that includes a top portion and side portions. The side portions may be disposed on opposite sides of the top portion, and may include a concave shape facing away from one another. The side portions may further are each be positioned around a portion of a respective heat transfer tube.",
+      "publicationNumber": "US12018898",
+      "publicationDate": "2024-06-25",
+      "assignee": [
+        "BLUE FRONTIER INC."
+      ],
+      "inventors": [
+        "Matthew Graham",
+        "Daniel A. Betts",
+        "Matthew Tilghman"
+      ],
+      "applicationDate": "2022-06-03",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Thermal processes and apparatus"
+      ],
+      "score": 13.038689
+    },
+    {
+      "id": "US-20250137666-A1",
+      "title": [
+        "CHILLER SYSTEMS AND METHODS"
+      ],
+      "abstract": "The disclosure relates to chiller systems and, more particularly, to chiller systems that employ electrically driven desiccant regenerators. In some examples, a chiller system includes a heat and mass exchanger and an electrically driven desiccant regenerator in fluid communication with the heat and mass exchanger. The heat and mass exchanger is configured to dehumidify a flow of air, and provide the dehumidified flow of air to a cooling tower. Further, the electrically driven desiccant regenerator is configured to provide concentrated liquid desiccant to the heat and mass exchanger for dehumidifying the flow of air.",
+      "publicationNumber": "US20250137666",
+      "publicationDate": "2025-05-01",
+      "assignee": [
+        "BLUE FRONTIER INC."
+      ],
+      "inventors": [
+        "Daniel A. Betts",
+        "Matthew Tilghman",
+        "Matthew Graham"
+      ],
+      "applicationDate": "2024-10-25",
+      "claimsCount": 14,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Thermal processes and apparatus"
+      ],
+      "score": 12.969593
+    },
+    {
+      "id": "US-20240210047-A1",
+      "title": [
+        "LIQUID-DESICCANT STACK WITH INTEGRATED FLUID DISTRIBUTION"
+      ],
+      "abstract": "The disclosure relates to mass transfer assemblies for heating ventilation and cooling systems. In some examples, a mass transfer apparatus includes a stack of plates defining alternating conditioning channels and exhaust channels. The mass transfer apparatus also includes a fluid distribution system that includes a conditioning supply line defined in part by a first hole in an upper portion of each of the plates, and a working supply line defined in part by a second hole in the upper portion of each of the plates. The conditioning supply line supplies a conditioning fluid to the conditioning channels and the working supply line supplies a working fluid to the exhaust channels. The fluid distribution system also includes a conditioning return line that collects the conditioning fluid, and a working return line that collects the working fluid, each collection at a lower portion of each of the plates.",
+      "publicationNumber": "US20240210047",
+      "publicationDate": "2024-06-27",
+      "assignee": [
+        "BLUE FRONTIER INC."
+      ],
+      "inventors": [
+        "Matthew Graham",
+        "Matthew Tilghman",
+        "Daniel A. Betts"
+      ],
+      "applicationDate": "2023-12-22",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Thermal processes and apparatus"
+      ],
+      "score": 12.969593
+    },
+    {
+      "id": "US-20240035750-A1",
+      "title": [
+        "PLATE-FIN HEAT EXCHANGER"
+      ],
+      "abstract": "The disclosure relates to plate-fin and manifold assemblies for heat exchangers. In some examples, an assembly includes a first plate and a second plate. The assembly also includes a plurality of fins disposed between the first plate and the second plate. In addition, the plurality of fins are spaced apart by a width large enough adapted for counter-flow of a plurality of fluids between adjacent fins of the plurality of fins. Further, the plurality of fins are configured to direct fluid flow across a length of the first plate and the second plate.",
+      "publicationNumber": "US20240035750",
+      "publicationDate": "2024-02-01",
+      "assignee": [
+        "BLUE FRONTIER INC."
+      ],
+      "inventors": [
+        "Matthew Tilghman",
+        "Daniel A. Betts",
+        "Dean WIERSMA",
+        "Matthew Graham"
+      ],
+      "applicationDate": "2023-07-27",
+      "claimsCount": 21,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Thermal processes and apparatus"
+      ],
+      "score": 12.969593
+    },
+    {
+      "id": "IN-202537069251-A",
+      "title": [
+        "LIQUID-DESICCANT STACK WITH INTEGRATED FLUID DISTRIBUTION"
+      ],
+      "abstract": "The disclosure relates to mass transfer assemblies for heating ventilation and cooling systems. In some examples, a mass transfer apparatus includes a stack of plates defining alternating conditioning channels and exhaust channels. The mass transfer apparatus also includes a fluid distribution system that includes a conditioning supply line defined in part by a first hole in an upper portion of each of the plates, and a working supply line defined in part by a second hole in the upper portion of each of the plates. The conditioning supply line supplies a conditioning fluid to the conditioning channels and the working supply line supplies a working fluid to the exhaust channels. The fluid distribution system also includes a conditioning return line that collects the conditioning fluid, and a working return line that collects the working fluid, each collection at a lower portion of each of the plates.",
+      "publicationNumber": "IN202537069251",
+      "publicationDate": "2025-10-03",
+      "assignee": [
+        "BLUE FRONTIER INC"
+      ],
+      "inventors": [
+        "GRAHAM MATTHEW",
+        "TILGHMAN MATTHEW",
+        "BETTS DANIEL A"
+      ],
+      "applicationDate": "2025-07-21",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Environmental technology",
+        "Thermal processes and apparatus"
+      ],
+      "score": 12.969593
+    },
+    {
+      "id": "IN-202537014604-A",
+      "title": [
+        "PLATE-FIN HEAT EXCHANGER"
+      ],
+      "abstract": "The disclosure relates to plate-fin and manifold assemblies for heat exchangers. In some examples, an assembly includes a first plate and a second plate. The assembly also includes a plurality of fins disposed between the first plate and the second plate. In addition, the plurality of fins are spaced apart by a width large enough adapted for counter-flow of a plurality of fluids between adjacent fins of the plurality of fins. Further, the plurality of fins are configured to direct fluid flow across a length of the first plate and the second plate.",
+      "publicationNumber": "IN202537014604",
+      "publicationDate": "2025-03-14",
+      "assignee": [
+        "BLUE FRONTIER INC"
+      ],
+      "inventors": [
+        "TILGHMAN MATTHEW",
+        "BETTS DANIEL A",
+        "WIERSMA DEAN",
+        "GRAHAM MATTHEW"
+      ],
+      "applicationDate": "2025-02-20",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Thermal processes and apparatus"
+      ],
+      "score": 12.969593
+    },
+    {
+      "id": "CA-3278057-A1",
+      "title": [
+        "LIQUID-DESICCANT STACK WITH INTEGRATED FLUID DISTRIBUTION"
+      ],
+      "abstract": "",
+      "publicationNumber": "CA3278057",
+      "publicationDate": "2024-06-27",
+      "assignee": [
+        "BLUE FRONTIER INC."
+      ],
+      "inventors": [
+        "Matthew Graham",
+        "Matthew Tilghman",
+        "Daniel A. Betts"
+      ],
+      "applicationDate": "2023-12-22",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Environmental technology",
+        "Thermal processes and apparatus"
+      ],
+      "score": 12.969593
+    },
+    {
+      "id": "CA-3263007-A1",
+      "title": [
+        "PLATE-FIN HEAT EXCHANGER"
+      ],
+      "abstract": "",
+      "publicationNumber": "CA3263007",
+      "publicationDate": "2024-02-01",
+      "assignee": [
+        "BLUE FRONTIER INC."
+      ],
+      "inventors": [
+        "Matthew Tilghman",
+        "Daniel A. Betts",
+        "Dean WIERSMA",
+        "Matthew Graham"
+      ],
+      "applicationDate": "2023-07-27",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Thermal processes and apparatus"
+      ],
+      "score": 12.969593
+    },
+    {
+      "id": "JP-2025541469-A",
+      "title": [
+        "\u4e00\u4f53\u578b\u6d41\u4f53\u5206\u914d\u88c5\u7f6e\u3092\u5099\u3048\u305f\u6db2\u4f53\u4e7e\u71e5\u5264\u30b9\u30bf\u30c3\u30af"
+      ],
+      "abstract": "\u672c\u958b\u793a\u306f\u3001\u6696\u623f\u3001\u63db\u6c17\u304a\u3088\u3073\u51b7\u623f\u30b7\u30b9\u30c6\u30e0\u7528\u306e\u7269\u8cea\u79fb\u52d5\u30a2\u30bb\u30f3\u30d6\u30ea\u306b\u95a2\u3059\u308b\u3002\u3044\u304f\u3064\u304b\u306e\u4f8b\u306b\u304a\u3044\u3066\u3001\u7269\u8cea\u79fb\u52d5\u88c5\u7f6e\u306f\u30d7\u30ec\u30fc\u30c8\u306e\u30b9\u30bf\u30c3\u30af\u3092\u542b\u3093\u3067\u304a\u308a\u3001\u5f53\u8a72\u30d7\u30ec\u30fc\u30c8\u306e\u30b9\u30bf\u30c3\u30af\u306f\u3001\u4ea4\u4e92\u306b\u914d\u7f6e\u3055\u308c\u305f\u8abf\u6574\u7528\u30c1\u30e3\u30f3\u30cd\u30eb\u304a\u3088\u3073\u6392\u51fa\u7528\u30c1\u30e3\u30f3\u30cd\u30eb\u3092\u5b9a\u3081\u3066\u3044\u308b\u3002\u307e\u305f\u6d41\u4f53\u5206\u914d\u30b7\u30b9\u30c6\u30e0\u306f\u3001\u5f53\u8a72\u30d7\u30ec\u30fc\u30c8\u306e\u305d\u308c\u305e\u308c\u306e\u4e0a\u90e8\u306b\u8a2d\u3051\u3089\u308c\u305f\u7b2c\uff11\u306e\u5b54\u306b\u3088\u308a\u90e8\u5206\u7684\u306b\u5b9a\u3081\u3089\u308c\u308b\u8abf\u6574\u7528\u4f9b\u7d66\u30e9\u30a4\u30f3\u3068\u3001\u5f53\u8a72\u30d7\u30ec\u30fc\u30c8\u306e\u305d\u308c\u305e\u308c\u306e\u4e0a\u90e8\u306b\u8a2d\u3051\u3089\u308c\u305f\u7b2c\uff12\u306e\u5b54\u306b\u3088\u308a\u90e8\u5206\u7684\u306b\u5b9a\u3081\u3089\u308c\u308b\u4f5c\u52d5\u7528\u4f9b\u7d66\u30e9\u30a4\u30f3\u3068\u3001\u3092\u542b\u3093\u3067\u3044\u308b\u3002\u8abf\u6574\u7528\u4f9b\u7d66\u30e9\u30a4\u30f3\u306f\u8abf\u6574\u7528\u30c1\u30e3\u30f3\u30cd\u30eb\u306b\u8abf\u6574\u7528\u6d41\u4f53\u3092\u4f9b\u7d66\u3057\u3001\u4f5c\u52d5\u7528\u4f9b\u7d66\u30e9\u30a4\u30f3\u306f\u4f5c\u52d5\u7528\u6d41\u4f53\u3092\u6392\u51fa\u7528\u30c1\u30e3\u30f3\u30cd\u30eb\u306b\u4f9b\u7d66\u3057\u3066\u3044\u308b\u3002\u307e\u305f\u6d41\u4f53\u5206\u914d\u30b7\u30b9\u30c6\u30e0\u306f\u3001\u8abf\u6574\u7528\u6d41\u4f53\u3092\u56de\u53ce\u3059\u308b\u8abf\u6574\u7528\u623b\u308a\u30e9\u30a4\u30f3\u3068\u3001\u4f5c\u52d5\u7528\u6d41\u4f53\u3092\u56de\u53ce\u3059\u308b\u4f5c\u52d5\u623b\u308a\u30e9\u30a4\u30f3\u3068\u3092\u542b\u3093\u3067\u304a\u308a\u3001\u305d\u308c\u305e\u308c\u306e\u56de\u53ce\u304c\u3053\u308c\u3089\u306e\u30d7\u30ec\u30fc\u30c8\u305d\u308c\u305e\u308c\u306e\u4e0b\u90e8\u3067\u884c\u308f\u308c\u308b\u3002 \u3010\u9078\u629e\u56f3\u3011\u56f3\uff11\uff21",
+      "publicationNumber": "JP2025541469",
+      "publicationDate": "2025-12-18",
+      "assignee": [
+        "\u30d6\u30eb\u30fc \u30d5\u30ed\u30f3\u30c6\u30a3\u30a2 \u30a4\u30f3\u30af\uff0e"
+      ],
+      "inventors": [
+        "\u30b0\u30e9\u30cf\u30e0\uff0c\u30de\u30b7\u30e5\u30fc",
+        "\u30c6\u30a3\u30eb\u30b0\u30de\u30f3\uff0c\u30de\u30b7\u30e5\u30fc",
+        "\u30d9\u30c3\u30c4\uff0c\u30c0\u30cb\u30a8\u30eb\uff0c\u30a8\u30a4\uff0e"
+      ],
+      "applicationDate": "2023-12-22",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Environmental technology",
+        "Thermal processes and apparatus"
+      ],
+      "score": 12.561054
+    },
+    {
+      "id": "US-20240318853-A1",
+      "title": [
+        "CONTROL SYSTEMS FOR HEATING VENTILATION AND COOLING SYSTEMS"
+      ],
+      "abstract": "The disclosure relates to control systems for heating ventilation and cooling systems. In some examples, a controller for a heating ventilation and cooling system receives, from a first temperature sensor, a first temperature of a first air flow entering a conditioner system. The controller also receives, from a first humidity sensor, a first dew point of the first air flow, and also receives, from a thermostat, a desired temperature for a conditioned space. The controller generates adjustment data characterizing an adjustment to at least one of: (1) an exhaust air flow, (2) a desiccant flow rate, (3) a water flow rate, (4) a total air flow rate, and (5) a liquid desiccant concentration of the conditioner system based on at least one of the first temperature, the first dew point, and the desired temperature. The controller transmits the adjustment data to the conditioner system to cause the adjustment.",
+      "publicationNumber": "US20240318853",
+      "publicationDate": "2024-09-26",
+      "assignee": [
+        "BLUE FRONTER INC."
+      ],
+      "inventors": [
+        "Daniel Betts",
+        "Matthew Tilghman",
+        "Matthew Graham",
+        "Dean WIERSMA"
+      ],
+      "applicationDate": "2024-03-22",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Thermal processes and apparatus"
+      ],
+      "score": 12.479042
+    },
+    {
+      "id": "HK-40124230-A",
+      "title": [
+        "PLATE-FIN HEAT EXCHANGER"
+      ],
+      "abstract": "",
+      "publicationNumber": "HK40124230",
+      "publicationDate": "2025-11-07",
+      "assignee": [
+        "BLUE FRONTIER INC."
+      ],
+      "inventors": [
+        "Matthew TILGHMAN",
+        "Daniel, A. BETTS",
+        "Dean WIERSMA",
+        "MATTHEW GRAHAM"
+      ],
+      "applicationDate": "2025-09-23",
+      "claimsCount": 15,
+      "independentClaimsCount": 6,
+      "technologyFields": [
+        "Thermal processes and apparatus"
+      ],
+      "score": 11.938796
+    },
+    {
+      "id": "CN-120101810-A",
+      "title": [
+        "\u8fd0\u52a8\u654f\u611f\u7684\u878d\u5408\u5b9a\u4f4d\u7cfb\u7edf\u8106\u5f31\u6027\u5206\u6790\u65b9\u6cd5"
+      ],
+      "abstract": "\u672c\u53d1\u660e\u63d0\u4f9b\u4e00\u79cd\u8fd0\u52a8\u654f\u611f\u7684\u878d\u5408\u5b9a\u4f4d\u7cfb\u7edf\u8106\u5f31\u6027\u5206\u6790\u65b9\u6cd5\uff0c\u5176\u5305\u62ec\u4ee5\u4e0b\u6b65\u9aa4\uff1a\u751f\u6210IMU\u9640\u87ba\u4eea\u548c\u52a0\u901f\u5ea6\u8ba1\u3001GPS\u4f4d\u7f6e\u548c\u901f\u5ea6\u4ee5\u53caLiDAR\u4f4d\u7f6e\u548c\u59ff\u6001\u6570\u636e\uff0c\u5e76\u5c06GPS\u65f6\u95f4\u6233\u4f5c\u4e3a\u57fa\u51c6\uff0c\u5bf9\u5176\u8fdb\u884c\u540c\u6b65\u5904\u7406\uff1b\u91c7\u7528\u57fa\u4e8e\u8bef\u5dee\u72b6\u6001\u5361\u5c14\u66fc\u6ee4\u6ce2\u7684\u878d\u5408\u5b9a\u4f4d\u7cfb\u7edf\uff0c\u878d\u5408\u6765\u81eaIMU\u3001GPS\u548cLiDAR\u7684\u6570\u636e\uff0c\u5f97\u5230\u8f66\u8f86\u72b6\u6001\u4f30\u8ba1\u6570\u636e\uff1b\u6839\u636e\u6240\u8ff0\u8f66\u8f86\u72b6\u6001\u4f30\u8ba1\u6570\u636e\u6784\u5efa\u89c2\u6d4b\u77e9\u9635\u5e76\u91c7\u7528\u5206\u6bb5\u5e38\u7cfb\u6570\u65b9\u6cd5\u5bf9\u5176\u8fdb\u884c\u72b6\u6001\u4f9d\u8d56\u6027\u5206\u6790\uff0c\u4ee5\u6b64\u8bc6\u522b\u8f66\u8f86\u7684\u8106\u5f31\u72b6\u6001\uff1b\u901a\u8fc7\u8bc6\u522b\u8f66\u8f86\u7684\u8fd0\u52a8\u72b6\u6001\uff0c\u5e76\u5728\u8f66\u8f86\u52a0\u901f\u6216\u5300\u9ad8\u901f\u884c\u9a76\u65f6\u52a8\u6001\u751f\u6210\u548c\u6ce8\u5165GPS\u6270\u52a8\u6570\u636e\u3002\u672c\u53d1\u660e\u5206\u6790\u8f66\u8f86\u52a8\u6001\u8fd0\u52a8\u72b6\u6001\u5bf9\u57fa\u4e8eIMU\u3001GPS\u548cLiDAR\u5b9a\u4f4d\u5668\u7684\u8bef\u5dee\u72b6\u6001\u5361\u5c14\u66fc\u6ee4\u6ce2(Error\u2011state Kalman Filter\uff0cESKF)\u591a\u4f20\u611f\u5668\u878d\u5408\u5b9a\u4f4d\u7b97\u6cd5\u7684\u5f71\u54cd\uff0c\u63d0\u51fa\u7684\u4e00\u79cd\u8fd0\u52a8\u654f\u611f\u578b\u8106\u5f31\u6027\u5206\u6790\u6846\u67b6\u3002",
+      "publicationNumber": "CN120101810",
+      "publicationDate": "2025-06-06",
+      "assignee": [
+        "Beijing Deep Blue Frontier Technology Co.,Ltd."
+      ],
+      "inventors": [
+        "ZHANG JUNQI",
+        "ZHAO SONG",
+        "HU LINQING",
+        "ZHU LIYU",
+        "CHEN BAIJUN"
+      ],
+      "applicationDate": "2024-10-24",
+      "claimsCount": 5,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Measurement"
+      ],
+      "score": 10.163271
+    }
+  ]
+}

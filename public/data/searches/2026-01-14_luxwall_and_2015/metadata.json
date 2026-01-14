@@ -1,0 +1,11 @@
+{
+  "search_id": "search_20260114_121506",
+  "timestamp": "2026-01-14T12:15:06.573243",
+  "query_type": "ai_search",
+  "user_prompt": "PA=(LuxWall) AND PD>2015",
+  "minesoft_query": "PA=(LuxWall) AND PD>2015",
+  "results_count": 198,
+  "directory": "2026-01-14_luxwall_and_2015",
+  "execution_time_ms": 4408.563137054443,
+  "api_endpoint": "query"
+}

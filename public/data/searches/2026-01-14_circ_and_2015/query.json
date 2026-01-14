@@ -1,0 +1,6 @@
+{
+  "query": "PA=(Circ) AND PD>2015",
+  "query_type": "ai_search",
+  "timestamp": "2026-01-14T12:16:40.831993",
+  "user_prompt": "PA=(Circ) AND PD>2015"
+}

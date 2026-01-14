@@ -1,0 +1,853 @@
+{
+  "count": 32,
+  "numFound": 32,
+  "docs": [
+    {
+      "id": "WO-2024158984-A1",
+      "title": [
+        "METHODS AND SYSTEMS OF CONTROLLING GROWTH AND MAINTENANCE OF STEM CELLS"
+      ],
+      "abstract": "Provided herein are methods and systems for growing and/or maintaining a population of stem cells. In some cases, the methods and systems involve the use of optical switches for activating one or more growth factor signaling pathways involved in the growth and/or maintenance of stem cells. Further disclosed herein are genetically engineered stem cells expressing a fusion protein comprising (i) a first light-responsive domain coupled to (ii) a signaling protein receptor or a functional portion thereof.",
+      "publicationNumber": "WO2024158984",
+      "publicationDate": "2024-08-02",
+      "assignee": [
+        "PROLIFIC MACHINES INC."
+      ],
+      "inventors": [
+        "Deniz KENT",
+        "Maximiliaan HUISMAN",
+        "Declan JONES",
+        "VICTOR JONES",
+        "Monique HOOLEY",
+        "Emily GALE",
+        "Maximilian H\u00d6RNER"
+      ],
+      "applicationDate": "2024-01-25",
+      "claimsCount": 256,
+      "independentClaimsCount": 6,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 15.977629
+    },
+    {
+      "id": "WO-2024119096-A1",
+      "title": [
+        "METHODS AND SYSTEMS FOR CO-DIFFERENTIATION OF CELLS USING OPTOGENETICS"
+      ],
+      "abstract": "Provided herein are methods and systems for co-differentiating differentiatable cells in a population of differentiatable cells into two or more different cell lineages. In some embodiments, the methods and systems use light- or chemically-activatable recombinases to drive expression of one or more transcription factors and/or differentiation factors.",
+      "publicationNumber": "WO2024119096",
+      "publicationDate": "2024-06-06",
+      "assignee": [
+        "PROLIFIC MACHINES INC."
+      ],
+      "inventors": [
+        "Deniz KENT",
+        "Maximiliaan HUISMAN",
+        "Declan JONES",
+        "VICTOR JONES",
+        "Monique HOOLEY",
+        "Emily GALE",
+        "Maximilian H\u00d6RNER"
+      ],
+      "applicationDate": "2023-12-01",
+      "claimsCount": 78,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 15.806837
+    },
+    {
+      "id": "US-20250354120-A1",
+      "title": [
+        "METHODS AND SYSTEMS FOR CO-DIFFERENTIATION OF CELLS USING OPTOGENETICS"
+      ],
+      "abstract": "Provided herein are methods and systems for co-differentiating differentiatable cells in a population of differentiatable cells into two or more different cell lineages. In some embodiments, the methods and systems use light- or chemically-activatable recombinases to drive expression of one or more transcription factors and/or differentiation factors.",
+      "publicationNumber": "US20250354120",
+      "publicationDate": "2025-11-20",
+      "assignee": [
+        "PROLIFIC MACHINES INC."
+      ],
+      "inventors": [
+        "Deniz KENT",
+        "Maximiliaan Huisman",
+        "Declan JONES",
+        "Victor Jones",
+        "Monique HOOLEY",
+        "Emily GALE",
+        "Maximilian H\u00f6rner"
+      ],
+      "applicationDate": "2025-05-30",
+      "claimsCount": 24,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 15.806837
+    },
+    {
+      "id": "EP-4627089-A1",
+      "title": [
+        "METHODS AND SYSTEMS FOR CO-DIFFERENTIATION OF CELLS USING OPTOGENETICS"
+      ],
+      "abstract": "Provided herein are methods and systems for co-differentiating differentiatable cells in a population of differentiatable cells into two or more different cell lineages. In some embodiments, the methods and systems use light- or chemically-activatable recombinases to drive expression of one or more transcription factors and/or differentiation factors.",
+      "publicationNumber": "EP4627089",
+      "publicationDate": "2025-10-08",
+      "assignee": [
+        "Prolific Machines Inc."
+      ],
+      "inventors": [
+        "Deniz KENT",
+        "Maximiliaan HUISMAN",
+        "Declan JONES",
+        "VICTOR JONES",
+        "Monique HOOLEY",
+        "Emily GALE",
+        "Maximilian H\u00d6RNER"
+      ],
+      "applicationDate": "2023-12-01",
+      "claimsCount": 78,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 15.806837
+    },
+    {
+      "id": "WO-2023235815-A1",
+      "title": [
+        "METHODS AND SYSTEMS FOR DIFFERENTIATION OF CELLS USING OPTOGENETICS"
+      ],
+      "abstract": "Provided herein are methods and systems for differentiating cells in a population of cells into a desired cell lineage. In some embodiments, the methods and systems use light (e.g., optogenetics) to control differentiation of cells into a desired cell lineage. In some cases, the methods and systems involve differentiating cells in a suspension culture for large-scale production of cells of a desired cell lineage.",
+      "publicationNumber": "WO2023235815",
+      "publicationDate": "2023-12-07",
+      "assignee": [
+        "PROLIFIC MACHINES INC."
+      ],
+      "inventors": [
+        "Deniz KENT",
+        "Maximiliaan HUISMAN",
+        "Declan JONES",
+        "VICTOR JONES",
+        "Monique HOOLEY",
+        "Emily GALE"
+      ],
+      "applicationDate": "2023-06-01",
+      "claimsCount": 65,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 15.3189745
+    },
+    {
+      "id": "US-20250171741-A1",
+      "title": [
+        "METHODS AND SYSTEMS FOR DIFFERENTIATION OF CELLS USING OPTOGENETICS"
+      ],
+      "abstract": "Provided herein are methods and systems for differentiating cells in a population of cells into a desired cell lineage. In some embodiments, the methods and systems use light (e.g., optogenetics) to control differentiation of cells into a desired cell lineage. In some cases, the methods and systems involve differentiating cells in a suspension culture for large-scale production of cells of a desired cell lineage.",
+      "publicationNumber": "US20250171741",
+      "publicationDate": "2025-05-29",
+      "assignee": [
+        "PROLIFIC MACHINES INC."
+      ],
+      "inventors": [
+        "Deniz KENT",
+        "Maximiliaan Huisman",
+        "Declan JONES",
+        "Victor Jones",
+        "Monique HOOLEY",
+        "Emily GALE"
+      ],
+      "applicationDate": "2024-11-27",
+      "claimsCount": 27,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 15.3189745
+    },
+    {
+      "id": "MX-2024014745-A",
+      "title": [
+        "METHODS AND SYSTEMS FOR DIFFERENTIATION OF CELLS USING OPTOGENETICS"
+      ],
+      "abstract": "Provided herein are methods and systems for differentiating cells in a population of cells into a desired cell lineage. In some embodiments, the methods and systems use light (e.g., optogenetics) to control differentiation of cells into a desired cell lineage. In some cases, the methods and systems involve differentiating cells in a suspension culture for large-scale production of cells of a desired cell lineage.",
+      "publicationNumber": "MX2024014745",
+      "publicationDate": "2025-03-07",
+      "assignee": [
+        "PROLIFIC MACHINES INC."
+      ],
+      "inventors": [
+        "KENT DENIZ",
+        "HUISMAN MAXIMILIAAN",
+        "JONES DECLAN",
+        "JONES VICTOR",
+        "HOOLEY MONIQUE",
+        "GALE EMILY"
+      ],
+      "applicationDate": "2024-11-28",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 15.3189745
+    },
+    {
+      "id": "IL-317133-A",
+      "title": [
+        "METHODS AND SYSTEMS FOR DIFFERENTIATION OF CELLS USING OPTOGENETICS"
+      ],
+      "abstract": "",
+      "publicationNumber": "IL317133",
+      "publicationDate": "2025-01-01",
+      "assignee": [
+        "PROLIFIC MACHINES INC."
+      ],
+      "inventors": [],
+      "applicationDate": "2024-11-20",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 15.3189745
+    },
+    {
+      "id": "GB-2637596-A",
+      "title": [
+        "Methods and systems for differentiation of cells using optogenetics"
+      ],
+      "abstract": "Provided herein are methods and systems for differentiating cells in a population of cells into a desired cell lineage. In some embodiments, the methods and systems use light (e.g., optogenetics) to control differentiation of cells into a desired cell lineage. In some cases, the methods and systems involve differentiating cells in a suspension culture for large-scale production of cells of a desired cell lineage.",
+      "publicationNumber": "GB2637596",
+      "publicationDate": "2025-07-30",
+      "assignee": [
+        "PROLIFIC MACHINES INC."
+      ],
+      "inventors": [
+        "DENIZ KENT",
+        "MAXIMILIAAN HUISMAN",
+        "Declan Jones",
+        "VICTOR JONES",
+        "Emily Gale",
+        "MONIQUE HOOLEY"
+      ],
+      "applicationDate": "2023-06-01",
+      "claimsCount": 65,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 15.3189745
+    },
+    {
+      "id": "GB-202417384-D0",
+      "title": [
+        "Methods and systems for differentiation of cells using optogenetics"
+      ],
+      "abstract": "",
+      "publicationNumber": "GB202417384",
+      "publicationDate": "2025-01-08",
+      "assignee": [
+        "PROLIFIC MACHINES INC."
+      ],
+      "inventors": [],
+      "applicationDate": "2023-06-01",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 15.3189745
+    },
+    {
+      "id": "EP-4532729-A1",
+      "title": [
+        "METHODS AND SYSTEMS FOR DIFFERENTIATION OF CELLS USING OPTOGENETICS"
+      ],
+      "abstract": "Provided herein are methods and systems for differentiating cells in a population of cells into a desired cell lineage. In some embodiments, the methods and systems use light (e.g., optogenetics) to control differentiation of cells into a desired cell lineage. In some cases, the methods and systems involve differentiating cells in a suspension culture for large-scale production of cells of a desired cell lineage.",
+      "publicationNumber": "EP4532729",
+      "publicationDate": "2025-04-09",
+      "assignee": [
+        "Prolific Machines Inc."
+      ],
+      "inventors": [
+        "Deniz KENT",
+        "Maximiliaan HUISMAN",
+        "Declan JONES",
+        "VICTOR JONES",
+        "Monique HOOLEY",
+        "Emily GALE"
+      ],
+      "applicationDate": "2023-06-01",
+      "claimsCount": 65,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 15.3189745
+    },
+    {
+      "id": "AU-2023280476-A1",
+      "title": [
+        "METHODS AND SYSTEMS FOR DIFFERENTIATION OF CELLS USING OPTOGENETICS"
+      ],
+      "abstract": "Provided herein are methods and systems for differentiating cells in a population of cells into a desired cell lineage. In some embodiments, the methods and systems use light (e.g., optogenetics) to control differentiation of cells into a desired cell lineage. In some cases, the methods and systems involve differentiating cells in a suspension culture for large-scale production of cells of a desired cell lineage.",
+      "publicationNumber": "AU2023280476",
+      "publicationDate": "2024-12-05",
+      "assignee": [
+        "PROLIFIC MACHINES INC."
+      ],
+      "inventors": [
+        "Emily GALE",
+        "Monique HOOLEY",
+        "Maximiliaan HUISMAN",
+        "Declan JONES",
+        "VICTOR JONES",
+        "Deniz KENT"
+      ],
+      "applicationDate": "2023-06-01",
+      "claimsCount": 65,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 15.3189745
+    },
+    {
+      "id": "WO-2023004031-A1",
+      "title": [
+        "METHODS AND SYSTEMS FOR THE SCALABLE GROWTH AND MAINTENANCE OF STEM CELLS USING OPTOGENETICS IN SUSPENSION"
+      ],
+      "abstract": "Provided herein are methods and systems for growing and maintaining stem cells in suspension. In some cases, the methods and systems involve the use of optical switches for activating one or more growth factor signaling pathways involved in the growth and/or maintenance of stem cells.",
+      "publicationNumber": "WO2023004031",
+      "publicationDate": "2023-01-26",
+      "assignee": [
+        "PROLIFIC MACHINES INC."
+      ],
+      "inventors": [
+        "Deniz KENT",
+        "Max HUISMAN",
+        "Declan JONES",
+        "VICTOR JONES",
+        "Monique HOOLEY",
+        "Emily GALE"
+      ],
+      "applicationDate": "2022-07-21",
+      "claimsCount": 72,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 15.284532
+    },
+    {
+      "id": "US-20240228970-A1",
+      "title": [
+        "METHODS AND SYSTEMS FOR THE SCALABLE GROWTH AND MAINTENANCE OF STEM CELLS USING OPTOGENETICS IN SUSPENSION"
+      ],
+      "abstract": "Provided herein are methods and systems for growing and maintaining stem cells in suspension. In some cases, the methods and systems involve the use of optical switches for activating one or more growth factor signaling pathways involved in the growth and/or maintenance of stem cells.",
+      "publicationNumber": "US20240228970",
+      "publicationDate": "2024-07-11",
+      "assignee": [
+        "PROLIFIC MACHINES INC."
+      ],
+      "inventors": [
+        "Deniz KENT",
+        "Maximiliaan Huisman",
+        "Declan JONES",
+        "Victor Jones",
+        "Monique HOOLEY",
+        "Emily GALE",
+        "William C. PATON"
+      ],
+      "applicationDate": "2024-01-19",
+      "claimsCount": 21,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 15.284532
+    },
+    {
+      "id": "MX-2024000972-A",
+      "title": [
+        "METHODS AND SYSTEMS FOR THE SCALABLE GROWTH AND MAINTENANCE OF STEM CELLS USING OPTOGENETICS IN SUSPENSION."
+      ],
+      "abstract": "Provided herein are methods and systems for growing and maintaining stem cells in suspension. In some cases, the methods and systems involve the use of optical switches for activating one or more growth factor signaling pathways involved in the growth and/or maintenance of stem cells.",
+      "publicationNumber": "MX2024000972",
+      "publicationDate": "2024-04-26",
+      "assignee": [
+        "PROLIFIC MACHINES INC."
+      ],
+      "inventors": [
+        "KENT DENIZ",
+        "HUISMAN MAXIMILIAAN",
+        "JONES DECLAN",
+        "JONES VICTOR",
+        "HOOLEY MONIQUE",
+        "GALE EMILY",
+        "PATON WILLIAM C."
+      ],
+      "applicationDate": "2022-07-21",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 15.284532
+    },
+    {
+      "id": "IL-310255-A",
+      "title": [
+        "METHODS AND SYSTEMS FOR THE SCALABLE GROWTH AND MAINTENANCE OF STEM CELLS USING OPTOGENETICS IN SUSPENSION"
+      ],
+      "abstract": "",
+      "publicationNumber": "IL310255",
+      "publicationDate": "2024-03-01",
+      "assignee": [
+        "PROLIFIC MACHINES INC."
+      ],
+      "inventors": [],
+      "applicationDate": "2024-01-18",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 15.284532
+    },
+    {
+      "id": "GB-2625933-A",
+      "title": [
+        "Methods and systems for the scalable growth and maintenance of stem cells using optogenetics in suspension"
+      ],
+      "abstract": "Provided herein are methods and systems for growing and maintaining stem cells in suspension. In some cases, the methods and systems involve the use of optical switches for activating one or more growth factor signaling pathways involved in the growth and/or maintenance of stem cells.",
+      "publicationNumber": "GB2625933",
+      "publicationDate": "2024-07-03",
+      "assignee": [
+        "PROLIFIC MACHINES INC."
+      ],
+      "inventors": [
+        "DENIZ KENT",
+        "MAXIMILIAAN HUISMAN",
+        "Declan Jones",
+        "VICTOR JONES",
+        "MONIQUE HOOLEY",
+        "Emily Gale",
+        "WILLIAM C PATON"
+      ],
+      "applicationDate": "2022-07-21",
+      "claimsCount": 72,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 15.284532
+    },
+    {
+      "id": "GB-202400869-D0",
+      "title": [
+        "Methods and systems for the scalable growth and maintenance of stem cells using optogenetics in suspension"
+      ],
+      "abstract": "",
+      "publicationNumber": "GB202400869",
+      "publicationDate": "2024-03-06",
+      "assignee": [
+        "PROLIFIC MACHINES INC."
+      ],
+      "inventors": [],
+      "applicationDate": "2022-07-21",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 15.284532
+    },
+    {
+      "id": "EP-4373941-A4",
+      "title": [
+        "METHODS AND SYSTEMS FOR THE SCALABLE GROWTH AND MAINTENANCE OF STEM CELLS USING OPTOGENETICS IN SUSPENSION"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP4373941",
+      "publicationDate": "2025-11-12",
+      "assignee": [
+        "PROLIFIC MACHINES INC."
+      ],
+      "inventors": [
+        "Deniz KENT",
+        "Maximiliaan HUISMAN",
+        "Declan JONES",
+        "VICTOR JONES",
+        "Monique HOOLEY",
+        "Emily GALE",
+        "William C. PATON"
+      ],
+      "applicationDate": "2022-07-21",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 15.284532
+    },
+    {
+      "id": "EP-4373941-A1",
+      "title": [
+        "METHODS AND SYSTEMS FOR THE SCALABLE GROWTH AND MAINTENANCE OF STEM CELLS USING OPTOGENETICS IN SUSPENSION"
+      ],
+      "abstract": "Provided herein are methods and systems for growing and maintaining stem cells in suspension. In some cases, the methods and systems involve the use of optical switches for activating one or more growth factor signaling pathways involved in the growth and/or maintenance of stem cells.",
+      "publicationNumber": "EP4373941",
+      "publicationDate": "2024-05-29",
+      "assignee": [
+        "Prolific Machines Inc."
+      ],
+      "inventors": [
+        "Deniz KENT",
+        "Maximiliaan HUISMAN",
+        "Declan JONES",
+        "VICTOR JONES",
+        "Monique HOOLEY",
+        "Emily GALE",
+        "William C. PATON"
+      ],
+      "applicationDate": "2022-07-21",
+      "claimsCount": 72,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 15.284532
+    },
+    {
+      "id": "AU-2022313183-A1",
+      "title": [
+        "METHODS AND SYSTEMS FOR THE SCALABLE GROWTH AND MAINTENANCE OF STEM CELLS USING OPTOGENETICS IN SUSPENSION"
+      ],
+      "abstract": "Provided herein are methods and systems for growing and maintaining stem cells in suspension. In some cases, the methods and systems involve the use of optical switches for activating one or more growth factor signaling pathways involved in the growth and/or maintenance of stem cells.",
+      "publicationNumber": "AU2022313183",
+      "publicationDate": "2024-02-08",
+      "assignee": [
+        "PROLIFIC MACHINES INC."
+      ],
+      "inventors": [
+        "Emily GALE",
+        "Monique HOOLEY",
+        "Maximiliaan HUISMAN",
+        "Declan JONES",
+        "VICTOR JONES",
+        "Deniz KENT",
+        "William C. PATON"
+      ],
+      "applicationDate": "2022-07-21",
+      "claimsCount": 72,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 15.284532
+    },
+    {
+      "id": "IN-202417091724-A",
+      "title": [
+        "METHODS AND SYSTEMS FOR DIFFERENTIATION OF CELLS USING OPTOGENETICS"
+      ],
+      "abstract": "Provided herein are methods and systems for differentiating cells in a population of cells into a desired cell lineage. In some embodiments, the methods and systems use light (e.g., optogenetics) to control differentiation of cells into a desired cell lineage. In some cases, the methods and systems involve differentiating cells in a suspension culture for large-scale production of cells of a desired cell lineage.",
+      "publicationNumber": "IN202417091724",
+      "publicationDate": "2024-12-20",
+      "assignee": [
+        "PROLIFIC MACHINES INC"
+      ],
+      "inventors": [
+        "KENT DENIZ",
+        "HUISMAN MAXIMILIAAN",
+        "JONES DECLAN",
+        "JONES VICTOR",
+        "HOOLEY MONIQUE",
+        "GALE EMILY"
+      ],
+      "applicationDate": "2024-11-25",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 13.76408
+    },
+    {
+      "id": "CA-3256950-A1",
+      "title": [
+        "METHODS AND SYSTEMS FOR DIFFERENTIATION OF CELLS USING OPTOGENETICS"
+      ],
+      "abstract": "Provided herein are methods and systems for differentiating cells in a population of cells into a desired cell lineage. In some embodiments, the methods and systems use light (e.g., optogenetics) to control differentiation of cells into a desired cell lineage. In some cases, the methods and systems involve differentiating cells in a suspension culture for large-scale production of cells of a desired cell lineage.",
+      "publicationNumber": "CA3256950",
+      "publicationDate": "2023-12-07",
+      "assignee": [
+        "PROLIFIC MACHINES INC."
+      ],
+      "inventors": [
+        "Deniz KENT",
+        "Maximiliaan Huisman",
+        "Declan JONES",
+        "Victor Jones",
+        "Monique HOOLEY",
+        "Emily GALE"
+      ],
+      "applicationDate": "2023-06-01",
+      "claimsCount": 65,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 13.76408
+    },
+    {
+      "id": "BR-112024025165-A2",
+      "title": [
+        "M\u00c9TODOS E SISTEMAS PARA A DIFERENCIA\u00c7\u00c3O DE C\u00c9LULAS PELA UTILIZA\u00c7\u00c3O DE OPTOGEN\u00c9TICA."
+      ],
+      "abstract": "",
+      "publicationNumber": "BR112024025165",
+      "publicationDate": "2025-05-06",
+      "assignee": [
+        "PROLIFIC MACHINES INC."
+      ],
+      "inventors": [
+        "Deniz KENT",
+        "Maximiliaan HUISMAN",
+        "Declan JONES",
+        "VICTOR JONES",
+        "Monique HOOLEY",
+        "Emily GALE"
+      ],
+      "applicationDate": "2023-06-01",
+      "claimsCount": 65,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 13.76408
+    },
+    {
+      "id": "IN-202417012174-A",
+      "title": [
+        "METHODS AND SYSTEMS FOR THE SCALABLE GROWTH AND MAINTENANCE OF STEM CELLS USING OPTOGENETICS IN SUSPENSION"
+      ],
+      "abstract": "Provided herein are methods and systems for growing and maintaining stem cells in suspension. In some cases, the methods and systems involve the use of optical switches for activating one or more growth factor signaling pathways involved in the growth and/or maintenance of stem cells.",
+      "publicationNumber": "IN202417012174",
+      "publicationDate": "2024-03-15",
+      "assignee": [
+        "PROLIFIC MACHINES INC"
+      ],
+      "inventors": [
+        "KENT DENIZ",
+        "HUISMAN MAXIMILIAAN",
+        "JONES DECLAN",
+        "JONES VICTOR",
+        "HOOLEY MONIQUE",
+        "GALE EMILY",
+        "PATON WILLIAM C"
+      ],
+      "applicationDate": "2024-02-21",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 13.733243
+    },
+    {
+      "id": "HK-40111641-A",
+      "title": [
+        "METHODS AND SYSTEMS FOR THE SCALABLE GROWTH AND MAINTENANCE OF STEM CELLS USING OPTOGENETICS IN SUSPENSION"
+      ],
+      "abstract": "",
+      "publicationNumber": "HK40111641",
+      "publicationDate": "2025-01-03",
+      "assignee": [
+        "PROLIFIC MACHINES INC."
+      ],
+      "inventors": [
+        "DENIZ KENT",
+        "MAXIMILIAAN HUISMAN",
+        "Declan Jones",
+        "VICTOR JONES",
+        "MONIQUE HOOLEY",
+        "Emily Gale",
+        "WILLIAM C PATON"
+      ],
+      "applicationDate": "2024-11-13",
+      "claimsCount": 73,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 13.733243
+    },
+    {
+      "id": "BR-112024001308-A2",
+      "title": [
+        "M\u00c9TODOS E SISTEMAS PARA O CRESCIMENTO ESCALON\u00c1VEL E MANUTEN\u00c7\u00c3O DE C\u00c9LULAS TRONCO PELA UTILIZA\u00c7\u00c3O DE OPTOGEN\u00c9TICA EM SUSPENS\u00c3O."
+      ],
+      "abstract": "",
+      "publicationNumber": "BR112024001308",
+      "publicationDate": "2024-04-24",
+      "assignee": [
+        "PROLIFIC MACHINES INC."
+      ],
+      "inventors": [
+        "DENIZ KENT",
+        "MAXIMILIAAN HUISMAN",
+        "Declan Jones",
+        "VICTOR JONES",
+        "MONIQUE HOOLEY",
+        "Emily Gale"
+      ],
+      "applicationDate": "2022-07-21",
+      "claimsCount": 72,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 13.733243
+    },
+    {
+      "id": "JP-2025523366-A",
+      "title": [
+        "\u5149\u907a\u4f1d\u5b66\u3092\u7528\u3044\u305f\u7d30\u80de\u306e\u5206\u5316\u306e\u305f\u3081\u306e\u65b9\u6cd5\u304a\u3088\u3073\u30b7\u30b9\u30c6\u30e0"
+      ],
+      "abstract": "\u7d30\u80de\u96c6\u56e3\u4e2d\u306e\u7d30\u80de\u3092\u6240\u671b\u306e\u7d30\u80de\u7cfb\u8b5c\u306b\u5206\u5316\u3055\u305b\u308b\u305f\u3081\u306e\u65b9\u6cd5\u304a\u3088\u3073\u30b7\u30b9\u30c6\u30e0\u304c\u672c\u660e\u7d30\u66f8\u306b\u63d0\u4f9b\u3055\u308c\u308b\u3002\u3044\u304f\u3064\u304b\u306e\u5b9f\u65bd\u5f62\u614b\u3067\u306f\u3001\u672c\u65b9\u6cd5\u304a\u3088\u3073\u30b7\u30b9\u30c6\u30e0\u306f\u3001\u5149\uff08\u4f8b\u3048\u3070\u3001\u5149\u907a\u4f1d\u5b66\uff09\u3092\u4f7f\u7528\u3057\u3066\u3001\u6240\u671b\u306e\u7d30\u80de\u7cfb\u8b5c\u3078\u306e\u7d30\u80de\u306e\u5206\u5316\u3092\u5236\u5fa1\u3059\u308b\u3002\u5834\u5408\u306b\u3088\u3063\u3066\u306f\u3001\u672c\u65b9\u6cd5\u304a\u3088\u3073\u30b7\u30b9\u30c6\u30e0\u306f\u3001\u6240\u671b\u306e\u7d30\u80de\u7cfb\u8b5c\u306e\u7d30\u80de\u306e\u5927\u898f\u6a21\u751f\u7523\u306e\u305f\u3081\u306b\u61f8\u6fc1\u57f9\u990a\u6db2\u4e2d\u3067\u7d30\u80de\u3092\u5206\u5316\u3055\u305b\u308b\u3053\u3068\u3092\u542b\u3080\u3002 \u3010\u9078\u629e\u56f3\u3011\u56f3\uff11\uff21",
+      "publicationNumber": "JP2025523366",
+      "publicationDate": "2025-07-23",
+      "assignee": [
+        "\u30d7\u30ed\u30ea\u30d5\u30a3\u30c3\u30af \u30de\u30b7\u30fc\u30f3\u30ba \u30a4\u30f3\u30af\uff0e"
+      ],
+      "inventors": [
+        "\u30b1\u30f3\u30c8\uff0c\u30c7\u30cb\u30ba",
+        "\u30db\u30a4\u30b9\u30de\u30f3\uff0c\u30de\u30af\u30b7\u30df\u30ea\u30a2\u30f3",
+        "\u30b8\u30e7\u30fc\u30f3\u30ba\uff0c\u30c7\u30af\u30e9\u30f3",
+        "\u30b8\u30e7\u30fc\u30f3\u30ba\uff0c\u30f4\u30a3\u30af\u30bf\u30fc",
+        "\u30d5\u30fc\u30ea\u30fc\uff0c\u30e2\u30cb\u30af",
+        "\u30b2\u30a4\u30eb\uff0c\u30a8\u30df\u30ea\u30fc"
+      ],
+      "applicationDate": "2023-06-01",
+      "claimsCount": 65,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 13.328474
+    },
+    {
+      "id": "JP-2024528696-A",
+      "title": [
+        "\u5149\u907a\u4f1d\u5b66\u3092\u7528\u3044\u305f\u61f8\u6fc1\u72b6\u614b\u3067\u306e\u5e79\u7d30\u80de\u306e\u30b9\u30b1\u30fc\u30e9\u30d6\u30eb\u306a\u5897\u6b96\u304a\u3088\u3073\u7dad\u6301\u306e\u305f\u3081\u306e\u65b9\u6cd5\u306a\u3089\u3073\u306b\u30b7\u30b9\u30c6\u30e0"
+      ],
+      "abstract": "\u61f8\u6fc1\u72b6\u614b\u3067\u5e79\u7d30\u80de\u3092\u5897\u6b96\u304a\u3088\u3073\u7dad\u6301\u3059\u308b\u305f\u3081\u306e\u65b9\u6cd5\u306a\u3089\u3073\u306b\u30b7\u30b9\u30c6\u30e0\u304c\u3001\u672c\u660e\u7d30\u66f8\u4e2d\u3067\u63d0\u4f9b\u3055\u308c\u308b\u3002\u5834\u5408\u306b\u3088\u3063\u3066\u306f\u3001\u65b9\u6cd5\u304a\u3088\u3073\u30b7\u30b9\u30c6\u30e0\u306b\u306f\u3001\u5e79\u7d30\u80de\u306e\u5897\u6b96\u304a\u3088\u3073\uff0f\u307e\u305f\u306f\u7dad\u6301\u306b\u95a2\u308f\u308b\uff11\u3064\u4ee5\u4e0a\u306e\u5897\u6b96\u56e0\u5b50\u30b7\u30b0\u30ca\u30eb\u4f1d\u9054\u7d4c\u8def\u3092\u6d3b\u6027\u5316\u3059\u308b\u305f\u3081\u306e\u5149\u30b9\u30a4\u30c3\u30c1\u306e\u4f7f\u7528\u304c\u542b\u307e\u308c\u3066\u3044\u308b\u3002 \u3010\u9078\u629e\u56f3\u3011\u56f3\uff12",
+      "publicationNumber": "JP2024528696",
+      "publicationDate": "2024-07-30",
+      "assignee": [
+        "\u30d7\u30ed\u30ea\u30d5\u30a3\u30c3\u30af \u30de\u30b7\u30fc\u30f3\u30ba \u30a4\u30f3\u30af\uff0e"
+      ],
+      "inventors": [
+        "\u30b1\u30f3\u30c8\uff0c\u30c7\u30cb\u30ba",
+        "\u30db\u30a4\u30b9\u30de\u30f3\uff0c\u30de\u30af\u30b7\u30df\u30ea\u30a2\u30f3",
+        "\u30b8\u30e7\u30fc\u30f3\u30ba\uff0c\u30c7\u30af\u30e9\u30f3",
+        "\u30b8\u30e7\u30fc\u30f3\u30ba\uff0c\u30f4\u30a3\u30af\u30bf\u30fc",
+        "\u30d5\u30fc\u30ea\u30fc\uff0c\u30e2\u30cb\u30af",
+        "\u30b2\u30a4\u30eb\uff0c\u30a8\u30df\u30ea\u30fc",
+        "\u30d1\u30c8\u30f3\uff0c\u30a6\u30a3\u30ea\u30a2\u30e0 \u30b7\u30fc\uff0e"
+      ],
+      "applicationDate": "2022-07-21",
+      "claimsCount": 72,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 13.299274
+    },
+    {
+      "id": "KR-20250019703-A",
+      "title": [
+        "\uad11\uc720\uc804\ud559\uc744 \uc774\uc6a9\ud55c \uc138\ud3ec \ubd84\ud654\ub97c \uc704\ud55c \ubc29\ubc95 \ubc0f \uc2dc\uc2a4\ud15c"
+      ],
+      "abstract": "\uc138\ud3ec \uc9d1\ub2e8\uc758 \uc138\ud3ec\ub97c \uc6d0\ud558\ub294 \uc138\ud3ec \uacc4\ud1b5\uc73c\ub85c \ubd84\ud654\uc2dc\ud0a4\uae30 \uc704\ud55c \ubc29\ubc95 \ubc0f \uc2dc\uc2a4\ud15c\uc774 \ubcf8\uc6d0\uc5d0 \uc81c\uacf5\ub41c\ub2e4. \uc77c\ubd80 \uc2e4\uc2dc\uc591\ud0dc\uc5d0\uc11c, \ubc29\ubc95 \ubc0f \uc2dc\uc2a4\ud15c\uc740 \uad11(\uc608\ucee8\ub300, \uad11\uc720\uc804\ud559)\uc744 \uc0ac\uc6a9\ud558\uc5ec \uc138\ud3ec\uc758 \uc6d0\ud558\ub294 \uc138\ud3ec \uacc4\ud1b5\uc73c\ub85c\uc758 \ubd84\ud654\ub97c \uc81c\uc5b4\ud55c\ub2e4. \uc77c\ubd80 \uacbd\uc6b0\uc5d0\uc11c, \ubc29\ubc95 \ubc0f \uc2dc\uc2a4\ud15c\uc740 \uc6d0\ud558\ub294 \uc138\ud3ec \uacc4\ud1b5\uc758 \uc138\ud3ec\uc758 \ub300\ub7c9 \uc0dd\uc0b0\uc744 \uc704\ud574 \ud604\ud0c1 \ubc30\uc591\ubb3c\uc5d0\uc11c \uc138\ud3ec\ub97c \ubd84\ud654\uc2dc\ud0a4\ub294 \uac83\uc744 \ud3ec\ud568\ud55c\ub2e4.",
+      "publicationNumber": "KR20250019703",
+      "publicationDate": "2025-02-10",
+      "assignee": [
+        "PROLIFIC MACHINES INC."
+      ],
+      "inventors": [
+        "KENT DENIZ",
+        "HUISMAN MAXIMILIAAN",
+        "JONES DECLAN",
+        "JONES VICTOR",
+        "HOOLEY MONIQUE",
+        "GALE EMILY"
+      ],
+      "applicationDate": "2023-06-01",
+      "claimsCount": 65,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 12.300089
+    },
+    {
+      "id": "KR-20240058844-A",
+      "title": [
+        "\ud604\ud0c1\uc561\uc5d0\uc11c \uad11\uc720\uc804\ud559\uc744 \uc774\uc6a9\ud558\ub294 \uc904\uae30 \uc138\ud3ec\uc758 \ud655\uc7a5\uac00\ub2a5\ud55c \uc131\uc7a5 \ubc0f \uc720\uc9c0\ub97c \uc704\ud55c \ubc29\ubc95 \ubc0f \uc2dc\uc2a4\ud15c"
+      ],
+      "abstract": "\ud604\ud0c1\uc561\uc5d0\uc11c \uc904\uae30 \uc138\ud3ec\ub97c \uc131\uc7a5 \ubc0f \uc720\uc9c0\uc2dc\ud0a4\uae30 \uc704\ud55c \ubc29\ubc95 \ubc0f \uc2dc\uc2a4\ud15c\uc774 \ubcf8\uc6d0\uc5d0 \uc81c\uacf5\ub41c\ub2e4. \uc77c\ubd80 \uacbd\uc6b0\uc5d0, \uc0c1\uae30 \ubc29\ubc95 \ubc0f \uc2dc\uc2a4\ud15c\uc740 \uc904\uae30 \uc138\ud3ec\uc758 \uc131\uc7a5 \ubc0f/\ub610\ub294 \uc720\uc9c0\uc5d0 \uad00\uc5ec\ud558\ub294 \ud558\ub098 \uc774\uc0c1\uc758 \uc131\uc7a5 \uc778\uc790 \uc2e0\ud638\uc804\ub2ec \uacbd\ub85c\ub97c \ud65c\uc131\ud654\ud558\uae30 \uc704\ud55c \uad11 \uc2a4\uc704\uce58\uc758 \uc0ac\uc6a9\uc744 \ud3ec\ud568\ud55c\ub2e4.",
+      "publicationNumber": "KR20240058844",
+      "publicationDate": "2024-05-03",
+      "assignee": [
+        "PROLIFIC MACHINES INC."
+      ],
+      "inventors": [
+        "KENT DENIZ",
+        "HUISMAN MAXIMILIAAN",
+        "JONES DECLAN",
+        "JONES VICTOR",
+        "HOOLEY MONIQUE",
+        "GALE EMILY",
+        "PATON WILLIAM C."
+      ],
+      "applicationDate": "2022-07-21",
+      "claimsCount": 72,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 12.274591
+    },
+    {
+      "id": "CA-3226466-A1",
+      "title": [
+        "METHODS AND SYSTEMS FOR THE SCALABLE GROWTH AND MAINTENANCE OF STEM CELLS USING OPTOGENETICS IN SUSPENSION"
+      ],
+      "abstract": "Provided herein are methods and systems for growing and maintaining stem cells in suspension. In some cases, the methods and systems involve the use of optical switches for activating one or more growth factor signaling pathways involved in the growth and/or maintenance of stem cells.",
+      "publicationNumber": "CA3226466",
+      "publicationDate": "2023-01-26",
+      "assignee": [
+        "KENT, Deniz"
+      ],
+      "inventors": [
+        "Deniz KENT",
+        "Maximiliaan HUISMAN",
+        "Declan JONES",
+        "VICTOR JONES",
+        "Monique HOOLEY",
+        "Emily GALE",
+        "William C. PATON"
+      ],
+      "applicationDate": "2022-07-21",
+      "claimsCount": 72,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 10.494768
+    }
+  ]
+}

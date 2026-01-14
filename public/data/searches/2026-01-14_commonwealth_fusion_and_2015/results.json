@@ -1,0 +1,2597 @@
+{
+  "count": 186,
+  "numFound": 186,
+  "docs": [
+    {
+      "id": "CA-236892-S",
+      "title": [
+        "TOKAMAK"
+      ],
+      "abstract": "",
+      "publicationNumber": "CA236892",
+      "publicationDate": "2025-10-29",
+      "assignee": [
+        "COMMONWEALTH FUSION SYSTEMS LLC"
+      ],
+      "inventors": [],
+      "applicationDate": "2025-01-17",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 14.723409
+    },
+    {
+      "id": "CA-238578-S",
+      "title": [
+        "THERMAL ACTUATOR PLATE"
+      ],
+      "abstract": "",
+      "publicationNumber": "CA238578",
+      "publicationDate": "2025-12-05",
+      "assignee": [
+        "COMMONWEALTH FUSION SYSTEMS LLC"
+      ],
+      "inventors": [],
+      "applicationDate": "2025-03-13",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 14.72325
+    },
+    {
+      "id": "WO-2024173669-A1",
+      "title": [
+        "DENSE LINEAR RAMP BRAGG GRATING PATTERN FOR QUENCH DETECTION IN HIGH TEMPERATURE SUPERCONDUCTING MAGNETS"
+      ],
+      "abstract": "Quench detection apparatuses and methods for high-temperature- superconducting (HTS) cables are described. An optical fiber may form part of the HTS cable and may include a plurality of fiber Bragg gratings (FBGs), at least some of which exhibit different center wavelengths. The FBGs are arranged in some embodiments such that the center wavelengths of the respective FBGs increase along the length of the HTS cable.",
+      "publicationNumber": "WO2024173669",
+      "publicationDate": "2024-08-22",
+      "assignee": [
+        "COMMONWEALTH FUSION SYSTEMS LLC"
+      ],
+      "inventors": [
+        "OWEN BEALS DUKE",
+        "ERICA ELIZABETH SALAZAR",
+        "MATTHEW HICKS"
+      ],
+      "applicationDate": "2024-02-15",
+      "claimsCount": 45,
+      "independentClaimsCount": 6,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Measurement"
+      ],
+      "score": 14.715477
+    },
+    {
+      "id": "EP-4666300-A1",
+      "title": [
+        "DENSE LINEAR RAMP BRAGG GRATING PATTERN FOR QUENCH DETECTION IN HIGH TEMPERATURE SUPERCONDUCTING MAGNETS"
+      ],
+      "abstract": "Quench detection apparatuses and methods for high-temperature- superconducting (HTS) cables are described. An optical fiber may form part of the HTS cable and may include a plurality of fiber Bragg gratings (FBGs), at least some of which exhibit different center wavelengths. The FBGs are arranged in some embodiments such that the center wavelengths of the respective FBGs increase along the length of the HTS cable.",
+      "publicationNumber": "EP4666300",
+      "publicationDate": "2025-12-24",
+      "assignee": [
+        "Commonwealth Fusion Systems LLC"
+      ],
+      "inventors": [
+        "OWEN BEALS DUKE",
+        "ERICA ELIZABETH SALAZAR",
+        "MATTHEW HICKS"
+      ],
+      "applicationDate": "2024-02-15",
+      "claimsCount": 45,
+      "independentClaimsCount": 6,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Measurement"
+      ],
+      "score": 14.715477
+    },
+    {
+      "id": "WO-2025147420-A1",
+      "title": [
+        "TECHNIQUES FOR QUENCH DETECTION IN SUPERCONDUCTING MAGNETS"
+      ],
+      "abstract": "Techniques for early detection of a local normal zone in superconducting magnets are provided. A superconducting magnet may include an insulated superconductor that is arranged along the primary non-insulated winding of the magnet. If a portion of the primary winding heats up, this may cause the insulated superconductor co-winding to also heat up. A quench may be detected by connecting ends of the co-winding to a voltage meter because heating of the co-winding may produce a measurable change in its resistance.",
+      "publicationNumber": "WO2025147420",
+      "publicationDate": "2025-07-10",
+      "assignee": [
+        "COMMONWEALTH FUSION SYSTEMS LLC"
+      ],
+      "inventors": [
+        "ALEXEY RADOVINSKY",
+        "SERGEY KUZNETSOV",
+        "Nicolai MARTOVETSKY"
+      ],
+      "applicationDate": "2024-12-24",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Measurement"
+      ],
+      "score": 14.711386
+    },
+    {
+      "id": "WO-2023225159-A8",
+      "title": [
+        "TRITIUM SHUNT HEAT EXCHANGER WITH SWEEP GAS"
+      ],
+      "abstract": "Certain aspects of the present disclosure are generally directed to tritium shunt heat exchangers that use a sweep gas. In some aspects, a heat exchanger system for a fusion power plant is disclosed herein. The system may advantageously allow for efficient energy and tritium extraction from a tritium -containing fluid, while minimizing tritium leakage into the environment. For example, the system may comprise components, such as a thermally conductive solid connector, a sweep gas, reactive materials, etc., that, allow for high heat transfer efficiency, and/or high tritium removal and extraction efficiency. In addition, some aspects of the disclosure are directed to methods for using or making such a system.",
+      "publicationNumber": "WO2023225159",
+      "publicationDate": "2023-12-28",
+      "assignee": [
+        "COMMONWEALTH FUSION SYSTEMS LLC"
+      ],
+      "inventors": [
+        "Matthew VERNACCHIA",
+        "JAMES LOGAN"
+      ],
+      "applicationDate": "2023-05-18",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 14.653988
+    },
+    {
+      "id": "WO-2023225159-A1",
+      "title": [
+        "TRITIUM SHUNT HEAT EXCHANGER WITH SWEEP GAS"
+      ],
+      "abstract": "Certain aspects of the present disclosure are generally directed to tritium shunt heat exchangers that use a sweep gas. In some aspects, a heat exchanger system for a fusion power plant is disclosed herein. The system may advantageously allow for efficient energy and tritium extraction from a tritium -containing fluid, while minimizing tritium leakage into the environment. For example, the system may comprise components, such as a thermally conductive solid connector, a sweep gas, reactive materials, etc., that, allow for high heat transfer efficiency, and/or high tritium removal and extraction efficiency. In addition, some aspects of the disclosure are directed to methods for using or making such a system.",
+      "publicationNumber": "WO2023225159",
+      "publicationDate": "2023-11-23",
+      "assignee": [
+        "COMMONWEALTH FUSION SYSTEMS LLC"
+      ],
+      "inventors": [
+        "Matthew VERNACCHIA",
+        "JAMES LOGAN"
+      ],
+      "applicationDate": "2023-05-18",
+      "claimsCount": 1,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 14.653988
+    },
+    {
+      "id": "EP-4526613-A1",
+      "title": [
+        "TRITIUM SHUNT HEAT EXCHANGER WITH SWEEP GAS"
+      ],
+      "abstract": "Certain aspects of the present disclosure are generally directed to tritium shunt heat exchangers that use a sweep gas. In some aspects, a heat exchanger system for a fusion power plant is disclosed herein. The system may advantageously allow for efficient energy and tritium extraction from a tritium -containing fluid, while minimizing tritium leakage into the environment. For example, the system may comprise components, such as a thermally conductive solid connector, a sweep gas, reactive materials, etc., that, allow for high heat transfer efficiency, and/or high tritium removal and extraction efficiency. In addition, some aspects of the disclosure are directed to methods for using or making such a system.",
+      "publicationNumber": "EP4526613",
+      "publicationDate": "2025-03-26",
+      "assignee": [
+        "Commonwealth Fusion Systems LLC"
+      ],
+      "inventors": [
+        "Matthew VERNACCHIA",
+        "JAMES LOGAN"
+      ],
+      "applicationDate": "2023-05-18",
+      "claimsCount": 1,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 14.653988
+    },
+    {
+      "id": "WO-2024238553-A1",
+      "title": [
+        "TECHNIQUES FOR REMOVING A VACUUM VESSEL FROM A TOKAMAK AND RELATED SYSTEMS AND METHODS"
+      ],
+      "abstract": "Techniques are described for automatically removing and replacing components, including a vacuum vessel, from a tokamak. The inventors have recognized that schemes for automatically removing and replacing components from a tokamak should preferably be simple (e.g., using proven equipment to perform a series of non- mechanically complex tasks) and have a very low risk of damaging components. Techniques described herein may include splitting a tokamak into multiple pieces, separating the pieces, and removing the now separate pieces of the vacuum vessel from within the pieces of the tokamak. A new vacuum vessel can be inserted in multiple pieces and the tokamak rejoined to complete the replacement process.",
+      "publicationNumber": "WO2024238553",
+      "publicationDate": "2024-11-21",
+      "assignee": [
+        "COMMONWEALTH FUSION SYSTEMS LLC"
+      ],
+      "inventors": [
+        "Matthew VERNACCHIA",
+        "Theodore WYETH"
+      ],
+      "applicationDate": "2024-05-14",
+      "claimsCount": 25,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 14.644222
+    },
+    {
+      "id": "WO-2024238550-A9",
+      "title": [
+        "TECHNIQUES FOR AUTOMATED MAINTENANCE OF A TOKAMAK AND RELATED SYSTEMS AND METHODS"
+      ],
+      "abstract": "Techniques are described for automatically removing and replacing components, including a vacuum vessel, from a tokamak. The inventors have recognized that schemes for automatically removing and replacing components from a tokamak should preferably be simple (e.g., using proven equipment to perform a series of non- mechanically complex tasks) and have a very low risk of damaging components. Techniques described herein may include splitting a tokamak into multiple pieces, separating the pieces, and removing the now separate pieces of the vacuum vessel from within the pieces of the tokamak. A new vacuum vessel can be inserted in multiple pieces and the tokamak rejoined to complete the replacement process.",
+      "publicationNumber": "WO2024238550",
+      "publicationDate": "2025-08-21",
+      "assignee": [
+        "COMMONWEALTH FUSION SYSTEMS LLC"
+      ],
+      "inventors": [
+        "Brandon, N. SORBOM",
+        "Robert MUMGAARD",
+        "DANIEL BRUNNER",
+        "Alexander CREELY",
+        "Cody DENNETT",
+        "Matthew VERNACCHIA",
+        "Caroline SORENSEN BARTHEL",
+        "Theodore WYETH"
+      ],
+      "applicationDate": "2024-05-14",
+      "claimsCount": 19,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 14.599514
+    },
+    {
+      "id": "WO-2024238550-A1",
+      "title": [
+        "TECHNIQUES FOR AUTOMATED MAINTENANCE OF A TOKAMAK AND RELATED SYSTEMS AND METHODS"
+      ],
+      "abstract": "Techniques are described for automatically removing and replacing components, including a vacuum vessel, from a tokamak. The inventors have recognized that schemes for automatically removing and replacing components from a tokamak should preferably be simple (e.g., using proven equipment to perform a series of non- mechanically complex tasks) and have a very low risk of damaging components. Techniques described herein may include splitting a tokamak into multiple pieces, separating the pieces, and removing the now separate pieces of the vacuum vessel from within the pieces of the tokamak. A new vacuum vessel can be inserted in multiple pieces and the tokamak rejoined to complete the replacement process.",
+      "publicationNumber": "WO2024238550",
+      "publicationDate": "2024-11-21",
+      "assignee": [
+        "COMMONWEALTH FUSION SYSTEMS LLC"
+      ],
+      "inventors": [
+        "Brandon, N. SORBOM",
+        "Robert MUMGAARD",
+        "DANIEL BRUNNER",
+        "Alexander CREELY",
+        "Cody DENNETT",
+        "Matthew VERNACCHIA",
+        "Caroline SORENSEN",
+        "Theodore WYETH"
+      ],
+      "applicationDate": "2024-05-14",
+      "claimsCount": 19,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 14.599514
+    },
+    {
+      "id": "WO-2023096852-A1",
+      "title": [
+        "MITIGATION OF ATTENUATING EFFECTS FROM IONIZING RADIATION IN SILICA OPTICAL FIBERS BY PHOTOBLEACHING"
+      ],
+      "abstract": "Systems and methods for performing optical annealing of an optical fiber disposed in a cryogenic environment subject to ionizing radiation, such as in a fusion energy source, are provided. The techniques include optically annealing the optical fiber using first light having a first peak wavelength and second light having a second peak wavelength different than the first peak wavelength. The first and second peak wavelengths may be selected to optically anneal defects associated with transient radiation-induced attenuation (RIA) and permanent RIA.",
+      "publicationNumber": "WO2023096852",
+      "publicationDate": "2023-06-01",
+      "assignee": [
+        "COMMONWEALTH FUSION SYSTEMS LLC"
+      ],
+      "inventors": [
+        "Owen, Beals DUKE",
+        "Erica, Elizabeth SALAZAR",
+        "David, Paul MEICHLE"
+      ],
+      "applicationDate": "2022-11-21",
+      "claimsCount": 45,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Materials, metallurgy",
+        "Measurement",
+        "Optics"
+      ],
+      "score": 14.599514
+    },
+    {
+      "id": "EP-4526904-A1",
+      "title": [
+        "TECHNIQUES FOR AUTOMATED MAINTENANCE OF A TOKAMAK AND RELATED SYSTEMS AND METHODS"
+      ],
+      "abstract": "Techniques are described for automatically removing and replacing components, including a vacuum vessel, from a tokamak. The inventors have recognized that schemes for automatically removing and replacing components from a tokamak should preferably be simple (e.g., using proven equipment to perform a series of non- mechanically complex tasks) and have a very low risk of damaging components. Techniques described herein may include splitting a tokamak into multiple pieces, separating the pieces, and removing the now separate pieces of the vacuum vessel from within the pieces of the tokamak. A new vacuum vessel can be inserted in multiple pieces and the tokamak rejoined to complete the replacement process.",
+      "publicationNumber": "EP4526904",
+      "publicationDate": "2025-03-26",
+      "assignee": [
+        "Commonwealth Fusion Systems LLC"
+      ],
+      "inventors": [
+        "Brandon, N. SORBOM",
+        "Robert MUMGAARD",
+        "DANIEL BRUNNER",
+        "Alexander CREELY",
+        "Cody DENNETT",
+        "Matthew VERNACCHIA",
+        "Caroline SORENSEN BARTHEL",
+        "Theodore WYETH"
+      ],
+      "applicationDate": "2024-05-14",
+      "claimsCount": 19,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 14.599514
+    },
+    {
+      "id": "EP-4436934-A1",
+      "title": [
+        "MITIGATION OF ATTENUATING EFFECTS FROM IONIZING RADIATION IN SILICA OPTICAL FIBERS BY PHOTOBLEACHING"
+      ],
+      "abstract": "Systems and methods for performing optical annealing of an optical fiber disposed in a cryogenic environment subject to ionizing radiation, such as in a fusion energy source, are provided. The techniques include optically annealing the optical fiber using first light having a first peak wavelength and second light having a second peak wavelength different than the first peak wavelength. The first and second peak wavelengths may be selected to optically anneal defects associated with transient radiation-induced attenuation (RIA) and permanent RIA.",
+      "publicationNumber": "EP4436934",
+      "publicationDate": "2024-10-02",
+      "assignee": [
+        "Commonwealth Fusion Systems LLC"
+      ],
+      "inventors": [
+        "Owen, Beals DUKE",
+        "Erica, Elizabeth SALAZAR",
+        "David, Paul MEICHLE"
+      ],
+      "applicationDate": "2022-11-21",
+      "claimsCount": 45,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Materials, metallurgy",
+        "Measurement",
+        "Optics"
+      ],
+      "score": 14.599514
+    },
+    {
+      "id": "WO-2025122867-A1",
+      "title": [
+        "RF ELECTRICAL MEASUREMENT FOR SUPERCONDUCTOR QUENCH AND TEMPERATURE ANOMALY DETECTION IN MAGNETS"
+      ],
+      "abstract": "Quench detection apparatuses and methods for high-temperature-superconducting (HTS) cables are described. Electrical signals are transmitted along a metallic coolant-carrying waveguide of the HTS cable. The transmitted signals are detected and the transmission and/or absorption properties of the coolant-carrying cable determined. Changes in the properties indicative of heating of the HTS cable associated with quench are detected.",
+      "publicationNumber": "WO2025122867",
+      "publicationDate": "2025-06-12",
+      "assignee": [
+        "COMMONWEALTH FUSION SYSTEMS LLC"
+      ],
+      "inventors": [
+        "OWEN BEALS DUKE"
+      ],
+      "applicationDate": "2024-12-06",
+      "claimsCount": 35,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 14.459075
+    },
+    {
+      "id": "WO-2022019989-A3",
+      "title": [
+        "MAGNET STRUCTURES COMPRISING A HIGH TEMPERATURE SUPERCONDUCTOR (HTS) CABLE IN GROOVE"
+      ],
+      "abstract": "A method includes inserting a high temperature superconductor (HTS) cable into a groove of a support structure; and flowing a molten metal into the HTS cable while the HTS cable is in the groove. A magnet structure includes a support structure having a groove; and a high temperature superconductor (HTS) cable comprising a metal at least partially filling the HTS cable, the HTS cable being disposed in the groove.",
+      "publicationNumber": "WO2022019989",
+      "publicationDate": "2022-02-24",
+      "assignee": [
+        "MASSACHUSETTS INSTITUTE OF TECHNOLOGY"
+      ],
+      "inventors": [
+        "ALEXEY RADOVINSKY",
+        "Robert MUMGAARD",
+        "Brian LABOMBARD"
+      ],
+      "applicationDate": "2021-05-11",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Machine tools"
+      ],
+      "score": 13.866594
+    },
+    {
+      "id": "WO-2022019989-A2",
+      "title": [
+        "MAGNET STRUCTURES COMPRISING A HIGH TEMPERATURE SUPERCONDUCTOR (HTS) CABLE IN GROOVE"
+      ],
+      "abstract": "A method includes inserting a high temperature superconductor (HTS) cable into a groove of a support structure; and flowing a molten metal into the HTS cable while the HTS cable is in the groove. A magnet structure includes a support structure having a groove; and a high temperature superconductor (HTS) cable comprising a metal at least partially filling the HTS cable, the HTS cable being disposed in the groove.",
+      "publicationNumber": "WO2022019989",
+      "publicationDate": "2022-01-27",
+      "assignee": [
+        "MASSACHUSETTS INSTITUTE OF TECHNOLOGY"
+      ],
+      "inventors": [
+        "ALEXEY RADOVINSKY",
+        "Robert MUMGAARD",
+        "Brian LABOMBARD"
+      ],
+      "applicationDate": "2021-05-11",
+      "claimsCount": 27,
+      "independentClaimsCount": 2,
+      "technologyFields": [],
+      "score": 13.866594
+    },
+    {
+      "id": "WO-2021236194-A3",
+      "title": [
+        "FIELD QUALITY CORRECTION IN NO-INSULATION SUPERCONDUCTING MAGNETS BY ADJUSTABLE CURRENT BYPASSES"
+      ],
+      "abstract": "A magnet system and method of operating may be used in connection with operating a superconducting electromagnet, for example in a tokamak. The magnet system includes a coil having windings retained within a non-insulated structure, so that current can pass both along the windings to generate a magnetic field, and between the windings. The amount of current passing through the coil is trimmed using a bypass circuit, coupled in parallel to the coil terminals. The bypass circuit is controlled on the basis of measurements of the field components to divert current from passing through the field coil. In this way, the magnetic fields of each of multiple field coils can be brought into mutual uniformity.",
+      "publicationNumber": "WO2021236194",
+      "publicationDate": "2022-03-10",
+      "assignee": [
+        "MASSACHUSETTS INSTITUTE OF TECHNOLOGY"
+      ],
+      "inventors": [
+        "ALEXEY RADOVINSKY",
+        "Robert MUMGAARD",
+        "Theodore GOLFINOPOULOS"
+      ],
+      "applicationDate": "2021-03-01",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.866594
+    },
+    {
+      "id": "WO-2021236194-A2",
+      "title": [
+        "FIELD QUALITY CORRECTION IN NO-INSULATION SUPERCONDUCTING MAGNETS BY ADJUSTABLE CURRENT BYPASSES"
+      ],
+      "abstract": "A magnet system and method of operating may be used in connection with operating a superconducting electromagnet, for example in a tokamak. The magnet system includes a coil having windings retained within a non-insulated structure, so that current can pass both along the windings to generate a magnetic field, and between the windings. The amount of current passing through the coil is trimmed using a bypass circuit, coupled in parallel to the coil terminals. The bypass circuit is controlled on the basis of measurements of the field components to divert current from passing through the field coil. In this way, the magnetic fields of each of multiple field coils can be brought into mutual uniformity.",
+      "publicationNumber": "WO2021236194",
+      "publicationDate": "2021-11-25",
+      "assignee": [
+        "MASSACHUSETTS INSTITUTE OF TECHNOLOGY"
+      ],
+      "inventors": [
+        "ALEXEY RADOVINSKY",
+        "Robert MUMGAARD",
+        "Theodore GOLFINOPOULOS"
+      ],
+      "applicationDate": "2021-03-01",
+      "claimsCount": 49,
+      "independentClaimsCount": 4,
+      "technologyFields": [],
+      "score": 13.866594
+    },
+    {
+      "id": "WO-2021113291-A1",
+      "title": [
+        "CABLE JOINT FOR SUPERCONDUCTING CABLES AND RELATED TECHNIQUES"
+      ],
+      "abstract": "Described are cable joints and related structures and techniques for coupling high temperature superconducting (HTS) cables. A cable joint includes a conductive member having a length which defines the length of the joint and having first and second mounting regions shaped to accept first and second HTS cable with an interface layer comprised of a malleable metal disposed between a surfaces of the first and second mounting regions and surfaces of the first and second HTS cables.",
+      "publicationNumber": "WO2021113291",
+      "publicationDate": "2021-06-10",
+      "assignee": [
+        "MASSACHUSETTS INSTITUTE OF TECHNOLOGY"
+      ],
+      "inventors": [
+        "Zachary HARTWIG",
+        "PHILIP MICHAEL",
+        "Brandon, N. SORBOM",
+        "James IRBY",
+        "Rui VIEIRA",
+        "WILLIAM BECK",
+        "Erica SALAZAR",
+        "VINCENT FRY"
+      ],
+      "applicationDate": "2020-12-02",
+      "claimsCount": 31,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.866594
+    },
+    {
+      "id": "US-20210407716-A1",
+      "title": [
+        "MOTIVE SYSTEMS COMPRISING A HIGH TEMPERATURE SUPERCONDUCTOR (HTS) CABLE"
+      ],
+      "abstract": "A motive magnetic system includes a first coil configured to produce a constant magnetic field. The first coil includes a support structure having a groove and a high temperature superconductor (HTS) cable comprising a metal at least partially filling the HTS cable. The cable is disposed in the groove. A second coil is configured to produce an alternating magnetic field. The first coil and the second coil are positioned so that the constant magnetic field and the alternating magnetic field interact to cause a magnetic force between the first coil and the second coil that causes motion between the first and second coil.",
+      "publicationNumber": "US20210407716",
+      "publicationDate": "2021-12-30",
+      "assignee": [
+        "MASSACHUSETTS INSTITUTE OF TECHNOLOGY"
+      ],
+      "inventors": [
+        "Alexey Radovinsky",
+        "Sergey Kuznetsov"
+      ],
+      "applicationDate": "2021-06-25",
+      "claimsCount": 44,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.866594
+    },
+    {
+      "id": "EP-4173011-A2",
+      "title": [
+        "MAGNET STRUCTURES COMPRISING A HIGH TEMPERATURE SUPERCONDUCTOR (HTS) CABLE IN GROOVE"
+      ],
+      "abstract": "A method includes inserting a high temperature superconductor (HTS) cable into a groove of a support structure; and flowing a molten metal into the HTS cable while the HTS cable is in the groove. A magnet structure includes a support structure having a groove; and a high temperature superconductor (HTS) cable comprising a metal at least partially filling the HTS cable, the HTS cable being disposed in the groove.",
+      "publicationNumber": "EP4173011",
+      "publicationDate": "2023-05-03",
+      "assignee": [
+        "MASSACHUSETTS INSTITUTE OF TECHNOLOGY"
+      ],
+      "inventors": [
+        "ALEXEY RADOVINSKY",
+        "Robert MUMGAARD",
+        "Brian LABOMBARD"
+      ],
+      "applicationDate": "2021-05-11",
+      "claimsCount": 27,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Machine tools"
+      ],
+      "score": 13.866594
+    },
+    {
+      "id": "EP-4070412-A1",
+      "title": [
+        "CABLE JOINT FOR SUPERCONDUCTING CABLES AND RELATED TECHNIQUES"
+      ],
+      "abstract": "Described are cable joints and related structures and techniques for coupling high temperature superconducting (HTS) cables. A cable joint includes a conductive member having a length which defines the length of the joint and having first and second mounting regions shaped to accept first and second HTS cable with an interface layer comprised of a malleable metal disposed between a surfaces of the first and second mounting regions and surfaces of the first and second HTS cables.",
+      "publicationNumber": "EP4070412",
+      "publicationDate": "2022-10-12",
+      "assignee": [
+        "Massachusetts Institute of Technology"
+      ],
+      "inventors": [
+        "Zachary HARTWIG",
+        "PHILIP MICHAEL",
+        "Brandon, N. SORBOM",
+        "James IRBY",
+        "Rui VIEIRA",
+        "WILLIAM BECK",
+        "Erica SALAZAR",
+        "VINCENT FRY"
+      ],
+      "applicationDate": "2020-12-02",
+      "claimsCount": 31,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.866594
+    },
+    {
+      "id": "WO-2024226938-A1",
+      "title": [
+        "THERMAL RADIATION SHIELD FOR A SUPERCONDUCTING MAGNET"
+      ],
+      "abstract": "Described are structures and techniques for supporting a thermal radiation shield in a superconducting magnet. The thermal radiation shield can be supported off of a cold mass using low thermal conductivity structural supports. Structural supports, specifically thermal radiation shield supports and bumpers, may be installed between a cold mass and the radiation shield to mitigate deflections of the radiation shield. Thermal radiation shield supports are attached to both the cold mass and the radiation shield. Bumpers may be used in addition to thermal radiation shield supports and have a first end attached to either the cold mass or the thermal radiation shield and a second end not physically coupled to any structure.",
+      "publicationNumber": "WO2024226938",
+      "publicationDate": "2024-10-31",
+      "assignee": [
+        "MASSACHUSETTS INSTITUTE OF TECHNOLOGY"
+      ],
+      "inventors": [
+        "ALEXEY RADOVINSKY",
+        "ALEXANDER ZHUKOVSKY"
+      ],
+      "applicationDate": "2024-04-26",
+      "claimsCount": 33,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Measurement"
+      ],
+      "score": 13.80492
+    },
+    {
+      "id": "WO-2024163432-A1",
+      "title": [
+        "CURRENT PULSE QUENCH HEATING SCHEMES FOR NO-INSULATION SUPERCONDUCTING MAGNETS"
+      ],
+      "abstract": "Systems and methods are provided herein for inducing quench in a non-insulated superconducting magnet. Some techniques described herein provide for operating the non-insulated superconducting magnet by applying a first current to the non-insulated superconducting magnet, and inducing quench in the non-insulated superconducting magnet at least in part by applying a second current to the non-insulated superconducting magnet, wherein the second current is opposite in direction to the first current.",
+      "publicationNumber": "WO2024163432",
+      "publicationDate": "2024-08-08",
+      "assignee": [
+        "MASSACHUSETTS INSTITUTE OF TECHNOLOGY"
+      ],
+      "inventors": [
+        "Brian LABOMBARD",
+        "Robert MUMGAARD"
+      ],
+      "applicationDate": "2024-01-30",
+      "claimsCount": 41,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.80492
+    },
+    {
+      "id": "WO-2024086765-A1",
+      "title": [
+        "SUPERCONDUCTING CABLE COMPRISING SOLDER CHANNEL"
+      ],
+      "abstract": "Techniques are described that allow for HTS cables to be solder-filled more easily, quickly, and with a reduced degradation to the performance of the HTS in the cable. In particular, a channel within an HTS cable may include a primary channel into which the HTS is arranged, in addition to a secondary channel that provides an increased hydraulic cross-section through which the solder can flow. The secondary channel may be connected to the primary channel (e.g., as a side-channel). If the secondary channel has an opening within the primary channel that is smaller than the HTS material being placed in the primary channel, the HTS material is not at risk of moving into the secondary channel, which can provide a space proximate to the HTS material and the primary channel through which the solder can freely flow.",
+      "publicationNumber": "WO2024086765",
+      "publicationDate": "2024-04-25",
+      "assignee": [
+        "MASSACHUSETTS INSTITUTE OF TECHNOLOGY"
+      ],
+      "inventors": [
+        "Amanda HUBBARD",
+        "Christopher, J. LAMMI",
+        "Christopher CRAIGHILL",
+        "Charlie SANABRIA",
+        "Amelia WATTERSON"
+      ],
+      "applicationDate": "2023-10-20",
+      "claimsCount": 34,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.80492
+    },
+    {
+      "id": "WO-2021252330-A1",
+      "title": [
+        "DEFECT-TOLERANT SUPERCONDUCTING MAGNETS AND RELATED SYSTEMS AND METHODS"
+      ],
+      "abstract": "Techniques are described for forming a defect-tolerant superconducting magnet. The techniques may be based on current sharing processes within a stack of high temperature superconductor (HTS) tapes in operation. Application of these techniques may allow HTS tapes containing defects to be utilized to produce a magnet that has a lower critical current than a comparative magnet that contained only defect-free HTS tapes, but with increased flexibility in the design and fabrication of the magnet. In addition, because the magnet may comprise HTS tapes that include defects, the cost of the magnet may be substantially lower than a comparative magnet that comprises only defect-free HTS tape.",
+      "publicationNumber": "WO2021252330",
+      "publicationDate": "2021-12-16",
+      "assignee": [
+        "MASSACHUSETTS INSTITUTE OF TECHNOLOGY"
+      ],
+      "inventors": [
+        "Brandon, N. SORBOM",
+        "Zachary HARTWIG",
+        "Dennis, G. WHYTE",
+        "Robert MUMGAARD",
+        "JESSICA CHENG",
+        "Brian LABOMBARD",
+        "ALEXEY RADOVINSKY",
+        "DANIEL BRUNNER"
+      ],
+      "applicationDate": "2021-06-07",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.80492
+    },
+    {
+      "id": "EP-4659267-A1",
+      "title": [
+        "CURRENT PULSE QUENCH HEATING SCHEMES FOR NO-INSULATION SUPERCONDUCTING MAGNETS"
+      ],
+      "abstract": "Systems and methods are provided herein for inducing quench in a non-insulated superconducting magnet. Some techniques described herein provide for operating the non-insulated superconducting magnet by applying a first current to the non-insulated superconducting magnet, and inducing quench in the non-insulated superconducting magnet at least in part by applying a second current to the non-insulated superconducting magnet, wherein the second current is opposite in direction to the first current.",
+      "publicationNumber": "EP4659267",
+      "publicationDate": "2025-12-10",
+      "assignee": [
+        "MASSACHUSETTS INSTITUTE OF TECHNOLOGY"
+      ],
+      "inventors": [
+        "Brian LABOMBARD",
+        "Robert MUMGAARD"
+      ],
+      "applicationDate": "2024-01-30",
+      "claimsCount": 41,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.80492
+    },
+    {
+      "id": "EP-4605964-A1",
+      "title": [
+        "SUPERCONDUCTING CABLE COMPRISING SOLDER CHANNEL"
+      ],
+      "abstract": "Techniques are described that allow for HTS cables to be solder-filled more easily, quickly, and with a reduced degradation to the performance of the HTS in the cable. In particular, a channel within an HTS cable may include a primary channel into which the HTS is arranged, in addition to a secondary channel that provides an increased hydraulic cross-section through which the solder can flow. The secondary channel may be connected to the primary channel (e.g., as a side-channel). If the secondary channel has an opening within the primary channel that is smaller than the HTS material being placed in the primary channel, the HTS material is not at risk of moving into the secondary channel, which can provide a space proximate to the HTS material and the primary channel through which the solder can freely flow.",
+      "publicationNumber": "EP4605964",
+      "publicationDate": "2025-08-27",
+      "assignee": [
+        "MASSACHUSETTS INSTITUTE OF TECHNOLOGY"
+      ],
+      "inventors": [
+        "Amanda HUBBARD",
+        "Christopher, J. LAMMI",
+        "Christopher CRAIGHILL",
+        "Charlie SANABRIA",
+        "Amelia WATTERSON"
+      ],
+      "applicationDate": "2023-10-20",
+      "claimsCount": 34,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.80492
+    },
+    {
+      "id": "WO-2024118576-A1",
+      "title": [
+        "LOW VOLTAGE INSULATION FOR HIGH-TEMPERATURE SUPERCONDUCTING MAGNETS"
+      ],
+      "abstract": "Described is an insulative layer for use in systems utilizing a high temperature superconductor (HTS). The insulative layer comprises a first layer of an insulative material, a second layer of an insulative material and a third layer of an electrically conductive material disposed the first and second layers. The electrically insulating material of the first layer and the electrically insulating material of the second layer are both resistant to grinding forces. The third layer is provided from a material having a resistance to oxidative degradation, weather, and radiation, as well as resistance to abrasive and fictional wear at cryogenic temperatures. In one application, the insulative layer may be disposed at an interface between a toroidal field (TF) coil and a central solenoid (CS) of a high temperature superconducting magnet.",
+      "publicationNumber": "WO2024118576",
+      "publicationDate": "2024-06-06",
+      "assignee": [
+        "MASSACHUSETTS INSTITUTE OF TECHNOLOGY"
+      ],
+      "inventors": [
+        "ALEXEY RADOVINSKY",
+        "SERGEY KUZNETSOV",
+        "Nicholas, J. KELTON",
+        "Brian LABOMBARD",
+        "Christopher CRAIGHILL",
+        "Christopher, J. LAMMI",
+        "Charlie SANABRIA"
+      ],
+      "applicationDate": "2023-11-28",
+      "claimsCount": 27,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines"
+      ],
+      "score": 13.8022785
+    },
+    {
+      "id": "WO-2023034257-A1",
+      "title": [
+        "COOLING SYSTEM FOR SUPERCONDUCTING WIND POWER GENERATOR"
+      ],
+      "abstract": "Techniques are described for a wind power generator in which a refrigerant such as liquid helium and/or helium gas is applied to superconducting magnets via thermally conductive flexible structures. These structures thermally couple the refrigerant channels to the magnets, and/or to a thermally conductive structure (e.g., metal plate) to which the magnets are thermally coupled. The thermally conductive flexible structures may be arranged so that motion of the magnets relative to the cryogenic channels that cool the structures during heating and/or cooling of the magnets does not result in damage to the thermal connection between the channels and the magnets. The stationary stage of the generator may house a cooling station, and transfer the refrigerant to the rotary stage via a suitable rotary union.",
+      "publicationNumber": "WO2023034257",
+      "publicationDate": "2023-03-09",
+      "assignee": [
+        "MASSACHUSETTS INSTITUTE OF TECHNOLOGY"
+      ],
+      "inventors": [
+        "ALEXEY RADOVINSKY",
+        "ALEXANDER ZHUKOVSKY"
+      ],
+      "applicationDate": "2022-08-30",
+      "claimsCount": 33,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.8022785
+    },
+    {
+      "id": "WO-2021236901-A3",
+      "title": [
+        "TECHNIQUES FOR DISTRIBUTING FORCES IN HIGH FIELD MAGNETS AND RELATED SYSTEMS AND METHODS"
+      ],
+      "abstract": "Techniques are described for lowering strains applied to superconducting material in a superconducting magnet by arranging structural partitions between turns of the superconducting material that intercept and transfer strain to a mechanically stronger structure, such as the housing of the magnet. A structural partition may be formed with a feedthrough slit so that the superconducting material can easily pass through the partition. A number of structural partitions may be interspersed between groups of turns of superconducting material in a magnet so that forces can be sufficiently distributed by the partitions throughout the magnet. At the same time, the number of structural partitions may be selected to minimize the amount of space within the magnet occupied by the partitions that could otherwise be occupied by current-carrying superconducting material.",
+      "publicationNumber": "WO2021236901",
+      "publicationDate": "2022-01-13",
+      "assignee": [
+        "MASSACHUSETTS INSTITUTE OF TECHNOLOGY"
+      ],
+      "inventors": [
+        "ALEXEY RADOVINSKY",
+        "ALEXANDER ZHUKOVSKY",
+        "Nicholas, J. KELTON",
+        "SERGEY KUZNETSOV",
+        "Daniel NASH",
+        "Charlie SANABRIA",
+        "Brian LABOMBARD",
+        "DANIEL BRUNNER",
+        "Grant, William KRISTOFEK"
+      ],
+      "applicationDate": "2021-05-20",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.8022785
+    },
+    {
+      "id": "WO-2021236901-A2",
+      "title": [
+        "TECHNIQUES FOR DISTRIBUTING FORCES IN HIGH FIELD MAGNETS AND RELATED SYSTEMS AND METHODS"
+      ],
+      "abstract": "Techniques are described for lowering strains applied to superconducting material in a superconducting magnet by arranging structural partitions between turns of the superconducting material that intercept and transfer strain to a mechanically stronger structure, such as the housing of the magnet. A structural partition may be formed with a feedthrough slit so that the superconducting material can easily pass through the partition. A number of structural partitions may be interspersed between groups of turns of superconducting material in a magnet so that forces can be sufficiently distributed by the partitions throughout the magnet. At the same time, the number of structural partitions may be selected to minimize the amount of space within the magnet occupied by the partitions that could otherwise be occupied by current-carrying superconducting material.",
+      "publicationNumber": "WO2021236901",
+      "publicationDate": "2021-11-25",
+      "assignee": [
+        "MASSACHUSETTS INSTITUTE OF TECHNOLOGY"
+      ],
+      "inventors": [
+        "ALEXEY RADOVINSKY",
+        "ALEXANDER ZHUKOVSKY",
+        "Nicholas, J. KELTON",
+        "SERGEY KUZNETSOV",
+        "Daniel NASH",
+        "Charlie SANABRIA",
+        "Brian LABOMBARD",
+        "DANIEL BRUNNER",
+        "Grant, William KRISTOFEK"
+      ],
+      "applicationDate": "2021-05-20",
+      "claimsCount": 49,
+      "independentClaimsCount": 5,
+      "technologyFields": [],
+      "score": 13.8022785
+    },
+    {
+      "id": "WO-2021195383-A1",
+      "title": [
+        "CONDUCTOR AND COOLANT SCHEMES FOR SPIRAL-GROOVED, STACKED PLATE, NON-INSULATED SUPERCONDUCTING MAGNETS"
+      ],
+      "abstract": "Schemes are described for conductor and coolant placement in stacked-plate superconducting magnets, including arranging coolant channels and conducting channels within the plates on opposing faces. If the two types of channels are aligned with one another across the plate stacks, the plates may be stacked such that the cooling channel in one plate is adjacent to the conducting channel of the neighboring plate. By stacking a number of these plates, therefore, cooling may be supplied to each conducting channel through the cooling channels of each neighboring plate. Moreover, by aligning the two types of channels, the stacks of plates may have improved mechanical strength because mechanical load paths through the entire stack that do not pass through any of the channels may be created. This arrangement of channels may produce a very strong stack of plates that can withstand high Lorentz loads.",
+      "publicationNumber": "WO2021195383",
+      "publicationDate": "2021-09-30",
+      "assignee": [
+        "MASSACHUSETTS INSTITUTE OF TECHNOLOGY"
+      ],
+      "inventors": [
+        "Brian LABOMBARD",
+        "Robert MUMGAARD",
+        "WILLIAM BECK",
+        "Jeffrey DOODY"
+      ],
+      "applicationDate": "2021-03-25",
+      "claimsCount": 34,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.8022785
+    },
+    {
+      "id": "EP-4627603-A1",
+      "title": [
+        "LOW VOLTAGE INSULATION FOR HIGH-TEMPERATURE SUPERCONDUCTING MAGNETS"
+      ],
+      "abstract": "Described is an insulative layer for use in systems utilizing a high temperature superconductor (HTS). The insulative layer comprises a first layer of an insulative material, a second layer of an insulative material and a third layer of an electrically conductive material disposed the first and second layers. The electrically insulating material of the first layer and the electrically insulating material of the second layer are both resistant to grinding forces. The third layer is provided from a material having a resistance to oxidative degradation, weather, and radiation, as well as resistance to abrasive and fictional wear at cryogenic temperatures. In one application, the insulative layer may be disposed at an interface between a toroidal field (TF) coil and a central solenoid (CS) of a high temperature superconducting magnet.",
+      "publicationNumber": "EP4627603",
+      "publicationDate": "2025-10-08",
+      "assignee": [
+        "MASSACHUSETTS INSTITUTE OF TECHNOLOGY"
+      ],
+      "inventors": [
+        "ALEXEY RADOVINSKY",
+        "SERGEY KUZNETSOV",
+        "Nicholas, J. KELTON",
+        "Brian LABOMBARD",
+        "Christopher CRAIGHILL",
+        "Christopher, J. LAMMI",
+        "Charlie SANABRIA"
+      ],
+      "applicationDate": "2023-11-28",
+      "claimsCount": 27,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines"
+      ],
+      "score": 13.8022785
+    },
+    {
+      "id": "EP-4396929-A1",
+      "title": [
+        "COOLING SYSTEM FOR SUPERCONDUCTING WIND POWER GENERATOR"
+      ],
+      "abstract": "Techniques are described for a wind power generator in which a refrigerant such as liquid helium and/or helium gas is applied to superconducting magnets via thermally conductive flexible structures. These structures thermally couple the refrigerant channels to the magnets, and/or to a thermally conductive structure (e.g., metal plate) to which the magnets are thermally coupled. The thermally conductive flexible structures may be arranged so that motion of the magnets relative to the cryogenic channels that cool the structures during heating and/or cooling of the magnets does not result in damage to the thermal connection between the channels and the magnets. The stationary stage of the generator may house a cooling station, and transfer the refrigerant to the rotary stage via a suitable rotary union.",
+      "publicationNumber": "EP4396929",
+      "publicationDate": "2024-07-10",
+      "assignee": [
+        "MASSACHUSETTS INSTITUTE OF TECHNOLOGY"
+      ],
+      "inventors": [
+        "ALEXEY RADOVINSKY",
+        "ALEXANDER ZHUKOVSKY"
+      ],
+      "applicationDate": "2022-08-30",
+      "claimsCount": 33,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.8022785
+    },
+    {
+      "id": "EP-4154285-A2",
+      "title": [
+        "TECHNIQUES FOR DISTRIBUTING FORCES IN HIGH FIELD MAGNETS AND RELATED SYSTEMS AND METHODS"
+      ],
+      "abstract": "Techniques are described for lowering strains applied to superconducting material in a superconducting magnet by arranging structural partitions between turns of the superconducting material that intercept and transfer strain to a mechanically stronger structure, such as the housing of the magnet. A structural partition may be formed with a feedthrough slit so that the superconducting material can easily pass through the partition. A number of structural partitions may be interspersed between groups of turns of superconducting material in a magnet so that forces can be sufficiently distributed by the partitions throughout the magnet. At the same time, the number of structural partitions may be selected to minimize the amount of space within the magnet occupied by the partitions that could otherwise be occupied by current-carrying superconducting material.",
+      "publicationNumber": "EP4154285",
+      "publicationDate": "2023-03-29",
+      "assignee": [
+        "Massachusetts Institute of Technology"
+      ],
+      "inventors": [
+        "ALEXEY RADOVINSKY",
+        "ALEXANDER ZHUKOVSKY",
+        "Nicholas, J. KELTON",
+        "SERGEY KUZNETSOV",
+        "Daniel NASH",
+        "Charlie SANABRIA",
+        "Brian LABOMBARD",
+        "DANIEL BRUNNER",
+        "Grant, William KRISTOFEK"
+      ],
+      "applicationDate": "2021-05-20",
+      "claimsCount": 49,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.8022785
+    },
+    {
+      "id": "EP-4128289-C0",
+      "title": [
+        "CONDUCTOR AND COOLANT SCHEMES FOR SPIRAL-GROOVED, STACKED PLATES, NON-INSULATED SUPERCONDUCTING MAGNETS"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP4128289",
+      "publicationDate": "2025-09-03",
+      "assignee": [
+        "MASSACHUSETTS INSTITUTE OF TECHNOLOGY"
+      ],
+      "inventors": [
+        "Brian LABOMBARD",
+        "Robert MUMGAARD",
+        "WILLIAM BECK",
+        "Jeffrey DOODY",
+        "Rui VIEIRA",
+        "RICHARD C. LECCACORVI"
+      ],
+      "applicationDate": "2021-03-25",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.8022785
+    },
+    {
+      "id": "EP-4128289-A1",
+      "title": [
+        "CONDUCTOR AND COOLANT SCHEMES FOR SPIRAL-GROOVED, STACKED PLATE, NON-INSULATED SUPERCONDUCTING MAGNETS"
+      ],
+      "abstract": "Schemes are described for conductor and coolant placement in stacked-plate superconducting magnets, including arranging coolant channels and conducting channels within the plates on opposing faces. If the two types of channels are aligned with one another across the plate stacks, the plates may be stacked such that the cooling channel in one plate is adjacent to the conducting channel of the neighboring plate. By stacking a number of these plates, therefore, cooling may be supplied to each conducting channel through the cooling channels of each neighboring plate. Moreover, by aligning the two types of channels, the stacks of plates may have improved mechanical strength because mechanical load paths through the entire stack that do not pass through any of the channels may be created. This arrangement of channels may produce a very strong stack of plates that can withstand high Lorentz loads.",
+      "publicationNumber": "EP4128289",
+      "publicationDate": "2023-02-08",
+      "assignee": [
+        "MASSACHUSETTS INSTITUTE OF TECHNOLOGY"
+      ],
+      "inventors": [
+        "Brian LABOMBARD",
+        "Robert MUMGAARD",
+        "WILLIAM BECK",
+        "Jeffrey DOODY"
+      ],
+      "applicationDate": "2021-03-25",
+      "claimsCount": 34,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.8022785
+    },
+    {
+      "id": "WO-2024211691-A1",
+      "title": [
+        "CENTRAL SOLENOID RETAINING STRUCTURES AND RELATED TECHNIQUES"
+      ],
+      "abstract": "Described are central solenoid (CS) retaining structures and related assembly techniques. Also described are assembly techniques for a tokamak fusion reactor.",
+      "publicationNumber": "WO2024211691",
+      "publicationDate": "2024-10-10",
+      "assignee": [
+        "MASSACHUSETTS INSTITUTE OF TECHNOLOGY"
+      ],
+      "inventors": [
+        "ALEXEY RADOVINSKY",
+        "Justin, Robert CARMICHAEL",
+        "Christopher CRAIGHILL"
+      ],
+      "applicationDate": "2024-04-05",
+      "claimsCount": 37,
+      "independentClaimsCount": 6,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 13.795072
+    },
+    {
+      "id": "US-20210376498-A1",
+      "title": [
+        "Partitioned Cable Joint for Superconducting Cables"
+      ],
+      "abstract": "Described is a partitioned cable joint comprising a plurality of physically distributed joint elements with the plurality of joint elements taken together defining a joint length. Joint elements may have a first mounting region having a shape selected to accept one petal of superconducting cable and a second mounting region having a shape selected to accept one petal of a second conductor.",
+      "publicationNumber": "US20210376498",
+      "publicationDate": "2021-12-02",
+      "assignee": [
+        "MASSACHUSETTS INSTITUTE OF TECHNOLOGY"
+      ],
+      "inventors": [
+        "Christopher CRAIGHILL",
+        "Alexey Radovinsky",
+        "Rui Vieira",
+        "Vincent Fry",
+        "Colin O'SHEA",
+        "Sera EVCIMEN"
+      ],
+      "applicationDate": "2021-05-28",
+      "claimsCount": 31,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.795072
+    },
+    {
+      "id": "WO-2025019793-A1",
+      "title": [
+        "HEATER-DRIVEN PREEMPTIVE QUENCH SCHEMES FOR NO-INSULATION SUPERCONDUCTING MAGNETS"
+      ],
+      "abstract": "A non-insulated superconducting magnet and related methods and systems are provided herein. In some aspects, the non-insulated superconducting magnet comprises at least one heating element configured to induce a quench of the non-insulated superconducting magnet by asymmetrically heating the non-insulated superconducting magnet. In some aspects, the non-insulated superconducting magnet comprises at least one cable comprising at least one heating element configured to induce quench of the non-insulated superconducting magnet by heating the non-insulated superconducting magnet. In some aspects, the non-insulated superconducting magnet comprises a first plate having at least one groove arranged in a plurality of turns, and a conductor disposed in the at least one groove, wherein a resistivity of the conductor varies along a length of the conductor.",
+      "publicationNumber": "WO2025019793",
+      "publicationDate": "2025-01-23",
+      "assignee": [
+        "MASSACHUSETTS INSTITUTE OF TECHNOLOGY"
+      ],
+      "inventors": [
+        "Brian LABOMBARD",
+        "Krishna Kiran, Kumar UPPALAPATI",
+        "Akhdiyor, Israilovich SATTAROV",
+        "Jan SRP\u010cI\u010c",
+        "ROBERT DAVIS",
+        "Robert MUMGAARD",
+        "Dennis, G. WHYTE"
+      ],
+      "applicationDate": "2024-07-19",
+      "claimsCount": 97,
+      "independentClaimsCount": 9,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.791695
+    },
+    {
+      "id": "WO-2023234913-A3",
+      "title": [
+        "NON-PLANAR HTS COILS AND MANUFACTURING TECHNIQUES"
+      ],
+      "abstract": "A stellarator structure includes HTS cables. The cable includes a former with at least one channel and a tape stack in at least one channel of the former. The at least one channel and the tape stack are twisted along a longitudinal direction.",
+      "publicationNumber": "WO2023234913",
+      "publicationDate": "2024-03-14",
+      "assignee": [
+        "MASSACHUSETTS INSTITUTE OF TECHNOLOGY"
+      ],
+      "inventors": [
+        "Robert, S. GRANETZ",
+        "Rui VIEIRA",
+        "Dennis, G. WHYTE",
+        "Robert MUMGAARD"
+      ],
+      "applicationDate": "2022-05-19",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.737908
+    },
+    {
+      "id": "WO-2023234913-A2",
+      "title": [
+        "NON-PLANAR HTS COILS AND MANUFACTURING TECHNIQUES"
+      ],
+      "abstract": "A stellarator structure includes HTS cables. The cable includes a former with at least one channel and a tape stack in at least one channel of the former. The at least one channel and the tape stack are twisted along a longitudinal direction.",
+      "publicationNumber": "WO2023234913",
+      "publicationDate": "2023-12-07",
+      "assignee": [
+        "MASSACHUSETTS INSTITUTE OF TECHNOLOGY"
+      ],
+      "inventors": [
+        "Robert, S. GRANETZ",
+        "Rui VIEIRA",
+        "Dennis, G. WHYTE",
+        "Robert MUMGAARD"
+      ],
+      "applicationDate": "2022-05-19",
+      "claimsCount": 16,
+      "independentClaimsCount": 6,
+      "technologyFields": [],
+      "score": 13.737908
+    },
+    {
+      "id": "EP-4356403-A2",
+      "title": [
+        "NON-PLANAR HTS COILS AND MANUFACTURING TECHNIQUES"
+      ],
+      "abstract": "A stellarator structure includes HTS cables. The cable includes a former with at least one channel and a tape stack in at least one channel of the former. The at least one channel and the tape stack are twisted along a longitudinal direction.",
+      "publicationNumber": "EP4356403",
+      "publicationDate": "2024-04-24",
+      "assignee": [
+        "Massachusetts Institute Of Technology"
+      ],
+      "inventors": [
+        "Robert, S. GRANETZ",
+        "Rui VIEIRA",
+        "Dennis, G. WHYTE",
+        "Robert MUMGAARD"
+      ],
+      "applicationDate": "2022-05-19",
+      "claimsCount": 16,
+      "independentClaimsCount": 6,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.737908
+    },
+    {
+      "id": "WO-2020139832-A1",
+      "title": [
+        "GROOVED, STACKED-PLATE SUPERCONDUCTING MAGNETS AND ELECTRICALLY CONDUCTIVE TERMINAL BLOCKS AND RELATED CONSTRUCTION TECHNIQUES"
+      ],
+      "abstract": "Described herein are concepts, system and techniques which provide a means to construct robust high-field superconducting magnets using simple fabrication techniques and modular components that scale well toward commercialization. The resulting magnet assembly - which utilizes non-insulated, high temperature superconducting tapes (HTS) and provides for optimized coolant pathways - is inherently strong structurally, which enables maximum utilization of the high magnetic fields available with HTS technology. In addition, the concepts described herein provide for control of quench-induced current distributions within the tape stack and surrounding superstructure to safely dissipate quench energy, while at the same time obtaining acceptable magnet charge time. The net result is a structurally and thermally robust, high-field magnet assembly that is passively protected against quench fault conditions.",
+      "publicationNumber": "WO2020139832",
+      "publicationDate": "2020-07-02",
+      "assignee": [
+        "MASSACHUSETTS INSTITUTE OF TECHNOLOGY"
+      ],
+      "inventors": [
+        "Brian LABOMBARD",
+        "Robert GRANETZ",
+        "James IRBY",
+        "Rui VIEIRA",
+        "WILLIAM BECK",
+        "DANIEL BRUNNER",
+        "Jeffrey DOODY",
+        "MARTIN GREENWALD",
+        "Zachary HARTWIG",
+        "PHILIP MICHAEL",
+        "Robert MUMGAARD",
+        "ALEXEY RADOVINSKY",
+        "Syun'ichi SHIRAIWA",
+        "Brandon, N. SORBOM",
+        "JOHN WRIGHT",
+        "LIHUA ZHOU"
+      ],
+      "applicationDate": "2019-12-23",
+      "claimsCount": 85,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.734664
+    },
+    {
+      "id": "US-20200402693-A1",
+      "title": [
+        "Grooved, Stacked-Plate Superconducting Magnets And Electrically Conductive Terminal Blocks and Related Construction Techniques"
+      ],
+      "abstract": "Described herein are concepts, system and techniques which provide a means to construct robust high-field superconducting magnets using simple fabrication techniques and modular components that scale well toward commercialization. The resulting magnet assembly\u2014which utilizes non-insulated, high temperature superconducting tapes (HTS) and provides for optimized coolant pathways\u2014is inherently strong structurally, which enables maximum utilization of the high magnetic fields available with HTS technology. In addition, the concepts described herein provide for control of quench-induced current distributions within the tape stack and surrounding superstructure to safely dissipate quench energy, while at the same time obtaining acceptable magnet charge time. The net result is a structurally and thermally robust, high-field magnet assembly that is passively protected against quench fault conditions.",
+      "publicationNumber": "US20200402693",
+      "publicationDate": "2020-12-24",
+      "assignee": [
+        "MASSACHUSETTS INSTITUTE OF TECHNOLOGY"
+      ],
+      "inventors": [
+        "Alexey Radovinsky",
+        "Brian LABOMBARD",
+        "Daniel Brunner",
+        "Robert S. GRANETZ",
+        "James IRBY",
+        "Rui Vieira",
+        "William Beck",
+        "Jeffrey DOODY",
+        "Martin Greenwald",
+        "Zachary HARTWIG",
+        "Philip Michael",
+        "Robert MUMGAARD",
+        "Syun'ichi SHIRAIWA",
+        "Brandon N. SORBOM",
+        "John Wright",
+        "Lihua ZHOU"
+      ],
+      "applicationDate": "2019-12-23",
+      "claimsCount": 30,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.734664
+    },
+    {
+      "id": "EP-4459643-A3",
+      "title": [
+        "GROOVED, STACKED-PLATE SUPERCONDUCTING MAGNETS AND ELECTRICALLY CONDUCTIVE TERMINAL BLOCKS AND RELATED CONSTRUCTION TECHNIQUES"
+      ],
+      "abstract": "An apparatus, comprising: a first electrically conductive plate having a first groove; a first high-temperature superconductor, HTS, tape stack disposed in the first groove, the first HTS tape stack having a first plurality of turns; a second electrically conductive plate having a second groove; a second HTS tape stack disposed in the second groove, the second HTS tape stack having a second plurality of turns; an electrically conductive connection between the first HTS tape stack and the second HTS tape stack; and at least one cooling apparatus to cool at least one of the first and second HTS tape stacks.",
+      "publicationNumber": "EP4459643",
+      "publicationDate": "2025-01-01",
+      "assignee": [
+        "Massachusetts Institute Of Technology"
+      ],
+      "inventors": [
+        "Brian LABOMBARD",
+        "Robert GRANETZ",
+        "James IRBY",
+        "Rui VIEIRA",
+        "WILLIAM BECK",
+        "DANIEL BRUNNER",
+        "Jeffrey DOODY",
+        "MARTIN GREENWALD",
+        "Zachary HARTWIG",
+        "PHILIP MICHAEL",
+        "Robert MUMGAARD",
+        "ALEXEY RADOVINSKY",
+        "Syun'ichi SHIRAIWA",
+        "Brandon, N. SORBOM",
+        "JOHN WRIGHT",
+        "LIHUA ZHOU"
+      ],
+      "applicationDate": "2019-12-23",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.734664
+    },
+    {
+      "id": "EP-4459643-A2",
+      "title": [
+        "GROOVED, STACKED-PLATE SUPERCONDUCTING MAGNETS AND ELECTRICALLY CONDUCTIVE TERMINAL BLOCKS AND RELATED CONSTRUCTION TECHNIQUES"
+      ],
+      "abstract": "An apparatus, comprising: a first electrically conductive plate having a first groove; a first high-temperature superconductor, HTS, tape stack disposed in the first groove, the first HTS tape stack having a first plurality of turns; a second electrically conductive plate having a second groove; a second HTS tape stack disposed in the second groove, the second HTS tape stack having a second plurality of turns; an electrically conductive connection between the first HTS tape stack and the second HTS tape stack; and at least one cooling apparatus to cool at least one of the first and second HTS tape stacks.",
+      "publicationNumber": "EP4459643",
+      "publicationDate": "2024-11-06",
+      "assignee": [
+        "Massachusetts Institute Of Technology"
+      ],
+      "inventors": [
+        "Brian LABOMBARD",
+        "Robert GRANETZ",
+        "James IRBY",
+        "Rui VIEIRA",
+        "WILLIAM BECK",
+        "DANIEL BRUNNER",
+        "Jeffrey DOODY",
+        "MARTIN GREENWALD",
+        "Zachary HARTWIG",
+        "PHILIP MICHAEL",
+        "Robert MUMGAARD",
+        "ALEXEY RADOVINSKY",
+        "Syun'ichi SHIRAIWA",
+        "Brandon, N. SORBOM",
+        "JOHN WRIGHT",
+        "LIHUA ZHOU"
+      ],
+      "applicationDate": "2019-12-23",
+      "claimsCount": 15,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.734664
+    },
+    {
+      "id": "EP-3903326-C0",
+      "title": [
+        "GROOVED, STACKED-PLATE SUPERCONDUCTING MAGNETS AND ELECTRICALLY CONDUCTIVE TERMINAL BLOCKS AND RELATED CONSTRUCTION TECHNIQUES"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP3903326",
+      "publicationDate": "2025-04-02",
+      "assignee": [
+        "MASSACHUSETTS INSTITUTE OF TECHNOLOGY"
+      ],
+      "inventors": [
+        "Brian LABOMBARD",
+        "Robert GRANETZ",
+        "James IRBY",
+        "Rui VIEIRA",
+        "WILLIAM BECK",
+        "DANIEL BRUNNER",
+        "Jeffrey DOODY",
+        "MARTIN GREENWALD",
+        "Zachary HARTWIG",
+        "PHILIP MICHAEL",
+        "Robert MUMGAARD",
+        "ALEXEY RADOVINSKY",
+        "Syun'ichi SHIRAIWA",
+        "Brandon, N. SORBOM",
+        "JOHN WRIGHT",
+        "LIHUA ZHOU"
+      ],
+      "applicationDate": "2019-12-23",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.734664
+    },
+    {
+      "id": "EP-3903326-A1",
+      "title": [
+        "GROOVED, STACKED-PLATE SUPERCONDUCTING MAGNETS AND ELECTRICALLY CONDUCTIVE TERMINAL BLOCKS AND RELATED CONSTRUCTION TECHNIQUES"
+      ],
+      "abstract": "Described herein are concepts, system and techniques which provide a means to construct robust high-field superconducting magnets using simple fabrication techniques and modular components that scale well toward commercialization. The resulting magnet assembly - which utilizes non-insulated, high temperature superconducting tapes (HTS) and provides for optimized coolant pathways - is inherently strong structurally, which enables maximum utilization of the high magnetic fields available with HTS technology. In addition, the concepts described herein provide for control of quench-induced current distributions within the tape stack and surrounding superstructure to safely dissipate quench energy, while at the same time obtaining acceptable magnet charge time. The net result is a structurally and thermally robust, high-field magnet assembly that is passively protected against quench fault conditions.",
+      "publicationNumber": "EP3903326",
+      "publicationDate": "2021-11-03",
+      "assignee": [
+        "MASSACHUSETTS INSTITUTE OF TECHNOLOGY"
+      ],
+      "inventors": [
+        "Brian LABOMBARD",
+        "Robert GRANETZ",
+        "James IRBY",
+        "Rui VIEIRA",
+        "WILLIAM BECK",
+        "DANIEL BRUNNER",
+        "Jeffrey DOODY",
+        "MARTIN GREENWALD",
+        "Zachary HARTWIG",
+        "PHILIP MICHAEL",
+        "Robert MUMGAARD",
+        "ALEXEY RADOVINSKY",
+        "Syun'ichi SHIRAIWA",
+        "Brandon, N. SORBOM",
+        "JOHN WRIGHT",
+        "LIHUA ZHOU"
+      ],
+      "applicationDate": "2019-12-23",
+      "claimsCount": 85,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.734664
+    },
+    {
+      "id": "WO-2024129846-A1",
+      "title": [
+        "TECHNIQUES FOR MITIGATING OVERCURRENTS IN HIGH TEMPERATURE SUPERCONDUCTOR MAGNETS AND RELATED SYSTEMS AND METHODS"
+      ],
+      "abstract": "Techniques are providing for mitigating overcurrents in superconducting magnets by adding a closed loop of superconductor to the magnet that acts as an electromagnetic shield. A time-varying external magnetic field may induce a current in the closed loop, thereby generating a magnetic field that opposes the external magnetic field, and reducing the amount of current induced by the external magnetic field in the primary current-carrying superconductor of the magnet. As a result, the effect of overcurrents can be reduced or removed.",
+      "publicationNumber": "WO2024129846",
+      "publicationDate": "2024-06-20",
+      "assignee": [
+        "MASSACHUSETTS INSTITUTE OF TECHNOLOGY"
+      ],
+      "inventors": [
+        "ALEXEY RADOVINSKY",
+        "Nicholas, J. KELTON",
+        "Valeria RICCARDO",
+        "Akhdiyor, Israilovich SATTAROV"
+      ],
+      "applicationDate": "2023-12-13",
+      "claimsCount": 23,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.731742
+    },
+    {
+      "id": "WO-2022173717-A1",
+      "title": [
+        "WIND TURBINE GENERATOR WITH HIGH TEMPERATURE SUPERCONDUCTING ELEMENTS"
+      ],
+      "abstract": "A wind turbine generator includes a stator having a plurality of high-temperature superconducting coils. A current is driven through the high-temperature superconducting coils to produce a magnetic field. A rotor comprising one or more phase coils is physically coupled to a wind turbine. As the wind turbine turns the rotor, current is induced in the one or more phase coils to produce electrical power. The phase coils may include conductive material, superconducting material, and/or high-temperature superconducting material.",
+      "publicationNumber": "WO2022173717",
+      "publicationDate": "2022-08-18",
+      "assignee": [
+        "MASSACHUSETTS INSTITUTE OF TECHNOLOGY"
+      ],
+      "inventors": [
+        "ALEXEY RADOVINSKY",
+        "MICHAEL SEGAL"
+      ],
+      "applicationDate": "2022-02-08",
+      "claimsCount": 23,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.731742
+    },
+    {
+      "id": "WO-2021195364-A1",
+      "title": [
+        "EMERGENCY SHUTDOWN OF A NO-INSULATION MAGNET"
+      ],
+      "abstract": "Structures and methods enable emergency or rapid shutdown of an energized no-insulation (Nl) superconducting magnet, without damage due to thermal effects of a quench. A resistive bypass wire is coupled between electrical terminals of the magnet coil, and does not pass significant current during normal magnet operation. When rapid shutdown is required, the bypass wire is cooled below its critical temperature, adding a superconducting current path in parallel with the magnet coil. A portion of the coil is then heated above its critical temperature, interrupting current flow through the coil. Hot spots near the coil leads are mitigated through the use of a conductive structure, such as copper cladding, that carries away excess heat due to the quench. This heat may be deposited in a resistive matrix, such as a steel plate, over a duration of seconds and without compromising other magnet design parameters.",
+      "publicationNumber": "WO2021195364",
+      "publicationDate": "2021-09-30",
+      "assignee": [
+        "MASSACHUSETTS INSTITUTE OF TECHNOLOGY"
+      ],
+      "inventors": [
+        "ALEXEY RADOVINSKY",
+        "Krishna, Kiran UPPALAPATI"
+      ],
+      "applicationDate": "2021-03-25",
+      "claimsCount": 70,
+      "independentClaimsCount": 8,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.731742
+    },
+    {
+      "id": "WO-2021195330-A1",
+      "title": [
+        "PASSIVE QUENCH PROTECTION TECHNIQUES FOR NON-INSULATED SUPERCONDUCTING MAGNETS"
+      ],
+      "abstract": "According to some aspects, techniques are described for designing non-insulated (NI) high temperature superconductor (HTS) magnets that mitigate problems that may arise during quench initiation and propagation. Coupling the HTS material to a co-conductor along its length reduces the effective resistance of the conductive path along the HTS material when it is not superconducting, and that this leads to numerous advantages for quench mitigation.",
+      "publicationNumber": "WO2021195330",
+      "publicationDate": "2021-09-30",
+      "assignee": [
+        "MASSACHUSETTS INSTITUTE OF TECHNOLOGY"
+      ],
+      "inventors": [
+        "Brian LABOMBARD",
+        "Krishna, Kiran UPPALAPATI"
+      ],
+      "applicationDate": "2021-03-25",
+      "claimsCount": 39,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.731742
+    },
+    {
+      "id": "EP-4634947-A1",
+      "title": [
+        "TECHNIQUES FOR MITIGATING OVERCURRENTS IN HIGH TEMPERATURE SUPERCONDUCTOR MAGNETS AND RELATED SYSTEMS AND METHODS"
+      ],
+      "abstract": "Techniques are providing for mitigating overcurrents in superconducting magnets by adding a closed loop of superconductor to the magnet that acts as an electromagnetic shield. A time-varying external magnetic field may induce a current in the closed loop, thereby generating a magnetic field that opposes the external magnetic field, and reducing the amount of current induced by the external magnetic field in the primary current-carrying superconductor of the magnet. As a result, the effect of overcurrents can be reduced or removed.",
+      "publicationNumber": "EP4634947",
+      "publicationDate": "2025-10-22",
+      "assignee": [
+        "MASSACHUSETTS INSTITUTE OF TECHNOLOGY"
+      ],
+      "inventors": [
+        "ALEXEY RADOVINSKY",
+        "Nicholas, J. KELTON",
+        "Valeria RICCARDO",
+        "Akhdiyor, Israilovich SATTAROV"
+      ],
+      "applicationDate": "2023-12-13",
+      "claimsCount": 23,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.731742
+    },
+    {
+      "id": "EP-4128288-A1",
+      "title": [
+        "PASSIVE QUENCH PROTECTION TECHNIQUES FOR NON-INSULATED SUPERCONDUCTING MAGNETS"
+      ],
+      "abstract": "According to some aspects, techniques are described for designing non-insulated (NI) high temperature superconductor (HTS) magnets that mitigate problems that may arise during quench initiation and propagation. Coupling the HTS material to a co-conductor along its length reduces the effective resistance of the conductive path along the HTS material when it is not superconducting, and that this leads to numerous advantages for quench mitigation.",
+      "publicationNumber": "EP4128288",
+      "publicationDate": "2023-02-08",
+      "assignee": [
+        "MASSACHUSETTS INSTITUTE OF TECHNOLOGY"
+      ],
+      "inventors": [
+        "Brian LABOMBARD",
+        "Krishna, Kiran UPPALAPATI"
+      ],
+      "applicationDate": "2021-03-25",
+      "claimsCount": 39,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.731742
+    },
+    {
+      "id": "WO-2024081826-A3",
+      "title": [
+        "TWISTED-PAIR PLASMA CURRENT ROGOWSKI COIL"
+      ],
+      "abstract": "A Rogowski-style current sensor includes a twisted pair of wires or cables formed into a coil. A second coil formed from another pair of wires or cables, twisted in the opposite direction, may be placed alongside, but not necessarily immediately adjacent to, the first coil, and the signals from each twisted pair may be added or subtracted to measure the enclosed current or a diamagnetism. When the current to be measured is a plasma current in a tokamak, the current sensor may be placed behind shielding tiles on the inner wall of a vacuum vessel that contains the plasma. Another current sensor may be placed on an external wall of the vacuum vessel, and the outputs subtracted to measure a current flowing through only the vessel itself.",
+      "publicationNumber": "WO2024081826",
+      "publicationDate": "2024-05-23",
+      "assignee": [
+        "MASSACHUSETTS INSTITUTE OF TECHNOLOGY"
+      ],
+      "inventors": [
+        "CLAYTON MYERS",
+        "Robert, S. GRANETZ"
+      ],
+      "applicationDate": "2023-10-13",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Measurement"
+      ],
+      "score": 13.718618
+    },
+    {
+      "id": "WO-2024081826-A2",
+      "title": [
+        "TWISTED-PAIR PLASMA CURRENT ROGOWSKI COIL"
+      ],
+      "abstract": "A Rogowski-style current sensor includes a twisted pair of wires or cables formed into a coil. A second coil formed from another pair of wires or cables, twisted in the opposite direction, may be placed alongside, but not necessarily immediately adjacent to, the first coil, and the signals from each twisted pair may be added or subtracted to measure the enclosed current or a diamagnetism. When the current to be measured is a plasma current in a tokamak, the current sensor may be placed behind shielding tiles on the inner wall of a vacuum vessel that contains the plasma. Another current sensor may be placed on an external wall of the vacuum vessel, and the outputs subtracted to measure a current flowing through only the vessel itself.",
+      "publicationNumber": "WO2024081826",
+      "publicationDate": "2024-04-18",
+      "assignee": [
+        "MASSACHUSETTS INSTITUTE OF TECHNOLOGY"
+      ],
+      "inventors": [
+        "CLAYTON MYERS",
+        "Robert, S. GRANETZ"
+      ],
+      "applicationDate": "2023-10-13",
+      "claimsCount": 20,
+      "independentClaimsCount": 6,
+      "technologyFields": [
+        "Measurement"
+      ],
+      "score": 13.718618
+    },
+    {
+      "id": "WO-2023141541-A1",
+      "title": [
+        "HANDLING OF FORCES ON TOKAMAK TOROIDAL FIELD COILS"
+      ],
+      "abstract": "Some aspects relate to a toroidal field (TF) coil for a tokamak. The TF coil includes a first inner leg having teeth on a side of the first inner leg. The corresponds to an interface between the TF coil and a second TF coil. The teeth extend along a direction having a component in a radial direction of the tokamak. The teeth are configured to mechanically engage with second teeth of a second inner leg of the second TF coil.",
+      "publicationNumber": "WO2023141541",
+      "publicationDate": "2023-07-27",
+      "assignee": [
+        "MASSACHUSETTS INSTITUTE OF TECHNOLOGY"
+      ],
+      "inventors": [
+        "Brian LABOMBARD",
+        "ALEXEY RADOVINSKY",
+        "DANIEL BRUNNER",
+        "Christopher, J. LAMMI",
+        "Robert MUMGAARD",
+        "Nicoli AMES",
+        "Frank KAN",
+        "Valeria RICCARDO",
+        "EDWIN BOLZ"
+      ],
+      "applicationDate": "2023-01-20",
+      "claimsCount": 24,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines"
+      ],
+      "score": 13.688851
+    },
+    {
+      "id": "WO-2023086655-A1",
+      "title": [
+        "PROCESSES, SYSTEMS AND DEVICES FOR METAL-FILLING OF OPEN HTS CHANNELS"
+      ],
+      "abstract": "Described are concepts, systems, structures and techniques for metal filling an open channel (12) in a baseplate (19). In embodiments, metal filling of an open baseplate channel is achieved using vacuum pressure impregnation (VPI). In embodiments, a compression plate (14a) is disposed over an open baseplate channel (12) to be filled with a molten metal. In embodiments, gaskets (97) are disposed between the compression plate (14a) and a surface of the baseplate (10) proximate the baseplate channel (12). In embodiments, a channel cap (26) is disposed over the open channel. In embodiments, the channel cap (26) has a solder flow channel (29, 32) provided in a surface thereof. In the embodiments, the solder flow channel (29, 32) has a meandering shape. In embodiments, a solder flow channel (29, 32&apos;) is provided in the compression plate (14a) and/or the baseplate (10). The concepts, systems, structures and techniques described herein are suitable for use in the fabrication of a no-insulation, no-twist (NINT) high temperature superconducting (HTS) magnet.",
+      "publicationNumber": "WO2023086655",
+      "publicationDate": "2023-05-19",
+      "assignee": [
+        "MASSACHUSETTS INSTITUTE OF TECHNOLOGY"
+      ],
+      "inventors": [
+        "Amanda HUBBARD",
+        "Brian LABOMBARD",
+        "RICHARD MURRAY",
+        "James IRBY",
+        "Rui VIEIRA",
+        "WILLIAM BECK",
+        "Thomas TOLAND",
+        "VINCENT FRY",
+        "SHANE SCHWEIGER",
+        "Amelia WATTERSON",
+        "Sarah CHAMBERLAIN",
+        "JOSE ESTRADA",
+        "THEODORE MOURATIDIS",
+        "KENNETH STEVENS"
+      ],
+      "applicationDate": "2022-11-15",
+      "claimsCount": 43,
+      "independentClaimsCount": 6,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.688851
+    },
+    {
+      "id": "EP-4466719-A1",
+      "title": [
+        "HANDLING OF FORCES ON TOKAMAK TOROIDAL FIELD COILS"
+      ],
+      "abstract": "Some aspects relate to a toroidal field (TF) coil for a tokamak. The TF coil includes a first inner leg having teeth on a side of the first inner leg. The corresponds to an interface between the TF coil and a second TF coil. The teeth extend along a direction having a component in a radial direction of the tokamak. The teeth are configured to mechanically engage with second teeth of a second inner leg of the second TF coil.",
+      "publicationNumber": "EP4466719",
+      "publicationDate": "2024-11-27",
+      "assignee": [
+        "Massachusetts Institute of Technology"
+      ],
+      "inventors": [
+        "Brian LABOMBARD",
+        "ALEXEY RADOVINSKY",
+        "DANIEL BRUNNER",
+        "Christopher, J. LAMMI",
+        "Robert MUMGAARD",
+        "Nicoli AMES",
+        "Frank KAN",
+        "Valeria RICCARDO",
+        "EDWIN BOLZ"
+      ],
+      "applicationDate": "2023-01-20",
+      "claimsCount": 24,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines"
+      ],
+      "score": 13.688851
+    },
+    {
+      "id": "EP-4434062-A1",
+      "title": [
+        "PROCESSES, SYSTEMS AND DEVICES FOR METAL-FILLING OF OPEN HTS CHANNELS"
+      ],
+      "abstract": "Described are concepts, systems, structures and techniques for metal filling an open channel (12) in a baseplate (19). In embodiments, metal filling of an open baseplate channel is achieved using vacuum pressure impregnation (VPI). In embodiments, a compression plate (14a) is disposed over an open baseplate channel (12) to be filled with a molten metal. In embodiments, gaskets (97) are disposed between the compression plate (14a) and a surface of the baseplate (10) proximate the baseplate channel (12). In embodiments, a channel cap (26) is disposed over the open channel. In embodiments, the channel cap (26) has a solder flow channel (29, 32) provided in a surface thereof. In the embodiments, the solder flow channel (29, 32) has a meandering shape. In embodiments, a solder flow channel (29, 32&apos;) is provided in the compression plate (14a) and/or the baseplate (10). The concepts, systems, structures and techniques described herein are suitable for use in the fabrication of a no-insulation, no-twist (NINT) high temperature superconducting (HTS) magnet.",
+      "publicationNumber": "EP4434062",
+      "publicationDate": "2024-09-25",
+      "assignee": [
+        "MASSACHUSETTS INSTITUTE OF TECHNOLOGY"
+      ],
+      "inventors": [
+        "Amanda HUBBARD",
+        "Brian LABOMBARD",
+        "RICHARD MURRAY",
+        "James IRBY",
+        "Rui VIEIRA",
+        "WILLIAM BECK",
+        "Thomas TOLAND",
+        "VINCENT FRY",
+        "SHANE SCHWEIGER",
+        "Amelia WATTERSON",
+        "Sarah CHAMBERLAIN",
+        "JOSE ESTRADA",
+        "THEODORE MOURATIDIS",
+        "KENNETH STEVENS"
+      ],
+      "applicationDate": "2022-11-15",
+      "claimsCount": 43,
+      "independentClaimsCount": 6,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.688851
+    },
+    {
+      "id": "WO-2024118671-A9",
+      "title": [
+        "HIGH-TEMPERATURE SUPERCONDUCTOR MAGNETS WITH QUENCH DAMAGE RESILIENCY"
+      ],
+      "abstract": "Techniques are described for improving quench damage resiliency in non-insulated (NI) high temperature superconductor (HTS) magnets. The techniques may include tuning an amount of HTS tape within turns of a winding of an NI-HTS magnet to reduce variation in critical current across the winding, and/or may include adjusting the turn-to-turn resistance of the windings by adjusting turn-to-turn spacing between windings and thereby reduce variations in joule heating between turns during a quench.",
+      "publicationNumber": "WO2024118671",
+      "publicationDate": "2024-07-11",
+      "assignee": [
+        "MASSACHUSETTS INSTITUTE OF TECHNOLOGY"
+      ],
+      "inventors": [
+        "Brian LABOMBARD",
+        "Krishna, Kiran, Kumar UPPALAPATI",
+        "Akhdiyor, Israilovich SATTAROV"
+      ],
+      "applicationDate": "2023-11-28",
+      "claimsCount": 36,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines"
+      ],
+      "score": 13.605478
+    },
+    {
+      "id": "WO-2024118671-A1",
+      "title": [
+        "HIGH-TEMPERATURE SUPERCONDUCTOR MAGNETS WITH QUENCH DAMAGE RESILIENCY"
+      ],
+      "abstract": "Techniques are described for improving quench damage resiliency in non-insulated (NI) high temperature superconductor (HTS) magnets. The techniques may include tuning an amount of HTS tape within turns of a winding of an NI-HTS magnet to reduce variation in critical current across the winding, and/or may include adjusting the turn-to-turn resistance of the windings by adjusting turn-to-turn spacing between windings and thereby reduce variations in joule heating between turns during a quench.",
+      "publicationNumber": "WO2024118671",
+      "publicationDate": "2024-06-06",
+      "assignee": [
+        "MASSACHUSETTS INSTITUTE OF TECHNOLOGY"
+      ],
+      "inventors": [
+        "Brian LABOMBARD",
+        "Krishna, Kiran, Kumar UPPALAPATI",
+        "Akhdiyor, Israilovich SATTAROV"
+      ],
+      "applicationDate": "2023-11-28",
+      "claimsCount": 36,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines"
+      ],
+      "score": 13.605478
+    },
+    {
+      "id": "EP-4627604-A1",
+      "title": [
+        "HIGH-TEMPERATURE SUPERCONDUCTOR MAGNETS WITH QUENCH DAMAGE RESILIENCY"
+      ],
+      "abstract": "Techniques are described for improving quench damage resiliency in non-insulated (NI) high temperature superconductor (HTS) magnets. The techniques may include tuning an amount of HTS tape within turns of a winding of an NI-HTS magnet to reduce variation in critical current across the winding, and/or may include adjusting the turn-to-turn resistance of the windings by adjusting turn-to-turn spacing between windings and thereby reduce variations in joule heating between turns during a quench.",
+      "publicationNumber": "EP4627604",
+      "publicationDate": "2025-10-08",
+      "assignee": [
+        "Massachusetts Institute of Technology"
+      ],
+      "inventors": [
+        "Brian LABOMBARD",
+        "Krishna, Kiran, Kumar UPPALAPATI",
+        "Akhdiyor, Israilovich SATTAROV"
+      ],
+      "applicationDate": "2023-11-28",
+      "claimsCount": 36,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines"
+      ],
+      "score": 13.605478
+    },
+    {
+      "id": "WO-2023086453-A1",
+      "title": [
+        "MODULAR HIGH CAPACITY CURRENT LEAD"
+      ],
+      "abstract": "A high capacity current lead (10) comprises components that are electrically coupled using indium joints. The current lead includes a heat exchanger having a portion at room temperature (100) and a portion (200) within a vacuum cryostat. The room-temperature portion is temperature controlled against both overheating and overcooling. The cryogenic portion (200) of the heat exchanger is electrically coupled to a coolant boiling chamber (300) using indium joints. The boiling chamber (300) has a lid and a base that may be electrically coupled using indium joints, or they may be brazed. The boiling chamber (300) is surrounded by a vacuum lid that may be electrically coupled to the base using indium joints, or brazed. The base is electrically coupled to a superconductor module (400) having high-temperature superconductor (HTS) tapes for conveying current to a device, such as a superconducting electromagnet.",
+      "publicationNumber": "WO2023086453",
+      "publicationDate": "2023-05-19",
+      "assignee": [
+        "MASSACHUSETTS INSTITUTE OF TECHNOLOGY"
+      ],
+      "inventors": [
+        "VINCENT FRY",
+        "ALEXANDER ZHUKOVSKY",
+        "PHILIP MICHAEL",
+        "Ernest IHLOFF",
+        "MICHAEL WOLF",
+        "WILLIAM BECK"
+      ],
+      "applicationDate": "2022-11-10",
+      "claimsCount": 11,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.558372
+    },
+    {
+      "id": "WO-2021178697-A1",
+      "title": [
+        "PARTITIONED SUPERCONDUCTING CABLE"
+      ],
+      "abstract": "Described is a cable comprising a plurality of high temperature superconductor (HTS) components, a plurality of electrically conductive segments extending along a length of the cable, each of the plurality of electrically conductive segments comprising one of the plurality of HTS components, and an electrically insulating material arranged between adjacent ones of the plurality of electrically conductive segments.",
+      "publicationNumber": "WO2021178697",
+      "publicationDate": "2021-09-10",
+      "assignee": [
+        "MASSACHUSETTS INSTITUTE OF TECHNOLOGY"
+      ],
+      "inventors": [
+        "ALEXEY RADOVINSKY",
+        "Charlie SANABRIA",
+        "Christopher CRAIGHILL",
+        "Krishna, Kiran UPPALAPATI",
+        "Alexander CREELY",
+        "DANIEL BRUNNER"
+      ],
+      "applicationDate": "2021-03-04",
+      "claimsCount": 26,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.558372
+    },
+    {
+      "id": "EP-4571791-A3",
+      "title": [
+        "PARTITIONED SUPERCONDUCTING CABLE"
+      ],
+      "abstract": "A cable comprising: a plurality of electrically conductive segments extending along the cable, each of the plurality of electrically conductive segments comprising at least one high temperature superconductor, HTS, component; and an electrically insulating material arranged between adjacent electrically conductive segments of the plurality of electrically conductive segments that electrically insulates the plurality of electrically conductive segments from one another.",
+      "publicationNumber": "EP4571791",
+      "publicationDate": "2025-09-24",
+      "assignee": [
+        "Massachusetts Institute of Technology"
+      ],
+      "inventors": [
+        "ALEXEY RADOVINSKY",
+        "Charlie SANABRIA",
+        "Christopher CRAIGHILL",
+        "KRISHNA KIRAN UPPALAPATI",
+        "Alexander CREELY",
+        "DANIEL BRUNNER"
+      ],
+      "applicationDate": "2021-03-04",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.558372
+    },
+    {
+      "id": "EP-4571791-A2",
+      "title": [
+        "PARTITIONED SUPERCONDUCTING CABLE"
+      ],
+      "abstract": "A cable comprising: a plurality of electrically conductive segments extending along the cable, each of the plurality of electrically conductive segments comprising at least one high temperature superconductor, HTS, component; and an electrically insulating material arranged between adjacent electrically conductive segments of the plurality of electrically conductive segments that electrically insulates the plurality of electrically conductive segments from one another.",
+      "publicationNumber": "EP4571791",
+      "publicationDate": "2025-06-18",
+      "assignee": [
+        "Massachusetts Institute of Technology"
+      ],
+      "inventors": [
+        "ALEXEY RADOVINSKY",
+        "Charlie SANABRIA",
+        "Christopher CRAIGHILL",
+        "KRISHNA KIRAN UPPALAPATI",
+        "Alexander CREELY",
+        "DANIEL BRUNNER"
+      ],
+      "applicationDate": "2021-03-04",
+      "claimsCount": 15,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.558372
+    },
+    {
+      "id": "EP-4430642-A1",
+      "title": [
+        "MODULAR HIGH CAPACITY CURRENT LEAD"
+      ],
+      "abstract": "A high capacity current lead (10) comprises components that are electrically coupled using indium joints. The current lead includes a heat exchanger having a portion at room temperature (100) and a portion (200) within a vacuum cryostat. The room-temperature portion is temperature controlled against both overheating and overcooling. The cryogenic portion (200) of the heat exchanger is electrically coupled to a coolant boiling chamber (300) using indium joints. The boiling chamber (300) has a lid and a base that may be electrically coupled using indium joints, or they may be brazed. The boiling chamber (300) is surrounded by a vacuum lid that may be electrically coupled to the base using indium joints, or brazed. The base is electrically coupled to a superconductor module (400) having high-temperature superconductor (HTS) tapes for conveying current to a device, such as a superconducting electromagnet.",
+      "publicationNumber": "EP4430642",
+      "publicationDate": "2024-09-18",
+      "assignee": [
+        "MASSACHUSETTS INSTITUTE OF TECHNOLOGY"
+      ],
+      "inventors": [
+        "VINCENT FRY",
+        "ALEXANDER ZHUKOVSKY",
+        "PHILIP MICHAEL",
+        "Ernest IHLOFF",
+        "MICHAEL WOLF",
+        "WILLIAM BECK"
+      ],
+      "applicationDate": "2022-11-10",
+      "claimsCount": 11,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.558372
+    },
+    {
+      "id": "EP-4115432-C0",
+      "title": [
+        "PARTITIONED SUPERCONDUCTING CABLE"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP4115432",
+      "publicationDate": "2025-02-26",
+      "assignee": [
+        "MASSACHUSETTS INSTITUTE OF TECHNOLOGY"
+      ],
+      "inventors": [
+        "ALEXEY RADOVINSKY",
+        "Charlie SANABRIA",
+        "Christopher CRAIGHILL",
+        "KRISHNA KIRAN UPPALAPATI",
+        "Alexander CREELY",
+        "DANIEL BRUNNER"
+      ],
+      "applicationDate": "2021-03-04",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.558372
+    },
+    {
+      "id": "EP-4115432-A1",
+      "title": [
+        "PARTITIONED SUPERCONDUCTING CABLE"
+      ],
+      "abstract": "Described is a cable comprising a plurality of high temperature superconductor (HTS) components, a plurality of electrically conductive segments extending along a length of the cable, each of the plurality of electrically conductive segments comprising one of the plurality of HTS components, and an electrically insulating material arranged between adjacent ones of the plurality of electrically conductive segments.",
+      "publicationNumber": "EP4115432",
+      "publicationDate": "2023-01-11",
+      "assignee": [
+        "MASSACHUSETTS INSTITUTE OF TECHNOLOGY"
+      ],
+      "inventors": [
+        "ALEXEY RADOVINSKY",
+        "Charlie SANABRIA",
+        "Christopher CRAIGHILL",
+        "KRISHNA KIRAN UPPALAPATI",
+        "Alexander CREELY",
+        "DANIEL BRUNNER"
+      ],
+      "applicationDate": "2021-03-04",
+      "claimsCount": 26,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.558372
+    },
+    {
+      "id": "EP-3785039-B1",
+      "title": [
+        "APPARATUS FOR QUALITY CONTROL OF A SUPERCONDUCTING TAPE"
+      ],
+      "abstract": "The present invention is in the field of apparatuses for quality control of a superconducting tape. In particular, the present invention relates to an apparatus for quality control of a superconduct- ing tape comprising (a) at least two rolls contacting the superconducting tape and being suitable for injecting an electric current into the superconducting tape and (b) at least two measuring contacts contacting the superconducting tape and being suitable for measuring an electric voltage along the superconducting tape and (c) a cooling section suitable for cooling the superconducting tape below its critical temperature, wherein the at least two rolls and the at least two measuring contacts are located inside the cooling section and wherein the cooling section is suitable for keeping the rolls at a first temperature and the meas- uring contacts at a second temperature, wherein the first temperature is lower than the second temperature.",
+      "publicationNumber": "EP3785039",
+      "publicationDate": "2023-10-04",
+      "assignee": [
+        "Commonwealth Fusion Systems LLC"
+      ],
+      "inventors": [
+        "THOMAS BRAUN",
+        "Ruslan KARABALAEV",
+        "MICHAEL BAECKER",
+        "ROGER WOERDENWEBER"
+      ],
+      "applicationDate": "2019-04-17",
+      "claimsCount": 14,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Measurement"
+      ],
+      "score": 13.310197
+    },
+    {
+      "id": "EM-150942110008-S",
+      "title": [
+        "Thermal accumulators (part of -)"
+      ],
+      "abstract": "",
+      "publicationNumber": "EM150942110008",
+      "publicationDate": "2025-04-15",
+      "assignee": [
+        "Commonwealth Fusion Systems LLC"
+      ],
+      "inventors": [
+        "Pedro Pavao Neto",
+        "Theodore Wyeth",
+        "Ethen Hunter Daniels",
+        "Kailee Hansen Donez"
+      ],
+      "applicationDate": "2025-03-05",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 13.2507305
+    },
+    {
+      "id": "EM-150942110007-S",
+      "title": [
+        "Thermal accumulators (part of -)"
+      ],
+      "abstract": "",
+      "publicationNumber": "EM150942110007",
+      "publicationDate": "2025-04-15",
+      "assignee": [
+        "Commonwealth Fusion Systems LLC"
+      ],
+      "inventors": [
+        "Pedro Pavao Neto",
+        "Theodore Wyeth",
+        "Ethen Hunter Daniels",
+        "Kailee Hansen Donez"
+      ],
+      "applicationDate": "2025-03-05",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 13.2507305
+    },
+    {
+      "id": "EM-150942110006-S",
+      "title": [
+        "Thermal accumulators (part of -)"
+      ],
+      "abstract": "",
+      "publicationNumber": "EM150942110006",
+      "publicationDate": "2025-04-15",
+      "assignee": [
+        "Commonwealth Fusion Systems LLC"
+      ],
+      "inventors": [
+        "Pedro Pavao Neto",
+        "Theodore Wyeth"
+      ],
+      "applicationDate": "2025-03-05",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 13.2507305
+    },
+    {
+      "id": "EM-150942110005-S",
+      "title": [
+        "Thermal accumulators (part of -)"
+      ],
+      "abstract": "",
+      "publicationNumber": "EM150942110005",
+      "publicationDate": "2025-04-15",
+      "assignee": [
+        "Commonwealth Fusion Systems LLC"
+      ],
+      "inventors": [
+        "Pedro Pavao Neto",
+        "Theodore Wyeth"
+      ],
+      "applicationDate": "2025-03-05",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 13.2507305
+    },
+    {
+      "id": "EM-150942110004-S",
+      "title": [
+        "Thermal accumulators (part of -)"
+      ],
+      "abstract": "",
+      "publicationNumber": "EM150942110004",
+      "publicationDate": "2025-04-15",
+      "assignee": [
+        "Commonwealth Fusion Systems LLC"
+      ],
+      "inventors": [
+        "Pedro Pavao Neto",
+        "Theodore Wyeth"
+      ],
+      "applicationDate": "2025-03-05",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 13.2507305
+    },
+    {
+      "id": "EM-150942110003-S",
+      "title": [
+        "Thermal accumulators (part of -)"
+      ],
+      "abstract": "",
+      "publicationNumber": "EM150942110003",
+      "publicationDate": "2025-04-15",
+      "assignee": [
+        "Commonwealth Fusion Systems LLC"
+      ],
+      "inventors": [
+        "Pedro Pavao Neto",
+        "Theodore Wyeth"
+      ],
+      "applicationDate": "2025-03-05",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 13.2507305
+    },
+    {
+      "id": "EM-150942110002-S",
+      "title": [
+        "Thermal accumulators (part of -)"
+      ],
+      "abstract": "",
+      "publicationNumber": "EM150942110002",
+      "publicationDate": "2025-04-15",
+      "assignee": [
+        "Commonwealth Fusion Systems LLC"
+      ],
+      "inventors": [
+        "Pedro Pavao Neto",
+        "Theodore Wyeth"
+      ],
+      "applicationDate": "2025-03-05",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 13.2507305
+    },
+    {
+      "id": "EM-150942110001-S",
+      "title": [
+        "Thermal accumulators (part of -)"
+      ],
+      "abstract": "",
+      "publicationNumber": "EM150942110001",
+      "publicationDate": "2025-04-15",
+      "assignee": [
+        "Commonwealth Fusion Systems LLC"
+      ],
+      "inventors": [
+        "Pedro Pavao Neto",
+        "Theodore Wyeth"
+      ],
+      "applicationDate": "2025-03-05",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 13.2507305
+    },
+    {
+      "id": "EM-150904100003-S",
+      "title": [
+        "Plasma confinement vessels(part of -)"
+      ],
+      "abstract": "",
+      "publicationNumber": "EM150904100003",
+      "publicationDate": "2025-01-28",
+      "assignee": [
+        "Commonwealth Fusion Systems LLC"
+      ],
+      "inventors": [
+        "Jack Vargas",
+        "Alexander Creely",
+        "Jon Clark Hillesheim",
+        "Matthew Vernacchia",
+        "Caroline Sorensen Barthel"
+      ],
+      "applicationDate": "2025-01-17",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 13.250547
+    },
+    {
+      "id": "EM-150904100002-S",
+      "title": [
+        "Plasma confinement vessels"
+      ],
+      "abstract": "",
+      "publicationNumber": "EM150904100002",
+      "publicationDate": "2025-01-28",
+      "assignee": [
+        "Commonwealth Fusion Systems LLC"
+      ],
+      "inventors": [
+        "Jack Vargas"
+      ],
+      "applicationDate": "2025-01-17",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 13.250547
+    },
+    {
+      "id": "EM-150904100001-S",
+      "title": [
+        "Plasma confinement vessels(part of -)"
+      ],
+      "abstract": "",
+      "publicationNumber": "EM150904100001",
+      "publicationDate": "2025-01-28",
+      "assignee": [
+        "Commonwealth Fusion Systems LLC"
+      ],
+      "inventors": [
+        "Jack Vargas",
+        "Alexander Creely",
+        "Jon Clark Hillesheim",
+        "Matthew Vernacchia",
+        "Caroline Sorensen Barthel"
+      ],
+      "applicationDate": "2025-01-17",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 13.250547
+    },
+    {
+      "id": "EM-150930700004-S",
+      "title": [
+        "Joint connectors"
+      ],
+      "abstract": "",
+      "publicationNumber": "EM150930700004",
+      "publicationDate": "2025-02-28",
+      "assignee": [
+        "Commonwealth Fusion Systems LLC"
+      ],
+      "inventors": [
+        "Ruben Rui Diaz-Pacheco"
+      ],
+      "applicationDate": "2025-02-20",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 13.240076
+    },
+    {
+      "id": "EM-150930700003-S",
+      "title": [
+        "Joint connectors"
+      ],
+      "abstract": "",
+      "publicationNumber": "EM150930700003",
+      "publicationDate": "2025-02-28",
+      "assignee": [
+        "Commonwealth Fusion Systems LLC"
+      ],
+      "inventors": [
+        "Ruben Rui Diaz-Pacheco"
+      ],
+      "applicationDate": "2025-02-20",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 13.240076
+    },
+    {
+      "id": "EM-150930700002-S",
+      "title": [
+        "Joint connectors (Housings for -)"
+      ],
+      "abstract": "",
+      "publicationNumber": "EM150930700002",
+      "publicationDate": "2025-02-28",
+      "assignee": [
+        "Commonwealth Fusion Systems LLC"
+      ],
+      "inventors": [
+        "Ruben Rui Diaz-Pacheco"
+      ],
+      "applicationDate": "2025-02-20",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 13.240076
+    },
+    {
+      "id": "EM-150930700001-S",
+      "title": [
+        "Joint connectors (Housings for -)"
+      ],
+      "abstract": "",
+      "publicationNumber": "EM150930700001",
+      "publicationDate": "2025-02-28",
+      "assignee": [
+        "Commonwealth Fusion Systems LLC"
+      ],
+      "inventors": [
+        "Ruben Rui Diaz-Pacheco"
+      ],
+      "applicationDate": "2025-02-20",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 13.240076
+    },
+    {
+      "id": "US-20250067528-A1",
+      "title": [
+        "TRITIUM SHUNT HEAT EXCHANGER WITH SWEEP GAS"
+      ],
+      "abstract": "Certain aspects of the present disclosure are generally directed to tritium shunt heat exchangers that use a sweep gas. In some aspects, a heat exchanger system for a fusion power plant is disclosed herein. The system may advantageously allow for efficient energy and tritium extraction from a tritium-containing fluid, while minimizing tritium leakage into the environment. For example, the system may comprise components, such as a thermally conductive solid connector, a sweep gas, reactive materials, etc., that allow for high heat transfer efficiency, and/or high tritium removal and extraction efficiency. In addition, some aspects of the disclosure are directed to methods for using or making such a system.",
+      "publicationNumber": "US20250067528",
+      "publicationDate": "2025-02-27",
+      "assignee": [
+        "COMMONWEALTH FUSION SYSTEMS LLC"
+      ],
+      "inventors": [
+        "Matthew Vernacchia",
+        "James Logan"
+      ],
+      "applicationDate": "2024-11-12",
+      "claimsCount": 22,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Thermal processes and apparatus"
+      ],
+      "score": 13.188868
+    },
+    {
+      "id": "IN-202417090980-A",
+      "title": [
+        "TRITIUM SHUNT HEAT EXCHANGER WITH SWEEP GAS"
+      ],
+      "abstract": "Certain aspects of the present disclosure are generally directed to tritium shunt heat exchangers that use a sweep gas. In some aspects, a heat exchanger system for a fusion power plant is disclosed herein. The system may advantageously allow for efficient energy and tritium extraction from a tritium -containing fluid, while minimizing tritium leakage into the environment. For example, the system may comprise components, such as a thermally conductive solid connector, a sweep gas, reactive materials, etc., that, allow for high heat transfer efficiency, and/or high tritium removal and extraction efficiency. In addition, some aspects of the disclosure are directed to methods for using or making such a system.",
+      "publicationNumber": "IN202417090980",
+      "publicationDate": "2024-12-20",
+      "assignee": [
+        "COMMONWEALTH FUSION SYSTEMS LLC"
+      ],
+      "inventors": [
+        "VERNACCHIA MATTHEW",
+        "LOGAN JAMES"
+      ],
+      "applicationDate": "2024-11-22",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 13.188868
+    },
+    {
+      "id": "CA-3255294-A1",
+      "title": [
+        "TRITIUM SHUNT HEAT EXCHANGER WITH SWEEP GAS"
+      ],
+      "abstract": "",
+      "publicationNumber": "CA3255294",
+      "publicationDate": "2023-11-23",
+      "assignee": [
+        "COMMONWEALTH FUSION SYSTEMS LLC"
+      ],
+      "inventors": [
+        "Matthew Vernacchia",
+        "James Logan"
+      ],
+      "applicationDate": "2023-05-18",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 13.188868
+    },
+    {
+      "id": "US-20240387064-A1",
+      "title": [
+        "TECHNIQUES FOR REMOVING A VACUUM VESSEL FROM A TOKAMAK AND RELATED SYSTEMS AND METHODS"
+      ],
+      "abstract": "Techniques are described for automatically removing and replacing components, including a vacuum vessel, from a tokamak. The inventors have recognized that schemes for automatically removing and replacing components from a tokamak should preferably be simple (e.g., using proven equipment to perform a series of non-mechanically complex tasks) and have a very low risk of damaging components. Techniques described herein may include splitting a tokamak into multiple pieces, separating the pieces, and removing the now separate pieces of the vacuum vessel from within the pieces of the tokamak. A new vacuum vessel can be inserted in multiple pieces and the tokamak rejoined to complete the replacement process.",
+      "publicationNumber": "US20240387064",
+      "publicationDate": "2024-11-21",
+      "assignee": [
+        "COMMONWEALTH FUSION SYSTEMS LLC"
+      ],
+      "inventors": [
+        "Matthew Vernacchia",
+        "Theodore Wyeth"
+      ],
+      "applicationDate": "2023-05-16",
+      "claimsCount": 25,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 13.179768
+    },
+    {
+      "id": "US-12488904-B2",
+      "title": [
+        "Techniques for removing a vacuum vessel from a tokamak and related systems and methods"
+      ],
+      "abstract": "Techniques are described for automatically removing and replacing components, including a vacuum vessel, from a tokamak. The inventors have recognized that schemes for automatically removing and replacing components from a tokamak should preferably be simple (e.g., using proven equipment to perform a series of non-mechanically complex tasks) and have a very low risk of damaging components. Techniques described herein may include splitting a tokamak into multiple pieces, separating the pieces, and removing the now separate pieces of the vacuum vessel from within the pieces of the tokamak. A new vacuum vessel can be inserted in multiple pieces and the tokamak rejoined to complete the replacement process.",
+      "publicationNumber": "US12488904",
+      "publicationDate": "2025-12-02",
+      "assignee": [
+        "COMMONWEALTH FUSION SYSTEMS LLC"
+      ],
+      "inventors": [
+        "Matthew Vernacchia",
+        "Theodore Wyeth"
+      ],
+      "applicationDate": "2023-05-16",
+      "claimsCount": 25,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Handling"
+      ],
+      "score": 13.179768
+    },
+    {
+      "id": "US-20240203628-A1",
+      "title": [
+        "Grooved, Stacked-Plate Superconducting Magnets And Electrically Conductive Terminal Blocks and Related Construction Techniques"
+      ],
+      "abstract": "Described herein are concepts, system and techniques which provide a means to construct robust high-field superconducting magnets using simple fabrication techniques and modular components that scale well toward commercialization. The resulting magnet assembly\u2014which utilizes non-insulated, high temperature superconducting tapes (HTS) and provides for optimized coolant pathways\u2014is inherently strong structurally, which enables maximum utilization of the high magnetic fields available with HTS technology. In addition, the concepts described herein provide for control of quench-induced current distributions within the tape stack and surrounding superstructure to safely dissipate quench energy, while at the same time obtaining acceptable magnet charge time. The net result is a structurally and thermally robust, high-field magnet assembly that is passively protected against quench fault conditions.",
+      "publicationNumber": "US20240203628",
+      "publicationDate": "2024-06-20",
+      "assignee": [
+        "MASSACHUSETTS INSTITUTE OF TECHNOLOGY"
+      ],
+      "inventors": [
+        "Brian LABOMBARD",
+        "Robert S. GRANETZ",
+        "James IRBY",
+        "Rui Vieira",
+        "William Beck",
+        "Daniel Brunner",
+        "Jeffrey DOODY",
+        "Martin Greenwald",
+        "Zachary HARTWIG",
+        "Philip Michael",
+        "Robert MUMGAARD",
+        "Alexey Radovinsky",
+        "Shunichi Shiraiwa",
+        "Brandon N. SORBOM",
+        "John Wright",
+        "Lihua ZHOU"
+      ],
+      "applicationDate": "2023-09-28",
+      "claimsCount": 16,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.141603
+    },
+    {
+      "id": "US-20220336130-A1",
+      "title": [
+        "Grooved, Stacked-Plate Superconducting Magnets And Electrically Conductive Terminal Blocks and Related Construction Techniques"
+      ],
+      "abstract": "Described herein are concepts, system and techniques which provide a means to construct robust high-field superconducting magnets using simple fabrication techniques and modular components that scale well toward commercialization. The resulting magnet assembly\u2014which utilizes non-insulated, high temperature superconducting tapes (HTS) and provides for optimized coolant pathways\u2014is inherently strong structurally, which enables maximum utilization of the high magnetic fields available with HTS technology. In addition, the concepts described herein provide for control of quench-induced current distributions within the tape stack and surrounding superstructure to safely dissipate quench energy, while at the same time obtaining acceptable magnet charge time. The net result is a structurally and thermally robust, high-field magnet assembly that is passively protected against quench fault conditions.",
+      "publicationNumber": "US20220336130",
+      "publicationDate": "2022-10-20",
+      "assignee": [
+        "MASSACHUSETTS INSTITUTE OF TECHNOLOGY"
+      ],
+      "inventors": [
+        "Brian LABOMBARD",
+        "Robert S. GRANETZ",
+        "James IRBY",
+        "Rui Vieira",
+        "William Beck",
+        "Daniel Brunner",
+        "Jeffrey DOODY",
+        "Martin Greenwald",
+        "Zachary HARTWIG",
+        "Philip Michael",
+        "Robert MUMGAARD",
+        "Alexey Radovinsky",
+        "Syun'ichi SHIRAIWA",
+        "Brandon N. SORBOM",
+        "John Wright",
+        "Lihua ZHOU"
+      ],
+      "applicationDate": "2022-06-30",
+      "claimsCount": 39,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.141603
+    },
+    {
+      "id": "US-20240387063-A1",
+      "title": [
+        "TECHNIQUES FOR AUTOMATED MAINTENANCE OF A TOKAMAK AND RELATED SYSTEMS AND METHODS"
+      ],
+      "abstract": "Techniques are described for automatically removing and replacing components, including a vacuum vessel, from a tokamak. The inventors have recognized that schemes for automatically removing and replacing components from a tokamak should preferably be simple (e.g., using proven equipment to perform a series of non-mechanically complex tasks) and have a very low risk of damaging components. Techniques described herein may include splitting a tokamak into multiple pieces, separating the pieces, and removing the now separate pieces of the vacuum vessel from within the pieces of the tokamak. A new vacuum vessel can be inserted in multiple pieces and the tokamak rejoined to complete the replacement process.",
+      "publicationNumber": "US20240387063",
+      "publicationDate": "2024-11-21",
+      "assignee": [
+        "COMMONWEALTH FUSION SYSTEMS LLC"
+      ],
+      "inventors": [
+        "Brandon N. SORBOM",
+        "Robert MUMGAARD",
+        "Daniel Brunner",
+        "Alexander CREELY",
+        "Cody Dennett",
+        "Matthew Vernacchia",
+        "Caroline Sorensen",
+        "Theodore Wyeth"
+      ],
+      "applicationDate": "2023-05-16",
+      "claimsCount": 19,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 13.140009
+    },
+    {
+      "id": "US-20240337805-A1",
+      "title": [
+        "MITIGATION OF ATTENUATING EFFECTS FROM IONIZING RADIATION IN SILICA OPTICAL FIBERS BY PHOTOBLEACHING"
+      ],
+      "abstract": "Systems and methods for performing optical annealing of an optical fiber disposed in a cryogenic environment subject to ionizing radiation, such as in a fusion energy source, are provided. The techniques include optically annealing the optical fiber using first light having a first peak wavelength and second light having a second peak wavelength different than the first peak wavelength. The first and second peak wavelengths may be selected to optically anneal defects associated with transient radiation-induced attenuation (RIA) and permanent RIA.",
+      "publicationNumber": "US20240337805",
+      "publicationDate": "2024-10-10",
+      "assignee": [
+        "COMMONWEALTH FUSION SYSTEMS LLC"
+      ],
+      "inventors": [
+        "Owen Beals Duke",
+        "Erica Elizabeth Salazar",
+        "David Paul Meichle"
+      ],
+      "applicationDate": "2022-11-21",
+      "claimsCount": 45,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Optics"
+      ],
+      "score": 13.140009
+    },
+    {
+      "id": "US-20220375630-A1",
+      "title": [
+        "TRITIUM INJECTION TECHNIQUES AND RELATED SYSTEMS AND METHODS"
+      ],
+      "abstract": "Techniques are described for delivering a metered flow of tritium gas to a fusion power system at a constant (or substantially constant) flow without feedback control being necessary, and while allowing all (or almost all) of the tritium in a reservoir to be delivered to the system. A constant pressure (isobaric) tritium injection system is described comprising a process chamber, at least part of which is flexible, and a regulating chamber arranged adjacent to the process chamber. Tritium in the process chamber may be pushed out of the injection system by managing the pressure of a regulating gas in the regulating chamber. As the pressure of the regulating gas increases, this causes the process chamber to be compressed due to the flexible portion(s) of the process chamber, thereby increasing the pressure of the tritium gas.",
+      "publicationNumber": "US20220375630",
+      "publicationDate": "2022-11-24",
+      "assignee": [
+        "COMMONWEALTH FUSION SYSTEMS LLC"
+      ],
+      "inventors": [
+        "Christopher Chrobak",
+        "Kyle Mackenzie Ryan",
+        "Walter Shmayda",
+        "Heena Mutha"
+      ],
+      "applicationDate": "2022-05-23",
+      "claimsCount": 18,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 13.140009
+    },
+    {
+      "id": "US-12456555-B2",
+      "title": [
+        "Techniques for automated maintenance of a tokamak and related systems and methods"
+      ],
+      "abstract": "Techniques are described for automatically removing and replacing components, including a vacuum vessel, from a tokamak. The inventors have recognized that schemes for automatically removing and replacing components from a tokamak should preferably be simple (e.g., using proven equipment to perform a series of non-mechanically complex tasks) and have a very low risk of damaging components. Techniques described herein may include splitting a tokamak into multiple pieces, separating the pieces, and removing the now separate pieces of the vacuum vessel from within the pieces of the tokamak. A new vacuum vessel can be inserted in multiple pieces and the tokamak rejoined to complete the replacement process.",
+      "publicationNumber": "US12456555",
+      "publicationDate": "2025-10-28",
+      "assignee": [
+        "COMMONWEALTH FUSION SYSTEMS LLC"
+      ],
+      "inventors": [
+        "Brandon N. SORBOM",
+        "Robert MUMGAARD",
+        "Daniel Brunner",
+        "Alexander CREELY",
+        "Cody Dennett",
+        "Matthew Vernacchia",
+        "Caroline Sorensen",
+        "Theodore Wyeth"
+      ],
+      "applicationDate": "2023-05-16",
+      "claimsCount": 19,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 13.140009
+    }
+  ]
+}

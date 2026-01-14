@@ -1,0 +1,11 @@
+{
+  "search_id": "search_20260114_121449",
+  "timestamp": "2026-01-14T12:14:49.600463",
+  "query_type": "ai_search",
+  "user_prompt": "PA=(CarbonCure) AND PD>2015",
+  "minesoft_query": "PA=(CarbonCure) AND PD>2015",
+  "results_count": 223,
+  "directory": "2026-01-14_carboncure_and_2015",
+  "execution_time_ms": 3220.0846672058105,
+  "api_endpoint": "query"
+}

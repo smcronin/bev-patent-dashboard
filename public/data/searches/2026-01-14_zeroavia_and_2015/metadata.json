@@ -1,0 +1,11 @@
+{
+  "search_id": "search_20260114_121450",
+  "timestamp": "2026-01-14T12:14:50.684585",
+  "query_type": "ai_search",
+  "user_prompt": "PA=(ZeroAvia) AND PD>2015",
+  "minesoft_query": "PA=(ZeroAvia) AND PD>2015",
+  "results_count": 274,
+  "directory": "2026-01-14_zeroavia_and_2015",
+  "execution_time_ms": 980.9467792510986,
+  "api_endpoint": "query"
+}

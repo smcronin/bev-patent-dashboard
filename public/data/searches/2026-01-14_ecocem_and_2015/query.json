@@ -1,0 +1,6 @@
+{
+  "query": "PA=(Ecocem) AND PD>2015",
+  "query_type": "ai_search",
+  "timestamp": "2026-01-14T12:16:04.067791",
+  "user_prompt": "PA=(Ecocem) AND PD>2015"
+}

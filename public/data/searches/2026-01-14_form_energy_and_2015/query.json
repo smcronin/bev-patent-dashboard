@@ -1,0 +1,6 @@
+{
+  "query": "PA=(Form Energy) AND PD>2015",
+  "query_type": "ai_search",
+  "timestamp": "2026-01-14T12:14:05.623610",
+  "user_prompt": "PA=(Form Energy) AND PD>2015"
+}

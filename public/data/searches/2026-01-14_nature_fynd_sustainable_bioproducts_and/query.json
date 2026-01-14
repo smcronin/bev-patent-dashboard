@@ -1,0 +1,6 @@
+{
+  "query": "PA=(Nature's Fynd OR Sustainable Bioproducts) AND PD>2015",
+  "query_type": "ai_search",
+  "timestamp": "2026-01-14T12:15:45.068893",
+  "user_prompt": "PA=(Nature's Fynd OR Sustainable Bioproducts) AND PD>2015"
+}

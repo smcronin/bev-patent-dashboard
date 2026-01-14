@@ -1,0 +1,689 @@
+{
+  "count": 26,
+  "numFound": 26,
+  "docs": [
+    {
+      "id": "WO-2024258865-A1",
+      "title": [
+        "MONOLITHIC INTERCONNECTED MODULES (MIMS) THIN-FILM PHOTOVOLTAIC (PV) CELLS"
+      ],
+      "abstract": "A monolithic interconnected module photovoltaic device can include a plurality of photovoltaic modules arranged in a MIM configuration, each of the photovoltaic modules comprising an epitaxial semiconductor photovoltaic absorber (103) having a bandgap, a back metallization layer (105) comprising an electrically conductive material, and a lateral conduction layer (111), wherein the lateral conduction layer comprises an electrically and thermally conductive material. The back metallization layer (105) can have high reflectivity for wavelengths below the bandgap of the absorber. The high sub-bandgap reflectivity of the back metallization layer (105) and the high thermal conductivity of the lateral conduction layer (111) can facilitate use in high temperature applications, such as thermophotovoltaic applications using a thermophotovoltaic absorber.",
+      "publicationNumber": "WO2024258865",
+      "publicationDate": "2024-12-19",
+      "assignee": [
+        "Antora Energy, Inc."
+      ],
+      "inventors": [
+        "BRENDAN M. KAYES",
+        "Jan Moritz LIMPINSEL",
+        "AMIT KUMAR GUPTA"
+      ],
+      "applicationDate": "2024-06-11",
+      "claimsCount": 44,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Semiconductors",
+        "Solar energy"
+      ],
+      "score": 16.835125
+    },
+    {
+      "id": "WO-2022173467-A3",
+      "title": [
+        "STRUCTURES AND METHODS FOR PRODUCING AN OPTOELECTRONIC DEVICE"
+      ],
+      "abstract": "The technology relates to producing an optoelectronic device. A method for forming an optoelectronic device on a substrate may include growing an epitaxial structure on the substrate, wherein the substrate comprises a semiconductor material having a lattice constant between 5.7 and 6.0 Angstroms, and wherein the epitaxial structure includes an epitaxial device layer, then depositing a metal layer on the epitaxial structure, and selectively removing the epitaxial layer, thereby separating the optoelectronic device from the substrate. An optoelectronic device may include an optoelectronic device structure including an epitaxial device layer having a lattice constant between 5.7 and 6.0 Angstroms, a metal layer deposited onto a surface of the optoelectronic device structure, and a carrier structure, wherein the optoelectronic device comprises a thin film, single crystal device.",
+      "publicationNumber": "WO2022173467",
+      "publicationDate": "2022-12-22",
+      "assignee": [
+        "Antora Energy, Inc."
+      ],
+      "inventors": [
+        "ANDREW JOSEPH PONEC",
+        "Leah Yvonne KURITZKY",
+        "Emmett Edward Perl",
+        "Brendan Melville KAYES"
+      ],
+      "applicationDate": "2021-09-22",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Semiconductors"
+      ],
+      "score": 16.544983
+    },
+    {
+      "id": "WO-2022173467-A2",
+      "title": [
+        "STRUCTURES AND METHODS FOR PRODUCING AN OPTOELECTRONIC DEVICE"
+      ],
+      "abstract": "The technology relates to producing an optoelectronic device. A method for forming an optoelectronic device on a substrate may include growing an epitaxial structure on the substrate, wherein the substrate comprises a semiconductor material having a lattice constant between 5.7 and 6.0 Angstroms, and wherein the epitaxial structure includes an epitaxial device layer, then depositing a metal layer on the epitaxial structure, and selectively removing the epitaxial layer, thereby separating the optoelectronic device from the substrate. An optoelectronic device may include an optoelectronic device structure including an epitaxial device layer having a lattice constant between 5.7 and 6.0 Angstroms, a metal layer deposited onto a surface of the optoelectronic device structure, and a carrier structure, wherein the optoelectronic device comprises a thin film, single crystal device.",
+      "publicationNumber": "WO2022173467",
+      "publicationDate": "2022-08-18",
+      "assignee": [
+        "Antora Energy, Inc."
+      ],
+      "inventors": [
+        "ANDREW JOSEPH PONEC",
+        "Leah Yvonne KURITZKY",
+        "Emmett Edward Perl",
+        "Brendan Melville KAYES"
+      ],
+      "applicationDate": "2021-09-22",
+      "claimsCount": 27,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Semiconductors"
+      ],
+      "score": 16.544983
+    },
+    {
+      "id": "EP-4218060-A4",
+      "title": [
+        "STRUCTURES AND METHODS FOR PRODUCING AN OPTOELECTRONIC DEVICE"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP4218060",
+      "publicationDate": "2024-09-25",
+      "assignee": [
+        "Antora Energy, Inc."
+      ],
+      "inventors": [
+        "ANDREW JOSEPH PONEC",
+        "Leah Yvonne KURITZKY",
+        "Emmett Edward Perl",
+        "Brendan Melville KAYES"
+      ],
+      "applicationDate": "2021-09-22",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Optics",
+        "Semiconductors",
+        "Solar energy"
+      ],
+      "score": 16.544983
+    },
+    {
+      "id": "EP-4218060-A2",
+      "title": [
+        "STRUCTURES AND METHODS FOR PRODUCING AN OPTOELECTRONIC DEVICE"
+      ],
+      "abstract": "The technology relates to producing an optoelectronic device. A method for forming an optoelectronic device on a substrate may include growing an epitaxial structure on the substrate, wherein the substrate comprises a semiconductor material having a lattice constant between 5.7 and 6.0 Angstroms, and wherein the epitaxial structure includes an epitaxial device layer, then depositing a metal layer on the epitaxial structure, and selectively removing the epitaxial layer, thereby separating the optoelectronic device from the substrate. An optoelectronic device may include an optoelectronic device structure including an epitaxial device layer having a lattice constant between 5.7 and 6.0 Angstroms, a metal layer deposited onto a surface of the optoelectronic device structure, and a carrier structure, wherein the optoelectronic device comprises a thin film, single crystal device.",
+      "publicationNumber": "EP4218060",
+      "publicationDate": "2023-08-02",
+      "assignee": [
+        "Antora Energy, Inc."
+      ],
+      "inventors": [
+        "ANDREW JOSEPH PONEC",
+        "Leah Yvonne KURITZKY",
+        "Emmett Edward Perl",
+        "Brendan Melville KAYES"
+      ],
+      "applicationDate": "2021-09-22",
+      "claimsCount": 27,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Semiconductors"
+      ],
+      "score": 16.544983
+    },
+    {
+      "id": "WO-2024031021-A1",
+      "title": [
+        "INTERCONNECTING THERMOPHOTOVOLTAIC DEVICES IN SHINGLE ARRANGEMENT"
+      ],
+      "abstract": "Photovoltaic devices can include photovoltaic cells can include a wafer foil having a first side and a second side, a front metal contact coupled to the first side, a back metal layer coupled to the second side, and a patterned layer coupled to the back metal layer. The patterned layer can include an electrically insulating region and an electrical conductor that contacts the back metal layer. The electrically insulating region can include a die attach film. Multiple photovoltaic cells can be combined in a shingle arrangement to form an interconnected device wherein the front metal contact of one cell contacts the electrical contact of another cell. A die attach film can be used as the electrically insulating region to create the interconnected device without adding additional insulation between the cells. Devices can include materials suitable for thermophotovoltaic applications.",
+      "publicationNumber": "WO2024031021",
+      "publicationDate": "2024-02-08",
+      "assignee": [
+        "Antora Energy, Inc."
+      ],
+      "inventors": [
+        "Jan Moritz LIMPINSEL",
+        "JASON TOLENTINO",
+        "BRETT MICHAEL BARNES"
+      ],
+      "applicationDate": "2023-08-03",
+      "claimsCount": 34,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Semiconductors",
+        "Solar energy"
+      ],
+      "score": 16.077724
+    },
+    {
+      "id": "EP-4566098-A1",
+      "title": [
+        "INTERCONNECTING THERMOPHOTOVOLTAIC DEVICES IN SHINGLE ARRANGEMENT"
+      ],
+      "abstract": "Photovoltaic devices can include photovoltaic cells can include a wafer foil having a first side and a second side, a front metal contact coupled to the first side, a back metal layer coupled to the second side, and a patterned layer coupled to the back metal layer. The patterned layer can include an electrically insulating region and an electrical conductor that contacts the back metal layer. The electrically insulating region can include a die attach film. Multiple photovoltaic cells can be combined in a shingle arrangement to form an interconnected device wherein the front metal contact of one cell contacts the electrical contact of another cell. A die attach film can be used as the electrically insulating region to create the interconnected device without adding additional insulation between the cells. Devices can include materials suitable for thermophotovoltaic applications.",
+      "publicationNumber": "EP4566098",
+      "publicationDate": "2025-06-11",
+      "assignee": [
+        "Antora Energy, Inc."
+      ],
+      "inventors": [
+        "Jan Moritz LIMPINSEL",
+        "JASON TOLENTINO",
+        "BRETT MICHAEL BARNES"
+      ],
+      "applicationDate": "2023-08-03",
+      "claimsCount": 34,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Semiconductors",
+        "Solar energy"
+      ],
+      "score": 16.077724
+    },
+    {
+      "id": "WO-2022272098-A1",
+      "title": [
+        "SUB-SYSTEMS AND METHODS WITHIN A THERMAL STORAGE SOLUTION"
+      ],
+      "abstract": "A thermal storage solution system is disclosed herein. The system includes an insulated container having a thermal storage medium, a heating element configured to heat the thermal storage medium, a heat receiving unit (e.g., thermophotovoltaic (TPV) heat engine, heat transfer fluid, an industrial process component) configured to convert heat into electric energy, and a mechanism configured to control a view factor between the thermal storage medium and the heat engine. In another embodiment, the system includes multiple thermal storage media as unit cells in a single enclosure or container with insulation between adjacent unit cells.",
+      "publicationNumber": "WO2022272098",
+      "publicationDate": "2022-12-29",
+      "assignee": [
+        "Antora Energy, Inc."
+      ],
+      "inventors": [
+        "ANDREW JOSEPH PONEC",
+        "JUSTIN BRIGGS",
+        "David BIERMAN",
+        "Sam KORTZ"
+      ],
+      "applicationDate": "2022-06-24",
+      "claimsCount": 29,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 15.959384
+    },
+    {
+      "id": "EP-4360150-A4",
+      "title": [
+        "SUB-SYSTEMS AND METHODS WITHIN A THERMAL STORAGE SOLUTION"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP4360150",
+      "publicationDate": "2025-05-07",
+      "assignee": [
+        "Antora Energy, Inc."
+      ],
+      "inventors": [
+        "ANDREW JOSEPH PONEC",
+        "JUSTIN BRIGGS",
+        "David BIERMAN",
+        "Sam KORTZ"
+      ],
+      "applicationDate": "2022-06-24",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 15.959384
+    },
+    {
+      "id": "EP-4360150-A1",
+      "title": [
+        "SUB-SYSTEMS AND METHODS WITHIN A THERMAL STORAGE SOLUTION"
+      ],
+      "abstract": "A thermal storage solution system is disclosed herein. The system includes an insulated container having a thermal storage medium, a heating element configured to heat the thermal storage medium, a heat receiving unit (e.g., thermophotovoltaic (TPV) heat engine, heat transfer fluid, an industrial process component) configured to convert heat into electric energy, and a mechanism configured to control a view factor between the thermal storage medium and the heat engine. In another embodiment, the system includes multiple thermal storage media as unit cells in a single enclosure or container with insulation between adjacent unit cells.",
+      "publicationNumber": "EP4360150",
+      "publicationDate": "2024-05-01",
+      "assignee": [
+        "Antora Energy, Inc."
+      ],
+      "inventors": [
+        "ANDREW JOSEPH PONEC",
+        "JUSTIN BRIGGS",
+        "David BIERMAN",
+        "Sam KORTZ"
+      ],
+      "applicationDate": "2022-06-24",
+      "claimsCount": 29,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 15.959384
+    },
+    {
+      "id": "AU-2022299317-B2",
+      "title": [
+        "SUB-SYSTEMS AND METHODS WITHIN A THERMAL STORAGE SOLUTION"
+      ],
+      "abstract": "A thermal storage solution system is disclosed herein. The system includes an insulated container having a thermal storage medium, a heating element configured to heat the thermal storage medium, a heat receiving unit (e.g., thermophotovoltaic (TPV) heat engine, heat transfer fluid, an industrial process component) configured to convert heat into electric energy, and a mechanism configured to control a view factor between the thermal storage medium and the heat engine. In another embodiment, the system includes multiple thermal storage media as unit cells in a single enclosure or container with insulation between adjacent unit cells.",
+      "publicationNumber": "AU2022299317",
+      "publicationDate": "2025-12-04",
+      "assignee": [
+        "Antora Energy, Inc."
+      ],
+      "inventors": [
+        "David BIERMAN",
+        "JUSTIN BRIGGS",
+        "Sam KORTZ",
+        "ANDREW JOSEPH PONEC"
+      ],
+      "applicationDate": "2022-06-24",
+      "claimsCount": 26,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 15.959384
+    },
+    {
+      "id": "AU-2022299317-A1",
+      "title": [
+        "SUB-SYSTEMS AND METHODS WITHIN A THERMAL STORAGE SOLUTION"
+      ],
+      "abstract": "",
+      "publicationNumber": "AU2022299317",
+      "publicationDate": "2024-01-18",
+      "assignee": [
+        "Antora Energy, Inc."
+      ],
+      "inventors": [
+        "David BIERMAN",
+        "JUSTIN BRIGGS",
+        "Sam KORTZ",
+        "ANDREW JOSEPH PONEC"
+      ],
+      "applicationDate": "2022-06-24",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 15.959384
+    },
+    {
+      "id": "US-20250185381-A1",
+      "title": [
+        "INTERCONNECTING THERMOPHOTOVOLTAIC DEVICES IN SHINGLE ARRANGEMENT"
+      ],
+      "abstract": "Photovoltaic devices can include photovoltaic cells can include a wafer foil having a first side and a second side, a front metal contact coupled to the first side, a back metal layer coupled to the second side, and a patterned layer coupled to the back metal layer. The patterned layer can include an electrically insulating region and an electrical conductor that contacts the back metal layer. The electrically insulating region can include a die attach film. Multiple photovoltaic cells can be combined in a shingle arrangement to form an interconnected device wherein the front metal contact of one cell contacts the electrical contact of another cell. A die attach film can be used as the electrically insulating region to create the interconnected device without adding additional insulation between the cells. Devices can include materials suitable for thermophotovoltaic applications.",
+      "publicationNumber": "US20250185381",
+      "publicationDate": "2025-06-05",
+      "assignee": [
+        "Antora Energy, Inc."
+      ],
+      "inventors": [
+        "Jan Moritz Limpinsel",
+        "Jason Tolentino",
+        "Brett Michael Barnes"
+      ],
+      "applicationDate": "2025-02-03",
+      "claimsCount": 34,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Semiconductors"
+      ],
+      "score": 15.321859
+    },
+    {
+      "id": "US-20240154135-A1",
+      "title": [
+        "SYSTEM AND METHOD FOR A SOLID-STATE THERMAL BATTERY"
+      ],
+      "abstract": "A solid-state thermal battery system is disclosed herein. The system includes a stationary thermal storage medium that can be charged by adding heat to the thermal storage medium. Actuated heat engines can be utilized to discharge the solid-state thermal battery, converting the heat stored in the thermal storage medium into electricity. The heat engines are actuated in a manner that reduces thermal gradients in the thermal storage medium to increase the efficiency of the system. In one embodiment, the thermal storage medium is contained in a main chamber of an insulated container. The heat engines are stored, when idle, in an ancillary chamber adjacent to the main chamber and moved into the main chamber by an actuation system to begin discharging the solid-state thermal battery. The heat engines follow a path during discharge to dynamically move between regions of the thermal storage medium to reduce thermal gradients induced therein.",
+      "publicationNumber": "US20240154135",
+      "publicationDate": "2024-05-09",
+      "assignee": [
+        "Antora Energy, Inc."
+      ],
+      "inventors": [
+        "Andrew Joseph Ponec",
+        "Justin Briggs",
+        "David Bierman",
+        "Tarun Narayan"
+      ],
+      "applicationDate": "2023-12-18",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Solar energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 15.321859
+    },
+    {
+      "id": "US-20210143446-A1",
+      "title": [
+        "SYSTEM AND METHOD FOR A SOLID-STATE THERMAL BATTERY"
+      ],
+      "abstract": "A solid-state thermal battery system is disclosed herein. The system includes a stationary thermal storage medium that can be charged by adding heat to the thermal storage medium. Actuated heat engines can be utilized to discharge the solid-state thermal battery, converting the heat stored in the thermal storage medium into electricity. The heat engines are actuated in a manner that reduces thermal gradients in the thermal storage medium to increase the efficiency of the system. In one embodiment, the thermal storage medium is contained in a main chamber of an insulated container. The heat engines are stored, when idle, in an ancillary chamber adjacent to the main chamber and moved into the main chamber by an actuation system to begin discharging the solid-state thermal battery. The heat engines follow a path during discharge to dynamically move between regions of the thermal storage medium to reduce thermal gradients induced therein.",
+      "publicationNumber": "US20210143446",
+      "publicationDate": "2021-05-13",
+      "assignee": [
+        "Antora Energy, Inc."
+      ],
+      "inventors": [
+        "Andrew Joseph Ponec",
+        "Justin Briggs",
+        "David Bierman",
+        "Tarun Narayan"
+      ],
+      "applicationDate": "2020-11-11",
+      "claimsCount": 25,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Solar energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 15.321859
+    },
+    {
+      "id": "US-20240318923-A1",
+      "title": [
+        "SYSTEMS FOR MANAGING THERMAL ENERGY WITHIN A THERMAL STORAGE SOLUTION"
+      ],
+      "abstract": "A thermal storage solution system is disclosed herein. The system includes an insulated container having a thermal storage medium, a heating element configured to heat the thermal storage medium, a heat receiving unit (e.g., thermophotovoltaic (TPV) heat engine, heat transfer fluid, an industrial process component) configured to convert heat into electric energy, and a mechanism configured to control a view factor between the thermal storage medium and the heat engine. In another embodiment, the system includes multiple thermal storage media as unit cells in a single enclosure or container with insulation between adjacent unit cells.",
+      "publicationNumber": "US20240318923",
+      "publicationDate": "2024-09-26",
+      "assignee": [
+        "Antora Energy, Inc."
+      ],
+      "inventors": [
+        "Andrew Joseph Ponec",
+        "Justin Briggs",
+        "David Bierman",
+        "Sam Kortz"
+      ],
+      "applicationDate": "2024-04-09",
+      "claimsCount": 20,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 15.206488
+    },
+    {
+      "id": "US-20240019831-A1",
+      "title": [
+        "SYSTEM FOR OPTIMIZING THERMAL ENERGY GENERATION FROM MULTIPLE ENERGY SOURCES"
+      ],
+      "abstract": "The present invention is directed to a system for generating thermal energy from different energy sources, having a combustion-powered thermal energy source, an electric-powered thermal energy source, a steam distribution system, and a controller. The combustion-powered thermal energy source and the electric-powered each having a plurality of sensors. The controller is configured to actuate either or both of the energy sources based at least in part on information received from one or more of the plurality of sensors.",
+      "publicationNumber": "US20240019831",
+      "publicationDate": "2024-01-18",
+      "assignee": [
+        "Antora Energy, Inc."
+      ],
+      "inventors": [
+        "Jordan Kearns",
+        "Christian Fitch BRIERE"
+      ],
+      "applicationDate": "2023-09-28",
+      "claimsCount": 20,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Control",
+        "Engines, pumps, turbines",
+        "IT methods for management"
+      ],
+      "score": 14.886759
+    },
+    {
+      "id": "US-20230275173-A1",
+      "title": [
+        "STRUCTURES AND METHODS FOR PRODUCING AN OPTOELECTRONIC DEVICE"
+      ],
+      "abstract": "The technology relates to producing an optoelectronic device. A method for forming an optoelectronic device on a substrate may include growing an epitaxial structure on the substrate, wherein the substrate comprises a semiconductor material having a lattice constant between 5.7 and 6.0 Angstroms, and wherein the epitaxial structure includes an epitaxial device layer, then depositing a metal layer on the epitaxial structure, and selectively removing the epitaxial layer, thereby separating the optoelectronic device from the substrate. An optoelectronic device may include an optoelectronic device structure including an epitaxial device layer having a lattice constant between 5.7 and 6.0 Angstroms, a metal layer deposited onto a surface of the optoelectronic device structure, and a carrier structure, wherein the optoelectronic device comprises a thin film, single crystal device.",
+      "publicationNumber": "US20230275173",
+      "publicationDate": "2023-08-31",
+      "assignee": [
+        "Antora Energy, Inc."
+      ],
+      "inventors": [
+        "Andrew Joseph Ponec",
+        "Leah Yvonne KURITZKY",
+        "Emmett Edward Perl",
+        "Brendan Melville KAYES"
+      ],
+      "applicationDate": "2021-09-22",
+      "claimsCount": 27,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Semiconductors",
+        "Solar energy"
+      ],
+      "score": 13.659838
+    },
+    {
+      "id": "US-11876254-B2",
+      "title": [
+        "System and method for a solid-state thermal battery"
+      ],
+      "abstract": "A solid-state thermal battery system is disclosed herein. The system includes a stationary thermal storage medium that can be charged by adding heat to the thermal storage medium. Actuated heat engines can be utilized to discharge the solid-state thermal battery, converting the heat stored in the thermal storage medium into electricity. The heat engines are actuated in a manner that reduces thermal gradients in the thermal storage medium to increase the efficiency of the system. In one embodiment, the thermal storage medium is contained in a main chamber of an insulated container. The heat engines are stored, when idle, in an ancillary chamber adjacent to the main chamber and moved into the main chamber by an actuation system to begin discharging the solid-state thermal battery. The heat engines follow a path during discharge to dynamically move between regions of the thermal storage medium to reduce thermal gradients induced therein.",
+      "publicationNumber": "US11876254",
+      "publicationDate": "2024-01-16",
+      "assignee": [
+        "Antora Energy, Inc."
+      ],
+      "inventors": [
+        "Andrew Joseph Ponec",
+        "Justin Briggs",
+        "David Bierman",
+        "Tarun Narayan"
+      ],
+      "applicationDate": "2020-11-11",
+      "claimsCount": 23,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Solar energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 13.28444
+    },
+    {
+      "id": "US-20220412228-A1",
+      "title": [
+        "Sub-Systems and Methods within a Thermal Storage Solution"
+      ],
+      "abstract": "A thermal storage solution system is disclosed herein. The system includes an insulated container having a thermal storage medium, a heating element configured to heat the thermal storage medium, a heat receiving unit (e.g., thermophotovoltaic (TPV) heat engine, heat transfer fluid, an industrial process component) configured to convert heat into electric energy, and a mechanism configured to control a view factor between the thermal storage medium and the heat engine. In another embodiment, the system includes multiple thermal storage media as unit cells in a single enclosure or container with insulation between adjacent unit cells.",
+      "publicationNumber": "US20220412228",
+      "publicationDate": "2022-12-29",
+      "assignee": [
+        "Antora Energy, Inc."
+      ],
+      "inventors": [
+        "Andrew Joseph Ponec",
+        "Justin Briggs",
+        "David Bierman",
+        "Sam Kortz"
+      ],
+      "applicationDate": "2022-06-23",
+      "claimsCount": 29,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Engines, pumps, turbines"
+      ],
+      "score": 13.184019
+    },
+    {
+      "id": "US-11994347-B2",
+      "title": [
+        "Systems for managing thermal energy within a thermal storage solution"
+      ],
+      "abstract": "A thermal storage solution system is disclosed herein. The system includes an insulated container having a thermal storage medium, a heating element configured to heat the thermal storage medium, a heat receiving unit (e.g., thermophotovoltaic (TPV) heat engine, heat transfer fluid, an industrial process component) configured to convert heat into electric energy, and a mechanism configured to control a view factor between the thermal storage medium and the heat engine. In another embodiment, the system includes multiple thermal storage media as unit cells in a single enclosure or container with insulation between adjacent unit cells.",
+      "publicationNumber": "US11994347",
+      "publicationDate": "2024-05-28",
+      "assignee": [
+        "Antora Energy, Inc."
+      ],
+      "inventors": [
+        "Andrew Joseph Ponec",
+        "Justin Briggs",
+        "David Bierman",
+        "Sam Kortz"
+      ],
+      "applicationDate": "2022-06-23",
+      "claimsCount": 29,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Engines, pumps, turbines",
+        "Thermal processes and apparatus"
+      ],
+      "score": 13.184019
+    },
+    {
+      "id": "KR-20240039122-A",
+      "title": [
+        "\uc5f4 \uc800\uc7a5 \uc194\ub8e8\uc158 \ub0b4\uc758 \uc11c\ube0c\uc2dc\uc2a4\ud15c \ubc0f \ubc29\ubc95"
+      ],
+      "abstract": "\uc5f4 \uc800\uc7a5 \uc194\ub8e8\uc158 \uc2dc\uc2a4\ud15c\uc774 \ubcf8\uc6d0\uc5d0 \uac1c\uc2dc\ub41c\ub2e4. \uc2dc\uc2a4\ud15c\uc740 \uc5f4 \uc800\uc7a5 \ub9e4\uccb4\ub97c \uac16\ub294 \uc808\uc5f0 \uc6a9\uae30, \uc5f4 \uc800\uc7a5 \ub9e4\uccb4\ub97c \uac00\uc5f4\ud558\ub3c4\ub85d \uad6c\uc131\ub41c \uac00\uc5f4 \uc694\uc18c, \uc5f4\uc744 \uc804\uae30 \uc5d0\ub108\uc9c0\ub85c \ubcc0\ud658\ud558\ub3c4\ub85d \uad6c\uc131\ub41c \uc5f4 \uc218\uc6a9 \uc720\ub2db(\uc608\ub97c \ub4e4\uc5b4, \uc5f4\uad11\uc804\uc9c0(TPV) \uc5f4 \uc5d4\uc9c4, \uc5f4\uc804\ub2ec \uc720\uccb4, \uc0b0\uc5c5 \uacf5\uc815 \uad6c\uc131\uc694\uc18c), \ubc0f \uc5f4 \uc800\uc7a5 \ub9e4\uccb4\uc640 \uc5f4 \uc5d4\uc9c4 \uc0ac\uc774\uc758 \ubdf0 \ud329\ud130\ub97c \uc81c\uc5b4\ud558\ub3c4\ub85d \uad6c\uc131\ub41c \uba54\ucee4\ub2c8\uc998\uc744 \ud3ec\ud568\ud55c\ub2e4. \ub2e4\ub978 \uc2e4\uc2dc\uc608\uc5d0\uc11c, \uc2dc\uc2a4\ud15c\uc740 \ub2e8\uc77c \uc778\ud074\ub85c\uc800 \ub610\ub294 \uc778\uc811\ud55c \ub2e8\uc704 \uc140 \uc0ac\uc774\uc5d0 \uc808\uc5f0\uccb4\uac00 \uc788\ub294 \ucee8\ud14c\uc774\ub108\uc5d0 \uc720\ub2db \uc140\ub85c\uc11c \ub2e4\uc218\uc758 \uc5f4 \uc800\uc7a5 \ub9e4\uccb4\ub97c \ud3ec\ud568\ud55c\ub2e4.",
+      "publicationNumber": "KR20240039122",
+      "publicationDate": "2024-03-26",
+      "assignee": [
+        "Antora Energy, Inc."
+      ],
+      "inventors": [
+        "PONEC ANDREW JOSEPH",
+        "BRIGGS JUSTIN",
+        "BIERMAN DAVID",
+        "KORTZ SAM"
+      ],
+      "applicationDate": "2022-06-24",
+      "claimsCount": 29,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Engines, pumps, turbines",
+        "Solar energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 12.926617
+    },
+    {
+      "id": "US-20230396206-A1",
+      "title": [
+        "LAYERED WINDOW IN THERMOPHOTOVOLTAIC DEVICES"
+      ],
+      "abstract": "A layered window in thermophotovoltaic (TPV) devices is disclosed herein. The device may include two or more front window layers, including an outer front window layer nearest the light source that is thin and highly doped and a lower doped inner front window layer nearest a TPV absorber layer. In some embodiments, there may be additional front window layers between the outer front window layer and the inner front window layer. In some embodiments, the TPV device also may include a front contact, a back contact, and other components.",
+      "publicationNumber": "US20230396206",
+      "publicationDate": "2023-12-07",
+      "assignee": [
+        "Antora Energy, Inc."
+      ],
+      "inventors": [
+        "Brendan M. KAYES",
+        "Leah Y. Kuritzky",
+        "Emmett E. Perl",
+        "Tarun C. Narayan",
+        "Justin A. Briggs",
+        "Myles Aaron Steiner",
+        "Eric James Tervo",
+        "Madhan Kumar Arulanandam",
+        "Richard R. King"
+      ],
+      "applicationDate": "2023-06-02",
+      "claimsCount": 24,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Solar energy"
+      ],
+      "score": 12.903303
+    },
+    {
+      "id": "US-12359847-B2",
+      "title": [
+        "System for optimizing thermal energy generation from multiple energy sources"
+      ],
+      "abstract": "The present invention is directed to a system for generating thermal energy from different energy sources, having a combustion-powered thermal energy source, an electric-powered thermal energy source, a steam distribution system, and a controller. The combustion-powered thermal energy source and the electric-powered each having a plurality of sensors. The controller is configured to actuate either or both of the energy sources based at least in part on information received from one or more of the plurality of sensors.",
+      "publicationNumber": "US12359847",
+      "publicationDate": "2025-07-15",
+      "assignee": [
+        "Antora Energy, Inc."
+      ],
+      "inventors": [
+        "Jordan Kearns",
+        "Christian Fitch BRIERE"
+      ],
+      "applicationDate": "2023-09-28",
+      "claimsCount": 20,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Control",
+        "Engines, pumps, turbines",
+        "IT methods for management",
+        "Thermal processes and apparatus"
+      ],
+      "score": 12.657837
+    },
+    {
+      "id": "US-11809153-B1",
+      "title": [
+        "System for optimizing thermal energy generation from multiple energy sources"
+      ],
+      "abstract": "The present invention is directed to a system for generating thermal energy from different energy sources, having a combustion-powered thermal energy source, an electric-powered thermal energy source, a steam distribution system, and a controller. The combustion-powered thermal energy source and the electric-powered each having a plurality of sensors. The controller is configured to actuate either or both of the energy sources based at least in part on information received from one or more of the plurality of sensors.",
+      "publicationNumber": "US11809153",
+      "publicationDate": "2023-11-07",
+      "assignee": [
+        "Antora Energy, Inc."
+      ],
+      "inventors": [
+        "Jordan Kearns",
+        "Christian Fitch BRIERE"
+      ],
+      "applicationDate": "2022-03-29",
+      "claimsCount": 19,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Control",
+        "Engines, pumps, turbines",
+        "IT methods for management"
+      ],
+      "score": 12.657837
+    },
+    {
+      "id": "US-12424965-B2",
+      "title": [
+        "Layered window in thermophotovoltaic devices"
+      ],
+      "abstract": "A layered window in thermophotovoltaic (TPV) devices is disclosed herein. The device may include two or more front window layers, including an outer front window layer nearest the light source that is thin and highly doped and a lower doped inner front window layer nearest a TPV absorber layer. In some embodiments, there may be additional front window layers between the outer front window layer and the inner front window layer. In some embodiments, the TPV device also may include a front contact, a back contact, and other components.",
+      "publicationNumber": "US12424965",
+      "publicationDate": "2025-09-23",
+      "assignee": [
+        "Antora Energy, Inc."
+      ],
+      "inventors": [
+        "Brendan M. KAYES",
+        "Leah Y. Kuritzky",
+        "Emmett E. Perl",
+        "Tarun C. Narayan",
+        "Justin A. Briggs",
+        "Myles Aaron Steiner",
+        "Eric James Tervo",
+        "Madhan Kumar Arulanandam",
+        "Richard R. King"
+      ],
+      "applicationDate": "2023-06-02",
+      "claimsCount": 23,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Semiconductors",
+        "Solar energy"
+      ],
+      "score": 10.518977
+    }
+  ]
+}

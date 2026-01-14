@@ -1,0 +1,1187 @@
+{
+  "count": 45,
+  "numFound": 45,
+  "docs": [
+    {
+      "id": "WO-2023056098-A3",
+      "title": [
+        "TARGETED OUTPUT WITHIN AN AUTOMATED AGRICULTURAL FACILITY"
+      ],
+      "abstract": "In one embodiment, computer system may perform a set of measurements of the plant module and determine, using a plant model based on the set of measurements, a first predicted harvest time and/or yield of the plant module for a first set of growth inputs being currently provided to the plant module. In one embodiment, the computer system may determine the first predicted harvest time is outside of a target harvest time corresponding to a delivery of the plant module and/or that the first predicted harvest yield will not satisfy the target harvest yield. The computer system may determine, using the plant model, a second set of growth inputs for which a second predicted harvest time is within the target harvest time. The computer system may cause the second set of growth inputs to be provided to the plant module.",
+      "publicationNumber": "WO2023056098",
+      "publicationDate": "2023-05-11",
+      "assignee": [
+        "IRON OX, INC."
+      ],
+      "inventors": [
+        "PETER CHENG",
+        "Martha Patricia ROMERO LUNA",
+        "Sarah OSENTOSKI"
+      ],
+      "applicationDate": "2022-10-03",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "IT methods for management",
+        "Other special machines"
+      ],
+      "score": 15.946065
+    },
+    {
+      "id": "WO-2023056098-A2",
+      "title": [
+        "TARGETED OUTPUT WITHIN AN AUTOMATED AGRICULTURAL FACILITY"
+      ],
+      "abstract": "In one embodiment, computer system may perform a set of measurements of the plant module and determine, using a plant model based on the set of measurements, a first predicted harvest time and/or yield of the plant module for a first set of growth inputs being currently provided to the plant module. In one embodiment, the computer system may determine the first predicted harvest time is outside of a target harvest time corresponding to a delivery of the plant module and/or that the first predicted harvest yield will not satisfy the target harvest yield. The computer system may determine, using the plant model, a second set of growth inputs for which a second predicted harvest time is within the target harvest time. The computer system may cause the second set of growth inputs to be provided to the plant module.",
+      "publicationNumber": "WO2023056098",
+      "publicationDate": "2023-04-06",
+      "assignee": [
+        "IRON OX, INC."
+      ],
+      "inventors": [
+        "PETER CHENG",
+        "Martha Patricia ROMERO LUNA",
+        "Sarah OSENTOSKI"
+      ],
+      "applicationDate": "2022-10-03",
+      "claimsCount": 32,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Computer technology",
+        "IT methods for management"
+      ],
+      "score": 15.946065
+    },
+    {
+      "id": "WO-2023056099-A1",
+      "title": [
+        "DISTRIBUTING PLANTS WITHIN AN AUTOMATED AGRICULTURAL FACILITY"
+      ],
+      "abstract": "A computer system may determine a. growth map of plant module placement that most closely matches target growth inputs for multiple plant modules based on the predicted growth input of the grow location, lire growth may be determined by testing simulated plant modules at various simulated locations to determine a score based, on a difference between the target growth input of those simulated plant modules and predicted growth inputs for the various simulated locations. The computer system may assign the grow locations according to those locations based, on the score to determine the growth map. In addition or alternatively, a plant may be relocated to a. new location based on improvement in the predicted growth performance for measured or predicted conditions at the new location.",
+      "publicationNumber": "WO2023056099",
+      "publicationDate": "2023-04-06",
+      "assignee": [
+        "IRON OX, INC."
+      ],
+      "inventors": [
+        "PETER CHENG",
+        "Martha Patricia ROMERO LUNA",
+        "Sarah OSENTOSKI"
+      ],
+      "applicationDate": "2022-10-03",
+      "claimsCount": 23,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 15.638704
+    },
+    {
+      "id": "WO-2023003781-A1",
+      "title": [
+        "SYSTEM AND METHOD FOR AUTOMATING TRANSFER OF PLANTS WITHIN AN AGRICULTURAL FACILITY"
+      ],
+      "abstract": "One variation of a method for automating transfer of plants within an agricultural facility includes: dispatching a loader to autonomously deliver a first module \u2013 defining a first array of plant slots at a first density and loaded with a first set of plants at a first growth stage \u2013 from a first grow location within an agricultural facility to a transfer station within the agricultural facility; dispatching the loader to autonomously deliver a second module \u2013 defining a second array of plant slots at a second density less than the first density and empty of plants \u2013 to the transfer station; recording a module-level optical scan of the first module; extracting a viability parameter of the first set of plants from features detected in the module-level optical scan; and if the viability parameter falls outside of a target viability range, rejecting transfer of the first set of plants from the first module.",
+      "publicationNumber": "WO2023003781",
+      "publicationDate": "2023-01-26",
+      "assignee": [
+        "IRON OX, INC."
+      ],
+      "inventors": [
+        "Brandon Ace Alexander",
+        "Jonathan BINNEY",
+        "Winnie DING",
+        "BIANCA HOMBERG",
+        "Warren Huffman",
+        "Thomas KENDALL",
+        "Saqib NAVEED",
+        "PETER TURNER",
+        "Adrian CANOSO",
+        "Ansgar Lorenz"
+      ],
+      "applicationDate": "2022-07-15",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "IT methods for management",
+        "Other special machines"
+      ],
+      "score": 15.638704
+    },
+    {
+      "id": "WO-2023003760-A1",
+      "title": [
+        "APPARATUS FOR CONTROL AND DISTRIBUTION OF NUTRIATED WATER IN AN AUTOMATED AGRICULTURAL FACILITY"
+      ],
+      "abstract": "A dosing station comprises a receiving area for receiving a module and a sampling system for acquiring water from the module, analyzing the water and determining a refill recipe based on one or more parameters of the water. The dosing station includes a nutrient dispenser arranged to dispense at least one nutrient into the module according to the refill recipe. The recipe can be based on the type of plants in the module, the age of the plant and/or the physical condition of the plants. The dosing station can change refill recipes for each module within an agricultural facility based on one or more parameters to optimize the nutrient supply for all plants within the agricultural facility.",
+      "publicationNumber": "WO2023003760",
+      "publicationDate": "2023-01-26",
+      "assignee": [
+        "IRON OX, INC."
+      ],
+      "inventors": [
+        "Melissa SOBRADO PAULY",
+        "Saqib NAVEED",
+        "Thomas KENDALL",
+        "Sam WALTERS"
+      ],
+      "applicationDate": "2022-07-15",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Other special machines"
+      ],
+      "score": 15.638704
+    },
+    {
+      "id": "WO-2018119407-A1",
+      "title": [
+        "SYSTEM AND METHOD FOR AUTOMATING TRANSFER OF PLANTS WITHIN AN AGRICULTURAL FACILITY"
+      ],
+      "abstract": "One variation of a method for automating transfer of plants within an agricultural facility includes: dispatching a loader to autonomously deliver a first module - defining a first array of plant slots at a first density and loaded with a first set of plants at a first growth stage - from a first grow location within an agricultural facility to a transfer station within the agricultural facility; dispatching the loader to autonomously deliver a second module - defining a second array of plant slots at a second density less than the first density and empty of plants - to the transfer station; recording a module-level optical scan of the first module; extracting a viability parameter of the first set of plants from features detected in the module-level optical scan; and if the viability parameter falls outside of a target viability range, rejecting transfer of the first set of plants from the first module.",
+      "publicationNumber": "WO2018119407",
+      "publicationDate": "2018-06-28",
+      "assignee": [
+        "IRON OX, INC."
+      ],
+      "inventors": [
+        "Brandon, Ace ALEXANDER",
+        "Jonathan BINNEY"
+      ],
+      "applicationDate": "2017-12-22",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Handling",
+        "Other special machines"
+      ],
+      "score": 15.638704
+    },
+    {
+      "id": "EP-3557970-A4",
+      "title": [
+        "SYSTEM AND METHOD FOR AUTOMATING TRANSFER OF PLANTS WITHIN AN AGRICULTURAL FACILITY"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP3557970",
+      "publicationDate": "2020-07-29",
+      "assignee": [
+        "Iron Ox, Inc."
+      ],
+      "inventors": [
+        "Brandon, Ace ALEXANDER",
+        "Jonathan BINNEY"
+      ],
+      "applicationDate": "2017-12-22",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Handling",
+        "Other special machines"
+      ],
+      "score": 15.638704
+    },
+    {
+      "id": "EP-3557970-A1",
+      "title": [
+        "SYSTEM AND METHOD FOR AUTOMATING TRANSFER OF PLANTS WITHIN AN AGRICULTURAL FACILITY"
+      ],
+      "abstract": "One variation of a method for automating transfer of plants within an agricultural facility includes: dispatching a loader to autonomously deliver a first module - defining a first array of plant slots at a first density and loaded with a first set of plants at a first growth stage - from a first grow location within an agricultural facility to a transfer station within the agricultural facility; dispatching the loader to autonomously deliver a second module - defining a second array of plant slots at a second density less than the first density and empty of plants - to the transfer station; recording a module-level optical scan of the first module; extracting a viability parameter of the first set of plants from features detected in the module-level optical scan; and if the viability parameter falls outside of a target viability range, rejecting transfer of the first set of plants from the first module.",
+      "publicationNumber": "EP3557970",
+      "publicationDate": "2019-10-30",
+      "assignee": [
+        "Iron Ox, Inc."
+      ],
+      "inventors": [
+        "Brandon, Ace ALEXANDER",
+        "Jonathan BINNEY"
+      ],
+      "applicationDate": "2017-12-22",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Handling",
+        "Other special machines"
+      ],
+      "score": 15.638704
+    },
+    {
+      "id": "WO-2023003770-A1",
+      "title": [
+        "SYSTEM AND METHOD FOR PROPAGATING SEEDS TO SEEDLINGS WITHIN AN AGRICULTURAL FACILITY"
+      ],
+      "abstract": "A system and method for propagating seeds to seedlings within an agricultural facility. Some embodiments pertain to an integrated system that provides automated lighting and flooding of plants throughout the propagation process. Nutrient-rich water can be delivered by the system under flexible software control over water flow, nutrient content and scheduling. The system can include various sensors and a controller that can monitor the conditions under which seeds are propagated to seedlings in the system and self-adjust the conditions, when necessary or appropriate, in accordance with propagation schedules that can be set by an operator or by the system based on the type of plant(s) grown at different locations within the system.",
+      "publicationNumber": "WO2023003770",
+      "publicationDate": "2023-01-26",
+      "assignee": [
+        "IRON OX, INC."
+      ],
+      "inventors": [
+        "Thomas KENDALL",
+        "Saqib NAVEED",
+        "Winnie DING",
+        "PETER TURNER",
+        "Lola SIBOLDI"
+      ],
+      "applicationDate": "2022-07-15",
+      "claimsCount": 22,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Other special machines"
+      ],
+      "score": 15.526617
+    },
+    {
+      "id": "WO-2018132814-A1",
+      "title": [
+        "METHOD FOR AUTOMATICALLY REDISTRIBUTING PLANTS THROUGHOUT AN AGRICULTURAL FACILITY"
+      ],
+      "abstract": "One variation of a method for automatically redistributing plants throughout an agricultural facility includes, at a mobile robotic system: delivering a first module - defining a first array of plant slots at a first density and loaded with a first set of plants in approximately a second growth stage - from a grow area within a facility to a transfer station within the facility; delivering a second module - located within the facility and defining a second array of plant slots at a second density less than the first density - to the transfer station; and following transfer of a first subset of plants from the first array of plant slots in the first module into the second array of plant slots in the second module at the transfer station, delivering the second module to the grow area in the facility.",
+      "publicationNumber": "WO2018132814",
+      "publicationDate": "2018-07-19",
+      "assignee": [
+        "IRON OX, INC."
+      ],
+      "inventors": [
+        "Brandon, Ace ALEXANDER",
+        "Jonathan BINNEY"
+      ],
+      "applicationDate": "2018-01-16",
+      "claimsCount": 20,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 15.526617
+    },
+    {
+      "id": "EP-3568748-A4",
+      "title": [
+        "METHOD FOR AUTOMATICALLY REDISTRIBUTING PLANTS THROUGHOUT AN AGRICULTURAL FACILITY"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP3568748",
+      "publicationDate": "2020-07-29",
+      "assignee": [
+        "Iron Ox, Inc."
+      ],
+      "inventors": [
+        "Brandon, Ace ALEXANDER",
+        "Jonathan BINNEY"
+      ],
+      "applicationDate": "2018-01-16",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Computer technology",
+        "Handling",
+        "Other special machines"
+      ],
+      "score": 15.526617
+    },
+    {
+      "id": "EP-3568748-A1",
+      "title": [
+        "METHOD FOR AUTOMATICALLY REDISTRIBUTING PLANTS THROUGHOUT AN AGRICULTURAL FACILITY"
+      ],
+      "abstract": "One variation of a method for automatically redistributing plants throughout an agricultural facility includes, at a mobile robotic system: delivering a first module - defining a first array of plant slots at a first density and loaded with a first set of plants in approximately a second growth stage - from a grow area within a facility to a transfer station within the facility; delivering a second module - located within the facility and defining a second array of plant slots at a second density less than the first density - to the transfer station; and following transfer of a first subset of plants from the first array of plant slots in the first module into the second array of plant slots in the second module at the transfer station, delivering the second module to the grow area in the facility.",
+      "publicationNumber": "EP3568748",
+      "publicationDate": "2019-11-20",
+      "assignee": [
+        "Iron Ox, Inc."
+      ],
+      "inventors": [
+        "Brandon, Ace ALEXANDER",
+        "Jonathan BINNEY"
+      ],
+      "applicationDate": "2018-01-16",
+      "claimsCount": 20,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 15.526617
+    },
+    {
+      "id": "CN-110325032-A",
+      "title": [
+        "\u7528\u4e8e\u5728\u519c\u4e1a\u8bbe\u65bd\u5185\u81ea\u52a8\u8f6c\u79fb\u690d\u7269\u7684\u7cfb\u7edf\u548c\u65b9\u6cd5"
+      ],
+      "abstract": "\u7528\u4e8e\u5728\u519c\u4e1a\u8bbe\u65bd\u5185\u81ea\u52a8\u8f6c\u79fb\u690d\u7269\u7684\u65b9\u6cd5\u7684\u4e00\u79cd\u53d8\u578b\u5305\u62ec\uff1a\u5206\u6d3e\u88c5\u8f7d\u673a\u5c06\u7b2c\u4e00\u6a21\u5757\u4ece\u519c\u4e1a\u8bbe\u65bd\u5185\u7684\u7b2c\u4e00\u751f\u957f\u4f4d\u7f6e\u81ea\u4e3b\u5730\u8f93\u9001\u5230\u519c\u4e1a\u8bbe\u65bd\u5185\u7684\u8f6c\u8fd0\u7ad9\uff0c\u6240\u8ff0\u7b2c\u4e00\u6a21\u5757\u4ee5\u7b2c\u4e00\u5bc6\u5ea6\u9650\u5b9a\u690d\u7269\u69fd\u7684\u7b2c\u4e00\u9635\u5217\uff0c\u5e76\u4e14\u88c5\u8f7d\u6709\u5728\u7b2c\u4e00\u751f\u957f\u9636\u6bb5\u7684\u7b2c\u4e00\u7ec4\u690d\u7269\uff1b\u5206\u6d3e\u88c5\u8f7d\u673a\u5c06\u7b2c\u4e8c\u6a21\u5757\u81ea\u4e3b\u5730\u8f93\u9001\u5230\u8f6c\u8fd0\u7ad9\uff0c\u6240\u8ff0\u7b2c\u4e8c\u6a21\u5757\u4ee5\u5c0f\u4e8e\u7b2c\u4e00\u5bc6\u5ea6\u7684\u7b2c\u4e8c\u5bc6\u5ea6\u9650\u5b9a\u690d\u7269\u69fd\u7684\u7b2c\u4e8c\u9635\u5217\uff0c\u5e76\u4e14\u6ca1\u6709\u690d\u7269\uff1b\u8bb0\u5f55\u7b2c\u4e00\u6a21\u5757\u7684\u6a21\u5757\u7ea7\u5149\u5b66\u626b\u63cf\uff1b\u4ece\u6a21\u5757\u7ea7\u5149\u5b66\u626b\u63cf\u4e2d\u68c0\u6d4b\u7684\u7279\u5f81\u63d0\u53d6\u7b2c\u4e00\u7ec4\u690d\u7269\u7684\u6210\u6d3b\u529b\u53c2\u6570\uff1b\u5e76\u4e14\u5982\u679c\u6210\u6d3b\u529b\u53c2\u6570\u843d\u5728\u76ee\u6807\u6210\u6d3b\u529b\u8303\u56f4\u4e4b\u5916\uff0c\u5219\u62d2\u7edd\u4ece\u7b2c\u4e00\u6a21\u5757\u8f6c\u79fb\u7b2c\u4e00\u7ec4\u690d\u7269\u3002",
+      "publicationNumber": "CN110325032",
+      "publicationDate": "2019-10-11",
+      "assignee": [
+        "Iron ox company"
+      ],
+      "inventors": [
+        "Brandon Ace Alexander",
+        "Bai wen han"
+      ],
+      "applicationDate": "2017-12-22",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Handling",
+        "Other special machines"
+      ],
+      "score": 15.080975
+    },
+    {
+      "id": "US-20220007589-A1",
+      "title": [
+        "METHOD FOR MONITORING GROWTH OF PLANTS AND GENERATING A PLANT GROW SCHEDULE"
+      ],
+      "abstract": "One variation of a method for monitoring growth of plants within a facility includes: aggregating global ambient data recorded by a suite of fixed sensors, arranged proximal a grow area within the facility, at a first frequency during a grow period; extracting intermediate outcomes of a set of plants, occupying a module in the grow area, from module-level images recorded by a mover at a second frequency less than the first frequency while interfacing with the module during the period of time; dispatching the mover to autonomously deliver the module to a transfer station; extracting intermediate outcomes of the set of plants from plant-level images recorded by the transfer station while sequentially transferring plants out of the module at the conclusion of the grow period; and deriving relationships between ambient conditions, intermediate outcomes, and final outcomes from a corpus of plant records associated with plants grown in the facility.",
+      "publicationNumber": "US20220007589",
+      "publicationDate": "2022-01-13",
+      "assignee": [
+        "IRON OX, INC."
+      ],
+      "inventors": [
+        "Jonathan Binney",
+        "Winnie Ding",
+        "Peter Cheng",
+        "Paty Romano",
+        "Jamie Young",
+        "Sarah Osentoski"
+      ],
+      "applicationDate": "2021-07-23",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Analysis of biological materials",
+        "Computer technology",
+        "Control",
+        "Handling",
+        "Other special machines"
+      ],
+      "score": 14.219997
+    },
+    {
+      "id": "US-20210150208-A1",
+      "title": [
+        "METHOD FOR SELECTIVELY DEPLOYING SENSORS WITHIN AN AGRICULTURAL FACILITY"
+      ],
+      "abstract": "One variation of a method for deploying sensors within an agricultural facility includes: accessing scan data of a set of modules deployed within the agricultural facility; extracting characteristics of plants occupying the set of modules from the scan data; selecting a first subset of target modules from the set of modules, each target module in the set of target modules containing a group of plants exhibiting characteristics representative of plants occupying modules neighboring the target module; for each target module, scheduling a robotic manipulator within the agricultural facility to remove a particular plant from a particular plant slot in the target module and load the particular plant slot with a sensor pod from a population of sensor pods deployed in the agricultural facility; and monitoring environmental conditions at target modules in the first subset of target modules based on sensor data recorded by the first population of sensor pods.",
+      "publicationNumber": "US20210150208",
+      "publicationDate": "2021-05-20",
+      "assignee": [
+        "IRON OX, INC."
+      ],
+      "inventors": [
+        "Winnie Ding",
+        "Jonathan Binney",
+        "Brandon Ace Alexander",
+        "Nicole Bergelin"
+      ],
+      "applicationDate": "2021-01-25",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology",
+        "Control",
+        "Other special machines"
+      ],
+      "score": 14.219997
+    },
+    {
+      "id": "US-20210007287-A1",
+      "title": [
+        "METHOD FOR MONITORING GROWTH OF PLANTS AND GENERATING A PLANT GROW SCHEDULE"
+      ],
+      "abstract": "One variation of a method for monitoring growth of plants within a facility includes: aggregating global ambient data recorded by a suite of fixed sensors, arranged proximal a grow area within the facility, at a first frequency during a grow period; extracting interim outcomes of a set of plants, occupying a module in the grow area, from module-level images recorded by a mover at a second frequency less than the first frequency while interfacing with the module during the period of time; dispatching the mover to autonomously deliver the module to a transfer station; extracting interim outcomes of the set of plants from plant-level images recorded by the transfer station while sequentially transferring plants out of the module at the conclusion of the grow period; and deriving relationships between ambient conditions, interim outcomes, and final outcomes from a corpus of plant records associated with plants grown in the facility.",
+      "publicationNumber": "US20210007287",
+      "publicationDate": "2021-01-14",
+      "assignee": [
+        "IRON OX, INC."
+      ],
+      "inventors": [
+        "Brandon Ace Alexander",
+        "Jonathan Binney",
+        "Winnie Ding",
+        "Zachary Wielgosz"
+      ],
+      "applicationDate": "2020-09-22",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Analysis of biological materials",
+        "Computer technology",
+        "Control",
+        "Handling",
+        "Other special machines"
+      ],
+      "score": 14.219997
+    },
+    {
+      "id": "US-20200012852-A1",
+      "title": [
+        "METHOD FOR SELECTIVELY DEPLOYING SENSORS WITHIN AN AGRICULTURAL FACILITY"
+      ],
+      "abstract": "One variation of a method for deploying sensors within an agricultural facility includes: accessing scan data of a set of modules deployed within the agricultural facility; extracting characteristics of plants occupying the set of modules from the scan data; selecting a first subset of target modules from the set of modules, each target module in the set of target modules containing a group of plants exhibiting characteristics representative of plants occupying modules neighboring the target module; for each target module, scheduling a robotic manipulator within the agricultural facility to remove a particular plant from a particular plant slot in the target module and load the particular plant slot with a sensor pod from a population of sensor pods deployed in the agricultural facility; and monitoring environmental conditions at target modules in the first subset of target modules based on sensor data recorded by the first population of sensor pods.",
+      "publicationNumber": "US20200012852",
+      "publicationDate": "2020-01-09",
+      "assignee": [
+        "IRON OX, INC."
+      ],
+      "inventors": [
+        "Winnie Ding",
+        "Jonathan Binney",
+        "Brandon Ace Alexander",
+        "Nicole Bergelin"
+      ],
+      "applicationDate": "2019-07-05",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology",
+        "Control",
+        "Other special machines"
+      ],
+      "score": 14.219997
+    },
+    {
+      "id": "US-20180295783-A1",
+      "title": [
+        "METHOD FOR MONITORING GROWTH OF PLANTS AND GENERATING A PLANT GROW SCHEDULE"
+      ],
+      "abstract": "One variation of method for monitoring growth of plants within a facility includes: aggregating global ambient data recorded by a suite of fixed sensors, arranged proximal a grow area within the facility, at a first frequency during a grow period; extracting interim outcomes of a set of plants, occupying a module in the grow area, from module-level images recorded by a mover at a second frequency less than the first frequency while interfacing with the module during the period of time; dispatching the mover to autonomously deliver the module to a transfer station; extracting interim outcomes of the set of plants from plant-level images recorded by the transfer station while sequentially transferring plants out of the module at the conclusion of the grow period; and deriving relationships between ambient conditions, interim outcomes, and final outcomes from a corpus of plant records associated with plants grown in the facility.",
+      "publicationNumber": "US20180295783",
+      "publicationDate": "2018-10-18",
+      "assignee": [
+        "IRON OX, INC."
+      ],
+      "inventors": [
+        "Brandon Ace Alexander",
+        "Jonathan Binney",
+        "Winnie Ding",
+        "Zachary Wielgosz"
+      ],
+      "applicationDate": "2018-04-17",
+      "claimsCount": 21,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Computer technology",
+        "Control",
+        "Handling",
+        "Other special machines"
+      ],
+      "score": 14.219997
+    },
+    {
+      "id": "US-20220007590-A1",
+      "title": [
+        "SYSTEM AND METHOD FOR AUTOMATING TRANSFER OF PLANTS WITHIN AN AGRICULTURAL FACILITY"
+      ],
+      "abstract": "One variation of a method for automating transfer of plants within an agricultural facility includes: dispatching a loader to autonomously deliver a first module\u2014defining a first array of plant slots at a first density and loaded with a first set of plants at a first growth stage\u2014from a first grow location within an agricultural facility to a transfer station within the agricultural facility; dispatching the loader to autonomously deliver a second module\u2014defining a second array of plant slots at a second density less than the first density and empty of plants\u2014to the transfer station; recording a module-level optical scan of the first module; extracting a viability parameter of the first set of plants from features detected in the module-level optical scan; and if the viability parameter falls outside of a target viability range, rejecting transfer of the first set of plants from the first module.",
+      "publicationNumber": "US20220007590",
+      "publicationDate": "2022-01-13",
+      "assignee": [
+        "IRON OX, INC."
+      ],
+      "inventors": [
+        "Brandon Ace Alexander",
+        "Jonathan Binney",
+        "Winnie Ding",
+        "Bianca Homberg",
+        "Warren Huffman",
+        "Tom Kendall",
+        "Saqib Naveed",
+        "Pete Turner",
+        "Adrian Canoso",
+        "Ansgar Lorenz"
+      ],
+      "applicationDate": "2021-07-23",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Control",
+        "Handling",
+        "Other special machines"
+      ],
+      "score": 14.161642
+    },
+    {
+      "id": "US-20210105951-A1",
+      "title": [
+        "METHOD FOR AUTOMATING TRANSFER OF PLANTS WITHIN AN AGRICULTURAL FACILITY"
+      ],
+      "abstract": "One variation of a method for automating transfer of plants within an agricultural facility includes: dispatching a loader to autonomously deliver a first module\u2014defining a first array of plant slots at a first density and loaded with a first set of plants at a first growth stage\u2014from a first grow location within an agricultural facility to a transfer station within the agricultural facility; dispatching the loader to autonomously deliver a second module\u2014defining a second array of plant slots at a second density less than the first density and empty of plants\u2014to the transfer station; recording a module-level optical scan of the first module; extracting a viability parameter of the first set of plants from features detected in the module-level optical scan; and if the viability parameter falls outside of a target viability range, rejecting transfer of the first set of plants from the first module.",
+      "publicationNumber": "US20210105951",
+      "publicationDate": "2021-04-15",
+      "assignee": [
+        "IRON OX, INC."
+      ],
+      "inventors": [
+        "Brandon Ace Alexander",
+        "Jonathan Binney"
+      ],
+      "applicationDate": "2020-12-21",
+      "claimsCount": 3,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Control",
+        "Handling",
+        "Other special machines"
+      ],
+      "score": 14.161642
+    },
+    {
+      "id": "US-20200187425-A1",
+      "title": [
+        "System and method for automating transfer of plants within an agricultural facility"
+      ],
+      "abstract": "One variation of a method for automating transfer of plants within an agricultural facility includes: dispatching a loader to autonomously deliver a first module\u2014defining a first array of plant slots at a first density and loaded with a first set of plants at a first growth stage\u2014from a first grow location within an agricultural facility to a transfer station within the agricultural facility; dispatching the loader to autonomously deliver a second module\u2014defining a second array of plant slots at a second density less than the first density and empty of plants\u2014to the transfer station; recording a module-level optical scan of the first module; extracting a viability parameter of the first set of plants from features detected in the module-level optical scan; and if the viability parameter falls outside of a target viability range, rejecting transfer of the first set of plants from the first module.",
+      "publicationNumber": "US20200187425",
+      "publicationDate": "2020-06-18",
+      "assignee": [
+        "IRON OX, INC."
+      ],
+      "inventors": [
+        "Brandon Ace Alexander",
+        "Jonathan Binney"
+      ],
+      "applicationDate": "2019-12-02",
+      "claimsCount": 1,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Control",
+        "Handling",
+        "Other special machines"
+      ],
+      "score": 14.161642
+    },
+    {
+      "id": "US-20190313583-A1",
+      "title": [
+        "METHOD FOR AUTOMATING TRANSFER OF PLANTS WITHIN AN AGRICULTURAL FACILITY"
+      ],
+      "abstract": "One variation of a method for automating transfer of plants within an agricultural facility includes: dispatching a loader to autonomously deliver a first module\u2014defining a first array of plant slots at a first density and loaded with a first set of plants at a first growth stage\u2014from a first grow location within an agricultural facility to a transfer station within the agricultural facility; dispatching the loader to autonomously deliver a second module\u2014defining a second array of plant slots at a second density less than the first density and empty of plants\u2014to the transfer station; recording a module-level optical scan of the first module; extracting a viability parameter of the first set of plants from features detected in the module-level optical scan; and if the viability parameter falls outside of a target viability range, rejecting transfer of the first set of plants from the first module.",
+      "publicationNumber": "US20190313583",
+      "publicationDate": "2019-10-17",
+      "assignee": [
+        "IRON OX, INC."
+      ],
+      "inventors": [
+        "Brandon Ace Alexander",
+        "Jonathan Binney"
+      ],
+      "applicationDate": "2019-06-28",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Control",
+        "Handling",
+        "Other special machines"
+      ],
+      "score": 14.161642
+    },
+    {
+      "id": "US-20190150369-A1",
+      "title": [
+        "METHOD FOR AUTOMATING TRANSFER OF PLANTS WITHIN AN AGRICULTURAL FACILITY"
+      ],
+      "abstract": "One variation of a method for automating transfer of plants within an agricultural facility includes: dispatching a loader to autonomously deliver a first module\u2014defining a first array of plant slots at a first density and loaded with a first set of plants at a first growth stage\u2014from a first grow location within an agricultural facility to a transfer station within the agricultural facility; dispatching the loader to autonomously deliver a second module\u2014defining a second array of plant slots at a second density less than the first density and empty of plants\u2014to the transfer station; recording a module-level optical scan of the first module; extracting a viability parameter of the first set of plants from features detected in the module-level optical scan; and if the viability parameter falls outside of a target viability range, rejecting transfer of the first set of plants from the first module.",
+      "publicationNumber": "US20190150369",
+      "publicationDate": "2019-05-23",
+      "assignee": [
+        "IRON OX, INC."
+      ],
+      "inventors": [
+        "Brandon Ace Alexander",
+        "Jonathan Binney"
+      ],
+      "applicationDate": "2019-01-28",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Control",
+        "Handling",
+        "Other special machines"
+      ],
+      "score": 14.161642
+    },
+    {
+      "id": "US-20190000019-A1",
+      "title": [
+        "METHOD FOR AUTOMATING TRANSFER OF PLANTS WITHIN AN AGRICULTURAL FACILITY"
+      ],
+      "abstract": "One variation of a method for automating transfer of plants within an agricultural facility includes: dispatching a loader to autonomously deliver a first module\u2014defining a first array of plant slots at a first density and loaded with a first set of plants at a first growth stage\u2014from a first grow location within an agricultural facility to a transfer station within the agricultural facility; dispatching the loader to autonomously deliver a second module\u2014defining a second array of plant slots at a second density less than the first density and empty of plants\u2014to the transfer station; recording a module-level optical scan of the first module; extracting a viability parameter of the first set of plants from features detected in the module-level optical scan; and if the viability parameter falls outside of a target viability range, rejecting transfer of the first set of plants from the first module.",
+      "publicationNumber": "US20190000019",
+      "publicationDate": "2019-01-03",
+      "assignee": [
+        "IRON OX, INC."
+      ],
+      "inventors": [
+        "Brandon Ace Alexander",
+        "Jonathan Binney"
+      ],
+      "applicationDate": "2017-12-22",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Control",
+        "Handling",
+        "Other special machines"
+      ],
+      "score": 14.161642
+    },
+    {
+      "id": "US-20200296902-A1",
+      "title": [
+        "METHOD FOR AUTOMATICALLY REDISTRIBUTING PLANTS THROUGHOUT AN AGRICULTURAL FACILITY"
+      ],
+      "abstract": "One variation of a method for automatically redistributing plants throughout an agricultural facility includes, at a mobile robotic system: delivering a first module\u2014defining a first array of plant slots at a first density and loaded with a first set of plants in approximately a second growth stage\u2014from a grow area within a facility to a transfer station within the facility; delivering a second module\u2014located within the facility and defining a second array of plant slots at a second density less than the first density\u2014to the transfer station; and following transfer of a first subset of plants from the first array of plant slots in the first module into the second array of plant slots in the second module at the transfer station, delivering the second module to the grow area in the facility.",
+      "publicationNumber": "US20200296902",
+      "publicationDate": "2020-09-24",
+      "assignee": [
+        "IRON OX, INC."
+      ],
+      "inventors": [
+        "Brandon Ace Alexander",
+        "Jonathan Binney"
+      ],
+      "applicationDate": "2020-06-11",
+      "claimsCount": 20,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Computer technology",
+        "Handling",
+        "Other special machines"
+      ],
+      "score": 14.0617285
+    },
+    {
+      "id": "US-20190021238-A1",
+      "title": [
+        "METHOD FOR AUTOMATICALLY REDISTRIBUTING PLANTS THROUGHOUT AN AGRICULTURAL FACILITY"
+      ],
+      "abstract": "One variation of a method for automatically redistributing plants throughout an agricultural facility includes, at a mobile robotic system: delivering a first module\u2014defining a first array of plant slots at a first density and loaded with a first set of plants in approximately a second growth stage\u2014from a grow area within a facility to a transfer station within the facility; delivering a second module\u2014located within the facility and defining a second array of plant slots at a second density less than the first density\u2014to the transfer station; and following transfer of a first subset of plants from the first array of plant slots in the first module into the second array of plant slots in the second module at the transfer station, delivering the second module to the grow area in the facility.",
+      "publicationNumber": "US20190021238",
+      "publicationDate": "2019-01-24",
+      "assignee": [
+        "IRON OX, INC."
+      ],
+      "inventors": [
+        "Brandon Ace Alexander",
+        "Jonathan Binney"
+      ],
+      "applicationDate": "2018-01-16",
+      "claimsCount": 20,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Handling",
+        "Other special machines"
+      ],
+      "score": 14.0617285
+    },
+    {
+      "id": "EP-3557970-B1",
+      "title": [
+        "METHOD FOR AUTOMATING TRANSFER OF PLANTS WITHIN AN AGRICULTURAL FACILITY"
+      ],
+      "abstract": "One variation of a method for automating transfer of plants within an agricultural facility includes: dispatching a loader to autonomously deliver a first module - defining a first array of plant slots at a first density and loaded with a first set of plants at a first growth stage - from a first grow location within an agricultural facility to a transfer station within the agricultural facility; dispatching the loader to autonomously deliver a second module - defining a second array of plant slots at a second density less than the first density and empty of plants - to the transfer station; recording a module-level optical scan of the first module; extracting a viability parameter of the first set of plants from features detected in the module-level optical scan; and if the viability parameter falls outside of a target viability range, rejecting transfer of the first set of plants from the first module.",
+      "publicationNumber": "EP3557970",
+      "publicationDate": "2021-06-23",
+      "assignee": [
+        "Iron Ox, Inc."
+      ],
+      "inventors": [
+        "Brandon Ace Alexander",
+        "Jonathan BINNEY"
+      ],
+      "applicationDate": "2017-12-22",
+      "claimsCount": 14,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Handling",
+        "Other special machines"
+      ],
+      "score": 14.049019
+    },
+    {
+      "id": "EP-3568748-B1",
+      "title": [
+        "METHOD FOR AUTOMATICALLY REDISTRIBUTING PLANTS THROUGHOUT AN AGRICULTURAL FACILITY"
+      ],
+      "abstract": "One variation of a method for automatically redistributing plants throughout an agricultural facility includes, at a mobile robotic system: delivering a first module - defining a first array of plant slots at a first density and loaded with a first set of plants in approximately a second growth stage - from a grow area within a facility to a transfer station within the facility; delivering a second module - located within the facility and defining a second array of plant slots at a second density less than the first density - to the transfer station; and following transfer of a first subset of plants from the first array of plant slots in the first module into the second array of plant slots in the second module at the transfer station, delivering the second module to the grow area in the facility.",
+      "publicationNumber": "EP3568748",
+      "publicationDate": "2023-01-11",
+      "assignee": [
+        "Iron Ox, Inc."
+      ],
+      "inventors": [
+        "Brandon, Ace ALEXANDER",
+        "Jonathan BINNEY"
+      ],
+      "applicationDate": "2018-01-16",
+      "claimsCount": 13,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Computer technology",
+        "Handling",
+        "Other special machines"
+      ],
+      "score": 13.949038
+    },
+    {
+      "id": "CN-110325032-B",
+      "title": [
+        "\u7528\u4e8e\u5728\u519c\u4e1a\u8bbe\u65bd\u5185\u81ea\u52a8\u8f6c\u79fb\u690d\u7269\u7684\u7cfb\u7edf\u548c\u65b9\u6cd5"
+      ],
+      "abstract": "\u7528\u4e8e\u5728\u519c\u4e1a\u8bbe\u65bd\u5185\u81ea\u52a8\u8f6c\u79fb\u690d\u7269\u7684\u65b9\u6cd5\u7684\u4e00\u79cd\u53d8\u578b\u5305\u62ec\uff1a\u5206\u6d3e\u88c5\u8f7d\u673a\u5c06\u7b2c\u4e00\u6a21\u5757\u4ece\u519c\u4e1a\u8bbe\u65bd\u5185\u7684\u7b2c\u4e00\u751f\u957f\u4f4d\u7f6e\u81ea\u4e3b\u5730\u8f93\u9001\u5230\u519c\u4e1a\u8bbe\u65bd\u5185\u7684\u8f6c\u8fd0\u7ad9\uff0c\u6240\u8ff0\u7b2c\u4e00\u6a21\u5757\u4ee5\u7b2c\u4e00\u5bc6\u5ea6\u9650\u5b9a\u690d\u7269\u69fd\u7684\u7b2c\u4e00\u9635\u5217\uff0c\u5e76\u4e14\u88c5\u8f7d\u6709\u5728\u7b2c\u4e00\u751f\u957f\u9636\u6bb5\u7684\u7b2c\u4e00\u7ec4\u690d\u7269\uff1b\u5206\u6d3e\u88c5\u8f7d\u673a\u5c06\u7b2c\u4e8c\u6a21\u5757\u81ea\u4e3b\u5730\u8f93\u9001\u5230\u8f6c\u8fd0\u7ad9\uff0c\u6240\u8ff0\u7b2c\u4e8c\u6a21\u5757\u4ee5\u5c0f\u4e8e\u7b2c\u4e00\u5bc6\u5ea6\u7684\u7b2c\u4e8c\u5bc6\u5ea6\u9650\u5b9a\u690d\u7269\u69fd\u7684\u7b2c\u4e8c\u9635\u5217\uff0c\u5e76\u4e14\u6ca1\u6709\u690d\u7269\uff1b\u8bb0\u5f55\u7b2c\u4e00\u6a21\u5757\u7684\u6a21\u5757\u7ea7\u5149\u5b66\u626b\u63cf\uff1b\u4ece\u6a21\u5757\u7ea7\u5149\u5b66\u626b\u63cf\u4e2d\u68c0\u6d4b\u7684\u7279\u5f81\u63d0\u53d6\u7b2c\u4e00\u7ec4\u690d\u7269\u7684\u6210\u6d3b\u529b\u53c2\u6570\uff1b\u5e76\u4e14\u5982\u679c\u6210\u6d3b\u529b\u53c2\u6570\u843d\u5728\u76ee\u6807\u6210\u6d3b\u529b\u8303\u56f4\u4e4b\u5916\uff0c\u5219\u62d2\u7edd\u4ece\u7b2c\u4e00\u6a21\u5757\u8f6c\u79fb\u7b2c\u4e00\u7ec4\u690d\u7269\u3002",
+      "publicationNumber": "CN110325032",
+      "publicationDate": "2022-08-19",
+      "assignee": [
+        "IRON OX, INC."
+      ],
+      "inventors": [
+        "Brandon Ace Alexander",
+        "BAI WENHAN"
+      ],
+      "applicationDate": "2017-12-22",
+      "claimsCount": 37,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Handling",
+        "Other special machines"
+      ],
+      "score": 13.188339
+    },
+    {
+      "id": "US-20230139358-A1",
+      "title": [
+        "WIRELESS SENSORS FOR AGRICULTURAL MODULES"
+      ],
+      "abstract": "One variation of a method for deploying sensors within an agricultural facility includes: accessing scan data of a set of modules deployed within the agricultural facility; extracting characteristics of plants occupying the set of modules from the scan data; selecting a first subset of target modules from the set of modules, each target module in the set of target modules containing a group of plants exhibiting characteristics representative of plants occupying modules neighboring the target module; for each target module, scheduling a robotic manipulator within the agricultural facility to remove a particular plant from a particular plant slot in the target module and load the particular plant slot with a sensor pod from a population of sensor pods deployed in the agricultural facility; and monitoring environmental conditions at target modules in the first subset of target modules based on sensor data recorded by the first population of sensor pods.",
+      "publicationNumber": "US20230139358",
+      "publicationDate": "2023-05-04",
+      "assignee": [
+        "IRON OX, INC."
+      ],
+      "inventors": [
+        "Winnie Ding",
+        "Jonathan Binney",
+        "Brandon Ace Alexander",
+        "Nicole Bergelin"
+      ],
+      "applicationDate": "2022-12-22",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Computer technology",
+        "Other special machines"
+      ],
+      "score": 12.726759
+    },
+    {
+      "id": "US-20230024142-A1",
+      "title": [
+        "APPARATUS FOR CONTROL AND DISTRIBUTION OF NUTRIATED WATER IN AN AUTOMATED AGRICULTURAL FACILITY"
+      ],
+      "abstract": "A dosing station comprises a receiving area for receiving a module and a sampling system for acquiring water from the module, analyzing the water and determining a refill recipe based on one or more parameters of the water. The dosing station includes a nutrient dispenser arranged to dispense at least one nutrient into the module according to the refill recipe. The recipe can be based on the type of plants in the module, the age of the plant and/or the physical condition of the plants. The dosing station can change refill recipes for each module within an agricultural facility based on one or more parameters to optimize the nutrient supply for all plants within the agricultural facility.",
+      "publicationNumber": "US20230024142",
+      "publicationDate": "2023-01-26",
+      "assignee": [
+        "IRON OX, INC."
+      ],
+      "inventors": [
+        "Melissa Sobrado Pauly",
+        "Saqib Naveed",
+        "Thomas KENDALL",
+        "Sam Walters"
+      ],
+      "applicationDate": "2022-07-14",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Medical technology",
+        "Other special machines"
+      ],
+      "score": 12.674973
+    },
+    {
+      "id": "US-20230026903-A1",
+      "title": [
+        "SYSTEM AND METHOD FOR PROPAGATING SEEDS TO SEEDLINGS WITHIN AN AGRICULTURAL FACILITY"
+      ],
+      "abstract": "A propagation system for growing seeds to seedlings, the propagation system comprising: a holding tank configured to be coupled to a water supply; a first plurality of rack docks and a second plurality of rack docks; a central wall disposed between and separating the first plurality of rack docks from the second plurality of rack docks, the central wall comprising water supply infrastructure configured to deliver nutriated water from the holding tank to the first and second plurality of rack docks and water return infrastructure configured to return nutriated water from the first and second plurality of rack docks to the holding tank; one or more pumps operatively coupled to pump nutriated water through the water supply infrastructure and through the water return infrastructure; wherein each rack dock in the first plurality of rack docks and each rack dock in the second plurality of rack docks defines a set of propagation tray locations, each propagation tray location in each set of propagation tray locations including at least one water supply line coupled to the water supply infrastructure and at least one water drain line coupled to the water return infrastructure.",
+      "publicationNumber": "US20230026903",
+      "publicationDate": "2023-01-26",
+      "assignee": [
+        "IRON OX, INC."
+      ],
+      "inventors": [
+        "Thomas KENDALL",
+        "Saqib Naveed",
+        "Winnie Ding",
+        "Peter Turner",
+        "Lola Siboldi"
+      ],
+      "applicationDate": "2022-07-14",
+      "claimsCount": 22,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Other special machines"
+      ],
+      "score": 12.586327
+    },
+    {
+      "id": "US-12302807-B2",
+      "title": [
+        "Method for monitoring growth of plants and generating a plant grow schedule"
+      ],
+      "abstract": "One variation of a method for monitoring growth of plants within a facility includes: aggregating global ambient data recorded by a suite of fixed sensors, arranged proximal a grow area within the facility, at a first frequency during a grow period; extracting intermediate outcomes of a set of plants, occupying a module in the grow area, from module-level images recorded by a mover at a second frequency less than the first frequency while interfacing with the module during the period of time; dispatching the mover to autonomously deliver the module to a transfer station; extracting intermediate outcomes of the set of plants from plant-level images recorded by the transfer station while sequentially transferring plants out of the module at the conclusion of the grow period; and deriving relationships between ambient conditions, intermediate outcomes, and final outcomes from a corpus of plant records associated with plants grown in the facility.",
+      "publicationNumber": "US12302807",
+      "publicationDate": "2025-05-20",
+      "assignee": [
+        "INEVITABLE TECHNOLOGY INC."
+      ],
+      "inventors": [
+        "Jonathan Binney",
+        "Winnie Ding",
+        "Peter Cheng",
+        "Martha Patricia Romero Luna",
+        "Jamie Young",
+        "Sarah Osentoski"
+      ],
+      "applicationDate": "2021-07-23",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Analysis of biological materials",
+        "Computer technology",
+        "Control",
+        "Handling",
+        "Other special machines"
+      ],
+      "score": 11.921234
+    },
+    {
+      "id": "US-11647700-B2",
+      "title": [
+        "Method for monitoring growth of plants and generating a plant grow schedule"
+      ],
+      "abstract": "One variation of a method for monitoring growth of plants within a facility includes: aggregating global ambient data recorded by a suite of fixed sensors, arranged proximal a grow area within the facility, at a first frequency during a grow period; extracting interim outcomes of a set of plants, occupying a module in the grow area, from module-level images recorded by a mover at a second frequency less than the first frequency while interfacing with the module during the period of time; dispatching the mover to autonomously deliver the module to a transfer station; extracting interim outcomes of the set of plants from plant-level images recorded by the transfer station while sequentially transferring plants out of the module at the conclusion of the grow period; and deriving relationships between ambient conditions, interim outcomes, and final outcomes from a corpus of plant records associated with plants grown in the facility.",
+      "publicationNumber": "US11647700",
+      "publicationDate": "2023-05-16",
+      "assignee": [
+        "IRON OX, INC."
+      ],
+      "inventors": [
+        "Brandon Ace Alexander",
+        "Jonathan Binney",
+        "Winnie Ding",
+        "Zachary Wielgosz"
+      ],
+      "applicationDate": "2020-09-22",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Analysis of biological materials",
+        "Computer technology",
+        "Control",
+        "Handling",
+        "Other special machines"
+      ],
+      "score": 11.921234
+    },
+    {
+      "id": "US-11557118-B2",
+      "title": [
+        "Method for selectively deploying sensors within an agricultural facility"
+      ],
+      "abstract": "One variation of a method for deploying sensors within an agricultural facility includes: accessing scan data of a set of modules deployed within the agricultural facility; extracting characteristics of plants occupying the set of modules from the scan data; selecting a first subset of target modules from the set of modules, each target module in the set of target modules containing a group of plants exhibiting characteristics representative of plants occupying modules neighboring the target module; for each target module, scheduling a robotic manipulator within the agricultural facility to remove a particular plant from a particular plant slot in the target module and load the particular plant slot with a sensor pod from a population of sensor pods deployed in the agricultural facility; and monitoring environmental conditions at target modules in the first subset of target modules based on sensor data recorded by the first population of sensor pods.",
+      "publicationNumber": "US11557118",
+      "publicationDate": "2023-01-17",
+      "assignee": [
+        "IRON OX, INC."
+      ],
+      "inventors": [
+        "Winnie Ding",
+        "Jonathan Binney",
+        "Brandon Ace Alexander",
+        "Nicole Bergelin"
+      ],
+      "applicationDate": "2021-01-25",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology",
+        "Control",
+        "Other special machines"
+      ],
+      "score": 11.921234
+    },
+    {
+      "id": "US-10936870-B2",
+      "title": [
+        "Method for selectively deploying sensors within an agricultural facility"
+      ],
+      "abstract": "One variation of a method for deploying sensors within an agricultural facility includes: accessing scan data of a set of modules deployed within the agricultural facility; extracting characteristics of plants occupying the set of modules from the scan data; selecting a first subset of target modules from the set of modules, each target module in the set of target modules containing a group of plants exhibiting characteristics representative of plants occupying modules neighboring the target module; for each target module, scheduling a robotic manipulator within the agricultural facility to remove a particular plant from a particular plant slot in the target module and load the particular plant slot with a sensor pod from a population of sensor pods deployed in the agricultural facility; and monitoring environmental conditions at target modules in the first subset of target modules based on sensor data recorded by the first population of sensor pods.",
+      "publicationNumber": "US10936870",
+      "publicationDate": "2021-03-02",
+      "assignee": [
+        "IRON OX, INC."
+      ],
+      "inventors": [
+        "Winnie Ding",
+        "Jonathan Binney",
+        "Brandon Ace Alexander",
+        "Nicole Bergelin"
+      ],
+      "applicationDate": "2019-07-05",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology",
+        "Control",
+        "Other special machines"
+      ],
+      "score": 11.921234
+    },
+    {
+      "id": "US-10813295-B2",
+      "title": [
+        "Method for monitoring growth of plants and generating a plant grow schedule"
+      ],
+      "abstract": "One variation of method for monitoring growth of plants within a facility includes: aggregating global ambient data recorded by a suite of fixed sensors, arranged proximal a grow area within the facility, at a first frequency during a grow period; extracting interim outcomes of a set of plants, occupying a module in the grow area, from module-level images recorded by a mover at a second frequency less than the first frequency while interfacing with the module during the period of time; dispatching the mover to autonomously deliver the module to a transfer station; extracting interim outcomes of the set of plants from plant-level images recorded by the transfer station while sequentially transferring plants out of the module at the conclusion of the grow period; and deriving relationships between ambient conditions, interim outcomes, and final outcomes from a corpus of plant records associated with plants grown in the facility.",
+      "publicationNumber": "US10813295",
+      "publicationDate": "2020-10-27",
+      "assignee": [
+        "IRON OX, INC."
+      ],
+      "inventors": [
+        "Brandon Ace Alexander",
+        "Jonathan Binney",
+        "Winnie Ding",
+        "Zachary Wielgosz"
+      ],
+      "applicationDate": "2018-04-17",
+      "claimsCount": 21,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Analysis of biological materials",
+        "Computer technology",
+        "Control",
+        "Handling",
+        "Other special machines"
+      ],
+      "score": 11.921234
+    },
+    {
+      "id": "US-12256682-B2",
+      "title": [
+        "System and method for automating transfer of plants within an agricultural facility"
+      ],
+      "abstract": "One variation of a method for automating transfer of plants within an agricultural facility includes: dispatching a loader to autonomously deliver a first module\u2014defining a first array of plant slots at a first density and loaded with a first set of plants at a first growth stage\u2014from a first grow location within an agricultural facility to a transfer station within the agricultural facility; dispatching the loader to autonomously deliver a second module\u2014defining a second array of plant slots at a second density less than the first density and empty of plants\u2014to the transfer station; recording a module-level optical scan of the first module; extracting a viability parameter of the first set of plants from features detected in the module-level optical scan; and if the viability parameter falls outside of a target viability range, rejecting transfer of the first set of plants from the first module.",
+      "publicationNumber": "US12256682",
+      "publicationDate": "2025-03-25",
+      "assignee": [
+        "INEVITABLE TECHNOLOGY INC."
+      ],
+      "inventors": [
+        "Brandon Ace Alexander",
+        "Jonathan Binney",
+        "Winnie Ding",
+        "Bianca Homberg",
+        "Warren Huffman",
+        "Thomas KENDALL",
+        "Saqib Naveed",
+        "Peter Turner",
+        "Adrian Canoso",
+        "Ansgar Lorenz"
+      ],
+      "applicationDate": "2021-07-23",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology",
+        "Control",
+        "Handling",
+        "Other special machines"
+      ],
+      "score": 11.873497
+    },
+    {
+      "id": "US-11707023-B2",
+      "title": [
+        "Method for automating transfer of plants within an agricultural facility"
+      ],
+      "abstract": "One variation of a method for automating transfer of plants within an agricultural facility includes: dispatching a loader to autonomously deliver a first module\u2014defining a first array of plant slots at a first density and loaded with a first set of plants at a first growth stage\u2014from a first grow location within an agricultural facility to a transfer station within the agricultural facility; dispatching the loader to autonomously deliver a second module\u2014defining a second array of plant slots at a second density less than the first density and empty of plants\u2014to the transfer station; recording a module-level optical scan of the first module; extracting a viability parameter of the first set of plants from features detected in the module-level optical scan; and if the viability parameter falls outside of a target viability range, rejecting transfer of the first set of plants from the first module.",
+      "publicationNumber": "US11707023",
+      "publicationDate": "2023-07-25",
+      "assignee": [
+        "IRON OX, INC."
+      ],
+      "inventors": [
+        "Brandon Ace Alexander",
+        "Jonathan Binney"
+      ],
+      "applicationDate": "2020-12-21",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology",
+        "Control",
+        "Handling",
+        "Other special machines"
+      ],
+      "score": 11.873497
+    },
+    {
+      "id": "US-10897850-B2",
+      "title": [
+        "System and method for automating transfer of plants within an agricultural facility"
+      ],
+      "abstract": "One variation of a method for automating transfer of plants within an agricultural facility includes: dispatching a loader to autonomously deliver a first module\u2014defining a first array of plant slots at a first density and loaded with a first set of plants at a first growth stage\u2014from a first grow location within an agricultural facility to a transfer station within the agricultural facility; dispatching the loader to autonomously deliver a second module\u2014defining a second array of plant slots at a second density less than the first density and empty of plants\u2014to the transfer station; recording a module-level optical scan of the first module; extracting a viability parameter of the first set of plants from features detected in the module-level optical scan; and if the viability parameter falls outside of a target viability range, rejecting transfer of the first set of plants from the first module.",
+      "publicationNumber": "US10897850",
+      "publicationDate": "2021-01-26",
+      "assignee": [
+        "IRON OX, INC."
+      ],
+      "inventors": [
+        "Brandon Ace Alexander",
+        "Jonathan Binney"
+      ],
+      "applicationDate": "2019-12-02",
+      "claimsCount": 1,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Computer technology",
+        "Control",
+        "Handling",
+        "Other special machines"
+      ],
+      "score": 11.873497
+    },
+    {
+      "id": "US-10524425-B2",
+      "title": [
+        "Method for automating transfer of plants within an agricultural facility"
+      ],
+      "abstract": "One variation of a method for automating transfer of plants within an agricultural facility includes: dispatching a loader to autonomously deliver a first module\u2014defining a first array of plant slots at a first density and loaded with a first set of plants at a first growth stage\u2014from a first grow location within an agricultural facility to a transfer station within the agricultural facility; dispatching the loader to autonomously deliver a second module\u2014defining a second array of plant slots at a second density less than the first density and empty of plants\u2014to the transfer station; recording a module-level optical scan of the first module; extracting a viability parameter of the first set of plants from features detected in the module-level optical scan; and if the viability parameter falls outside of a target viability range, rejecting transfer of the first set of plants from the first module.",
+      "publicationNumber": "US10524425",
+      "publicationDate": "2020-01-07",
+      "assignee": [
+        "IRON OX, INC."
+      ],
+      "inventors": [
+        "Brandon Ace Alexander",
+        "Jonathan Binney"
+      ],
+      "applicationDate": "2019-06-28",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Computer technology",
+        "Control",
+        "Handling",
+        "Other special machines"
+      ],
+      "score": 11.873497
+    },
+    {
+      "id": "US-10375898-B2",
+      "title": [
+        "Method for automating transfer of plants within an agricultural facility"
+      ],
+      "abstract": "One variation of a method for automating transfer of plants within an agricultural facility includes: dispatching a loader to autonomously deliver a first module\u2014defining a first array of plant slots at a first density and loaded with a first set of plants at a first growth stage\u2014from a first grow location within an agricultural facility to a transfer station within the agricultural facility; dispatching the loader to autonomously deliver a second module\u2014defining a second array of plant slots at a second density less than the first density and empty of plants\u2014to the transfer station; recording a module-level optical scan of the first module; extracting a viability parameter of the first set of plants from features detected in the module-level optical scan; and if the viability parameter falls outside of a target viability range, rejecting transfer of the first set of plants from the first module.",
+      "publicationNumber": "US10375898",
+      "publicationDate": "2019-08-13",
+      "assignee": [
+        "IRON OX, INC."
+      ],
+      "inventors": [
+        "Brandon Ace Alexander",
+        "Jonathan Binney"
+      ],
+      "applicationDate": "2019-01-28",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Computer technology",
+        "Control",
+        "Handling",
+        "Other special machines"
+      ],
+      "score": 11.873497
+    },
+    {
+      "id": "US-10225993-B2",
+      "title": [
+        "Method for automating transfer of plants within an agricultural facility"
+      ],
+      "abstract": "One variation of a method for automating transfer of plants within an agricultural facility includes: dispatching a loader to autonomously deliver a first module\u2014defining a first array of plant slots at a first density and loaded with a first set of plants at a first growth stage\u2014from a first grow location within an agricultural facility to a transfer station within the agricultural facility; dispatching the loader to autonomously deliver a second module\u2014defining a second array of plant slots at a second density less than the first density and empty of plants\u2014to the transfer station; recording a module-level optical scan of the first module; extracting a viability parameter of the first set of plants from features detected in the module-level optical scan; and if the viability parameter falls outside of a target viability range, rejecting transfer of the first set of plants from the first module.",
+      "publicationNumber": "US10225993",
+      "publicationDate": "2019-03-12",
+      "assignee": [
+        "IRON OX, INC."
+      ],
+      "inventors": [
+        "Brandon Ace Alexander",
+        "Jonathan Binney"
+      ],
+      "applicationDate": "2017-12-22",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology",
+        "Control",
+        "Handling",
+        "Other special machines"
+      ],
+      "score": 11.873497
+    },
+    {
+      "id": "US-11516973-B2",
+      "title": [
+        "Method for automatically redistributing plants throughout an agricultural facility"
+      ],
+      "abstract": "One variation of a method for automatically redistributing plants throughout an agricultural facility includes, at a mobile robotic system: delivering a first module\u2014defining a first array of plant slots at a first density and loaded with a first set of plants in approximately a second growth stage\u2014from a grow area within a facility to a transfer station within the facility; delivering a second module\u2014located within the facility and defining a second array of plant slots at a second density less than the first density\u2014to the transfer station; and following transfer of a first subset of plants from the first array of plant slots in the first module into the second array of plant slots in the second module at the transfer station, delivering the second module to the grow area in the facility.",
+      "publicationNumber": "US11516973",
+      "publicationDate": "2022-12-06",
+      "assignee": [
+        "IRON OX, INC."
+      ],
+      "inventors": [
+        "Brandon Ace Alexander",
+        "Jonathan Binney"
+      ],
+      "applicationDate": "2020-06-11",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology",
+        "Handling",
+        "Other special machines"
+      ],
+      "score": 11.791374
+    },
+    {
+      "id": "US-10716265-B2",
+      "title": [
+        "Method for automatically redistributing plants throughout an agricultural facility"
+      ],
+      "abstract": "One variation of a method for automatically redistributing plants throughout an agricultural facility includes, at a mobile robotic system: delivering a first module\u2014defining a first array of plant slots at a first density and loaded with a first set of plants in approximately a second growth stage\u2014from a grow area within a facility to a transfer station within the facility; delivering a second module\u2014located within the facility and defining a second array of plant slots at a second density less than the first density\u2014to the transfer station; and following transfer of a first subset of plants from the first array of plant slots in the first module into the second array of plant slots in the second module at the transfer station, delivering the second module to the grow area in the facility.",
+      "publicationNumber": "US10716265",
+      "publicationDate": "2020-07-21",
+      "assignee": [
+        "IRON OX, INC."
+      ],
+      "inventors": [
+        "Brandon Ace Alexander",
+        "Jonathan Binney"
+      ],
+      "applicationDate": "2018-01-16",
+      "claimsCount": 20,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Computer technology",
+        "Handling",
+        "Other special machines"
+      ],
+      "score": 11.791374
+    }
+  ]
+}

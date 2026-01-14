@@ -1,0 +1,11 @@
+{
+  "search_id": "search_20260114_121654",
+  "timestamp": "2026-01-14T12:16:54.953431",
+  "query_type": "ai_search",
+  "user_prompt": "PA=(Terabase Energy) AND PD>2015",
+  "minesoft_query": "PA=(Terabase Energy) AND PD>2015",
+  "results_count": 82,
+  "directory": "2026-01-14_terabase_energy_and_2015",
+  "execution_time_ms": 1499.3417263031006,
+  "api_endpoint": "query"
+}

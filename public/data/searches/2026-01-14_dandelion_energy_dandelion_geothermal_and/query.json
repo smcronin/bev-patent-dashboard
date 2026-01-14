@@ -1,0 +1,6 @@
+{
+  "query": "PA=(Dandelion Energy OR Dandelion Geothermal) AND PD>2015",
+  "query_type": "ai_search",
+  "timestamp": "2026-01-14T12:20:15.551179",
+  "user_prompt": "PA=(Dandelion Energy OR Dandelion Geothermal) AND PD>2015"
+}

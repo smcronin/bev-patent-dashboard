@@ -1,0 +1,2426 @@
+{
+  "count": 334,
+  "numFound": 334,
+  "docs": [
+    {
+      "id": "WO-2020109769-A1",
+      "title": [
+        "JETTABLE COMPOSITION"
+      ],
+      "abstract": "A jettable composition is described, comprising a reactive monomer, oligomer or prepolymer containing at least one epoxy or oxetane functional group; a free radical polymerizable compound; a thermal cross-linking agent; and a radical initiator, along with an electronic device having the composition jetted thereon and a method of manufacturing an electronic device.",
+      "publicationNumber": "WO2020109769",
+      "publicationDate": "2020-06-04",
+      "assignee": [
+        "ELECTRA POLYMERS LTD"
+      ],
+      "inventors": [
+        "CHRISTOPHER WALL",
+        "CLIVE LANDELLS"
+      ],
+      "applicationDate": "2019-11-26",
+      "claimsCount": 31,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Audio-visual technology",
+        "Basic materials chemistry",
+        "Macromolecular chemistry, polymers"
+      ],
+      "score": 11.128126
+    },
+    {
+      "id": "SG-11202104899P-A",
+      "title": [
+        "JETTABLE COMPOSITION"
+      ],
+      "abstract": "",
+      "publicationNumber": "SG11202104899P",
+      "publicationDate": "2021-06-29",
+      "assignee": [
+        "ELECTRA POLYMERS LTD"
+      ],
+      "inventors": [
+        "CHRISTOPHER WALL",
+        "CLIVE LANDELLS"
+      ],
+      "applicationDate": "2019-11-26",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Audio-visual technology",
+        "Basic materials chemistry",
+        "Macromolecular chemistry, polymers"
+      ],
+      "score": 11.128126
+    },
+    {
+      "id": "IL-283445-A",
+      "title": [
+        "Jettable composition"
+      ],
+      "abstract": "",
+      "publicationNumber": "IL283445",
+      "publicationDate": "2021-07-29",
+      "assignee": [
+        "ELECTRA POLYMERS LTD"
+      ],
+      "inventors": [
+        "CHRISTOPHER WALL",
+        "CLIVE LANDELLS"
+      ],
+      "applicationDate": "2021-05-25",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 11.128126
+    },
+    {
+      "id": "GB-201819195-D0",
+      "title": [
+        "Jettable composition"
+      ],
+      "abstract": "",
+      "publicationNumber": "GB201819195",
+      "publicationDate": "2019-01-09",
+      "assignee": [
+        "ELECTRA POLYMERS LIMITED"
+      ],
+      "inventors": [],
+      "applicationDate": "2018-11-26",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 11.128126
+    },
+    {
+      "id": "EP-4133714-A1",
+      "title": [
+        "CONTROLLING A PORTABLE ELECTRONIC DEVICE WITH CAMERA"
+      ],
+      "abstract": "The present invention relates to an accessory for controlling a camera incorporated into a portable electronic device, such as a smartphone. The accessory comprises a controller configured to control the camera. The controller may be configured to initiate camera control by sending a camera control command to the portable electronic device. Alternatively, a user may initiate a camera mode on the portable electronic device and the accessory may then be used to control the camera. The accessory may comprise a reconfigurable camera grip or removable camera controls, whereby portable electronic devices such as smartphones can then be gripped and operated by a user similar to traditional cameras.",
+      "publicationNumber": "EP4133714",
+      "publicationDate": "2023-02-15",
+      "assignee": [
+        "Fjorden Electra A.S."
+      ],
+      "inventors": [
+        "Victor HENNING"
+      ],
+      "applicationDate": "2021-04-12",
+      "claimsCount": 56,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Optics"
+      ],
+      "score": 11.035732
+    },
+    {
+      "id": "WO-2025188840-A8",
+      "title": [
+        "SYSTEMS AND METHODS FOR ELECTRIC VEHICLE SMART CHARGING"
+      ],
+      "abstract": "Methods and systems for determining charging profile information to charge an energy storage system of an electric vehicle are provided. The method includes determining the charging profile information based, at least in part, on historical vehicle operation data for the electric vehicle.",
+      "publicationNumber": "WO2025188840",
+      "publicationDate": "2025-10-02",
+      "assignee": [
+        "ELECTRA VEHICLES, INC."
+      ],
+      "inventors": [
+        "Pietro MOSCA",
+        "Alessandro TRENTA",
+        "Simona PEPE",
+        "Fabrizio MARTINI"
+      ],
+      "applicationDate": "2025-03-05",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Computer technology",
+        "Measurement",
+        "Transport"
+      ],
+      "score": 10.898205
+    },
+    {
+      "id": "WO-2025188840-A1",
+      "title": [
+        "SYSTEMS AND METHODS FOR ELECTRIC VEHICLE SMART CHARGING"
+      ],
+      "abstract": "Methods and systems for determining charging profile information to charge an energy storage system of an electric vehicle are provided. The method includes determining the charging profile information based, at least in part, on historical vehicle operation data for the electric vehicle.",
+      "publicationNumber": "WO2025188840",
+      "publicationDate": "2025-09-12",
+      "assignee": [
+        "ELECTRA VEHICLES, INC."
+      ],
+      "inventors": [
+        "Pietro MOSCA",
+        "Alessandro TRENTA",
+        "Simona PEPE",
+        "Fabrizio MARTINI"
+      ],
+      "applicationDate": "2025-03-05",
+      "claimsCount": 27,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Computer technology",
+        "Measurement",
+        "Transport"
+      ],
+      "score": 10.898205
+    },
+    {
+      "id": "FR-2983562-B1",
+      "title": [
+        "LAMPE ETANCHE, ANTIPOUSSIERE ET ANTICORROSION"
+      ],
+      "abstract": "",
+      "publicationNumber": "FR2983562",
+      "publicationDate": "2016-03-04",
+      "assignee": [
+        "ELECTRA"
+      ],
+      "inventors": [
+        "CUI FUQIANG",
+        "HU SHUDONG"
+      ],
+      "applicationDate": "2012-11-23",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 10.760599
+    },
+    {
+      "id": "US-20230187889-A1",
+      "title": [
+        "METHOD OF MAKING A FORMING WHEEL WITH CUSTOM MATERIAL"
+      ],
+      "abstract": "A method of making a forming wheel includes mixing and melting an electrically conductive material, a latex rubber material, and a polycarbonate material to produce a weatherproof material mixture, blending carbon black with polyethylene to produce an electrically conductive additive, positioning an injection mold of the forming wheel in fluid communication with an exit end of a heating barrel, injecting the weatherproof material mixture into an entry end of the heating barrel, introducing the electrically conductive additive through a lateral port of the heating barrel proximate to the exit end to partially mix with the weatherproof material mixture to produce an injection mixture, and injecting the injection mixture into the injection mold to produce the forming wheel.",
+      "publicationNumber": "US20230187889",
+      "publicationDate": "2023-06-15",
+      "assignee": [
+        "ELECTRA SHIELD, INC."
+      ],
+      "inventors": [
+        "David Scott Sizemore"
+      ],
+      "applicationDate": "2022-12-12",
+      "claimsCount": 10,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Electrical machinery, apparatus, energy",
+        "Macromolecular chemistry, polymers",
+        "Other special machines"
+      ],
+      "score": 10.716945
+    },
+    {
+      "id": "US-20220021172-A1",
+      "title": [
+        "ELECTRICALLY CONDUCTIVE AND WEATHERPROOF ENCLOSURE"
+      ],
+      "abstract": "In accordance with 37 C.F.R. \u00a7 1.121(b)(2)(i), please replace the abstract of the specification as filed with the following paragraph:A method of making an electrically conductive and weatherproof enclosure includes mixing and melting an electrically conductive material, a latex rubber material, and a polycarbonate material to produce a weatherproof material mixture, blending carbon black with polyethylene to produce an electrically conductive additive, positioning an injection mold of the enclosure in fluid communication with an exit end of a heating barrel, injecting the weatherproof material mixture into an entry end of the heating barrel, introducing the electrically conductive additive through a lateral port of the heating barrel proximate to the exit end to partially mix with the weatherproof material mixture to produce an injection mixture, and injecting the injection mixture into the injection mold to produce the electrically conductive and weatherproof enclosure.",
+      "publicationNumber": "US20220021172",
+      "publicationDate": "2022-01-20",
+      "assignee": [
+        "ELECTRA SHIELD, INC."
+      ],
+      "inventors": [
+        "David Scott Sizemore"
+      ],
+      "applicationDate": "2021-09-16",
+      "claimsCount": 10,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Electrical machinery, apparatus, energy",
+        "Macromolecular chemistry, polymers",
+        "Other special machines"
+      ],
+      "score": 10.716945
+    },
+    {
+      "id": "US-20210403737-A1",
+      "title": [
+        "Jettable Composition"
+      ],
+      "abstract": "A jettable composition is described, comprising a reactive monomer, oligomer or prepolymer containing at least one epoxy or oxetane functional group; a free radical polymerizable compound; a thermal cross-linking agent; and a radical initiator, along with an electronic device having the composition jetted thereon and a method of manufacturing an electronic device.",
+      "publicationNumber": "US20210403737",
+      "publicationDate": "2021-12-30",
+      "assignee": [
+        "ELECTRA POLYMERS LTD"
+      ],
+      "inventors": [
+        "Christopher Wall",
+        "Clive LANDELLS"
+      ],
+      "applicationDate": "2019-11-26",
+      "claimsCount": 22,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Audio-visual technology",
+        "Basic materials chemistry"
+      ],
+      "score": 10.716945
+    },
+    {
+      "id": "US-12460098-B2",
+      "title": [
+        "Jettable composition"
+      ],
+      "abstract": "A jettable composition is described, comprising a reactive monomer, oligomer or prepolymer containing at least one epoxy or oxetane functional group; a free radical polymerizable compound; a thermal cross-linking agent; and a radical initiator, along with an electronic device having the composition jetted thereon and a method of manufacturing an electronic device.",
+      "publicationNumber": "US12460098",
+      "publicationDate": "2025-11-04",
+      "assignee": [
+        "ELECTRA POLYMERS LTD"
+      ],
+      "inventors": [
+        "Christopher Wall",
+        "Clive LANDELLS"
+      ],
+      "applicationDate": "2019-11-26",
+      "claimsCount": 20,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Audio-visual technology",
+        "Basic materials chemistry",
+        "Macromolecular chemistry, polymers"
+      ],
+      "score": 10.716945
+    },
+    {
+      "id": "IN-462373-B",
+      "title": [
+        "JETTABLE COMPOSITION"
+      ],
+      "abstract": "A jettable composition is described, comprising a reactive monomer, oligomer or prepolymer containing at least one epoxy or oxetane functional group; a free radical polymerizable compound; a thermal cross-linking agent; and a radical initiator, along with an electronic device having the composition jetted thereon and a method of manufacturing an electronic device.",
+      "publicationNumber": "IN462373",
+      "publicationDate": "2023-10-26",
+      "assignee": [
+        "ELECTRA POLYMERS LTD"
+      ],
+      "inventors": [
+        "WALL CHRISTOPHER",
+        "LANDELLS CLIVE"
+      ],
+      "applicationDate": "2021-05-24",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Macromolecular chemistry, polymers",
+        "Optics"
+      ],
+      "score": 10.716945
+    },
+    {
+      "id": "IN-202117023036-A",
+      "title": [
+        "JETTABLE COMPOSITION"
+      ],
+      "abstract": "A jettable composition is described, comprising a reactive monomer, oligomer or prepolymer containing at least one epoxy or oxetane functional group; a free radical polymerizable compound; a thermal cross-linking agent; and a radical initiator, along with an electronic device having the composition jetted thereon and a method of manufacturing an electronic device.",
+      "publicationNumber": "IN202117023036",
+      "publicationDate": "2021-10-29",
+      "assignee": [
+        "ELECTRA POLYMERS LTD"
+      ],
+      "inventors": [
+        "WALL CHRISTOPHER",
+        "LANDELLS CLIVE"
+      ],
+      "applicationDate": "2021-05-24",
+      "claimsCount": 31,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Macromolecular chemistry, polymers",
+        "Optics"
+      ],
+      "score": 10.716945
+    },
+    {
+      "id": "EP-3887454-A1",
+      "title": [
+        "JETTABLE COMPOSITION"
+      ],
+      "abstract": "A jettable composition is described, comprising a reactive monomer, oligomer or prepolymer containing at least one epoxy or oxetane functional group; a free radical polymerizable compound; a thermal cross-linking agent; and a radical initiator, along with an electronic device having the composition jetted thereon and a method of manufacturing an electronic device.",
+      "publicationNumber": "EP3887454",
+      "publicationDate": "2021-10-06",
+      "assignee": [
+        "Electra Polymer Ltd."
+      ],
+      "inventors": [
+        "CHRISTOPHER WALL",
+        "CLIVE LANDELLS"
+      ],
+      "applicationDate": "2019-11-26",
+      "claimsCount": 31,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Audio-visual technology",
+        "Basic materials chemistry",
+        "Macromolecular chemistry, polymers"
+      ],
+      "score": 10.716945
+    },
+    {
+      "id": "WO-2025096588-A1",
+      "title": [
+        "SYSTEMS AND METHODS FOR CELL-BASED MODELING PERFORMANCE OF A BATTERY PACK"
+      ],
+      "abstract": "Methods and apparatus for generating an updated machine learning model for predicting a property of an energy storage system. The method includes receiving sensor data associated with an energy storage system, transforming, using at least one hardware computer processor, the sensor data into cell-level data for a number of representative cells in the energy storage system, generating, using at least one model of cell degradation and the cell-level data, synthetic cell-level data for each of the representative cells, training a machine learning (ML) model based on the cell-level data and the synthetic cell-level data, and outputting the trained ML model, wherein the trained ML model is configured to predict a property of the energy storage system based on cell-level data.",
+      "publicationNumber": "WO2025096588",
+      "publicationDate": "2025-05-08",
+      "assignee": [
+        "ELECTRA VEHICLES, INC."
+      ],
+      "inventors": [
+        "Mina NAGUIB",
+        "Peter KEI",
+        "David Aaron RIVKIN",
+        "Fabrizio MARTINI",
+        "Nicholas Alexander PRICE",
+        "Edoardo CATENARO",
+        "NOAH M. JOHNSON"
+      ],
+      "applicationDate": "2024-10-30",
+      "claimsCount": 26,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Computer technology",
+        "Measurement"
+      ],
+      "score": 10.665469
+    },
+    {
+      "id": "US-12321088-B2",
+      "title": [
+        "Controlling a portable electronic device with camera"
+      ],
+      "abstract": "The present invention relates to an accessory for controlling a camera incorporated into a portable electronic device, such as a smartphone. The accessory comprises a controller configured to control the camera. The controller may be configured to initiate camera control by sending a camera control command to the portable electronic device. Alternatively, a user may initiate a camera mode on the portable electronic device and the accessory may then be used to control the camera. The accessory may comprise a reconfigurable camera grip or removable camera controls, whereby portable electronic devices such as smartphones can then be gripped and operated by a user similar to traditional cameras.",
+      "publicationNumber": "US12321088",
+      "publicationDate": "2025-06-03",
+      "assignee": [
+        "Fjorden Electra A.S."
+      ],
+      "inventors": [
+        "Victor HENNING"
+      ],
+      "applicationDate": "2021-04-12",
+      "claimsCount": 19,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Computer technology",
+        "Optics",
+        "Other consumer goods"
+      ],
+      "score": 10.652998
+    },
+    {
+      "id": "EP-4133714-B1",
+      "title": [
+        "CONTROLLING A PORTABLE ELECTRONIC DEVICE WITH CAMERA"
+      ],
+      "abstract": "The present invention relates to an accessory for controlling a camera incorporated into a portable electronic device, such as a smartphone. The accessory comprises a controller configured to control the camera. The controller may be configured to initiate camera control by sending a camera control command to the portable electronic device. Alternatively, a user may initiate a camera mode on the portable electronic device and the accessory may then be used to control the camera. The accessory may comprise a reconfigurable camera grip or removable camera controls, whereby portable electronic devices such as smartphones can then be gripped and operated by a user similar to traditional cameras.",
+      "publicationNumber": "EP4133714",
+      "publicationDate": "2025-09-24",
+      "assignee": [
+        "Fjorden Electra A.S."
+      ],
+      "inventors": [
+        "Victor HENNING"
+      ],
+      "applicationDate": "2021-04-12",
+      "claimsCount": 23,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Audio-visual technology",
+        "Optics"
+      ],
+      "score": 10.652998
+    },
+    {
+      "id": "RO-131172-A0",
+      "title": [
+        "VIDEO-INTERCOM INSTALLATION WITH EFFRACTION WARNING"
+      ],
+      "abstract": "The invention relates to a video-intercom installation to be mounted in flat- or office-buildings, for controlling outsiders&apos; access and for effraction warning, in case of breach of close in protected areas. According to the invention, the installation comprises: an exterior video panel (P), an electromagnetic latch (Y) controlled by a control and supply unit (UCA) provided with a secondary battery (Acc) and a number of signal distributers (Dm), depending on the number of flats or protected areas within the building, in these areas there being video terminals (Tn) whereto anti-effraction sensors (Sn) are connected, the persons&apos; access into the building, the arming in the areas protected from the video terminals (Tn) and the disarming in the areas protected from the exterior panel (P) being performed by using RFID cards (Cnx).",
+      "publicationNumber": "RO131172",
+      "publicationDate": "2016-05-30",
+      "assignee": [
+        "ELECTRA S.R.L."
+      ],
+      "inventors": [
+        "BERDAN MARIAN",
+        "GABUR\u0102 ADRIAN",
+        "B\u0102RBU\u0162\u0102 PAUL C\u0102T\u0102LIN",
+        "MITITELU VASILE DRAGO\u015e"
+      ],
+      "applicationDate": "2015-10-29",
+      "claimsCount": 3,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Audio-visual technology",
+        "Telecommunications"
+      ],
+      "score": 10.6218605
+    },
+    {
+      "id": "WO-2023122111-A1",
+      "title": [
+        "SYSTEM AND METHOD FOR CONTROLLING FLIGHT PATH OF A BLOWN LIFT AIRCRAFT"
+      ],
+      "abstract": "In accordance with some embodiments, a system for controlling an aircraft is provided. The system can include a computing device, wherein the computing device includes at least one processor configured to control a flight path angle of the aircraft, and wherein the aircraft is a blown lift aircraft. The system can also include a control operator communicatively coupled to the computing device, wherein the control operator is configured to have at least two selectable settings. The system can also include at least two thrust-producing devices operatively coupled to a pair of wings on the aircraft and communicatively coupled to the computing device. The computing device may control the flight path angle of the aircraft by selectively operating the at least two thrust-producing devices based on a plurality of conditions provided by a plurality of sensors on the aircraft and a selected setting of the control operator.",
+      "publicationNumber": "WO2023122111",
+      "publicationDate": "2023-06-29",
+      "assignee": [
+        "ELECTRA AERO, INC."
+      ],
+      "inventors": [
+        "OLIVER MASEFIELD",
+        "Christopher, B. COURTIN",
+        "Robert, John HANSMAN"
+      ],
+      "applicationDate": "2022-12-20",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Control",
+        "Transport"
+      ],
+      "score": 10.5578785
+    },
+    {
+      "id": "WO-2023034302-A9",
+      "title": [
+        "SYSTEM AND METHOD FOR LIFT AUGMENTATION OF AIRCRAFT WINGS"
+      ],
+      "abstract": "A system and method for lift augmentation of an aircraft having a wing with a leading edge and a trailing edge extending along a wingspan, a plurality of thrust-producing devices connected to the bottom of said wing, at least one flap connected to an inboard portion of said wing proximate the trailing edge, and an aircraft roll control device connected to said wing, wherein the improvement comprises a plurality of slipstreams associated with a plurality of thrust producing devices and a flap adaptable to deflect from a chord of the inboard portion of the wing.",
+      "publicationNumber": "WO2023034302",
+      "publicationDate": "2023-04-27",
+      "assignee": [
+        "ELECTRA AERO, INC."
+      ],
+      "inventors": [
+        "Christopher, B. COURTIN",
+        "MARK DRELA",
+        "Robert, J., Jr. HANSMAN",
+        "John, S., III LANGFORD",
+        "OLIVER MASEFIELD"
+      ],
+      "applicationDate": "2022-08-30",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Transport"
+      ],
+      "score": 10.5578785
+    },
+    {
+      "id": "WO-2023034302-A1",
+      "title": [
+        "SYSTEM AND METHOD FOR LIFT AUGMENTATION OF AIRCRAFT WINGS"
+      ],
+      "abstract": "A system and method for lift augmentation of an aircraft having a wing with a leading edge and a trailing edge extending along a wingspan, a plurality of thrust-producing devices connected to the bottom of said wing, at least one flap connected to an inboard portion of said wing proximate the trailing edge, and an aircraft roll control device connected to said wing, wherein the improvement comprises a plurality of slipstreams associated with a plurality of thrust producing devices and a flap adaptable to deflect from a chord of the inboard portion of the wing.",
+      "publicationNumber": "WO2023034302",
+      "publicationDate": "2023-03-09",
+      "assignee": [
+        "ELECTRA AERO, INC."
+      ],
+      "inventors": [
+        "Christopher, B. COURTIN",
+        "MARK DRELA",
+        "Robert, J., Jr. HANSMAN",
+        "John, S., III LANGFORD",
+        "OLIVER MASEFIELD"
+      ],
+      "applicationDate": "2022-08-30",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Transport"
+      ],
+      "score": 10.5578785
+    },
+    {
+      "id": "WO-2020056157-A1",
+      "title": [
+        "SYSTEMS AND METHODS FOR MANAGING ENERGY STORAGE SYSTEMS"
+      ],
+      "abstract": "Systems, methods, and at least one computer-readable medium are described. The system comprises at least one processor and at least one computer-readable storage medium having encoded thereon instructions that, when executed, program the at least one processor to for each candidate model of a plurality of candidate models, determine a reward for using the candidate model in a context, wherein the context comprises a value of a feature selected from a group consisting of, a feature relating to an environment in which an energy application is operating, a feature relating to the energy application, and a feature relating to one or more energy storage devices associated with the energy application. The at least one processor being further programmed to select a model from the plurality of candidate models, based at least in part on the respective rewards for using the candidate models in the context.",
+      "publicationNumber": "WO2020056157",
+      "publicationDate": "2020-03-19",
+      "assignee": [
+        "ELECTRA VEHICLES, INC."
+      ],
+      "inventors": [
+        "Saurabh BHASME",
+        "Thomas James COUTURE",
+        "Britany STRALEY",
+        "Fabrizio MARTINI"
+      ],
+      "applicationDate": "2019-09-12",
+      "claimsCount": 31,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 10.5578785
+    },
+    {
+      "id": "WO-2019126802-A9",
+      "title": [
+        "SYSTEM AND METHOD FOR DESIGNING AND CONTROLLING A DUAL ENERGY STORAGE SYSTEM"
+      ],
+      "abstract": "An electrical storage system comprises a first energy storage system and a second energy storage system having a lower electrical energy density and a higher rated electrical power output capability than the first energy storage system, at least one electrical power sensor configured to sense over a plurality of time intervals, electrical power usage information for a load electrically coupled to the first energy storage system and the second energy storage system, and at least one computer processor programmed to determine based, at least in part, on the sensed electrical power usage information and a power requirement of the load in a current time interval, charging/discharging parameters for each of the first energy storage system and the second energy storage system, and control charging/discharging of each of the first and second energy storage systems in accordance with the determined charging/discharging parameters during the current time interval.",
+      "publicationNumber": "WO2019126802",
+      "publicationDate": "2019-08-22",
+      "assignee": [
+        "ELECTRA VEHICLES, INC."
+      ],
+      "inventors": [
+        "Thomas, James COUTURE",
+        "Akhilesh BAKSHI",
+        "Jacob, M. BERLINER",
+        "Nicol\u00f2, Michele BRAMBILLA",
+        "Fabrizio MARTINI"
+      ],
+      "applicationDate": "2018-12-21",
+      "claimsCount": 41,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 10.5578785
+    },
+    {
+      "id": "WO-2019126802-A1",
+      "title": [
+        "SYSTEM AND METHOD FOR DESIGNING AND CONTROLLING A DUAL ENERGY STORAGE SYSTEM"
+      ],
+      "abstract": "An electrical storage system comprises a first energy storage system and a second energy storage system having a lower electrical energy density and a higher rated electrical power output capability than the first energy storage system, at least one electrical power sensor configured to sense over a plurality of time intervals, electrical power usage information for a load electrically coupled to the first energy storage system and the second energy storage system, and at least one computer processor programmed to determine based, at least in part, on the sensed electrical power usage information and a power requirement of the load in a current time interval, charging/discharging parameters for each of the first energy storage system and the second energy storage system, and control charging/discharging of each of the first and second energy storage systems in accordance with the determined charging/discharging parameters during the current time interval.",
+      "publicationNumber": "WO2019126802",
+      "publicationDate": "2019-06-27",
+      "assignee": [
+        "ELECTRA VEHICLES, INC."
+      ],
+      "inventors": [
+        "Thomas, James COUTURE",
+        "Akhilesh BAKSHI",
+        "Jacob, M. BERLINER",
+        "Nicol\u00f2, Michele BRAMBILLA",
+        "Fabrizio MARTINI"
+      ],
+      "applicationDate": "2018-12-21",
+      "claimsCount": 41,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 10.5578785
+    },
+    {
+      "id": "IN-1997CH00273-A",
+      "title": [
+        "COATING PATTERN FORMATION"
+      ],
+      "abstract": "ABSTRACT COATING PATTERN FORMATION They formation of a non-photosensitive first coating in a pattern of defined character on a substrate makes use of a photosensitive second coating to define the image or pattern. The method is applied specifically to the production of Polymer Thick Film coatings acting as conductors and resistors to achieve finely defined results.",
+      "publicationNumber": "IN1997CH00273",
+      "publicationDate": "2016-08-26",
+      "assignee": [
+        "ELECTRA TECHNOLOGYN LIMITED"
+      ],
+      "inventors": [
+        "CHRISTOPHER IAN WALL",
+        "CLIVE LANDELLS"
+      ],
+      "applicationDate": "1997-02-11",
+      "claimsCount": 13,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Audio-visual technology",
+        "Electrical machinery, apparatus, energy",
+        "Optics"
+      ],
+      "score": 10.5578785
+    },
+    {
+      "id": "EP-3850551-A4",
+      "title": [
+        "SYSTEMS AND METHODS FOR MANAGING ENERGY STORAGE SYSTEMS"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP3850551",
+      "publicationDate": "2022-10-12",
+      "assignee": [
+        "Electra Vehicles, Inc."
+      ],
+      "inventors": [
+        "Saurabh BHASME",
+        "Thomas James COUTURE",
+        "Britany STRALEY",
+        "Fabrizio MARTINI"
+      ],
+      "applicationDate": "2019-09-12",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Computer technology",
+        "Electrical machinery, apparatus, energy",
+        "Transport"
+      ],
+      "score": 10.5578785
+    },
+    {
+      "id": "EP-3850551-A1",
+      "title": [
+        "SYSTEMS AND METHODS FOR MANAGING ENERGY STORAGE SYSTEMS"
+      ],
+      "abstract": "Systems, methods, and at least one computer-readable medium are described. The system comprises at least one processor and at least one computer-readable storage medium having encoded thereon instructions that, when executed, program the at least one processor to for each candidate model of a plurality of candidate models, determine a reward for using the candidate model in a context, wherein the context comprises a value of a feature selected from a group consisting of, a feature relating to an environment in which an energy application is operating, a feature relating to the energy application, and a feature relating to one or more energy storage devices associated with the energy application. The at least one processor being further programmed to select a model from the plurality of candidate models, based at least in part on the respective rewards for using the candidate models in the context.",
+      "publicationNumber": "EP3850551",
+      "publicationDate": "2021-07-21",
+      "assignee": [
+        "Electra Vehicles, Inc."
+      ],
+      "inventors": [
+        "Saurabh BHASME",
+        "Thomas James COUTURE",
+        "Britany STRALEY",
+        "Fabrizio MARTINI"
+      ],
+      "applicationDate": "2019-09-12",
+      "claimsCount": 31,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 10.5578785
+    },
+    {
+      "id": "EP-3729594-A4",
+      "title": [
+        "SYSTEM AND METHOD FOR DESIGNING AND CONTROLLING A DUAL ENERGY STORAGE SYSTEM"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP3729594",
+      "publicationDate": "2021-10-13",
+      "assignee": [
+        "Electra Vehicles, Inc."
+      ],
+      "inventors": [
+        "Thomas, James COUTURE",
+        "Akhilesh BAKSHI",
+        "Jacob, M. BERLINER",
+        "Nicol\u00f2, Michele BRAMBILLA",
+        "Fabrizio MARTINI"
+      ],
+      "applicationDate": "2018-12-21",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Computer technology",
+        "Electrical machinery, apparatus, energy",
+        "IT methods for management",
+        "Transport"
+      ],
+      "score": 10.5578785
+    },
+    {
+      "id": "EP-3729594-A1",
+      "title": [
+        "SYSTEM AND METHOD FOR DESIGNING AND CONTROLLING A DUAL ENERGY STORAGE SYSTEM"
+      ],
+      "abstract": "An electrical storage system comprises a first energy storage system and a second energy storage system having a lower electrical energy density and a higher rated electrical power output capability than the first energy storage system, at least one electrical power sensor configured to sense over a plurality of time intervals, electrical power usage information for a load electrically coupled to the first energy storage system and the second energy storage system, and at least one computer processor programmed to determine based, at least in part, on the sensed electrical power usage information and a power requirement of the load in a current time interval, charging/discharging parameters for each of the first energy storage system and the second energy storage system, and control charging/discharging of each of the first and second energy storage systems in accordance with the determined charging/discharging parameters during the current time interval.",
+      "publicationNumber": "EP3729594",
+      "publicationDate": "2020-10-28",
+      "assignee": [
+        "Electra Vehicles, Inc."
+      ],
+      "inventors": [
+        "Thomas, James COUTURE",
+        "Akhilesh BAKSHI",
+        "Jacob, M. BERLINER",
+        "Nicol\u00f2, Michele BRAMBILLA",
+        "Fabrizio MARTINI"
+      ],
+      "applicationDate": "2018-12-21",
+      "claimsCount": 41,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 10.5578785
+    },
+    {
+      "id": "BR-112012012364-A2",
+      "title": [
+        "aparelho para prepara\u00e7\u00e3o de alimentos"
+      ],
+      "abstract": "aparelho para fabrica\u00e7\u00e3o de alimentos \u00e9 fornecido um aparelho de prepara\u00e7\u00e3o de alimentos e m\u00e9todo, incluindo um sistema de prateleira inventiva (100). de acordo com algumas formas de realiza\u00e7\u00e3o, uma forma de realiza\u00e7\u00e3o exemplar de um aparelho de prepara\u00e7\u00e3o de alimentos da presente in ven\u00e7\u00e3o pelo menos, mas n\u00e3o est\u00e1 limitado a, um quadro de montagem (101) incluindo uma prateleira permanente (102) fixada \u00e0 arma\u00e7\u00e3o de montagem, uma multiplicidade de recursos selecion\u00e1veis da prateleira (104, 106), deslocamento vertical da prateleira permanente e sendo ligada \u00e0 montagem da estrutura, e uma primeira prateleira n\u00e3o-permanente (108) desviada verticalmente a partir da plataforma permanente e suportada por um n\u00famero seleto de multiplicidade de recursos de prateleiras selecion\u00e1veis. em uma forma de realiza\u00e7\u00e3o exemplar de um aparelho de prepara\u00e7\u00e3o de alimentos da presente inven\u00e7\u00e3o, a prateleira permanente proporciona uma regi\u00e3o de infus\u00e3o de sabor (118).",
+      "publicationNumber": "BR112012012364",
+      "publicationDate": "2019-09-24",
+      "assignee": [
+        "ELECTRA WAVE CORPORATION"
+      ],
+      "inventors": [
+        "MAURICE W. LEE JR.",
+        "Maurice W. Lee III"
+      ],
+      "applicationDate": "2010-11-22",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Thermal processes and apparatus"
+      ],
+      "score": 10.5578785
+    },
+    {
+      "id": "RO-131173-A0",
+      "title": [
+        "MULTIPURPOSE TERMINAL FOR VIDEO-INTERCOM INSTALLATIONS"
+      ],
+      "abstract": "The invention relates to a multipurpose terminal for video-intercom installations mounted inside buildings for controlling the access of outsiders into the building and also for effraction warning, for warning in case of hazardous situations as well as for disconnecting the electric consumers within the protected areas when an event occurs. According to the invention, the multipurpose terminal consists of a flat parallelepipedal casing having on the frontal side: a keyboard, a video display, a microphone and a loudspeaker, and inside having electronic control and memory circuits and circuits achieving the functions of video-intercom, access control, event warning, RFID reader for arming/disarming, a wireless communication module, connectors for making the connections to the video-intercom installation as well as to some movement, broken window, open door, flood, smoke and gas sensors, within the protected area.",
+      "publicationNumber": "RO131173",
+      "publicationDate": "2016-05-30",
+      "assignee": [
+        "ELECTRA S.R.L."
+      ],
+      "inventors": [
+        "BERDAN MARIAN",
+        "GABUR\u0102 ADRIAN",
+        "GHEL\u0162U \u015eTEFAN ANDREI",
+        "MITITELU VASILE DRAGO\u015e"
+      ],
+      "applicationDate": "2015-10-29",
+      "claimsCount": 3,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Audio-visual technology",
+        "Telecommunications"
+      ],
+      "score": 10.539429
+    },
+    {
+      "id": "US-20180079619-A1",
+      "title": [
+        "DIGITAL MEDIA LED MONITOR AND SCREEN BUILT INTO EXTERNAL OR INTERNAL ELEVATOR DOOR"
+      ],
+      "abstract": "A digital media system for an elevator in which media content is viewable from outside the elevator. A sending smart card within an elevator shaft and at least one stationary external elevator door comprising: (a) a rigid door frame body; (b) an LED monitor including (i) a receiving smart card configured for receiving the video content and (ii) an LED screen configured to receive a continuous flow of media content, the media content visible to viewers outside the elevator at least when the external elevator doors are closed. The LED monitor either occupies an external surface of the door frame body or the door frame body includes a transparent external wall section. System also includes a flexible tube that houses at least one power cable. Opening and closing of the doors does not disrupt the continuous flow of media content to the LED screen.",
+      "publicationNumber": "US20180079619",
+      "publicationDate": "2018-03-22",
+      "assignee": [
+        "Protouch Ltd."
+      ],
+      "inventors": [
+        "Shlomi BEN ABAT",
+        "Amit Mor"
+      ],
+      "applicationDate": "2017-09-19",
+      "claimsCount": 21,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Handling"
+      ],
+      "score": 10.505691
+    },
+    {
+      "id": "WO-2025085854-A1",
+      "title": [
+        "SIRP ANTIBODIES FOR TREATMENT OF HEMOPHAGOCYTIC LYMPHOHISTIOCYTOSIS"
+      ],
+      "abstract": "Provided herein are clinically relevant parameters for the use of SIRP antibodies, for the treatment of hemophagocytic lymphohistiocytosis (HLH).",
+      "publicationNumber": "WO2025085854",
+      "publicationDate": "2025-04-24",
+      "assignee": [
+        "ELECTRA THERAPEUTICS, INC."
+      ],
+      "inventors": [
+        "Kim-Hien T. DAO",
+        "GRAHAM C. PARRY",
+        "GARY PATOU"
+      ],
+      "applicationDate": "2024-10-18",
+      "claimsCount": 74,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Biotechnology",
+        "Pharmaceuticals"
+      ],
+      "score": 10.492889
+    },
+    {
+      "id": "WO-2025038544-A3",
+      "title": [
+        "SYSTEMS AND METHODS FOR UPDATING ENERGY STORAGE MANAGEMENT SOFTWARE IN EMBEDDED SYSTEMS"
+      ],
+      "abstract": "Methods and apparatus for updating an inference model being used by an embedded system of an energy application are provided. The method includes storing at a first memory location of a memory associated with an embedded system, a first instance of an inference model, storing at a second memory location of the memory, a second instance of the inference model, receiving updated information for the inference model, updating the second instance of the inference model based on the updated information, wherein updating the second instance is performed while the inference model is configured to estimate at least one aspect of the energy application using the first instance, and configuring the embedded system to use the second instance of the inference model to estimate the at least one aspect of the energy application when updating the second instance of the inference model is complete.",
+      "publicationNumber": "WO2025038544",
+      "publicationDate": "2025-04-03",
+      "assignee": [
+        "ELECTRA VEHICLES, INC."
+      ],
+      "inventors": [
+        "SAURABH SUDHAKAR BHASME",
+        "Vaidyanathan RAMADURAI",
+        "AMOL KHEDKAR",
+        "Dilip WARRIOR",
+        "Fabrizio MARTINI"
+      ],
+      "applicationDate": "2024-08-12",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Computer technology",
+        "Transport"
+      ],
+      "score": 10.492889
+    },
+    {
+      "id": "WO-2025038544-A2",
+      "title": [
+        "SYSTEMS AND METHODS FOR UPDATING ENERGY STORAGE MANAGEMENT SOFTWARE IN EMBEDDED SYSTEMS"
+      ],
+      "abstract": "Methods and apparatus for updating an inference model being used by an embedded system of an energy application are provided. The method includes storing at a first memory location of a memory associated with an embedded system, a first instance of an inference model, storing at a second memory location of the memory, a second instance of the inference model, receiving updated information for the inference model, updating the second instance of the inference model based on the updated information, wherein updating the second instance is performed while the inference model is configured to estimate at least one aspect of the energy application using the first instance, and configuring the embedded system to use the second instance of the inference model to estimate the at least one aspect of the energy application when updating the second instance of the inference model is complete.",
+      "publicationNumber": "WO2025038544",
+      "publicationDate": "2025-02-20",
+      "assignee": [
+        "ELECTRA VEHICLES, INC."
+      ],
+      "inventors": [
+        "SAURABH SUDHAKAR BHASME",
+        "Vaidyanathan RAMADURAI",
+        "AMOL KHEDKAR",
+        "Dilip WARRIOR",
+        "Fabrizio MARTINI"
+      ],
+      "applicationDate": "2024-08-12",
+      "claimsCount": 25,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Computer technology"
+      ],
+      "score": 10.492889
+    },
+    {
+      "id": "WO-2023172735-A1",
+      "title": [
+        "SYSTEMS AND METHODS FOR USING ADAPTIVE MODELING TO PREDICT ENERGY SYSTEM PERFORMANCE"
+      ],
+      "abstract": "Methods and apparatus for estimating an energy storage performance property of an energy system are provided. The method includes providing, as input to an energy storage model and a machine learning model, sensor information associated with the energy system, wherein the energy storage model comprises an empirical model and/or a physics-based model, providing as input to the machine learning model, one or more values based on an output of the energy storage model, and determining based, at least in part, on an output of the machine learning model, an estimate of the energy storage performance property.",
+      "publicationNumber": "WO2023172735",
+      "publicationDate": "2023-09-14",
+      "assignee": [
+        "ELECTRA VEHICLES, INC."
+      ],
+      "inventors": [
+        "David Aaron RIVKIN",
+        "Georgios TRITSARIS",
+        "Thomas COUTURE",
+        "Freeman RUFUS",
+        "YUXIANG LIU",
+        "Fabrizio MARTINI"
+      ],
+      "applicationDate": "2023-03-10",
+      "claimsCount": 31,
+      "independentClaimsCount": 6,
+      "technologyFields": [
+        "Measurement"
+      ],
+      "score": 10.492889
+    },
+    {
+      "id": "EP-4490528-A1",
+      "title": [
+        "SYSTEMS AND METHODS FOR USING ADAPTIVE MODELING TO PREDICT ENERGY SYSTEM PERFORMANCE"
+      ],
+      "abstract": "Methods and apparatus for estimating an energy storage performance property of an energy system are provided. The method includes providing, as input to an energy storage model and a machine learning model, sensor information associated with the energy system, wherein the energy storage model comprises an empirical model and/or a physics-based model, providing as input to the machine learning model, one or more values based on an output of the energy storage model, and determining based, at least in part, on an output of the machine learning model, an estimate of the energy storage performance property.",
+      "publicationNumber": "EP4490528",
+      "publicationDate": "2025-01-15",
+      "assignee": [
+        "Electra Vehicles, Inc."
+      ],
+      "inventors": [
+        "David Aaron RIVKIN",
+        "Georgios TRITSARIS",
+        "Thomas COUTURE",
+        "Freeman RUFUS",
+        "YUXIANG LIU",
+        "Fabrizio MARTINI"
+      ],
+      "applicationDate": "2023-03-10",
+      "claimsCount": 31,
+      "independentClaimsCount": 6,
+      "technologyFields": [
+        "Measurement"
+      ],
+      "score": 10.492889
+    },
+    {
+      "id": "US-20230140707-A1",
+      "title": [
+        "CONTROLLING A PORTABLE ELECTRONIC DEVICE WITH CAMERA"
+      ],
+      "abstract": "The present invention relates to an accessory for controlling a camera incorporated into a portable electronic device, such as a smartphone. The accessory comprises a controller configured to control the camera. The controller may be configured to initiate camera control by sending a camera control command to the portable electronic device. Alternatively, a user may initiate a camera mode on the portable electronic device and the accessory may then be used to control the camera. The accessory may comprise a reconfigurable camera grip or removable camera controls, whereby portable electronic devices such as smartphones can then be gripped and operated by a user similar to traditional cameras.",
+      "publicationNumber": "US20230140707",
+      "publicationDate": "2023-05-04",
+      "assignee": [
+        "Fjorden Electra A.S."
+      ],
+      "inventors": [
+        "Victor HENNING"
+      ],
+      "applicationDate": "2021-04-12",
+      "claimsCount": 56,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Optics"
+      ],
+      "score": 10.466108
+    },
+    {
+      "id": "TW-I827738-B",
+      "title": [
+        "JETTABLE COMPOSITION"
+      ],
+      "abstract": "A jettable composition is described, comprising a reactive monomer, oligomer or prepolymer containing at least one epoxy or oxetane functional group; a free radical polymerizable compound; a thermal cross-linking agent; and a radical initiator, along with an electronic device having the composition jetted thereon and a method of manufacturing an electronic device.",
+      "publicationNumber": "TWI827738",
+      "publicationDate": "2024-01-01",
+      "assignee": [
+        "ELECTRA POLYMERS LTD"
+      ],
+      "inventors": [
+        "Christopher Ian Wall",
+        "CLIVE LANDELLS"
+      ],
+      "applicationDate": "2019-11-26",
+      "claimsCount": 30,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Audio-visual technology",
+        "Basic materials chemistry"
+      ],
+      "score": 10.433339
+    },
+    {
+      "id": "TW-202030278-A",
+      "title": [
+        "JETTABLE COMPOSITION"
+      ],
+      "abstract": "A jettable composition is described, comprising a reactive monomer, oligomer or prepolymer containing at least one epoxy or oxetane functional group; a free radical polymerizable compound; a thermal cross-linking agent; and a radical initiator, along with an electronic device having the composition jetted thereon and a method of manufacturing an electronic device.",
+      "publicationNumber": "TW202030278",
+      "publicationDate": "2020-08-16",
+      "assignee": [
+        "ELECTRA POLYMERS LTD"
+      ],
+      "inventors": [
+        "Christopher Ian Wall",
+        "CLIVE LANDELLS"
+      ],
+      "applicationDate": "2019-11-26",
+      "claimsCount": 31,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Audio-visual technology",
+        "Basic materials chemistry"
+      ],
+      "score": 10.433339
+    },
+    {
+      "id": "IL-260433-B",
+      "title": [
+        "Hybrid power system"
+      ],
+      "abstract": "",
+      "publicationNumber": "IL260433",
+      "publicationDate": "2021-07-29",
+      "assignee": [
+        "ELECTRA - SHMERLING HYBRID SYSTEMS"
+      ],
+      "inventors": [],
+      "applicationDate": "2018-07-05",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 10.433331
+    },
+    {
+      "id": "IL-260433-A",
+      "title": [
+        "HYBRID POWER SYSTEM"
+      ],
+      "abstract": "",
+      "publicationNumber": "IL260433",
+      "publicationDate": "2018-11-29",
+      "assignee": [
+        "ELECTRA - SHMERLING HYBRID SYSTEMS"
+      ],
+      "inventors": [],
+      "applicationDate": "2018-07-05",
+      "claimsCount": 8,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Computer technology",
+        "Transport"
+      ],
+      "score": 10.433331
+    },
+    {
+      "id": "WO-2025226693-A1",
+      "title": [
+        "SIRP GAMMA ANTIBODIES FOR TREATMENT OF EPSTEIN\u2013BARR VIRUS INFECTIONS"
+      ],
+      "abstract": "Provided herein are SIRP\u03b3 antibodies that specifically SIRP\u03b3, and which have low or no affinity for binding SIRP\u03b1 and SIRP\u03b2, for the treatment of Epstein\u2013Barr virus (EBV) and clinically relevant parameters thereof.",
+      "publicationNumber": "WO2025226693",
+      "publicationDate": "2025-10-30",
+      "assignee": [
+        "ELECTRA THERAPEUTICS, INC."
+      ],
+      "inventors": [
+        "Kim-Hien T. DAO",
+        "GRAHAM C. PARRY",
+        "GARY PATOU"
+      ],
+      "applicationDate": "2025-04-22",
+      "claimsCount": 43,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Analysis of biological materials",
+        "Biotechnology",
+        "Pharmaceuticals"
+      ],
+      "score": 10.432833
+    },
+    {
+      "id": "WO-2025226691-A1",
+      "title": [
+        "SIRP ALPHA AND BETA ANTIBODIES FOR TREATMENT OF EPSTEIN\u2013BARR VIRUS INFECTIONS"
+      ],
+      "abstract": "Provided herein are antibodies that have affinity for one or more of SIRP\u03b1 and SIRP\u03b2, and low or no affinity for SIRP\u03b3, for the treatment of Epstein\u2013Barr virus (EBV) and clinically relevant parameters thereof.",
+      "publicationNumber": "WO2025226691",
+      "publicationDate": "2025-10-30",
+      "assignee": [
+        "ELECTRA THERAPEUTICS, INC."
+      ],
+      "inventors": [
+        "Kim-Hien T. DAO",
+        "GRAHAM C. PARRY",
+        "GARY PATOU"
+      ],
+      "applicationDate": "2025-04-22",
+      "claimsCount": 43,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Analysis of biological materials",
+        "Biotechnology",
+        "Pharmaceuticals"
+      ],
+      "score": 10.432833
+    },
+    {
+      "id": "WO-2025226685-A1",
+      "title": [
+        "SIRP ALPHA, BETA, GAMMA ANTIBODIES FOR TREATMENT OF EPSTEIN\u2013BARR VIRUS INFECTIONS"
+      ],
+      "abstract": "Provided herein are SIRP antibodies, specific for one or more of SIRP\u03b1 and SIRP\u03b2, and also specific for SIRP\u03b3, for the treatment of Epstein\u2013Barr virus (EBV) and clinically relevant parameters thereof.",
+      "publicationNumber": "WO2025226685",
+      "publicationDate": "2025-10-30",
+      "assignee": [
+        "ELECTRA THERAPEUTICS, INC."
+      ],
+      "inventors": [
+        "Kim-Hien T. DAO",
+        "GRAHAM C. PARRY",
+        "GARY PATOU"
+      ],
+      "applicationDate": "2025-04-22",
+      "claimsCount": 43,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Analysis of biological materials",
+        "Biotechnology",
+        "Pharmaceuticals"
+      ],
+      "score": 10.432833
+    },
+    {
+      "id": "WO-2024102372-A9",
+      "title": [
+        "METHOD AND SYSTEM FOR MISSION-DEFINED FITNESS OF AN ENERGY STORAGE SYSTEM"
+      ],
+      "abstract": "Methods and apparatus for determining a fitness of a battery for a candidate mission are provided. The method includes receiving a mission profile for the candidate mission, the mission profile indicating power demand for the battery during the candidate mission, simulating, by at least one computing device, a remaining energy of the battery based on the mission profile and properties of the battery associated with age and/or previous usage of the battery, and outputting an indication of the fitness of the battery for the candidate mission based, at least in part, on the remaining energy.",
+      "publicationNumber": "WO2024102372",
+      "publicationDate": "2024-06-20",
+      "assignee": [
+        "ELECTRA VEHICLES, INC."
+      ],
+      "inventors": [
+        "NOAH JOHNSON",
+        "Thomas COUTURE",
+        "Freeman RUFUS",
+        "David Aaron RIVKIN",
+        "Fabrizio MARTINI"
+      ],
+      "applicationDate": "2023-11-07",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Measurement",
+        "Transport"
+      ],
+      "score": 10.432833
+    },
+    {
+      "id": "WO-2024102372-A1",
+      "title": [
+        "METHOD AND SYSTEM FOR MISSION-DEFINED FITNESS OF AN ENERGY STORAGE SYSTEM"
+      ],
+      "abstract": "Methods and apparatus for determining a fitness of a battery for a candidate mission are provided. The method includes receiving a mission profile for the candidate mission, the mission profile indicating power demand for the battery during the candidate mission, simulating, by at least one computing device, a remaining energy of the battery based on the mission profile and properties of the battery associated with age and/or previous usage of the battery, and outputting an indication of the fitness of the battery for the candidate mission based, at least in part, on the remaining energy.",
+      "publicationNumber": "WO2024102372",
+      "publicationDate": "2024-05-16",
+      "assignee": [
+        "ELECTRA VEHICLES, INC."
+      ],
+      "inventors": [
+        "NOAH JOHNSON",
+        "Thomas COUTURE",
+        "Freeman RUFUS",
+        "David Aaron RIVKIN",
+        "Fabrizio MARTINI"
+      ],
+      "applicationDate": "2023-11-07",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Measurement",
+        "Transport"
+      ],
+      "score": 10.432833
+    },
+    {
+      "id": "WO-2022056421-A1",
+      "title": [
+        "DUAL ENERGY STORAGE POWERTRAIN CONFIGURATIONS AND METHODS FOR CONTROLLING THE SAME"
+      ],
+      "abstract": "A powertrain system for a vehicle is described. The powertrain system includes a first energy storage unit, a second energy storage unit, and an electronic control unit coupled to the first energy storage unit and the second energy storage unit. The first energy storage unit is configured to provide power to drive a first set of wheels of the vehicle. The second energy storage unit is configured to provide power to drive a second set of wheels of the vehicle different from the first set of wheels. The first and second energy storage units have different energy storage and/or energy discharge characteristics. The electronic control unit is programmed to control a charge and/or a discharge operation of the first energy storage unit and the second energy storage unit. The powertrain system is capable of implementing control strategies for optimizing energy and power to meet various driving demands of the vehicle.",
+      "publicationNumber": "WO2022056421",
+      "publicationDate": "2022-03-17",
+      "assignee": [
+        "ELECTRA VEHICLES, INC."
+      ],
+      "inventors": [
+        "Saurabh BHASME",
+        "Thomas, James COUTURE",
+        "Fabrizio MARTINI"
+      ],
+      "applicationDate": "2021-09-13",
+      "claimsCount": 44,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Transport"
+      ],
+      "score": 10.432833
+    },
+    {
+      "id": "WO-2021188647-A1",
+      "title": [
+        "SYSTEMS AND METHODS FOR MANAGING VELOCITY PROFILES"
+      ],
+      "abstract": "Systems, methods, and at least one computer-readable medium for selecting a velocity profile for an electric vehicle. In some embodiments, a first parameter value may be determined for a road segment in a selection horizon, and a second parameter value may be determined for an energy storage device of the electric vehicle. The first and second parameter values may be used to predict a plurality of velocity profiles over the selection horizon, wherein each velocity profile is predicted based on a corresponding value of a variable relating to a driving style of a driver of the electric vehicle. An energy consumption cost and a travel time cost may be computed for each velocity profile. A velocity profile may be selected from the plurality of velocity profiles, based on the respective energy consumption costs and the respective travel time costs.",
+      "publicationNumber": "WO2021188647",
+      "publicationDate": "2021-09-23",
+      "assignee": [
+        "ELECTRA VEHICLES, INC."
+      ],
+      "inventors": [
+        "Saurabh BHASME",
+        "Thomas, James COUTURE",
+        "Britany STRALEY",
+        "Fabrizio MARTINI"
+      ],
+      "applicationDate": "2021-03-17",
+      "claimsCount": 12,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Transport"
+      ],
+      "score": 10.432833
+    },
+    {
+      "id": "US-20230356625-A1",
+      "title": [
+        "DUAL ENERGY STORAGE POWERTRAIN CONFIGURATIONS AND METHODS FOR CONTROLLING THE SAME"
+      ],
+      "abstract": "A powertrain system for a vehicle is described. The powertrain system includes a first energy storage unit, a second energy storage unit, and an electronic control unit coupled to the first energy storage unit and the second energy storage unit. The first energy storage unit is configured to provide power to drive a first set of wheels of the vehicle. The second energy storage unit is configured to provide power to drive a second set of wheels of the vehicle different from the first set of wheels. The first and second energy storage units have different energy storage and/or energy discharge characteristics. The electronic control unit is programmed to control a charge and/or a discharge operation of the first energy storage unit and the second energy storage unit. The powertrain system is capable of implementing control strategies for optimizing energy and power to meet various driving demands of the vehicle.",
+      "publicationNumber": "US20230356625",
+      "publicationDate": "2023-11-09",
+      "assignee": [
+        "ELECTRA VEHICLES, INC."
+      ],
+      "inventors": [
+        "Saurabh Bhasme",
+        "Thomas James Couture",
+        "Fabrizio Martini"
+      ],
+      "applicationDate": "2021-09-13",
+      "claimsCount": 44,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Transport"
+      ],
+      "score": 10.432833
+    },
+    {
+      "id": "EP-4211011-A4",
+      "title": [
+        "DUAL ENERGY STORAGE POWERTRAIN CONFIGURATIONS AND METHODS FOR CONTROLLING THE SAME"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP4211011",
+      "publicationDate": "2024-10-16",
+      "assignee": [
+        "Electra Vehicles, Inc."
+      ],
+      "inventors": [
+        "Saurabh BHASME",
+        "Thomas, James COUTURE",
+        "Fabrizio MARTINI"
+      ],
+      "applicationDate": "2021-09-13",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Transport"
+      ],
+      "score": 10.432833
+    },
+    {
+      "id": "EP-4211011-A1",
+      "title": [
+        "DUAL ENERGY STORAGE POWERTRAIN CONFIGURATIONS AND METHODS FOR CONTROLLING THE SAME"
+      ],
+      "abstract": "A powertrain system for a vehicle is described. The powertrain system includes a first energy storage unit, a second energy storage unit, and an electronic control unit coupled to the first energy storage unit and the second energy storage unit. The first energy storage unit is configured to provide power to drive a first set of wheels of the vehicle. The second energy storage unit is configured to provide power to drive a second set of wheels of the vehicle different from the first set of wheels. The first and second energy storage units have different energy storage and/or energy discharge characteristics. The electronic control unit is programmed to control a charge and/or a discharge operation of the first energy storage unit and the second energy storage unit. The powertrain system is capable of implementing control strategies for optimizing energy and power to meet various driving demands of the vehicle.",
+      "publicationNumber": "EP4211011",
+      "publicationDate": "2023-07-19",
+      "assignee": [
+        "Electra Vehicles, Inc."
+      ],
+      "inventors": [
+        "Saurabh BHASME",
+        "Thomas, James COUTURE",
+        "Fabrizio MARTINI"
+      ],
+      "applicationDate": "2021-09-13",
+      "claimsCount": 44,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Transport"
+      ],
+      "score": 10.432833
+    },
+    {
+      "id": "EP-4121329-A4",
+      "title": [
+        "SYSTEMS AND METHODS FOR MANAGING VELOCITY PROFILES"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP4121329",
+      "publicationDate": "2024-04-17",
+      "assignee": [
+        "Electra Vehicles, Inc."
+      ],
+      "inventors": [
+        "Saurabh BHASME",
+        "Thomas, James COUTURE",
+        "Britany STRALEY",
+        "Fabrizio MARTINI"
+      ],
+      "applicationDate": "2021-03-17",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Transport"
+      ],
+      "score": 10.432833
+    },
+    {
+      "id": "EP-4121329-A1",
+      "title": [
+        "SYSTEMS AND METHODS FOR MANAGING VELOCITY PROFILES"
+      ],
+      "abstract": "Systems, methods, and at least one computer-readable medium for selecting a velocity profile for an electric vehicle. In some embodiments, a first parameter value may be determined for a road segment in a selection horizon, and a second parameter value may be determined for an energy storage device of the electric vehicle. The first and second parameter values may be used to predict a plurality of velocity profiles over the selection horizon, wherein each velocity profile is predicted based on a corresponding value of a variable relating to a driving style of a driver of the electric vehicle. An energy consumption cost and a travel time cost may be computed for each velocity profile. A velocity profile may be selected from the plurality of velocity profiles, based on the respective energy consumption costs and the respective travel time costs.",
+      "publicationNumber": "EP4121329",
+      "publicationDate": "2023-01-25",
+      "assignee": [
+        "Electra Vehicles, Inc."
+      ],
+      "inventors": [
+        "Saurabh BHASME",
+        "Thomas, James COUTURE",
+        "Britany STRALEY",
+        "Fabrizio MARTINI"
+      ],
+      "applicationDate": "2021-03-17",
+      "claimsCount": 12,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Transport"
+      ],
+      "score": 10.432833
+    },
+    {
+      "id": "IL-254612-A0",
+      "title": [
+        "Digital media led monitor and screen built into external or internal elevator door"
+      ],
+      "abstract": "",
+      "publicationNumber": "IL254612",
+      "publicationDate": "2017-11-30",
+      "assignee": [
+        "ELECTRA LTD"
+      ],
+      "inventors": [
+        "Shlomi BEN ABAT",
+        "AMIT MOR"
+      ],
+      "applicationDate": "2017-09-19",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 10.376711
+    },
+    {
+      "id": "EP-3296245-A1",
+      "title": [
+        "DIGITAL MEDIA LED MONITOR AND SCREEN BUILT INTO EXTERNAL OR INTERNAL ELEVATOR DOOR"
+      ],
+      "abstract": "A digital media system for an elevator in which media content is viewable from outside the elevator. A sending smart card within an elevator shaft and at least one stationary external elevator door comprising: (a) a rigid door frame body; (b) an LED monitor including (i) a receiving smart card configured for receiving the video content and (ii) an LED screen configured to receive a continuous flow of media content, the media content visible to viewers outside the elevator at least when the external elevator doors are closed. The LED monitor either occupies an external surface of the door frame body or the door frame body includes a transparent external wall section. System also includes a flexible tube that houses at least one power cable. Opening and closing of the doors does not disrupt the continuous flow of media content to the LED screen.",
+      "publicationNumber": "EP3296245",
+      "publicationDate": "2018-03-21",
+      "assignee": [
+        "Electra Ltd."
+      ],
+      "inventors": [
+        "Shlomi BEN ABAT",
+        "AMIT MOR"
+      ],
+      "applicationDate": "2017-09-19",
+      "claimsCount": 15,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Handling"
+      ],
+      "score": 10.376711
+    },
+    {
+      "id": "IT-201800010049-A1",
+      "title": [
+        "DIMA PER LA TRACCIATURA DI IMPIANTI ELETTRICI"
+      ],
+      "abstract": "",
+      "publicationNumber": "IT201800010049",
+      "publicationDate": "2020-05-05",
+      "assignee": [
+        "ELECTRA DI UBERTI CRISTIAN"
+      ],
+      "inventors": [
+        "Cristian Uberti"
+      ],
+      "applicationDate": "2018-11-05",
+      "claimsCount": 10,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 10.368732
+    },
+    {
+      "id": "WO-2025085857-A1",
+      "title": [
+        "SIRP ANTIBODIES FOR TREATMENT OF CANCER"
+      ],
+      "abstract": "Provided herein are clinically relevant parameters for the use of SIRP antibodies, for the treatment of a cancer.",
+      "publicationNumber": "WO2025085857",
+      "publicationDate": "2025-04-24",
+      "assignee": [
+        "ELECTRA THERAPEUTICS, INC."
+      ],
+      "inventors": [
+        "Kim-Hien T. DAO",
+        "GRAHAM C. PARRY",
+        "GARY PATOU"
+      ],
+      "applicationDate": "2024-10-18",
+      "claimsCount": 73,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Biotechnology",
+        "Pharmaceuticals"
+      ],
+      "score": 10.364952
+    },
+    {
+      "id": "WO-2023086906-A3",
+      "title": [
+        "SIRP GAMMA ANTIBODIES AND USES THEREOF"
+      ],
+      "abstract": "Provided herein are antibodies that bind signal regulatory protein SIRPg and methods of making and using such antibodies. In some embodiments, the antibodies comprise an Fc, and are useful for selective depletion of certain target SIRPy expressing cells. In some embodiments, the antibodies provided herein are useful for treating a disease or condition associated with the dysregulation of cells (e.g. overactivation or aberrant proliferation of T-cells).",
+      "publicationNumber": "WO2023086906",
+      "publicationDate": "2023-06-22",
+      "assignee": [
+        "ELECTRA THERAPEUTICS, INC."
+      ],
+      "inventors": [
+        "Sandip PANICKER",
+        "Adam David ROSENTHAL",
+        "Eileen Lingshu ROSE",
+        "Allen Guo Yang CAI"
+      ],
+      "applicationDate": "2022-11-10",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Biotechnology",
+        "Pharmaceuticals"
+      ],
+      "score": 10.364952
+    },
+    {
+      "id": "WO-2023086906-A2",
+      "title": [
+        "SIRP GAMMA ANTIBODIES AND USES THEREOF"
+      ],
+      "abstract": "Provided herein are antibodies that bind signal regulatory protein SIRPg and methods of making and using such antibodies. In some embodiments, the antibodies comprise an Fc, and are useful for selective depletion of certain target SIRPy expressing cells. In some embodiments, the antibodies provided herein are useful for treating a disease or condition associated with the dysregulation of cells (e.g. overactivation or aberrant proliferation of T-cells).",
+      "publicationNumber": "WO2023086906",
+      "publicationDate": "2023-05-19",
+      "assignee": [
+        "ELECTRA THERAPEUTICS, INC."
+      ],
+      "inventors": [
+        "Sandip PANICKER",
+        "Adam David ROSENTHAL",
+        "Eileen Lingshu ROSE",
+        "Allen Guo Yang CAI"
+      ],
+      "applicationDate": "2022-11-10",
+      "claimsCount": 15,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Biotechnology",
+        "Pharmaceuticals"
+      ],
+      "score": 10.364952
+    },
+    {
+      "id": "MX-2024005740-A",
+      "title": [
+        "SIRP GAMMA ANTIBODIES AND USES THEREOF."
+      ],
+      "abstract": "Provided herein are antibodies that bind signal regulatory protein SIRPg and methods of making and using such antibodies. In some embodiments, the antibodies comprise an Fc, and are useful for selective depletion of certain target SIRPy expressing cells. In some embodiments, the antibodies provided herein are useful for treating a disease or condition associated with the dysregulation of cells (e.g. overactivation or aberrant proliferation of T-cells).Provided herein are antibodies that bind signal regulatory protein SIRPg and methods of making and using such antibodies. In some embodiments, the antibodies comprise an Fc, and are useful for selective depletion of certain target SIRPy expressing cells. In some embodiments, the antibodies provided herein are useful for treating a disease or condition associated with the dysregulation of cells (e.g. overactivation or aberrant proliferation of T-cells). The present disclosure relates to antibodies that specifically bind soluble and membrane forms of human TNF\u00ce\u00b1, compositions comprising such TNF\u00ce\u00b1 antibodies, and methods of using such TNF\u00ce\u00b1 antibodies and compositions.",
+      "publicationNumber": "MX2024005740",
+      "publicationDate": "2024-08-06",
+      "assignee": [
+        "ELECTRA THERAPEUTICS, INC."
+      ],
+      "inventors": [
+        "PANICKER SANDIP",
+        "ROSENTHAL ADAM DAVID",
+        "ROSE EILEEN LINGSHU",
+        "CAI ALLEN GUO YANG"
+      ],
+      "applicationDate": "2022-11-10",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Biotechnology",
+        "Pharmaceuticals"
+      ],
+      "score": 10.364952
+    },
+    {
+      "id": "IL-312776-A",
+      "title": [
+        "SIRP GAMMA ANTIBODIES AND USES THEREOF"
+      ],
+      "abstract": "",
+      "publicationNumber": "IL312776",
+      "publicationDate": "2024-07-01",
+      "assignee": [
+        "ELECTRA THERAPEUTICS INC."
+      ],
+      "inventors": [
+        "CAI ALLEN GUO YANG",
+        "PANICKER SANDIP",
+        "ROSE EILEEN LINGSHU",
+        "ROSENTHAL ADAM DAVID",
+        "CAI ALLEN GUO YANG",
+        "PANICKER SANDIP",
+        "ROSE EILEEN LINGSHU",
+        "ROSENTHAL ADAM DAVID"
+      ],
+      "applicationDate": "2024-05-09",
+      "claimsCount": 138,
+      "independentClaimsCount": 13,
+      "technologyFields": [
+        "Biotechnology",
+        "Pharmaceuticals"
+      ],
+      "score": 10.364952
+    },
+    {
+      "id": "EP-4429768-A2",
+      "title": [
+        "SIRP GAMMA ANTIBODIES AND USES THEREOF"
+      ],
+      "abstract": "Provided herein are antibodies that bind signal regulatory protein SIRPg and methods of making and using such antibodies. In some embodiments, the antibodies comprise an Fc, and are useful for selective depletion of certain target SIRPy expressing cells. In some embodiments, the antibodies provided herein are useful for treating a disease or condition associated with the dysregulation of cells (e.g. overactivation or aberrant proliferation of T-cells).",
+      "publicationNumber": "EP4429768",
+      "publicationDate": "2024-09-18",
+      "assignee": [
+        "Electra Therapeutics, Inc."
+      ],
+      "inventors": [
+        "Sandip PANICKER",
+        "Adam David ROSENTHAL",
+        "Eileen Lingshu ROSE",
+        "Allen Guo Yang CAI"
+      ],
+      "applicationDate": "2022-11-10",
+      "claimsCount": 15,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Biotechnology",
+        "Pharmaceuticals"
+      ],
+      "score": 10.364952
+    },
+    {
+      "id": "CA-211693-S",
+      "title": [
+        "SMARTPHONE CAMERA GRIP"
+      ],
+      "abstract": "",
+      "publicationNumber": "CA211693",
+      "publicationDate": "2024-01-29",
+      "assignee": [
+        "FJORDEN ELECTRA AS"
+      ],
+      "inventors": [],
+      "applicationDate": "2022-03-11",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 10.364952
+    },
+    {
+      "id": "AU-2022386652-A1",
+      "title": [
+        "SIRP GAMMA ANTIBODIES AND USES THEREOF"
+      ],
+      "abstract": "Provided herein are antibodies that bind signal regulatory protein SIRPg and methods of making and using such antibodies. In some embodiments, the antibodies comprise an Fc, and are useful for selective depletion of certain target SIRPy expressing cells. In some embodiments, the antibodies provided herein are useful for treating a disease or condition associated with the dysregulation of cells (e.g. overactivation or aberrant proliferation of T-cells).",
+      "publicationNumber": "AU2022386652",
+      "publicationDate": "2024-06-06",
+      "assignee": [
+        "ELECTRA THERAPEUTICS, INC."
+      ],
+      "inventors": [
+        "Allen Guo Yang CAI",
+        "Sandip PANICKER",
+        "Eileen Lingshu ROSE",
+        "Adam David ROSENTHAL"
+      ],
+      "applicationDate": "2022-11-10",
+      "claimsCount": 15,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Biotechnology",
+        "Pharmaceuticals"
+      ],
+      "score": 10.364952
+    },
+    {
+      "id": "RO-131160-A0",
+      "title": [
+        "WIRELESS SWITCH FOR LIGHTING UNIT CONTROL"
+      ],
+      "abstract": "The invention relates to a wireless switch for controlling lighting units by infrared signals, depending on some wireless signals received via Internet from a building management center, for switching on or off or adjusting luminosity or by manually actuating the switch. According to the invention, the switch consists of a plastic casing (F), having parallelepipedal shape, where one of the sides is made of glass and represents a keyboard (C) provided with an on/off key (D) and a number of keys (E) for manually adjusting the light intensity of the lighting unit, the keys (D and E) being located on a printed circuit attached onto the back of the glass piece, inside the casing (F), and of an electronic circuit (EIR) for controlling an infrared emitter LED (IR) which may receive commands from the keyboard and/or from an Internet/Ethernet wireless circuit (W) connected to an Internet router, so that the infrared signals transmitted by the LED (IR) are received by a photoresistor (FT) and a receiver circuit (RIR) which transmits, by means of a power circuit (CP), an electric signal for switching on/off or for adjusting light intensity of the lighting unit, the photoresistor (FT), the receiver circuit (RIR) and the power circuit (CP) being connected onto a printed circuit inside the plastic casing which is mounted on the lighting unit.",
+      "publicationNumber": "RO131160",
+      "publicationDate": "2016-05-30",
+      "assignee": [
+        "ELECTRA S.R.L."
+      ],
+      "inventors": [
+        "BERDAN MARIAN",
+        "GABUR\u0102 ADRIAN",
+        "MITITELU VASILE DRAGO\u015e"
+      ],
+      "applicationDate": "2015-10-29",
+      "claimsCount": 1,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Telecommunications"
+      ],
+      "score": 10.309813
+    },
+    {
+      "id": "JP-2022002965-A",
+      "title": [
+        "MODULAR ROLLING CHASSIS FOR VEHICLE"
+      ],
+      "abstract": "To provide a rolling chassis that provides appropriate weight distribution (the center of gravity) and torsional and flexural rigidity by using a composite material without custom formation.SOLUTION: According to the present invention, a vehicle chassis device is provided, which has: a platform frame having a front bulkhead and a rear bulkhead; a front sub-frame attachable to the front bulkhead; a rear sub-frame attachable to the rear bulkhead; and a control module operatively coupleable to the front sub-frame through the front bulkhead. The platform frame further includes a pair of side battery compartments extending from the front bulkhead to the rear bulkhead, which is adapted to freely removably house a battery module for electrically connecting to at least one of the rear sub-frame and the front sub-frame.SELECTED DRAWING: Figure 1",
+      "publicationNumber": "JP2022002965",
+      "publicationDate": "2022-01-11",
+      "assignee": [
+        "ELECTRA MECCANICA VEHICLES CORP"
+      ],
+      "inventors": [
+        "RODNEY J TRENNE",
+        "RICH WINSTON HOYLE",
+        "HENRY RICHARD REISNER",
+        "EDWARD RUSSELL THEOBALD",
+        "JERRY KROLL"
+      ],
+      "applicationDate": "2021-10-22",
+      "claimsCount": 20,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Transport"
+      ],
+      "score": 10.222408
+    },
+    {
+      "id": "WO-2021226591-A1",
+      "title": [
+        "SIRP ALPHA, SIRP BETA 1, AND SIRP GAMMA ANTIBODIES AND USES THEREOF"
+      ],
+      "abstract": "Provided herein are antibodies that bind signal regulatory protein gamma (SIRPy), as well as SIRP\u03b1 and/or SIRP\u03b21, and methods of using such antibodies (referred to as SIRP antibodies). In some embodiments, the SIRP antibodies are human monoclonal antibodies that bind human SIRPy as well as SIRP\u03b1 and/or SIRP\u03b21. In some embodiments, the SIRP antibodies provided herein are useful for treating a disease or condition associated with overactivation and/or hyperproliferation of lymphocytes, myeloid cells, or a combination thereof, or a disease or condition associated with SIRP\u03b1, SIRP\u03b21 and/or SIRPy activity.",
+      "publicationNumber": "WO2021226591",
+      "publicationDate": "2021-11-11",
+      "assignee": [
+        "ELECTRA THERAPEUTICS, INC."
+      ],
+      "inventors": [
+        "Sandip PANICKER",
+        "Adam, David ROSENTHAL",
+        "Eileen, Lingshu ROSE"
+      ],
+      "applicationDate": "2021-05-10",
+      "claimsCount": 112,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 10.13926
+    },
+    {
+      "id": "WO-2021226576-A1",
+      "title": [
+        "SIRP ALPHA AND SIRP BETA 1 ANTIBODIES AND USES THEREOF"
+      ],
+      "abstract": "Provided herein are antibodies that bind signal regulatory protein SIRP\u03b1, SIRP\u03b21, or a combination of SIRP\u03b1 and SIRP\u03b21, and methods of using such antibodies. In some embodiments, the antibodies are human monoclonal antibodies that bind human SIRP\u03b1 and/or SIRP\u03b21. In some embodiments, the antibodies provided herein are useful for treating a disease or condition associated with overactivation and/or hyperproliferation of myeloid cells, or a disease or condition associated with SIRP\u03b1 and/or SIRP\u03b21 activity.",
+      "publicationNumber": "WO2021226576",
+      "publicationDate": "2021-11-11",
+      "assignee": [
+        "ELECTRA THERAPEUTICS, INC."
+      ],
+      "inventors": [
+        "Sandip PANICKER",
+        "Adam David ROSENTHAL",
+        "Eileen Lingshu ROSE"
+      ],
+      "applicationDate": "2021-05-10",
+      "claimsCount": 89,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 10.13926
+    },
+    {
+      "id": "IL-298024-A",
+      "title": [
+        "Sirp alpha, sirp beta 1, and sirp gamma antibodies and uses thereof"
+      ],
+      "abstract": "",
+      "publicationNumber": "IL298024",
+      "publicationDate": "2023-01-01",
+      "assignee": [
+        "ELECTRA THERAPEUTICS INC."
+      ],
+      "inventors": [],
+      "applicationDate": "2022-11-07",
+      "claimsCount": 112,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 10.13926
+    },
+    {
+      "id": "IL-297982-A",
+      "title": [
+        "Sirp alpha and sirp beta 1 antibodies and uses thereof"
+      ],
+      "abstract": "",
+      "publicationNumber": "IL297982",
+      "publicationDate": "2023-01-01",
+      "assignee": [
+        "ELECTRA THERAPEUTICS INC."
+      ],
+      "inventors": [],
+      "applicationDate": "2022-11-06",
+      "claimsCount": 89,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 10.13926
+    },
+    {
+      "id": "GB-2613464-A",
+      "title": [
+        "SIRP ALPHA, SIRP BETA 1, AND SIRP GAMMA ANTIBODIES AND USES THEREOF"
+      ],
+      "abstract": "Provided herein are antibodies that bind signal regulatory protein gamma (SIRPy), as well as SIRP\u03b1 and/or SIRP\u03b21, and methods of using such antibodies (referred to as SIRP antibodies). In some embodiments, the SIRP antibodies are human monoclonal antibodies that bind human SIRPy as well as SIRP\u03b1 and/or SIRP\u03b21. In some embodiments, the SIRP antibodies provided herein are useful for treating a disease or condition associated with overactivation and/or hyperproliferation of lymphocytes, myeloid cells, or a combination thereof, or a disease or condition associated with SIRP\u03b1, SIRP\u03b21 and/or SIRPy activity.",
+      "publicationNumber": "GB2613464",
+      "publicationDate": "2023-06-07",
+      "assignee": [
+        "ELECTRA THERAPEUTICS, INC."
+      ],
+      "inventors": [
+        "SANDIP PANICKER",
+        "ADAM DAVID ROSENTHAL",
+        "Eileen Lingshu Rose"
+      ],
+      "applicationDate": "2021-05-10",
+      "claimsCount": 112,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 10.13926
+    },
+    {
+      "id": "GB-2613259-A",
+      "title": [
+        "SIRP alpha and SIRP beta 1 antibodies and uses thereof"
+      ],
+      "abstract": "Provided herein are antibodies that bind signal regulatory protein SIRP\u03b1, SIRP\u03b21, or a combination of SIRP\u03b1 and SIRP\u03b21, and methods of using such antibodies. In some embodiments, the antibodies are human monoclonal antibodies that bind human SIRP\u03b1 and/or SIRP\u03b21. In some embodiments, the antibodies provided herein are useful for treating a disease or condition associated with overactivation and/or hyperproliferation of myeloid cells, or a disease or condition associated with SIRP\u03b1 and/or SIRP\u03b21 activity.",
+      "publicationNumber": "GB2613259",
+      "publicationDate": "2023-05-31",
+      "assignee": [
+        "ELECTRA THERAPEUTICS, INC."
+      ],
+      "inventors": [
+        "SANDIP PANICKER",
+        "ADAM DAVID ROSENTHAL",
+        "Eileen Lingshu Rose"
+      ],
+      "applicationDate": "2021-05-10",
+      "claimsCount": 89,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 10.13926
+    },
+    {
+      "id": "GB-202218421-D0",
+      "title": [
+        "Sirp alpha, sirp beta 1, and sirp gamma antibodies and uses thereof"
+      ],
+      "abstract": "",
+      "publicationNumber": "GB202218421",
+      "publicationDate": "2023-01-18",
+      "assignee": [
+        "ELECTRA THERAPEUTICS, INC."
+      ],
+      "inventors": [],
+      "applicationDate": "2021-05-10",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 10.13926
+    },
+    {
+      "id": "GB-202218419-D0",
+      "title": [
+        "Sirp alpha and sirp beta 1 antibodies and uses thereof"
+      ],
+      "abstract": "",
+      "publicationNumber": "GB202218419",
+      "publicationDate": "2023-01-18",
+      "assignee": [
+        "ELECTRA THERAPEUTICS, INC."
+      ],
+      "inventors": [],
+      "applicationDate": "2021-05-10",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 10.13926
+    },
+    {
+      "id": "EP-4146699-A1",
+      "title": [
+        "SIRP ALPHA AND SIRP BETA 1 ANTIBODIES AND USES THEREOF"
+      ],
+      "abstract": "Provided herein are antibodies that bind signal regulatory protein SIRP\u03b1, SIRP\u03b21, or a combination of SIRP\u03b1 and SIRP\u03b21, and methods of using such antibodies. In some embodiments, the antibodies are human monoclonal antibodies that bind human SIRP\u03b1 and/or SIRP\u03b21. In some embodiments, the antibodies provided herein are useful for treating a disease or condition associated with overactivation and/or hyperproliferation of myeloid cells, or a disease or condition associated with SIRP\u03b1 and/or SIRP\u03b21 activity.",
+      "publicationNumber": "EP4146699",
+      "publicationDate": "2023-03-15",
+      "assignee": [
+        "Electra Therapeutics, Inc."
+      ],
+      "inventors": [
+        "Sandip PANICKER",
+        "Adam David ROSENTHAL",
+        "Eileen Lingshu ROSE"
+      ],
+      "applicationDate": "2021-05-10",
+      "claimsCount": 89,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 10.13926
+    },
+    {
+      "id": "EP-4146698-A1",
+      "title": [
+        "SIRP ALPHA, SIRP BETA 1, AND SIRP GAMMA ANTIBODIES AND USES THEREOF"
+      ],
+      "abstract": "Provided herein are antibodies that bind signal regulatory protein gamma (SIRPy), as well as SIRP\u03b1 and/or SIRP\u03b21, and methods of using such antibodies (referred to as SIRP antibodies). In some embodiments, the SIRP antibodies are human monoclonal antibodies that bind human SIRPy as well as SIRP\u03b1 and/or SIRP\u03b21. In some embodiments, the SIRP antibodies provided herein are useful for treating a disease or condition associated with overactivation and/or hyperproliferation of lymphocytes, myeloid cells, or a combination thereof, or a disease or condition associated with SIRP\u03b1, SIRP\u03b21 and/or SIRPy activity.",
+      "publicationNumber": "EP4146698",
+      "publicationDate": "2023-03-15",
+      "assignee": [
+        "Electra Therapeutics, Inc."
+      ],
+      "inventors": [
+        "Sandip PANICKER",
+        "Adam David ROSENTHAL",
+        "Eileen Lingshu ROSE"
+      ],
+      "applicationDate": "2021-05-10",
+      "claimsCount": 112,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 10.13926
+    },
+    {
+      "id": "AU-2021269130-A1",
+      "title": [
+        "SIRP\u03b1 and SIRP\u03b21 antibodies and uses thereof"
+      ],
+      "abstract": "Provided herein are antibodies that bind signal regulatory protein SIRP\u03b1, SIRP\u03b21, or a combination of SIRP\u03b1 and SIRP\u03b21, and methods of using such antibodies. In some embodiments, the antibodies are human monoclonal antibodies that bind human SIRP\u03b1 and/or SIRP\u03b21. In some embodiments, the antibodies provided herein are useful for treating a disease or condition associated with overactivation and/or hyperproliferation of myeloid cells, or a disease or condition associated with SIRP\u03b1 and/or SIRP\u03b21 activity.",
+      "publicationNumber": "AU2021269130",
+      "publicationDate": "2022-11-24",
+      "assignee": [
+        "ELECTRA THERAPEUTICS, INC."
+      ],
+      "inventors": [
+        "Sandip PANICKER",
+        "Eileen Lingshu ROSE",
+        "Adam David ROSENTHAL"
+      ],
+      "applicationDate": "2021-05-10",
+      "claimsCount": 89,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 10.13926
+    },
+    {
+      "id": "AU-2021267943-A1",
+      "title": [
+        "SIRP\u03b1, SIRP\u03b21, and SIRPy antibodies and uses thereof"
+      ],
+      "abstract": "Provided herein are antibodies that bind signal regulatory protein gamma (SIRPy), as well as SIRP\u03b1 and/or SIRP\u03b21, and methods of using such antibodies (referred to as SIRP antibodies). In some embodiments, the SIRP antibodies are human monoclonal antibodies that bind human SIRPy as well as SIRP\u03b1 and/or SIRP\u03b21. In some embodiments, the SIRP antibodies provided herein are useful for treating a disease or condition associated with overactivation and/or hyperproliferation of lymphocytes, myeloid cells, or a combination thereof, or a disease or condition associated with SIRP\u03b1, SIRP\u03b21 and/or SIRPy activity.",
+      "publicationNumber": "AU2021267943",
+      "publicationDate": "2022-11-24",
+      "assignee": [
+        "ELECTRA THERAPEUTICS, INC."
+      ],
+      "inventors": [
+        "Sandip PANICKER",
+        "Eileen, Lingshu ROSE",
+        "Adam David ROSENTHAL"
+      ],
+      "applicationDate": "2021-05-10",
+      "claimsCount": 112,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 10.13926
+    },
+    {
+      "id": "US-20240400677-A1",
+      "title": [
+        "SIRP GAMMA ANTIBODIES AND USES THEREOF"
+      ],
+      "abstract": "Provided herein are antibodies that bind signal regulatory protein SIRP\u03b3 and methods of making and using such antibodies. In some embodiments, the antibodies comprise an Fc, and are useful for preferential depletion of certain SIRP\u03b3 expressing cells. In some embodiments, the antibodies provided herein are useful for treating a disease or condition associated with the dysregulation of cells (e.g. overactivation or aberrant proliferation of T-cells).",
+      "publicationNumber": "US20240400677",
+      "publicationDate": "2024-12-05",
+      "assignee": [
+        "ELECTRA THERAPEUTICS, INC."
+      ],
+      "inventors": [
+        "Sandip Panicker",
+        "Adam David ROSENTHAL",
+        "Eileen Lingshu ROSE",
+        "Allen Guo Yang CAI"
+      ],
+      "applicationDate": "2024-05-09",
+      "claimsCount": 42,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Biotechnology",
+        "Pharmaceuticals"
+      ],
+      "score": 10.065422
+    },
+    {
+      "id": "WO-2018087056-A1",
+      "title": [
+        "SOLDER MASK INKJET INKS FOR MANUFACTURING PRINTED CIRCUIT BOARDS"
+      ],
+      "abstract": "The invention provides an inkjet method for producing a solder mask in the manufacture of a Printed Circuit Board. By using a solder mask inkjet ink containing a polymerizable adhesion promoter and a phenolic compound comprising at least two phenolic groups, a high quality solder mask withstanding the high thermal stress during the soldering process while maintaining excellent physical properties, may be produced.",
+      "publicationNumber": "WO2018087056",
+      "publicationDate": "2018-05-17",
+      "assignee": [
+        "AGFA-GEVAERT N.V."
+      ],
+      "inventors": [
+        "RITA TORFS",
+        "HUBERTUS VAN AERT",
+        "JOHAN LOCCUFIER",
+        "Marion Sauvageot"
+      ],
+      "applicationDate": "2017-11-07",
+      "claimsCount": 15,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Basic materials chemistry"
+      ],
+      "score": 10.0106735
+    },
+    {
+      "id": "EP-3538617-A1",
+      "title": [
+        "SOLDER MASK INKJET INKS FOR MANUFACTURING PRINTED CIRCUIT BOARDS"
+      ],
+      "abstract": "The invention provides an inkjet method for producing a solder mask in the manufacture of a Printed Circuit Board. By using a solder mask inkjet ink containing a polymerizable adhesion promoter and a phenolic compound comprising at least two phenolic groups, a high quality solder mask withstanding the high thermal stress during the soldering process while maintaining excellent physical properties, may be produced.",
+      "publicationNumber": "EP3538617",
+      "publicationDate": "2019-09-18",
+      "assignee": [
+        "Agfa-Gevaert N.V."
+      ],
+      "inventors": [
+        "RITA TORFS",
+        "HUBERTUS VAN AERT",
+        "JOHAN LOCCUFIER",
+        "Marion Sauvageot"
+      ],
+      "applicationDate": "2017-11-07",
+      "claimsCount": 15,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Basic materials chemistry"
+      ],
+      "score": 10.0106735
+    },
+    {
+      "id": "EM-151052670003-S",
+      "title": [
+        "Supports for elements of exterior lighting"
+      ],
+      "abstract": "",
+      "publicationNumber": "EM151052670003",
+      "publicationDate": "2025-06-16",
+      "assignee": [
+        "ELECTRA"
+      ],
+      "inventors": [],
+      "applicationDate": "2025-05-29",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 9.976155
+    },
+    {
+      "id": "EM-151052670002-S",
+      "title": [
+        "Supports for elements of exterior lighting"
+      ],
+      "abstract": "",
+      "publicationNumber": "EM151052670002",
+      "publicationDate": "2025-06-16",
+      "assignee": [
+        "ELECTRA"
+      ],
+      "inventors": [
+        "Valeriia ILICHEVA"
+      ],
+      "applicationDate": "2025-05-29",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 9.976155
+    },
+    {
+      "id": "EM-151052670001-S",
+      "title": [
+        "Supports for elements of exterior lighting"
+      ],
+      "abstract": "",
+      "publicationNumber": "EM151052670001",
+      "publicationDate": "2025-06-16",
+      "assignee": [
+        "ELECTRA"
+      ],
+      "inventors": [
+        "Valeriia ILICHEVA"
+      ],
+      "applicationDate": "2025-05-29",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 9.976155
+    },
+    {
+      "id": "IL-232078-B",
+      "title": [
+        "Templates kit for construction layout"
+      ],
+      "abstract": "",
+      "publicationNumber": "IL232078",
+      "publicationDate": "2018-07-31",
+      "assignee": [
+        "ELECTRA CONSUMER PRODUCTS (1951) LTD."
+      ],
+      "inventors": [
+        "YEHEZKEL SHKURI"
+      ],
+      "applicationDate": "2014-04-10",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 9.90327
+    },
+    {
+      "id": "WO-2019121098-A1",
+      "title": [
+        "SOLDER MASK INKJET INKS FOR MANUFACTURING PRINTED CIRCUIT BOARDS"
+      ],
+      "abstract": "The invention provides a radiation curable solder mask Inkjet ink containing a photo-initiator, a polymerizable compound and a flame retardant wherewith a high quality solder mask withstanding the high thermal stress during the soldering process while maintaining excellent physical properties and flame retardancy may be produced.",
+      "publicationNumber": "WO2019121098",
+      "publicationDate": "2019-06-27",
+      "assignee": [
+        "AGFA-GEVAERT NV"
+      ],
+      "inventors": [
+        "RITA TORFS",
+        "JOHAN LOCCUFIER",
+        "CLIVE LANDELLS",
+        "CHRISTOPHER WALL"
+      ],
+      "applicationDate": "2018-12-10",
+      "claimsCount": 15,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Textile and paper machines"
+      ],
+      "score": 9.902966
+    },
+    {
+      "id": "US-20200332140-A1",
+      "title": [
+        "SOLDER MASK INKJET INKS FOR MANUFACTURING PRINTED CIRCUIT BOARDS"
+      ],
+      "abstract": "A radiation curable solder mask inkjet ink contains a photo-initiator, a polymerizable compound and a flame retardant wherewith a high quality solder mask withstanding the high thermal stress during the soldering process while maintaining excellent physical properties and flame retardancy may be produced.",
+      "publicationNumber": "US20200332140",
+      "publicationDate": "2020-10-22",
+      "assignee": [
+        "AGFA-GEVAERT NV"
+      ],
+      "inventors": [
+        "Rita Torfs",
+        "Johan Loccufier",
+        "Clive LANDELLS",
+        "Christopher Wall"
+      ],
+      "applicationDate": "2018-12-10",
+      "claimsCount": 15,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Audio-visual technology",
+        "Basic materials chemistry",
+        "Textile and paper machines"
+      ],
+      "score": 9.902966
+    },
+    {
+      "id": "JP-2016167365-A",
+      "title": [
+        "MAGNESIUM METAL BATTERY, INTERCHANGEABLE BATTERY AND POWER SUPPLY DEVICE"
+      ],
+      "abstract": "PROBLEM TO BE SOLVED: To provide a magnesium metal battery capable of achieving output stability and higher output.SOLUTION: A magnesium metal battery includes: a negative electrode 1 including magnesium or a magnesium alloy, as a negative electrode active material; a separator 2 of a liquid absorbing dielectric; a positive electrode layer 3 including a carbon material having hydrophilicity; a water-repellent positive electrode layer 4 comprising a material having water repellency and conductivity; and a positive electrode collector plate 5. The water-repellent positive electrode layer 4 includes a catalyst carrying layer provided such that a catalyst is localized on a positive electrode layer 3 side.SELECTED DRAWING: Figure 1",
+      "publicationNumber": "JP2016167365",
+      "publicationDate": "2016-09-15",
+      "assignee": [
+        "PEGASOS ELECTRA CO LTD"
+      ],
+      "inventors": [
+        "ITAKURA KEIJIRO",
+        "HIRAKI HIROHISA",
+        "UCHIDA SHIGEAKI"
+      ],
+      "applicationDate": "2015-03-09",
+      "claimsCount": 12,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 9.902966
+    },
+    {
+      "id": "EM-150758580003-S",
+      "title": [
+        "Supports for elements of exterior lighting"
+      ],
+      "abstract": "",
+      "publicationNumber": "EM150758580003",
+      "publicationDate": "2024-10-17",
+      "assignee": [
+        "ELECTRA"
+      ],
+      "inventors": [
+        "Valeriia ILICHEVA"
+      ],
+      "applicationDate": "2024-10-11",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 9.900992
+    },
+    {
+      "id": "EM-150758580002-S",
+      "title": [
+        "Supports for elements of exterior lighting"
+      ],
+      "abstract": "",
+      "publicationNumber": "EM150758580002",
+      "publicationDate": "2024-10-17",
+      "assignee": [
+        "ELECTRA"
+      ],
+      "inventors": [
+        "Valeriia ILICHEVA"
+      ],
+      "applicationDate": "2024-10-11",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 9.900992
+    },
+    {
+      "id": "EM-150758580001-S",
+      "title": [
+        "Supports for elements of exterior lighting"
+      ],
+      "abstract": "",
+      "publicationNumber": "EM150758580001",
+      "publicationDate": "2024-10-17",
+      "assignee": [
+        "ELECTRA"
+      ],
+      "inventors": [
+        "Valeriia ILICHEVA"
+      ],
+      "applicationDate": "2024-10-11",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 9.900992
+    },
+    {
+      "id": "KR-20210095174-A",
+      "title": [
+        "\ubd84\uc0ac \uac00\ub2a5\ud55c \uc870\uc131\ubb3c(JETTABLE COMPOSITION)"
+      ],
+      "abstract": "\ud558\ub098 \uc774\uc0c1\uc758 \uc5d0\ud3ed\uc2dc \ub610\ub294 \uc625\uc138\ud0c4 \uc791\uc6a9\uae30\ub97c \ud568\uc720\ud558\ub294 \ubc18\uc751\uc131 \ubaa8\ub178\uba38, \uc62c\ub9ac\uace0\uba38 \ub610\ub294 \ud504\ub9ac\ud3f4\ub9ac\uba38\ub97c \ud3ec\ud568\ud558\ub294 \ubd84\uc0ac \uac00\ub2a5\ud55c \uc870\uc131\ubb3c\uc774 \uae30\uc220\ub41c\ub2e4. \uc790\uc720 \ub77c\ub514\uce7c \uc911\ud569\uc131 \ud654\ud569\ubb3c; \uc5f4 \uac00\uad50\uc81c; \ubc0f \ub77c\ub514\uce7c \uac1c\uc2dc\uc81c, \uc870\uc131\ubb3c\uc774 \ubd84\uc0ac\ub41c \uc804\uc790 \uc7a5\uce58 \ubc0f \uc804\uc790 \uc7a5\uce58\uc758 \uc81c\uc870 \ubc29\ubc95\uc744 \ud3ec\ud568\ud55c\ub2e4.",
+      "publicationNumber": "KR20210095174",
+      "publicationDate": "2021-07-30",
+      "assignee": [
+        "ELECTRA POLYMERS LTD."
+      ],
+      "inventors": [
+        "WALL CHRISTOPHER",
+        "LANDELLS CLIVE"
+      ],
+      "applicationDate": "2019-11-26",
+      "claimsCount": 31,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Audio-visual technology",
+        "Basic materials chemistry",
+        "Macromolecular chemistry, polymers"
+      ],
+      "score": 9.8922415
+    },
+    {
+      "id": "EP-2504627-B1",
+      "title": [
+        "FOOD PREPARATION APPARATUS"
+      ],
+      "abstract": "A food preparation apparatus and method, including an inventive shelving system (100), is provided. In accordance with some embodiments, an exemplary embodiment of a food preparation apparatus of the present invention includes at least, but is not limited to, a frame assembly (101) including a permanent shelf (102) secured to the frame assembly, a multiplicity of selectable shelf features (104, 106) vertically offset from the permanent shelf and attached to the frame assembly, and a first non-permanent shelf (108) vertically offset from the permanent shelf and supported by a select number of the multiplicity of selectable shelf features. In an exemplary embodiment of a food preparation apparatus of the present invention, the permanent shelf provides a flavor infusion region (118).",
+      "publicationNumber": "EP2504627",
+      "publicationDate": "2018-09-26",
+      "assignee": [
+        "Electra Wave Corporation"
+      ],
+      "inventors": [
+        "JR., MAURICE W. LEE",
+        "III, MAURICE, W. LEE"
+      ],
+      "applicationDate": "2010-11-22",
+      "claimsCount": 15,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Furniture, games",
+        "Thermal processes and apparatus"
+      ],
+      "score": 9.856304
+    },
+    {
+      "id": "CA-2803655-C",
+      "title": [
+        "FOOD PREPARATION APPARATUS"
+      ],
+      "abstract": "A food preparation apparatus and method, including an inventive shelving system (100), is provided. In accordance with some embodiments, an exemplary embodiment of a food preparation apparatus of the present invention includes at least, but is not limited to, a frame assembly (101) including a permanent shelf (102) secured to the frame assembly, a multiplicity of selectable shelf features (104, 106) vertically offset from the permanent shelf and attached to the frame assembly, and a first non-permanent shelf (108) vertically offset from the permanent shelf and supported by a select number of the multiplicity of selectable shelf features. In an exemplary embodiment of a food preparation apparatus of the present invention, the permanent shelf provides a flavor infusion region (118).",
+      "publicationNumber": "CA2803655",
+      "publicationDate": "2018-01-02",
+      "assignee": [
+        "ELECTRA WAVE CORPORATION"
+      ],
+      "inventors": [
+        "MAURICE W., JR. LEE",
+        "MAURICE W., III LEE"
+      ],
+      "applicationDate": "2010-11-22",
+      "claimsCount": 12,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Furniture, games",
+        "Thermal processes and apparatus"
+      ],
+      "score": 9.856304
+    },
+    {
+      "id": "US-20190367758-A1",
+      "title": [
+        "SOLDER MASK INKJET INKS FOR MANUFACTURING PRINTED CIRCUIT BOARDS"
+      ],
+      "abstract": "An inkjet method for producing a solder mask in the manufacture of a Printed Circuit Board uses a solder mask inkjet ink containing a polymerizable adhesion promoter and a phenolic compound including at least two phenolic groups. A high quality solder mask withstanding the high thermal stress during the soldering process while maintaining excellent physical properties is produced.",
+      "publicationNumber": "US20190367758",
+      "publicationDate": "2019-12-05",
+      "assignee": [
+        "AGFA-GEVAERT NV"
+      ],
+      "inventors": [
+        "Rita Torfs",
+        "Hubertus Van Aert",
+        "Johan Loccufier",
+        "Marion SAUVAGEOT"
+      ],
+      "applicationDate": "2017-11-07",
+      "claimsCount": 15,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Audio-visual technology",
+        "Basic materials chemistry"
+      ],
+      "score": 9.84721
+    },
+    {
+      "id": "US-20250197492-A1",
+      "title": [
+        "SIRP ALPHA, SIRP BETA 1, AND SIRP GAMMA ANTIBODIES AND USES THEREOF"
+      ],
+      "abstract": "Provided herein are antibodies that bind signal regulatory protein gamma (SIRP\u03b3), as well as SIRP\u03b1 and/or SIR\u03b21, and methods of using such antibodies (referred to as SIRP antibodies). In some embodiments, the SIRP antibodies are human monoclonal antibodies that bind human SIRP\u03b3 as well as SIRP\u03b1 and/or SIRP\u03b21. In some embodiments, the SIRP antibodies provided herein are useful for treating a disease or condition associated with overactivation and/or hyperproliferation of lymphocytes, myeloid cells, or a combination thereof, or a disease or condition associated with SIRP\u03b1, SIRP\u03b21 and/or SIRP\u03b3 activity.",
+      "publicationNumber": "US20250197492",
+      "publicationDate": "2025-06-19",
+      "assignee": [
+        "ELECTRA THERAPEUTICS, INC."
+      ],
+      "inventors": [
+        "Sandip Panicker",
+        "Adam David ROSENTHAL",
+        "Eileen Lingshu ROSE"
+      ],
+      "applicationDate": "2024-11-27",
+      "claimsCount": 16,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Biotechnology",
+        "Pharmaceuticals"
+      ],
+      "score": 9.846165
+    },
+    {
+      "id": "US-20240239888-A1",
+      "title": [
+        "SIRP ALPHA, SIRP BETA 1, AND SIRP GAMMA ANTIBODIES AND USES THEREOF"
+      ],
+      "abstract": "Provided herein are antibodies that bind signal regulatory protein gamma (SIRP\u03b3), as well as SIRP\u03b1 and/or SIRP\u03b21, and methods of using such antibodies (referred to as SIRP antibodies). In some embodiments, the SIRP antibodies are human monoclonal antibodies that bind human SIRP\u03b3 as well as SIRP\u03b1 and/or SIRP\u03b21. In some embodiments, the SIRP antibodies provided herein are useful for treating a disease or condition associated with overactivation and/or hyperproliferation of lymphocytes, myeloid cells, or a combination thereof, or a disease or condition associated with SIRP\u03b1, SIRP\u03b21 and/or SIRP\u03b3 activity.",
+      "publicationNumber": "US20240239888",
+      "publicationDate": "2024-07-18",
+      "assignee": [
+        "ELECTRA THERAPEUTICS, INC."
+      ],
+      "inventors": [
+        "Sandip Panicker",
+        "Adam David ROSENTHAL",
+        "Eileen Lingshu ROSE"
+      ],
+      "applicationDate": "2024-02-28",
+      "claimsCount": 30,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Biotechnology",
+        "Pharmaceuticals"
+      ],
+      "score": 9.846165
+    },
+    {
+      "id": "US-20230303685-A1",
+      "title": [
+        "SIRP ALPHA, SIRP BETA 1, AND SIRP GAMMA ANTIBODIES AND USES THEREOF"
+      ],
+      "abstract": "Provided herein are antibodies that bind signal regulatory protein gamma (SIRPy), as well as SIRP\u03b1 and/or SIRP\u03b21, and methods of using such antibodies (referred to as SIRP antibodies). In some embodiments, the SIRP antibodies are human monoclonal antibodies that bind human SIRPy as well as SIRP\u03b1 and/or SIRP\u03b21. In some embodiments, the SIRP antibodies provided herein are useful for treating a disease or condition associated with overactivation and/or hyperproliferation of lymphocytes, myeloid cells, or a combination thereof, or a disease or condition associated with SIRP\u03b1, SIRP\u03b21 and/or SIRPy activity.",
+      "publicationNumber": "US20230303685",
+      "publicationDate": "2023-09-28",
+      "assignee": [
+        "ELECTRA THERAPEUTICS, INC."
+      ],
+      "inventors": [
+        "Sandip Panicker",
+        "Adam David ROSENTHAL",
+        "Eileen Lingshu ROSE"
+      ],
+      "applicationDate": "2021-05-10",
+      "claimsCount": 47,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Biotechnology",
+        "Pharmaceuticals"
+      ],
+      "score": 9.846165
+    }
+  ]
+}

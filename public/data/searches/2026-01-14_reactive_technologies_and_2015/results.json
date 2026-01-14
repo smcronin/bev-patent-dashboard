@@ -1,0 +1,2347 @@
+{
+  "count": 260,
+  "numFound": 260,
+  "docs": [
+    {
+      "id": "JP-2017516443-A",
+      "title": [
+        "\u96fb\u529b\u30b0\u30ea\u30c3\u30c9\u306b\u304a\u3051\u308b\u30c7\u30d0\u30a4\u30b9\u7ba1\u7406"
+      ],
+      "abstract": "\u96fb\u529b\u30b0\u30ea\u30c3\u30c9\u3092\u6d41\u308c\u308b\u96fb\u6c17\u306e\uff11\u3064\u53c8\u306f\u8907\u6570\u306e\u96fb\u6c17\u7279\u6027\u3092\u5236\u5fa1\u3059\u308b\u65b9\u6cd5\u53ca\u3073\u88c5\u7f6e\u306b\u3064\u3044\u3066\u8a18\u8f09\u3055\u308c\u3066\u3044\u308b\u3002\u5206\u6563\u3055\u308c\u305f\u8907\u6570\u306e\u96fb\u529b\u30e6\u30cb\u30c3\u30c8\u306b\u3088\u3063\u3066\u5236\u5fa1\u671f\u9593\u4e2d\u306b\u884c\u308f\u308c\u308b\u3001\uff11\u3064\u53c8\u306f\u8907\u6570\u306e\u96fb\u6c17\u7279\u6027\u3078\u306e\u5bc4\u4e0e\u306e\u7279\u6027\u3092\u8868\u3059\u5236\u5fa1\u95a2\u6570\u3092\u793a\u3059\u30c7\u30fc\u30bf\u304c\u3001\u5206\u6563\u3055\u308c\u305f\u8907\u6570\u306e\u96fb\u529b\u30e6\u30cb\u30c3\u30c8\u306b\u63d0\u4f9b\u3055\u308c\u308b\u3002\u96fb\u529b\u30e6\u30cb\u30c3\u30c8\u306f\u3001\u53d7\u4fe1\u3057\u305f\u5236\u5fa1\u95a2\u6570\u3001\u53ca\u3073\u96fb\u529b\u30e6\u30cb\u30c3\u30c8\u306b\u95a2\u3059\u308b\u30d7\u30ed\u30d5\u30a1\u30a4\u30eb\u60c5\u5831\u306b\u57fa\u3065\u3044\u3066\u3001\uff11\u3064\u53c8\u306f\u8907\u6570\u306e\u96fb\u6c17\u7279\u6027\u3078\u306e\u5bc4\u4e0e\u3092\u3001\u500b\u3005\u306b\u6c7a\u5b9a\u3057\u3001\u3082\u305f\u3089\u3059\u3002\u3053\u308c\u306b\u3088\u308a\u3001\u5236\u5fa1\u95a2\u6570\u3092\u63d0\u4f9b\u3059\u308b\u4e2d\u5fc3\u4f4d\u7f6e\u306b\u304a\u3051\u308b\u51e6\u7406\u30ea\u30bd\u30fc\u30b9\u3001\u53ca\u3073\uff0f\u53c8\u306f\u901a\u4fe1\u5e2f\u57df\u5e45\uff0f\u30ea\u30bd\u30fc\u30b9\u3092\u7bc0\u7d04\u3059\u308b\u3002\u5236\u5fa1\u30ce\u30fc\u30c9\u304b\u3089\u96fb\u529b\u30e6\u30cb\u30c3\u30c8\u306b\u9001\u4fe1\u3055\u308c\u308b\u547d\u4ee4\u306f\u3001\u5bc4\u4e0e\u306e\u5468\u6ce2\u6570\u9818\u57df\u8868\u73fe\u3092\u542b\u307f\u5f97\u308b\u3002\u5236\u5fa1\u30ce\u30fc\u30c9\u306f\u3001\u5909\u63db\u51e6\u7406\u3092\u5b9f\u884c\u3057\u3066\u3001\u6642\u9593\u9818\u57df\u8868\u73fe\u3092\u5468\u6ce2\u6570\u9818\u57df\u8868\u73fe\u306b\u5909\u63db\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u3001\u5909\u63db\u51e6\u7406\u306f\u3001\u4f8b\u3048\u3070\u3001\u30d5\u30fc\u30ea\u30a8\u5909\u63db\u3001\u53c8\u306f\u30a6\u30a7\u30fc\u30d6\u30ec\u30c3\u30c8\u5909\u63db\u3092\u542b\u3080\u3002\u3010\u9078\u629e\u56f3\u3011\u56f3\uff11\uff14",
+      "publicationNumber": "JP2017516443",
+      "publicationDate": "2017-06-15",
+      "assignee": [
+        "REACTIVE  TECHNOLOGIES  LIMITED"
+      ],
+      "inventors": [
+        "\u30ea\u30f3\u30ca\uff0c  \u30c6\u30a3\u30e2",
+        "\u30d1\u30b8\u30e5\uff0c  \u30f4\u30a3\u30ec",
+        "\u30d5\u30aa\u30e2\uff0c  \u30d8\u30a4\u30ad"
+      ],
+      "applicationDate": "2015-05-21",
+      "claimsCount": 28,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 14.512168
+    },
+    {
+      "id": "TW-201612835-A",
+      "title": [
+        "Device management in an electric power grid"
+      ],
+      "abstract": "Methods and apparatuses for controlling one or more electricity characteristics of electricity flowing in an electric power grid are described. Data indicative of a control function representing characteristics of a contribution to the one or more electricity characteristics to be made by a distributed plurality of power units during a control period is provided to the distributed plurality of power units. The power units individually determine and provide a contribution to the one or more electricity characteristics based on the received control function and profile information relating to the power units. This saves processing resources at the central location providing the control function and/or communications bandwidth/resources.",
+      "publicationNumber": "TW201612835",
+      "publicationDate": "2016-04-01",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "TIMO JOHANNES LINNA",
+        "VILLE SAMULI PAJU",
+        "HEIKKI HUOMO"
+      ],
+      "applicationDate": "2015-05-18",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "IT methods for management"
+      ],
+      "score": 14.201718
+    },
+    {
+      "id": "SG-11201609262V-A",
+      "title": [
+        "DEVICE MANAGEMENT IN AN ELECTRIC POWER GRID"
+      ],
+      "abstract": "",
+      "publicationNumber": "SG11201609262V",
+      "publicationDate": "2016-12-29",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "Timo LINNA",
+        "Ville PAJU",
+        "HEIKKI HUOMO"
+      ],
+      "applicationDate": "2015-05-21",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 14.201718
+    },
+    {
+      "id": "HK-1235554-A1",
+      "title": [
+        "DEVICE MANAGEMENT IN AN ELECTRIC POWER GRID"
+      ],
+      "abstract": "",
+      "publicationNumber": "HK1235554",
+      "publicationDate": "2018-03-09",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "Timo LINNA",
+        "Ville PAJU",
+        "HEIKKI HUOMO"
+      ],
+      "applicationDate": "2017-09-11",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 14.201718
+    },
+    {
+      "id": "JP-6535929-B2",
+      "title": [
+        "\u5468\u6ce2\u6570\u5fdc\u7b54"
+      ],
+      "abstract": "\u96fb\u529b\u30b0\u30ea\u30c3\u30c9\u3067\u30b0\u30ea\u30c3\u30c9\u5468\u6ce2\u6570\u3092\u5236\u5fa1\u3059\u308b\u3001\u5236\u5fa1\u30b7\u30b9\u30c6\u30e0\u53ca\u3073\u65b9\u6cd5\u304c\u8aac\u660e\u3055\u308c\u308b\u3002\u30b0\u30ea\u30c3\u30c9\u5468\u6ce2\u6570\u306f\u3001\u30b0\u30ea\u30c3\u30c9\u5185\u306e\uff11\u3064\u53c8\u306f\u8907\u6570\u306e\u4e88\u3081\u5b9a\u7fa9\u3055\u308c\u305f\u4f4d\u7f6e\u3067\u76e3\u8996\u88c5\u7f6e\uff08\uff11\uff12\uff10\uff09\u306b\u3088\u3063\u3066\u76e3\u8996\u3055\u308c\u3001\u76e3\u8996\u5bfe\u8c61\u306e\u30b0\u30ea\u30c3\u30c9\u5468\u6ce2\u6570\u306b\u95a2\u3059\u308b\uff11\u3064\u53c8\u306f\u8907\u6570\u306e\u6761\u4ef6\u304c\u6e80\u305f\u3055\u308c\u3066\u3044\u308b\u304b\u3069\u3046\u304b\u306e\u5224\u65ad\u304c\u884c\u308f\u308c\u308b\u3002\uff11\u3064\u53c8\u306f\u8907\u6570\u306e\u4e88\u3081\u5b9a\u7fa9\u3055\u308c\u305f\u4f4d\u7f6e\u306e\u3046\u3061\uff11\u3064\u53c8\u306f\u8907\u6570\u306e\u4f4d\u7f6e\u306e\u30b0\u30ea\u30c3\u30c9\u5468\u6ce2\u6570\u304c\u5236\u5fa1\u3055\u308c\u308b\u5236\u5fa1\u671f\u9593\u304c\u3001\u5224\u65ad\u306b\u57fa\u3065\u3044\u3066\u958b\u59cb\u3055\u308c\u308b\u3002\u5236\u5fa1\u671f\u9593\u4e2d\u306e\u30b0\u30ea\u30c3\u30c9\u5468\u6ce2\u6570\u306e\u5909\u5316\u306b\u95a2\u3059\u308b\uff11\u3064\u53c8\u306f\u8907\u6570\u306e\u5909\u5316\u7279\u6027\u304c\u3001\u5224\u65ad\u3055\u308c\u308b\u3002\u76e3\u8996\u5bfe\u8c61\u306e\u30b0\u30ea\u30c3\u30c9\u5468\u6ce2\u6570\u3092\u5236\u5fa1\u3059\u308b\u3088\u3046\u306b\u3001\u7b2c\uff11\u306e\u8907\u6570\u306e\u96fb\u529b\u30e6\u30cb\u30c3\u30c8\uff08\uff11\uff11\uff19\uff09\u306e\u305d\u308c\u305e\u308c\u3078\u306e\u96fb\u529b\u6f6e\u6d41\u53ca\u3073\uff0f\u53c8\u306f\u305d\u308c\u305e\u308c\u304b\u3089\u306e\u96fb\u529b\u6f6e\u6d41\u3092\u5236\u5fa1\u3059\u308b\u547d\u4ee4\u3092\u542b\u3080\u5236\u5fa1\u547d\u4ee4\u304c\u9001\u4fe1\u3055\u308c\u308b\u3002\u5236\u5fa1\u547d\u4ee4\u306f\u3001\u96fb\u529b\u30e6\u30cb\u30c3\u30c8\u53ca\u3073\u5224\u65ad\u3055\u308c\u308b\uff11\u3064\u53c8\u306f\u8907\u6570\u306e\u5909\u5316\u7279\u6027\u306b\u95a2\u3059\u308b\u30d7\u30ed\u30d5\u30a1\u30a4\u30eb\u60c5\u5831\u306b\u57fa\u3065\u3044\u3066\u3001\u751f\u6210\u3055\u308c\u308b\u3002\u3010\u9078\u629e\u56f3\u3011 \u56f3\uff15",
+      "publicationNumber": "JP6535929",
+      "publicationDate": "2019-07-03",
+      "assignee": [
+        "REACTIVE  TECHNOLOGIES  LIMITED"
+      ],
+      "inventors": [
+        "\u30a6\u30a9\u30e2\uff0c  \u30d8\u30a4\u30c3\u30ad"
+      ],
+      "applicationDate": "2015-03-26",
+      "claimsCount": 28,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 14.127033
+    },
+    {
+      "id": "JP-2017527224-A",
+      "title": [
+        "\u30d6\u30ed\u30fc\u30c9\u30ad\u30e3\u30b9\u30c8\u30c1\u30e3\u30cd\u30eb\u30c6\u30b9\u30c8"
+      ],
+      "abstract": "\u305d\u3053\u306b\u304a\u3044\u3066\u60c5\u5831\u304c\u96fb\u529b\u7db2\u306e\u540c\u671f\u30a8\u30ea\u30a2\u5185\u3067\u9001\u4fe1\u3055\u308c\u308b\u30d6\u30ed\u30fc\u30c9\u30ad\u30e3\u30b9\u30c8\u30c1\u30e3\u30cd\u30eb\u3092\u30c6\u30b9\u30c8\u3059\u308b\u305f\u3081\u306e\u65b9\u6cd5\u53ca\u3073\u88c5\u7f6e\u304c\u3001\u8aac\u660e\u3055\u308c\u308b\u3002\u96fb\u529b\u7db2\u3092\u6d41\u308c\u308b\u96fb\u529b\u306e\u5468\u6ce2\u6570\u306b\u95a2\u3059\u308b\u7279\u6027\u304c\u3001\u30c6\u30b9\u30c8\u30c7\u30d0\u30a4\u30b9\u3067\u6e2c\u5b9a\u3055\u308c\u3001\u30b0\u30ea\u30c3\u30c9\u5468\u6ce2\u6570\u306e\u5468\u6ce2\u6570\u5909\u8abf\u306b\u57fa\u3065\u304f\u4fe1\u53f7\u304c\u96fb\u529b\u7db2\u304b\u3089\u62bd\u51fa\u3055\u308c\u308b\u3002\u4fe1\u53f7\u306e\u7279\u6027\u3092\u793a\u3059\u30c7\u30fc\u30bf\u304c\u3001\u6b21\u3044\u3067\u3001\u30d6\u30ed\u30fc\u30c9\u30ad\u30e3\u30b9\u30c8\u30c1\u30e3\u30cd\u30eb\u3068\u306f\u7570\u306a\u308b\u7b2c\uff12\u306e\u30c1\u30e3\u30cd\u30eb\u3092\u4ecb\u3057\u3066\u5236\u5fa1\u30ce\u30fc\u30c9\u3067\u53d7\u4fe1\u3059\u308b\u305f\u3081\u306b\u9001\u3089\u308c\u308b\u3002\u3053\u308c\u306f\u3001\u30d6\u30ed\u30fc\u30c9\u30ad\u30e3\u30b9\u30c8\u30c1\u30e3\u30cd\u30eb\u306e\u30c6\u30b9\u30c8\u3092\u53ef\u80fd\u306b\u3059\u308b\u3002\u3010\u9078\u629e\u56f3\u3011 \u56f3\uff16",
+      "publicationNumber": "JP2017527224",
+      "publicationDate": "2017-09-14",
+      "assignee": [
+        "REACTIVE  TECHNOLOGIES  LIMITED"
+      ],
+      "inventors": [
+        "\u30f4\u30a7\u30f3\u30c8\u30e9\uff0c  \u30df\u30ab",
+        "\u30ea\u30f3\u30ca\uff0c  \u30c6\u30a3\u30e2",
+        "\u30ec\u30a4\u30ce\u30fc\u30cd\u30f3\uff0c  \u30d1\u30fc\u30f4\u30a9"
+      ],
+      "applicationDate": "2015-09-15",
+      "claimsCount": 34,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Telecommunications"
+      ],
+      "score": 14.127033
+    },
+    {
+      "id": "JP-2017515444-A",
+      "title": [
+        "\u5468\u6ce2\u6570\u5fdc\u7b54"
+      ],
+      "abstract": "\u96fb\u529b\u30b0\u30ea\u30c3\u30c9\u3067\u30b0\u30ea\u30c3\u30c9\u5468\u6ce2\u6570\u3092\u5236\u5fa1\u3059\u308b\u3001\u5236\u5fa1\u30b7\u30b9\u30c6\u30e0\u53ca\u3073\u65b9\u6cd5\u304c\u8aac\u660e\u3055\u308c\u308b\u3002\u30b0\u30ea\u30c3\u30c9\u5468\u6ce2\u6570\u306f\u3001\u30b0\u30ea\u30c3\u30c9\u5185\u306e\uff11\u3064\u53c8\u306f\u8907\u6570\u306e\u4e88\u3081\u5b9a\u7fa9\u3055\u308c\u305f\u4f4d\u7f6e\u3067\u76e3\u8996\u88c5\u7f6e\uff08\uff11\uff12\uff10\uff09\u306b\u3088\u3063\u3066\u76e3\u8996\u3055\u308c\u3001\u76e3\u8996\u5bfe\u8c61\u306e\u30b0\u30ea\u30c3\u30c9\u5468\u6ce2\u6570\u306b\u95a2\u3059\u308b\uff11\u3064\u53c8\u306f\u8907\u6570\u306e\u6761\u4ef6\u304c\u6e80\u305f\u3055\u308c\u3066\u3044\u308b\u304b\u3069\u3046\u304b\u306e\u5224\u65ad\u304c\u884c\u308f\u308c\u308b\u3002\uff11\u3064\u53c8\u306f\u8907\u6570\u306e\u4e88\u3081\u5b9a\u7fa9\u3055\u308c\u305f\u4f4d\u7f6e\u306e\u3046\u3061\uff11\u3064\u53c8\u306f\u8907\u6570\u306e\u4f4d\u7f6e\u306e\u30b0\u30ea\u30c3\u30c9\u5468\u6ce2\u6570\u304c\u5236\u5fa1\u3055\u308c\u308b\u5236\u5fa1\u671f\u9593\u304c\u3001\u5224\u65ad\u306b\u57fa\u3065\u3044\u3066\u958b\u59cb\u3055\u308c\u308b\u3002\u5236\u5fa1\u671f\u9593\u4e2d\u306e\u30b0\u30ea\u30c3\u30c9\u5468\u6ce2\u6570\u306e\u5909\u5316\u306b\u95a2\u3059\u308b\uff11\u3064\u53c8\u306f\u8907\u6570\u306e\u5909\u5316\u7279\u6027\u304c\u3001\u5224\u65ad\u3055\u308c\u308b\u3002\u76e3\u8996\u5bfe\u8c61\u306e\u30b0\u30ea\u30c3\u30c9\u5468\u6ce2\u6570\u3092\u5236\u5fa1\u3059\u308b\u3088\u3046\u306b\u3001\u7b2c\uff11\u306e\u8907\u6570\u306e\u96fb\u529b\u30e6\u30cb\u30c3\u30c8\uff08\uff11\uff11\uff19\uff09\u306e\u305d\u308c\u305e\u308c\u3078\u306e\u96fb\u529b\u6f6e\u6d41\u53ca\u3073\uff0f\u53c8\u306f\u305d\u308c\u305e\u308c\u304b\u3089\u306e\u96fb\u529b\u6f6e\u6d41\u3092\u5236\u5fa1\u3059\u308b\u547d\u4ee4\u3092\u542b\u3080\u5236\u5fa1\u547d\u4ee4\u304c\u9001\u4fe1\u3055\u308c\u308b\u3002\u5236\u5fa1\u547d\u4ee4\u306f\u3001\u96fb\u529b\u30e6\u30cb\u30c3\u30c8\u53ca\u3073\u5224\u65ad\u3055\u308c\u308b\uff11\u3064\u53c8\u306f\u8907\u6570\u306e\u5909\u5316\u7279\u6027\u306b\u95a2\u3059\u308b\u30d7\u30ed\u30d5\u30a1\u30a4\u30eb\u60c5\u5831\u306b\u57fa\u3065\u3044\u3066\u3001\u751f\u6210\u3055\u308c\u308b\u3002\u3010\u9078\u629e\u56f3\u3011 \u56f3\uff15",
+      "publicationNumber": "JP2017515444",
+      "publicationDate": "2017-06-08",
+      "assignee": [
+        "REACTIVE  TECHNOLOGIES  LIMITED"
+      ],
+      "inventors": [
+        "\u30a6\u30a9\u30e2\uff0c  \u30d8\u30a4\u30c3\u30ad"
+      ],
+      "applicationDate": "2015-03-26",
+      "claimsCount": 30,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 14.127033
+    },
+    {
+      "id": "WO-2025224216-A1",
+      "title": [
+        "DETERMINING A VALUE OF AN ELECTRIC POWER FLOW CHARACTERISTIC OF AN ELECTRIC POWER GRID"
+      ],
+      "abstract": "A method, apparatus, and system for determining a value of an electric power flow characteristic of an electric power grid are disclosed. The grid comprises at least one power unit configured to consume electric power from and/or provide electric power to the electric power grid. A power change by the at least one power unit causes a change in value of a first parameter of electric power flow in the electric power grid. The method comprises correlating a particular power change with at least one value of the first parameter at a first grid location and at least one value of the first parameter at a second grid location; determining a difference between the at least one value of the first parameter at the first grid location and the at least one value of the first parameter at the second grid location; and determining, based on the determined difference, a value of the electric power flow characteristic of the electric power grid.",
+      "publicationNumber": "WO2025224216",
+      "publicationDate": "2025-10-30",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "JANNE AULA",
+        "GIUSEPPE DESTINO"
+      ],
+      "applicationDate": "2025-04-24",
+      "claimsCount": 31,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 14.1074095
+    },
+    {
+      "id": "WO-2025133147-A1",
+      "title": [
+        "DETERMINING AN ELECTRIC POWER GRID CONDITION"
+      ],
+      "abstract": "Methods and apparatus for determining the state of an electric power grid. A plurality of measurement units is connected to the electric power grid. The measurement units each being configured to perform measurements of at least one characteristic of electric power flowing in the electric power grid to obtain characteristic data. The method comprises performing, at each measurement unit, a classification process to determine, based on the characteristic data, at least one respective piece of classification data. Each respective piece of classification data relates to a condition of the electric power grid and indicates one or more respective classes of the condition of the electric power grid. Each respective class comprises one of a predetermined plurality of classes of condition of the electric power flowing in the electric power grid. The method comprises transmitting, from each measurement unit, the determined classification data to a monitoring system.",
+      "publicationNumber": "WO2025133147",
+      "publicationDate": "2025-06-26",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "JUKKA ALAKONTIOLA",
+        "VILLE KAMPMAN",
+        "GIUSEPPE DESTINO",
+        "MARKKU VIMPARI"
+      ],
+      "applicationDate": "2024-12-20",
+      "claimsCount": 22,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Computer technology",
+        "Electrical machinery, apparatus, energy",
+        "IT methods for management",
+        "Measurement"
+      ],
+      "score": 14.1074095
+    },
+    {
+      "id": "GB-2640582-A",
+      "title": [
+        "Determining a value of an electric power flow characteristic of an electric power grid"
+      ],
+      "abstract": "A power grid comprises at least one power unit to consume electric power from and/or provide electric power to the grid. A power change by the power unit causes a change in value of a first parameter of electric power flow in the grid. A method of determining the value comprises: 102 correlating a particular power change with at least one value of the first parameter at a first grid location and at least one value of the first parameter at a second grid location; 104 determining a difference between the value of the parameter at the first and second grid locations; and 106 determining, based on the difference, a value of the electric power flow characteristic of the electric power grid. The value may indicate the difference in impedance between the power unit and the first and second grid locations. The first parameter may indicate the phase of AC electricity in the grid. The value may be indicative of grid inertia.",
+      "publicationNumber": "GB2640582",
+      "publicationDate": "2025-10-29",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "JANNE AULA",
+        "Giuseppe Destino"
+      ],
+      "applicationDate": "2024-04-26",
+      "claimsCount": 31,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Measurement"
+      ],
+      "score": 14.1074095
+    },
+    {
+      "id": "GB-2637126-A",
+      "title": [
+        "Determining an electric power grid condition"
+      ],
+      "abstract": "Methods and apparatus for determining the state of an electric power grid. A plurality of measurement units 118a, 118b is connected to the electric power grid. The measurement units each being configured to perform measurements of at least one characteristic of electric power flowing in the electric power grid to obtain characteristic data. The method comprises performing, at each measurement unit, a classification process 202 to determine, based on the characteristic data, at least one respective piece of classification data. Each respective piece of classification data relates to a condition of the electric power grid and indicates one or more respective classes of the condition of the electric power grid. Each respective class comprises one of a predetermined plurality of classes of condition of the electric power flowing in the electric power grid. The method comprises transmitting, from each measurement unit, the determined classification data to a monitoring system.",
+      "publicationNumber": "GB2637126",
+      "publicationDate": "2025-07-16",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "JUKKA ALAKONTIOLA",
+        "VILLE KAMPMAN",
+        "Giuseppe Destino",
+        "MARKKU VIMPARI"
+      ],
+      "applicationDate": "2023-12-22",
+      "claimsCount": 22,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "IT methods for management"
+      ],
+      "score": 14.1074095
+    },
+    {
+      "id": "GB-202405896-D0",
+      "title": [
+        "Determining a value of an electric power flow characteristic of an electric power grid"
+      ],
+      "abstract": "",
+      "publicationNumber": "GB202405896",
+      "publicationDate": "2024-06-12",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [],
+      "applicationDate": "2024-04-26",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 14.1074095
+    },
+    {
+      "id": "GB-202319919-D0",
+      "title": [
+        "Determining an electric power grid condition"
+      ],
+      "abstract": "",
+      "publicationNumber": "GB202319919",
+      "publicationDate": "2024-02-07",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [],
+      "applicationDate": "2023-12-22",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 14.1074095
+    },
+    {
+      "id": "US-11216893-B2",
+      "title": [
+        "Power flow characteristics"
+      ],
+      "abstract": "Methods, computer software and apparatus for use in an electric power grid are described. Measurement data is received intermittently or continuously from a plurality of measurement units, indicating values of at least one measured characteristic at respective measurement locations. The at least one is characteristic is monitored, and it is determined, based on the monitoring, that there has been a change in electric power flow in the electric power grid. Responsive to the determination, component data is accessed relating to characteristics of components of the electric power grid involved in provision and/or consumption of electric power. Based on received measurement data relating to the change and the accessed component data, a power flow characteristic of the grid in a given time period is determined.",
+      "publicationNumber": "US11216893",
+      "publicationDate": "2022-01-04",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "Jukka Alakontiola",
+        "Abhishek Jain",
+        "Timo Peltola",
+        "Marc Borrett",
+        "Mika Ventola"
+      ],
+      "applicationDate": "2019-05-29",
+      "claimsCount": 14,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "IT methods for management",
+        "Measurement",
+        "Telecommunications"
+      ],
+      "score": 13.829411
+    },
+    {
+      "id": "US-10997674-B2",
+      "title": [
+        "Determining a characteristic of an inertial contribution to an electric power grid"
+      ],
+      "abstract": "Methods, and apparatus for determining a characteristic of an inertial contribution to an electrical power grid are described. A change in inertia in the electrical power grid based on one or more inertia measurements performed in a first time period is determined. On the basis of the determined change in inertia and data indicative of an inertia contribution characteristic of one or more energy production facilities and/or one or more energy consuming devices in the electric power grid, a characteristic of an inertial contribution to the electrical power grid is determined for a second time period different to the first time period.",
+      "publicationNumber": "US10997674",
+      "publicationDate": "2021-05-04",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "Mika Ventola",
+        "Jukka Alakontiola",
+        "Marc Borrett",
+        "Ville PAJU",
+        "Timo Peltola"
+      ],
+      "applicationDate": "2019-05-29",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "IT methods for management",
+        "Measurement",
+        "Telecommunications"
+      ],
+      "score": 13.829411
+    },
+    {
+      "id": "NZ-753726-B2",
+      "title": [
+        "POWER FLOW CHARACTERISTICS"
+      ],
+      "abstract": "Methods, computer software and apparatus for use in an electric power grid are described. Measurement data is received intermittently or continuously from a plurality of measurement units, indicating values of at least one measured characteristic at a respective measurement locations. At least one characteristic is monitored, and it is determined, based on the monitoring, that there has been a change in electric power flow in the electric power grid. Responsive to the determination, component data is accessed relating to characteristics of components of the electric power grid involved in provision and/or consumption of electric power. Based on received measurement data relating to the change and the accessed component data, a power flow characteristic of the grid in a given time period is determined.",
+      "publicationNumber": "NZ753726",
+      "publicationDate": "2025-01-28",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "ALAKONTIOLA JUKKA",
+        "BORRETT MARC",
+        "JAIN ABHISHEK",
+        "PELTOLA TIMO",
+        "VENTOLA MIKA",
+        "ALAKONTIOLA JUKKA",
+        "BORRETT MARC",
+        "JAIN ABHISHEK",
+        "PELTOLA TIMO",
+        "VENTOLA MIKA"
+      ],
+      "applicationDate": "2017-11-28",
+      "claimsCount": 17,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "IT methods for management"
+      ],
+      "score": 13.829411
+    },
+    {
+      "id": "MY-PI2019002994-A0",
+      "title": [
+        "DETERMINING A CHARACTERISTIC OF AN INERTIAL CONTRIBUTION TO AN ELECTRIC POWER GRID"
+      ],
+      "abstract": "Methods, and apparatus for determining a characteristic of an inertial contribution to an electrical power grid are described. A change in inertia in the electrical power grid based on one or more inertia measurements performed in a first time period is determined. On the basis of the determined change in inertia and data indicative of an inertia contribution characteristic of one or more energy production facilities and/or one or more energy consuming devices in the electric power grid, a characteristic of an inertial contribution to the electrical power grid is determined for a second time period different to the first time period. Figure 2",
+      "publicationNumber": "MYPI2019002994",
+      "publicationDate": "2018-05-30",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "MIKA VENTOLA",
+        "JUKKA ALAKONTIOLA",
+        "MARC BORRETT",
+        "Ville PAJU",
+        "TIMO PELTOLA"
+      ],
+      "applicationDate": "2017-11-28",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 13.829411
+    },
+    {
+      "id": "MY-PI2019002992-A0",
+      "title": [
+        "POWER FLOW CHARACTERISTICS"
+      ],
+      "abstract": "Methods, computer software and apparatus for use in an electric power grid are described. Measurement data is received intermittently or continuously from a plurality of measurement units, indicating values of at least one measured characteristic at a respective measurement locations. The at least one is characteristic is monitored, and it is determined, based on the monitoring, that there has been a change in electric power flow in the electric power grid. Responsive to the determination, component data is accessed relating to characteristics of components of the electric power grid involved in provision and/or consumption of electric power. Based on received measurement data relating to the change and the accessed component data, a power flow characteristic of the grid in a given time period is determined. Figure 3",
+      "publicationNumber": "MYPI2019002992",
+      "publicationDate": "2018-05-30",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "JUKKA ALAKONTIOLA",
+        "ABHISHEK JAIN",
+        "TIMO PELTOLA",
+        "MARC BORRETT",
+        "MIKA VENTOLA"
+      ],
+      "applicationDate": "2017-11-28",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 13.829411
+    },
+    {
+      "id": "MY-200389-A",
+      "title": [
+        "DETERMINING A CHARACTERISTIC OF AN INERTIAL CONTRIBUTION TO AN ELECTRIC POWER GRID"
+      ],
+      "abstract": "Methods (200), and apparatus for determining a characteristic of an inertial contribution to an electrical power grid (100) are described. A change in inertia in the electrical power grid based on one or more inertia measurements performed in a first time period is determined (202). On the basis of the determined change in inertia and data indicative of an inertia contribution characteristic of one or more energy production facilities (106) and/or one or more energy consuming devices (118) in the electric power grid (100), a characteristic of an inertial contribution to the electrical power grid is determined for a second time period different to the first time period (204).",
+      "publicationNumber": "MY200389",
+      "publicationDate": "2023-12-22",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "MIKA VENTOLA",
+        "JUKKA ALAKONTIOLA",
+        "MARC BORRETT",
+        "Ville PAJU",
+        "TIMO PELTOLA"
+      ],
+      "applicationDate": "2017-11-28",
+      "claimsCount": 15,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "IT methods for management"
+      ],
+      "score": 13.829411
+    },
+    {
+      "id": "MY-199081-A",
+      "title": [
+        "POWER FLOW CHARACTERISTICS"
+      ],
+      "abstract": "Methods, computer software and apparatus for use in an electric power grid (100) are described. Measurement data is received intermittently or continuously from a plurality of measurement units (118), indicating values of at least one measured characteristic at a respective measurement locations. The at least one is characteristic is monitored, and it is determined, based on the monitoring, that there has been a change in electric power flow in the electric power grid (100). Responsive to the determination, component data is accessed relating to characteristics of components of the electric power grid (100) involved in provision and/or consumption of electric power. Based on received measurement data relating to the change and the accessed component data, a power flow characteristic of the grid (100) in a given time period is determined.",
+      "publicationNumber": "MY199081",
+      "publicationDate": "2023-10-12",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "JUKKA ALAKONTIOLA",
+        "ABHISHEK JAIN",
+        "TIMO PELTOLA",
+        "MARC BORRETT",
+        "MIKA VENTOLA"
+      ],
+      "applicationDate": "2017-11-28",
+      "claimsCount": 17,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "IT methods for management"
+      ],
+      "score": 13.829411
+    },
+    {
+      "id": "EP-3549225-B1",
+      "title": [
+        "DETERMINING A CHARACTERISTIC OF AN INERTIAL CONTRIBUTION TO AN ELECTRIC POWER GRID"
+      ],
+      "abstract": "Methods, and apparatus for determining a characteristic of an inertial contribution to an electrical power grid are described. A change in inertia in the electrical power grid based on one or more inertia measurements performed in a first time period is determined. On the basis of the determined change in inertia and data indicative of an inertia contribution characteristic of one or more energy production facilities and/or one or more energy consuming devices in the electric power grid, a characteristic of an inertial contribution to the electrical power grid is determined for a second time period different to the first time period.",
+      "publicationNumber": "EP3549225",
+      "publicationDate": "2020-09-30",
+      "assignee": [
+        "Reactive Technologies Limited"
+      ],
+      "inventors": [
+        "MIKA VENTOLA",
+        "JUKKA ALAKONTIOLA",
+        "MARC BORRETT",
+        "Ville PAJU",
+        "TIMO PELTOLA"
+      ],
+      "applicationDate": "2017-11-28",
+      "claimsCount": 15,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "IT methods for management"
+      ],
+      "score": 13.829411
+    },
+    {
+      "id": "WO-2016041967-A1",
+      "title": [
+        "BROADCAST CHANNEL TESTING"
+      ],
+      "abstract": "Methods and apparatus for testing a broadcast channel in which information is transmitted within a synchronous area of an electric power grid are described. A characteristic relating to a frequency of power flowing in the electric power grid is measured at a testing device and a signal based on a frequency modulation of the grid frequency is extracted from the electric power grid. Data indicative of a characteristic of the signal is then sent for receipt at a control node via a second channel different to the broadcast channel. This enables testing of the broadcast channel.",
+      "publicationNumber": "WO2016041967",
+      "publicationDate": "2016-03-24",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "MIKA VENTOLA",
+        "Timo LINNA",
+        "Paavo LEINONEN"
+      ],
+      "applicationDate": "2015-09-15",
+      "claimsCount": 34,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Telecommunications"
+      ],
+      "score": 13.825331
+    },
+    {
+      "id": "US-11112437-B2",
+      "title": [
+        "Inertia characteristic"
+      ],
+      "abstract": "Apparatus and methods for determining an inertia characteristic of a synchronous area of an electric power grid are described. First data is determined. The first data represents a signal comprising a first variation in the grid frequency over a period of time, the signal resulting from a second variation, the second variation being a variation in provision of electric power to and/or consumption of electric power from the grid, the signal having been filtered according to a first filter defining a first frequency band to at least attenuate frequencies outside of the first frequency band. Second data is determined. The second data is representative of the second variation on a second frequency band, the second frequency band being substantially the same as the first frequency band. An inertia characteristic of a synchronous area of the electric power grid is determined based on the first data and the second data.",
+      "publicationNumber": "US11112437",
+      "publicationDate": "2021-09-07",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "Mika Ventola",
+        "Timo Peltola"
+      ],
+      "applicationDate": "2019-06-06",
+      "claimsCount": 21,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Measurement"
+      ],
+      "score": 13.825331
+    },
+    {
+      "id": "US-10348096-B2",
+      "title": [
+        "Frequency response"
+      ],
+      "abstract": "Control systems and methods for control of grid frequency in an electric power grid, are described. A grid frequency is monitored by monitoring devices at one or more predefined locations in the grid, and a determination is made whether one or more conditions relating to the monitored frequency have been met. A control period during which the grid frequency at one or more of the one or more predefined locations is to be controlled is initiated based on the determination. One or more variation characterizes relating to a variation, during the control period, in grid frequency are determined. Control instructions, comprising instructions to control power flow to and/or from each of a first plurality of power units so as to control the monitored frequency, are sent. The control instructions are generated on the basis of profile information relating to the power units and the determined one or more variation characteristics.",
+      "publicationNumber": "US10348096",
+      "publicationDate": "2019-07-09",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "Heikki Huomo"
+      ],
+      "applicationDate": "2016-10-12",
+      "claimsCount": 29,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.825331
+    },
+    {
+      "id": "SG-11201701739S-A",
+      "title": [
+        "BROADCAST CHANNEL TESTING"
+      ],
+      "abstract": "",
+      "publicationNumber": "SG11201701739S",
+      "publicationDate": "2017-04-27",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "MIKA VENTOLA",
+        "Timo LINNA",
+        "Paavo LEINONEN"
+      ],
+      "applicationDate": "2015-09-15",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Telecommunications"
+      ],
+      "score": 13.825331
+    },
+    {
+      "id": "SG-11201608453V-A",
+      "title": [
+        "FREQUENCY RESPONSE"
+      ],
+      "abstract": "",
+      "publicationNumber": "SG11201608453V",
+      "publicationDate": "2016-11-29",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "HEIKKI HUOMO"
+      ],
+      "applicationDate": "2015-03-26",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.825331
+    },
+    {
+      "id": "HK-1229544-A1",
+      "title": [
+        "FREQUENCY RESPONSE"
+      ],
+      "abstract": "",
+      "publicationNumber": "HK1229544",
+      "publicationDate": "2017-11-17",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "HEIKKI HUOMO"
+      ],
+      "applicationDate": "2017-03-24",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.825331
+    },
+    {
+      "id": "GB-2530275-A",
+      "title": [
+        "Broadcast channel testing"
+      ],
+      "abstract": "Testing a broadcast channel in which information is transmitted within a synchronous area of an electric power grid (100), whereby a characteristic relating to a frequency of power flowing in the electric power grid (100) is measured at a test receiver (121) and a signal based on a frequency modulation of the grid frequency is extracted from the electric power grid, and data indicative of a characteristic of the signal is sent to a control node (122) via a channel separate from the broadcast channel. Within the electrical power grid (100) there are transmitters (118) for transmitting information under control of a controller (122), and receivers (120) for receiving the information, such that the electric power grid (100) acts as a broadcast channel, and information is encoded by frequency modulation superimposed on the grid power frequency. Across the synchronous area of the electric power grid (100) the power frequency may be assumed to be essentially constant, such that the transmission characteristics of the broadcast channel measured at one position (i.e. at the test receiver (121)) within the electric power grid (100) may be considered representative of the transmission characteristics throughout the electric power grid (100) (however, in some embodiments more than one test receiver (121) may be used).",
+      "publicationNumber": "GB2530275",
+      "publicationDate": "2016-03-23",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "MIKA VENTOLA",
+        "TIMO LINNA",
+        "PAAVO LEINONEN"
+      ],
+      "applicationDate": "2014-09-16",
+      "claimsCount": 25,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Telecommunications"
+      ],
+      "score": 13.825331
+    },
+    {
+      "id": "EP-3552290-B1",
+      "title": [
+        "INERTIA CHARACTERISTIC"
+      ],
+      "abstract": "Apparatus and methods for determining an inertia characteristic of a synchronous area of an electric power grid are described. First data is determined. The first data represents a signal comprising a first variation in the grid frequency over a period of time, the signal resulting from a second variation, the second variation being a variation in provision of electric power to and/or consumption of electric power from the grid, the signal having been filtered according to a first filter defining a first frequency band to at least attenuate frequencies outside of the first frequency band. Second data is determined. The second data is representative of the second variation on a second frequency band, the second frequency band being substantially the same as the first frequency band. An inertia characteristic of a synchronous area of the electric power grid is determined based on the first data and the second data.",
+      "publicationNumber": "EP3552290",
+      "publicationDate": "2023-06-07",
+      "assignee": [
+        "Reactive Technologies Limited"
+      ],
+      "inventors": [
+        "MIKA VENTOLA",
+        "TIMO PELTOLA"
+      ],
+      "applicationDate": "2017-11-27",
+      "claimsCount": 17,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.825331
+    },
+    {
+      "id": "EP-3132517-B1",
+      "title": [
+        "FREQUENCY RESPONSE"
+      ],
+      "abstract": "Control systems and methods for control of grid frequency in an electric power grid, are described. A grid frequency is monitored by monitoring devices (120) at one or more predefined locations in the grid, and a determination is made whether one or more conditions relating to the monitored frequency have been met. A control period during which the grid frequency at one or more of the one or more predefined locations is to be controlled is initiated based on the determination. One or more variation characterises relating to a variation, during the control period, in grid frequency are determined. Control instructions, comprising instructions to control power flow to and/or from each of a first plurality of power units (119) so as to control the monitored frequency, are sent. The control instructions are generated on the basis of profile information relating to the power units and the determined one or more variation characteristics.",
+      "publicationNumber": "EP3132517",
+      "publicationDate": "2020-05-06",
+      "assignee": [
+        "Reactive Technologies Limited"
+      ],
+      "inventors": [
+        "HEIKKI HUOMO"
+      ],
+      "applicationDate": "2015-03-26",
+      "claimsCount": 14,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.825331
+    },
+    {
+      "id": "US-20170141573-A1",
+      "title": [
+        "DEVICE MANAGEMENT IN AN ELECTRIC POWER GRID"
+      ],
+      "abstract": "Methods and apparatuses for controlling one or more electricity characteristics of electricity flowing in an electric power grid are described. Data indicative of a control function representing characteristics of a contribution to the one or more electricity characteristics to be made by a distributed plurality of power units during a control period is provided to the distributed plurality of power units. The power units individually determine and provide a contribution to the one or more electricity characteristics based on the received control function and profile information relating to the power units. This saves processing resources at the central location providing the control function and/or communications bandwidth/resources.",
+      "publicationNumber": "US20170141573",
+      "publicationDate": "2017-05-18",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "Timo LINNA",
+        "Ville PAJU",
+        "Heikki Huomo"
+      ],
+      "applicationDate": "2016-11-18",
+      "claimsCount": 27,
+      "independentClaimsCount": 7,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.779318
+    },
+    {
+      "id": "IL-249001-A0",
+      "title": [
+        "Device management in an electric power grid"
+      ],
+      "abstract": "",
+      "publicationNumber": "IL249001",
+      "publicationDate": "2017-01-31",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [],
+      "applicationDate": "2016-11-16",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 13.779318
+    },
+    {
+      "id": "GB-2526332-B",
+      "title": [
+        "Device management in an electric power grid"
+      ],
+      "abstract": "",
+      "publicationNumber": "GB2526332",
+      "publicationDate": "2017-03-01",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "TIMO JOHANNES LINNA",
+        "VILLE SAMULI PAJU",
+        "HEIKKI HUOMO"
+      ],
+      "applicationDate": "2014-05-21",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.779318
+    },
+    {
+      "id": "EP-3146611-A1",
+      "title": [
+        "DEVICE MANAGEMENT IN AN ELECTRIC POWER GRID"
+      ],
+      "abstract": "Methods and apparatuses for controlling one or more electricity characteristics of electricity flowing in an electric power grid are described. Data indicative of a control function representing characteristics of a contribution to the one or more electricity characteristics to be made by a distributed plurality of power units during a control period is provided to the distributed plurality of power units. The power units individually determine and provide a contribution to the one or more electricity characteristics based on the received control function and profile information relating to the power units. This saves processing resources at the central location providing the control function and/or communications bandwidth/ resources. Instructions sent from a control node to power units may include a frequency-domain representation of the contribution. The control node may perform a transform process to transform the time- domain representation into a frequency-domain representation, the transform process comprising e.g. a Fourier Transform or a wavelet transform.",
+      "publicationNumber": "EP3146611",
+      "publicationDate": "2017-03-29",
+      "assignee": [
+        "Reactive Technologies Limited"
+      ],
+      "inventors": [
+        "Timo LINNA",
+        "Ville PAJU",
+        "HEIKKI HUOMO"
+      ],
+      "applicationDate": "2015-05-21",
+      "claimsCount": 27,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.779318
+    },
+    {
+      "id": "AU-2015261885-A1",
+      "title": [
+        "Device management in an electric power grid"
+      ],
+      "abstract": "Methods and apparatuses for controlling one or more electricity characteristics of electricity flowing in an electric power grid are described. Data indicative of a control function representing characteristics of a contribution to the one or more electricity characteristics to be made by a distributed plurality of power units during a control period is provided to the distributed plurality of power units. The power units individually determine and provide a contribution to the one or more electricity characteristics based on the received control function and profile information relating to the power units. This saves processing resources at the central location providing the control function and/or communications bandwidth/ resources. Instructions sent from a control node to power units may include a frequency-domain representation of the contribution. The control node may perform a transform process to transform the time- domain representation into a frequency-domain representation, the transform process comprising e.g. a Fourier Transform or a wavelet transform.",
+      "publicationNumber": "AU2015261885",
+      "publicationDate": "2016-11-24",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "HEIKKI HUOMO",
+        "Timo LINNA",
+        "Ville PAJU"
+      ],
+      "applicationDate": "2015-05-21",
+      "claimsCount": 27,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.779318
+    },
+    {
+      "id": "GB-202510184-D0",
+      "title": [
+        "Method for use in an electric power grid"
+      ],
+      "abstract": "",
+      "publicationNumber": "GB202510184",
+      "publicationDate": "2025-08-06",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [],
+      "applicationDate": "2025-06-25",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 13.720852
+    },
+    {
+      "id": "TW-202549208-A",
+      "title": [
+        "DETERMINING A VALUE OF AN ELECTRIC POWER FLOW CHARACTERISTIC OF AN ELECTRIC POWER GRID"
+      ],
+      "abstract": "A method, apparatus, and system for determining a value of an electric power flow characteristic of an electric power grid are disclosed. The grid comprises at least one power unit configured to consume electric power from and/or provide electric power to the electric power grid. A power change by the at least one power unit causes a change in value of a first parameter of electric power flow in the electric power grid. The method comprises correlating a particular power change with at least one value of the first parameter at a first grid location and at least one value of the first parameter at a second grid location; determining a difference between the at least one value of the first parameter at the first grid location and the at least one value of the first parameter at the second grid location; and determining, based on the determined difference, a value of the electric power flow characteristic of the electric power grid.",
+      "publicationNumber": "TW202549208",
+      "publicationDate": "2025-12-16",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "GIUSEPPE DESTINO",
+        "JANNE AULA"
+      ],
+      "applicationDate": "2025-04-08",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.544201
+    },
+    {
+      "id": "CA-2945865-C",
+      "title": [
+        "FREQUENCY RESPONSE"
+      ],
+      "abstract": "Control systems and methods for control of grid frequency in an electric power grid, are described. A grid frequency is monitored by monitoring devices (120) at one or more predefined locations in the grid, and a determination is made whether one or more conditions relating to the monitored frequency have been met. A control period during which the grid frequency at one or more of the one or more predefined locations is to be controlled is initiated based on the determination. One or more variation characterises relating to a variation, during the control period, in grid frequency are determined. Control instructions, comprising instructions to control power flow to and/or from each of a first plurality of power units (119) so as to control the monitored frequency, are sent. The control instructions are generated on the basis of profile information relating to the power units and the determined one or more variation characteristics.",
+      "publicationNumber": "CA2945865",
+      "publicationDate": "2022-07-19",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "HEIKKI HUOMO"
+      ],
+      "applicationDate": "2015-03-26",
+      "claimsCount": 30,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.495051
+    },
+    {
+      "id": "JP-6566525-B2",
+      "title": [
+        "\u30b0\u30ea\u30c3\u30c9\u5468\u6ce2\u6570\u5fdc\u7b54"
+      ],
+      "abstract": "\u96fb\u529b\u30b0\u30ea\u30c3\u30c9\u306e\u540c\u671f\u9818\u57df\u5185\u306e\u6163\u6027\u3092\u6c7a\u5b9a\u3059\u308b\u70ba\u306e\u65b9\u6cd5\u304a\u3088\u3073\u88c5\u7f6e\u304c\u8aac\u660e\u3055\u308c\u308b\u3002\u96fb\u529b\u30b0\u30ea\u30c3\u30c9\u5185\u306b\u6d41\u308c\u308b\u96fb\u6c17\u306e\u5468\u6ce2\u6570\u306b\u95a2\u3059\u308b\u5468\u6ce2\u6570\u7279\u6027\u304c\u6e2c\u5b9a\u3055\u308c\u3001\u30d1\u30ef\u30fc\u30d5\u30ed\u30fc\u5909\u8abf\u306b\u95a2\u3059\u308b\u5927\u304d\u3055\u304c\u3001\u96fb\u529b\u30b0\u30ea\u30c3\u30c9\u304b\u3089\u306e\u96fb\u529b\u3092\u6d88\u8cbb\u3059\u308b\u3088\u3046\u306b\u30a2\u30ec\u30f3\u30b8\u3055\u308c\u305f\u4e00\u3064\u4ee5\u4e0a\u306e\u30d1\u30ef\u30fc\u30e6\u30cb\u30c3\u30c8\u306e\u30d1\u30ef\u30fc\u7279\u6027\u306b\u95a2\u3059\u308b\u30c7\u30fc\u30bf\u306b\u57fa\u3065\u3044\u3066\u6c7a\u5b9a\u3055\u308c\u3001\u3055\u3089\u306b\uff0f\u307e\u305f\u306f\u3001\u96fb\u529b\u30b0\u30ea\u30c3\u30c9\u306b\u6709\u52b9\u96fb\u529b\u53ca\u3073\uff0f\u53c8\u306f\u7121\u52b9\u96fb\u529b\u3092\u63d0\u4f9b\u3057\u3001\u96fb\u529b\u30b0\u30ea\u30c3\u30c9\u306e\u3046\u3061\u306e\u5c11\u306a\u304f\u3068\u3082\u4e00\u3064\u306e\u9818\u57df\u3068\u95a2\u4fc2\u4ed8\u3051\u3089\u308c\u305f\u5468\u6ce2\u6570\u5fdc\u7b54\u7279\u6027\u304c\u3001\u6e2c\u5b9a\u3055\u308c\u305f\u5468\u6ce2\u6570\u7279\u6027\u304a\u3088\u3073\u6c7a\u5b9a\u3055\u308c\u305f\u5927\u304d\u3055\u306e\u7279\u6027\u306b\u57fa\u3065\u3044\u3066\u6c7a\u5b9a\u3055\u308c\u308b\u3002\u3053\u308c\u306b\u3088\u308a\u3001\u96fb\u529b\u30b0\u30ea\u30c3\u30c9\u306e\u540c\u671f\u9818\u57df\u5185\u306e\u5468\u6ce2\u6570\u5fdc\u7b54\u7279\u6027\u304c\u7c21\u5358\u306b\u6c7a\u5b9a\u3067\u304d\u308b\u3002",
+      "publicationNumber": "JP6566525",
+      "publicationDate": "2019-08-28",
+      "assignee": [
+        "REACTIVE  TECHNOLOGIES  LIMITED"
+      ],
+      "inventors": [
+        "\u30a6\u30a9\u30e2\uff0c  \u30d8\u30a4\u30ad",
+        "\u30a2\u30e9\u30b3\u30f3\u30c6\u30a3\u30aa\u30e9\uff0c  \u30e6\u30c3\u30ab"
+      ],
+      "applicationDate": "2014-11-04",
+      "claimsCount": 42,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.463711
+    },
+    {
+      "id": "JP-6436493-B2",
+      "title": [
+        "\u96fb\u529b\u30b0\u30ea\u30c3\u30c9\u3092\u4ecb\u3057\u3066\u4fe1\u53f7\u3092\u9001\u4fe1\u3059\u308b\u53ca\u3073\uff0f\u53c8\u306f\u53d7\u4fe1\u3059\u308b\u305f\u3081\u306e\u65b9\u6cd5\u3001\u88c5\u7f6e\u53ca\u3073\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30d7\u30ed\u30b0\u30e9\u30e0"
+      ],
+      "abstract": "\u60c5\u5831\u3092\u9001\u4fe1\u3059\u308b\u53ca\u3073\uff0f\u53c8\u306f\u53d7\u4fe1\u3059\u308b\u305f\u3081\u306e\u65b9\u6cd5\u3001\u88c5\u7f6e\u53ca\u3073\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30d7\u30ed\u30b0\u30e9\u30e0\u304c\u8aac\u660e\u3055\u308c\u3066\u3044\u308b\u3002\u96fb\u6c17\u304c\u96fb\u529b\u30b0\u30ea\u30c3\u30c9\u306e\u540c\u671f\u9818\u57df\u5185\u3092\u6d41\u308c\u3066\u3044\u308b\u30b0\u30ea\u30c3\u30c9\u5468\u6ce2\u6570\u306b\u91cd\u7573\u3055\u308c\u305f\u5909\u8abf\u30d1\u30bf\u30fc\u30f3\u3092\u542b\u3080\u642c\u9001\u4fe1\u53f7\u5185\u306b\u7b26\u53f7\u5316\u3055\u308c\u305f\u60c5\u5831\u306f\u3001\u53d7\u4fe1\u5074\u88c5\u7f6e\u306b\u304a\u3044\u3066\u3001\u96fb\u529b\u30b0\u30ea\u30c3\u30c9\u5185\u3092\u6d41\u308c\u3066\u3044\u308b\u96fb\u6c17\u306e\u5468\u6ce2\u6570\u306b\u95a2\u4fc2\u3059\u308b\u7279\u6027\u3092\u6e2c\u5b9a\u3059\u308b\u30b9\u30c6\u30c3\u30d7\u3068\u3001\uff11\u3064\u53c8\u306f\u8907\u6570\u306e\u6240\u5b9a\u306e\u7b26\u53f7\u30d1\u30bf\u30fc\u30f3\u3092\u793a\u3059\u30c7\u30fc\u30bf\u306b\u30a2\u30af\u30bb\u30b9\u3059\u308b\u30b9\u30c6\u30c3\u30d7\u3068\u3001\u5909\u8abf\u30d1\u30bf\u30fc\u30f3\u3068\uff11\u3064\u53c8\u306f\u8907\u6570\u306e\u6240\u5b9a\u306e\u7b26\u53f7\u30d1\u30bf\u30fc\u30f3\u306e\u3046\u3061\u306e\uff11\u3064\u3068\u306e\u9593\u306e\u76f8\u95a2\u3092\u6c7a\u5b9a\u3059\u308b\u76f8\u95a2\u30d7\u30ed\u30bb\u30b9\u3092\u5b9f\u884c\u3059\u308b\u30b9\u30c6\u30c3\u30d7\u3068\u306b\u3088\u3063\u3066\u5fa9\u53f7\u3055\u308c\u3066\u3044\u308b\u3002\u60c5\u5831\u306f\u3001\u6c7a\u5b9a\u3057\u305f\u76f8\u95a2\u306b\u57fa\u3065\u3044\u3066\u5fa9\u53f7\u3055\u308c\u3066\u3044\u308b\u3002\u3053\u308c\u304c\u3001\u96fb\u529b\u30b0\u30ea\u30c3\u30c9\u306e\u540c\u671f\u9818\u57df\u5185\u306b\u60c5\u5831\u304c\u5bb9\u6613\u306b\u9001\u4fe1\u3055\u308c\u308b\u3053\u3068\u3092\u53ef\u80fd\u306b\u3057\u3066\u3044\u308b\u3002\u3010\u9078\u629e\u56f3\u3011 \u56f3\uff14\uff42",
+      "publicationNumber": "JP6436493",
+      "publicationDate": "2018-12-12",
+      "assignee": [
+        "REACTIVE  TECHNOLOGIES  LIMITED"
+      ],
+      "inventors": [
+        "\u30a6\u30a9\u30e2\uff0c  \u30d8\u30a4\u30c3\u30ad"
+      ],
+      "applicationDate": "2014-02-21",
+      "claimsCount": 49,
+      "independentClaimsCount": 6,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Telecommunications"
+      ],
+      "score": 13.463711
+    },
+    {
+      "id": "JP-2016536960-A",
+      "title": [
+        "\u30b0\u30ea\u30c3\u30c9\u5468\u6ce2\u6570\u5fdc\u7b54"
+      ],
+      "abstract": "\u96fb\u529b\u30b0\u30ea\u30c3\u30c9\u306e\u540c\u671f\u9818\u57df\u5185\u306e\u6163\u6027\u3092\u6c7a\u5b9a\u3059\u308b\u70ba\u306e\u65b9\u6cd5\u304a\u3088\u3073\u88c5\u7f6e\u304c\u8aac\u660e\u3055\u308c\u308b\u3002\u96fb\u529b\u30b0\u30ea\u30c3\u30c9\u5185\u306b\u6d41\u308c\u308b\u96fb\u6c17\u306e\u5468\u6ce2\u6570\u306b\u95a2\u3059\u308b\u5468\u6ce2\u6570\u7279\u6027\u304c\u6e2c\u5b9a\u3055\u308c\u3001\u30d1\u30ef\u30fc\u30d5\u30ed\u30fc\u5909\u8abf\u306b\u95a2\u3059\u308b\u5927\u304d\u3055\u304c\u3001\u96fb\u529b\u30b0\u30ea\u30c3\u30c9\u304b\u3089\u306e\u96fb\u529b\u3092\u6d88\u8cbb\u3059\u308b\u3088\u3046\u306b\u30a2\u30ec\u30f3\u30b8\u3055\u308c\u305f\u4e00\u3064\u4ee5\u4e0a\u306e\u30d1\u30ef\u30fc\u30e6\u30cb\u30c3\u30c8\u306e\u30d1\u30ef\u30fc\u7279\u6027\u306b\u95a2\u3059\u308b\u30c7\u30fc\u30bf\u306b\u57fa\u3065\u3044\u3066\u6c7a\u5b9a\u3055\u308c\u3001\u3055\u3089\u306b\uff0f\u307e\u305f\u306f\u3001\u96fb\u529b\u30b0\u30ea\u30c3\u30c9\u306b\u6709\u52b9\u96fb\u529b\u53ca\u3073\uff0f\u53c8\u306f\u7121\u52b9\u96fb\u529b\u3092\u63d0\u4f9b\u3057\u3001\u96fb\u529b\u30b0\u30ea\u30c3\u30c9\u306e\u3046\u3061\u306e\u5c11\u306a\u304f\u3068\u3082\u4e00\u3064\u306e\u9818\u57df\u3068\u95a2\u4fc2\u4ed8\u3051\u3089\u308c\u305f\u5468\u6ce2\u6570\u5fdc\u7b54\u7279\u6027\u304c\u3001\u6e2c\u5b9a\u3055\u308c\u305f\u5468\u6ce2\u6570\u7279\u6027\u304a\u3088\u3073\u6c7a\u5b9a\u3055\u308c\u305f\u5927\u304d\u3055\u306e\u7279\u6027\u306b\u57fa\u3065\u3044\u3066\u6c7a\u5b9a\u3055\u308c\u308b\u3002\u3053\u308c\u306b\u3088\u308a\u3001\u96fb\u529b\u30b0\u30ea\u30c3\u30c9\u306e\u540c\u671f\u9818\u57df\u5185\u306e\u5468\u6ce2\u6570\u5fdc\u7b54\u7279\u6027\u304c\u7c21\u5358\u306b\u6c7a\u5b9a\u3067\u304d\u308b\u3002",
+      "publicationNumber": "JP2016536960",
+      "publicationDate": "2016-11-24",
+      "assignee": [
+        "REACTIVE  TECHNOLOGIES  LIMITED"
+      ],
+      "inventors": [
+        "\u30a6\u30a9\u30e2\uff0c  \u30d8\u30a4\u30ad",
+        "\u30a2\u30e9\u30b3\u30f3\u30c6\u30a3\u30aa\u30e9\uff0c  \u30e6\u30c3\u30ab"
+      ],
+      "applicationDate": "2014-11-04",
+      "claimsCount": 46,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.463711
+    },
+    {
+      "id": "JP-2016513927-A",
+      "title": [
+        "\u96fb\u529b\u30b0\u30ea\u30c3\u30c9\u3092\u4ecb\u3057\u3066\u4fe1\u53f7\u3092\u9001\u4fe1\u3059\u308b\u53ca\u3073\uff0f\u53c8\u306f\u53d7\u4fe1\u3059\u308b\u305f\u3081\u306e\u65b9\u6cd5\u3001\u88c5\u7f6e\u53ca\u3073\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30d7\u30ed\u30b0\u30e9\u30e0"
+      ],
+      "abstract": "\u60c5\u5831\u3092\u9001\u4fe1\u3059\u308b\u53ca\u3073\uff0f\u53c8\u306f\u53d7\u4fe1\u3059\u308b\u305f\u3081\u306e\u65b9\u6cd5\u3001\u88c5\u7f6e\u53ca\u3073\u30b3\u30f3\u30d4\u30e5\u30fc\u30bf\u30d7\u30ed\u30b0\u30e9\u30e0\u304c\u8aac\u660e\u3055\u308c\u3066\u3044\u308b\u3002\u96fb\u6c17\u304c\u96fb\u529b\u30b0\u30ea\u30c3\u30c9\u306e\u540c\u671f\u9818\u57df\u5185\u3092\u6d41\u308c\u3066\u3044\u308b\u30b0\u30ea\u30c3\u30c9\u5468\u6ce2\u6570\u306b\u91cd\u7573\u3055\u308c\u305f\u5909\u8abf\u30d1\u30bf\u30fc\u30f3\u3092\u542b\u3080\u642c\u9001\u4fe1\u53f7\u5185\u306b\u7b26\u53f7\u5316\u3055\u308c\u305f\u60c5\u5831\u306f\u3001\u53d7\u4fe1\u5074\u88c5\u7f6e\u306b\u304a\u3044\u3066\u3001\u96fb\u529b\u30b0\u30ea\u30c3\u30c9\u5185\u3092\u6d41\u308c\u3066\u3044\u308b\u96fb\u6c17\u306e\u5468\u6ce2\u6570\u306b\u95a2\u4fc2\u3059\u308b\u7279\u6027\u3092\u6e2c\u5b9a\u3059\u308b\u30b9\u30c6\u30c3\u30d7\u3068\u3001\uff11\u3064\u53c8\u306f\u8907\u6570\u306e\u6240\u5b9a\u306e\u7b26\u53f7\u30d1\u30bf\u30fc\u30f3\u3092\u793a\u3059\u30c7\u30fc\u30bf\u306b\u30a2\u30af\u30bb\u30b9\u3059\u308b\u30b9\u30c6\u30c3\u30d7\u3068\u3001\u5909\u8abf\u30d1\u30bf\u30fc\u30f3\u3068\uff11\u3064\u53c8\u306f\u8907\u6570\u306e\u6240\u5b9a\u306e\u7b26\u53f7\u30d1\u30bf\u30fc\u30f3\u306e\u3046\u3061\u306e\uff11\u3064\u3068\u306e\u9593\u306e\u76f8\u95a2\u3092\u6c7a\u5b9a\u3059\u308b\u76f8\u95a2\u30d7\u30ed\u30bb\u30b9\u3092\u5b9f\u884c\u3059\u308b\u30b9\u30c6\u30c3\u30d7\u3068\u306b\u3088\u3063\u3066\u5fa9\u53f7\u3055\u308c\u3066\u3044\u308b\u3002\u60c5\u5831\u306f\u3001\u6c7a\u5b9a\u3057\u305f\u76f8\u95a2\u306b\u57fa\u3065\u3044\u3066\u5fa9\u53f7\u3055\u308c\u3066\u3044\u308b\u3002\u3053\u308c\u304c\u3001\u96fb\u529b\u30b0\u30ea\u30c3\u30c9\u306e\u540c\u671f\u9818\u57df\u5185\u306b\u60c5\u5831\u304c\u5bb9\u6613\u306b\u9001\u4fe1\u3055\u308c\u308b\u3053\u3068\u3092\u53ef\u80fd\u306b\u3057\u3066\u3044\u308b\u3002\u3010\u9078\u629e\u56f3\u3011 \u56f3\uff14\uff42",
+      "publicationNumber": "JP2016513927",
+      "publicationDate": "2016-05-16",
+      "assignee": [
+        "REACTIVE  TECHNOLOGIES  LIMITED"
+      ],
+      "inventors": [
+        "\u30a6\u30a9\u30e2\uff0c  \u30d8\u30a4\u30c3\u30ad"
+      ],
+      "applicationDate": "2014-02-21",
+      "claimsCount": 54,
+      "independentClaimsCount": 6,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Telecommunications"
+      ],
+      "score": 13.463711
+    },
+    {
+      "id": "JP-6076960-B2",
+      "title": [
+        "\u30a8\u30cd\u30eb\u30ae\u30fc\u6d88\u8cbb\u7ba1\u7406"
+      ],
+      "abstract": "\u914d\u96fb\u7db2\u306b\u304a\u3051\u308b\u96fb\u6c17\u30a8\u30cd\u30eb\u30ae\u30fc\u6d88\u8cbb\u3092\u5236\u5fa1\u3059\u308b\u305f\u3081\u306e\u65b9\u6cd5\u306b\u95a2\u3059\u308b\u3002\u3053\u306e\u65b9\u6cd5\u306f\u3001\u96fb\u6c17\u30c7\u30d0\u30a4\u30b9\u306b\u95a2\u3059\u308b\u60c5\u5831\u306e\u30c7\u30fc\u30bf\u30d9\u30fc\u30b9\u3092\u7dad\u6301\u3059\u308b\u30b9\u30c6\u30c3\u30d7\u3068\u3001\u96fb\u6c17\u30a8\u30cd\u30eb\u30ae\u30fc\u306e\u6d88\u8cbb\u3092\u5236\u5fa1\u3059\u3079\u304d\u6642\u9593\u671f\u9593\u3092\u8b58\u5225\u3059\u308b\u30b9\u30c6\u30c3\u30d7\u3068\u3092\u542b\u3080\u3002\u3053\u306e\u65b9\u6cd5\u306f\u3001\u30c7\u30fc\u30bf\u30d9\u30fc\u30b9\u306b\u8a18\u61b6\u3055\u308c\u3066\u3044\u308b\u30c7\u30d0\u30a4\u30b9\u30d7\u30ed\u30d5\u30a1\u30a4\u30eb\u60c5\u5831\u306b\u57fa\u3065\u3044\u3066\u96fb\u6c17\u30c7\u30d0\u30a4\u30b9\u306e\u30b0\u30eb\u30fc\u30d7\u3092\u9078\u629e\u3059\u308b\u30b9\u30c6\u30c3\u30d7\u3068\u3001\uff11\u3064\u53c8\u306f\u8907\u6570\u306e\u6642\u9593\u9593\u9694\u3068\u9078\u629e\u3055\u308c\u305f\u30b0\u30eb\u30fc\u30d7\u306e\u305d\u308c\u305e\u308c\u3092\u95a2\u9023\u4ed8\u3051\u308b\u30b9\u30c6\u30c3\u30d7\u3068\u3092\u3055\u3089\u306b\u542b\u3080\u3002\u9078\u629e\u3055\u308c\u305f\u30b0\u30eb\u30fc\u30d7\u306e\u96fb\u6c17\u30c7\u30d0\u30a4\u30b9\u306b\u3001\u3053\u308c\u3089\u306e\u96fb\u6c17\u30c7\u30d0\u30a4\u30b9\u306b\u3088\u308b\u96fb\u6c17\u30a8\u30cd\u30eb\u30ae\u30fc\u6d88\u8cbb\u53ca\u3073\uff0f\u53c8\u306f\u63d0\u4f9b\u3092\u5236\u5fa1\u3059\u308b\u3088\u3046\u306b\u8981\u6c42\u304c\u9001\u3089\u308c\u308b\u3002\u3053\u306e\u8981\u6c42\u3092\u9001\u308b\u3053\u3068\u306b\u3088\u308a\u3001\u305d\u308c\u305e\u308c\u306e\u6642\u9593\u9593\u9694\u306e\u9593\u3001\u96fb\u6c17\u30a8\u30cd\u30eb\u30ae\u30fc\u306e\u6b63\u5473\u6d88\u8cbb\u3092\u4f4e\u6e1b\u3059\u308b\u3053\u3068\u304c\u3067\u304d\u308b\u3002\u3010\u9078\u629e\u56f3\u3011\u56f3\uff19",
+      "publicationNumber": "JP6076960",
+      "publicationDate": "2017-02-08",
+      "assignee": [
+        "REACTIVE  TECHNOLOGIES  LIMITED"
+      ],
+      "inventors": [
+        "\u30dc\u30ec\u30c3\u30c8\uff0c  \u30de\u30fc\u30af",
+        "\u30a6\u30aa\u30e2\uff0c  \u30a4\u30fc\u30ad\u30fc"
+      ],
+      "applicationDate": "2012-03-26",
+      "claimsCount": 37,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "IT methods for management"
+      ],
+      "score": 13.420018
+    },
+    {
+      "id": "WO-2018099923-A1",
+      "title": [
+        "POWER FLOW CHARACTERISTICS"
+      ],
+      "abstract": "Methods, computer software and apparatus for use in an electric power grid are described. Measurement data is received intermittently or continuously from a plurality of measurement units, indicating values of at least one measured characteristic at a respective measurement locations. The at least one is characteristic is monitored, and it is determined, based on the monitoring, that there has been a change in electric power flow in the electric power grid. Responsive to the determination, component data is accessed relating to characteristics of components of the electric power grid involved in provision and/or consumption of electric power. Based on received measurement data relating to the change and the accessed component data, a power flow characteristic of the grid in a given time period is determined.",
+      "publicationNumber": "WO2018099923",
+      "publicationDate": "2018-06-07",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "JUKKA ALAKONTIOLA",
+        "ABHISHEK JAIN",
+        "TIMO PELTOLA",
+        "MARC BORRETT",
+        "MIKA VENTOLA"
+      ],
+      "applicationDate": "2017-11-28",
+      "claimsCount": 17,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "IT methods for management"
+      ],
+      "score": 13.419144
+    },
+    {
+      "id": "WO-2018099921-A1",
+      "title": [
+        "DETERMINING A CHARACTERISTIC OF AN INERTIAL CONTRIBUTION TO AN ELECTRIC POWER GRID"
+      ],
+      "abstract": "Methods, and apparatus for determining a characteristic of an inertial contribution to an electrical power grid are described. A change in inertia in the electrical power grid based on one or more inertia measurements performed in a first time period is determined. On the basis of the determined change in inertia and data indicative of an inertia contribution characteristic of one or more energy production facilities and/or one or more energy consuming devices in the electric power grid, a characteristic of an inertial contribution to the electrical power grid is determined for a second time period different to the first time period.",
+      "publicationNumber": "WO2018099921",
+      "publicationDate": "2018-06-07",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "MIKA VENTOLA",
+        "JUKKA ALAKONTIOLA",
+        "MARC BORRETT",
+        "Ville PAJU",
+        "TIMO PELTOLA"
+      ],
+      "applicationDate": "2017-11-28",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.419144
+    },
+    {
+      "id": "US-20190293698-A1",
+      "title": [
+        "DETERMINING A CHARACTERISTIC OF AN INERTIAL CONTRIBUTION TO AN ELECTRIC POWER GRID"
+      ],
+      "abstract": "Methods, and apparatus for determining a characteristic of an inertial contribution to an electrical power grid are described. A change in inertia in the electrical power grid based on one or more inertia measurements performed in a first time period is determined. On the basis of the determined change in inertia and data indicative of an inertia contribution characteristic of one or more energy production facilities and/or one or more energy consuming devices in the electric power grid, a characteristic of an inertial contribution to the electrical power grid is determined for a second time period different to the first time period.",
+      "publicationNumber": "US20190293698",
+      "publicationDate": "2019-09-26",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "Mika Ventola",
+        "Jukka Alakontiola",
+        "Marc Borrett",
+        "Ville PAJU",
+        "Timo Peltola"
+      ],
+      "applicationDate": "2019-05-29",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Measurement"
+      ],
+      "score": 13.419144
+    },
+    {
+      "id": "US-20190279314-A1",
+      "title": [
+        "POWER FLOW CHARACTERISTICS"
+      ],
+      "abstract": "Methods, computer software and apparatus for use in an electric power grid are described. Measurement data is received intermittently or continuously from a plurality of measurement units, indicating values of at least one measured characteristic at respective measurement locations. The at least one is characteristic is monitored, and it is determined, based on the monitoring, that there has been a change in electric power flow in the electric power grid. Responsive to the determination, component data is accessed relating to characteristics of components of the electric power grid involved in provision and/or consumption of electric power. Based on received measurement data relating to the change and the accessed component data, a power flow characteristic of the grid in a given time period is determined.",
+      "publicationNumber": "US20190279314",
+      "publicationDate": "2019-09-12",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "Jukka Alakontiola",
+        "Abhishek Jain",
+        "Timo Peltola",
+        "Marc Borrett",
+        "Mika Ventola"
+      ],
+      "applicationDate": "2019-05-29",
+      "claimsCount": 16,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "IT methods for management",
+        "Telecommunications"
+      ],
+      "score": 13.419144
+    },
+    {
+      "id": "PT-3549225-T",
+      "title": [
+        "DETERMINING A CHARACTERISTIC OF AN INERTIAL CONTRIBUTION TO AN ELECTRIC POWER GRID"
+      ],
+      "abstract": "",
+      "publicationNumber": "PT3549225",
+      "publicationDate": "2020-11-05",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [],
+      "applicationDate": "2017-11-28",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.419144
+    },
+    {
+      "id": "NZ-753726-A",
+      "title": [
+        "Power flow characteristics"
+      ],
+      "abstract": "Methods, computer software and apparatus for use in an electric power grid are described. Measurement data is received intermittently or continuously from a plurality of measurement units, indicating values of at least one measured characteristic at a respective measurement locations. At least one characteristic is monitored, and it is determined, based on the monitoring, that there has been a change in electric power flow in the electric power grid. Responsive to the determination, component data is accessed relating to characteristics of components of the electric power grid involved in provision and/or consumption of electric power. Based on received measurement data relating to the change and the accessed component data, a power flow characteristic of the grid in a given time period is determined.",
+      "publicationNumber": "NZ753726",
+      "publicationDate": "2024-10-25",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "MARC BORRETT",
+        "JUKKA ALAKONTIOLA",
+        "ABHISHEK JAIN",
+        "TIMO PELTOLA",
+        "MIKA VENTOLA"
+      ],
+      "applicationDate": "2017-11-28",
+      "claimsCount": 17,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "IT methods for management"
+      ],
+      "score": 13.419144
+    },
+    {
+      "id": "MA-47001-A",
+      "title": [
+        "CARACT\u00c9RISTIQUES DE FLUX D&apos;\u00c9NERGIE"
+      ],
+      "abstract": "",
+      "publicationNumber": "MA47001",
+      "publicationDate": "2019-10-09",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "JUKKA ALAKONTIOLA",
+        "MARC BORRETT",
+        "ABHISHEK JAIN",
+        "TIMO PELTOLA",
+        "MIKA VENTOLA"
+      ],
+      "applicationDate": "2017-11-28",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.419144
+    },
+    {
+      "id": "MA-46958-A",
+      "title": [
+        "D\u00c9TERMINATION DE CARACT\u00c9RISTIQUE DE CONTRIBUTION INERTIELLE \u00c0 UN R\u00c9SEAU \u00c9LECTRIQUE"
+      ],
+      "abstract": "",
+      "publicationNumber": "MA46958",
+      "publicationDate": "2019-10-09",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "JUKKA ALAKONTIOLA",
+        "MARC BORRETT",
+        "Ville PAJU",
+        "TIMO PELTOLA",
+        "MIKA VENTOLA"
+      ],
+      "applicationDate": "2017-11-28",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.419144
+    },
+    {
+      "id": "GB-2557220-B",
+      "title": [
+        "Determining a characteristic of an inertial contribution to an electric power grid"
+      ],
+      "abstract": "",
+      "publicationNumber": "GB2557220",
+      "publicationDate": "2019-05-15",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "MIKA VENTOLA",
+        "JUKKA ALAKONTIOLA",
+        "MARC BORRETT",
+        "Ville Paju",
+        "TIMO PELTOLA"
+      ],
+      "applicationDate": "2016-11-30",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "IT methods for management"
+      ],
+      "score": 13.419144
+    },
+    {
+      "id": "GB-2557220-A",
+      "title": [
+        "Determining a characteristic of an inertial contribution to an electric power grid"
+      ],
+      "abstract": "Methods and apparatus for determining a characteristic of an inertial contribution to an electrical power grid. A change in inertia in the electrical power grid 10 based on one or more inertia measurements performed in a first time period is determined. On the basis of the determined change in inertia and data indicative of an inertia contribution characteristic of one or more energy production facilities 106 and/or one or more energy consuming devices 113, 114 in the electric power grid, a characteristic of an inertial contribution to the electrical power grid is determined for a second time period different to the first time period. The characteristic of inertial contribution may relate to a proportion of the total energy production or consumption in the power grid by the production facilities 106 or consumers 113, 114.",
+      "publicationNumber": "GB2557220",
+      "publicationDate": "2018-06-20",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "MIKA VENTOLA",
+        "JUKKA ALAKONTIOLA",
+        "MARC BORRETT",
+        "Ville Paju",
+        "TIMO PELTOLA"
+      ],
+      "applicationDate": "2016-11-30",
+      "claimsCount": 16,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.419144
+    },
+    {
+      "id": "GB-201620329-D0",
+      "title": [
+        "Determining a characteristic of an inertial contribution to an electric power grid"
+      ],
+      "abstract": "",
+      "publicationNumber": "GB201620329",
+      "publicationDate": "2017-01-11",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [],
+      "applicationDate": "2016-11-30",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 13.419144
+    },
+    {
+      "id": "ES-2829564-T3",
+      "title": [
+        "Determinaci\u00f3n de una caracter\u00edstica de una contribuci\u00f3n inercial a una red de energ\u00eda el\u00e9ctrica"
+      ],
+      "abstract": "Un m\u00e9todo (200) para determinar una caracter\u00edstica de una contribuci\u00f3n inercial a una red de energ\u00eda el\u00e9ctrica (100), el m\u00e9todo que comprende (200): determinar (202) un cambio de inercia en la red de energ\u00eda el\u00e9ctrica (100) en base a las mediciones de inercia realizadas en un primer per\u00edodo de tiempo; y determinar (204), por un segundo per\u00edodo de tiempo diferente al primer per\u00edodo de tiempo, una caracter\u00edstica de una contribuci\u00f3n inercial a la red de energ\u00eda el\u00e9ctrica (100) sobre la base del cambio determinado y los datos indicativos de una caracter\u00edstica de contribuci\u00f3n inercial de una o m\u00e1s instalaciones de producci\u00f3n de energ\u00eda (106) y/o uno o m\u00e1s dispositivos consumidores de energ\u00eda (118) en la red de energ\u00eda el\u00e9ctrica (100).",
+      "publicationNumber": "ES2829564",
+      "publicationDate": "2021-06-01",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "MIKA VENTOLA",
+        "JUKKA ALAKONTIOLA",
+        "MARC BORRETT",
+        "Ville PAJU",
+        "TIMO PELTOLA"
+      ],
+      "applicationDate": "2017-11-28",
+      "claimsCount": 15,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "IT methods for management"
+      ],
+      "score": 13.419144
+    },
+    {
+      "id": "EP-3549225-A1",
+      "title": [
+        "DETERMINING A CHARACTERISTIC OF AN INERTIAL CONTRIBUTION TO AN ELECTRIC POWER GRID"
+      ],
+      "abstract": "Methods, and apparatus for determining a characteristic of an inertial contribution to an electrical power grid are described. A change in inertia in the electrical power grid based on one or more inertia measurements performed in a first time period is determined. On the basis of the determined change in inertia and data indicative of an inertia contribution characteristic of one or more energy production facilities and/or one or more energy consuming devices in the electric power grid, a characteristic of an inertial contribution to the electrical power grid is determined for a second time period different to the first time period.",
+      "publicationNumber": "EP3549225",
+      "publicationDate": "2019-10-09",
+      "assignee": [
+        "Reactive Technologies Limited"
+      ],
+      "inventors": [
+        "MIKA VENTOLA",
+        "JUKKA ALAKONTIOLA",
+        "MARC BORRETT",
+        "Ville PAJU",
+        "TIMO PELTOLA"
+      ],
+      "applicationDate": "2017-11-28",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.419144
+    },
+    {
+      "id": "EP-3549224-A1",
+      "title": [
+        "POWER FLOW CHARACTERISTICS"
+      ],
+      "abstract": "Methods, computer software and apparatus for use in an electric power grid are described. Measurement data is received intermittently or continuously from a plurality of measurement units, indicating values of at least one measured characteristic at a respective measurement locations. The at least one is characteristic is monitored, and it is determined, based on the monitoring, that there has been a change in electric power flow in the electric power grid. Responsive to the determination, component data is accessed relating to characteristics of components of the electric power grid involved in provision and/or consumption of electric power. Based on received measurement data relating to the change and the accessed component data, a power flow characteristic of the grid in a given time period is determined.",
+      "publicationNumber": "EP3549224",
+      "publicationDate": "2019-10-09",
+      "assignee": [
+        "Reactive Technologies Limited"
+      ],
+      "inventors": [
+        "JUKKA ALAKONTIOLA",
+        "ABHISHEK JAIN",
+        "TIMO PELTOLA",
+        "MARC BORRETT",
+        "MIKA VENTOLA"
+      ],
+      "applicationDate": "2017-11-28",
+      "claimsCount": 17,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "IT methods for management"
+      ],
+      "score": 13.419144
+    },
+    {
+      "id": "DK-3549225-T3",
+      "title": [
+        "BESTEMMELSE AF EN KARAKTERISTIK VED ET INERTI-BIDRAG TIL ET ELNET"
+      ],
+      "abstract": "",
+      "publicationNumber": "DK3549225",
+      "publicationDate": "2020-11-02",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "MIKA VENTOLA",
+        "JUKKA ALAKONTIOLA",
+        "MARC BORRETT",
+        "Ville PAJU",
+        "TIMO PELTOLA"
+      ],
+      "applicationDate": "2017-11-28",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "IT methods for management"
+      ],
+      "score": 13.419144
+    },
+    {
+      "id": "AU-2017368274-B2",
+      "title": [
+        "Power flow characteristics"
+      ],
+      "abstract": "Methods, computer software and apparatus for use in an electric power grid are described. Measurement data is received intermittently or continuously from a plurality of measurement units, indicating values of at least one measured characteristic at a respective measurement locations. The at least one is characteristic is monitored, and it is determined, based on the monitoring, that there has been a change in electric power flow in the electric power grid. Responsive to the determination, component data is accessed relating to characteristics of components of the electric power grid involved in provision and/or consumption of electric power. Based on received measurement data relating to the change and the accessed component data, a power flow characteristic of the grid in a given time period is determined.",
+      "publicationNumber": "AU2017368274",
+      "publicationDate": "2022-03-03",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "JUKKA ALAKONTIOLA",
+        "MARC BORRETT",
+        "ABHISHEK JAIN",
+        "TIMO PELTOLA",
+        "MIKA VENTOLA"
+      ],
+      "applicationDate": "2017-11-28",
+      "claimsCount": 17,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "IT methods for management"
+      ],
+      "score": 13.419144
+    },
+    {
+      "id": "AU-2017368274-A1",
+      "title": [
+        "Power flow characteristics"
+      ],
+      "abstract": "Methods, computer software and apparatus for use in an electric power grid are described. Measurement data is received intermittently or continuously from a plurality of measurement units, indicating values of at least one measured characteristic at a respective measurement locations. The at least one is characteristic is monitored, and it is determined, based on the monitoring, that there has been a change in electric power flow in the electric power grid. Responsive to the determination, component data is accessed relating to characteristics of components of the electric power grid involved in provision and/or consumption of electric power. Based on received measurement data relating to the change and the accessed component data, a power flow characteristic of the grid in a given time period is determined.",
+      "publicationNumber": "AU2017368274",
+      "publicationDate": "2019-06-06",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "JUKKA ALAKONTIOLA",
+        "MARC BORRETT",
+        "ABHISHEK JAIN",
+        "TIMO PELTOLA",
+        "MIKA VENTOLA"
+      ],
+      "applicationDate": "2017-11-28",
+      "claimsCount": 17,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "IT methods for management"
+      ],
+      "score": 13.419144
+    },
+    {
+      "id": "AU-2017368272-B2",
+      "title": [
+        "Determining a characteristic of an inertial contribution to an electric power grid"
+      ],
+      "abstract": "Methods, and apparatus for determining a characteristic of an inertial contribution to an electrical power grid are described. A change in inertia in the electrical power grid based on one or more inertia measurements performed in a first time period is determined. On the basis of the determined change in inertia and data indicative of an inertia contribution characteristic of one or more energy production facilities and/or one or more energy consuming devices in the electric power grid, a characteristic of an inertial contribution to the electrical power grid is determined for a second time period different to the first time period.",
+      "publicationNumber": "AU2017368272",
+      "publicationDate": "2022-03-17",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "JUKKA ALAKONTIOLA",
+        "MARC BORRETT",
+        "Ville PAJU",
+        "TIMO PELTOLA",
+        "MIKA VENTOLA"
+      ],
+      "applicationDate": "2017-11-28",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.419144
+    },
+    {
+      "id": "AU-2017368272-A1",
+      "title": [
+        "Determining a characteristic of an inertial contribution to an electric power grid"
+      ],
+      "abstract": "Methods, and apparatus for determining a characteristic of an inertial contribution to an electrical power grid are described. A change in inertia in the electrical power grid based on one or more inertia measurements performed in a first time period is determined. On the basis of the determined change in inertia and data indicative of an inertia contribution characteristic of one or more energy production facilities and/or one or more energy consuming devices in the electric power grid, a characteristic of an inertial contribution to the electrical power grid is determined for a second time period different to the first time period.",
+      "publicationNumber": "AU2017368272",
+      "publicationDate": "2019-06-06",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "JUKKA ALAKONTIOLA",
+        "MARC BORRETT",
+        "Ville PAJU",
+        "TIMO PELTOLA",
+        "MIKA VENTOLA"
+      ],
+      "applicationDate": "2017-11-28",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.419144
+    },
+    {
+      "id": "ZA-201607100-B",
+      "title": [
+        "FREQUENCY RESPONSE"
+      ],
+      "abstract": "",
+      "publicationNumber": "ZA201607100",
+      "publicationDate": "2019-02-27",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "HEIKKI HUOMO"
+      ],
+      "applicationDate": "2016-10-14",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 13.415123
+    },
+    {
+      "id": "WO-2025017063-A1",
+      "title": [
+        "MONITORING AN ELECTRIC POWER GRID"
+      ],
+      "abstract": "This document discloses a solution for a method of estimating short-circuit current at a given bus of an electric power grid, the grid comprising at least one transmission system and at least one active distribution grid According to an aspect, a method comprises: estimating (400) initial values and proportion for currents due to demand and production based on available, statistical information; refining estimates for the proportion of current due to demand and production using real-time measurement (404) of voltage and current of the given bus; and upon detection (406) of a voltage change event, estimating the short circuit current, short circuit capacity or short circuit ratio of the given bus and/or the local network based on the measured change in voltage and current.",
+      "publicationNumber": "WO2025017063",
+      "publicationDate": "2025-01-23",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "Poria ASTERO"
+      ],
+      "applicationDate": "2024-07-17",
+      "claimsCount": 14,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Measurement"
+      ],
+      "score": 13.415123
+    },
+    {
+      "id": "WO-2018104095-A1",
+      "title": [
+        "INERTIA CHARACTERISTIC"
+      ],
+      "abstract": "Apparatus and methods for determining an inertia characteristic of a synchronous area of an electric power grid are described. First data is determined. The first data represents a signal comprising a first variation in the grid frequency over a period of time, the signal resulting from a second variation, the second variation being a variation in provision of electric power to and/or consumption of electric power from the grid, the signal having been filtered according to a first filter defining a first frequency band to at least attenuate frequencies outside of the first frequency band. Second data is determined. The second data is representative of the second variation on a second frequency band, the second frequency band being substantially the same as the first frequency band. An inertia characteristic of a synchronous area of the electric power grid is determined based on the first data and the second data.",
+      "publicationNumber": "WO2018104095",
+      "publicationDate": "2018-06-14",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "MIKA VENTOLA",
+        "TIMO PELTOLA"
+      ],
+      "applicationDate": "2017-11-27",
+      "claimsCount": 22,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.415123
+    },
+    {
+      "id": "US-20190285671-A1",
+      "title": [
+        "INERTIA CHARACTERISTIC"
+      ],
+      "abstract": "Apparatus and methods for determining an inertia characteristic of a synchronous area of an electric power grid are described. First data is determined. The first data represents a signal comprising a first variation in the grid frequency over a period of time, the signal resulting from a second variation, the second variation being a variation in provision of electric power to and/or consumption of electric power from the grid, the signal having been filtered according to a first filter defining a first frequency band to at least attenuate frequencies outside of the first frequency band. Second data is determined. The second data is representative of the second variation on a second frequency band, the second frequency band being substantially the same as the first frequency band. An inertia characteristic of a synchronous area of the electric power grid is determined based on the first data and the second data.",
+      "publicationNumber": "US20190285671",
+      "publicationDate": "2019-09-19",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "Mika Ventola",
+        "Timo Peltola"
+      ],
+      "applicationDate": "2019-06-06",
+      "claimsCount": 22,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Measurement"
+      ],
+      "score": 13.415123
+    },
+    {
+      "id": "US-20170098937-A1",
+      "title": [
+        "FREQUENCY RESPONSE"
+      ],
+      "abstract": "Control systems and methods for control of grid frequency in an electric power grid, are described. A grid frequency is monitored by monitoring devices at one or more predefined locations in the grid, and a determination is made whether one or more conditions relating to the monitored frequency have been met. A control period during which the grid frequency at one or more of the one or more predefined locations is to be controlled is initiated based on the determination. One or more variation characterizes relating to a variation, during the control period, in grid frequency are determined. Control instructions, comprising instructions to control power flow to and/or from each of a first plurality of power units so as to control the monitored frequency, are sent. The control instructions are generated on the basis of profile information relating to the power units and the determined one or more variation characteristics.",
+      "publicationNumber": "US20170098937",
+      "publicationDate": "2017-04-06",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "Heikki Huomo"
+      ],
+      "applicationDate": "2016-10-12",
+      "claimsCount": 29,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.415123
+    },
+    {
+      "id": "PT-3132517-T",
+      "title": [
+        "FREQUENCY RESPONSE"
+      ],
+      "abstract": "",
+      "publicationNumber": "PT3132517",
+      "publicationDate": "2020-06-25",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [],
+      "applicationDate": "2015-03-26",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.415123
+    },
+    {
+      "id": "PL-3132517-T3",
+      "title": [
+        "FREQUENCY RESPONSE"
+      ],
+      "abstract": "",
+      "publicationNumber": "PL3132517",
+      "publicationDate": "2020-10-19",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "HEIKKI HUOMO"
+      ],
+      "applicationDate": "2015-03-26",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.415123
+    },
+    {
+      "id": "NZ-725123-A",
+      "title": [
+        "A CONTROL SYSTEM FOR CONTROLLING FREQUENCY OF ELECTRICITY"
+      ],
+      "abstract": "Control systems and methods for control of grid frequency in an electric power grid, are described. Current methods of addressing undesirable frequency changes require the constant running of generation units at reduced power output levels in anticipation of events that could cause a fluctuation in frequency and using devices, such as user appliances, to monitor grid frequency at their location which limits to effecting a local response to a local change in power balance and can lead to a collective over-response. The present invention mitigates one or more problems in the prior art by incorporating a control system for use in an electric power grid wherein the electric power grid is connected to one or more distributed plurality of power units each arranged to consume electric power from and/or provide electric power to the electric power grid such that a change in power provision and/or consumption by a said power unit results in a change in power flow in the electric power grid, thereby changing a contribution of the power unit to the grid frequency. The control system comprising a processing means and a communication means wherein the communication means sends control instructions generated on the basis of profile information relating to the distributed power units and the determined characteristics of the variation with time in the grid frequency.",
+      "publicationNumber": "NZ725123",
+      "publicationDate": "2019-03-29",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "HEIKKI HUOMO"
+      ],
+      "applicationDate": "2015-03-26",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.415123
+    },
+    {
+      "id": "MA-48596-A",
+      "title": [
+        "CARACT\u00c9RISTIQUE D&apos;INERTIE"
+      ],
+      "abstract": "",
+      "publicationNumber": "MA48596",
+      "publicationDate": "2021-03-31",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "TIMO PELTOLA",
+        "MIKA VENTOLA"
+      ],
+      "applicationDate": "2017-11-27",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.415123
+    },
+    {
+      "id": "IL-250976-A0",
+      "title": [
+        "Broadcast channel testing"
+      ],
+      "abstract": "",
+      "publicationNumber": "IL250976",
+      "publicationDate": "2017-04-30",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [],
+      "applicationDate": "2017-03-07",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 13.415123
+    },
+    {
+      "id": "IL-248280-B",
+      "title": [
+        "Frequency response"
+      ],
+      "abstract": "",
+      "publicationNumber": "IL248280",
+      "publicationDate": "2021-08-31",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [],
+      "applicationDate": "2016-10-10",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 13.415123
+    },
+    {
+      "id": "IL-248280-A0",
+      "title": [
+        "Frequency response"
+      ],
+      "abstract": "",
+      "publicationNumber": "IL248280",
+      "publicationDate": "2016-11-30",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [],
+      "applicationDate": "2016-10-10",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 13.415123
+    },
+    {
+      "id": "HR-P20200885-T1",
+      "title": [
+        "FREQUENCY RESPONSE"
+      ],
+      "abstract": "",
+      "publicationNumber": "HRP20200885",
+      "publicationDate": "2020-09-04",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "HEIKKI HUOMO"
+      ],
+      "applicationDate": "2015-03-26",
+      "claimsCount": 14,
+      "independentClaimsCount": 8,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.415123
+    },
+    {
+      "id": "GB-2631948-A",
+      "title": [
+        "Monitoring an electric power grid"
+      ],
+      "abstract": "A method of estimating short-circuit current at a given bus of an electric power grid comprising at least one transmission system and at least one active distribution grid which includes power generators and power consuming loads. The method comprises: estimating (400) initial values and proportion for currents due to demand and production based on available, statistical information; refining estimates for the proportion of current due to demand and production using real-time measurement (404) of voltage and current of the given bus; and upon detection (406) of a voltage change event, estimating the short circuit current, short circuit capacity or short circuit ratio of the given bus and/or the local network based on the measured change in voltage and current. The statistical information may be historical data, weather data and type or capacity of generation in the active distribution grid. The method may also estimate the share of motor-based, inverter-connected and static loads before and after the voltage change.",
+      "publicationNumber": "GB2631948",
+      "publicationDate": "2025-01-22",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "PORIA ASTERO"
+      ],
+      "applicationDate": "2023-07-18",
+      "claimsCount": 14,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Measurement"
+      ],
+      "score": 13.415123
+    },
+    {
+      "id": "GB-2557334-A",
+      "title": [
+        "Inertia characteristic"
+      ],
+      "abstract": "Determination of an inertia characteristic of a synchronous area of an electric power grid is disclosed. A first set of data is determined, which represents the grid frequency variation signal over a period of time. The grid frequency variation results from the variation in power balance of supply and demand in the grid. A second set of data representing the power balance signal is determined. Bandpass filtering is applied to each signal so that they are attenuated outside a frequency band, the frequency band of each signal being substantially the same. An inertia characteristic of the synchronous area of the electric power grid is determined from the first data and second data. The inertia characteristic represents the stored kinetic energy in the grid, particularly in the spinning generators of large capacity power stations. It may vary according to local area depending on the proximity to a large capacity power station. The inertia characteristic may be used by grid operators to mitigate the effects of sudden changes in power consumption or generation.",
+      "publicationNumber": "GB2557334",
+      "publicationDate": "2018-06-20",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "MIKA VENTOLA",
+        "TIMO PELTOLA"
+      ],
+      "applicationDate": "2016-12-07",
+      "claimsCount": 22,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.415123
+    },
+    {
+      "id": "GB-2530275-B",
+      "title": [
+        "Broadcast channel testing"
+      ],
+      "abstract": "",
+      "publicationNumber": "GB2530275",
+      "publicationDate": "2017-02-01",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "MIKA VENTOLA",
+        "TIMO LINNA",
+        "PAAVO LEINONEN"
+      ],
+      "applicationDate": "2014-09-16",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Telecommunications"
+      ],
+      "score": 13.415123
+    },
+    {
+      "id": "GB-202310977-D0",
+      "title": [
+        "Monitoring an electric power grid"
+      ],
+      "abstract": "",
+      "publicationNumber": "GB202310977",
+      "publicationDate": "2023-08-30",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [],
+      "applicationDate": "2023-07-18",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 13.415123
+    },
+    {
+      "id": "GB-201620814-D0",
+      "title": [
+        "Inertia characteristic"
+      ],
+      "abstract": "",
+      "publicationNumber": "GB201620814",
+      "publicationDate": "2017-01-18",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [],
+      "applicationDate": "2016-12-07",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 13.415123
+    },
+    {
+      "id": "ES-2947941-T3",
+      "title": [
+        "Caracter\u00edstica de inercia"
+      ],
+      "abstract": "Se describen aparatos y m\u00e9todos para determinar una caracter\u00edstica de inercia de un \u00e1rea s\u00edncrona de una red el\u00e9ctrica. Se determinan los primeros datos. Los primeros datos representan una se\u00f1al que comprende una primera variaci\u00f3n en la frecuencia de la red durante un per\u00edodo de tiempo, siendo la se\u00f1al resultante de una segunda variaci\u00f3n, siendo la segunda variaci\u00f3n una variaci\u00f3n en el suministro de energ\u00eda el\u00e9ctrica ay/o el consumo de energ\u00eda el\u00e9ctrica de la red. habi\u00e9ndose filtrado la se\u00f1al seg\u00fan un primer filtro que define una primera banda de frecuencia para al menos atenuar las frecuencias fuera de la primera banda de frecuencia. Se determinan los segundos datos. Los segundos datos son representativos de la segunda variaci\u00f3n en una segunda banda de frecuencia, siendo la segunda banda de frecuencia sustancialmente la misma que la primera banda de frecuencia. (Traducci\u00f3n autom\u00e1tica con Google Translate, sin valor legal)",
+      "publicationNumber": "ES2947941",
+      "publicationDate": "2023-08-24",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "MIKA VENTOLA",
+        "TIMO PELTOLA"
+      ],
+      "applicationDate": "2017-11-27",
+      "claimsCount": 17,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.415123
+    },
+    {
+      "id": "ES-2798086-T3",
+      "title": [
+        "Respuesta de frecuencia"
+      ],
+      "abstract": "Un sistema de control (130) para usar en una red de energ\u00eda el\u00e9ctrica (100), la electricidad que fluye en la red (100) de acuerdo con una frecuencia de la red, en donde la red de energ\u00eda el\u00e9ctrica (100) se conecta a una o m\u00e1s de una pluralidad distribuida de unidades de energ\u00eda (119) cada una dispuesta para consumir energ\u00eda el\u00e9ctrica desde y/o proporcionar energ\u00eda el\u00e9ctrica a la red de energ\u00eda el\u00e9ctrica (100) de modo que un cambio en el suministro y/o consumo de energ\u00eda por dicha unidad de energ\u00eda (119) resulta en un cambio en el flujo de energ\u00eda en la red de energ\u00eda el\u00e9ctrica (100), lo que cambia as\u00ed una contribuci\u00f3n de la unidad de energ\u00eda (119) a la frecuencia de la red, el sistema de control (130) que comprende: un medio de procesamiento (304): y un medio de comunicaci\u00f3n (302), en donde el medio de procesamiento (304) se dispone para: monitorear una frecuencia de la red en una o m\u00e1s ubicaciones predefinidas en la red de energ\u00eda el\u00e9ctrica (100); determinar que se han cumplido una o m\u00e1s condiciones relacionadas con la frecuencia monitoreada; iniciar, en funci\u00f3n de la determinaci\u00f3n, un per\u00edodo de control durante el cual se controlar\u00e1 la frecuencia de la red en una o m\u00e1s de la una o m\u00e1s ubicaciones predefinidas; determinar, con base en el monitoreo, una o m\u00e1s caracter\u00edsticas de una variaci\u00f3n, con el tiempo, durante dicho per\u00edodo de control, en la frecuencia de la red; enviar, a trav\u00e9s del medio de comunicaci\u00f3n (302), instrucciones de control a una primera pluralidad de la pluralidad distribuida de unidades de energ\u00eda (119), las instrucciones de control que son instrucciones para controlar el flujo de energ\u00eda hacia y/o desde cada una de la primera pluralidad de unidades de energ\u00eda (119) para controlar la frecuencia monitoreada, caracterizado porque las instrucciones de control se generan sobre la base de: informaci\u00f3n de perfil relacionada con la pluralidad distribuida de unidades de energ\u00eda (119), en donde la informaci\u00f3n de perfil incluye una o m\u00e1s caracter\u00edsticas de consumo de energ\u00eda de la primera pluralidad de unidades de energ\u00eda (119) y/o la informaci\u00f3n de perfil incluye una o m\u00e1s caracter\u00edsticas de suministro de energ\u00eda de la primera pluralidad de unidades de energ\u00eda (119); en donde la informaci\u00f3n de perfil se recupera de un almacenamiento de datos (306) que contiene dicha informaci\u00f3n de perfil de la primera pluralidad de unidades de energ\u00eda (119); y la una o m\u00e1s caracter\u00edsticas determinadas de la variaci\u00f3n en la frecuencia de la red, de modo que la primera pluralidad de unidades de energ\u00eda (119) proporciona una contribuci\u00f3n que var\u00eda en el tiempo a la frecuencia de la red durante dicho per\u00edodo; en donde la una o m\u00e1s caracter\u00edsticas de la variaci\u00f3n en la frecuencia de la red se determinan sobre la base de un pron\u00f3stico de una variaci\u00f3n en la frecuencia de la red, en donde el pron\u00f3stico de la variaci\u00f3n en la frecuencia de la red comprende: definir una serie de valores asociados con al menos una caracter\u00edstica de frecuencia; y determinar una funci\u00f3n polin\u00f3mica, una funci\u00f3n c\u00f3nica, una funci\u00f3n exponencial o una funci\u00f3n de potencia con base en la serie de valores asociados con la al menos una caracter\u00edstica de frecuencia.",
+      "publicationNumber": "ES2798086",
+      "publicationDate": "2020-12-09",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "HEIKKI HUOMO"
+      ],
+      "applicationDate": "2015-03-26",
+      "claimsCount": 14,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.415123
+    },
+    {
+      "id": "EP-3552290-C0",
+      "title": [
+        "INERTIA CHARACTERISTIC"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP3552290",
+      "publicationDate": "2023-06-07",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "MIKA VENTOLA",
+        "TIMO PELTOLA"
+      ],
+      "applicationDate": "2017-11-27",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.415123
+    },
+    {
+      "id": "EP-3552290-A1",
+      "title": [
+        "INERTIA CHARACTERISTIC"
+      ],
+      "abstract": "Apparatus and methods for determining an inertia characteristic of a synchronous area of an electric power grid are described. First data is determined. The first data represents a signal comprising a first variation in the grid frequency over a period of time, the signal resulting from a second variation, the second variation being a variation in provision of electric power to and/or consumption of electric power from the grid, the signal having been filtered according to a first filter defining a first frequency band to at least attenuate frequencies outside of the first frequency band. Second data is determined. The second data is representative of the second variation on a second frequency band, the second frequency band being substantially the same as the first frequency band. An inertia characteristic of a synchronous area of the electric power grid is determined based on the first data and the second data.",
+      "publicationNumber": "EP3552290",
+      "publicationDate": "2019-10-16",
+      "assignee": [
+        "Reactive Technologies Limited"
+      ],
+      "inventors": [
+        "MIKA VENTOLA",
+        "TIMO PELTOLA"
+      ],
+      "applicationDate": "2017-11-27",
+      "claimsCount": 22,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.415123
+    },
+    {
+      "id": "EP-3132517-A1",
+      "title": [
+        "FREQUENCY RESPONSE"
+      ],
+      "abstract": "Control systems and methods for control of grid frequency in an electric power grid, are described. A grid frequency is monitored by monitoring devices (120) at one or more predefined locations in the grid, and a determination is made whether one or more conditions relating to the monitored frequency have been met. A control period during which the grid frequency at one or more of the one or more predefined locations is to be controlled is initiated based on the determination. One or more variation characterises relating to a variation, during the control period, in grid frequency are determined. Control instructions, comprising instructions to control power flow to and/or from each of a first plurality of power units (119) so as to control the monitored frequency, are sent. The control instructions are generated on the basis of profile information relating to the power units and the determined one or more variation characteristics.",
+      "publicationNumber": "EP3132517",
+      "publicationDate": "2017-02-22",
+      "assignee": [
+        "Reactive Technologies Limited"
+      ],
+      "inventors": [
+        "HEIKKI HUOMO"
+      ],
+      "applicationDate": "2015-03-26",
+      "claimsCount": 30,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.415123
+    },
+    {
+      "id": "DK-3132517-T3",
+      "title": [
+        "FREKVENSSVAR"
+      ],
+      "abstract": "",
+      "publicationNumber": "DK3132517",
+      "publicationDate": "2020-06-15",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "HEIKKI HUOMO"
+      ],
+      "applicationDate": "2015-03-26",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.415123
+    },
+    {
+      "id": "AU-2015246228-B2",
+      "title": [
+        "Frequency response"
+      ],
+      "abstract": "Control systems and methods for control of grid frequency in an electric power grid, are described. A grid frequency is monitored by monitoring devices (120) at one or more predefined locations in the grid, and a determination is made whether one or more conditions relating to the monitored frequency have been met. A control period during which the grid frequency at one or more of the one or more predefined locations is to be controlled is initiated based on the determination. One or more variation characterises relating to a variation, during the control period, in grid frequency are determined. Control instructions, comprising instructions to control power flow to and/or from each of a first plurality of power units (119) so as to control the monitored frequency, are sent. The control instructions are generated on the basis of profile information relating to the power units and the determined one or more variation characteristics.",
+      "publicationNumber": "AU2015246228",
+      "publicationDate": "2019-03-07",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "HEIKKI HUOMO"
+      ],
+      "applicationDate": "2015-03-26",
+      "claimsCount": 30,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.415123
+    },
+    {
+      "id": "AU-2015246228-A1",
+      "title": [
+        "Frequency response"
+      ],
+      "abstract": "Control systems and methods for control of grid frequency in an electric power grid, are described. A grid frequency is monitored by monitoring devices (120) at one or more predefined locations in the grid, and a determination is made whether one or more conditions relating to the monitored frequency have been met. A control period during which the grid frequency at one or more of the one or more predefined locations is to be controlled is initiated based on the determination. One or more variation characterises relating to a variation, during the control period, in grid frequency are determined. Control instructions, comprising instructions to control power flow to and/or from each of a first plurality of power units (119) so as to control the monitored frequency, are sent. The control instructions are generated on the basis of profile information relating to the power units and the determined one or more variation characteristics.",
+      "publicationNumber": "AU2015246228",
+      "publicationDate": "2016-11-03",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "HEIKKI HUOMO"
+      ],
+      "applicationDate": "2015-03-26",
+      "claimsCount": 30,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 13.415123
+    },
+    {
+      "id": "GB-202418908-D0",
+      "title": [
+        "Determining a value of a characteristic of an electric power grid"
+      ],
+      "abstract": "",
+      "publicationNumber": "GB202418908",
+      "publicationDate": "2025-02-05",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [],
+      "applicationDate": "2024-12-20",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 13.202971
+    },
+    {
+      "id": "US-20160006591-A1",
+      "title": [
+        "METHOD, APPARATUS AND COMPUTER PROGRAM FOR TRANSMITTING AND/OR RECEIVING SIGNALS"
+      ],
+      "abstract": "Methods, apparatus and computer programs for transmitting and/or receiving information are described. Information encoded in a carrier signal comprising a modulation pattern superimposed on a grid frequency at which electricity flows in a synchronous area of an electric power grid, is decoded by measuring, at a receiving device, a characteristic relating to a frequency of electricity flowing in the electric power grid, accessing data indicative of one or more predetermined code patterns and performing a correlation process to determine a correlation between the modulation pattern and one of the one or more predetermined code patterns. The information is decoded on the basis of the determined correlation. This enables information to be easily transmitted within a synchronous area of the electric power grid.",
+      "publicationNumber": "US20160006591",
+      "publicationDate": "2016-01-07",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "Heikki Huomo"
+      ],
+      "applicationDate": "2015-09-11",
+      "claimsCount": 50,
+      "independentClaimsCount": 8,
+      "technologyFields": [
+        "Digital communication"
+      ],
+      "score": 13.177815
+    },
+    {
+      "id": "US-10218181-B2",
+      "title": [
+        "Grid frequency response"
+      ],
+      "abstract": "Methods, and apparatus for determining inertia within a synchronous area of an electric power grid are described. A frequency characteristic relating to a frequency of electricity flowing in the electric power grid is measured, a magnitude relating to a power flow modulation is determined based on data relating to power characteristics of one or more power units arranged to consume electric power from and/or provide real and/or reactive electric power to the electric power grid, and a frequency response characteristic associated with at least one area of the electric power grid is determined on the basis of the measured frequency characteristic and the determined magnitude characteristic. This enables frequency response characteristics within a synchronous area of the electric power grid to be easily determined.",
+      "publicationNumber": "US10218181",
+      "publicationDate": "2019-02-26",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "Heikki Huomo",
+        "Jukka Alakontiola"
+      ],
+      "applicationDate": "2016-05-05",
+      "claimsCount": 41,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Measurement",
+        "Telecommunications"
+      ],
+      "score": 13.177815
+    },
+    {
+      "id": "US-10193721-B2",
+      "title": [
+        "Method, apparatus and computer program for transmitting and/or receiving signals"
+      ],
+      "abstract": "Methods, apparatus and computer programs for transmitting and/or receiving information are described. Information encoded in a carrier signal comprising a modulation pattern superimposed on a grid frequency at which electricity flows in a synchronous area of an electric power grid, is decoded by measuring, at a receiving device, a characteristic relating to a frequency of electricity flowing in the electric power grid, accessing data indicative of one or more predetermined code patterns and performing a correlation process to determine a correlation between the modulation pattern and one of the one or more predetermined code patterns. The information is decoded on the basis of the determined correlation. This enables information to be easily transmitted within a synchronous area of the electric power grid.",
+      "publicationNumber": "US10193721",
+      "publicationDate": "2019-01-29",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "Heikki Huomo"
+      ],
+      "applicationDate": "2015-09-11",
+      "claimsCount": 51,
+      "independentClaimsCount": 9,
+      "technologyFields": [
+        "Digital communication",
+        "Telecommunications"
+      ],
+      "score": 13.177815
+    },
+    {
+      "id": "SG-11201603503Y-A",
+      "title": [
+        "GRID FREQUENCY RESPONSE"
+      ],
+      "abstract": "",
+      "publicationNumber": "SG11201603503Y",
+      "publicationDate": "2016-05-30",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "HEIKKI HUOMO",
+        "JUKKA ALAKONTIOLA"
+      ],
+      "applicationDate": "2014-11-04",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Measurement"
+      ],
+      "score": 13.177815
+    },
+    {
+      "id": "NZ-720073-B2",
+      "title": [
+        "GRID FREQUENCY RESPONSE"
+      ],
+      "abstract": "Method and apparatus for determining inertia within a synchronous area of an electric power grid are described. Power flow to and/or from a group of one or more power units is modulated on the basis of a sequence of control signals (figure 4a) and a frequency characteristic relating to a frequency of electricity flowing in the electric power grid measured (solid lines of figures 4b-4d). A frequency response characteristic associated with at least one area of the electric power grid is determined on the basis of the measured frequency characteristic and the determined magnitude characteristic. From this it is determined whether the inertia in the area of the grid in which the power unit is located is low (figure 4b), medium (figure 4c) or high (figure 4d), and it enables frequency response characteristics within a synchronous area of the electric power grid to be easily determined. f electricity flowing in the electric power grid measured (solid lines of figures 4b-4d). A frequency response characteristic associated with at least one area of the electric power grid is determined on the basis of the measured frequency characteristic and the determined magnitude characteristic. From this it is determined whether the inertia in the area of the grid in which the power unit is located is low (figure 4b), medium (figure 4c) or high (figure 4d), and it enables frequency response characteristics within a synchronous area of the electric power grid to be easily determined.",
+      "publicationNumber": "NZ720073",
+      "publicationDate": "2021-03-02",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "ALAKONTIOLA JUKKA",
+        "HUOMO HEIKKI"
+      ],
+      "applicationDate": "2014-11-04",
+      "claimsCount": 43,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Measurement"
+      ],
+      "score": 13.177815
+    },
+    {
+      "id": "IL-245451-A0",
+      "title": [
+        "Grid frequency response"
+      ],
+      "abstract": "",
+      "publicationNumber": "IL245451",
+      "publicationDate": "2016-06-30",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [],
+      "applicationDate": "2016-05-03",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 13.177815
+    },
+    {
+      "id": "HK-1220819-B",
+      "title": [
+        "METHOD, APPARATUS AND COMPUTER PROGRAM FOR TRANSMITTING AND/OR RECEIVING SIGNALS ACROSS AN ELECTRIC POWER GRID"
+      ],
+      "abstract": "",
+      "publicationNumber": "HK1220819",
+      "publicationDate": "2019-09-13",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "HEIKKI HUOMO"
+      ],
+      "applicationDate": "2016-07-20",
+      "claimsCount": 16,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Telecommunications"
+      ],
+      "score": 13.177815
+    },
+    {
+      "id": "HK-1210546-B",
+      "title": [
+        "GRID FREQUENCY RESPONSE"
+      ],
+      "abstract": "",
+      "publicationNumber": "HK1210546",
+      "publicationDate": "2018-03-16",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "HEIKKI HUOMO",
+        "JUKKA ALAKONTIOLA"
+      ],
+      "applicationDate": "2015-11-13",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Measurement"
+      ],
+      "score": 13.177815
+    },
+    {
+      "id": "HK-1210546-A1",
+      "title": [
+        "GRID FREQUENCY RESPONSE"
+      ],
+      "abstract": "Methods, and apparatus for determining inertia within a synchronous area of an electric power grid are described. A frequency characteristic relating to a frequency of electricity flowing in the electric power grid is measured, a magnitude relating to a power flow modulation is determined based on data relating to power characteristics of one or more power units arranged to consume electric power from and/or provide real and/or reactive electric power to the electric power grid, and a frequency response characteristic associated with at least one area of the electric power grid is determined on the basis of the measured frequency characteristic and the determined magnitude characteristic. This enables frequency response characteristics within a synchronous area of the electric power grid to be easily determined.",
+      "publicationNumber": "HK1210546",
+      "publicationDate": "2016-04-22",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "HEIKKI HUOMO",
+        "JUKKA ALAKONTIOLA"
+      ],
+      "applicationDate": "2015-11-13",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Measurement"
+      ],
+      "score": 13.177815
+    },
+    {
+      "id": "HK-1205368-B",
+      "title": [
+        "GRID FREQUENCY RESPONSE"
+      ],
+      "abstract": "",
+      "publicationNumber": "HK1205368",
+      "publicationDate": "2018-03-16",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "HEIKKI HUOMO",
+        "JUKKA ALAKONTIOLA"
+      ],
+      "applicationDate": "2015-06-16",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Measurement"
+      ],
+      "score": 13.177815
+    },
+    {
+      "id": "GB-2530207-A",
+      "title": [
+        "Method, apparatus and computer program for transmitting and/or receiving signals across an electric power grid"
+      ],
+      "abstract": "Methods, apparatus and computer programs for transmitting and/or receiving information are described. Information encoded in a carrier signal comprising a modulation pattern superimposed on a grid frequency at which electricity flows in a synchronous area of an electric power grid, is decoded by measuring, at a receiving device, a characteristic relating to a frequency of electricity flowing in the electric power grid, accessing data indicative of one or more predetermined code patterns and performing a correlation process to determine a correlation between the modulation pattern and one of the one or more predetermined code patterns. The information is decoded on the basis of the determined correlation. This enables information to be easily transmitted within a synchronous area of the electric power grid.",
+      "publicationNumber": "GB2530207",
+      "publicationDate": "2016-03-16",
+      "assignee": [
+        "REACTIVE TECHNOLOGIES LIMITED"
+      ],
+      "inventors": [
+        "HEIKKI HUOMO"
+      ],
+      "applicationDate": "2014-02-21",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Telecommunications"
+      ],
+      "score": 13.177815
+    }
+  ]
+}

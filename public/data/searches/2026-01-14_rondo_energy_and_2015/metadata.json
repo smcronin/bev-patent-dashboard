@@ -1,0 +1,11 @@
+{
+  "search_id": "search_20260114_121537",
+  "timestamp": "2026-01-14T12:15:37.945983",
+  "query_type": "ai_search",
+  "user_prompt": "PA=(Rondo Energy) AND PD>2015",
+  "minesoft_query": "PA=(Rondo Energy) AND PD>2015",
+  "results_count": 179,
+  "directory": "2026-01-14_rondo_energy_and_2015",
+  "execution_time_ms": 8114.495038986206,
+  "api_endpoint": "query"
+}

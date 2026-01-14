@@ -1,0 +1,11 @@
+{
+  "search_id": "search_20260114_121850",
+  "timestamp": "2026-01-14T12:18:50.289540",
+  "query_type": "ai_search",
+  "user_prompt": "PA=(ClearFlame) AND PD>2015",
+  "minesoft_query": "PA=(ClearFlame) AND PD>2015",
+  "results_count": 56,
+  "directory": "2026-01-14_clearflame_and_2015",
+  "execution_time_ms": 2066.5974617004395,
+  "api_endpoint": "query"
+}

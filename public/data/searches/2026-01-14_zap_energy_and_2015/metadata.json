@@ -1,0 +1,11 @@
+{
+  "search_id": "search_20260114_121659",
+  "timestamp": "2026-01-14T12:16:59.604224",
+  "query_type": "ai_search",
+  "user_prompt": "PA=(Zap Energy) AND PD>2015",
+  "minesoft_query": "PA=(Zap Energy) AND PD>2015",
+  "results_count": 68,
+  "directory": "2026-01-14_zap_energy_and_2015",
+  "execution_time_ms": 1811.145544052124,
+  "api_endpoint": "query"
+}

@@ -1,0 +1,11 @@
+{
+  "search_id": "search_20260114_122016",
+  "timestamp": "2026-01-14T12:20:16.943826",
+  "query_type": "ai_search",
+  "user_prompt": "PA=(VEIR) AND PD>2015",
+  "minesoft_query": "PA=(VEIR) AND PD>2015",
+  "results_count": 45,
+  "directory": "2026-01-14_veir_and_2015",
+  "execution_time_ms": 1242.3644065856934,
+  "api_endpoint": "query"
+}

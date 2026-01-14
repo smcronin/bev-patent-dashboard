@@ -1,0 +1,11 @@
+{
+  "search_id": "search_20260114_121436",
+  "timestamp": "2026-01-14T12:14:36.215917",
+  "query_type": "ai_search",
+  "user_prompt": "PA=(Malta Inc) AND PD>2015",
+  "minesoft_query": "PA=(Malta Inc) AND PD>2015",
+  "results_count": 346,
+  "directory": "2026-01-14_malta_inc_and_2015",
+  "execution_time_ms": 5169.689416885376,
+  "api_endpoint": "query"
+}

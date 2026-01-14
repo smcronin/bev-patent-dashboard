@@ -1,0 +1,11 @@
+{
+  "search_id": "search_20260114_121847",
+  "timestamp": "2026-01-14T12:18:47.353265",
+  "query_type": "ai_search",
+  "user_prompt": "PA=(Heart Aerospace) AND PD>2015",
+  "minesoft_query": "PA=(Heart Aerospace) AND PD>2015",
+  "results_count": 43,
+  "directory": "2026-01-14_heart_aerospace_and_2015",
+  "execution_time_ms": 503.6771297454834,
+  "api_endpoint": "query"
+}

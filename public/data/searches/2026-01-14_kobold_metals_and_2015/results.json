@@ -1,0 +1,626 @@
+{
+  "count": 26,
+  "numFound": 26,
+  "docs": [
+    {
+      "id": "ZA-202407724-B",
+      "title": [
+        "SUPERCONDUCTING INDUCTION LOOPS FOR MINERAL EXPLORATION"
+      ],
+      "abstract": "Electromagnetic induction systems that include superconducting wire are disclosed. The electromagnetic induction systems are suitable for mineral prospecting.",
+      "publicationNumber": "ZA202407724",
+      "publicationDate": "2025-12-17",
+      "assignee": [
+        "KoBold Metals Company"
+      ],
+      "inventors": [
+        "THOMAS HUNT",
+        "MARK TOPINKA"
+      ],
+      "applicationDate": "2024-10-11",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 17.762146
+    },
+    {
+      "id": "WO-2024226091-A3",
+      "title": [
+        "SUPERCONDUCTING INDUCTION LOOPS FOR MINERAL EXPLORATION"
+      ],
+      "abstract": "Electromagnetic induction systems that include superconducting wire are disclosed. The electromagnetic induction systems are suitable for mineral prospecting.",
+      "publicationNumber": "WO2024226091",
+      "publicationDate": "2025-01-02",
+      "assignee": [
+        "KoBold Metals Company"
+      ],
+      "inventors": [
+        "THOMAS HUNT",
+        "MARK TOPINKA"
+      ],
+      "applicationDate": "2023-03-13",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 17.762146
+    },
+    {
+      "id": "WO-2024226091-A2",
+      "title": [
+        "SUPERCONDUCTING INDUCTION LOOPS FOR MINERAL EXPLORATION"
+      ],
+      "abstract": "Electromagnetic induction systems that include superconducting wire are disclosed. The electromagnetic induction systems are suitable for mineral prospecting.",
+      "publicationNumber": "WO2024226091",
+      "publicationDate": "2024-10-31",
+      "assignee": [
+        "KoBold Metals Company"
+      ],
+      "inventors": [
+        "THOMAS HUNT",
+        "MARK TOPINKA"
+      ],
+      "applicationDate": "2023-03-13",
+      "claimsCount": 16,
+      "independentClaimsCount": 3,
+      "technologyFields": [],
+      "score": 17.762146
+    },
+    {
+      "id": "CL-2024002794-A1",
+      "title": [
+        "Bucles de inducci\u00f3n superconductores para la exploraci\u00f3n minera"
+      ],
+      "abstract": "Se divulgan sistemas de inducci\u00f3n electromagn\u00e9tica que incluyen cables superconductores. Los sistemas de inducci\u00f3n electromagn\u00e9tica son adecuados para la prospecci\u00f3n minera.",
+      "publicationNumber": "CL2024002794",
+      "publicationDate": "2025-05-09",
+      "assignee": [
+        "KoBold Metals Company"
+      ],
+      "inventors": [
+        "THOMAS HUNT",
+        "MARK TOPINKA"
+      ],
+      "applicationDate": "2024-09-16",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Measurement"
+      ],
+      "score": 17.762146
+    },
+    {
+      "id": "AU-2023430178-A1",
+      "title": [
+        "SUPERCONDUCTING INDUCTION LOOPS FOR MINERAL EXPLORATION."
+      ],
+      "abstract": "",
+      "publicationNumber": "AU2023430178",
+      "publicationDate": "2024-11-28",
+      "assignee": [
+        "KoBold Metals Company"
+      ],
+      "inventors": [
+        "THOMAS HUNT",
+        "MARK TOPINKA"
+      ],
+      "applicationDate": "2023-03-13",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Measurement"
+      ],
+      "score": 17.762146
+    },
+    {
+      "id": "WO-2025101789-A9",
+      "title": [
+        "MUON TOMOGRAPHY FOR SUBSURFACE FEATURE DETECTION USING MUON AIR SHOWERS"
+      ],
+      "abstract": "Methods and systems for performing muon tomography based on muon showers are disclosed. At least two particles produced from a single cosmic ray shower are detected at different surface locations over an area at the surface of the earth.",
+      "publicationNumber": "WO2025101789",
+      "publicationDate": "2025-09-18",
+      "assignee": [
+        "KoBold Metals Company"
+      ],
+      "inventors": [
+        "DANIEL SNOWDEN-IFFT",
+        "THOMAS HUNT",
+        "JEAN-LUC GAUVREAU",
+        "MARK TOPINKA"
+      ],
+      "applicationDate": "2024-11-07",
+      "claimsCount": 24,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Measurement"
+      ],
+      "score": 17.670416
+    },
+    {
+      "id": "WO-2025101789-A1",
+      "title": [
+        "MUON TOMOGRAPHY FOR SUBSURFACE FEATURE DETECTION USING MUON AIR SHOWERS"
+      ],
+      "abstract": "Methods and systems for performing muon tomography based on muon showers are disclosed. At least two particles produced from a single cosmic ray shower are detected at different surface locations over an area at the surface of the earth.",
+      "publicationNumber": "WO2025101789",
+      "publicationDate": "2025-05-15",
+      "assignee": [
+        "KoBold Metals Company"
+      ],
+      "inventors": [
+        "DANIEL SNOWDEN-IFFT",
+        "THOMAS HUNT",
+        "JEAN-LUC GAUVREAU",
+        "MARK TOPINKA"
+      ],
+      "applicationDate": "2024-11-07",
+      "claimsCount": 24,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Measurement"
+      ],
+      "score": 17.670416
+    },
+    {
+      "id": "ZA-202406416-B",
+      "title": [
+        "MUON DETECTOR FOR MUON TOMOGRAPHY"
+      ],
+      "abstract": "A muon detector includes: a chamber having a maximum cross-sectional dimension of 30 cm or less; a gas sealed inside the chamber ionized by the passage of atmospheric muons to form ions in the chamber; a cathode in the chamber at a first position; an anode in the chamber displaced from the first position, the anode including a mesh of wires; a micropattern gaseous detector arranged between the cathode and the anode and proximate to the anode and configured to receive the ions formed in the chamber between the anode and the cathode and generate electrons in response to each ion sufficient to generate a current in one or more of the mesh wires of the anode; and readout electronics in electrical communication with the anode to detect signals in response to the current generated in the mesh wires.",
+      "publicationNumber": "ZA202406416",
+      "publicationDate": "2025-11-26",
+      "assignee": [
+        "KoBold Metals Company"
+      ],
+      "inventors": [
+        "JEAN-LUC GAUVREAU",
+        "DANIEL SNOWDEN-IFFT",
+        "JESSICA KIRKPATRICK"
+      ],
+      "applicationDate": "2024-08-21",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 17.648832
+    },
+    {
+      "id": "WO-2024220686-A1",
+      "title": [
+        "ORIENTING AN UNDERGROUND DETECTOR FOR MUON TOMOGRAPHY"
+      ],
+      "abstract": "Systems and methods for orienting an underground muon detector include receiving measurements of detected muons from at least one muon detector deployed in a borehole in a subsurface formation. A measured field of muon detections per steradian over the field of view of the at least one muon detector is generated based on the received measurements; a null field representing an expected rate of muon detections per steradian over a field of view of the at least one muon detector is generated. A misfit parameter is calculated between the measured field and the null field, and the misfit parameter is minimized to align the measured field to the null field. An orientation of the at least one muon detector with respect to a vertical reference and known markers near the at least one muon detector is determined.",
+      "publicationNumber": "WO2024220686",
+      "publicationDate": "2024-10-24",
+      "assignee": [
+        "KoBold Metals Company"
+      ],
+      "inventors": [
+        "DANIEL SNOWDEN-IFFT",
+        "THOMAS HUNT",
+        "WILLIAM PAGE",
+        "JEAN-LUC GAUVREAU"
+      ],
+      "applicationDate": "2024-04-18",
+      "claimsCount": 21,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Environmental technology",
+        "Measurement"
+      ],
+      "score": 17.648832
+    },
+    {
+      "id": "WO-2023158759-A3",
+      "title": [
+        "MUON DETECTOR FOR MUON TOMOGRAPHY"
+      ],
+      "abstract": "A muon detector includes: a chamber having a maximum cross-sectional dimension of 30 cm or less; a gas sealed inside the chamber ionized by the passage of atmospheric muons to form ions in the chamber; a cathode in the chamber at a first position; an anode in the chamber displaced from the first position, the anode including a mesh of wires; a micropattern gaseous detector arranged between the cathode and the anode and proximate to the anode and configured to receive the ions formed in the chamber between the anode and the cathode and generate electrons in response to each ion sufficient to generate a current in one or more of the mesh wires of the anode; and readout electronics in electrical communication with the anode to detect signals in response to the current generated in the mesh wires.",
+      "publicationNumber": "WO2023158759",
+      "publicationDate": "2023-10-12",
+      "assignee": [
+        "KoBold Metals Company"
+      ],
+      "inventors": [
+        "JEAN-LUC GAUVREAU",
+        "DANIEL SNOWDEN-IFFT",
+        "JESSICA KIRKPATRICK"
+      ],
+      "applicationDate": "2023-02-16",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Measurement"
+      ],
+      "score": 17.648832
+    },
+    {
+      "id": "WO-2023158759-A2",
+      "title": [
+        "MUON DETECTOR FOR MUON TOMOGRAPHY"
+      ],
+      "abstract": "A muon detector includes: a chamber having a maximum cross-sectional dimension of 30 cm or less; a gas sealed inside the chamber ionized by the passage of atmospheric muons to form ions in the chamber; a cathode in the chamber at a first position; an anode in the chamber displaced from the first position, the anode including a mesh of wires; a micropattern gaseous detector arranged between the cathode and the anode and proximate to the anode and configured to receive the ions formed in the chamber between the anode and the cathode and generate electrons in response to each ion sufficient to generate a current in one or more of the mesh wires of the anode; and readout electronics in electrical communication with the anode to detect signals in response to the current generated in the mesh wires.",
+      "publicationNumber": "WO2023158759",
+      "publicationDate": "2023-08-24",
+      "assignee": [
+        "KoBold Metals Company"
+      ],
+      "inventors": [
+        "JEAN-LUC GAUVREAU",
+        "DANIEL SNOWDEN-IFFT",
+        "JESSICA KIRKPATRICK"
+      ],
+      "applicationDate": "2023-02-16",
+      "claimsCount": 23,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 17.648832
+    },
+    {
+      "id": "CL-2024002466-A1",
+      "title": [
+        "Detector de muones para tomograf\u00eda de muones"
+      ],
+      "abstract": "Un detector de muones incluye: una c\u00e1mara que tiene una dimensi\u00f3n m\u00e1xima de secci\u00f3n transversal de 30 cm o menos; un gas sellado dentro de la c\u00e1mara ionizado por el paso de muones atmosf\u00e9ricos para formar iones en la c\u00e1mara; un c\u00e1todo en la c\u00e1mara en una primera posici\u00f3n; un \u00e1nodo en la c\u00e1mara desplazado de la primera posici\u00f3n, el \u00e1nodo incluye una malla de alambres; un detector gaseoso de micropatr\u00f3n dispuesto entre el c\u00e1todo y el \u00e1nodo y pr\u00f3ximo al \u00e1nodo y configurado para recibir los iones formados en la c\u00e1mara entre el \u00e1nodo y el c\u00e1todo y generar electrones en respuesta a cada ion suficiente para generar una corriente en uno o m\u00e1s de los alambres de malla del \u00e1nodo; y electr\u00f3nica de lectura en comunicaci\u00f3n el\u00e9ctrica con el \u00e1nodo para detectar se\u00f1ales en respuesta a la corriente generada en los alambres de malla.",
+      "publicationNumber": "CL2024002466",
+      "publicationDate": "2025-05-09",
+      "assignee": [
+        "KoBold Metals Company"
+      ],
+      "inventors": [
+        "JEAN-LUC GAUVREAU",
+        "DANIEL SNOWDEN-IFFT",
+        "JESSICA KIRKPATRICK"
+      ],
+      "applicationDate": "2024-08-16",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Measurement"
+      ],
+      "score": 17.648832
+    },
+    {
+      "id": "AU-2024259197-A1",
+      "title": [
+        "ORIENTING AN UNDERGROUND DETECTOR FOR MUON TOMOGRAPHY"
+      ],
+      "abstract": "Systems and methods for orienting an underground muon detector include receiving measurements of detected muons from at least one muon detector deployed in a borehole in a subsurface formation. A measured field of muon detections per steradian over the field of view of the at least one muon detector is generated based on the received measurements; a null field representing an expected rate of muon detections per steradian over a field of view of the at least one muon detector is generated. A misfit parameter is calculated between the measured field and the null field, and the misfit parameter is minimized to align the measured field to the null field. An orientation of the at least one muon detector with respect to a vertical reference and known markers near the at least one muon detector is determined.",
+      "publicationNumber": "AU2024259197",
+      "publicationDate": "2025-10-23",
+      "assignee": [
+        "KoBold Metals Company"
+      ],
+      "inventors": [
+        "JEAN-LUC GAUVREAU",
+        "THOMAS HUNT",
+        "WILLIAM PAGE",
+        "DANIEL SNOWDEN-IFFT"
+      ],
+      "applicationDate": "2024-04-18",
+      "claimsCount": 21,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Environmental technology",
+        "Measurement"
+      ],
+      "score": 17.648832
+    },
+    {
+      "id": "AU-2023222772-A1",
+      "title": [
+        "MUON DETECTOR FOR MUON TOMOGRAPHY"
+      ],
+      "abstract": "A muon detector includes: a chamber having a maximum cross-sectional dimension of 30 cm or less; a gas sealed inside the chamber ionized by the passage of atmospheric muons to form ions in the chamber; a cathode in the chamber at a first position; an anode in the chamber displaced from the first position, the anode including a mesh of wires; a micropattern gaseous detector arranged between the cathode and the anode and proximate to the anode and configured to receive the ions formed in the chamber between the anode and the cathode and generate electrons in response to each ion sufficient to generate a current in one or more of the mesh wires of the anode; and readout electronics in electrical communication with the anode to detect signals in response to the current generated in the mesh wires.",
+      "publicationNumber": "AU2023222772",
+      "publicationDate": "2024-08-29",
+      "assignee": [
+        "KoBold Metals Company"
+      ],
+      "inventors": [
+        "JEAN-LUC GAUVREAU",
+        "JESSICA KIRKPATRICK",
+        "DANIEL SNOWDEN-IFFT"
+      ],
+      "applicationDate": "2023-02-16",
+      "claimsCount": 23,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Measurement"
+      ],
+      "score": 17.648832
+    },
+    {
+      "id": "WO-2024259302-A3",
+      "title": [
+        "INDUCTION LOOP FOR MINERAL EXPLORATION"
+      ],
+      "abstract": "Systems and methods for electromagnetic induction include a first electrically conducting loop including multiple lengths of electrically conductive tubing, each length of electrically conductive tubing at least partially composed of a first electrically conducting composite material with a specific conductivity higher than aluminum, the plurality of lengths of electrically conductive tubing being connected to form a rigid closed loop having a perimeter of 3 meters or more. A second electrically conducting loop is electrically isolated from the first electrically conducting loop. A control module includes a signal generator in electrical communication with the first electrically conducting loop and configured to vary a current in the first electrically conducting loop to periodically apply an excitation magnetic field to a volume proximate to the first electrically conducting loop and to detect, using the second electrically conducting loop, changes in a magnetic field generated by a substance in the volume.",
+      "publicationNumber": "WO2024259302",
+      "publicationDate": "2025-01-30",
+      "assignee": [
+        "KoBold Metals Company"
+      ],
+      "inventors": [
+        "THOMAS HUNT",
+        "KURT HOUSE"
+      ],
+      "applicationDate": "2024-06-14",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Measurement"
+      ],
+      "score": 17.567312
+    },
+    {
+      "id": "WO-2024259302-A2",
+      "title": [
+        "INDUCTION LOOP FOR MINERAL EXPLORATION"
+      ],
+      "abstract": "Systems and methods for electromagnetic induction include a first electrically conducting loop including multiple lengths of electrically conductive tubing, each length of electrically conductive tubing at least partially composed of a first electrically conducting composite material with a specific conductivity higher than aluminum, the plurality of lengths of electrically conductive tubing being connected to form a rigid closed loop having a perimeter of 3 meters or more. A second electrically conducting loop is electrically isolated from the first electrically conducting loop. A control module includes a signal generator in electrical communication with the first electrically conducting loop and configured to vary a current in the first electrically conducting loop to periodically apply an excitation magnetic field to a volume proximate to the first electrically conducting loop and to detect, using the second electrically conducting loop, changes in a magnetic field generated by a substance in the volume.",
+      "publicationNumber": "WO2024259302",
+      "publicationDate": "2024-12-19",
+      "assignee": [
+        "KoBold Metals Company"
+      ],
+      "inventors": [
+        "THOMAS HUNT",
+        "KURT HOUSE"
+      ],
+      "applicationDate": "2024-06-14",
+      "claimsCount": 22,
+      "independentClaimsCount": 3,
+      "technologyFields": [],
+      "score": 17.567312
+    },
+    {
+      "id": "US-20240418898-A1",
+      "title": [
+        "INDUCTION LOOP FOR MINERAL EXPLORATION"
+      ],
+      "abstract": "Systems and methods for electromagnetic induction include a first electrically conducting loop including multiple lengths of electrically conductive tubing, each length of electrically conductive tubing at least partially composed of a first electrically conducting composite material with a specific conductivity higher than aluminum, the plurality of lengths of electrically conductive tubing being connected to form a rigid closed loop having a perimeter of 3 meters or more. A second electrically conducting loop is electrically isolated from the first electrically conducting loop. A control module includes a signal generator in electrical communication with the first electrically conducting loop and configured to vary a current in the first electrically conducting loop to periodically apply an excitation magnetic field to a volume proximate to the first electrically conducting loop and to detect, using the second electrically conducting loop, changes in a magnetic field generated by a substance in the volume.",
+      "publicationNumber": "US20240418898",
+      "publicationDate": "2024-12-19",
+      "assignee": [
+        "KoBold Metals Company"
+      ],
+      "inventors": [
+        "Thomas Hunt",
+        "Kurt Z. House"
+      ],
+      "applicationDate": "2024-06-14",
+      "claimsCount": 22,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Measurement"
+      ],
+      "score": 17.567312
+    },
+    {
+      "id": "WO-2025207967-A1",
+      "title": [
+        "CARBONATE PRECIPITATION FOR WATER CONTROL IN MINING OPERATIONS"
+      ],
+      "abstract": "A method includes delivering, to a rock formation in a mine, a carbonate deposition mixture, the carbonate deposition mixture comprising one or more reagents to precipitate a carbonate in the rock formation in an amount sufficient to reduce a porosity in the rock formation.",
+      "publicationNumber": "WO2025207967",
+      "publicationDate": "2025-10-02",
+      "assignee": [
+        "KoBold Metals Company"
+      ],
+      "inventors": [
+        "THOMAS HUNT",
+        "MARTA DEC",
+        "JOHN THOMPSON"
+      ],
+      "applicationDate": "2025-03-27",
+      "claimsCount": 27,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Civil engineering"
+      ],
+      "score": 17.381617
+    },
+    {
+      "id": "CA-3255745-A1",
+      "title": [
+        "SUPERCONDUCTING INDUCTION LOOPS FOR MINERAL EXPLORATION"
+      ],
+      "abstract": "",
+      "publicationNumber": "CA3255745",
+      "publicationDate": "2025-10-31",
+      "assignee": [
+        "KoBold Metals Company"
+      ],
+      "inventors": [
+        "Thomas HUN",
+        "Mark Topinka"
+      ],
+      "applicationDate": "2023-03-13",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Measurement"
+      ],
+      "score": 17.081623
+    },
+    {
+      "id": "BR-112024018967-A2",
+      "title": [
+        "CIRCUITOS DE INDU\u00c7\u00c3O SUPERCONDUTORES PARA EXPLORA\u00c7\u00c3O MINERAL"
+      ],
+      "abstract": "",
+      "publicationNumber": "BR112024018967",
+      "publicationDate": "2025-02-11",
+      "assignee": [
+        "KoBold Metals Company"
+      ],
+      "inventors": [
+        "THOMAS HUNT",
+        "MARK TOPINKA"
+      ],
+      "applicationDate": "2023-03-13",
+      "claimsCount": 16,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 17.081623
+    },
+    {
+      "id": "US-20230258827-A1",
+      "title": [
+        "MUON DETECTOR FOR MUON TOMOGRAPHY"
+      ],
+      "abstract": "A muon detector includes: a chamber having a maximum cross-sectional dimension of 30 cm or less; a gas sealed inside the chamber ionized by the passage of atmospheric muons to form ions in the chamber; a cathode in the chamber at a first position; an anode in the chamber displaced from the first position, the anode including a mesh of wires; a micropattern gaseous detector arranged between the cathode and the anode and proximate to the anode and configured to receive the ions formed in the chamber between the anode and the cathode and generate electrons in response to each ion sufficient to generate a current in one or more of the mesh wires of the anode; and readout electronics in electrical communication with the anode to detect signals in response to the current generated in the mesh wires.",
+      "publicationNumber": "US20230258827",
+      "publicationDate": "2023-08-17",
+      "assignee": [
+        "KoBold Metals Company"
+      ],
+      "inventors": [
+        "Jean-Luc Gauvreau",
+        "Daniel Snowden-Ifft",
+        "Jessica Kirkpatrick"
+      ],
+      "applicationDate": "2022-02-16",
+      "claimsCount": 22,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Environmental technology",
+        "Measurement"
+      ],
+      "score": 17.058903
+    },
+    {
+      "id": "CA-3289466-A1",
+      "title": [
+        "ORIENTING AN UNDERGROUND DETECTOR FOR MUON TOMOGRAPHY"
+      ],
+      "abstract": "",
+      "publicationNumber": "CA3289466",
+      "publicationDate": "2024-10-24",
+      "assignee": [
+        "KoBold Metals Company"
+      ],
+      "inventors": [
+        "Daniel Snowden-Ifft",
+        "Thomas Hunt",
+        "William Page",
+        "Jean-Luc Gauvreau"
+      ],
+      "applicationDate": "2024-04-18",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Environmental technology",
+        "Measurement"
+      ],
+      "score": 16.972805
+    },
+    {
+      "id": "CA-3252092-A1",
+      "title": [
+        "MUON DETECTOR FOR MUON TOMOGRAPHY"
+      ],
+      "abstract": "A muon detector includes: a chamber having a maximum cross-sectional dimension of 30 cm or less; a gas sealed inside the chamber ionized by the passage of atmospheric muons to form ions in the chamber; a cathode in the chamber at a first position; an anode in the chamber displaced from the first position, the anode including a mesh of wires; a micropattern gaseous detector arranged between the cathode and the anode and proximate to the anode and configured to receive the ions formed in the chamber between the anode and the cathode and generate electrons in response to each ion sufficient to generate a current in one or more of the mesh wires of the anode; and readout electronics in electrical communication with the anode to detect signals in response to the current generated in the mesh wires.",
+      "publicationNumber": "CA3252092",
+      "publicationDate": "2023-08-24",
+      "assignee": [
+        "KoBold Metals Company"
+      ],
+      "inventors": [
+        "Jean-Luc Gauvreau",
+        "Daniel Snowden-Ifft",
+        "Jessica Kirkpatrick"
+      ],
+      "applicationDate": "2023-02-16",
+      "claimsCount": 23,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Measurement"
+      ],
+      "score": 16.972805
+    },
+    {
+      "id": "BR-112024016748-A2",
+      "title": [
+        "DETECTOR DE M\u00daON PARA TOMOGRAFIA DE M\u00daON"
+      ],
+      "abstract": "",
+      "publicationNumber": "BR112024016748",
+      "publicationDate": "2024-11-26",
+      "assignee": [
+        "KoBold Metals Company"
+      ],
+      "inventors": [
+        "JEAN-LUC GAUVREAU",
+        "DANIEL SNOWDEN-IFFT",
+        "JESSICA KIRKPATRICK"
+      ],
+      "applicationDate": "2023-02-16",
+      "claimsCount": 23,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Measurement"
+      ],
+      "score": 16.972805
+    },
+    {
+      "id": "AU-2024302288-A1",
+      "title": [
+        "INDUCTION LOOP FOR MINERAL EXPLORATION"
+      ],
+      "abstract": "",
+      "publicationNumber": "AU2024302288",
+      "publicationDate": "2024-12-19",
+      "assignee": [
+        "KoBold Metals Company"
+      ],
+      "inventors": [
+        "KURT HOUSE",
+        "THOMAS HUNT"
+      ],
+      "applicationDate": "2024-06-14",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Measurement"
+      ],
+      "score": 16.894619
+    },
+    {
+      "id": "US-12105230-B2",
+      "title": [
+        "Muon detector for muon tomography"
+      ],
+      "abstract": "A muon detector includes: a chamber having a maximum cross-sectional dimension of 30 cm or less; a gas sealed inside the chamber ionized by the passage of atmospheric muons to form ions in the chamber; a cathode in the chamber at a first position; an anode in the chamber displaced from the first position, the anode including a mesh of wires; a micropattern gaseous detector arranged between the cathode and the anode and proximate to the anode and configured to receive the ions formed in the chamber between the anode and the cathode and generate electrons in response to each ion sufficient to generate a current in one or more of the mesh wires of the anode; and readout electronics in electrical communication with the anode to detect signals in response to the current generated in the mesh wires.",
+      "publicationNumber": "US12105230",
+      "publicationDate": "2024-10-01",
+      "assignee": [
+        "KoBold Metals Company"
+      ],
+      "inventors": [
+        "Jean-Luc Gauvreau",
+        "Daniel Snowden-Ifft",
+        "Jessica Kirkpatrick"
+      ],
+      "applicationDate": "2022-02-16",
+      "claimsCount": 23,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Environmental technology",
+        "Measurement"
+      ],
+      "score": 16.170792
+    }
+  ]
+}

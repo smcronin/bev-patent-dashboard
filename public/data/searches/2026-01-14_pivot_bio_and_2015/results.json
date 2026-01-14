@@ -1,0 +1,2642 @@
+{
+  "count": 492,
+  "numFound": 492,
+  "docs": [
+    {
+      "id": "WO-2025254827-A1",
+      "title": [
+        "HIGH THROUGHPUT REAL-TIME IN-PLANTA ASSAY OF MICROBIAL NITROGEN FIXATION ACTIVITY"
+      ],
+      "abstract": "Systems and methods for the analysis of microbial nitrogen-fixation in a plurality of plants include a gas source, a detector, a manifold, and a controller. The manifold can have a plurality of valves, wherein an individual valve is in fluid communication with an individual plant. The controller can be configured to activate the valves to sample gas from each individual plant to the detector for analysis. Also provided are methods of using the system for the automated assay of microbial nitrogen-fixation in plants and for identifying a nitrogen-fixing microbial strain.",
+      "publicationNumber": "WO2025254827",
+      "publicationDate": "2025-12-11",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "Allison SCHWARTZ",
+        "Douglas HIGGENS",
+        "Alex PLUCHINO",
+        "Gabe GOLEZ"
+      ],
+      "applicationDate": "2025-05-21",
+      "claimsCount": 20,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Analysis of biological materials"
+      ],
+      "score": 15.791588
+    },
+    {
+      "id": "WO-2023278804-A1",
+      "title": [
+        "GENETICALLY-ENGINEERED BACTERIAL STRAINS FOR IMPROVED FIXATION OF NITROGEN"
+      ],
+      "abstract": "Methods and systems are provided for generating and utilizing a genetically engineered bacterium comprising a modification in a nifA gene or homolog thereof that can result in a bacterium with modified regulation of nitrogen fixation or assimilation activity. Genetically engineered bacteria with modified nitrogen fixation or assimilation activity are also provided. The genetically engineered bacterium can fix nitrogen in the presence of nitrogen (e.g., ammonium), and/or oxygen.",
+      "publicationNumber": "WO2023278804",
+      "publicationDate": "2023-01-05",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "Bilge Ozaydin ESKIYENENTURK",
+        "Min-Hyung RYU",
+        "JENNY JOHNSON",
+        "Leland WONG"
+      ],
+      "applicationDate": "2022-06-30",
+      "claimsCount": 165,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology",
+        "Food chemistry"
+      ],
+      "score": 15.791588
+    },
+    {
+      "id": "WO-2021231449-A3",
+      "title": [
+        "DE-REPRESSION OF NITROGEN FIXATION IN GRAM-POSITIVE MICROORGANISMS"
+      ],
+      "abstract": "The present disclosure provides engineered gram-positive microbes that are able to fix atmospheric nitrogen and deliver such to plants in a targeted, efficient, and environmentally sustainable manner. The utilization of the taught microbial products will enable farmers to realize more productive and predictable crop yields without the nutrient degradation, leaching, or toxic runoff associated with traditional synthetically derived nitrogen fertilizer.",
+      "publicationNumber": "WO2021231449",
+      "publicationDate": "2022-03-31",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "Bilge Ozaydin ESKIYENENTURK",
+        "Min-Hyung RYU",
+        "JENNY JOHNSON"
+      ],
+      "applicationDate": "2021-05-11",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology",
+        "Food chemistry"
+      ],
+      "score": 15.791588
+    },
+    {
+      "id": "WO-2021231449-A2",
+      "title": [
+        "DE-REPRESSION OF NITROGEN FIXATION IN GRAM-POSITIVE MICROORGANISMS"
+      ],
+      "abstract": "The present disclosure provides engineered gram-positive microbes that are able to fix atmospheric nitrogen and deliver such to plants in a targeted, efficient, and environmentally sustainable manner. The utilization of the taught microbial products will enable farmers to realize more productive and predictable crop yields without the nutrient degradation, leaching, or toxic runoff associated with traditional synthetically derived nitrogen fertilizer.",
+      "publicationNumber": "WO2021231449",
+      "publicationDate": "2021-11-18",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "Bilge Ozaydin ESKIYENENTURK",
+        "Min-Hyung RYU",
+        "JENNY JOHNSON"
+      ],
+      "applicationDate": "2021-05-11",
+      "claimsCount": 190,
+      "independentClaimsCount": 7,
+      "technologyFields": [],
+      "score": 15.791588
+    },
+    {
+      "id": "UY-39215-A",
+      "title": [
+        "DESREPRESI\u00d3N DE LA FIJACI\u00d3N DE NITR\u00d3GENO EN MICROORGANISMOS GRAMPOSITIVOS"
+      ],
+      "abstract": "La presente descripci\u00f3n proporciona microbios gram-positivos dise\u00f1ados que son capaces de fijar nitr\u00f3geno atmosf\u00e9rico y suministrarlo a las plantas de una manera selectiva, eficiente y ambientalmente sostenible. La utilizaci\u00f3n de los productos microbianos ense\u00f1ados permitir\u00e1 a los agricultores obtener rendimientos de cultivos m\u00e1s productivos y predecibles sin la degradaci\u00f3n de nutrientes, la lixiviaci\u00f3n o la escorrent\u00eda t\u00f3xica asociada con los fertilizantes nitrogenados derivados sint\u00e9ticamente tradicionales",
+      "publicationNumber": "UY39215",
+      "publicationDate": "2021-11-30",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "Bilge Ozaydin ESKIYENENTURK",
+        "Min-Hyung RYU",
+        "JENNY JOHNSON"
+      ],
+      "applicationDate": "2021-05-13",
+      "claimsCount": 190,
+      "independentClaimsCount": 8,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 15.791588
+    },
+    {
+      "id": "MX-2024000026-A",
+      "title": [
+        "GENETICALLY-ENGINEERED BACTERIAL STRAINS FOR IMPROVED FIXATION OF NITROGEN."
+      ],
+      "abstract": "Methods and systems are provided for generating and utilizing a genetically engineered bacterium comprising a modification in a <i>nifA</i> gene or homolog thereof that can result in a bacterium with modified regulation of nitrogen fixation or assimilation activity. Genetically engineered bacteria with modified nitrogen fixation or assimilation activity are also provided. The genetically engineered bacterium can fix nitrogen in the presence of nitrogen (<i>e.g.</i>, ammonium), and/or oxygen.",
+      "publicationNumber": "MX2024000026",
+      "publicationDate": "2024-02-20",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "JOHNSON JENNY",
+        "ESKIYENENTURK BILGE OZAYDIN",
+        "RYU MIN-HYUNG",
+        "WONG LELAND"
+      ],
+      "applicationDate": "2022-06-30",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology",
+        "Food chemistry"
+      ],
+      "score": 15.791588
+    },
+    {
+      "id": "EP-4362661-A1",
+      "title": [
+        "GENETICALLY-ENGINEERED BACTERIAL STRAINS FOR IMPROVED FIXATION OF NITROGEN"
+      ],
+      "abstract": "Methods and systems are provided for generating and utilizing a genetically engineered bacterium comprising a modification in a nifA gene or homolog thereof that can result in a bacterium with modified regulation of nitrogen fixation or assimilation activity. Genetically engineered bacteria with modified nitrogen fixation or assimilation activity are also provided. The genetically engineered bacterium can fix nitrogen in the presence of nitrogen (e.g., ammonium), and/or oxygen.",
+      "publicationNumber": "EP4362661",
+      "publicationDate": "2024-05-08",
+      "assignee": [
+        "Pivot Bio, Inc."
+      ],
+      "inventors": [
+        "Bilge Ozaydin ESKIYENENTURK",
+        "Min-Hyung RYU",
+        "JENNY JOHNSON",
+        "Leland WONG"
+      ],
+      "applicationDate": "2022-06-30",
+      "claimsCount": 165,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology",
+        "Food chemistry"
+      ],
+      "score": 15.791588
+    },
+    {
+      "id": "EP-4149245-A2",
+      "title": [
+        "DE-REPRESSION OF NITROGEN FIXATION IN GRAM-POSITIVE MICROORGANISMS"
+      ],
+      "abstract": "The present disclosure provides engineered gram-positive microbes that are able to fix atmospheric nitrogen and deliver such to plants in a targeted, efficient, and environmentally sustainable manner. The utilization of the taught microbial products will enable farmers to realize more productive and predictable crop yields without the nutrient degradation, leaching, or toxic runoff associated with traditional synthetically derived nitrogen fertilizer.",
+      "publicationNumber": "EP4149245",
+      "publicationDate": "2023-03-22",
+      "assignee": [
+        "Pivot Bio, Inc."
+      ],
+      "inventors": [
+        "Bilge Ozaydin ESKIYENENTURK",
+        "Min-Hyung RYU",
+        "JENNY JOHNSON"
+      ],
+      "applicationDate": "2021-05-11",
+      "claimsCount": 190,
+      "independentClaimsCount": 7,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology",
+        "Food chemistry"
+      ],
+      "score": 15.791588
+    },
+    {
+      "id": "BR-112022022714-A2",
+      "title": [
+        "BACT\u00c9RIA DIAZOTR\u00d3FICA GRAM-POSITIVA GENETICAMENTE MODIFICADA, COMPOSI\u00c7\u00c3O MICROBIANA, M\u00c9TODO PARA FORNECER NITROG\u00caNIO FIXO A UMA PLANTA, GENE GLNR, PROTE\u00cdNA GLNR, E, M\u00c9TODO PARA IDENTIFICAR REGULADORES DE UM OPERON NIF"
+      ],
+      "abstract": "BACT\u00c9RIA DIAZOTR\u00d3FICA GRAM-POSITIVA GENETICAMENTE MODIFICADA, COMPOSI\u00c7\u00c3O MICROBIANA, M\u00c9TODO PARA FORNECER NITROG\u00caNIO FIXO A UMA PLANTA, GENE GLNR, PROTE\u00cdNA GLNR, E, M\u00c9TODO PARA IDENTIFICAR REGULADORES DE UM OPERON NIF. A presente revela\u00e7\u00e3o fornece micr\u00f3bios gram-positivos geneticamente modificados que s\u00e3o capazes de fixar nitrog\u00eanio atmosf\u00e9rico e liber\u00e1-lo \u00e0s plantas de uma maneira direcionada, eficiente e ambientalmente sustent\u00e1vel. A utiliza\u00e7\u00e3o dos produtos microbianos aqui apresentados permitir\u00e1 que os agricultores alcancem rendimentos de culturas mais produtivos e previs\u00edveis sem a degrada\u00e7\u00e3o de nutrientes, lixivia\u00e7\u00e3o ou escoamento t\u00f3xico associados ao fertilizante nitrogenado tradicional, derivado sinteticamente.",
+      "publicationNumber": "BR112022022714",
+      "publicationDate": "2023-03-28",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "BILGE OZAYDIN ESKIYENENTURK",
+        "MIN-HYUNG RYU",
+        "Jenny JOHNSON"
+      ],
+      "applicationDate": "2021-05-11",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Biotechnology",
+        "Food chemistry"
+      ],
+      "score": 15.791588
+    },
+    {
+      "id": "AU-2022301301-A9",
+      "title": [
+        "GENETICALLY-ENGINEERED BACTERIAL STRAINS FOR IMPROVED FIXATION OF NITROGEN"
+      ],
+      "abstract": "Methods and systems are provided for generating and utilizing a genetically engineered bacterium comprising a modification in a",
+      "publicationNumber": "AU2022301301",
+      "publicationDate": "2024-01-25",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "Bilge Ozaydin ESKIYENENTURK",
+        "JENNY JOHNSON",
+        "Min-Hyung RYU",
+        "Leland WONG"
+      ],
+      "applicationDate": "2022-06-30",
+      "claimsCount": 165,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology",
+        "Food chemistry"
+      ],
+      "score": 15.791588
+    },
+    {
+      "id": "AU-2022301301-A1",
+      "title": [
+        "GENETICALLY-ENGINEERED BACTERIAL STRAINS FOR IMPROVED FIXATION OF NITROGEN"
+      ],
+      "abstract": "Methods and systems are provided for generating and utilizing a genetically engineered bacterium comprising a modification in a",
+      "publicationNumber": "AU2022301301",
+      "publicationDate": "2023-12-14",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "Bilge Ozaydin ESKIYENENTURK",
+        "JENNY JOHNSON",
+        "Min-Hyung RYU",
+        "Leland WONG"
+      ],
+      "applicationDate": "2022-06-30",
+      "claimsCount": 165,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology",
+        "Food chemistry"
+      ],
+      "score": 15.791588
+    },
+    {
+      "id": "AR-126367-A1",
+      "title": [
+        "CEPAS BACTERIANAS DISE\u00d1ADAS MEDIANTE INGENIER\u00cdA GEN\u00c9TICA PARA FIJACI\u00d3N MEJORADA DE NITR\u00d3GENO"
+      ],
+      "abstract": "Reivindicaci\u00f3n 1: Un microbio modificado que comprende una o m\u00e1s modificaciones gen\u00e9ticas en un gen que codifica el polip\u00e9ptido NifA, donde el microbio modificado fija nitr\u00f3geno en presencia de nitr\u00f3geno y ox\u00edgeno ex\u00f3genos. Reivindicaci\u00f3n 2: El microbio modificado de la reivindicaci\u00f3n 1, donde el polip\u00e9ptido NifA codificado por el gen con una o m\u00e1s modificaciones gen\u00e9ticas muestra una mayor activaci\u00f3n transcripcional de los genes de fijaci\u00f3n de nitr\u00f3geno en presencia de nitr\u00f3geno y ox\u00edgeno, en relaci\u00f3n con la activaci\u00f3n transcripcional de los genes de fijaci\u00f3n de nitr\u00f3geno de un polip\u00e9ptido NifA de tipo salvaje en presencia de nitr\u00f3geno y ox\u00edgeno. Reivindicaci\u00f3n 3: El microbio modificado de la reivindicaci\u00f3n 1, donde el nitr\u00f3geno ex\u00f3geno comprende amonio, nitrato, urea o glutamina. Reivindicaci\u00f3n 4: El microbio modificado de la reivindicaci\u00f3n 3, donde el polip\u00e9ptido NifA codificado por el gen con una o m\u00e1s modificaciones gen\u00e9ticas supera la inhibici\u00f3n del amonio en presencia de nitr\u00f3geno. Reivindicaci\u00f3n 84: Un m\u00e9todo para aumentar la cantidad de producci\u00f3n de amonio de un microbio, el m\u00e9todo comprende modificar el microbio para incluir una o m\u00e1s modificaciones gen\u00e9ticas en un gen que codifica un polip\u00e9ptido NifA, donde el microbio modificado fija el nitr\u00f3geno en presencia de nitr\u00f3geno y ox\u00edgeno.",
+      "publicationNumber": "AR126367",
+      "publicationDate": "2023-10-11",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "Bilge Ozaydin ESKIYENENTURK",
+        "Min-Hyung RYU",
+        "JENNY JOHNSON",
+        "Leland WONG"
+      ],
+      "applicationDate": "2022-07-04",
+      "claimsCount": 5,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology",
+        "Food chemistry"
+      ],
+      "score": 15.791588
+    },
+    {
+      "id": "AR-122091-A1",
+      "title": [
+        "DESREPRESI\u00d3N DE LA FIJACI\u00d3N DE NITR\u00d3GENO EN MICROORGANISMOS GRAMPOSITIVOS"
+      ],
+      "abstract": "La presente divulgaci\u00f3n proporciona microbios grampositivos manipulados que son capaces de fijar el nitr\u00f3geno atmosf\u00e9rico y entregarlo a las plantas de una manera espec\u00edfica, eficiente y ambientalmente sostenibles. El uso de los productos microbianos ense\u00f1ados permitir\u00e1 a los agricultores obtener rendimientos de los cultivos m\u00e1s productivos y predecibles sin la degradaci\u00f3n de nutrientes, la lixiviaci\u00f3n o la escorrent\u00eda t\u00f3xica asociada a los fertilizantes nitrogenados tradicionales de origen sint\u00e9tico.",
+      "publicationNumber": "AR122091",
+      "publicationDate": "2022-08-10",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "Bilge Ozaydin ESKIYENENTURK",
+        "Min-Hyung RYU",
+        "JENNY JOHNSON"
+      ],
+      "applicationDate": "2021-05-13",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology",
+        "Food chemistry"
+      ],
+      "score": 15.791588
+    },
+    {
+      "id": "WO-2023147050-A1",
+      "title": [
+        "ASSESSING RELATIVE PLANT NITROGEN IN A FIELD ENVIRONMENT"
+      ],
+      "abstract": "Methods are provided for assessing the nitrogen status of a plant or multiple plants in a plurality of plants, and optionally comparing the nutrient status to a plant or multiple plants in another plurality of plants (e.g., another plurality of plants in a different field or different region of the same field). The methods find utility, for example, in validating the performance of alternative plant nitrogen treatments such as validating the performance of nitrogen fixing microbes in replacing a defined amount of nitrogen from synthetic nitrogen treatment.",
+      "publicationNumber": "WO2023147050",
+      "publicationDate": "2023-08-03",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "Clayton NEVINS",
+        "Lori REESE",
+        "Karsten TEMME"
+      ],
+      "applicationDate": "2023-01-27",
+      "claimsCount": 1,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Other special machines"
+      ],
+      "score": 15.743205
+    },
+    {
+      "id": "WO-2022029661-A9",
+      "title": [
+        "IMPROVED PLANT NITROGEN CONSISTENCY THROUGH THE SUPPLY OF WHOLE PLANT NITROGEN FROM A NITROGEN FIXING MICROBE"
+      ],
+      "abstract": "A method for reducing variation in whole plant nitrogen includes providing, to a locus,a plurality of crop plants and a plurality of nitrogen fixing microbes that colonize the rhizosphere of said plurality of crop plants and supply the plants with fixed N. The variation in whole plant nitrogen of the plurality of crop plants colonized by said nitrogen fixing microbes, at a given growth stage and as measured across the locus, is lower than a variation in whole plant nitrogen of a control plurality of crop plants, when the control plurality of crop plants is provided to the locus.",
+      "publicationNumber": "WO2022029661",
+      "publicationDate": "2022-03-31",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "Mark REISINGER",
+        "ERNEST SANDERS",
+        "Karsten TEMME",
+        "DAVID BROWN",
+        "Stephen FICK"
+      ],
+      "applicationDate": "2021-08-04",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology",
+        "Food chemistry"
+      ],
+      "score": 15.743205
+    },
+    {
+      "id": "WO-2022029661-A1",
+      "title": [
+        "IMPROVED PLANT NITROGEN CONSISTENCY THROUGH THE SUPPLY OF WHOLE PLANT NITROGEN FROM A NITROGEN FIXING MICROBE"
+      ],
+      "abstract": "A method for reducing variation in whole plant nitrogen includes providing, to a locus,a plurality of crop plants and a plurality of nitrogen fixing microbes that colonize the rhizosphere of said plurality of crop plants and supply the plants with fixed N. The variation in whole plant nitrogen of the plurality of crop plants colonized by said nitrogen fixing microbes, at a given growth stage and as measured across the locus, is lower than a variation in whole plant nitrogen of a control plurality of crop plants, when the control plurality of crop plants is provided to the locus.",
+      "publicationNumber": "WO2022029661",
+      "publicationDate": "2022-02-10",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "Mark REISINGER",
+        "ERNEST SANDERS",
+        "Karsten TEMME",
+        "DAVID BROWN",
+        "Stephen FICK"
+      ],
+      "applicationDate": "2021-08-04",
+      "claimsCount": 36,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology",
+        "Food chemistry"
+      ],
+      "score": 15.743205
+    },
+    {
+      "id": "WO-2021221689-A1",
+      "title": [
+        "MEASUREMENT OF NITROGEN FIXATION AND INCORPORATION"
+      ],
+      "abstract": "Systems for plant culture include a chamber featuring one or more walls enclosing a spatial volume internal to the chamber, where the one or more walls include a surface for supporting a plant within the enclosed spatial volume, a gas delivery apparatus with at least one gas source, a nutrient delivery apparatus with a reservoir, a sampling apparatus connected to a port formed in the one or more walls, and a controller configured so that during operation of the system, the controller activates the nutrient delivery apparatus to deliver an aqueous growth medium to the plant, and activates the gas delivery apparatus to deliver into the enclosed spatial volume a mixture of isotopically-substituted gases. Also provided are methods of use of the system for measuring nitrogen in a plant and for identifying microbes capable of providing fixed nitrogen to a plant.",
+      "publicationNumber": "WO2021221689",
+      "publicationDate": "2021-11-04",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "Kent WOOD",
+        "RUSSELL BROWN",
+        "Jeremy GAGE",
+        "Rikke RASMUSSEN",
+        "PAUL RAINE",
+        "Sarah BLOCH",
+        "Alvin TAMSIR",
+        "Karsten TEMME",
+        "Bilge Ozaydin ESKIYENENTURK"
+      ],
+      "applicationDate": "2020-05-01",
+      "claimsCount": 269,
+      "independentClaimsCount": 10,
+      "technologyFields": [
+        "Biotechnology",
+        "Food chemistry",
+        "Other special machines"
+      ],
+      "score": 15.743205
+    },
+    {
+      "id": "UY-40133-A",
+      "title": [
+        "Evaluaci\u00f3n del nitr\u00f3geno relativo vegetal en un entorno de campo"
+      ],
+      "abstract": "Se proporcionan m\u00e9todos para evaluar el estado de nutrientes (por ejemplo, el estado de nitr\u00f3geno) de una planta o m\u00faltiples plantas en una pluralidad de plantas y, opcionalmente, comparar el estado de nutrientes con una planta o m\u00faltiples plantas en otra pluralidad de plantas (por ejemplo, otra pluralidad de plantas en un campo diferente o en una regi\u00f3n diferente del mismo campo). Los m\u00e9todos encuentran utilidad, por ejemplo, en la validaci\u00f3n del rendimiento de tratamientos alternativos de nitr\u00f3geno vegetal, como la validaci\u00f3n del rendimiento de microbios fijadores de nitr\u00f3geno en la sustituci\u00f3n de una cantidad definida de nitr\u00f3geno.",
+      "publicationNumber": "UY40133",
+      "publicationDate": "2023-08-31",
+      "assignee": [
+        "PIVOT BIO, INC"
+      ],
+      "inventors": [
+        "Karsten TEMME",
+        "Lori REESE",
+        "Clayton NEVINS"
+      ],
+      "applicationDate": "2023-01-27",
+      "claimsCount": 105,
+      "independentClaimsCount": 6,
+      "technologyFields": [
+        "Other special machines"
+      ],
+      "score": 15.743205
+    },
+    {
+      "id": "US-20250369878-A1",
+      "title": [
+        "MEASUREMENT OF NITROGEN FIXATION AND INCORPORATION"
+      ],
+      "abstract": "Systems for plant culture include a chamber featuring one or more walls enclosing a spatial volume internal to the chamber, where the one or more walls include a surface for supporting a plant within the enclosed spatial volume, a gas delivery apparatus with at least one gas source, a nutrient delivery apparatus with a reservoir, a sampling apparatus connected to a port formed in the one or more walls, and a controller configured so that during operation of the system, the controller activates the nutrient delivery apparatus to deliver an aqueous growth medium to the plant, and activates the gas delivery apparatus to deliver into the enclosed spatial volume a mixture of isotopically-substituted gases. Also provided are methods of use of the system for measuring nitrogen in a plant and for identifying microbes capable of providing fixed nitrogen to a plant.",
+      "publicationNumber": "US20250369878",
+      "publicationDate": "2025-12-04",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "Kent Wood",
+        "Russell Brown",
+        "Jeremy Gage",
+        "Rikke Rasmussen",
+        "Paul Raine",
+        "Sarah BLOCH",
+        "Alvin Tamsir",
+        "Karsten Temme",
+        "Bilge Ozaydin ESKIYENENTURK"
+      ],
+      "applicationDate": "2025-04-14",
+      "claimsCount": 30,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Analysis of biological materials",
+        "Basic materials chemistry",
+        "Food chemistry",
+        "Measurement",
+        "Other special machines"
+      ],
+      "score": 15.743205
+    },
+    {
+      "id": "EP-4192233-A4",
+      "title": [
+        "IMPROVED PLANT NITROGEN CONSISTENCY THROUGH THE SUPPLY OF WHOLE PLANT NITROGEN FROM A NITROGEN FIXING MICROBE"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP4192233",
+      "publicationDate": "2024-08-28",
+      "assignee": [
+        "Pivot Bio, Inc."
+      ],
+      "inventors": [
+        "Mark REISINGER",
+        "ERNEST SANDERS",
+        "Karsten TEMME",
+        "DAVID BROWN",
+        "Stephen FICK"
+      ],
+      "applicationDate": "2021-08-04",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology",
+        "Food chemistry"
+      ],
+      "score": 15.743205
+    },
+    {
+      "id": "EP-4192233-A1",
+      "title": [
+        "IMPROVED PLANT NITROGEN CONSISTENCY THROUGH THE SUPPLY OF WHOLE PLANT NITROGEN FROM A NITROGEN FIXING MICROBE"
+      ],
+      "abstract": "A method for reducing variation in whole plant nitrogen includes providing, to a locus,a plurality of crop plants and a plurality of nitrogen fixing microbes that colonize the rhizosphere of said plurality of crop plants and supply the plants with fixed N. The variation in whole plant nitrogen of the plurality of crop plants colonized by said nitrogen fixing microbes, at a given growth stage and as measured across the locus, is lower than a variation in whole plant nitrogen of a control plurality of crop plants, when the control plurality of crop plants is provided to the locus.",
+      "publicationNumber": "EP4192233",
+      "publicationDate": "2023-06-14",
+      "assignee": [
+        "Pivot Bio, Inc."
+      ],
+      "inventors": [
+        "Mark REISINGER",
+        "ERNEST SANDERS",
+        "Karsten TEMME",
+        "DAVID BROWN",
+        "Stephen FICK"
+      ],
+      "applicationDate": "2021-08-04",
+      "claimsCount": 36,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology",
+        "Food chemistry"
+      ],
+      "score": 15.743205
+    },
+    {
+      "id": "EP-4143293-A1",
+      "title": [
+        "MEASUREMENT OF NITROGEN FIXATION AND INCORPORATION"
+      ],
+      "abstract": "Systems for plant culture include a chamber featuring one or more walls enclosing a spatial volume internal to the chamber, where the one or more walls include a surface for supporting a plant within the enclosed spatial volume, a gas delivery apparatus with at least one gas source, a nutrient delivery apparatus with a reservoir, a sampling apparatus connected to a port formed in the one or more walls, and a controller configured so that during operation of the system, the controller activates the nutrient delivery apparatus to deliver an aqueous growth medium to the plant, and activates the gas delivery apparatus to deliver into the enclosed spatial volume a mixture of isotopically-substituted gases. Also provided are methods of use of the system for measuring nitrogen in a plant and for identifying microbes capable of providing fixed nitrogen to a plant.",
+      "publicationNumber": "EP4143293",
+      "publicationDate": "2023-03-08",
+      "assignee": [
+        "Pivot Bio, Inc."
+      ],
+      "inventors": [
+        "Kent WOOD",
+        "RUSSELL BROWN",
+        "Jeremy GAGE",
+        "Rikke RASMUSSEN",
+        "PAUL RAINE",
+        "Sarah BLOCH",
+        "Alvin TAMSIR",
+        "Karsten TEMME",
+        "Bilge Ozaydin ESKIYENENTURK"
+      ],
+      "applicationDate": "2020-05-01",
+      "claimsCount": 269,
+      "independentClaimsCount": 10,
+      "technologyFields": [
+        "Biotechnology",
+        "Food chemistry",
+        "Other special machines"
+      ],
+      "score": 15.743205
+    },
+    {
+      "id": "BR-112023002155-A2",
+      "title": [
+        "M\u00c9TODO PARA REDUZIR A VARIA\u00c7\u00c3O DE NITROG\u00caNIO NA PLANTA INTEIRA, E, PLURALIDADE DE PLANTAS DE CULTIVO"
+      ],
+      "abstract": "M\u00c9TODO PARA REDUZIR A VARIA\u00c7\u00c3O DE NITROG\u00caNIO NA PLANTA INTEIRA, E, PLURALIDADE DE PLANTAS DE CULTIVO. A presente inven\u00e7\u00e3o se refere a um m\u00e9todo para reduzir a varia\u00e7\u00e3o de nitrog\u00eanio de planta inteira que inclui fornecer, a um local, uma pluralidade de plantas de cultivo e uma pluralidade de micr\u00f3bios fixadores de nitrog\u00eanio que colonizam a rizosfera da dita pluralidade de plantas de cultivo e fornecem \u00e0s plantas N fixado. A varia\u00e7\u00e3o de nitrog\u00eanio na planta inteira dentre a pluralidade de plantas de cultivo colonizadas pelos ditos micr\u00f3bios fixadores de nitrog\u00eanio, em um determinado est\u00e1gio de crescimento e conforme medido por todo o local, \u00e9 menor do que uma varia\u00e7\u00e3o de nitrog\u00eanio na planta inteira de uma pluralidade de plantas de cultivo de controle, quando a pluralidade de plantas de cultivo de controle \u00e9 fornecida ao local.",
+      "publicationNumber": "BR112023002155",
+      "publicationDate": "2023-03-14",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "MARK REISINGER",
+        "ERNEST SANDERS",
+        "KARSTEN TEMME",
+        "DAVID BROWN",
+        "STEPHEN FICK"
+      ],
+      "applicationDate": "2021-08-04",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology",
+        "Food chemistry"
+      ],
+      "score": 15.743205
+    },
+    {
+      "id": "BR-112022021723-A2",
+      "title": [
+        "SISTEMA PARA CULTIVO DE PLANTAS, M\u00c9TODOS PARA DETECTAR A INCORPORA\u00c7\u00c3O DE NITROG\u00caNIO EM UMA PLANTA E PARA IDENTIFICA\u00c7\u00c3O DE UMA CEPA BACTERIANA FIXADORA DE NITROG\u00caNIO, BACT\u00c9RIA GENETICAMENTE MODIFICADA, E, COMPOSI\u00c7\u00c3O"
+      ],
+      "abstract": "SISTEMA PARA CULTIVO DE PLANTAS, M\u00c9TODOS PARA DETECTAR A INCORPORA\u00c7\u00c3O DE NITROG\u00caNIO EM UMA PLANTA E PARA IDENTIFICA\u00c7\u00c3O DE UMA CEPA BACTERIANA FIXADORA DE NITROG\u00caNIO, BACT\u00c9RIA GENETICAMENTE MODIFICADA, E, COMPOSI\u00c7\u00c3O. A presente inven\u00e7\u00e3o se refere a sistemas para cultivo de plantas, incluindo uma c\u00e2mara que apresenta uma ou mais paredes que encerram um volume espacial interno \u00e0 c\u00e2mara, em que as uma ou mais paredes incluem uma superf\u00edcie para sustentar uma planta dentro do volume espacial fechado, um aparelho de libera\u00e7\u00e3o de g\u00e1s com ao menos uma fonte de g\u00e1s, um aparelho de libera\u00e7\u00e3o de nutriente com um reservat\u00f3rio, um aparelho de amostragem conectado a uma porta formada nas uma ou mais paredes, e um controlador configurado de modo que, durante a opera\u00e7\u00e3o do sistema, o controlador ativa o aparelho de libera\u00e7\u00e3o de nutrientes para fornecer \u00e0 planta um meio de cultivo aquoso, e ativa o aparelho de libera\u00e7\u00e3o de g\u00e1s para liberar, no volume espacial fechado, uma mistura de gases isotopicamente substitu\u00eddos. S\u00e3o fornecidos, tamb\u00e9m, m\u00e9todos de uso do sistema para medir nitrog\u00eanio em uma planta e para identificar micr\u00f3bios capazes de fornecer nitrog\u00eanio fixado a uma planta.",
+      "publicationNumber": "BR112022021723",
+      "publicationDate": "2022-12-06",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "KENT WOOD",
+        "RUSSELL BROWN",
+        "JEREMY GAGE",
+        "RIKKE RASMUSSEN",
+        "PAUL RAINE",
+        "SARAH BLOCH",
+        "ALVIN TAMSIR",
+        "KARSTEN TEMME",
+        "BILGE OZAYDIN ESKIYENENTURK"
+      ],
+      "applicationDate": "2020-05-01",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Biotechnology",
+        "Food chemistry",
+        "Other special machines"
+      ],
+      "score": 15.743205
+    },
+    {
+      "id": "AU-2020445067-A1",
+      "title": [
+        "Measurement of nitrogen fixation and incorporation"
+      ],
+      "abstract": "Systems for plant culture include a chamber featuring one or more walls enclosing a spatial volume internal to the chamber, where the one or more walls include a surface for supporting a plant within the enclosed spatial volume, a gas delivery apparatus with at least one gas source, a nutrient delivery apparatus with a reservoir, a sampling apparatus connected to a port formed in the one or more walls, and a controller configured so that during operation of the system, the controller activates the nutrient delivery apparatus to deliver an aqueous growth medium to the plant, and activates the gas delivery apparatus to deliver into the enclosed spatial volume a mixture of isotopically-substituted gases. Also provided are methods of use of the system for measuring nitrogen in a plant and for identifying microbes capable of providing fixed nitrogen to a plant.",
+      "publicationNumber": "AU2020445067",
+      "publicationDate": "2022-12-01",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "Sarah BLOCH",
+        "RUSSELL BROWN",
+        "Bilge Ozaydin ESKIYENENTURK",
+        "Jeremy GAGE",
+        "PAUL RAINE",
+        "Rikke RASMUSSEN",
+        "Alvin TAMSIR",
+        "Karsten TEMME",
+        "Kent WOOD"
+      ],
+      "applicationDate": "2020-05-01",
+      "claimsCount": 269,
+      "independentClaimsCount": 10,
+      "technologyFields": [
+        "Biotechnology",
+        "Food chemistry",
+        "Other special machines"
+      ],
+      "score": 15.743205
+    },
+    {
+      "id": "AR-128368-A1",
+      "title": [
+        "EVALUACI\u00d3N DEL NITR\u00d3GENO RELATIVO VEGETAL EN UN ENTORNO DE CAMPO"
+      ],
+      "abstract": "Se proporcionan m\u00e9todos para evaluar el estado de nutrientes (por ejemplo, el estado de nitr\u00f3geno) de una planta o m\u00faltiples plantas en una pluralidad de plantas y, opcionalmente, comparar el estado de nutrientes con una planta o m\u00faltiples plantas en otra pluralidad de plantas (por ejemplo, otra pluralidad de plantas en un campo diferente o en una regi\u00f3n diferente del mismo campo). Los m\u00e9todos encuentran utilidad, por ejemplo, en la validaci\u00f3n del rendimiento de tratamientos alternativos de nitr\u00f3geno vegetal, como la validaci\u00f3n del rendimiento de microbios fijadores de nitr\u00f3geno en la sustituci\u00f3n de una cantidad definida de nitr\u00f3geno del tratamiento con nitr\u00f3geno sint\u00e9tico.",
+      "publicationNumber": "AR128368",
+      "publicationDate": "2024-04-24",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "Clayton NEVINS",
+        "Lori REESE",
+        "Karsten TEMME"
+      ],
+      "applicationDate": "2023-01-27",
+      "claimsCount": 105,
+      "independentClaimsCount": 6,
+      "technologyFields": [
+        "Other special machines"
+      ],
+      "score": 15.743205
+    },
+    {
+      "id": "AR-123149-A1",
+      "title": [
+        "MEJORA DE CONSISTENCIA DE NITR\u00d3GENO EN PLANTA MEDIANTE EL SUMINISTRO DE NITR\u00d3GENO A TODA LA PLANTA POR MEDIO DE UN MICROBIO FIJADOR DE NITR\u00d3GENO"
+      ],
+      "abstract": "Un m\u00e9todo para reducir la variaci\u00f3n de nitr\u00f3geno en toda la planta proporcionando, en un espacio, una pluralidad de plantas de cultivo y una pluralidad de microbios fijadores de nitr\u00f3geno que colonizan la rizosfera de dicha pluralidad de plantas cultivadas y suministran las plantas con fijaci\u00f3n de nitr\u00f3geno. La variaci\u00f3n de nitr\u00f3geno en toda la planta de las plantas cultivadas colonizadas por dichos microbios fijadores de nitr\u00f3geno, en una etapa de crecimiento determinada y como medida en un espacio, es m\u00e1s bajo que una variaci\u00f3n de nitr\u00f3geno en toda la planta de una pluralidad de control de las plantas cultivadas, cuando la pluralidad de control de las plantas cultivadas se proporcionan en el espacio.",
+      "publicationNumber": "AR123149",
+      "publicationDate": "2022-11-02",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "Mark REISINGER",
+        "ERNEST SANDERS",
+        "Karsten TEMME",
+        "DAVID BROWN",
+        "Stephen FICK"
+      ],
+      "applicationDate": "2021-08-04",
+      "claimsCount": 36,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology",
+        "Food chemistry"
+      ],
+      "score": 15.743205
+    },
+    {
+      "id": "AR-121995-A1",
+      "title": [
+        "MEDICI\u00d3N DE LA FIJACI\u00d3N E INCORPORACI\u00d3N DE NITR\u00d3GENO"
+      ],
+      "abstract": "Sistemas para cultivo de plantas que incluyen una c\u00e1mara que presenta una o m\u00e1s paredes que encierran un volumen espacial dentro de la c\u00e1mara, donde la una o m\u00e1s paredes incluyen una superficie para sostener una planta dentro del volumen espacial encerrado, un aparato de suministro de gas con al menos una fuente de gas, un aparato de suministro de nutriente con un dep\u00f3sito, un aparato de muestras conectado a una puerto formado en una o m\u00e1s paredes, y un controlador configurado de forma tal que durante la operaci\u00f3n del sistema, el controlador activa el aparato de suministro de nutriente para suministrar un medio de crecimiento acuoso a la planta, y activa el aparato de suministro de gas para suministrar al volumen espacial encerrado una mezcla de gases sustituidos isot\u00f3picamente. Tambi\u00e9n se proporcionan m\u00e9todos para usar el sistema para medir nitr\u00f3geno en una planta y para identificar microbios capaces de proporcionar nitr\u00f3geno fijado a una planta.",
+      "publicationNumber": "AR121995",
+      "publicationDate": "2022-08-03",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "Karsten TEMME",
+        "Alvin TAMSIR",
+        "Kent WOOD",
+        "RUSSELL BROWN",
+        "Jeremy GAGE",
+        "Rikke RASMUSSEN",
+        "PAUL RAINE",
+        "Bilge Ozaydin ESKIYENENTURK",
+        "Sarah BLOCH"
+      ],
+      "applicationDate": "2021-05-03",
+      "claimsCount": 269,
+      "independentClaimsCount": 27,
+      "technologyFields": [
+        "Biotechnology",
+        "Food chemistry",
+        "Other special machines"
+      ],
+      "score": 15.743205
+    },
+    {
+      "id": "WO-2025024750-A3",
+      "title": [
+        "ASSESSING NITROGENASE PROTEINS IN RHIZOSPHERE TO INFER MICROBIAL FUNCTIONING"
+      ],
+      "abstract": "Disclosed herein are methods, compositions, and kits for determining the presence or absence of a target polypeptide (e.g., a polypeptide involved in nitrogen fixation) in a sample (e.g., a sample of soil from the rhizosphere of a non-leguminous plant).",
+      "publicationNumber": "WO2025024750",
+      "publicationDate": "2025-03-06",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "Clayton NEVINS",
+        "Karsten TEMME"
+      ],
+      "applicationDate": "2024-07-26",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Analysis of biological materials",
+        "Basic materials chemistry",
+        "Biotechnology",
+        "Other special machines"
+      ],
+      "score": 15.56828
+    },
+    {
+      "id": "WO-2025024750-A2",
+      "title": [
+        "ASSESSING NITROGENASE PROTEINS IN RHIZOSPHERE TO INFER MICROBIAL FUNCTIONING"
+      ],
+      "abstract": "Disclosed herein are methods, compositions, and kits for determining the presence or absence of a target polypeptide (e.g., a polypeptide involved in nitrogen fixation) in a sample (e.g., a sample of soil from the rhizosphere of a non-leguminous plant).",
+      "publicationNumber": "WO2025024750",
+      "publicationDate": "2025-01-30",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "Clayton NEVINS",
+        "Karsten TEMME"
+      ],
+      "applicationDate": "2024-07-26",
+      "claimsCount": 30,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Analysis of biological materials",
+        "Basic materials chemistry",
+        "Biotechnology",
+        "Other special machines"
+      ],
+      "score": 15.56828
+    },
+    {
+      "id": "WO-2020146372-A9",
+      "title": [
+        "PLANT COLONIZATION ASSAYS USING NATURAL MICROBIAL BARCODES"
+      ],
+      "abstract": "The present disclosure is drawn to methods of utilizing nucleic acid barcodes and corresponding amplifying sites in cells in which the barcodes naturally occur. These barcodes and amplifying sites are reconfigured into a single nucleic acid cassette that provides for ease of use in tagging particular species, strains, or variants of cells, each with a different barcode. These barcodes can be used to track the colonization capabilities of the barcoded cells. The present disclosure further provides for assays that utilize natural barcodes to measure relative microbial colonization ability of a plant root system.",
+      "publicationNumber": "WO2020146372",
+      "publicationDate": "2020-09-10",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "DOUGLAS HIGGINS",
+        "Andrew Abel PRIOR"
+      ],
+      "applicationDate": "2020-01-07",
+      "claimsCount": 153,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Biotechnology",
+        "Food chemistry"
+      ],
+      "score": 15.56828
+    },
+    {
+      "id": "WO-2020146372-A1",
+      "title": [
+        "PLANT COLONIZATION ASSAYS USING NATURAL MICROBIAL BARCODES"
+      ],
+      "abstract": "The present disclosure is drawn to methods of utilizing nucleic acid barcodes and corresponding amplifying sites in cells in which the barcodes naturally occur. These barcodes and amplifying sites are reconfigured into a single nucleic acid cassette that provides for ease of use in tagging particular species, strains, or variants of cells, each with a different barcode. These barcodes can be used to track the colonization capabilities of the barcoded cells. The present disclosure further provides for assays that utilize natural barcodes to measure relative microbial colonization ability of a plant root system.",
+      "publicationNumber": "WO2020146372",
+      "publicationDate": "2020-07-16",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "DOUGLAS HIGGINS",
+        "Andrew Abel PRIOR"
+      ],
+      "applicationDate": "2020-01-07",
+      "claimsCount": 153,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Biotechnology",
+        "Food chemistry"
+      ],
+      "score": 15.56828
+    },
+    {
+      "id": "WO-2020061363-A1",
+      "title": [
+        "METHODS AND COMPOSITIONS FOR IMPROVING PHOSPHATE SOLUBILIZATION"
+      ],
+      "abstract": "Methods and systems are provided for increasing the phosphate solubilization activity of a microbe. Microbes identified through the use of the disclosed methods and systems are also provided. The methods include the steps of and the systems include instructions for identifying a coding sequence associated with phosphate solubilization, altering the coding sequence associated with phosphate solubilization, functionally linking the altered coding sequence associated with phosphate solubilization to a promoter, and introducing the altered coding sequence associated with phosphate solubilization under the control of the promoter into the microbe. Alterations to the coding sequence can include, e.g., codon randomization of native codons, deletion of coding sequence, and insertion of regulatory sequences.",
+      "publicationNumber": "WO2020061363",
+      "publicationDate": "2020-03-26",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "DOUGLAS HIGGINS",
+        "Austin DAVIS-RICHARDSON",
+        "Rosemary CLARK",
+        "Shayin GOTTLIEB",
+        "James Gerard LORIGAN",
+        "Sarah BLOCH",
+        "Karsten TEMME",
+        "Alvin TAMSIR"
+      ],
+      "applicationDate": "2019-09-19",
+      "claimsCount": 137,
+      "independentClaimsCount": 16,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology"
+      ],
+      "score": 15.56828
+    },
+    {
+      "id": "UY-38538-A",
+      "title": [
+        "ENSAYOS DE COLONIZACI\u00d3N DE PLANTAS CON C\u00d3DIGOS DE BARRAS MICROBIANOS NATURALES"
+      ],
+      "abstract": "M\u00e9todos para utilizar c\u00f3digos de barras de \u00e1cidos nucleicos y los correspondientes sitios de amplificaci\u00f3n en c\u00e9lulas donde dichos c\u00f3digos de barras se encuentran de manera natural. Estos c\u00f3digos de barras y sitios de amplificaci\u00f3n est\u00e1n reconfigurados en un solo casete de \u00e1cidos nucleicos que facilita su uso en la marcaci\u00f3n de especies, cepas o variantes particulares de c\u00e9lulas, cada una con un c\u00f3digo de barras diferente. Estos c\u00f3digos de barras se pueden usar en el seguimiento de la capacidad de colonizaci\u00f3n de las c\u00e9lulas que contienen a dichos c\u00f3digos de barras.",
+      "publicationNumber": "UY38538",
+      "publicationDate": "2020-06-30",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "DOUGLAS HIGGINS",
+        "ANDREW ABEL PRIOR"
+      ],
+      "applicationDate": "2020-01-07",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 15.56828
+    },
+    {
+      "id": "US-20250346911-A1",
+      "title": [
+        "PLANT COLONIZATION ASSAYS USING NATURAL MICROBIAL BARCODES"
+      ],
+      "abstract": "The present disclosure is drawn to methods of utilizing nucleic acid barcodes and corresponding amplifying sites in cells in which the barcodes naturally occur. These barcodes and amplifying sites are reconfigured into a single nucleic acid cassette that provides for ease of use in tagging particular species, strains, or variants of cells, each with a different barcode. These barcodes can be used to track the colonization capabilities of the barcoded cells. The present disclosure further provides for assays that utilize natural barcodes to measure relative microbial colonization ability of a plant root system.",
+      "publicationNumber": "US20250346911",
+      "publicationDate": "2025-11-13",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "Douglas Higgins",
+        "Andrew Abel PRIOR"
+      ],
+      "applicationDate": "2025-07-28",
+      "claimsCount": 20,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 15.56828
+    },
+    {
+      "id": "MX-2021007777-A",
+      "title": [
+        "PLANT COLONIZATION ASSAYS USING NATURAL MICROBIAL BARCODES."
+      ],
+      "abstract": "The present disclosure is drawn to methods of utilizing nucleic acid barcodes and corresponding amplifying sites in cells in which the barcodes naturally occur. These barcodes and amplifying sites are reconfigured into a single nucleic acid cassette that provides for ease of use in tagging particular species, strains, or variants of cells, each with a different barcode. These barcodes can be used to track the colonization capabilities of the barcoded cells. The present disclosure further provides for assays that utilize natural barcodes to measure relative microbial colonization ability of a plant root system.",
+      "publicationNumber": "MX2021007777",
+      "publicationDate": "2021-10-13",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "HIGGINS DOUGLAS",
+        "PRIOR ANDREW ABEL"
+      ],
+      "applicationDate": "2020-01-07",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Biotechnology",
+        "Food chemistry"
+      ],
+      "score": 15.56828
+    },
+    {
+      "id": "MX-2021003306-A",
+      "title": [
+        "METHODS AND COMPOSITIONS FOR IMPROVING PHOSPHATE SOLUBILIZATION."
+      ],
+      "abstract": "Methods and systems are provided for increasing the phosphate solubilization activity of a microbe. Microbes identified through the use of the disclosed methods and systems are also provided. The methods include the steps of and the systems include instructions for identifying a coding sequence associated with phosphate solubilization, altering the coding sequence associated with phosphate solubilization, functionally linking the altered coding sequence associated with phosphate solubilization to a promoter, and introducing the altered coding sequence associated with phosphate solubilization under the control of the promoter into the microbe. Alterations to the coding sequence can include, e.g., codon randomization of native codons, deletion of coding sequence, and insertion of regulatory sequences.",
+      "publicationNumber": "MX2021003306",
+      "publicationDate": "2021-05-13",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "TEMME KARSTEN",
+        "TAMSIR ALVIN",
+        "BLOCH SARAH",
+        "CLARK ROSEMARY",
+        "HIGGINS DOUGLAS",
+        "DAVIS-RICHARDSON AUSTIN",
+        "GOTTLIEB SHAYIN",
+        "LORIGAN JAMES GERARD"
+      ],
+      "applicationDate": "2019-09-19",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology"
+      ],
+      "score": 15.56828
+    },
+    {
+      "id": "EP-3908660-A4",
+      "title": [
+        "PLANT COLONIZATION ASSAYS USING NATURAL MICROBIAL BARCODES"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP3908660",
+      "publicationDate": "2022-11-02",
+      "assignee": [
+        "Pivot Bio, Inc."
+      ],
+      "inventors": [
+        "DOUGLAS HIGGINS",
+        "Andrew Abel PRIOR"
+      ],
+      "applicationDate": "2020-01-07",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Biotechnology",
+        "Food chemistry"
+      ],
+      "score": 15.56828
+    },
+    {
+      "id": "EP-3908660-A1",
+      "title": [
+        "PLANT COLONIZATION ASSAYS USING NATURAL MICROBIAL BARCODES"
+      ],
+      "abstract": "The present disclosure is drawn to methods of utilizing nucleic acid barcodes and corresponding amplifying sites in cells in which the barcodes naturally occur. These barcodes and amplifying sites are reconfigured into a single nucleic acid cassette that provides for ease of use in tagging particular species, strains, or variants of cells, each with a different barcode. These barcodes can be used to track the colonization capabilities of the barcoded cells. The present disclosure further provides for assays that utilize natural barcodes to measure relative microbial colonization ability of a plant root system.",
+      "publicationNumber": "EP3908660",
+      "publicationDate": "2021-11-17",
+      "assignee": [
+        "Pivot Bio, Inc."
+      ],
+      "inventors": [
+        "DOUGLAS HIGGINS",
+        "Andrew Abel PRIOR"
+      ],
+      "applicationDate": "2020-01-07",
+      "claimsCount": 153,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Biotechnology",
+        "Food chemistry"
+      ],
+      "score": 15.56828
+    },
+    {
+      "id": "EP-3853343-A1",
+      "title": [
+        "METHODS AND COMPOSITIONS FOR IMPROVING PHOSPHATE SOLUBILIZATION"
+      ],
+      "abstract": "Methods and systems are provided for increasing the phosphate solubilization activity of a microbe. Microbes identified through the use of the disclosed methods and systems are also provided. The methods include the steps of and the systems include instructions for identifying a coding sequence associated with phosphate solubilization, altering the coding sequence associated with phosphate solubilization, functionally linking the altered coding sequence associated with phosphate solubilization to a promoter, and introducing the altered coding sequence associated with phosphate solubilization under the control of the promoter into the microbe. Alterations to the coding sequence can include, e.g., codon randomization of native codons, deletion of coding sequence, and insertion of regulatory sequences.",
+      "publicationNumber": "EP3853343",
+      "publicationDate": "2021-07-28",
+      "assignee": [
+        "Pivot Bio, Inc."
+      ],
+      "inventors": [
+        "DOUGLAS HIGGINS",
+        "Austin DAVIS-RICHARDSON",
+        "Rosemary CLARK",
+        "Shayin GOTTLIEB",
+        "James Gerard LORIGAN",
+        "Sarah BLOCH",
+        "Karsten TEMME",
+        "Alvin TAMSIR"
+      ],
+      "applicationDate": "2019-09-19",
+      "claimsCount": 137,
+      "independentClaimsCount": 16,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology"
+      ],
+      "score": 15.56828
+    },
+    {
+      "id": "BR-112021013270-A2",
+      "title": [
+        "Ensaios de coloniza\u00e7\u00e3o de plantas utilizando c\u00f3digos de barras microbianos naturais"
+      ],
+      "abstract": "ensaios de coloniza\u00e7\u00e3o de plantas utilizando c\u00f3digos de barras microbianos naturais. a presente divulga\u00e7\u00e3o \u00e9 formulada para m\u00e9todos de utiliza\u00e7\u00e3o de c\u00f3digos de barras de \u00e1cidos nucleicos e s\u00edtios de amplifica\u00e7\u00e3o correspondentes em c\u00e9lulas nas quais os c\u00f3digos de barras ocorrem naturalmente. esses c\u00f3digos de barras e s\u00edtios de amplifica\u00e7\u00e3o s\u00e3o reconfigurados em um \u00fanico cassete de \u00e1cido nucleico que proporciona facilidade de uso na marca\u00e7\u00e3o de esp\u00e9cies, cepas ou variantes de c\u00e9lulas espec\u00edficas, cada uma com um c\u00f3digo de barras diferente. esses c\u00f3digos de barras podem ser usados para rastrear os recursos de coloniza\u00e7\u00e3o das c\u00e9lulas com c\u00f3digo de barras. a presente divulga\u00e7\u00e3o fornece ainda ensaios que utilizam c\u00f3digos de barras naturais para medir a capacidade de coloniza\u00e7\u00e3o microbiana relativa de um sistema radicular de planta.",
+      "publicationNumber": "BR112021013270",
+      "publicationDate": "2021-11-23",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "ANDREW ABEL PRIOR",
+        "HIGGINS DOUGLAS"
+      ],
+      "applicationDate": "2020-01-07",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Biotechnology",
+        "Food chemistry"
+      ],
+      "score": 15.56828
+    },
+    {
+      "id": "BR-112021005052-A2",
+      "title": [
+        "m\u00e9todos e composi\u00e7\u00f5es para melhorar a solubiliza\u00e7\u00e3o de fosfato"
+      ],
+      "abstract": "\"M\u00c9TODOS E COMPOSI\u00c7\u00d5ES PARA MELHORAR A SOLUBILIZA\u00c7\u00c3O DE FOSFATO\". A presente inven\u00e7\u00e3o refere-se a m\u00e9todos e sistemas para aumentar a atividade de solubiliza\u00e7\u00e3o de fosfato de um micr\u00f3bio. Micr\u00f3bios identificados por meio do uso dos m\u00e9todos e sistemas divulgados tamb\u00e9m s\u00e3o fornecidos. Os m\u00e9todos incluem as etapas e os sistemas incluem instru\u00e7\u00f5es para identificar uma sequ\u00eancia de codifica\u00e7\u00e3o associada \u00e0 solubiliza\u00e7\u00e3o de fosfato, alterar a sequ\u00eancia de codifica\u00e7\u00e3o associada \u00e0 solubiliza\u00e7\u00e3o de fosfato, ligar funcionalmente a sequ\u00eancia de codifica\u00e7\u00e3o alterada associada \u00e0 solubiliza\u00e7\u00e3o de fosfato a um promotor e introduzir a sequ\u00eancia de codifica\u00e7\u00e3o alterada associada \u00e0 solubiliza\u00e7\u00e3o de fosfato sob o controle do promotor no micr\u00f3bio. As altera\u00e7\u00f5es na sequ\u00eancia de codifica\u00e7\u00e3o podem incluir, por exemplo, randomiza\u00e7\u00e3o de c\u00f3don de c\u00f3dons nativos, dele\u00e7\u00e3o da sequ\u00eancia de codifica\u00e7\u00e3o e inser\u00e7\u00e3o de sequ\u00eancias reguladoras.",
+      "publicationNumber": "BR112021005052",
+      "publicationDate": "2021-06-08",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "Sarah BLOCH",
+        "Karsten Temme",
+        "Alvin Tamsir",
+        "Douglas Higgins",
+        "Austin Davis-Richardson",
+        "Rosemary CLARK",
+        "Shayin GOTTLIEB",
+        "James Gerard Lorigan"
+      ],
+      "applicationDate": "2019-09-19",
+      "claimsCount": 137,
+      "independentClaimsCount": 49,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology"
+      ],
+      "score": 15.56828
+    },
+    {
+      "id": "AU-2020206751-A1",
+      "title": [
+        "Plant colonization assays using natural microbial barcodes"
+      ],
+      "abstract": "The present disclosure is drawn to methods of utilizing nucleic acid barcodes and corresponding amplifying sites in cells in which the barcodes naturally occur. These barcodes and amplifying sites are reconfigured into a single nucleic acid cassette that provides for ease of use in tagging particular species, strains, or variants of cells, each with a different barcode. These barcodes can be used to track the colonization capabilities of the barcoded cells. The present disclosure further provides for assays that utilize natural barcodes to measure relative microbial colonization ability of a plant root system.",
+      "publicationNumber": "AU2020206751",
+      "publicationDate": "2021-07-01",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "DOUGLAS HIGGINS",
+        "Andrew Abel PRIOR"
+      ],
+      "applicationDate": "2020-01-07",
+      "claimsCount": 153,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Biotechnology",
+        "Food chemistry"
+      ],
+      "score": 15.56828
+    },
+    {
+      "id": "AU-2019345144-A1",
+      "title": [
+        "Methods and compositions for improving phosphate solubilization"
+      ],
+      "abstract": "Methods and systems are provided for increasing the phosphate solubilization activity of a microbe. Microbes identified through the use of the disclosed methods and systems are also provided. The methods include the steps of and the systems include instructions for identifying a coding sequence associated with phosphate solubilization, altering the coding sequence associated with phosphate solubilization, functionally linking the altered coding sequence associated with phosphate solubilization to a promoter, and introducing the altered coding sequence associated with phosphate solubilization under the control of the promoter into the microbe. Alterations to the coding sequence can include, e.g., codon randomization of native codons, deletion of coding sequence, and insertion of regulatory sequences.",
+      "publicationNumber": "AU2019345144",
+      "publicationDate": "2021-04-15",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "Sarah BLOCH",
+        "Rosemary CLARK",
+        "Austin DAVIS-RICHARDSON",
+        "Shayin GOTTLIEB",
+        "DOUGLAS HIGGINS",
+        "James Gerard LORIGAN",
+        "Alvin TAMSIR",
+        "Karsten TEMME"
+      ],
+      "applicationDate": "2019-09-19",
+      "claimsCount": 137,
+      "independentClaimsCount": 16,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology"
+      ],
+      "score": 15.56828
+    },
+    {
+      "id": "AR-117775-A1",
+      "title": [
+        "ENSAYOS DE COLONIZACI\u00d3N DE PLANTAS CON C\u00d3DIGOS DE BARRAS MICROBIANOS NATURALES"
+      ],
+      "abstract": "M\u00e9todos para utilizar c\u00f3digos de barras de \u00e1cidos nucleicos y los correspondientes sitios de amplificaci\u00f3n en c\u00e9lulas donde dichos c\u00f3digos de barras se encuentran de manera natural. Estos c\u00f3digos de barras y sitios de amplificaci\u00f3n est\u00e1n reconfigurados en un solo casete de \u00e1cidos nucleicos que facilita su uso en la marcaci\u00f3n de especies, cepas o variantes particulares de c\u00e9lulas, cada una con un c\u00f3digo de barras diferente. Estos c\u00f3digos de barras se pueden usar en el seguimiento de la capacidad de colonizaci\u00f3n de las c\u00e9lulas que contienen a dichos c\u00f3digos de barras. Se proveen adem\u00e1s ensayos que utilizan los c\u00f3digos de barras naturales para medir la capacidad de colonizaci\u00f3n microbiana relativa de un sistema radicular de plantas.",
+      "publicationNumber": "AR117775",
+      "publicationDate": "2021-08-25",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "Andrew Abel PRIOR",
+        "DOUGLAS HIGGINS"
+      ],
+      "applicationDate": "2020-01-07",
+      "claimsCount": 153,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 15.56828
+    },
+    {
+      "id": "AR-114740-A1",
+      "title": [
+        "M\u00c9TODOS Y COMPOSICIONES PARA MEJORAR LA SOLUBILIZACI\u00d3N DEL FOSFATO"
+      ],
+      "abstract": "M\u00e9todos y sistemas para mejorar la actividad de solubilizaci\u00f3n del fosfato en un microorganismo. Tambi\u00e9n se proveen microorganismos identificados mediante el uso de los m\u00e9todos y sistemas de la presente. Los m\u00e9todos incluyen los pasos, y los sistemas incluyen las instrucciones para identificar una secuencia codificante asociada con la solubilizaci\u00f3n del fosfato, para modificar la secuencia codificante asociada con la solubilizaci\u00f3n del fosfato y la relaci\u00f3n funcional entre la secuencia codificante modificada y un promotor, e introducir la secuencia codificante alterada asociada con la solubilizaci\u00f3n de fosfatos bajo el control del promotor en el microorganismo. Las modificaciones en la secuencia codificante puede incluir, por ejemplo, la asignaci\u00f3n aleatoria de los codones nativos, la eliminaci\u00f3n de secuencias codificantes y la inserci\u00f3n de secuencias reguladoras. Reivindicaci\u00f3n 1: Un microorganismo modificado, caracterizado porque comprende una alteraci\u00f3n en un gen asociado con la solubilizaci\u00f3n de fosfatos, en donde dicho gen asociado con la solubilizaci\u00f3n de fosfatos es nativo para dicho microorganismo, con lo cual dicho microorganismo modificado solubiliza fosfatos con una capacidad o \u00edndice mayor en comparaci\u00f3n con un microorganismo no modificado de la misma especie. Reivindicaci\u00f3n 83: Un m\u00e9todo, caracterizado porque comprende: a) proveer una pluralidad de especies microbianas que est\u00e1n asociadas con una planta blanco de inter\u00e9s; b) evaluar la pluralidad de especies microbianas seg\u00fan un par\u00e1metro de colonizaci\u00f3n y la capacidad para solubilizar fosfatos; c) seleccionar una especie microbiana candidato entre la pluralidad de especies microbianas evaluadas; d) caracterizar, en la especie microbiana candidato, un gen seleccionado del grupo que consiste en: una fosfatasa \u00e1cida no espec\u00edfica, una fitasa, un gen de la bios\u00edntesis del \u00e1cido gluc\u00f3nico, un transportador del \u00e1cido gluc\u00f3nico, una gluconato deshidrogenasa y una glucosa deshidrogenasa; e) introducir una o m\u00e1s variaciones gen\u00e9ticas buscadas en la especie microbiana candidato; f) confirmar la integraci\u00f3n de dichas una o m\u00e1s variaciones gen\u00e9ticas buscadas en un locus gen\u00f3mico blanco; y g) repetir los pasos d) y e) una o m\u00e1s veces, hasta que la especie microbiana candidato haya adquirido una capacidad mejorada para solubilizar fosfatos.",
+      "publicationNumber": "AR114740",
+      "publicationDate": "2020-10-07",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "Austin DAVIS-RICHARDSON",
+        "DOUGLAS HIGGINS",
+        "Alvin TAMSIR",
+        "Karsten TEMME",
+        "Sarah BLOCH",
+        "James Gerard LORIGAN",
+        "Shayin GOTTLIEB",
+        "Rosemary CLARK"
+      ],
+      "applicationDate": "2019-09-19",
+      "claimsCount": 2,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology"
+      ],
+      "score": 15.56828
+    },
+    {
+      "id": "WO-2025155521-A1",
+      "title": [
+        "HOST CELLS FOR ENHANCED PLANT GROWTH"
+      ],
+      "abstract": "Provided herein are novel non-naturally occurring bacteria that exhibit enhanced nitrogen fixation activity. Such non-naturally occurring bacteria are useful in providing plants (e.g., food crops) with useable nitrogen nutrients and, therefore, enhancing plant growth and development.",
+      "publicationNumber": "WO2025155521",
+      "publicationDate": "2025-07-24",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "Bilge Ozaydin ESKIYENENTURK",
+        "NEAL SHAW",
+        "Rosemary CLARK"
+      ],
+      "applicationDate": "2025-01-14",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology"
+      ],
+      "score": 15.561776
+    },
+    {
+      "id": "WO-2024006524-A1",
+      "title": [
+        "SEED TREATMENT SYSTEMS, METHODS, AND AGRICULTURAL COMPOSITIONS"
+      ],
+      "abstract": "Seed treatment systems with a mixing reservoir including a tank, a circulation mechanism positioned within the tank, and a controller coupled to the circulation mechanism, where the circulation mechanism includes a plurality of vanes configured to rotate about an axis within the tank, and where the controller is configured to mix seed treatment components within the tank in one or more mixing cycles by rotating the plurality of vanes within the tank, each mixing cycle including a first mixing operation in which the plurality of vanes rotate in a first direction about an axis for a first time period, and a second mixing operation in which the plurality of vanes rotate in a second direction about the axis opposite to the first direction for a second time period. Methods of use of the disclosed systems, e.g., for treating plant seeds, and agricultural compositions produced thereby are also provided.",
+      "publicationNumber": "WO2024006524",
+      "publicationDate": "2024-01-04",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "KEITH O'BRYAN",
+        "RICHARD WILSON BELCHER",
+        "Matt KESTEL",
+        "PAUL A. KAEB",
+        "Dominic E. Meyer"
+      ],
+      "applicationDate": "2023-06-30",
+      "claimsCount": 148,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Other special machines"
+      ],
+      "score": 15.561776
+    },
+    {
+      "id": "WO-2020132632-A3",
+      "title": [
+        "METHODS, COMPOSITIONS, AND MEDIA FOR IMPROVING PLANT TRAITS"
+      ],
+      "abstract": "Methods of predicting in planta phenotypes of microbial strains are provided. The methods can include culturing microbial strains in a plant exudate medium and assaying in vitro phenotypes of the microbial strains. The methods may also include using the in vitro phenotypes to predict in planta phenotypes of the microbial strains. Methods of using the microbial strains in field trials are also provided.",
+      "publicationNumber": "WO2020132632",
+      "publicationDate": "2020-07-30",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "Rosemary CLARK",
+        "Shayin GOTTLIEB",
+        "Neal SHAH",
+        "Karsten TEMME",
+        "Alvin TAMSIR",
+        "Sarah BLOCH",
+        "Richard BROGLIE",
+        "Emily TUNG"
+      ],
+      "applicationDate": "2019-12-20",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology",
+        "Food chemistry"
+      ],
+      "score": 15.561776
+    },
+    {
+      "id": "WO-2020132632-A2",
+      "title": [
+        "METHODS, COMPOSITIONS, AND MEDIA FOR IMPROVING PLANT TRAITS"
+      ],
+      "abstract": "Methods of predicting in planta phenotypes of microbial strains are provided. The methods can include culturing microbial strains in a plant exudate medium and assaying in vitro phenotypes of the microbial strains. The methods may also include using the in vitro phenotypes to predict in planta phenotypes of the microbial strains. Methods of using the microbial strains in field trials are also provided.",
+      "publicationNumber": "WO2020132632",
+      "publicationDate": "2020-06-25",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "Rosemary CLARK",
+        "Shayin GOTTLIEB",
+        "Neal SHAH",
+        "Karsten TEMME",
+        "Alvin TAMSIR",
+        "Sarah BLOCH",
+        "Richard BROGLIE",
+        "Emily TUNG"
+      ],
+      "applicationDate": "2019-12-20",
+      "claimsCount": 157,
+      "independentClaimsCount": 9,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology",
+        "Food chemistry"
+      ],
+      "score": 15.561776
+    },
+    {
+      "id": "MX-2024015418-A",
+      "title": [
+        "SEED TREATMENT SYSTEMS, METHODS, AND AGRICULTURAL COMPOSITIONS"
+      ],
+      "abstract": "Seed treatment systems with a mixing reservoir including a tank, a circulation mechanism positioned within the tank, and a controller coupled to the circulation mechanism, where the circulation mechanism includes a plurality of vanes configured to rotate about an axis within the tank, and where the controller is configured to mix seed treatment components within the tank in one or more mixing cycles by rotating the plurality of vanes within the tank, each mixing cycle including a first mixing operation in which the plurality of vanes rotate in a first direction about an axis for a first time period, and a second mixing operation in which the plurality of vanes rotate in a second direction about the axis opposite to the first direction for a second time period. Methods of use of the disclosed systems, e.g., for treating plant seeds, and agricultural compositions produced thereby are also provided.",
+      "publicationNumber": "MX2024015418",
+      "publicationDate": "2025-02-10",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "O'BRYAN KEITH",
+        "BELCHER RICHARD WILSON",
+        "KESTEL MATT",
+        "KAEB PAUL A.",
+        "MEYER DOMINIC E.",
+        "KIMMELSHUE CHAD"
+      ],
+      "applicationDate": "2024-12-12",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Other special machines"
+      ],
+      "score": 15.561776
+    },
+    {
+      "id": "EP-3897105-A2",
+      "title": [
+        "METHODS, COMPOSITIONS, AND MEDIA FOR IMPROVING PLANT TRAITS"
+      ],
+      "abstract": "Methods of predicting in planta phenotypes of microbial strains are provided. The methods can include culturing microbial strains in a plant exudate medium and assaying in vitro phenotypes of the microbial strains. The methods may also include using the in vitro phenotypes to predict in planta phenotypes of the microbial strains. Methods of using the microbial strains in field trials are also provided.",
+      "publicationNumber": "EP3897105",
+      "publicationDate": "2021-10-27",
+      "assignee": [
+        "Pivot Bio, Inc."
+      ],
+      "inventors": [
+        "Shayin GOTTLIEB",
+        "Neal SHAH",
+        "Karsten TEMME",
+        "Alvin TAMSIR",
+        "Sarah BLOCH",
+        "Richard BROGLIE",
+        "Emily TUNG",
+        "Rosemary CLARK"
+      ],
+      "applicationDate": "2019-12-20",
+      "claimsCount": 157,
+      "independentClaimsCount": 9,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology",
+        "Food chemistry"
+      ],
+      "score": 15.561776
+    },
+    {
+      "id": "AU-2023298420-A1",
+      "title": [
+        "SEED TREATMENT SYSTEMS, METHODS, AND AGRICULTURAL COMPOSITIONS"
+      ],
+      "abstract": "Seed treatment systems with a mixing reservoir including a tank, a circulation mechanism positioned within the tank, and a controller coupled to the circulation mechanism, where the circulation mechanism includes a plurality of vanes configured to rotate about an axis within the tank, and where the controller is configured to mix seed treatment components within the tank in one or more mixing cycles by rotating the plurality of vanes within the tank, each mixing cycle including a first mixing operation in which the plurality of vanes rotate in a first direction about an axis for a first time period, and a second mixing operation in which the plurality of vanes rotate in a second direction about the axis opposite to the first direction for a second time period. Methods of use of the disclosed systems, e.g., for treating plant seeds, and agricultural compositions produced thereby are also provided.",
+      "publicationNumber": "AU2023298420",
+      "publicationDate": "2025-01-16",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "RICHARD WILSON BELCHER",
+        "PAUL A. KAEB",
+        "Matt KESTEL",
+        "Chad KIMMELSHUE",
+        "Dominic E. Meyer",
+        "KEITH O'BRYAN"
+      ],
+      "applicationDate": "2023-06-30",
+      "claimsCount": 148,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Other special machines"
+      ],
+      "score": 15.561776
+    },
+    {
+      "id": "AU-2019401485-A1",
+      "title": [
+        "Methods, compositions, and media for improving plant traits"
+      ],
+      "abstract": "Methods of predicting in planta phenotypes of microbial strains are provided. The methods can include culturing microbial strains in a plant exudate medium and assaying in vitro phenotypes of the microbial strains. The methods may also include using the in vitro phenotypes to predict in planta phenotypes of the microbial strains. Methods of using the microbial strains in field trials are also provided.",
+      "publicationNumber": "AU2019401485",
+      "publicationDate": "2021-06-24",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "Sarah BLOCH",
+        "Richard BROGLIE",
+        "Rosemary CLARK",
+        "Shayin GOTTLIEB",
+        "Neal SHAH",
+        "Alvin TAMSIR",
+        "Karsten TEMME",
+        "Emily TUNG"
+      ],
+      "applicationDate": "2019-12-20",
+      "claimsCount": 157,
+      "independentClaimsCount": 9,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology",
+        "Food chemistry"
+      ],
+      "score": 15.561776
+    },
+    {
+      "id": "AR-129787-A1",
+      "title": [
+        "SISTEMAS Y M\u00c9TODOS DE TRATAMIENTO DE SEMILLAS Y COMPOSICIONES AGR\u00cdCOLAS"
+      ],
+      "abstract": "Reivindicaci\u00f3n 1: Una composici\u00f3n agr\u00edcola, que comprende una semilla de planta que comprende un primer recubrimiento y un sobretratamiento, donde el sobretratamiento comprende al menos un microbio y donde el al menos un microbio comprende al menos una bacteria fijadora de nitr\u00f3geno. Reivindicaci\u00f3n 19: Un sistema de sobretratamiento de semilla para aplicar un microbio agr\u00edcolamente \u00fatil a una semilla, que comprende un aplicador de tratamiento que comprende una entrada para recibir semillas, un conjunto de dispersi\u00f3n de tratamiento para aplicar un tratamiento a las semillas recibidas y una salida para descargar las semillas tratadas; un dep\u00f3sito de mezcla que comprende un tanque, una o m\u00e1s entradas conectadas al tanque y configuradas para recibir componentes de tratamiento, y una salida conectada al tanque; un mecanismo de mezcla que comprende: una entrada en comunicaci\u00f3n fluida con la salida del dep\u00f3sito de mezcla; una bomba en comunicaci\u00f3n fluida con la entrada del mecanismo de mezcla; y un mecanismo de circulaci\u00f3n colocado dentro del tanque; y un controlador acoplado al mecanismo de circulaci\u00f3n, donde el mecanismo de circulaci\u00f3n comprende una pluralidad de paletas configuradas para girar alrededor de un eje dentro del tanque; y donde el controlador est\u00e1 configurado para mezclar los componentes de tratamiento dentro del tanque en uno o m\u00e1s ciclos de mezcla al girar la pluralidad de paletas dentro del tanque; cada ciclo de mezcla comprende: una primera operaci\u00f3n de mezcla en la que la pluralidad de paletas gira en una primera direcci\u00f3n alrededor del eje durante un primer per\u00edodo de tiempo; y una segunda operaci\u00f3n de mezcla en la que la pluralidad de paletas gira en una segunda direcci\u00f3n alrededor del eje opuesto a la primera direcci\u00f3n durante un segundo per\u00edodo de tiempo. Reivindicaci\u00f3n 62: Un sistema para mezclar componentes de sobretratamiento de semillas para aplicar un microbio agr\u00edcolamente \u00fatil a una semilla, que comprende: un dep\u00f3sito de mezcla que comprende un tanque, una o m\u00e1s entradas conectadas al tanque y configuradas para recibir componentes de tratamiento, y una salida conectada al tanque; un mecanismo de mezcla que comprende: una entrada en comunicaci\u00f3n fluida con la salida del dep\u00f3sito de mezcla; una bomba en comunicaci\u00f3n fluida con la entrada del mecanismo de mezcla; y un mecanismo de circulaci\u00f3n colocado en el tanque y que comprende una pluralidad de paletas colocadas para girar alrededor de un eje; y un controlador acoplado al mecanismo de circulaci\u00f3n y configurado para girar la pluralidad de paletas alrededor del eje en cada una de las dos direcciones opuestas para mezclar los componentes del tratamiento. Reivindicaci\u00f3n 103: Un m\u00e9todo para sobretratar semillas para aplicar un microbio agr\u00edcolamente \u00fatil a una semilla, que comprende: preparar una composici\u00f3n de tratamiento de semillas que comprende un componente de tratamiento l\u00edquido que prolonga la viabilidad de un microbio y un componente de tratamiento s\u00f3lido que comprende el microbio; y aplicar la composici\u00f3n de tratamiento de semillas a las semillas, donde la preparaci\u00f3n de la composici\u00f3n de tratamiento de semillas comprende: introducir los componentes de tratamiento l\u00edquido y s\u00f3lido en un dep\u00f3sito de mezcla que comprende un tanque, una o m\u00e1s entradas conectadas al tanque y configuradas para recibir los componentes de tratamiento, y una salida conectada al tanque; y mezclar los componentes de tratamiento l\u00edquido y s\u00f3lido con un mecanismo de mezcla que comprende una entrada en comunicaci\u00f3n fluida con la salida del dep\u00f3sito de mezcla, una bomba en comunicaci\u00f3n fluida con la entrada del mecanismo de mezcla, y un mecanismo de circulaci\u00f3n colocado dentro del tanque y que comprende una pluralidad de paletas configuradas para girar alrededor de un eje dentro del tanque; y donde los componentes de tratamiento se mezclan dentro del tanque en uno o m\u00e1s ciclos de mezcla al girar la pluralidad de paletas dentro del tanque; cada ciclo de mezcla comprende: una primera operaci\u00f3n de mezcla en la que la pluralidad de paletas gira en una primera direcci\u00f3n alrededor del eje durante un primer per\u00edodo de tiempo; y una segunda operaci\u00f3n de mezcla en la que la pluralidad de paletas gira en una segunda direcci\u00f3n alrededor del eje opuesto a la primera direcci\u00f3n durante un segundo per\u00edodo de tiempo.",
+      "publicationNumber": "AR129787",
+      "publicationDate": "2024-09-25",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "KEITH O\u2019BRYAN",
+        "RICHARD WILSON BELCHER",
+        "Matt KESTEL",
+        "PAUL A. KAEB",
+        "Dominic E. Meyer"
+      ],
+      "applicationDate": "2023-06-30",
+      "claimsCount": 4,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Other special machines"
+      ],
+      "score": 15.561776
+    },
+    {
+      "id": "WO-2022261433-A1",
+      "title": [
+        "EXTENDER COMPOSITIONS AND USE THEREOF TO INCREASE ON-SEED ADHERENCE AND STABILITY OF MICROBES"
+      ],
+      "abstract": "The present disclosure provides extender compositions which prolong or maintain the viability of microbes on-seed, thus increasing the stability and shelf-life of the microbes on coated seed, even when the seed has been pre-treated with other chemicals and/or biologicals (plant enhancing agents). The compositions disclosed herein further promote the adherence of microbes to seed during the seed coating process. The disclosure further teaches seed coating kits, methods of use, and seeds and plant propagating material produced therefrom which are coated with the compositions disclosed herein.",
+      "publicationNumber": "WO2022261433",
+      "publicationDate": "2022-12-15",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "RICHARD BELCHER",
+        "Farzaneh REZAEI",
+        "SCOTT STROBEL"
+      ],
+      "applicationDate": "2022-06-10",
+      "claimsCount": 179,
+      "independentClaimsCount": 11,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology"
+      ],
+      "score": 15.51279
+    },
+    {
+      "id": "WO-2022260676-A1",
+      "title": [
+        "EXTENDER COMPOSITIONS AND USE THEREOF TO INCREASE ON-SEED ADHERENCE AND STABILITY OF MICROBES"
+      ],
+      "abstract": "The present disclosure provides extender compositions which prolong or maintain the viability of microbes on-seed, thus increasing the stability and shelf-life of the microbes on coated seed, even when the seed has been pre-treated with other chemicals and/or biologicals (plant enhancing agents). The compositions disclosed herein further promote the adherence of microbes to seed during the seed coating process. The disclosure further teaches seed coating kits, methods of use, and seeds and plant propagating material produced therefrom which are coated with the compositions disclosed herein.",
+      "publicationNumber": "WO2022260676",
+      "publicationDate": "2022-12-15",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "RICHARD BELCHER",
+        "Farzaneh REZAEI",
+        "SCOTT STROBEL"
+      ],
+      "applicationDate": "2021-06-10",
+      "claimsCount": 116,
+      "independentClaimsCount": 10,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology"
+      ],
+      "score": 15.51279
+    },
+    {
+      "id": "WO-2020219932-A1",
+      "title": [
+        "GENE TARGETS FOR NITROGEN FIXATION TARGETING FOR IMPROVING PLANT TRAITS"
+      ],
+      "abstract": "A genetically engineered bacterium with a modification in one or more genes selected from: NAC, ptsH, iaaA, gltA, pga, sdiA, fimA1, fimA2, fimA3, fimA4, wzxE, bolA, iscR, fhuF, sodA, sodB, sodC, FNR, arcA, arcB, rpoS, sbnA, treA, treB, phoP, phoQ, yjjPB, ychM, dauA, actP, yusV1, yieL1, yieL2, yieL3, yieL4, pgaB, rafA, melA, uidA, manA, abfA, abnA, lacZ, and yusV2 is disclosed. Methods of use of the genetically engineered bacterium to provide fixed nitrogen to plants, and compositions including the bacterium are also provided.",
+      "publicationNumber": "WO2020219932",
+      "publicationDate": "2020-10-29",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "Karsten TEMME",
+        "Alvin TAMSIR",
+        "Sarah BLOCH",
+        "Neal SHAH",
+        "JENNY JOHNSON",
+        "Bilge OZAYDIN"
+      ],
+      "applicationDate": "2020-04-24",
+      "claimsCount": 40,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology"
+      ],
+      "score": 15.51279
+    },
+    {
+      "id": "WO-2020092940-A1",
+      "title": [
+        "BIOFILM COMPOSITIONS WITH IMPROVED STABILITY FOR NITROGEN FIXING MICROBIAL PRODUCTS"
+      ],
+      "abstract": "The present disclosure provides the integration of exogenous microbial biofilms to confer increased stability and viability for an extended shelf life of desired microbes (e.g., bacteria), as compared to those microbes in the absence of the exogenous microbial biofilms. The microbes include transgenic microbes, non-transgenic microbes, and non-intergeneric remodeled microbes. The utilization of the taught microbial products will enable a significant expansion of the typical shelf life of microbial compositions. The microbes comprising exogenous biofilms taught herein are able to be combined with other agriculturally beneficial compositions.",
+      "publicationNumber": "WO2020092940",
+      "publicationDate": "2020-05-07",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "Farzaneh REZAEI",
+        "Shayin GOTTLIEB"
+      ],
+      "applicationDate": "2019-11-01",
+      "claimsCount": 92,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 15.51279
+    },
+    {
+      "id": "WO-2020006064-A3",
+      "title": [
+        "AGRICULTURAL COMPOSITIONS COMPRISING REMODELED NITROGEN FIXING MICROBES"
+      ],
+      "abstract": "The present disclosure provides non-intergeneric remodeled microbes that are able to fix atmostpheric nitrogen and deliver such to plants in a targeted, efficient, and environmentally sustainable manner. The utilization of the taught microbial products will enable farmers to realize more productive and predictable crop yields without the nutrient degradation, leaching, or toxic runoff associated with traditional synthetically derived nitrogen fertilizer. The remodeled microbes taught herein are able to be combined with leading agricultural chemistry and elite germplasm. Furthermore, the disclosure provides seed treatments comprising remodeled microbes.",
+      "publicationNumber": "WO2020006064",
+      "publicationDate": "2020-07-30",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "Mark REISINGER",
+        "ERNEST SANDERS",
+        "Richard BROGLIE",
+        "Karsten TEMME"
+      ],
+      "applicationDate": "2019-06-26",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology"
+      ],
+      "score": 15.51279
+    },
+    {
+      "id": "WO-2020006064-A2",
+      "title": [
+        "AGRICULTURAL COMPOSITIONS COMPRISING REMODELED NITROGEN FIXING MICROBES"
+      ],
+      "abstract": "The present disclosure provides non-intergeneric remodeled microbes that are able to fix atmostpheric nitrogen and deliver such to plants in a targeted, efficient, and environmentally sustainable manner. The utilization of the taught microbial products will enable farmers to realize more productive and predictable crop yields without the nutrient degradation, leaching, or toxic runoff associated with traditional synthetically derived nitrogen fertilizer. The remodeled microbes taught herein are able to be combined with leading agricultural chemistry and elite germplasm. Furthermore, the disclosure provides seed treatments comprising remodeled microbes.",
+      "publicationNumber": "WO2020006064",
+      "publicationDate": "2020-01-02",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "Mark REISINGER",
+        "ERNEST SANDERS",
+        "Richard BROGLIE",
+        "Karsten TEMME"
+      ],
+      "applicationDate": "2019-06-26",
+      "claimsCount": 46,
+      "independentClaimsCount": 1,
+      "technologyFields": [],
+      "score": 15.51279
+    },
+    {
+      "id": "WO-2019084059-A2",
+      "title": [
+        "METHODS AND COMPOSITIONS FOR IMPROVING ENGINEERED MICROBES THAT FIX NITROGEN"
+      ],
+      "abstract": "",
+      "publicationNumber": "WO2019084059",
+      "publicationDate": "2019-05-02",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "DOUGLAS HIGGINS",
+        "Alvin TAMSIR",
+        "Sarah BLOCH"
+      ],
+      "applicationDate": "2018-10-23",
+      "claimsCount": 80,
+      "independentClaimsCount": 7,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 15.51279
+    },
+    {
+      "id": "PH-12021552644-A1",
+      "title": [
+        "GENE TARGETS FOR NITROGEN FIXATION TARGETING FOR IMPROVING PLANT TRAITS"
+      ],
+      "abstract": "A genetically engineered bacterium with a modification in one or more genes selected from: NAC, ptsH, iaaA, gltA, pga, sdiA, fimA1, fimA2, fimA3, fimA4, wzxE, bolA, iscR, fhuF, sodA, sodB, sodC, FNR, arcA, arcB, rpoS, sbnA, treA, treB, phoP, phoQ, yjjPB, ychM, dauA, actP, yusV1, yieL1, yieL2, yieL3, yieL4, pgaB, rafA, melA, uidA, manA, abfA, abnA, lacZ, and yusV2 is disclosed. Methods of use of the genetically engineered bacterium to provide fixed nitrogen to plants, and compositions including the bacterium are also provided.",
+      "publicationNumber": "PH12021552644",
+      "publicationDate": "2022-07-11",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "Sarah BLOCH",
+        "Bilge Ozaydin ESKIYENENTURK",
+        "JENNY JOHNSON",
+        "Neal SHAH",
+        "Alvin TAMSIR",
+        "Karsten TEMME"
+      ],
+      "applicationDate": "2020-04-24",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology"
+      ],
+      "score": 15.51279
+    },
+    {
+      "id": "PH-12020550484-A1",
+      "title": [
+        "METHODS AND COMPOSITIONS FOR IMPROVING ENGINEERED MICROBES THAT FIX NITROGEN"
+      ],
+      "abstract": "Methods and systems are provided for generating and utilizing a bacterial composition that comprises at least one genetically engineered bacterial strain that fixes atmospheric nitrogen in an agricultural system that has been fertilized with more than 20 lbs of Nitrogen per acre.",
+      "publicationNumber": "PH12020550484",
+      "publicationDate": "2021-03-22",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "Alvin TAMSIR",
+        "Sarah BLOCH",
+        "DOUGLAS HIGGINS"
+      ],
+      "applicationDate": "2020-04-24",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 15.51279
+    },
+    {
+      "id": "MX-2025002550-A",
+      "title": [
+        "AGRICULTURAL COMPOSITIONS COMPRISING REMODELED NITROGEN FIXING MICROBES"
+      ],
+      "abstract": "The present disclosure provides non-intergeneric remodeled microbes that are able to fix atmostpheric nitrogen and deliver such to plants in a targeted, efficient, and environmentally sustainable manner. The utilization of the taught microbial products will enable farmers to realize more productive and predictable crop yields without the nutrient degradation, leaching, or toxic runoff associated with traditional synthetically derived nitrogen fertilizer. The remodeled microbes taught herein are able to be combined with leading agricultural chemistry and elite germplasm. Furthermore, the disclosure provides seed treatments comprising remodeled microbes.",
+      "publicationNumber": "MX2025002550",
+      "publicationDate": "2025-06-02",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "REISINGER MARK",
+        "SANDERS ERNEST",
+        "BROGLIE RICHARD",
+        "TEMME KARSTEN"
+      ],
+      "applicationDate": "2020-12-16",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Basic materials chemistry"
+      ],
+      "score": 15.51279
+    },
+    {
+      "id": "MX-2024009565-A",
+      "title": [
+        "AGRICULTURAL COMPOSITIONS COMPRISING REMODELED NITROGEN FIXING MICROBES."
+      ],
+      "abstract": "The present disclosure provides non-intergeneric remodeled microbes that are able to fix atmostpheric nitrogen and deliver such to plants in a targeted, efficient, and environmentally sustainable manner. The utilization of the taught microbial products will enable farmers to realize more productive and predictable crop yields without the nutrient degradation, leaching, or toxic runoff associated with traditional synthetically derived nitrogen fertilizer. The remodeled microbes taught herein are able to be combined with leading agricultural chemistry and elite germplasm. Furthermore, the disclosure provides seed treatments comprising remodeled microbes.",
+      "publicationNumber": "MX2024009565",
+      "publicationDate": "2024-08-22",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "TEMME KARSTEN",
+        "REISINGER MARK",
+        "SANDERS ERNEST",
+        "BROGLIE RICHARD"
+      ],
+      "applicationDate": "2020-12-16",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Basic materials chemistry"
+      ],
+      "score": 15.51279
+    },
+    {
+      "id": "MX-2021012909-A",
+      "title": [
+        "GENE TARGETS FOR NITROGEN FIXATION TARGETING FOR IMPROVING PLANT TRAITS."
+      ],
+      "abstract": "A genetically engineered bacterium with a modification in one or more genes selected from: NAC, ptsH, iaaA, gltA, pga, sdiA, fimA1, fimA2, fimA3, fimA4, wzxE, bolA, iscR, fhuF, sodA, sodB, sodC, FNR, arcA, arcB, rpoS, sbnA, treA, treB, phoP, phoQ, yjjPB, ychM, dauA, actP, yusV1, yieL1, yieL2, yieL3, yieL4, pgaB, rafA, melA, uidA, manA, abfA, abnA, lacZ, and yusV2 is disclosed. Methods of use of the genetically engineered bacterium to provide fixed nitrogen to plants, and compositions including the bacterium are also provided.",
+      "publicationNumber": "MX2021012909",
+      "publicationDate": "2021-11-17",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "TEMME KARSTEN",
+        "TAMSIR ALVIN",
+        "BLOCH SARAH",
+        "SHAH NEAL",
+        "JOHNSON JENNY",
+        "ESKIYENENTURK BILGE OZAYDIN"
+      ],
+      "applicationDate": "2020-04-24",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology"
+      ],
+      "score": 15.51279
+    },
+    {
+      "id": "MX-2020013875-A",
+      "title": [
+        "AGRICULTURAL COMPOSITIONS COMPRISING REMODELED NITROGEN FIXING MICROBES."
+      ],
+      "abstract": "The present disclosure provides non-intergeneric remodeled microbes that are able to fix atmostpheric nitrogen and deliver such to plants in a targeted, efficient, and environmentally sustainable manner. The utilization of the taught microbial products will enable farmers to realize more productive and predictable crop yields without the nutrient degradation, leaching, or toxic runoff associated with traditional synthetically derived nitrogen fertilizer. The remodeled microbes taught herein are able to be combined with leading agricultural chemistry and elite germplasm. Furthermore, the disclosure provides seed treatments comprising remodeled microbes.",
+      "publicationNumber": "MX2020013875",
+      "publicationDate": "2021-08-11",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "TEMME KARSTEN",
+        "REISINGER MARK",
+        "SANDERS ERNEST",
+        "BROGLIE RICHARD"
+      ],
+      "applicationDate": "2019-06-26",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology"
+      ],
+      "score": 15.51279
+    },
+    {
+      "id": "MX-2020004343-A",
+      "title": [
+        "METHODS AND COMPOSITIONS FOR IMPROVING ENGINEERED MICROBES THAT FIX NITROGEN."
+      ],
+      "abstract": "Se proporcionan m\u00e9todos y sistemas para generar y utilizar una composici\u00f3n bacteriana que comprende al menos una cepa bacteriana gen\u00e9ticamente modificada que fija nitr\u00f3geno atmosf\u00e9rico en un sistema agr\u00edcola que ha sido fertilizado con m\u00e1s de 20 libras de nitr\u00f3gneo por acre.",
+      "publicationNumber": "MX2020004343",
+      "publicationDate": "2021-01-08",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "TAMSIR ALVIN",
+        "BLOCH SARAH",
+        "HIGGINGS DOUGLAS"
+      ],
+      "applicationDate": "2018-10-23",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 15.51279
+    },
+    {
+      "id": "EP-3959229-A1",
+      "title": [
+        "GENE TARGETS FOR NITROGEN FIXATION TARGETING FOR IMPROVING PLANT TRAITS"
+      ],
+      "abstract": "A genetically engineered bacterium with a modification in one or more genes selected from: NAC, ptsH, iaaA, gltA, pga, sdiA, fimA1, fimA2, fimA3, fimA4, wzxE, bolA, iscR, fhuF, sodA, sodB, sodC, FNR, arcA, arcB, rpoS, sbnA, treA, treB, phoP, phoQ, yjjPB, ychM, dauA, actP, yusV1, yieL1, yieL2, yieL3, yieL4, pgaB, rafA, melA, uidA, manA, abfA, abnA, lacZ, and yusV2 is disclosed. Methods of use of the genetically engineered bacterium to provide fixed nitrogen to plants, and compositions including the bacterium are also provided.",
+      "publicationNumber": "EP3959229",
+      "publicationDate": "2022-03-02",
+      "assignee": [
+        "Pivot Bio, Inc."
+      ],
+      "inventors": [
+        "Karsten TEMME",
+        "Alvin TAMSIR",
+        "Sarah BLOCH",
+        "Neal SHAH",
+        "JENNY JOHNSON",
+        "Bilge Ozaydin ESKIYENENTURK"
+      ],
+      "applicationDate": "2020-04-24",
+      "claimsCount": 40,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology"
+      ],
+      "score": 15.51279
+    },
+    {
+      "id": "EP-3874022-A4",
+      "title": [
+        "BIOFILM COMPOSITIONS WITH IMPROVED STABILITY FOR NITROGEN FIXING MICROBIAL PRODUCTS"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP3874022",
+      "publicationDate": "2022-11-16",
+      "assignee": [
+        "Pivot Bio, Inc."
+      ],
+      "inventors": [
+        "Farzaneh REZAEI",
+        "Shayin GOTTLIEB"
+      ],
+      "applicationDate": "2019-11-01",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 15.51279
+    },
+    {
+      "id": "EP-3874022-A1",
+      "title": [
+        "BIOFILM COMPOSITIONS WITH IMPROVED STABILITY FOR NITROGEN FIXING MICROBIAL PRODUCTS"
+      ],
+      "abstract": "The present disclosure provides the integration of exogenous microbial biofilms to confer increased stability and viability for an extended shelf life of desired microbes (e.g., bacteria), as compared to those microbes in the absence of the exogenous microbial biofilms. The microbes include transgenic microbes, non-transgenic microbes, and non-intergeneric remodeled microbes. The utilization of the taught microbial products will enable a significant expansion of the typical shelf life of microbial compositions. The microbes comprising exogenous biofilms taught herein are able to be combined with other agriculturally beneficial compositions.",
+      "publicationNumber": "EP3874022",
+      "publicationDate": "2021-09-08",
+      "assignee": [
+        "Pivot Bio, Inc."
+      ],
+      "inventors": [
+        "Farzaneh REZAEI",
+        "Shayin GOTTLIEB"
+      ],
+      "applicationDate": "2019-11-01",
+      "claimsCount": 92,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 15.51279
+    },
+    {
+      "id": "EP-3814302-A4",
+      "title": [
+        "AGRICULTURAL COMPOSITIONS COMPRISING REMODELED NITROGEN FIXING MICROBES"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP3814302",
+      "publicationDate": "2022-06-29",
+      "assignee": [
+        "Pivot Bio, Inc."
+      ],
+      "inventors": [
+        "Mark REISINGER",
+        "ERNEST SANDERS",
+        "Richard BROGLIE",
+        "Karsten TEMME"
+      ],
+      "applicationDate": "2019-06-26",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology"
+      ],
+      "score": 15.51279
+    },
+    {
+      "id": "EP-3814302-A2",
+      "title": [
+        "AGRICULTURAL COMPOSITIONS COMPRISING REMODELED NITROGEN FIXING MICROBES"
+      ],
+      "abstract": "The present disclosure provides non-intergeneric remodeled microbes that are able to fix atmostpheric nitrogen and deliver such to plants in a targeted, efficient, and environmentally sustainable manner. The utilization of the taught microbial products will enable farmers to realize more productive and predictable crop yields without the nutrient degradation, leaching, or toxic runoff associated with traditional synthetically derived nitrogen fertilizer. The remodeled microbes taught herein are able to be combined with leading agricultural chemistry and elite germplasm. Furthermore, the disclosure provides seed treatments comprising remodeled microbes.",
+      "publicationNumber": "EP3814302",
+      "publicationDate": "2021-05-05",
+      "assignee": [
+        "Pivot Bio, Inc."
+      ],
+      "inventors": [
+        "Mark REISINGER",
+        "ERNEST SANDERS",
+        "Richard BROGLIE",
+        "Karsten TEMME"
+      ],
+      "applicationDate": "2019-06-26",
+      "claimsCount": 46,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology"
+      ],
+      "score": 15.51279
+    },
+    {
+      "id": "EP-3701040-A4",
+      "title": [
+        "METHODS AND COMPOSITIONS FOR IMPROVING ENGINEERED MICROBES THAT FIX NITROGEN"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP3701040",
+      "publicationDate": "2021-08-25",
+      "assignee": [
+        "Pivot Bio, Inc."
+      ],
+      "inventors": [
+        "DOUGLAS HIGGINS",
+        "Alvin TAMSIR",
+        "Sarah BLOCH"
+      ],
+      "applicationDate": "2018-10-23",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 15.51279
+    },
+    {
+      "id": "EP-3701040-A2",
+      "title": [
+        "METHODS AND COMPOSITIONS FOR IMPROVING ENGINEERED MICROBES THAT FIX NITROGEN"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP3701040",
+      "publicationDate": "2020-09-02",
+      "assignee": [
+        "Pivot Bio, Inc."
+      ],
+      "inventors": [
+        "DOUGLAS HIGGINS",
+        "Alvin TAMSIR",
+        "Sarah BLOCH"
+      ],
+      "applicationDate": "2018-10-23",
+      "claimsCount": 80,
+      "independentClaimsCount": 7,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 15.51279
+    },
+    {
+      "id": "BR-112021020165-A2",
+      "title": [
+        "Alvos g\u00eanicos para fixa\u00e7\u00e3o direcionada de nitrog\u00eanio para melhorar tra\u00e7os de planta"
+      ],
+      "abstract": "alvos g\u00eanicos para fixa\u00e7\u00e3o direcionada de nitrog\u00eanio para melhorar tra\u00e7os de planta. a presente inven\u00e7\u00e3o refere-se a uma bact\u00e9ria geneticamente manipulada com uma modifica\u00e7\u00e3o em um ou mais genes selecionados a partir de: nac, ptsh, iaaa, glta, pga, sdia, fima1, fima2, fima3, fima4, wzxe, bola, iscr, fhuf, soda, sodb, sodc, fnr, arca, arcb, rpos, sbna, trea, treb, phop, phoq, yjjpb, ychm, daua, actp, yusv1, yiel1, yiel2, yiel3, yiel4, pgab, rafa, mela, uida, mana, abfa, abna, lacz e yusv2. tamb\u00e9m s\u00e3o fornecidos m\u00e9todos de uso da bact\u00e9ria geneticamente manipulada para fornecer nitrog\u00eanio fixo \u00e0s plantas e composi\u00e7\u00f5es incluindo a bact\u00e9ria.",
+      "publicationNumber": "BR112021020165",
+      "publicationDate": "2021-12-21",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "TAMSIR ALVIN",
+        "BILGE OZAYDIN ESKIYENENTURK",
+        "JOHNSON JENNY",
+        "TEMME KARSTEN",
+        "SHAH NEAL",
+        "BLOCH SARAH"
+      ],
+      "applicationDate": "2020-04-24",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology"
+      ],
+      "score": 15.51279
+    },
+    {
+      "id": "BR-112020026771-A2",
+      "title": [
+        "COMPOSI\u00c7\u00d5ES AGR\u00cdCOLAS QUE COMPREENDEM MICR\u00d3BIOS DE FIXA\u00c7\u00c3O DE NITROG\u00caNIO REMODELADOS"
+      ],
+      "abstract": "A presente revela\u00e7\u00e3o fornece micr\u00f3bios n\u00e3o intergen\u00e9ricos remodelados que s\u00e3o capazes de fixar nitrog\u00eanio atmosf\u00e9rico e liber\u00e1-lo \u00e0s plantas de uma forma direcionada, eficiente e ambientalmente sustent\u00e1vel. A utiliza\u00e7\u00e3o dos produtos microbianos ensinados permitir\u00e1 que os fazendeiros obtenham rendimentos de colheitas mais produtivos e previs\u00edveis sem a degrada\u00e7\u00e3o de nutrientes, lixivia\u00e7\u00e3o ou escoamento t\u00f3xico associados aos fertilizantes derivados sinteticamente de nitrog\u00eanio tradicionais. Os micr\u00f3bios remodelados ensinados nesse relat\u00f3rio descritivo s\u00e3o capazes de serem combinados com qu\u00edmica agr\u00edcola de ponta e germoplasma de elite. Al\u00e9m disso, a revela\u00e7\u00e3o fornece tratamentos de sementes que compreendem micr\u00f3bios remodelados.",
+      "publicationNumber": "BR112020026771",
+      "publicationDate": "2021-03-30",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "MARK REISINGER",
+        "ERNEST SANDERS",
+        "RICHARD BROGLIE",
+        "Karsten Temme"
+      ],
+      "applicationDate": "2019-06-26",
+      "claimsCount": 23,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology"
+      ],
+      "score": 15.51279
+    },
+    {
+      "id": "BR-112020008035-A2",
+      "title": [
+        "m\u00e9todos e composi\u00e7\u00f5es para aprimorar micr\u00f3bios geneticamente modificados que fixam nitrog\u00eanio"
+      ],
+      "abstract": "M\u00e9todos e sistemas s\u00e3o fornecidos para gerar e utilizar uma composi\u00e7\u00e3o bacteriana que compreende pelo menos uma cepa bacteriana geneticamente modificada que fixa nitrog\u00eanio atmosf\u00e9rico em um sistema agr\u00edcola que tenha sido fertilizado com mais de 9,07 kg (20 libras) de nitrog\u00eanio por acre.",
+      "publicationNumber": "BR112020008035",
+      "publicationDate": "2020-10-27",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "Alvin Tamsir",
+        "Sarah BLOCH",
+        "Douglas Higgins"
+      ],
+      "applicationDate": "2018-10-23",
+      "claimsCount": 80,
+      "independentClaimsCount": 13,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 15.51279
+    },
+    {
+      "id": "AU-2025205502-A1",
+      "title": [
+        "Methods and compositions for improving engineered microbes that fix nitrogen"
+      ],
+      "abstract": "#$%^&*AU2025205502A120250807.pdf##### Abstract Methods and systems are provided for generating and utilizing a bacterial composition that comprises at least one genetically engineered bacterial strain that fixes atmospheric nitrogen in an agricultural system that has been fertilized with more than 20 lbs of Nitrogen per acre. Abstract Methods and systems are provided for generating and utilizing a bacterial composition that comprises at least one genetically engineered bacterial strain that fixes atmospheric nitrogen in an agricultural system that has been fertilized with more than 20 lbs of Nitrogen per acre.",
+      "publicationNumber": "AU2025205502",
+      "publicationDate": "2025-08-07",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "Sarah BLOCH",
+        "DOUGLAS HIGGINS",
+        "Alvin TAMSIR"
+      ],
+      "applicationDate": "2025-07-16",
+      "claimsCount": 29,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 15.51279
+    },
+    {
+      "id": "AU-2025202026-A1",
+      "title": [
+        "Agricultural compositions comprising remodeled nitrogen fixing microbes"
+      ],
+      "abstract": "The present disclosure provides non-intergeneric remodeled microbes that are able to fix atmostpheric nitrogen, wherein wherein each member of the plurality of non-intergeneric remodeled bacteria comprises at least one genetic variation introduced into at least one gene, or non-coding polynucleotide, of a nitrogen fixation or assimilation genetic regulatory network that results in one or more of: increased expression or activity of NifA or glutaminase; decreased expression or activity of NifL, NtrB, glutamine synthetase, GlnB, GInK, DraT, AmtB; decreased adenylyl-removing activity of GlnE; or decreased uridylyl-removing activity of GInD.",
+      "publicationNumber": "AU2025202026",
+      "publicationDate": "2025-04-10",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "Richard BROGLIE",
+        "Mark REISINGER",
+        "ERNEST SANDERS",
+        "Karsten TEMME"
+      ],
+      "applicationDate": "2025-03-20",
+      "claimsCount": 39,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology"
+      ],
+      "score": 15.51279
+    },
+    {
+      "id": "AU-2020261427-A1",
+      "title": [
+        "Gene targets for nitrogen fixation targeting for improving plant traits"
+      ],
+      "abstract": "A genetically engineered bacterium with a modification in one or more genes selected from: NAC, ptsH, iaaA, gltA, pga, sdiA, fimA1, fimA2, fimA3, fimA4, wzxE, bolA, iscR, fhuF, sodA, sodB, sodC, FNR, arcA, arcB, rpoS, sbnA, treA, treB, phoP, phoQ, yjjPB, ychM, dauA, actP, yusV1, yieL1, yieL2, yieL3, yieL4, pgaB, rafA, melA, uidA, manA, abfA, abnA, lacZ, and yusV2 is disclosed. Methods of use of the genetically engineered bacterium to provide fixed nitrogen to plants, and compositions including the bacterium are also provided.",
+      "publicationNumber": "AU2020261427",
+      "publicationDate": "2021-11-11",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "Sarah BLOCH",
+        "Bilge Ozaydin ESKIYENENTURK",
+        "JENNY JOHNSON",
+        "Neal SHAH",
+        "Alvin TAMSIR",
+        "Karsten TEMME"
+      ],
+      "applicationDate": "2020-04-24",
+      "claimsCount": 40,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology"
+      ],
+      "score": 15.51279
+    },
+    {
+      "id": "AU-2019291824-A1",
+      "title": [
+        "Agricultural compositions comprising remodeled nitrogen fixing microbes"
+      ],
+      "abstract": "The present disclosure provides non-intergeneric remodeled microbes that are able to fix atmostpheric nitrogen and deliver such to plants in a targeted, efficient, and environmentally sustainable manner. The utilization of the taught microbial products will enable farmers to realize more productive and predictable crop yields without the nutrient degradation, leaching, or toxic runoff associated with traditional synthetically derived nitrogen fertilizer. The remodeled microbes taught herein are able to be combined with leading agricultural chemistry and elite germplasm. Furthermore, the disclosure provides seed treatments comprising remodeled microbes.",
+      "publicationNumber": "AU2019291824",
+      "publicationDate": "2021-01-14",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "Richard BROGLIE",
+        "Mark REISINGER",
+        "ERNEST SANDERS",
+        "Karsten TEMME"
+      ],
+      "applicationDate": "2019-06-26",
+      "claimsCount": 46,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology"
+      ],
+      "score": 15.51279
+    },
+    {
+      "id": "AU-2018354221-B2",
+      "title": [
+        "Methods and compositions for improving engineered microbes that fix nitrogen"
+      ],
+      "abstract": "",
+      "publicationNumber": "AU2018354221",
+      "publicationDate": "2025-04-17",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "Sarah BLOCH",
+        "DOUGLAS HIGGINS",
+        "Alvin TAMSIR"
+      ],
+      "applicationDate": "2018-10-23",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 15.51279
+    },
+    {
+      "id": "AU-2018354221-A1",
+      "title": [
+        "Methods and compositions for improving engineered microbes that fix nitrogen"
+      ],
+      "abstract": "",
+      "publicationNumber": "AU2018354221",
+      "publicationDate": "2020-05-14",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "Sarah BLOCH",
+        "DOUGLAS HIGGINS",
+        "Alvin TAMSIR"
+      ],
+      "applicationDate": "2018-10-23",
+      "claimsCount": 80,
+      "independentClaimsCount": 7,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 15.51279
+    },
+    {
+      "id": "AR-126125-A1",
+      "title": [
+        "COMPOSICIONES EXTENDEDORAS Y USO DE ESTAS PARA AUMENTAR LA ADHERENCIA Y LA ESTABILIDAD DE LOS MICROBIOS EN LAS SEMILLAS"
+      ],
+      "abstract": "La presente descripci\u00f3n proporciona composiciones extendedoras que prolongan o mantienen la viabilidad de los microbios en la semilla, aumentando as\u00ed la estabilidad y el per\u00edodo de validez de los microbios en la semilla recubierta, incluso cuando la semilla ha sido tratada previamente con otros productos qu\u00edmicos y/o biol\u00f3gicos (agentes potenciadores de plantas). Las composiciones descritas en la presente estimulan adem\u00e1s la adherencia de los microbios a la semilla durante el proceso de recubrimiento de semillas. La descripci\u00f3n menciona adem\u00e1s kits de recubrimiento de semillas, m\u00e9todos de uso y semillas y material de propagaci\u00f3n de plantas producido a partir de estas que se recubren con las composiciones descritas en la presente. Una composici\u00f3n que comprende: a) un alcohol de az\u00facar o az\u00facar, entre alrededor del 5% y alrededor del 30% (p/v); b) un amortiguador qu\u00edmico, en donde el amortiguador mantiene la composici\u00f3n a un pH neutro; y c) un pol\u00edmero soluble en agua, entre alrededor del 10% y alrededor del 40% (p/v).",
+      "publicationNumber": "AR126125",
+      "publicationDate": "2023-09-13",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "RICHARD BELCHER",
+        "Farzaneh REZAEI",
+        "SCOTT STROBEL"
+      ],
+      "applicationDate": "2022-06-10",
+      "claimsCount": 179,
+      "independentClaimsCount": 11,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology"
+      ],
+      "score": 15.51279
+    },
+    {
+      "id": "AR-118793-A1",
+      "title": [
+        "DIANAS GEN\u00c9TICAS PARA DIRIGIR LA FIJACI\u00d3N DE NITR\u00d3GENO PARA MEJORAR LAS CARACTER\u00cdSTICAS DE PLANTAS"
+      ],
+      "abstract": "Se divulga una bacteria modificada gen\u00e9ticamente con una modificaci\u00f3n en uno o m\u00e1s genes seleccionados de: NAC, ptsH, iaaA, gltA, pga, sdiA, fimA1, fimA2, fimA3, fimA4, wzxE, bolA, iscR, fhuF, sodA, sodB, sodC, FNR, arcA, arcB, rpoS, sbnA, treA, treB, phoP, phoQ, yjjPB, ychM, dauA, actP, yusV1, yieL1, yieL2, yieL3, yieL4, pgaB, rafA, melA, uidA, manA, abfA, abnA, lacZ, e yusV2. Tambi\u00e9n se proporcionan m\u00e9todos de uso de la bacteria modificada gen\u00e9ticamente para proporcionar nitr\u00f3geno fijado a plantas, y composiciones que incluyen la bacteria.",
+      "publicationNumber": "AR118793",
+      "publicationDate": "2021-11-03",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "Bilge OZAYDIN",
+        "JENNY JOHNSON",
+        "Neal SHAH",
+        "Sarah BLOCH",
+        "Alvin TAMSIR",
+        "Karsten TEMME"
+      ],
+      "applicationDate": "2020-04-24",
+      "claimsCount": 15,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology"
+      ],
+      "score": 15.51279
+    },
+    {
+      "id": "AR-116964-A1",
+      "title": [
+        "COMPOSICIONES DE BIOPEL\u00cdCULAS CON ESTABILIDAD MEJORADA PARA FIJACI\u00d3N DEL NITR\u00d3GENO EN PRODUCTOS MICROBIANOS"
+      ],
+      "abstract": "La presente divulgaci\u00f3n proporciona la integraci\u00f3n de biopel\u00edculas microbianas ex\u00f3genas para otorgar estabilidad mejorada y viabilidad a la vida \u00fatil extendida de microbios deseados, p. ej., bacterias, en comparaci\u00f3n con aquellos microbios sin biopel\u00edculas microbianas ex\u00f3genas. Los microbios incluyen microbios transg\u00e9nicos, microbios no transg\u00e9nicos, y microbios no-intergen\u00e9ricos transformados. La utilizaci\u00f3n de los productos microbianos presentados permitir\u00e1 una expansi\u00f3n significativa de la vida \u00fatil t\u00edpica de las composiciones microbianas. Los microbios que comprenden biopel\u00edculas ex\u00f3genas como los que se presentan en esta divulgaci\u00f3n pueden combinarse con otras composiciones beneficiosas para la agricultura.",
+      "publicationNumber": "AR116964",
+      "publicationDate": "2021-06-30",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "Shayin GOTTLIEB",
+        "Farzaneh REZAEI"
+      ],
+      "applicationDate": "2019-11-01",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology"
+      ],
+      "score": 15.51279
+    },
+    {
+      "id": "AR-115638-A1",
+      "title": [
+        "COMPOSICIONES AGR\u00cdCOLAS QUE COMPRENDEN MICROBIOS FIJADORES DE NITR\u00d3GENO REFORMADOS"
+      ],
+      "abstract": "Microbios reformados no intergen\u00e9ricos que son capaces de fijar el nitr\u00f3geno atmosf\u00e9rico y entregarlo a plantas de manera direccionada, eficiente y sustentable para el medio ambiente. La utilizaci\u00f3n de los productos microbianos de la presente permitir\u00e1 los productores obtener rendimientos m\u00e1s productivos y predecibles sin la degradaci\u00f3n de nutrientes, el lixiviado, ni el escurrimiento de t\u00f3xicos asociados con los fertilizantes derivados sint\u00e9ticamente del nitr\u00f3geno. Los microbios reformados de la presente se puede combinar con agroqu\u00edmicos l\u00edderes y germoplasma elite. Adem\u00e1s, se proveen tratamientos de semillas que comprenden los microbios reformados.",
+      "publicationNumber": "AR115638",
+      "publicationDate": "2021-02-10",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "Karsten TEMME",
+        "Richard BROGLIE",
+        "ERNEST SANDERS",
+        "Mark REISINGER"
+      ],
+      "applicationDate": "2019-06-27",
+      "claimsCount": 46,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Biotechnology"
+      ],
+      "score": 15.51279
+    },
+    {
+      "id": "WO-2025155518-A1",
+      "title": [
+        "HOST CELLS FOR ENHANCED PLANT GROWTH"
+      ],
+      "abstract": "Provided herein are novel non-naturally occurring bacteria that exhibit enhanced nitrogen fixation activity. Such non-naturally occurring bacteria are useful in providing plants (e.g., food crops) with useable nitrogen nutrients and, therefore, enhancing plant growth and development.",
+      "publicationNumber": "WO2025155518",
+      "publicationDate": "2025-07-24",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "Bilge Ozaydin ESKIYENENTURK",
+        "NEAL SHAW",
+        "Rosemary CLARK"
+      ],
+      "applicationDate": "2025-01-14",
+      "claimsCount": 16,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology"
+      ],
+      "score": 15.44218
+    },
+    {
+      "id": "WO-2019032926-A1",
+      "title": [
+        "METHODS AND COMPOSITIONS FOR IMPROVING ENGINEERED MICROBES"
+      ],
+      "abstract": "The present disclosure provides a bacterial composition, comprising: at least one genetically engineered bacterial strain that fixes atmospheric nitrogen in an agricultural system, wherein the bacterial strain comprises a modification in or one or more genes selected from the group consisting of bcsll, bcslll, yjbE, fhaB, pehA, glgA, otsB, treZ, and cysZ. The present disclosure further provides a bacterial composition and method for increasing the colonization of a plant growth promoting bacterial strain on a plant, wherein the plant growth promoting bacterial strain has been remodeled to increase colonization of said plant, In a further aspect, the present disclosure provides methods of increasing nitrogen or nitrogen fixation available to a plant.",
+      "publicationNumber": "WO2019032926",
+      "publicationDate": "2019-02-14",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "Sarah BLOCH",
+        "Karsten TEMME",
+        "Alvin TAMSIR"
+      ],
+      "applicationDate": "2018-08-09",
+      "claimsCount": 22,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology"
+      ],
+      "score": 15.44218
+    },
+    {
+      "id": "MX-2020001599-A",
+      "title": [
+        "METHODS AND COMPOSITIONS FOR IMPROVING ENGINEERED MICROBES."
+      ],
+      "abstract": "The present disclosure provides a bacterial composition, comprising: at least one genetically engineered bacterial strain that fixes atmospheric nitrogen in an agricultural system, wherein the bacterial strain comprises a modification in or one or more genes selected from the group consisting of bcsll, bcslll, yjbE, fhaB, pehA, glgA, otsB, treZ, and cysZ. The present disclosure further provides a bacterial composition and method for increasing the colonization of a plant growth promoting bacterial strain on a plant, wherein the plant growth promoting bacterial strain has been remodeled to increase colonization of said plant, In a further aspect, the present disclosure provides methods of increasing nitrogen or nitrogen fixation available to a plant.",
+      "publicationNumber": "MX2020001599",
+      "publicationDate": "2020-08-17",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "TEMME KARSTEN",
+        "TAMSIR ALVIN",
+        "BLOCH SARAH"
+      ],
+      "applicationDate": "2018-08-09",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology"
+      ],
+      "score": 15.44218
+    },
+    {
+      "id": "EP-3665141-A4",
+      "title": [
+        "METHODS AND COMPOSITIONS FOR IMPROVING ENGINEERED MICROBES"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP3665141",
+      "publicationDate": "2021-08-25",
+      "assignee": [
+        "Pivot Bio, Inc."
+      ],
+      "inventors": [
+        "Sarah BLOCH",
+        "Karsten TEMME",
+        "Alvin TAMSIR"
+      ],
+      "applicationDate": "2018-08-09",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology"
+      ],
+      "score": 15.44218
+    },
+    {
+      "id": "EP-3665141-A1",
+      "title": [
+        "METHODS AND COMPOSITIONS FOR IMPROVING ENGINEERED MICROBES"
+      ],
+      "abstract": "The present disclosure provides a bacterial composition, comprising: at least one genetically engineered bacterial strain that fixes atmospheric nitrogen in an agricultural system, wherein the bacterial strain comprises a modification in or one or more genes selected from the group consisting of bcsll, bcslll, yjbE, fhaB, pehA, glgA, otsB, treZ, and cysZ. The present disclosure further provides a bacterial composition and method for increasing the colonization of a plant growth promoting bacterial strain on a plant, wherein the plant growth promoting bacterial strain has been remodeled to increase colonization of said plant, In a further aspect, the present disclosure provides methods of increasing nitrogen or nitrogen fixation available to a plant.",
+      "publicationNumber": "EP3665141",
+      "publicationDate": "2020-06-17",
+      "assignee": [
+        "Pivot Bio, Inc."
+      ],
+      "inventors": [
+        "Sarah BLOCH",
+        "Karsten TEMME",
+        "Alvin TAMSIR"
+      ],
+      "applicationDate": "2018-08-09",
+      "claimsCount": 22,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology"
+      ],
+      "score": 15.44218
+    },
+    {
+      "id": "BR-112020002654-A2",
+      "title": [
+        "m\u00e9todos e composi\u00e7\u00f5es para melhorar micr\u00f3bios modificados"
+      ],
+      "abstract": "A presente descri\u00e7\u00e3o refere-se a composi\u00e7\u00e3o bacteriana que compreende: pelo menos uma cepa bacteriana geneticamente modificada que fixa nitrog\u00eanio atmosf\u00e9rico em um sistema agr\u00edcola, em que a cepa bacteriana compreende uma modifica\u00e7\u00e3o em um ou mais genes selecionados a partir do grupo constitu\u00eddo por bcsll, bcsIII, yjbE, fhaB, pehA, glgA, otsB, treZ e cysZ. A presente descri\u00e7\u00e3o refere-se ainda a uma composi\u00e7\u00e3o bacteriana e m\u00e9todo para aumentar a coloniza\u00e7\u00e3o de uma cepa bacteriana promotora de crescimento vegetal em uma planta, em que a cepa bacteriana promotora de crescimento vegetal em uma planta tem sido remodelada para aumentar a coloniza\u00e7\u00e3o da dita planta. Em um aspecto ainda, a presente descri\u00e7\u00e3o refere-se a m\u00e9todos de aumentar nitrog\u00eanio e fixa\u00e7\u00e3o de nitrog\u00eanio adequado a uma planta.",
+      "publicationNumber": "BR112020002654",
+      "publicationDate": "2020-08-18",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "Sarah BLOCH",
+        "Karsten Temme",
+        "Alvin Tamsir"
+      ],
+      "applicationDate": "2018-08-09",
+      "claimsCount": 22,
+      "independentClaimsCount": 9,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology"
+      ],
+      "score": 15.44218
+    },
+    {
+      "id": "AU-2018313949-A1",
+      "title": [
+        "Methods and compositions for improving engineered microbes"
+      ],
+      "abstract": "The present disclosure provides a bacterial composition, comprising: at least one genetically engineered bacterial strain that fixes atmospheric nitrogen in an agricultural system, wherein the bacterial strain comprises a modification in or one or more genes selected from the group consisting of bcsll, bcslll, yjbE, fhaB, pehA, glgA, otsB, treZ, and cysZ. The present disclosure further provides a bacterial composition and method for increasing the colonization of a plant growth promoting bacterial strain on a plant, wherein the plant growth promoting bacterial strain has been remodeled to increase colonization of said plant, In a further aspect, the present disclosure provides methods of increasing nitrogen or nitrogen fixation available to a plant.",
+      "publicationNumber": "AU2018313949",
+      "publicationDate": "2020-02-27",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "Sarah BLOCH",
+        "Alvin TAMSIR",
+        "Karsten TEMME"
+      ],
+      "applicationDate": "2018-08-09",
+      "claimsCount": 22,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology"
+      ],
+      "score": 15.44218
+    },
+    {
+      "id": "WO-2023154805-A3",
+      "title": [
+        "DRY FORMULATED NITROGEN-FIXING MICROBE PACKAGED IN WATER-SOLUBLE FILM FOR RAPID AND SAFE DISPERSAL IN AQUEOUS MIXTURES"
+      ],
+      "abstract": "The present disclosure provides water-soluble film packages composed of a water-soluble film, where the packages include: one or more compartment(s) including dehydrated microbes. The disclosure further provides methods of production of the water-soluble film packages, and methods of application thereof. The water-soluble packages of the disclosure enable convenient and accurate application of microbial dry powders to plants, promote uniform dispersion of powdered microbes, enhance microbial shelf life, and enhance the survival of microbes on seed, while being envionrmentally sustainable.",
+      "publicationNumber": "WO2023154805",
+      "publicationDate": "2023-09-14",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "Scott Alan STROBEL",
+        "Farzaneh REZAEI",
+        "ERNEST SANDERS",
+        "Richard BROGLIE"
+      ],
+      "applicationDate": "2023-02-09",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology",
+        "Other special machines"
+      ],
+      "score": 15.3857565
+    },
+    {
+      "id": "WO-2023154805-A2",
+      "title": [
+        "DRY FORMULATED NITROGEN-FIXING MICROBE PACKAGED IN WATER-SOLUBLE FILM FOR RAPID AND SAFE DISPERSAL IN AQUEOUS MIXTURES"
+      ],
+      "abstract": "The present disclosure provides water-soluble film packages composed of a water-soluble film, where the packages include: one or more compartment(s) including dehydrated microbes. The disclosure further provides methods of production of the water-soluble film packages, and methods of application thereof. The water-soluble packages of the disclosure enable convenient and accurate application of microbial dry powders to plants, promote uniform dispersion of powdered microbes, enhance microbial shelf life, and enhance the survival of microbes on seed, while being envionrmentally sustainable.",
+      "publicationNumber": "WO2023154805",
+      "publicationDate": "2023-08-17",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "Scott Alan STROBEL",
+        "Farzaneh REZAEI",
+        "ERNEST SANDERS",
+        "Richard BROGLIE"
+      ],
+      "applicationDate": "2023-02-09",
+      "claimsCount": 134,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology",
+        "Other special machines"
+      ],
+      "score": 15.3857565
+    },
+    {
+      "id": "WO-2021113352-A1",
+      "title": [
+        "SYSTEM TO DELIVER A SOLUTION WITH A BIOLOGICAL PRODUCT IN A PLANTER ASSEMBLY"
+      ],
+      "abstract": "Systems for delivering biological products are provided. The biological products may be delivered, for example, to a field. The systems may include a container (110, 210, 310) for holding the biological product. The systems may also include a fluid flow unit (120, 220, 320) configured to subject the biological product to flow from within the container along a fluid flow path (115, 215, 315). Methods of delivering biological products are also provided.",
+      "publicationNumber": "WO2021113352",
+      "publicationDate": "2021-06-10",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "Dennis HAPES",
+        "Mark REISINGER",
+        "Adam HOLM"
+      ],
+      "applicationDate": "2020-12-02",
+      "claimsCount": 117,
+      "independentClaimsCount": 7,
+      "technologyFields": [
+        "Other special machines"
+      ],
+      "score": 15.3857565
+    },
+    {
+      "id": "WO-2020219893-A3",
+      "title": [
+        "HIGH-THROUGHPUT METHODS FOR ISOLATING AND CHARACTERIZING AMMONIUM-EXCRETING MUTANT LIBRARIES GENERATED BY CHEMICAL MUTAGENESIS"
+      ],
+      "abstract": "The present disclosure provides high-throughput methods for rapidly mutagenizing, screening, and targeting candidate microbes that are capable of fixing atmospheric nitrogen in the presence of exogenous nitrogen. The methods utilize a microbial biosensor capable of detecting the presence/absence of ammonium and/or glutamine in a composition and signaling with a fluorescent reporter. The present disclosure further utilizes rapid visual detection assays capable of processing thousands of candidate microbes. The disclosed methods and biosensor can be used to identify mutant bacteria with improved nitrogen fixing capabilities. Mutant bacteria with improved nitrogen fixing capabilities are also disclosed, as well as methods of utilizing these novel bacteria to provide fixed nitrogen to a plant.",
+      "publicationNumber": "WO2020219893",
+      "publicationDate": "2020-12-24",
+      "assignee": [
+        "PIVOT BIO, INC."
+      ],
+      "inventors": [
+        "Min-Hyung RYU",
+        "Bilge Ozaydin ESKIYENENTURK",
+        "Alvin TAMSIR"
+      ],
+      "applicationDate": "2020-04-24",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Basic materials chemistry",
+        "Biotechnology"
+      ],
+      "score": 15.3857565
+    }
+  ]
+}

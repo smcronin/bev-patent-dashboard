@@ -1,0 +1,11 @@
+{
+  "search_id": "search_20260114_121942",
+  "timestamp": "2026-01-14T12:19:42.029637",
+  "query_type": "ai_search",
+  "user_prompt": "PA=(Prolific Machines) AND PD>2015",
+  "minesoft_query": "PA=(Prolific Machines) AND PD>2015",
+  "results_count": 32,
+  "directory": "2026-01-14_prolific_machines_and_2015",
+  "execution_time_ms": 986.8173599243164,
+  "api_endpoint": "query"
+}

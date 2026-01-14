@@ -1,0 +1,2935 @@
+{
+  "count": 551,
+  "numFound": 551,
+  "docs": [
+    {
+      "id": "US-20200006796-A1",
+      "title": [
+        "AQUEOUS POLYSULFIDE-BASED ELECTROCHEMICAL CELL"
+      ],
+      "abstract": "An electrochemical cell and battery system including cells, each cell including a catholyte, an anolyte, and a separator disposed between the catholyte and anolyte and that is permeable to the at least one ionic species (for example, a metal cation or the hydroxide ion). The catholyte solution includes a ferricyanide, permanganate, manganate, sulfur, and/or polysulfide compound, and the anolyte includes a sulfide and/or polysulfide compound. These electrochemical couples may be embodied in various physical architectures, including static (non-flowing) architectures or in flow battery (flowing) architectures.",
+      "publicationNumber": "US20200006796",
+      "publicationDate": "2020-01-02",
+      "assignee": [
+        "c/o FORM ENERGY INC."
+      ],
+      "inventors": [
+        "Liang Su",
+        "Wei Xie",
+        "Yet-Ming Chiang",
+        "William Henry Woodford",
+        "Lucas Cohen",
+        "Jessa Silver",
+        "Katelyn Ripley",
+        "Eric Weber",
+        "Marco Ferrara",
+        "Mateo Cristian Jaramillo",
+        "Theodore Alan Wiley"
+      ],
+      "applicationDate": "2019-06-28",
+      "claimsCount": 46,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 12.756957
+    },
+    {
+      "id": "WO-2025090823-A1",
+      "title": [
+        "ADDITIVE FOR IRON-AIR BATTERIES"
+      ],
+      "abstract": "An alkaline electrolyte including: an alkaline solution having a total hydroxide concentration of greater than 1 molar, based on a total volume of the alkaline electrolyte; and an additive including a trivalent element, wherein a concentration of the trivalent element is 1 millimolar to 5 molar, based on a total volume of the alkaline electrolyte, sulfur, and tin.",
+      "publicationNumber": "WO2025090823",
+      "publicationDate": "2025-05-01",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Caitlin BENTLEY",
+        "Olivia TAYLOR",
+        "Annelise THOMPSON",
+        "Zachariah NORMAN",
+        "Cleo KYRIAKIDES",
+        "Sydney GRAY",
+        "KJELL WILLIAM SCHRODER",
+        "MICHAEL GIBSON",
+        "Abigail TAUSSIG"
+      ],
+      "applicationDate": "2024-10-25",
+      "claimsCount": 73,
+      "independentClaimsCount": 8,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.67387
+    },
+    {
+      "id": "WO-2025090274-A1",
+      "title": [
+        "PROCESSING IRON-CONTAINING FEEDSTOCKS USING OXALATE"
+      ],
+      "abstract": "The present disclosure is directed to processing iron-containing feedstocks using oxalic acid to cost-effectively and cleanly transform low-cost iron feedstocks into iron-containing products (e.g., metallic iron and/or iron oxide) of high purity. In general, the methods of production using the systems described herein may include leaching low-purity iron feedstocks using a lixiviant including oxalic acid and an iron-complexing additive. The iron-complexing additive may suppress formation of iron (II) oxalate crystals and iron (III) oxalate crystals as leaching of a low-purity iron feedstock is carried out using oxalic acid, thus improving process kinetics and increasing the amount of iron that goes into solution during the leaching operation and ultimately recovered as a high-purity iron-containing product (e.g., metallic iron and/or iron oxide).",
+      "publicationNumber": "WO2025090274",
+      "publicationDate": "2025-05-01",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Alex LUYIMA",
+        "Joseph Stephen MANSER"
+      ],
+      "applicationDate": "2024-10-04",
+      "claimsCount": 59,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 12.67387
+    },
+    {
+      "id": "WO-2024044269-A1",
+      "title": [
+        "CONSTRUCTION OF BATTERY MODULE AND SYSTEMS INTERFACES FOR METAL-AIR BATTERIES"
+      ],
+      "abstract": "According to one aspect, a power storage system may include an enclosure, and one or more modules disposed in the enclosure. Each of the one or more modules may include a plurality of electrochemical cells electrically coupled to one another, each one of the plurality of electrochemical cells including an oxygen evolution electrode (OEE), an anode, a gas diffusion electrode (GDE), an electrolyte, and a vessel and, within the vessel, the OEE, the anode, and the GDE at least partially immersed in the electrolyte.",
+      "publicationNumber": "WO2024044269",
+      "publicationDate": "2024-02-29",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Angel Ruben RIVERA",
+        "Kalina Chia-shi YANG",
+        "KATHERINE SPRIGGS",
+        "Adrianna RODRIQUEZ",
+        "MADELINE ELLIOTT PARKER",
+        "RYAN HOWE",
+        "Nicholas MCKIBBEN",
+        "GRANT HARRISON FRIESEN",
+        "Jarrod David MILSHTEIN",
+        "Jaime Andres OCAMPO",
+        "Jhalak Joshipura VASAVADA",
+        "Alan SLEDD",
+        "Tuan Minh TRUONG",
+        "ARUNA MOHAN",
+        "Matthew DINITTO"
+      ],
+      "applicationDate": "2023-08-23",
+      "claimsCount": 20,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.67387
+    },
+    {
+      "id": "WO-2023147074-A1",
+      "title": [
+        "BIFACIAL SEALED GAS DIFFUSION ELECTRODE"
+      ],
+      "abstract": "Systems and methods of the various embodiments may provide bifacial sealed gas diffusion electrode (GDE) assemblies. In some embodiments, a bifacial sealed gas diffusion electrode (GDE) assembly includes active electrode layers on two opposing sides of the assembly. Various embodiments may provide architecture and/or sealing methods for GDE assemblies. In various embodiments, the GDE assemblies may be for use in devices. In various embodiments, the devices may be primary or secondary batteries. In various embodiments, these devices may be useful for energy storage. For example, bifacial sealed GDE assemblies of the various embodiments may form cathode electrodes (sometimes called air electrodes) of a battery, such as a metal-air battery.",
+      "publicationNumber": "WO2023147074",
+      "publicationDate": "2023-08-03",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Meghan Marya PATRICK",
+        "Glenn DONAHEY",
+        "Erica Skye TRAINI",
+        "WILLIAM HENRY WOODFORD",
+        "Christopher Thomas REYNOLDS",
+        "Vladimir Sergeyevich TARASOV",
+        "Nicholas MCKIBBEN",
+        "Christopher Evan WOOD",
+        "Kalina YANG"
+      ],
+      "applicationDate": "2023-01-27",
+      "claimsCount": 45,
+      "independentClaimsCount": 7,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 12.67387
+    },
+    {
+      "id": "US-20250137079-A1",
+      "title": [
+        "PROCESSING IRON-CONTAINING FEEDSTOCKS USING OXALATE"
+      ],
+      "abstract": "The present disclosure is directed to processing iron-containing feedstocks using oxalic acid to cost-effectively and cleanly transform low-cost iron feedstocks into iron-containing products (e.g., metallic iron and/or iron oxide) of high purity. In general, the methods of production using the systems described herein may include leaching low-purity iron feedstocks using a lixiviant including oxalic acid and an iron-complexing additive. The iron-complexing additive may suppress formation of iron (II) oxalate crystals and iron (III) oxalate crystals as leaching of a low-purity iron feedstock is carried out using oxalic acid, thus improving process kinetics and increasing the amount of iron that goes into solution during the leaching operation and ultimately recovered as a high-purity iron-containing product (e.g., metallic iron and/or iron oxide).",
+      "publicationNumber": "US20250137079",
+      "publicationDate": "2025-05-01",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Alex LUYIMA",
+        "Joseph Stephen Manser"
+      ],
+      "applicationDate": "2024-10-04",
+      "claimsCount": 20,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Materials, metallurgy"
+      ],
+      "score": 12.67387
+    },
+    {
+      "id": "US-20240072379-A1",
+      "title": [
+        "CONSTRUCTION OF BATTERY MODULE AND SYSTEMS INTERFACES FOR METAL-AIR BATTERIES"
+      ],
+      "abstract": "According to one aspect, a power storage system may include an enclosure, and one or more modules disposed in the enclosure. Each of the one or more modules may include a plurality of electrochemical cells electrically coupled to one another, each one of the plurality of electrochemical cells including an oxygen evolution electrode (OEE), an anode, a gas diffusion electrode (GDE), an electrolyte, and a vessel and, within the vessel, the OEE, the anode, and the GDE at least partially immersed in the electrolyte.",
+      "publicationNumber": "US20240072379",
+      "publicationDate": "2024-02-29",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Angel Ruben RIVERA",
+        "Kalina Chia-Shi YANG",
+        "Katherine Spriggs",
+        "Adrianna RODRIQUEZ",
+        "Madeline Elliott Parker",
+        "Ryan HOWE",
+        "Nicholas McKibben",
+        "Grant Harrison Friesen",
+        "Jarrod David MILSHTEIN",
+        "Jaime Andres Ocampo",
+        "Jhalak Joshipura Vasavada",
+        "Alan SLEDD",
+        "Tuan Minh TRUONG",
+        "Aruna MOHAN",
+        "Matthew DINITTO"
+      ],
+      "applicationDate": "2023-08-23",
+      "claimsCount": 20,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.67387
+    },
+    {
+      "id": "US-20230395904-A1",
+      "title": [
+        "BIFACIAL SEALED GAS DIFFUSION ELECTRODE"
+      ],
+      "abstract": "Systems and methods of the various embodiments may provide bifacial sealed gas diffusion electrode (GDE) assemblies. In some embodiments, a bifacial sealed gas diffusion electrode (GDE) assembly includes active electrode layers on two opposing sides of the assembly. Various embodiments may provide architecture and/or sealing methods for GDE assemblies. In various embodiments, the GDE assemblies may be for use in devices. In various embodiments, the devices may be primary or secondary batteries. In various embodiments, these devices may be useful for energy storage. For example, bifacial sealed GDE assemblies of the various embodiments may form cathode electrodes (sometimes called air electrodes) of a battery, such as a metal-air battery.",
+      "publicationNumber": "US20230395904",
+      "publicationDate": "2023-12-07",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Meghan Marya PATRICK",
+        "Glenn DONAHEY",
+        "Erica Skye TRAINI",
+        "William Henry Woodford",
+        "Christopher Thomas Reynolds",
+        "Vladimir Sergeyevich TARASOV",
+        "Nicholas McKibben",
+        "Christopher Evan WOOD",
+        "Kalina YANG"
+      ],
+      "applicationDate": "2023-01-27",
+      "claimsCount": 20,
+      "independentClaimsCount": 6,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 12.67387
+    },
+    {
+      "id": "MX-2024009092-A",
+      "title": [
+        "BIFACIAL SEALED GAS DIFFUSION ELECTRODE."
+      ],
+      "abstract": "Systems and methods of the various embodiments may provide bifacial sealed gas diffusion electrode (GDE) assemblies. In some embodiments, a bifacial sealed gas diffusion electrode (GDE) assembly includes active electrode layers on two opposing sides of the assembly. Various embodiments may provide architecture and/or sealing methods for GDE assemblies. In various embodiments, the GDE assemblies may be for use in devices. In various embodiments, the devices may be primary or secondary batteries. In various embodiments, these devices may be useful for energy storage. For example, bifacial sealed GDE assemblies of the various embodiments may form cathode electrodes (sometimes called air electrodes) of a battery, such as a metal-air battery.",
+      "publicationNumber": "MX2024009092",
+      "publicationDate": "2024-07-30",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "MCKIBBEN NICHOLAS",
+        "WOODFORD WILLIAM HENRY",
+        "PATRICK MEGHAN MARYA",
+        "DONAHEY GLENN",
+        "TRAINI ERICA SKYE",
+        "REYNOLDS CHRISTOPHER THOMAS",
+        "TARASOV VLADIMIR SERGEYEVICH",
+        "WOOD CHRISTOPHER EVAN",
+        "YANG KALINA"
+      ],
+      "applicationDate": "2023-01-27",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 12.67387
+    },
+    {
+      "id": "EP-4578063-A1",
+      "title": [
+        "CONSTRUCTION OF BATTERY MODULE AND SYSTEMS INTERFACES FOR METAL-AIR BATTERIES"
+      ],
+      "abstract": "According to one aspect, a power storage system may include an enclosure, and one or more modules disposed in the enclosure. Each of the one or more modules may include a plurality of electrochemical cells electrically coupled to one another, each one of the plurality of electrochemical cells including an oxygen evolution electrode (OEE), an anode, a gas diffusion electrode (GDE), an electrolyte, and a vessel and, within the vessel, the OEE, the anode, and the GDE at least partially immersed in the electrolyte.",
+      "publicationNumber": "EP4578063",
+      "publicationDate": "2025-07-02",
+      "assignee": [
+        "Form Energy, Inc."
+      ],
+      "inventors": [
+        "Angel Ruben RIVERA",
+        "Kalina Chia-shi YANG",
+        "KATHERINE SPRIGGS",
+        "Adrianna RODRIQUEZ",
+        "MADELINE ELLIOTT PARKER",
+        "RYAN HOWE",
+        "Nicholas MCKIBBEN",
+        "GRANT HARRISON FRIESEN",
+        "Jarrod David MILSHTEIN",
+        "Jaime Andres OCAMPO",
+        "Jhalak Joshipura VASAVADA",
+        "Alan SLEDD",
+        "Tuan Minh TRUONG",
+        "ARUNA MOHAN",
+        "Matthew DINITTO"
+      ],
+      "applicationDate": "2023-08-23",
+      "claimsCount": 20,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.67387
+    },
+    {
+      "id": "EP-4470051-A1",
+      "title": [
+        "BIFACIAL SEALED GAS DIFFUSION ELECTRODE"
+      ],
+      "abstract": "Systems and methods of the various embodiments may provide bifacial sealed gas diffusion electrode (GDE) assemblies. In some embodiments, a bifacial sealed gas diffusion electrode (GDE) assembly includes active electrode layers on two opposing sides of the assembly. Various embodiments may provide architecture and/or sealing methods for GDE assemblies. In various embodiments, the GDE assemblies may be for use in devices. In various embodiments, the devices may be primary or secondary batteries. In various embodiments, these devices may be useful for energy storage. For example, bifacial sealed GDE assemblies of the various embodiments may form cathode electrodes (sometimes called air electrodes) of a battery, such as a metal-air battery.",
+      "publicationNumber": "EP4470051",
+      "publicationDate": "2024-12-04",
+      "assignee": [
+        "Form Energy, Inc."
+      ],
+      "inventors": [
+        "Meghan Marya PATRICK",
+        "Glenn DONAHEY",
+        "Erica Skye TRAINI",
+        "WILLIAM HENRY WOODFORD",
+        "Christopher Thomas REYNOLDS",
+        "Vladimir Sergeyevich TARASOV",
+        "Nicholas MCKIBBEN",
+        "Christopher Evan WOOD",
+        "Kalina YANG"
+      ],
+      "applicationDate": "2023-01-27",
+      "claimsCount": 45,
+      "independentClaimsCount": 7,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 12.67387
+    },
+    {
+      "id": "AU-2023213702-A1",
+      "title": [
+        "BIFACIAL SEALED GAS DIFFUSION ELECTRODE"
+      ],
+      "abstract": "Systems and methods of the various embodiments may provide bifacial sealed gas diffusion electrode (GDE) assemblies. In some embodiments, a bifacial sealed gas diffusion electrode (GDE) assembly includes active electrode layers on two opposing sides of the assembly. Various embodiments may provide architecture and/or sealing methods for GDE assemblies. In various embodiments, the GDE assemblies may be for use in devices. In various embodiments, the devices may be primary or secondary batteries. In various embodiments, these devices may be useful for energy storage. For example, bifacial sealed GDE assemblies of the various embodiments may form cathode electrodes (sometimes called air electrodes) of a battery, such as a metal-air battery.",
+      "publicationNumber": "AU2023213702",
+      "publicationDate": "2024-08-01",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Glenn DONAHEY",
+        "Nicholas MCKIBBEN",
+        "Meghan Marya PATRICK",
+        "Christopher Thomas REYNOLDS",
+        "Vladimir Sergeyevich TARASOV",
+        "Erica Skye TRAINI",
+        "Christopher Evan WOOD",
+        "WILLIAM HENRY WOODFORD",
+        "Kalina YANG"
+      ],
+      "applicationDate": "2023-01-27",
+      "claimsCount": 45,
+      "independentClaimsCount": 7,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 12.67387
+    },
+    {
+      "id": "WO-2025217410-A1",
+      "title": [
+        "PASSIVE CARBON-OXYGEN BATTERY SYSTEM AND METHOD OF USE THEREOF"
+      ],
+      "abstract": "A carbon-oxygen battery system, including a Boudouard reactor in fluid communication with an electrochemical cell; a carbon store configured to store carbon; a gas store in fluid communication with the electrochemical cell, and a fuel gauge. The gas store is configured to separately store oxygen and a carbon-containing gas, wherein the gas store comprises a movable barrier separating the oxygen from the carbon-containing gas. The fuel gauge configured to determine a state of charge based on a position of the movable barrier, a mass of the oxygen in the gas store, a mass of the carbon-containing gas in the gas store, a mass of carbon in the carbon store, a volume of carbon in the carbon store, or a combination thereof. The gas store and the electrochemical cell form a closed system.",
+      "publicationNumber": "WO2025217410",
+      "publicationDate": "2025-10-16",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Joseph S. MANSER",
+        "Christopher Thomas REYNOLDS",
+        "LIANG SU",
+        "NICHOLAS PERKINS"
+      ],
+      "applicationDate": "2025-04-10",
+      "claimsCount": 36,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.612621
+    },
+    {
+      "id": "WO-2025179252-A1",
+      "title": [
+        "GAS DIFFUSION ELECTRODES FOR METAL-AIR BATTERIES"
+      ],
+      "abstract": "The present disclosure is generally directed to a discharge cathode of a metal-air battery. A method of fabricating the discharge cathode includes forming a frame of electrically insulating material onto a terminal with a first end portion of the terminal exposed in a window defined by the frame and a second end portion of the terminal outside of the frame. The method includes positioning a gas diffusion electrode (GDE) on the frame with a busbar supported on the GDE and a bus tab extending from the busbar to the window. The method includes connecting the bus tab and the first end portion of the terminal to one another through the window. The method includes, with the bus tab and the terminal connected to one another, hermetically sealing the window.",
+      "publicationNumber": "WO2025179252",
+      "publicationDate": "2025-08-28",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Riley BRANDT",
+        "MALCOLM CUMMINGS",
+        "Christopher Evan WOOD"
+      ],
+      "applicationDate": "2025-02-24",
+      "claimsCount": 34,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.612621
+    },
+    {
+      "id": "WO-2025101833-A1",
+      "title": [
+        "GENERATING AND CONTROLLING MAGNETIC FIELDS FOR ELECTROLYZER STACKS"
+      ],
+      "abstract": "An electrochemical reactor, including: a first magnetic field source; a second magnetic field source; and an electrochemical cell between the first magnetic field source and the second magnetic field source, the electrochemical cell comprising an anode and a cathode, wherein the anode and the cathode are in a channel configured to contain an electrolyte stream comprising an iron-containing feedstock, and wherein the anode and the cathode are configured to contact the electrolyte stream, and wherein the electrochemical reactor is configured to electrochemically reduce at least a portion of the iron-containing feedstock to iron metal at the cathode and in a magnetic field provided by the first magnetic field source, the second magnetic field source, or a combination thereof.",
+      "publicationNumber": "WO2025101833",
+      "publicationDate": "2025-05-15",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Kostubh AGARWAL",
+        "Janna RATHERT",
+        "Joseph Stephen MANSER",
+        "Julia SOKOL"
+      ],
+      "applicationDate": "2024-11-08",
+      "claimsCount": 31,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Surface technology, coating"
+      ],
+      "score": 12.612621
+    },
+    {
+      "id": "WO-2024168058-A1",
+      "title": [
+        "FEEDSTOCKS AND METHODS FOR FABRICATION OF IRON ELECTRODES USING SULFIDE-CONTAINING PARTICLES"
+      ],
+      "abstract": "According to one aspect, a feedstock for fabricating an iron electrode of an electrochemical cell may include iron-containing particles of a first material, sulfide-containing particles of a second material different from the first material, and a barrier material different from each of the first material and the second material, the barrier material at least partially physically separating the sulfide-containing particles from the iron particles, the at least partial physical separation of the iron-containing particles from the sulfide-containing particles maintainable by the barrier material at temperatures at which iron in the iron-containing particles bonds in the solid state.",
+      "publicationNumber": "WO2024168058",
+      "publicationDate": "2024-08-15",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "MICHAEL ANDREW GIBSON",
+        "Nicholas Reed PERKINS",
+        "Leah Nicole NATION",
+        "Joseph MANSER",
+        "Zachariah NORMAN",
+        "Annelise Christine THOMPSON"
+      ],
+      "applicationDate": "2024-02-07",
+      "claimsCount": 63,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.612621
+    },
+    {
+      "id": "WO-2024015540-A1",
+      "title": [
+        "GAS MANAGEMENT FOR METAL-AIR BATTERIES"
+      ],
+      "abstract": "Systems, methods, and devices for gas management of metal-air batteries. Each one of a plurality of electrochemical cells may include at least one air electrode, a metal electrode, a vessel, and a liquid electrolyte between the at least one air electrode and the metal electrode in the vessel, with each one of the plurality of electrochemical cells defining a respective headspace above the liquid electrolyte in the vessel. A manifold may include ducting defining a shared vent and an outlet region, and the respective headspace of each one of the plurality of electrochemical cells may be fluidically coupled to the shared vent and in fluid communication with the outlet region of the ducting.",
+      "publicationNumber": "WO2024015540",
+      "publicationDate": "2024-01-18",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Jaime Andres OCAMPO",
+        "GRANT FRIESEN",
+        "Alli NANSEL",
+        "Sid BANERJEE",
+        "Danielle Cassidy SMITH",
+        "Ellie PARKER",
+        "Nicholas MCKIBBEN",
+        "ARUNA MOHAN"
+      ],
+      "applicationDate": "2023-07-13",
+      "claimsCount": 36,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.612621
+    },
+    {
+      "id": "US-20250323292-A1",
+      "title": [
+        "PASSIVE CARBON-OXYGEN BATTERY SYSTEM AND METHOD OF USE THEREOF"
+      ],
+      "abstract": "A carbon-oxygen battery system, including a Boudouard reactor in fluid communication with an electrochemical cell; a carbon store configured to store carbon; a gas store in fluid communication with the electrochemical cell, and a fuel gauge. The gas store is configured to separately store oxygen and a carbon-containing gas, wherein the gas store comprises a movable barrier separating the oxygen from the carbon-containing gas. The fuel gauge configured to determine a state of charge based on a position of the movable barrier, a mass of the oxygen in the gas store, a mass of the carbon-containing gas in the gas store, a mass of carbon in the carbon store, a volume of carbon in the carbon store, or a combination thereof. The gas store and the electrochemical cell form a closed system.",
+      "publicationNumber": "US20250323292",
+      "publicationDate": "2025-10-16",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Joseph S. Manser",
+        "Christopher Thomas Reynolds",
+        "Liang Su",
+        "Nicholas Perkins"
+      ],
+      "applicationDate": "2025-04-10",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 12.612621
+    },
+    {
+      "id": "US-20250273697-A1",
+      "title": [
+        "GAS DIFFUSION ELECTRODES FOR METAL-AIR BATTERIES"
+      ],
+      "abstract": "The present disclosure is generally directed to a discharge cathode of a metal-air battery. A method of fabricating the discharge cathode includes forming a frame of electrically insulating material onto a terminal with a first end portion of the terminal exposed in a window defined by the frame and a second end portion of the terminal outside of the frame. The method includes positioning a gas diffusion electrode (GDE) on the frame with a busbar supported on the GDE and a bus tab extending from the busbar to the window. The method includes connecting the bus tab and the first end portion of the terminal to one another through the window. The method includes, with the bus tab and the terminal connected to one another, hermetically sealing the window.",
+      "publicationNumber": "US20250273697",
+      "publicationDate": "2025-08-28",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Riley BRANDT",
+        "Malcolm Cummings",
+        "Christopher Evan WOOD"
+      ],
+      "applicationDate": "2025-02-24",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 12.612621
+    },
+    {
+      "id": "US-20240372073-A1",
+      "title": [
+        "FEEDSTOCKS AND METHODS FOR FABRICATION OF IRON ELECTRODES USING SULFIDE-CONTAINING PARTICLES"
+      ],
+      "abstract": "According to one aspect, a feedstock for fabricating an iron electrode of an electrochemical cell may include iron-containing particles of a first material, sulfide-containing particles of a second material different from the first material, and a barrier material different from each of the first material and the second material, the barrier material at least partially physically separating the sulfide-containing particles from the iron particles, the at least partial physical separation of the iron-containing particles from the sulfide-containing particles maintainable by the barrier material at temperatures at which iron in the iron-containing particles bonds in the solid state.",
+      "publicationNumber": "US20240372073",
+      "publicationDate": "2024-11-07",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Michael Andrew Gibson",
+        "Nicholas Reed PERKINS",
+        "Leah Nicole NATION",
+        "Joseph Stephen Manser",
+        "Zachariah NORMAN",
+        "Annelise Christine THOMPSON"
+      ],
+      "applicationDate": "2024-02-07",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.612621
+    },
+    {
+      "id": "US-20240113383-A1",
+      "title": [
+        "GAS MANAGEMENT FOR METAL-AIR BATTERIES"
+      ],
+      "abstract": "Systems, methods, and devices for gas management of metal-air batteries. Each one of a plurality of electrochemical cells may include at least one air electrode, a metal electrode, a vessel, and a liquid electrolyte between the at least one air electrode and the metal electrode in the vessel, with each one of the plurality of electrochemical cells defining a respective headspace above the liquid electrolyte in the vessel. A manifold may include ducting defining a shared vent and an outlet region, and the respective headspace of each one of the plurality of electrochemical cells may be fluidically coupled to the shared vent and in fluid communication with the outlet region of the ducting.",
+      "publicationNumber": "US20240113383",
+      "publicationDate": "2024-04-04",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Jaime Andres Ocampo",
+        "Grant FRIESEN",
+        "Alli NANSEL",
+        "Sid BANERJEE",
+        "Danielle Cassidy SMITH",
+        "Ellie PARKER",
+        "Nicholas McKibben",
+        "Aruna MOHAN"
+      ],
+      "applicationDate": "2023-07-13",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.612621
+    },
+    {
+      "id": "MA-71466-A",
+      "title": [
+        "GESTION DE GAZ POUR BATTERIES M\u00c9TAL-AIR"
+      ],
+      "abstract": "",
+      "publicationNumber": "MA71466",
+      "publicationDate": "2025-04-30",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Danielle Cassidy SMITH",
+        "Nicholas MCKIBBEN",
+        "Jaime Andres OCAMPO",
+        "GRANT FRIESEN",
+        "Alli NANSEL",
+        "Sid BANERJEE",
+        "Ellie PARKER",
+        "ARUNA MOHAN"
+      ],
+      "applicationDate": "2023-07-13",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.612621
+    },
+    {
+      "id": "EP-4662721-A1",
+      "title": [
+        "FEEDSTOCKS AND METHODS FOR FABRICATION OF IRON ELECTRODES USING SULFIDE-CONTAINING PARTICLES"
+      ],
+      "abstract": "According to one aspect, a feedstock for fabricating an iron electrode of an electrochemical cell may include iron-containing particles of a first material, sulfide-containing particles of a second material different from the first material, and a barrier material different from each of the first material and the second material, the barrier material at least partially physically separating the sulfide-containing particles from the iron particles, the at least partial physical separation of the iron-containing particles from the sulfide-containing particles maintainable by the barrier material at temperatures at which iron in the iron-containing particles bonds in the solid state.",
+      "publicationNumber": "EP4662721",
+      "publicationDate": "2025-12-17",
+      "assignee": [
+        "Form Energy, Inc."
+      ],
+      "inventors": [
+        "MICHAEL ANDREW GIBSON",
+        "Nicholas Reed PERKINS",
+        "Leah Nicole NATION",
+        "Joseph MANSER",
+        "Zachariah NORMAN",
+        "Annelise Christine THOMPSON"
+      ],
+      "applicationDate": "2024-02-07",
+      "claimsCount": 63,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.612621
+    },
+    {
+      "id": "EP-4555578-A1",
+      "title": [
+        "GAS MANAGEMENT FOR METAL-AIR BATTERIES"
+      ],
+      "abstract": "Systems, methods, and devices for gas management of metal-air batteries. Each one of a plurality of electrochemical cells may include at least one air electrode, a metal electrode, a vessel, and a liquid electrolyte between the at least one air electrode and the metal electrode in the vessel, with each one of the plurality of electrochemical cells defining a respective headspace above the liquid electrolyte in the vessel. A manifold may include ducting defining a shared vent and an outlet region, and the respective headspace of each one of the plurality of electrochemical cells may be fluidically coupled to the shared vent and in fluid communication with the outlet region of the ducting.",
+      "publicationNumber": "EP4555578",
+      "publicationDate": "2025-05-21",
+      "assignee": [
+        "Form Energy, Inc."
+      ],
+      "inventors": [
+        "Jaime Andres OCAMPO",
+        "GRANT FRIESEN",
+        "Alli NANSEL",
+        "Sid BANERJEE",
+        "Danielle Cassidy SMITH",
+        "Ellie PARKER",
+        "Nicholas MCKIBBEN",
+        "ARUNA MOHAN"
+      ],
+      "applicationDate": "2023-07-13",
+      "claimsCount": 36,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.612621
+    },
+    {
+      "id": "WO-2025101866-A1",
+      "title": [
+        "SYSTEM AND METHODS FOR SEPARATION OF ELECTROLYTIC IRON FROM IRON-CONTAINING FEEDSTOCK"
+      ],
+      "abstract": "An electrochemical reactor system includes: an electrochemical cell, having: an anode; a cathode; an electrolyte stream including an electrolyte and an iron-containing feedstock containing feedstock particles; and a channel that contains the electrolyte stream; and a magnetic field source positioned to provide a magnetic field at the surface of the cathode. The electrochemical cell electrochemically reduces the iron-containing feedstock to form iron particles at a surface of the cathode and in the magnetic field. The feedstock particles have an average particle size in at least one dimension of 10 micrometers or less, and the iron particles have an average particle size in at least one dimension of 50 to 1,000 micrometers, or the feedstock particles have an average particle size in at least one dimension of 25 micrometers or greater, and the iron particles have an average particle size in at least one dimension of 0.1 to 20 micrometers.",
+      "publicationNumber": "WO2025101866",
+      "publicationDate": "2025-05-15",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Janna RATHERT",
+        "Alex LUYIMA",
+        "Joseph Stephen MANSER"
+      ],
+      "applicationDate": "2024-11-08",
+      "claimsCount": 27,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Surface technology, coating"
+      ],
+      "score": 12.583766
+    },
+    {
+      "id": "WO-2025034747-A1",
+      "title": [
+        "ELECTROCHEMICAL COGENERATION OF IRON AND COMMODITY CHEMICALS"
+      ],
+      "abstract": "An electrochemical reactor comprising a source of a magnetic field positioned in proximity to a cathode and configured to generate a magnetic field; and an electrochemical cell comprising an anode and the cathode, and further comprising a catholyte channel configured to direct a catholyte stream comprising an iron-containing feedstock to the cathode; an anolyte channel configured to direct an anolyte stream comprising a metal chloride to the anode, wherein the catholyte channel and the anolyte channel are disposed between the cathode and the anode; and a separator disposed between the catholyte channel and the anolyte channel, wherein the electrochemical reactor is configured to electrochemically oxidize chloride anions to chlorine gas at a surface of the anode, and wherein the electrochemical reactor is further configured to electrochemically reduce the iron-containing feedstock to an iron particle comprising iron metal at the surface of the cathode and in the magnetic field.",
+      "publicationNumber": "WO2025034747",
+      "publicationDate": "2025-02-13",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Joseph S. MANSER",
+        "Janna RATHERT",
+        "Alex LUYIMA",
+        "Julia SOKOL"
+      ],
+      "applicationDate": "2024-08-06",
+      "claimsCount": 39,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Surface technology, coating"
+      ],
+      "score": 12.583766
+    },
+    {
+      "id": "WO-2025034735-A1",
+      "title": [
+        "ELECTROCHEMICAL REACTOR AND METHOD FOR REDUCING IRON FROM AN IRON-CONTAINING FEEDSTOCK"
+      ],
+      "abstract": "An electrochemical reactor, including a channel for containing and directing flow of an electrolyte stream, wherein the electrolyte stream includes an electrolyte and an iron-containing feedstock; an anode and a cathode positioned in contact with the channel; and a source of a magnetic field positioned in proximity to the cathode, wherein the electrochemical reactor is configured to electrochemically reduce at least a portion of the iron-containing feedstock to iron metal at a surface of the cathode and in a magnetic field of the source, and wherein the at least a portion of the iron-containing feedstock is electrochemically reduced to the iron metal at a current efficiency of at least 0.75, wherein the current efficiency is a ratio of charge used for the reduction of the iron-containing feedstock to a total charge provided to the cathode.",
+      "publicationNumber": "WO2025034735",
+      "publicationDate": "2025-02-13",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Janna RATHERT",
+        "Joseph S. MANSER",
+        "Julia SOKOL"
+      ],
+      "applicationDate": "2024-08-06",
+      "claimsCount": 33,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Surface technology, coating"
+      ],
+      "score": 12.583766
+    },
+    {
+      "id": "WO-2025034623-A1",
+      "title": [
+        "PURIFICATION OF ALKALINE ELECTROLYTES"
+      ],
+      "abstract": "A method of purifying an alkaline electrolyte includes contacting the alkaline electrolyte with an aluminum compound to provide a purified alkaline electrolyte. The alkaline electrolyte includes a metal hydroxide, a compound comprising aluminum, silicon, or a combination thereof, and a solvent. The method can be particularly advantageous when used with a method of processing an iron-containing feedstock.",
+      "publicationNumber": "WO2025034623",
+      "publicationDate": "2025-02-13",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Alex LUYIMA",
+        "Joseph, S. MANSER"
+      ],
+      "applicationDate": "2024-08-05",
+      "claimsCount": 29,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Materials, metallurgy",
+        "Surface technology, coating"
+      ],
+      "score": 12.583766
+    },
+    {
+      "id": "WO-2024081697-A1",
+      "title": [
+        "CARBON-OXYGEN BATTERY AND METHOD OF USE THEREOF"
+      ],
+      "abstract": "A carbon-oxygen battery system, including: a Boudouard reactor in fluid communication with an electrochemical cell, wherein the electrochemical cell has a CO/CO2 inlet, a CO/CO2 outlet, and an oxygen outlet, and wherein the CO/CO2 outlet is fluidly connected by a first stream to an inlet of the Boudouard reactor, and wherein the CO/CO2 inlet is fluidly connected by a second stream to an outlet of the Boudouard reactor; and a CO/CO2 tank fluidly connected to at least one of the first stream or the second stream.",
+      "publicationNumber": "WO2024081697",
+      "publicationDate": "2024-04-18",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "WILLIAM HENRY WOODFORD",
+        "Tyler GRANDAHL",
+        "HWAN MOON"
+      ],
+      "applicationDate": "2023-10-11",
+      "claimsCount": 28,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology",
+        "Surface technology, coating"
+      ],
+      "score": 12.583766
+    },
+    {
+      "id": "WO-2021102016-A1",
+      "title": [
+        "HYDROGEN OXIDATION ELECTRODES AND ELECTROCHEMICAL CELLS INCLUDING THE SAME"
+      ],
+      "abstract": "Materials, designs, and methods of fabrication for hydrogen oxidation electrodes and electrochemical cells including the same are disclosed. In various embodiments, hydrogen oxidation catalysts and corresponding substrates are provided that enable electrochemical oxidation of hydrogen evolved at the anode of aqueous batteries.",
+      "publicationNumber": "WO2021102016",
+      "publicationDate": "2021-05-27",
+      "assignee": [
+        "FORM ENERGY INC."
+      ],
+      "inventors": [
+        "Nicholas Reed PERKINS",
+        "ERIC WEBER",
+        "Benjamin Thomas HULTMAN",
+        "Ian Salmon McKAY",
+        "Jarrod David MILSHTEIN",
+        "LIANG SU",
+        "ANDREW HAYNES LIOTTA",
+        "Jocelyn Marie NEWHOUSE",
+        "WILLIAM HENRY WOODFORD",
+        "Annelise Christine THOMPSON",
+        "Danielle Cassidy SMITH"
+      ],
+      "applicationDate": "2020-11-18",
+      "claimsCount": 54,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 12.583766
+    },
+    {
+      "id": "US-20250161842-A1",
+      "title": [
+        "PURIFICATION OF ALKALINE ELECTROLYTES"
+      ],
+      "abstract": "A method of purifying an alkaline electrolyte includes contacting the alkaline electrolyte with an aluminum compound to provide a purified alkaline electrolyte. The alkaline electrolyte includes a metal hydroxide, a compound comprising aluminum, silicon, or a combination thereof, and a solvent. The method can be particularly advantageous when used with a method of processing an iron-containing feedstock.",
+      "publicationNumber": "US20250161842",
+      "publicationDate": "2025-05-22",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Alex LUYIMA",
+        "Joseph Stephen Manser"
+      ],
+      "applicationDate": "2024-08-02",
+      "claimsCount": 24,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Chemical engineering",
+        "Surface technology, coating"
+      ],
+      "score": 12.583766
+    },
+    {
+      "id": "US-20250051948-A1",
+      "title": [
+        "ELECTROCHEMICAL COGENERATION OF IRON AND COMMODITY CHEMICALS"
+      ],
+      "abstract": "An electrochemical reactor comprising a source of a magnetic field positioned in proximity to a cathode and configured to generate a magnetic field; and an electrochemical cell comprising an anode and the cathode, and further comprising a catholyte channel configured to direct a catholyte stream comprising an iron-containing feedstock to the cathode; an anolyte channel configured to direct an anolyte stream comprising a metal chloride to the anode, wherein the catholyte channel and the anolyte channel are disposed between the cathode and the anode; and a separator disposed between the catholyte channel and the anolyte channel, wherein the electrochemical reactor is configured to electrochemically oxidize chloride anions to chlorine gas at a surface of the anode, and wherein the electrochemical reactor is further configured to electrochemically reduce the iron-containing feedstock to an iron particle comprising iron metal at the surface of the cathode and in the magnetic field.",
+      "publicationNumber": "US20250051948",
+      "publicationDate": "2025-02-13",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Joseph S. Manser",
+        "Janna RATHERT",
+        "Alex LUYIMA",
+        "Julia SOKOL"
+      ],
+      "applicationDate": "2024-08-06",
+      "claimsCount": 39,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Surface technology, coating"
+      ],
+      "score": 12.583766
+    },
+    {
+      "id": "US-20250051947-A1",
+      "title": [
+        "ELECTROCHEMICAL REACTOR AND METHOD FOR REDUCING IRON FROM AN IRON-CONTAINING FEEDSTOCK"
+      ],
+      "abstract": "An electrochemical reactor, including a channel for containing and directing flow of an electrolyte stream, wherein the electrolyte stream includes an electrolyte and an iron-containing feedstock; an anode and a cathode positioned in contact with the channel; and a source of a magnetic field positioned in proximity to the cathode, wherein the electrochemical reactor is configured to electrochemically reduce at least a portion of the iron-containing feedstock to iron metal at a surface of the cathode and in a magnetic field of the source, and wherein the at least a portion of the iron-containing feedstock is electrochemically reduced to the iron metal at a current efficiency of at least 0.75, wherein the current efficiency is a ratio of charge used for the reduction of the iron-containing feedstock to a total charge provided to the cathode.",
+      "publicationNumber": "US20250051947",
+      "publicationDate": "2025-02-13",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Janna RATHERT",
+        "Joseph S. Manser",
+        "Julia SOKOL"
+      ],
+      "applicationDate": "2024-08-06",
+      "claimsCount": 37,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Surface technology, coating"
+      ],
+      "score": 12.583766
+    },
+    {
+      "id": "US-20240274847-A1",
+      "title": [
+        "CARBON-OXYGEN BATTERY AND METHOD OF USE THEREOF"
+      ],
+      "abstract": "A carbon-oxygen battery system, including: a Boudouard reactor in fluid communication with an electrochemical cell, wherein the electrochemical cell has a CO/CO2 inlet, a CO/CO2 outlet, and an oxygen outlet, and wherein the CO/CO2 outlet is fluidly connected by a first stream to an inlet of the Boudouard reactor, and wherein the CO/CO2 inlet is fluidly connected by a second stream to an outlet of the Boudouard reactor, and a CO/CO2 tank fluidly connected to at least one of the first stream or the second stream.",
+      "publicationNumber": "US20240274847",
+      "publicationDate": "2024-08-15",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "William Henry Woodford",
+        "Tyler GRANDAHL",
+        "Hwan Moon"
+      ],
+      "applicationDate": "2024-04-10",
+      "claimsCount": 26,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 12.583766
+    },
+    {
+      "id": "US-20240120517-A1",
+      "title": [
+        "CARBON-OXYGEN BATTERY AND METHOD OF USE THEREOF"
+      ],
+      "abstract": "A carbon-oxygen battery system, including: a Boudouard reactor in fluid communication with an electrochemical cell, wherein the electrochemical cell has a CO/CO2 inlet, a CO/CO2 outlet, and an oxygen outlet, and wherein the CO/CO2 outlet is fluidly connected by a first stream to an inlet of the Boudouard reactor, and wherein the CO/CO2 inlet is fluidly connected by a second stream to an outlet of the Boudouard reactor; and a CO/CO2 tank fluidly connected to at least one of the first stream or the second stream.",
+      "publicationNumber": "US20240120517",
+      "publicationDate": "2024-04-11",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "William Henry Woodford",
+        "Tyler GRANDAHL",
+        "Hwan Moon"
+      ],
+      "applicationDate": "2023-10-11",
+      "claimsCount": 28,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.583766
+    },
+    {
+      "id": "US-20210151775-A1",
+      "title": [
+        "HYDROGEN OXIDATION ELECTRODES AND ELECTROCHEMICAL CELLS INCLUDING THE SAME"
+      ],
+      "abstract": "Materials, designs, and methods of fabrication for hydrogen oxidation electrodes and electrochemical cells including the same are disclosed. In various embodiments, hydrogen oxidation catalysts and corresponding substrates are provided that enable electrochemical oxidation of hydrogen evolved at the anode of aqueous batteries.",
+      "publicationNumber": "US20210151775",
+      "publicationDate": "2021-05-20",
+      "assignee": [
+        "FORM ENERGY INC.,"
+      ],
+      "inventors": [
+        "Nicholas Reed PERKINS",
+        "Eric Weber",
+        "Benjamin Thomas HULTMAN",
+        "Ian Salmon McKay",
+        "Jarrod David MILSHTEIN",
+        "Liang Su",
+        "Andrew LIOTTA",
+        "Jocelyn Marie NEWHOUSE",
+        "William Henry Woodford",
+        "Annelise Christine THOMPSON",
+        "Danielle Cassidy SMITH"
+      ],
+      "applicationDate": "2020-11-18",
+      "claimsCount": 54,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 12.583766
+    },
+    {
+      "id": "ES-2868082-T3",
+      "title": [
+        "Sistema de alimentaci\u00f3n de respaldo de conmutaci\u00f3n r\u00e1pida que emplea celdas electroqu\u00edmicas recargables"
+      ],
+      "abstract": "Un sistema de alimentaci\u00f3n de respaldo para su uso junto con una fuente de energ\u00eda el\u00e9ctrica primaria, comprendiendo el sistema: un sensor de potencia primaria configurado para detectar una caracter\u00edstica de la energ\u00eda el\u00e9ctrica primaria proporcionada por la fuente de energ\u00eda el\u00e9ctrica primaria a una carga, estando el sensor de potencia primaria configurado para emitir una se\u00f1al de umbral, indicando la se\u00f1al de umbral un modo de descarga o un modo de carga basado en la caracter\u00edstica detectada; un controlador de sistema; un sistema de bater\u00eda que comprende una pluralidad de celdas de bater\u00eda recargables que pueden conectarse en serie, comprendiendo cada celda: (i) un controlador de celda; (ii) al menos un sensor en estado estable acoplado al controlador de celda para detectar una o m\u00e1s condiciones de la celda para determinar si la celda de bater\u00eda recargable est\u00e1 en un modo de carga lista para la carga, y si la celda de bater\u00eda recargable est\u00e1 en un modo de descarga lista para la descarga; (iii) un interruptor de derivaci\u00f3n de celda acoplado al controlador de celda, pudiendo el interruptor de derivaci\u00f3n de celda conmutarse entre un estado normal para permitir que dicha celda se acople el\u00e9ctricamente en dicha serie y un estado de derivaci\u00f3n que derive la celda dentro de la serie; y (iv) un interruptor de corriente conmutable entre un estado cerrado que acopla el\u00e9ctricamente la celda de bater\u00eda dentro de la serie para comunicar la potencia entre la bater\u00eda y la carga, y un estado abierto que desacopla el\u00e9ctricamente la celda de bater\u00eda de la serie; en el que el controlador del sistema est\u00e1 acoplado a cada controlador de celda y cada controlador de celda est\u00e1 configurado para recibir se\u00f1ales de comunicaci\u00f3n desde el controlador del sistema; en el que el sensor de potencia primaria est\u00e1 acoplado el\u00e9ctricamente en paralelo al controlador de sistema y a cada celda para transmitir la se\u00f1al de umbral directamente al mismo; evitando as\u00ed el paso de la transmisi\u00f3n de la se\u00f1al de umbral a las celdas a trav\u00e9s del controlador de sistema; en el que cada celda est\u00e1 configurada para conmutar su interruptor de corriente respectivo a dicho estado cerrado en respuesta a la recepci\u00f3n de la se\u00f1al de umbral; en el que cada controlador de celda est\u00e1 configurado para conmutar dicho interruptor de derivaci\u00f3n entre dicho estado de derivaci\u00f3n y dicho estado normal en respuesta a dicho al menos un sensor en estado estable.",
+      "publicationNumber": "ES2868082",
+      "publicationDate": "2021-10-21",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "RAMKUMAR KRISHNAN",
+        "Javier Eduardo BANUELOS SOLIS"
+      ],
+      "applicationDate": "2018-04-09",
+      "claimsCount": 14,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.583766
+    },
+    {
+      "id": "EP-4602675-A1",
+      "title": [
+        "CARBON-OXYGEN BATTERY AND METHOD OF USE THEREOF"
+      ],
+      "abstract": "A carbon-oxygen battery system, including: a Boudouard reactor in fluid communication with an electrochemical cell, wherein the electrochemical cell has a CO/CO2 inlet, a CO/CO2 outlet, and an oxygen outlet, and wherein the CO/CO2 outlet is fluidly connected by a first stream to an inlet of the Boudouard reactor, and wherein the CO/CO2 inlet is fluidly connected by a second stream to an outlet of the Boudouard reactor; and a CO/CO2 tank fluidly connected to at least one of the first stream or the second stream.",
+      "publicationNumber": "EP4602675",
+      "publicationDate": "2025-08-20",
+      "assignee": [
+        "Form Energy, Inc."
+      ],
+      "inventors": [
+        "WILLIAM HENRY WOODFORD",
+        "Tyler GRANDAHL",
+        "HWAN MOON"
+      ],
+      "applicationDate": "2023-10-11",
+      "claimsCount": 28,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology",
+        "Surface technology, coating"
+      ],
+      "score": 12.583766
+    },
+    {
+      "id": "EP-4062469-A4",
+      "title": [
+        "HYDROGEN OXIDATION ELECTRODES AND ELECTROCHEMICAL CELLS INCLUDING THE SAME"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP4062469",
+      "publicationDate": "2025-04-23",
+      "assignee": [
+        "Form Energy, Inc."
+      ],
+      "inventors": [
+        "Nicholas Reed PERKINS",
+        "ERIC WEBER",
+        "Benjamin Thomas HULTMAN",
+        "Ian Salmon McKAY",
+        "Jarrod David MILSHTEIN",
+        "LIANG SU",
+        "ANDREW HAYNES LIOTTA",
+        "Jocelyn Marie NEWHOUSE",
+        "WILLIAM HENRY WOODFORD",
+        "Annelise Christine THOMPSON",
+        "Danielle Cassidy SMITH"
+      ],
+      "applicationDate": "2020-11-18",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 12.583766
+    },
+    {
+      "id": "EP-4062469-A1",
+      "title": [
+        "HYDROGEN OXIDATION ELECTRODES AND ELECTROCHEMICAL CELLS INCLUDING THE SAME"
+      ],
+      "abstract": "Materials, designs, and methods of fabrication for hydrogen oxidation electrodes and electrochemical cells including the same are disclosed. In various embodiments, hydrogen oxidation catalysts and corresponding substrates are provided that enable electrochemical oxidation of hydrogen evolved at the anode of aqueous batteries.",
+      "publicationNumber": "EP4062469",
+      "publicationDate": "2022-09-28",
+      "assignee": [
+        "Form Energy, Inc."
+      ],
+      "inventors": [
+        "Nicholas Reed PERKINS",
+        "ERIC WEBER",
+        "Benjamin Thomas HULTMAN",
+        "Ian Salmon McKAY",
+        "Jarrod David MILSHTEIN",
+        "LIANG SU",
+        "ANDREW HAYNES LIOTTA",
+        "Jocelyn Marie NEWHOUSE",
+        "WILLIAM HENRY WOODFORD",
+        "Annelise Christine THOMPSON",
+        "Danielle Cassidy SMITH"
+      ],
+      "applicationDate": "2020-11-18",
+      "claimsCount": 54,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 12.583766
+    },
+    {
+      "id": "WO-2025179298-A3",
+      "title": [
+        "ELECTROCHEMICAL CELLS INCLUDING ELECTRODE STACKS FOR METAL-AIR BATTERIES"
+      ],
+      "abstract": "An electrochemical cell may include a vessel, a first module, a second module, and a gas diffusion electrode (GDE). The vessel has a thickness dimension. The first module includes a first anode sandwiched between two first oxygen evolution electrodes along the thickness dimension of the vessel. The second module includes a second anode sandwiched between two second oxygen evolution electrodes along the thickness dimension of the vessel. A gas diffusion electrode (GDE) is disposed between the first module and the second module in the vessel along the thickness dimension of the vessel.",
+      "publicationNumber": "WO2025179298",
+      "publicationDate": "2025-10-02",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Emily C. PITT",
+        "Riley BRANDT",
+        "Nathaniel C. Wynn",
+        "Angel Ruben RIVERA",
+        "Derek PAXSON",
+        "MALCOLM CUMMINGS",
+        "Alan SLEDD"
+      ],
+      "applicationDate": "2025-02-24",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.573812
+    },
+    {
+      "id": "WO-2025179298-A2",
+      "title": [
+        "ELECTROCHEMICAL CELLS INCLUDING ELECTRODE STACKS FOR METAL-AIR BATTERIES"
+      ],
+      "abstract": "An electrochemical cell may include a vessel, a first module, a second module, and a gas diffusion electrode (GDE). The vessel has a thickness dimension. The first module includes a first anode sandwiched between two first oxygen evolution electrodes along the thickness dimension of the vessel. The second module includes a second anode sandwiched between two second oxygen evolution electrodes along the thickness dimension of the vessel. A gas diffusion electrode (GDE) is disposed between the first module and the second module in the vessel along the thickness dimension of the vessel.",
+      "publicationNumber": "WO2025179298",
+      "publicationDate": "2025-08-28",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Emily C. PITT",
+        "Riley BRANDT",
+        "Nathaniel C. Wynn",
+        "Angel Ruben RIVERA",
+        "Derek PAXSON",
+        "MALCOLM CUMMINGS",
+        "Alan SLEDD"
+      ],
+      "applicationDate": "2025-02-24",
+      "claimsCount": 31,
+      "independentClaimsCount": 3,
+      "technologyFields": [],
+      "score": 12.573812
+    },
+    {
+      "id": "WO-2024026040-A1",
+      "title": [
+        "REFUELABLE BATTERY SYSTEMS, DEVICES, AND COMPONENTS"
+      ],
+      "abstract": "A metal-air battery including: a current collector; a metal electrode including a metal and contacting the current collector; an air electrode on the metal electrode and opposite the current collector; a solid electrolyte between the metal electrode and the air electrode; a discharge product of the metal on the air electrode; wherein the metal-air battery is configured to release the discharge product.",
+      "publicationNumber": "WO2024026040",
+      "publicationDate": "2024-02-01",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "YET-MING CHIANG",
+        "WILLIAM HENRY WOODFORD",
+        "Kailash RAMAN"
+      ],
+      "applicationDate": "2023-07-27",
+      "claimsCount": 102,
+      "independentClaimsCount": 15,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 12.573812
+    },
+    {
+      "id": "WO-2021226399-A1",
+      "title": [
+        "DECOUPLED ELECTRODE ELECTROCHEMICAL ENERGY STORAGE SYSTEM"
+      ],
+      "abstract": "Systems and methods of the various embodiments may provide decoupled electrode electrochemical energy storage systems.",
+      "publicationNumber": "WO2021226399",
+      "publicationDate": "2021-11-11",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Danielle Cassidy SMITH",
+        "WILLIAM HENRY WOODFORD",
+        "Jarrod David MILSHTEIN",
+        "Annelise Christine THOMPSON",
+        "ALEXANDRA ROUSSEAU",
+        "Jessa SILVER"
+      ],
+      "applicationDate": "2021-05-06",
+      "claimsCount": 29,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 12.573812
+    },
+    {
+      "id": "US-20250273772-A1",
+      "title": [
+        "ELECTROCHEMICAL CELLS INCLUDING ELECTRODE STACKS FOR METAL-AIR BATTERIES"
+      ],
+      "abstract": "An electrochemical cell may include a vessel, a first module, a second module, and a gas diffusion electrode (GDE). The vessel has a thickness dimension. The first module includes a first anode sandwiched between two first oxygen evolution electrodes along the thickness dimension of the vessel. The second module includes a second anode sandwiched between two second oxygen evolution electrodes along the thickness dimension of the vessel. A gas diffusion electrode (GDE) is disposed between the first module and the second module in the vessel along the thickness dimension of the vessel.",
+      "publicationNumber": "US20250273772",
+      "publicationDate": "2025-08-28",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Emily C. PITT",
+        "Riley BRANDT",
+        "Nathaniel C. Wynn",
+        "Angel Ruben RIVERA",
+        "Derek PAXSON",
+        "Malcolm Cummings",
+        "Alan SLEDD",
+        "Marc Louis SYVERTSEN",
+        "Mei Zhang"
+      ],
+      "applicationDate": "2025-02-24",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 12.573812
+    },
+    {
+      "id": "US-20250210759-A1",
+      "title": [
+        "MIST ELIMINATION SYSTEM FOR ELECTROCHEMICAL CELLS"
+      ],
+      "abstract": "An electrochemical cell includes a mist elimination system that prevents mist from escaping from the cell chamber and conserves moisture within the cell. An exemplary mist elimination system includes a spill prevention device that reduces or prevents an electrolyte from escaping from the cell chamber in the event of an upset, wherein the electrochemical cell is tipped over. A mist elimination system includes a recombination portion that reacts with hydrogen to produce water, that may be reintroduced into the cell chamber. A mist elimination system includes a neutralizer portion that reacts with an electrolyte to bring the pH closer to neutral, as acid/base reaction. A mist elimination system includes a filter that captures mist that may be reintroduced into the cell chamber. A mist elimination system includes a hydrophobic filter on the outer surface to prevent water and other liquids from entering into the mist elimination system.",
+      "publicationNumber": "US20250210759",
+      "publicationDate": "2025-06-26",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Ramkumar Krishnan",
+        "Joel Hayes",
+        "Scott Klug",
+        "Patrick SAMULESON",
+        "Craig TRZEBNY"
+      ],
+      "applicationDate": "2024-09-06",
+      "claimsCount": 13,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.573812
+    },
+    {
+      "id": "US-20250183341-A1",
+      "title": [
+        "DECOUPLED ELECTRODE ELECTROCHEMICAL ENERGY STORAGE SYSTEM"
+      ],
+      "abstract": "Systems and methods of the various embodiments may provide decoupled electrode electrochemical energy storage systems.",
+      "publicationNumber": "US20250183341",
+      "publicationDate": "2025-06-05",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Danielle Cassidy SMITH",
+        "William Henry Woodford",
+        "Jarrod David MILSHTEIN",
+        "Annelise Christine THOMPSON",
+        "Alexandra Rousseau",
+        "Jessa Silver"
+      ],
+      "applicationDate": "2024-12-06",
+      "claimsCount": 10,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 12.573812
+    },
+    {
+      "id": "US-20210351425-A1",
+      "title": [
+        "DECOUPLED ELECTRODE ELECTROCHEMICAL ENERGY STORAGE SYSTEM"
+      ],
+      "abstract": "Systems and methods of the various embodiments may provide decoupled electrode electrochemical energy storage systems.",
+      "publicationNumber": "US20210351425",
+      "publicationDate": "2021-11-11",
+      "assignee": [
+        "FORM ENERGY INC.,"
+      ],
+      "inventors": [
+        "Danielle Cassidy SMITH",
+        "William Henry Woodford",
+        "Jarrod David MILSHTEIN",
+        "Annelise THOMPSON",
+        "Alexandra Rousseau",
+        "Jessa Silver"
+      ],
+      "applicationDate": "2021-05-06",
+      "claimsCount": 27,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 12.573812
+    },
+    {
+      "id": "EP-4147296-A4",
+      "title": [
+        "DECOUPLED ELECTRODE ELECTROCHEMICAL ENERGY STORAGE SYSTEM"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP4147296",
+      "publicationDate": "2025-08-13",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Danielle Cassidy SMITH",
+        "WILLIAM HENRY WOODFORD",
+        "Jarrod David MILSHTEIN",
+        "Annelise Christine THOMPSON",
+        "ALEXANDRA ROUSSEAU",
+        "Jessa SILVER"
+      ],
+      "applicationDate": "2021-05-06",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 12.573812
+    },
+    {
+      "id": "EP-4147296-A1",
+      "title": [
+        "DECOUPLED ELECTRODE ELECTROCHEMICAL ENERGY STORAGE SYSTEM"
+      ],
+      "abstract": "Systems and methods of the various embodiments may provide decoupled electrode electrochemical energy storage systems.",
+      "publicationNumber": "EP4147296",
+      "publicationDate": "2023-03-15",
+      "assignee": [
+        "Form Energy, Inc."
+      ],
+      "inventors": [
+        "Danielle Cassidy SMITH",
+        "WILLIAM HENRY WOODFORD",
+        "Jarrod David MILSHTEIN",
+        "Annelise Christine THOMPSON",
+        "ALEXANDRA ROUSSEAU",
+        "Jessa SILVER"
+      ],
+      "applicationDate": "2021-05-06",
+      "claimsCount": 29,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 12.573812
+    },
+    {
+      "id": "AU-2017298995-B2",
+      "title": [
+        "Mist elimination system for electrochemical cells"
+      ],
+      "abstract": "An electrochemical cell includes a mist elimination system that prevents mist from escaping from the cell chamber and conserves moisture within the cell. An exemplary mist elimination system includes a spill prevention device that reduces or prevents an electrolyte from escaping from the cell chamber in the event of an upset, wherein the electrochemical cell is tipped over. A mist elimination system includes a recombination portion that reacts with hydrogen to produce water, that may be reintroduced into the cell chamber. A mist elimination system includes a neutralizer portion that reacts with an electrolyte to bring the pH closer to neutral, as acid/base reaction. A mist elimination system includes a filter that captures mist that may be reintroduced into the cell chamber. A mist elimination system includes a hydrophobic filter on the outer surface to prevent water and other liquids from entering into the mist elimination system.",
+      "publicationNumber": "AU2017298995",
+      "publicationDate": "2019-08-29",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "JOEL HAYES",
+        "SCOTT KLUG",
+        "RAMKUMAR KRISHNAN",
+        "Patrick SAMULESON",
+        "Craig TRZEBNY"
+      ],
+      "applicationDate": "2017-07-24",
+      "claimsCount": 18,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.573812
+    },
+    {
+      "id": "AU-2012332825-B2",
+      "title": [
+        "Internal convection cell"
+      ],
+      "abstract": "An electrochemical cell includes a permeable fuel electrode configured to support a metal fuel thereon, and an oxidant reduction electrode spaced from the fuel electrode. An ionically conductive medium is provided for conducting ions between the fuel and oxidant reduction electrodes, to support electrochemical reactions at the fuel and oxidant reduction electrodes. A charging electrode is also included, selected from the group consisting of (a) the oxidant reduction electrode, (b) a separate charging electrode spaced from the fuel and oxidant reduction electrodes, and (c) a portion of the permeable fuel electrode. The charging electrode is configured to evolve gaseous oxygen bubbles that generate a flow of the ionically conductive medium. One or more flow diverters are also provided in the electrochemical cell, and configured to direct the flow of the ionically conductive medium at least partially through the permeable fuel electrode.",
+      "publicationNumber": "AU2012332825",
+      "publicationDate": "2016-06-23",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "CODY A. FRIESEN",
+        "GRANT FRIESEN",
+        "JOEL HAYES",
+        "RAMKUMAR KRISHNAN"
+      ],
+      "applicationDate": "2012-10-30",
+      "claimsCount": 23,
+      "independentClaimsCount": 7,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.573812
+    },
+    {
+      "id": "WO-2025010352-A1",
+      "title": [
+        "METHODS AND SYSTEMS OF CONTROLLING BIDIRECTIONAL OPERATION OF AN ELECTROWINNING PLANT"
+      ],
+      "abstract": "Methods and systems of the present disclosure are generally directed to switching operation of one or more electrochemical cells of an electrowinning plant between a charge mode and a discharge mode. In the charge mode, the one or more electrochemical cells may reduce metal from an oxidized state to a zero valence state with a first electric current applied across the one or more electrochemical cells. In the discharge mode, the one or more electrochemical cells may oxidize at least some of the metal from the zero valence state to the oxidized state to generate a second electric current, oppositely charged relative to the first electric current, to generate electricity (e.g., for delivery to the grid). Operation of the one or more electrochemical cells of the electrowinning plant may be selectively changed between the charge mode and the discharge mode based on, for example, availability/cost of electricity from the grid.",
+      "publicationNumber": "WO2025010352",
+      "publicationDate": "2025-01-09",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "LIANG SU",
+        "Karen THOMAS-ALYEA",
+        "Janna RATHERT",
+        "JEFFREY POIRIER",
+        "Joseph Stephen MANSER"
+      ],
+      "applicationDate": "2024-07-03",
+      "claimsCount": 55,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology",
+        "Surface technology, coating"
+      ],
+      "score": 12.548039
+    },
+    {
+      "id": "US-20250030073-A1",
+      "title": [
+        "LONG LIFE SEALED ALKALINE SECONDARY BATTERIES"
+      ],
+      "abstract": "In an aspect, provided is an alkaline rechargeable battery comprising: i) a battery container sealed against the release of gas up to at least a threshold gas pressure, ii) a volume of an aqueous alkaline electrolyte at least partially filling the container to au electrolyte level; iii) a positive electrode containing positive active material and at least partially submerged in the electrolyte, iv) an iron negative electrode at least partially submerged in the electrolyte, the iron negative electrode comprising iron active material; v) a separator at least partially submerged in the electrolyte provided between the positive electrode and the negative electrode; vi) an auxiliary oxygen gas recombination electrode electrically connected to the iron negative electrode by a first electronic component, ionically connected to the electrolyte by a first some pathway, and exposed to a gas headspace above the electrolyte level by a first gas pathway.",
+      "publicationNumber": "US20250030073",
+      "publicationDate": "2025-01-23",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Ai Quoc Pham",
+        "Sandeep Nijhawan",
+        "Aswin K. MANOHAR",
+        "Kevin Van GALLOWAY",
+        "Chenguang Yang",
+        "Eric E. BENSON",
+        "Lang McHARDY",
+        "Tim RACKERS"
+      ],
+      "applicationDate": "2024-06-26",
+      "claimsCount": 18,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.548039
+    },
+    {
+      "id": "US-20250011959-A1",
+      "title": [
+        "METHODS AND SYSTEMS OF CONTROLLING BIDIRECTIONAL OPERATION OF AN ELECTROWINNING PLANT"
+      ],
+      "abstract": "Methods and systems of the present disclosure are generally directed to switching operation of one or more electrochemical cells of an electrowinning plant between a charge mode and a discharge mode. In the charge mode, the one or more electrochemical cells may reduce metal from an oxidized state to a zero valence state with a first electric current applied across the one or more electrochemical cells. In the discharge mode, the one or more electrochemical cells may oxidize at least some of the metal from the zero valence state to the oxidized state to generate a second electric current, oppositely charged relative to the first electric current, to generate electricity (e.g., for delivery to the grid). Operation of the one or more electrochemical cells of the electrowinning plant may be selectively changed between the charge mode and the discharge mode based on, for example, availability/cost of electricity from the grid.",
+      "publicationNumber": "US20250011959",
+      "publicationDate": "2025-01-09",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Liang Su",
+        "Karen THOMAS-ALYEA",
+        "Janna RATHERT",
+        "Jeffrey Poirier",
+        "Joseph Stephen Manser"
+      ],
+      "applicationDate": "2024-07-03",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Surface technology, coating"
+      ],
+      "score": 12.548039
+    },
+    {
+      "id": "US-20230231213-A1",
+      "title": [
+        "LONG LIFE SEALED ALKALINE SECONDARY BATTERIES"
+      ],
+      "abstract": "In an aspect, provided is an alkaline rechargeable battery comprising: i) a battery container sealed against the release of gas up to at least a threshold gas pressure, ii) a volume of an aqueous alkaline electrolyte at least partially filling the container to an electrolyte level; iii) a positive electrode containing positive active material and at least partially submerged in the electrolyte; iv) an iron negative electrode at least partially submerged in the electrolyte, the iron negative electrode comprising iron active material; v) a separator at least partially submerged in the electrolyte provided between the positive electrode and the negative electrode; vi) an auxiliary oxygen gas recombination electrode electrically connected to the iron negative electrode by a first electronic component, ionically connected to the electrolyte by a first ionic pathway, and exposed to a gas headspace above the electrolyte level by a first gas pathway.",
+      "publicationNumber": "US20230231213",
+      "publicationDate": "2023-07-20",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Ai Quoc Pham",
+        "Sandeep Nijhawan",
+        "Aswin K. MANOHAR",
+        "Kevin Van GALLOWAY",
+        "Chenguang Yang",
+        "Eric E. BENSON",
+        "Lang McHARDY",
+        "Tim RACKERS"
+      ],
+      "applicationDate": "2023-03-13",
+      "claimsCount": 13,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.548039
+    },
+    {
+      "id": "ES-2925737-T3",
+      "title": [
+        "Direccionamiento autom\u00e1tico de nodos de bater\u00eda en un sistema de bater\u00eda"
+      ],
+      "abstract": "Un m\u00e9todo y sistema de bater\u00eda para asignar una pluralidad de direcciones a una pluralidad de nodos de bater\u00eda en un sistema de bater\u00eda. Una fuente de alimentaci\u00f3n de direccionamiento para enviar una se\u00f1al de potencia de direccionamiento en secuencia a una pluralidad de nodos de bater\u00eda 1 a N conectados en serie y cada uno acoplado a al menos una bater\u00eda. (Traducci\u00f3n autom\u00e1tica con Google Translate, sin valor legal)",
+      "publicationNumber": "ES2925737",
+      "publicationDate": "2022-10-19",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "RAMKUMAR KRISHNAN",
+        "Javier Eduardo BANUELOS SOLIS",
+        "Shawn FINK",
+        "JONATHAN GOLDBERG",
+        "MARK NADEN"
+      ],
+      "applicationDate": "2017-01-30",
+      "claimsCount": 6,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Measurement"
+      ],
+      "score": 12.548039
+    },
+    {
+      "id": "ES-2873750-T3",
+      "title": [
+        "Sistema de bater\u00eda h\u00edbrida"
+      ],
+      "abstract": "Un sistema de bater\u00eda h\u00edbrida (10) para almacenamiento de energ\u00eda en una red de energ\u00eda, la red de energ\u00eda comprende una fuente de energ\u00eda (19) y una carga (14), el sistema de bater\u00eda h\u00edbrida (10) que comprende: un sistema de bater\u00eda que comprende: una primera unidad de bater\u00eda recargable (20) que tiene una primera qu\u00edmica de bater\u00eda; y una segunda unidad de bater\u00eda recargable (40) que tiene una segunda qu\u00edmica de bater\u00eda, siendo la primera y la segunda qu\u00edmica de la bater\u00eda diferentes entre s\u00ed; un sistema de control (80) configurado para acoplar selectivamente las unidades de bater\u00eda (20, 40) del sistema de bater\u00eda a la red el\u00e9ctrica a) para el suministro de energ\u00eda el\u00e9ctrica desde el sistema de bater\u00eda a la carga (14) durante la descarga, y b) para la recepci\u00f3n de energ\u00eda el\u00e9ctrica de la fuente de energ\u00eda (19) para cargar el sistema de bater\u00eda durante la carga, un sensor de tensi\u00f3n de suministro de energ\u00eda (89) configurado para detectar una tensi\u00f3n de operaci\u00f3n de la energ\u00eda que se entrega a la carga (14) desde la fuente de energ\u00eda (19), comprendiendo el sistema de control (80) una l\u00f3gica configurada para conmutar el sistema de control (80) entre carga y descarga del sistema de bater\u00eda en base a que la tensi\u00f3n de operaci\u00f3n est\u00e9 en un intervalo de carga o un intervalo de descarga, respectivamente; caracterizado porque el sistema de control (80) incluye adem\u00e1s la l\u00f3gica de selecci\u00f3n del modo de carga (82) configurada para seleccionar entre modos de carga basados en la tensi\u00f3n de operaci\u00f3n dentro del intervalo de carga, los modos incluyen: a) cargar ambas unidades de bater\u00eda (20, 40) simult\u00e1neamente cada uno a una velocidad de carga m\u00e1xima cuando la tensi\u00f3n de operaci\u00f3n est\u00e1 por encima de un primer umbral de carga, b) cargar la primera unidad de bater\u00eda (20) a la velocidad de carga m\u00e1xima de la misma y la segunda unidad de bater\u00eda (40) a una velocidad disminuida cuando la tensi\u00f3n est\u00e1 por debajo del primer umbral de carga y por encima de un segundo umbral de carga, y c) cargar solo la primera unidad de bater\u00eda (20) a una velocidad disminuida cuando la tensi\u00f3n de operaci\u00f3n est\u00e1 por debajo del segundo umbral de carga.",
+      "publicationNumber": "ES2873750",
+      "publicationDate": "2021-11-03",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "RAMKUMAR KRISHNAN",
+        "Shawn FINK"
+      ],
+      "applicationDate": "2017-09-13",
+      "claimsCount": 17,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Solar energy"
+      ],
+      "score": 12.548039
+    },
+    {
+      "id": "ZA-202310058-B",
+      "title": [
+        "ELECTROLYTE FORMULATIONS AND ADDITIVES FOR IRON ANODE ELECTROCHEMICAL SYSTEMS"
+      ],
+      "abstract": "Systems, methods, and devices of various aspects include using tin and/or antimony as an additive to an electrolyte and/or electrode in an electrochemical system, such as a battery, having an iron-based anode. In some aspects, the addition of tin and/or antimony may improve cycling of the iron-based anode. Systems, methods, and devices of various aspects include using high hydroxide concentration electrolyte in an electrochemical system, such as a battery. In some aspects, a high hydroxide concentration electrolyte may increase the stored amount of charge stored in the cell (i.e., the capacity of the battery material) and/or decrease the overpotential (i.e., increase the voltage) of the battery.",
+      "publicationNumber": "ZA202310058",
+      "publicationDate": "2024-07-31",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Annelise Christine THOMPSON",
+        "MICHAEL ANDREW GIBSON",
+        "WILLIAM HENRY WOODFORD",
+        "Rebecca Marie EISENACH",
+        "Jocelyn Marie NEWHOUSE",
+        "Nicholas Reed PERKINS",
+        "Olivia Claire TAYLOR",
+        "KJELL WILLIAM SCHRODER",
+        "Karen THOMAS-ALYEA"
+      ],
+      "applicationDate": "2023-10-27",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [],
+      "score": 12.495
+    },
+    {
+      "id": "WO-2023211489-A1",
+      "title": [
+        "ELECTROLYTE FORMULATIONS AND ADDITIVES FOR IRON ANODE ELECTROCHEMICAL SYSTEMS"
+      ],
+      "abstract": "Systems, methods, and devices of various aspects include using tin, antimony, and/or indium as an additive to an electrolyte and/or electrode in an electrochemical system, such as a battery, having an iron-based anode. In some aspects, the addition of tin, antimony, and/or indium may improve cycling of the iron-based anode. Systems, methods, and devices of various aspects include using high hydroxide concentration electrolyte in an electrochemical system, such as a battery. In some aspects, a high hydroxide concentration electrolyte may increase the stored amount of charge stored in the cell (i.e., the capacity of the battery material) and/or decrease the overpotential (i.e., increase the voltage) of the battery.",
+      "publicationNumber": "WO2023211489",
+      "publicationDate": "2023-11-02",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Annelise Christine THOMPSON",
+        "MICHAEL ANDREW GIBSON",
+        "WILLIAM HENRY WOODFORD",
+        "Rebecca Marie EISENACH",
+        "Jocelyn Marie NEWHOUSE",
+        "Nicholas Reed PERKINS",
+        "Olivia Claire TAYLOR",
+        "KJELL WILLIAM SCHRODER",
+        "Karen THOMAS-ALYEA",
+        "Zachariah NORMAN",
+        "Johanna GOODMAN",
+        "Jonathan Thomas VARDNER",
+        "Benjamin Thomas HULTMAN",
+        "Sydney GRAY",
+        "Natalie MAKO",
+        "RENEE MITCHELL",
+        "Brooke WOJESKI",
+        "Jarrod David MILSHTEIN"
+      ],
+      "applicationDate": "2022-10-27",
+      "claimsCount": 34,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 12.495
+    },
+    {
+      "id": "WO-2022232465-A1",
+      "title": [
+        "ELECTROLYTE FORMULATIONS AND ADDITIVES FOR IRON ANODE ELECTROCHEMICAL SYSTEMS"
+      ],
+      "abstract": "Systems, methods, and devices of various aspects include using tin and/or antimony as an additive to an electrolyte and/or electrode in an electrochemical system, such as a battery, having an iron-based anode. In some aspects, the addition of tin and/or antimony may improve cycling of the iron-based anode. Systems, methods, and devices of various aspects include using high hydroxide concentration electrolyte in an electrochemical system, such as a battery. In some aspects, a high hydroxide concentration electrolyte may increase the stored amount of charge stored in the cell (i.e., the capacity of the battery material) and/or decrease the overpotential (i.e., increase the voltage) of the battery.",
+      "publicationNumber": "WO2022232465",
+      "publicationDate": "2022-11-03",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Annelise Christine THOMPSON",
+        "MICHAEL ANDREW GIBSON",
+        "WILLIAM HENRY WOODFORD",
+        "Rebecca Marie EISENACH",
+        "Jocelyn Marie NEWHOUSE",
+        "Nicholas Reed PERKINS",
+        "Olivia Claire TAYLOR",
+        "KJELL WILLIAM SCHRODER",
+        "Karen THOMAS-ALYEA"
+      ],
+      "applicationDate": "2022-04-28",
+      "claimsCount": 77,
+      "independentClaimsCount": 15,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 12.495
+    },
+    {
+      "id": "US-20230290936-A1",
+      "title": [
+        "ELECTROLYTE FORMULATIONS AND ADDITIVES FOR IRON ANODE ELECTROCHEMICAL SYSTEMS"
+      ],
+      "abstract": "Systems, methods, and devices of various aspects include using tin, antimony, and/or indium as an additive to an electrolyte and/or electrode in an electrochemical system, such as a battery, having an iron-based anode. In some aspects, the addition of tin, antimony, and/or indium may improve cycling of the iron-based anode. Systems, methods, and devices of various aspects include using high hydroxide concentration electrolyte in an electrochemical system, such as a battery. In some aspects, a high hydroxide concentration electrolyte may increase the stored amount of charge stored in the cell (i.e., the capacity of the battery material) and/or decrease the overpotential (i.e., increase the voltage) of the battery.",
+      "publicationNumber": "US20230290936",
+      "publicationDate": "2023-09-14",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Annelise Christine THOMPSON",
+        "Michael Andrew Gibson",
+        "William Henry Woodford",
+        "Rebecca Marie EISENACH",
+        "Jocelyn Marie NEWHOUSE",
+        "Nicholas Reed PERKINS",
+        "Olivia Claire TAYLOR",
+        "Kjell William Schroder",
+        "Karen THOMAS-ALYEA",
+        "Zachariah NORMAN",
+        "Johanna GOODMAN",
+        "Jonathan Thomas VARDNER",
+        "Benjamin Thomas HULTMAN",
+        "Sydney GARY",
+        "Natalie MAKO",
+        "Renee MITCHELL",
+        "Brooke WOJESKI",
+        "Jarrod David MILSHTEIN"
+      ],
+      "applicationDate": "2022-10-27",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.495
+    },
+    {
+      "id": "US-20220367911-A1",
+      "title": [
+        "ELECTROLYTE FORMULATIONS AND ADDITIVES FOR IRON ANODE ELECTROCHEMICAL SYSTEMS"
+      ],
+      "abstract": "Systems, methods, and devices of various aspects include using tin and/or antimony as an additive to an electrolyte and/or electrode in an electrochemical system, such as a battery, having an iron-based anode. In some aspects, the addition of tin and/or antimony may improve cycling of the iron-based anode. Systems, methods, and devices of various aspects include using high hydroxide concentration electrolyte in an electrochemical system, such as a battery. In some aspects, a high hydroxide concentration electrolyte may increase the stored amount of charge stored in the cell (i.e., the capacity of the battery material) and/or decrease the overpotential (i.e., increase the voltage) of the battery.",
+      "publicationNumber": "US20220367911",
+      "publicationDate": "2022-11-17",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Annelise Christine THOMPSON",
+        "Michael Andrew Gibson",
+        "William Henry Woodford",
+        "Rebecca Marie EISENACH",
+        "Jocelyn Marie NEWHOUSE",
+        "Nicholas Reed PERKINS",
+        "Olivia Claire TAYLOR",
+        "Kjell William Schroder",
+        "Karen THOMAS-ALYEA"
+      ],
+      "applicationDate": "2022-04-28",
+      "claimsCount": 47,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.495
+    },
+    {
+      "id": "MX-2023012709-A",
+      "title": [
+        "ELECTROLYTE FORMULATIONS AND ADDITIVES FOR IRON ANODE ELECTROCHEMICAL SYSTEMS."
+      ],
+      "abstract": "Systems, methods, and devices of various aspects include using tin and/or antimony as an additive to an electrolyte and/or electrode in an electrochemical system, such as a battery, having an iron-based anode. In some aspects, the addition of tin and/or antimony may improve cycling of the iron-based anode. Systems, methods, and devices of various aspects include using high hydroxide concentration electrolyte in an electrochemical system, such as a battery. In some aspects, a high hydroxide concentration electrolyte may increase the stored amount of charge stored in the cell (i.e., the capacity of the battery material) and/or decrease the overpotential (i.e., increase the voltage) of the battery.",
+      "publicationNumber": "MX2023012709",
+      "publicationDate": "2023-11-06",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "WOODFORD WILLIAM HENRY",
+        "NEWHOUSE JOCELYN MARIE",
+        "THOMPSON ANNELISE CHRISTINE",
+        "GIBSON MICHAEL ANDREW",
+        "THOMAS-ALYEA KAREN",
+        "PERKINS NICHOLAS REED",
+        "EISENACH REBECCA MARIE",
+        "TAYLOR OLIVIA CLAIRE",
+        "SCHRODER KJELL WILLIAM"
+      ],
+      "applicationDate": "2022-04-28",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 12.495
+    },
+    {
+      "id": "EP-4515615-A1",
+      "title": [
+        "ELECTROLYTE FORMULATIONS AND ADDITIVES FOR IRON ANODE ELECTROCHEMICAL SYSTEMS"
+      ],
+      "abstract": "Systems, methods, and devices of various aspects include using tin, antimony, and/or indium as an additive to an electrolyte and/or electrode in an electrochemical system, such as a battery, having an iron-based anode. In some aspects, the addition of tin, antimony, and/or indium may improve cycling of the iron-based anode. Systems, methods, and devices of various aspects include using high hydroxide concentration electrolyte in an electrochemical system, such as a battery. In some aspects, a high hydroxide concentration electrolyte may increase the stored amount of charge stored in the cell (i.e., the capacity of the battery material) and/or decrease the overpotential (i.e., increase the voltage) of the battery.",
+      "publicationNumber": "EP4515615",
+      "publicationDate": "2025-03-05",
+      "assignee": [
+        "Form Energy, Inc."
+      ],
+      "inventors": [
+        "Annelise Christine THOMPSON",
+        "MICHAEL ANDREW GIBSON",
+        "WILLIAM HENRY WOODFORD",
+        "Rebecca Marie EISENACH",
+        "Jocelyn Marie NEWHOUSE",
+        "Nicholas Reed PERKINS",
+        "Olivia Claire TAYLOR",
+        "KJELL WILLIAM SCHRODER",
+        "Karen THOMAS-ALYEA",
+        "Zachariah NORMAN",
+        "Johanna GOODMAN",
+        "Jonathan Thomas VARDNER",
+        "Benjamin Thomas HULTMAN",
+        "Sydney GRAY",
+        "Natalie MAKO",
+        "RENEE MITCHELL",
+        "Brooke WOJESKI",
+        "Jarrod David MILSHTEIN"
+      ],
+      "applicationDate": "2022-10-27",
+      "claimsCount": 34,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 12.495
+    },
+    {
+      "id": "EP-4331038-A4",
+      "title": [
+        "ELECTROLYTE FORMULATIONS AND ADDITIVES FOR IRON ANODE ELECTROCHEMICAL SYSTEMS"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP4331038",
+      "publicationDate": "2025-08-27",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Annelise Christine THOMPSON",
+        "MICHAEL ANDREW GIBSON",
+        "WILLIAM HENRY WOODFORD",
+        "Rebecca Marie EISENACH",
+        "Jocelyn Marie NEWHOUSE",
+        "Nicholas Reed PERKINS",
+        "Olivia Claire TAYLOR",
+        "KJELL WILLIAM SCHRODER",
+        "Karen THOMAS-ALYEA"
+      ],
+      "applicationDate": "2022-04-28",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 12.495
+    },
+    {
+      "id": "EP-4331038-A1",
+      "title": [
+        "ELECTROLYTE FORMULATIONS AND ADDITIVES FOR IRON ANODE ELECTROCHEMICAL SYSTEMS"
+      ],
+      "abstract": "Systems, methods, and devices of various aspects include using tin and/or antimony as an additive to an electrolyte and/or electrode in an electrochemical system, such as a battery, having an iron-based anode. In some aspects, the addition of tin and/or antimony may improve cycling of the iron-based anode. Systems, methods, and devices of various aspects include using high hydroxide concentration electrolyte in an electrochemical system, such as a battery. In some aspects, a high hydroxide concentration electrolyte may increase the stored amount of charge stored in the cell (i.e., the capacity of the battery material) and/or decrease the overpotential (i.e., increase the voltage) of the battery.",
+      "publicationNumber": "EP4331038",
+      "publicationDate": "2024-03-06",
+      "assignee": [
+        "Form Energy, Inc."
+      ],
+      "inventors": [
+        "Annelise Christine THOMPSON",
+        "MICHAEL ANDREW GIBSON",
+        "WILLIAM HENRY WOODFORD",
+        "Rebecca Marie EISENACH",
+        "Jocelyn Marie NEWHOUSE",
+        "Nicholas Reed PERKINS",
+        "Olivia Claire TAYLOR",
+        "KJELL WILLIAM SCHRODER",
+        "Karen THOMAS-ALYEA"
+      ],
+      "applicationDate": "2022-04-28",
+      "claimsCount": 77,
+      "independentClaimsCount": 15,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 12.495
+    },
+    {
+      "id": "AU-2022266674-A1",
+      "title": [
+        "ELECTROLYTE FORMULATIONS AND ADDITIVES FOR IRON ANODE ELECTROCHEMICAL SYSTEMS"
+      ],
+      "abstract": "Systems, methods, and devices of various aspects include using tin and/or antimony as an additive to an electrolyte and/or electrode in an electrochemical system, such as a battery, having an iron-based anode. In some aspects, the addition of tin and/or antimony may improve cycling of the iron-based anode. Systems, methods, and devices of various aspects include using high hydroxide concentration electrolyte in an electrochemical system, such as a battery. In some aspects, a high hydroxide concentration electrolyte may increase the stored amount of charge stored in the cell (i.e., the capacity of the battery material) and/or decrease the overpotential (i.e., increase the voltage) of the battery.",
+      "publicationNumber": "AU2022266674",
+      "publicationDate": "2023-11-09",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Rebecca Marie EISENACH",
+        "MICHAEL ANDREW GIBSON",
+        "Jocelyn Marie NEWHOUSE",
+        "Nicholas Reed PERKINS",
+        "KJELL WILLIAM SCHRODER",
+        "Olivia Claire TAYLOR",
+        "Karen THOMAS-ALYEA",
+        "Annelise Christine THOMPSON",
+        "WILLIAM HENRY WOODFORD"
+      ],
+      "applicationDate": "2022-04-28",
+      "claimsCount": 77,
+      "independentClaimsCount": 15,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 12.495
+    },
+    {
+      "id": "WO-2025043256-A1",
+      "title": [
+        "CARBON DIOXIDE REMOVAL FOR ELECTROCHEMICAL POWER STORAGE"
+      ],
+      "abstract": "According to one aspect, a system for electrochemical power storage may include a plurality of instances of a metal-air battery, each instance of the metal-air battery including an air electrode, a metal electrode, and a liquid electrolyte separating the air electrode from the metal electrode with the air electrode and the metal electrode ionically coupled to one another via the liquid electrolyte; and a carbon dioxide removal system into which ambient air is directable, carbon dioxide from the ambient air removable in the carbon dioxide removal system to generate purified air, and the carbon dioxide removal system in fluid communication with the plurality of instances of the metal-air batteries such that the purified air is movable from the carbon dioxide removal system to the plurality of instances of the metal-air battery.",
+      "publicationNumber": "WO2025043256",
+      "publicationDate": "2025-02-27",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Aurora Hope BUNTEN",
+        "Danielle Cassidy SMITH",
+        "GRANT HARRISON FRIESEN",
+        "Jhalak Joshipura VASAVADA"
+      ],
+      "applicationDate": "2024-08-26",
+      "claimsCount": 18,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Environmental technology",
+        "Materials, metallurgy"
+      ],
+      "score": 12.488747
+    },
+    {
+      "id": "WO-2024044609-A1",
+      "title": [
+        "BATTERY MANAGEMENT SYSTEM CONTROL CIRCUITRY"
+      ],
+      "abstract": "Systems, methods, and devices of the various embodiments may provide control and/or sensing circuit configurations for electrochemical energy storage systems, such as metal-air battery systems. Various embodiments may include systems, methods, and devices supporting terminal switching between a charge cathode and a discharge cathode of a metal-air battery, bypass switching for the metal-air battery, and/or electrolyte low level detection for the metal-air battery.",
+      "publicationNumber": "WO2024044609",
+      "publicationDate": "2024-02-29",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Tuan Minh TRUONG",
+        "Tyler GRANDAHL",
+        "Keith William Johnston",
+        "Jhalak Joshipura VASAVADA",
+        "GRANT HARRISON FRIESEN"
+      ],
+      "applicationDate": "2023-08-22",
+      "claimsCount": 24,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.488747
+    },
+    {
+      "id": "US-20240072312-A1",
+      "title": [
+        "Battery Management System Control Circuitry"
+      ],
+      "abstract": "Systems, methods, and devices of the various embodiments may provide control and/or sensing circuit configurations for electrochemical energy storage systems, such as metal-air battery systems. Various embodiments may include systems, methods, and devices supporting terminal switching between a charge cathode and a discharge cathode of a metal-air battery, bypass switching for the metal-air battery, and/or electrolyte low level detection for the metal-air battery.",
+      "publicationNumber": "US20240072312",
+      "publicationDate": "2024-02-29",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Tuan Minh TRUONG",
+        "Tyler GRANDAHL",
+        "Keith William Johnston",
+        "Jhalak Joshipura Vasavada",
+        "Grant Harrison Friesen"
+      ],
+      "applicationDate": "2023-08-22",
+      "claimsCount": 24,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.488747
+    },
+    {
+      "id": "EP-4578059-A1",
+      "title": [
+        "BATTERY MANAGEMENT SYSTEM CONTROL CIRCUITRY"
+      ],
+      "abstract": "Systems, methods, and devices of the various embodiments may provide control and/or sensing circuit configurations for electrochemical energy storage systems, such as metal-air battery systems. Various embodiments may include systems, methods, and devices supporting terminal switching between a charge cathode and a discharge cathode of a metal-air battery, bypass switching for the metal-air battery, and/or electrolyte low level detection for the metal-air battery.",
+      "publicationNumber": "EP4578059",
+      "publicationDate": "2025-07-02",
+      "assignee": [
+        "Form Energy, Inc."
+      ],
+      "inventors": [
+        "Tuan Minh TRUONG",
+        "Tyler GRANDAHL",
+        "Keith William Johnston",
+        "Jhalak Joshipura VASAVADA",
+        "GRANT HARRISON FRIESEN"
+      ],
+      "applicationDate": "2023-08-22",
+      "claimsCount": 24,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.488747
+    },
+    {
+      "id": "WO-2025217434-A1",
+      "title": [
+        "METHANE-OXYGEN BATTERY SYSTEM AND METHOD OF USE THEREOF"
+      ],
+      "abstract": "A methane-oxygen battery system including an electrochemical cell including a positive electrode, a negative electrode, and an electrolyte; a reactor in fluid communication with the negative electrode; a fuel gauge; and a gas store including a first compartment in fluid communication with the positive electrode and configured to store oxygen, a second compartment in fluid communication with the negative electrode and configured to store carbon dioxide and water, a third compartment in fluid communication with the negative electrode or the reactor and configured to store methane, a first barrier between the first compartment and the second compartment, and a second barrier between the second compartment and the third compartment. The gas store and the electrochemical cell form a closed system. The fuel gauge is configured to determine a state of charge based on a position of at least one of the first barrier or the second barrier.",
+      "publicationNumber": "WO2025217434",
+      "publicationDate": "2025-10-16",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Joseph S. MANSER",
+        "Christopher Thomas REYNOLDS",
+        "LIANG SU",
+        "NICHOLAS PERKINS"
+      ],
+      "applicationDate": "2025-04-10",
+      "claimsCount": 73,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 12.4874115
+    },
+    {
+      "id": "WO-2025054096-A1",
+      "title": [
+        "OXYGEN REDUCTION REACTION CATALYST AND METHODS OF SYNTHESIZING THE SAME"
+      ],
+      "abstract": "A composition includes a compound of the formula AxMyOz, wherein A is an A-site element and includes Ba, Ca, Cu, Dy, Er, Gd, La, Nd, Pr, Sm, Sr, Y, or Yb, or a combination thereof, M is an M-site element and includes Co, Cu, Fe, Mn, Ni, Ti, Sc, or P, or a combination thereof, and 0",
+      "publicationNumber": "WO2025054096",
+      "publicationDate": "2025-03-13",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Mauricio PAZ",
+        "Danielle Marie BUTTS",
+        "LIANG SU",
+        "Vlad TARASOV",
+        "Glenn DONAHEY"
+      ],
+      "applicationDate": "2024-08-30",
+      "claimsCount": 51,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Chemical engineering",
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 12.4874115
+    },
+    {
+      "id": "WO-2022103893-A9",
+      "title": [
+        "METHOD OF IRON ELECTRODE MANUFACTURE AND ARTICLES AND SYSTEMS THEREFROM"
+      ],
+      "abstract": "Iron electrode materials, iron electrodes, and methods for fabricating said iron electrode materials and iron electrodes via elevated temperature thermomechanical processing of porous particulate iron materials are described. For example, as part of iron electrode manufacture, a particulate iron material into an apparatus may be provided. In addition, pressure and/or heat may be applied to the particulate iron material in the apparatus for a time period to form an electrode having therein conductive connections between particles of the particulate iron material.",
+      "publicationNumber": "WO2022103893",
+      "publicationDate": "2022-09-22",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "MICHAEL ANDREW GIBSON",
+        "Joseph Anthony PANTANO",
+        "Rupak CHAKRABORTY",
+        "Nicholas Reed PERKINS",
+        "WILLIAM HENRY WOODFORD",
+        "Valerie Christine SACHA",
+        "Robert Wesley MORGAN",
+        "ERIC WEBER",
+        "VINCENT CHEVRIER",
+        "ANDREW HAYNES LIOTTA",
+        "Karen THOMAS-ALYEA",
+        "Leah Nation",
+        "Michael CHON",
+        "Rebecca Marie EISENACH"
+      ],
+      "applicationDate": "2021-11-10",
+      "claimsCount": 36,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.4874115
+    },
+    {
+      "id": "WO-2022103893-A1",
+      "title": [
+        "METHOD OF IRON ELECTRODE MANUFACTURE AND ARTICLES AND SYSTEMS THEREFROM"
+      ],
+      "abstract": "Iron electrode materials, iron electrodes, and methods for fabricating said iron electrode materials and iron electrodes via elevated temperature thermomechanical processing of porous particulate iron materials are described. For example, as part of iron electrode manufacture, a particulate iron material into an apparatus may be provided. In addition, pressure and/or heat may be applied to the particulate iron material in the apparatus for a time period to form an electrode having therein conductive connections between particles of the particulate iron material.",
+      "publicationNumber": "WO2022103893",
+      "publicationDate": "2022-05-19",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "MICHAEL ANDREW GIBSON",
+        "Joseph Anthony PANTANO",
+        "Rupak CHAKRABORTY",
+        "Nicholas Reed PERKINS",
+        "WILLIAM HENRY WOODFORD",
+        "Valerie Christine SACHA",
+        "Robert Wesley MORGAN",
+        "ERIC WEBER",
+        "VINCENT CHEVRIER",
+        "ANDREW HAYNES LIOTTA",
+        "Karen THOMAS-ALYEA",
+        "Leah Nation",
+        "Michael CHON",
+        "Rebecca Marie EISENACH"
+      ],
+      "applicationDate": "2021-11-10",
+      "claimsCount": 36,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.4874115
+    },
+    {
+      "id": "WO-2020006436-A1",
+      "title": [
+        "AQUEOUS POLYSULFIDE-BASED ELECTROCHEMICAL CELL"
+      ],
+      "abstract": "An electrochemical cell and battery system including cells, each cell including a catholyte, an anolyte, and a separator disposed between the catholyte and anolyte and that is permeable to the at least one ionic species (for example, a metal cation or the hydroxide ion). The catholyte solution includes a ferricyanide, permanganate, manganate, sulfur, and/or polysulfide compound, and the anolyte includes a sulfide and/or polysulfide compound. These electrochemical couples may be embodied in various physical architectures, including static (non-flowing) architectures or in flow battery (flowing) architectures.",
+      "publicationNumber": "WO2020006436",
+      "publicationDate": "2020-01-02",
+      "assignee": [
+        "FORM ENERGY INC."
+      ],
+      "inventors": [
+        "LIANG SU",
+        "WEI XIE",
+        "YET-MING CHIANG",
+        "WILLIAM HENRY WOODFORD",
+        "Lucas COHEN",
+        "Jessa SILVER",
+        "Katelyn RIPLEY",
+        "ERIC WEBER",
+        "MARCO FERRARA",
+        "Mateo Cristian JARAMILLO",
+        "Theodore Alan WILEY"
+      ],
+      "applicationDate": "2019-06-28",
+      "claimsCount": 77,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 12.4874115
+    },
+    {
+      "id": "US-20250323298-A1",
+      "title": [
+        "METHANE-OXYGEN BATTERY SYSTEM AND METHOD OF USE THEREOF"
+      ],
+      "abstract": "A methane-oxygen battery system including an electrochemical cell including a positive electrode, a negative electrode, and an electrolyte; a reactor in fluid communication with the negative electrode; a fuel gauge; and a gas store including a first compartment in fluid communication with the positive electrode and configured to store oxygen, a second compartment in fluid communication with the negative electrode and configured to store carbon dioxide and water, a third compartment in fluid communication with the negative electrode or the reactor and configured to store methane, a first barrier between the first compartment and the second compartment, and a second barrier between the second compartment and the third compartment. The gas store and the electrochemical cell form a closed system. The fuel gauge is configured to determine a state of charge based on a position of at least one of the first barrier or the second barrier.",
+      "publicationNumber": "US20250323298",
+      "publicationDate": "2025-10-16",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Joseph S. Manser",
+        "Christopher Thomas Reynolds",
+        "Liang Su",
+        "Nicholas Perkins"
+      ],
+      "applicationDate": "2025-04-10",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.4874115
+    },
+    {
+      "id": "US-20250055011-A1",
+      "title": [
+        "AQUEOUS POLYSULFIDE-BASED ELECTROCHEMICAL CELL"
+      ],
+      "abstract": "An electrochemical cell and battery system including cells, each cell including a catholyte, an anolyte, and a separator disposed between the catholyte and anolyte and that is permeable to the at least one ionic species (for example, a metal cation or the hydroxide ion). The catholyte solution includes a ferricyanide, permanganate, manganate, sulfur, and/or polysulfide compound, and the anolyte includes a sulfide and/or polysulfide compound. These electrochemical couples may be embodied in various physical architectures, including static (non-flowing) architectures or in flow battery (flowing) architectures.",
+      "publicationNumber": "US20250055011",
+      "publicationDate": "2025-02-13",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Liang Su",
+        "Wei Xie",
+        "Yet-Ming Chiang",
+        "William Henry Woodford",
+        "Lucas Cohen",
+        "Jessa Silver",
+        "Katelyn Ripley",
+        "Eric Weber",
+        "Marco Ferrara",
+        "Mateo Cristian Jaramillo",
+        "Theodore Alan Wiley"
+      ],
+      "applicationDate": "2024-03-29",
+      "claimsCount": 14,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 12.4874115
+    },
+    {
+      "id": "US-20220149359-A1",
+      "title": [
+        "METHOD OF IRON ELECTRODE MANUFACTURE AND ARTICLES AND SYSTEMS THEREFROM"
+      ],
+      "abstract": "Iron electrode materials, iron electrodes, and methods for fabricating said iron electrode materials and iron electrodes via elevated temperature thermomechanical processing of porous particulate iron materials are described. For example, as part of iron electrode manufacture, a particulate iron material into an apparatus may be provided. In addition, pressure and/or heat may be applied to the particulate iron material in the apparatus for a time period to form an electrode having therein conductive connections between particles of the particulate iron material.",
+      "publicationNumber": "US20220149359",
+      "publicationDate": "2022-05-12",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Michael Andrew Gibson",
+        "Joseph Anthony PANTANO",
+        "Rupak Chakraborty",
+        "Nicholas Reed PERKINS",
+        "William Henry Woodford",
+        "Valerie Christine SACHA",
+        "Robert Wesley MORGAN",
+        "Eric Weber",
+        "Vincent CHEVRIER",
+        "Andrew Haynes LIOTTA",
+        "Karen THOMAS-ALYEA",
+        "Leah NATION",
+        "Michael CHON",
+        "Rebecca Marie EISENACH"
+      ],
+      "applicationDate": "2021-11-10",
+      "claimsCount": 33,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.4874115
+    },
+    {
+      "id": "MX-2023005363-A",
+      "title": [
+        "METHOD OF IRON ELECTRODE MANUFACTURE AND ARTICLES AND SYSTEMS THEREFROM."
+      ],
+      "abstract": "Iron electrode materials, iron electrodes, and methods for fabricating said iron electrode materials and iron electrodes via elevated temperature thermomechanical processing of porous particulate iron materials are described. For example, as part of iron electrode manufacture, a particulate iron material into an apparatus may be provided. In addition, pressure and/or heat may be applied to the particulate iron material in the apparatus for a time period to form an electrode having therein conductive connections between particles of the particulate iron material.",
+      "publicationNumber": "MX2023005363",
+      "publicationDate": "2023-05-22",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "CHAKRABORTY RUPAK",
+        "WEBER ERIC",
+        "WOODFORD WILLIAM HENRY",
+        "PANTANO JOSEPH ANTHONY",
+        "LIOTTA ANDREW HAYNES",
+        "GIBSON MICHAEL ANDREW",
+        "THOMAS-ALYEA KAREN",
+        "PERKINS NICHOLAS REED",
+        "SACHA VALERIE CHRISTINE",
+        "MORGAN ROBERT WESLEY",
+        "CHEVRIER VINCENT",
+        "NATION LEAH",
+        "CHON MICHAEL",
+        "EISENACH REBECCA MARIE"
+      ],
+      "applicationDate": "2021-11-10",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.4874115
+    },
+    {
+      "id": "EP-4244914-A4",
+      "title": [
+        "METHOD OF IRON ELECTRODE MANUFACTURE AND ARTICLES AND SYSTEMS THEREFROM"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP4244914",
+      "publicationDate": "2025-06-18",
+      "assignee": [
+        "Form Energy, Inc."
+      ],
+      "inventors": [
+        "MICHAEL ANDREW GIBSON",
+        "Joseph Anthony PANTANO",
+        "Rupak CHAKRABORTY",
+        "Nicholas Reed PERKINS",
+        "WILLIAM HENRY WOODFORD",
+        "Valerie Christine SACHA",
+        "Robert Wesley MORGAN",
+        "ERIC WEBER",
+        "VINCENT CHEVRIER",
+        "ANDREW HAYNES LIOTTA",
+        "Karen THOMAS-ALYEA",
+        "Leah Nation",
+        "Michael CHON",
+        "Rebecca Marie EISENACH"
+      ],
+      "applicationDate": "2021-11-10",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.4874115
+    },
+    {
+      "id": "EP-4244914-A1",
+      "title": [
+        "METHOD OF IRON ELECTRODE MANUFACTURE AND ARTICLES AND SYSTEMS THEREFROM"
+      ],
+      "abstract": "Iron electrode materials, iron electrodes, and methods for fabricating said iron electrode materials and iron electrodes via elevated temperature thermomechanical processing of porous particulate iron materials are described. For example, as part of iron electrode manufacture, a particulate iron material into an apparatus may be provided. In addition, pressure and/or heat may be applied to the particulate iron material in the apparatus for a time period to form an electrode having therein conductive connections between particles of the particulate iron material.",
+      "publicationNumber": "EP4244914",
+      "publicationDate": "2023-09-20",
+      "assignee": [
+        "Form Energy, Inc."
+      ],
+      "inventors": [
+        "MICHAEL ANDREW GIBSON",
+        "Joseph Anthony PANTANO",
+        "Rupak CHAKRABORTY",
+        "Nicholas Reed PERKINS",
+        "WILLIAM HENRY WOODFORD",
+        "Valerie Christine SACHA",
+        "Robert Wesley MORGAN",
+        "ERIC WEBER",
+        "VINCENT CHEVRIER",
+        "ANDREW HAYNES LIOTTA",
+        "Karen THOMAS-ALYEA",
+        "Leah Nation",
+        "Michael CHON",
+        "Rebecca Marie EISENACH"
+      ],
+      "applicationDate": "2021-11-10",
+      "claimsCount": 36,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.4874115
+    },
+    {
+      "id": "EP-3815167-A4",
+      "title": [
+        "AQUEOUS POLYSULFIDE-BASED ELECTROCHEMICAL CELL"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP3815167",
+      "publicationDate": "2022-03-16",
+      "assignee": [
+        "Form Energy, Inc."
+      ],
+      "inventors": [
+        "LIANG SU",
+        "WEI XIE",
+        "YET-MING CHIANG",
+        "WILLIAM HENRY WOODFORD",
+        "Lucas COHEN",
+        "Jessa SILVER",
+        "Katelyn RIPLEY",
+        "ERIC WEBER",
+        "MARCO FERRARA",
+        "Mateo Cristian JARAMILLO",
+        "Theodore Alan WILEY"
+      ],
+      "applicationDate": "2019-06-28",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 12.4874115
+    },
+    {
+      "id": "EP-3815167-A1",
+      "title": [
+        "AQUEOUS POLYSULFIDE-BASED ELECTROCHEMICAL CELL"
+      ],
+      "abstract": "An electrochemical cell and battery system including cells, each cell including a catholyte, an anolyte, and a separator disposed between the catholyte and anolyte and that is permeable to the at least one ionic species (for example, a metal cation or the hydroxide ion). The catholyte solution includes a ferricyanide, permanganate, manganate, sulfur, and/or polysulfide compound, and the anolyte includes a sulfide and/or polysulfide compound. These electrochemical couples may be embodied in various physical architectures, including static (non-flowing) architectures or in flow battery (flowing) architectures.",
+      "publicationNumber": "EP3815167",
+      "publicationDate": "2021-05-05",
+      "assignee": [
+        "Form Energy, Inc."
+      ],
+      "inventors": [
+        "LIANG SU",
+        "WEI XIE",
+        "YET-MING CHIANG",
+        "WILLIAM HENRY WOODFORD",
+        "Lucas COHEN",
+        "Jessa SILVER",
+        "Katelyn RIPLEY",
+        "ERIC WEBER",
+        "MARCO FERRARA",
+        "Mateo Cristian JARAMILLO",
+        "Theodore Alan WILEY"
+      ],
+      "applicationDate": "2019-06-28",
+      "claimsCount": 77,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 12.4874115
+    },
+    {
+      "id": "AU-2021379667-A9",
+      "title": [
+        "METHOD OF IRON ELECTRODE MANUFACTURE AND ARTICLES AND SYSTEMS THEREFROM"
+      ],
+      "abstract": "Iron electrode materials, iron electrodes, and methods for fabricating said iron electrode materials and iron electrodes via elevated temperature thermomechanical processing of porous particulate iron materials are described. For example, as part of iron electrode manufacture, a particulate iron material into an apparatus may be provided. In addition, pressure and/or heat may be applied to the particulate iron material in the apparatus for a time period to form an electrode having therein conductive connections between particles of the particulate iron material.",
+      "publicationNumber": "AU2021379667",
+      "publicationDate": "2024-02-08",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Rupak CHAKRABORTY",
+        "VINCENT CHEVRIER",
+        "Michael CHON",
+        "Rebecca Marie EISENACH",
+        "MICHAEL ANDREW GIBSON",
+        "ANDREW HAYNES LIOTTA",
+        "Robert Wesley MORGAN",
+        "Leah Nation",
+        "Joseph Anthony PANTANO",
+        "Nicholas Reed PERKINS",
+        "Valerie Christine SACHA",
+        "Karen THOMAS-ALYEA",
+        "ERIC WEBER",
+        "WILLIAM HENRY WOODFORD"
+      ],
+      "applicationDate": "2021-11-10",
+      "claimsCount": 36,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.4874115
+    },
+    {
+      "id": "AU-2021379667-A1",
+      "title": [
+        "METHOD OF IRON ELECTRODE MANUFACTURE AND ARTICLES AND SYSTEMS THEREFROM"
+      ],
+      "abstract": "Iron electrode materials, iron electrodes, and methods for fabricating said iron electrode materials and iron electrodes via elevated temperature thermomechanical processing of porous particulate iron materials are described. For example, as part of iron electrode manufacture, a particulate iron material into an apparatus may be provided. In addition, pressure and/or heat may be applied to the particulate iron material in the apparatus for a time period to form an electrode having therein conductive connections between particles of the particulate iron material.",
+      "publicationNumber": "AU2021379667",
+      "publicationDate": "2023-06-08",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Rupak CHAKRABORTY",
+        "VINCENT CHEVRIER",
+        "Michael CHON",
+        "Rebecca Marie EISENACH",
+        "MICHAEL ANDREW GIBSON",
+        "ANDREW HAYNES LIOTTA",
+        "Robert Wesley MORGAN",
+        "Leah Nation",
+        "Joseph Anthony PANTANO",
+        "Nicholas Reed PERKINS",
+        "Valerie Christine SACHA",
+        "Karen THOMAS-ALYEA",
+        "ERIC WEBER",
+        "WILLIAM HENRY WOODFORD"
+      ],
+      "applicationDate": "2021-11-10",
+      "claimsCount": 36,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.4874115
+    },
+    {
+      "id": "WO-2025217431-A8",
+      "title": [
+        "METAL-OXYGEN BATTERY AND METHOD OF USE THEREOF"
+      ],
+      "abstract": "A metal-oxygen battery system, including: an electrochemical cell including a positive electrode, a negative electrode, and an electrolyte between the positive electrode and the negative electrode; and an energy storage reactor in fluid communication with the negative electrode; a gas store in fluid communication with the positive electrode, the gas store configured to store oxygen; and a fuel gauge configured to determine a state of charge, wherein the gas store and the positive electrode form a closed system.",
+      "publicationNumber": "WO2025217431",
+      "publicationDate": "2025-11-20",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Joseph S. MANSER",
+        "Christopher Thomas REYNOLDS",
+        "LIANG SU",
+        "NICHOLAS PERKINS"
+      ],
+      "applicationDate": "2025-04-10",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 12.484564
+    },
+    {
+      "id": "WO-2025217431-A1",
+      "title": [
+        "METAL-OXYGEN BATTERY AND METHOD OF USE THEREOF"
+      ],
+      "abstract": "A metal-oxygen battery system, including: an electrochemical cell including a positive electrode, a negative electrode, and an electrolyte between the positive electrode and the negative electrode; and an energy storage reactor in fluid communication with the negative electrode; a gas store in fluid communication with the positive electrode, the gas store configured to store oxygen; and a fuel gauge configured to determine a state of charge, wherein the gas store and the positive electrode form a closed system.",
+      "publicationNumber": "WO2025217431",
+      "publicationDate": "2025-10-16",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Joseph S. MANSER",
+        "Christopher Thomas REYNOLDS",
+        "LIANG SU",
+        "NICHOLAS PERKINS"
+      ],
+      "applicationDate": "2025-04-10",
+      "claimsCount": 33,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 12.484564
+    },
+    {
+      "id": "WO-2025085934-A1",
+      "title": [
+        "MITIGATING PASSIVATION OF METAL ELECTRODES"
+      ],
+      "abstract": "According to one aspect, an electrochemical cell may include a first electrode including a metal-containing active material, a second electrode, and an electrolyte in ionic communication between the first electrode and the second electrode, the electrolyte including a gel and an additive, the gel including a polymer network and a liquid medium, the polymer network carried in the liquid medium, the additive suspended in the gel and accumulable at the metal-containing active material of the first electrode.",
+      "publicationNumber": "WO2025085934",
+      "publicationDate": "2025-04-24",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Hannah BATES",
+        "JEFFREY POIRIER",
+        "MARC SYVERTSEN",
+        "Annelise Christine THOMPSON",
+        "Jocelyn Marie NEWHOUSE",
+        "KE HUANG",
+        "Zachariah NORMAN",
+        "Caitlin BENTLEY",
+        "Johanna BARBOUR"
+      ],
+      "applicationDate": "2024-10-21",
+      "claimsCount": 81,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.484564
+    },
+    {
+      "id": "WO-2025085926-A1",
+      "title": [
+        "LOW CONCENTRATION ADDITIVES FOR IRON NEGATIVE ELECTRODES"
+      ],
+      "abstract": "According to an aspect, an electrochemical cell may include an electrolyte and an anode in the electrolyte, the anode including an iron-containing active material, at least one of the anode and the electrolyte including an additive reactive to inhibit hydrogen evolution in a charge state and in a resting state of the electrochemical cell, and the additive in a concentration greater than about 10 and less than about 10,000 atoms of additive per million atoms iron of the iron-containing active material.",
+      "publicationNumber": "WO2025085926",
+      "publicationDate": "2025-04-24",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Zachariah NORMAN",
+        "Annelise Christine THOMPSON",
+        "Cleo KYRIAKIDES",
+        "MICHAEL ANDREW GIBSON",
+        "Sarah FRISCO",
+        "DAVID HOOKE",
+        "Rishav CHOUDHURY",
+        "Catherine Kingston GROSCHNER",
+        "CRAIG STRINGER"
+      ],
+      "applicationDate": "2024-10-21",
+      "claimsCount": 73,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.484564
+    },
+    {
+      "id": "WO-2025076121-A1",
+      "title": [
+        "FLAME ARRESTING IN ELECTROCHEMICAL ENERGY STORAGE MODULES"
+      ],
+      "abstract": "According to one aspect, a method of flame arresting in an electrochemical energy storage module may include receiving one or more signals indicative of operation of a plurality of electrochemical cells; based on the one or more signals, determining an operating state of the plurality of electrochemical cells; and, according to a predetermined relationship between the operating state of the plurality of electrochemical cells and a flame risk in a shared vent in fluid communication with the plurality of electrochemical cells, controlling power to at least one fan to control movement of gas along the shared vent and toward an outlet region in fluid communication with the shared vent.",
+      "publicationNumber": "WO2025076121",
+      "publicationDate": "2025-04-10",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Jaime Andres OCAMPO",
+        "Jarrod David MILSHTEIN",
+        "GRANT HARRISON FRIESEN",
+        "Alli NANSEL"
+      ],
+      "applicationDate": "2024-10-02",
+      "claimsCount": 22,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.484564
+    },
+    {
+      "id": "WO-2024081792-A1",
+      "title": [
+        "ELECTRODE CONFIGURATIONS FOR IRON-AIR ELECTROCHEMICAL SYSTEMS"
+      ],
+      "abstract": "An iron-air battery including an iron electrode in contact with an anode current collector, wherein the iron electrode includes a plurality of channels; an oxygen reduction reaction electrode having a first surface facing the plurality of channels and an opposing second surface in contact with air; an oxygen evolution reaction electrode interdigitated with the plurality of channels of the iron electrode, wherein at least a portion of the oxygen evolution reaction electrode is disposed within the plurality of channels in a direction perpendicular to a plane of the oxygen reduction reaction electrode; and an electrolyte in contact with the iron electrode, the first surface of the oxygen reduction reaction electrode, the plurality of channels, and the oxygen evolution reaction electrode.",
+      "publicationNumber": "WO2024081792",
+      "publicationDate": "2024-04-18",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Joseph Stephen MANSER",
+        "Christopher Thomas REYNOLDS",
+        "Karen THOMAS-ALYEA",
+        "Michael CHON",
+        "DAVID HOOKE",
+        "MICHAEL ANDREW GIBSON",
+        "YUTO TAKAGI",
+        "Johanna GOODMAN",
+        "Robert Wesley MORGAN",
+        "Valerie Christine SACHA",
+        "Angel Ruben RIVERA",
+        "Joseph Anthony PANTANO",
+        "Julia SOKOL",
+        "Nicholas Reed PERKINS"
+      ],
+      "applicationDate": "2023-10-12",
+      "claimsCount": 89,
+      "independentClaimsCount": 6,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 12.484564
+    },
+    {
+      "id": "WO-2023205520-A1",
+      "title": [
+        "BATTERY STRING CONFIGURATION"
+      ],
+      "abstract": "Systems, methods, and devices of the various embodiments may include battery string configurations for power systems, such as dynamic battery string configurations, intermodule connections, etc. Various embodiments may include a battery system comprising two or more strings of batteries, and an electrical power conversion system connected to the strings of batteries and controllable to change configuration of connections of a set of switches to the two or more strings based on the operating state of the battery system.",
+      "publicationNumber": "WO2023205520",
+      "publicationDate": "2023-10-26",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Tyler GRANDAHL",
+        "Amelie Nina KHAREY",
+        "Nicolas MCKIBBEN",
+        "Keith William Johnston"
+      ],
+      "applicationDate": "2023-04-24",
+      "claimsCount": 13,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.484564
+    },
+    {
+      "id": "WO-2022155254-A1",
+      "title": [
+        "ELECTRODES FOR ALKALINE IRON BATTERIES"
+      ],
+      "abstract": "Various embodiments may include a battery electrode, comprising: an iron electrode body comprising iron active material and a zinc sulfide additive, wherein the zinc sulfide additive comprises crystalline cubic zinc sulfide. Various embodiments may include a battery electrode, comprising: an iron electrode body comprising iron active material and a manganese sulfide additive, wherein the manganese sulfide additive comprises crystalline cubic manganese sulfide. Various embodiments may include an iron electrode battery, comprising: an iron electrode; and a sulfide reservoir separate from the iron electrode, the sulfide reservoir comprising crystalline cubic zinc sulfide. Various embodiments may include an iron electrode battery, comprising: an iron electrode and a sulfide reservoir separate from the iron electrode, the sulfide reservoir comprising crystalline cubic manganese sulfide.",
+      "publicationNumber": "WO2022155254",
+      "publicationDate": "2022-07-21",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Chenguang YANG",
+        "LANG J. MCHARDY",
+        "Annelise Christine THOMPSON",
+        "Rupak CHAKRABORTY"
+      ],
+      "applicationDate": "2022-01-12",
+      "claimsCount": 57,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.484564
+    },
+    {
+      "id": "WO-2021226409-A1",
+      "title": [
+        "BATTERY RECYCLING"
+      ],
+      "abstract": "Various embodiments relate to several processes that may recover commodity chemicals from an alkaline metal-air battery. In various embodiments, while the cell is operating, various side products and waste streams may be collected and processed to regain use or additional value. Various embodiments also include processes to be performed after the cell has been disassembled, and each of its electrodes have been separated such as not to be an electrical hazard. The alkaline metal battery recycling processes described herein may provide multiple forms of commodity iron, high purity transition metal ores, fluoropolymer dispersions, various carbons, commodity chemicals, and catalyst dispersions.",
+      "publicationNumber": "WO2021226409",
+      "publicationDate": "2021-11-11",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Nicholas Reed PERKINS",
+        "Isabella CARUSO",
+        "Rachel Elizabeth MUMMA",
+        "ANTHONY TRAN",
+        "Rupak CHAKRABORTY",
+        "Matthew Edward VIA",
+        "Jocelyn Marie NEWHOUSE",
+        "Jarrod David MILSHTEIN",
+        "LIANG SU",
+        "MICHAEL ANDREW GIBSON",
+        "Danielle Cassidy SMITH",
+        "WILLIAM HENRY WOODFORD",
+        "Amelie Nina KHAREY"
+      ],
+      "applicationDate": "2021-05-06",
+      "claimsCount": 15,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.484564
+    },
+    {
+      "id": "WO-2020006506-A3",
+      "title": [
+        "ROLLING DIAPHRAGM SEAL"
+      ],
+      "abstract": "Systems and methods of the various embodiments may provide a battery including a rolling diaphragm configured to move to accommodate an internal volume change of one or more components of the battery. Systems and methods of the various embodiments may provide a battery housing including a rolling diaphragm seal disposed between an interior volume of the battery and an electrode assembly within the battery. Various embodiments may provide an air electrode assembly including an air electrode supported on a buoyant platform such that the air electrode is above a surface of a volume of electrolyte when the buoyant platform is floating in the electrolyte.",
+      "publicationNumber": "WO2020006506",
+      "publicationDate": "2020-02-13",
+      "assignee": [
+        "FORM ENERGY INC."
+      ],
+      "inventors": [
+        "MITCHELL TERRANCE WESTWOOD",
+        "ALEXANDER H. SLOCUM",
+        "WILLIAM HENRY WOODFORD",
+        "YET-MING CHIANG",
+        "Ian Salmon McKAY",
+        "Mateo Cristian JARAMILLO",
+        "ERIC WEBER",
+        "Jarrod David MILSHTEIN",
+        "LIANG SU",
+        "Rupak CHAKRABORTY",
+        "Rachel Elizabeth MUMMA",
+        "MARC-ANTONI GOULET",
+        "Brian BEGGAN",
+        "MARCO FERRARA",
+        "Theodore Alan WILEY"
+      ],
+      "applicationDate": "2019-06-28",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 12.484564
+    },
+    {
+      "id": "WO-2020006506-A2",
+      "title": [
+        "ROLLING DIAPHRAGM SEAL"
+      ],
+      "abstract": "Systems and methods of the various embodiments may provide a battery including a rolling diaphragm configured to move to accommodate an internal volume change of one or more components of the battery. Systems and methods of the various embodiments may provide a battery housing including a rolling diaphragm seal disposed between an interior volume of the battery and an electrode assembly within the battery. Various embodiments may provide an air electrode assembly including an air electrode supported on a buoyant platform such that the air electrode is above a surface of a volume of electrolyte when the buoyant platform is floating in the electrolyte.",
+      "publicationNumber": "WO2020006506",
+      "publicationDate": "2020-01-02",
+      "assignee": [
+        "FORM ENERGY INC."
+      ],
+      "inventors": [
+        "MITCHELL TERRANCE WESTWOOD",
+        "ALEXANDER H. SLOCUM",
+        "WILLIAM HENRY WOODFORD",
+        "YET-MING CHIANG",
+        "Ian Salmon McKAY",
+        "Mateo Cristian JARAMILLO",
+        "ERIC WEBER",
+        "Jarrod David MILSHTEIN",
+        "LIANG SU",
+        "Rupak CHAKRABORTY",
+        "Rachel Elizabeth MUMMA",
+        "MARC-ANTONI GOULET",
+        "Brian BEGGAN",
+        "MARCO FERRARA",
+        "Theodore Alan WILEY"
+      ],
+      "applicationDate": "2019-06-28",
+      "claimsCount": 92,
+      "independentClaimsCount": 19,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy"
+      ],
+      "score": 12.484564
+    },
+    {
+      "id": "US-20250323288-A1",
+      "title": [
+        "METAL-OXYGEN BATTERY AND METHOD OF USE THEREOF"
+      ],
+      "abstract": "A metal-oxygen battery system, including: an electrochemical cell including a positive electrode, a negative electrode, and an electrolyte between the positive electrode and the negative electrode; and an energy storage reactor in fluid communication with the negative electrode; a gas store in fluid communication with the positive electrode, the gas store configured to store oxygen; and a fuel gauge configured to determine a state of charge, wherein the gas store and the positive electrode form a closed system.",
+      "publicationNumber": "US20250323288",
+      "publicationDate": "2025-10-16",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Joseph S. Manser",
+        "Christopher Thomas Reynolds",
+        "Liang Su",
+        "Nicholas Perkins"
+      ],
+      "applicationDate": "2025-04-10",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Fuel cells technology"
+      ],
+      "score": 12.484564
+    },
+    {
+      "id": "US-20250253426-A1",
+      "title": [
+        "BATTERY RECYCLING"
+      ],
+      "abstract": "Various embodiments relate to several processes that may recover commodity chemicals from an alkaline metal-air battery. In various embodiments, while the cell is operating, various side products and waste streams may be collected and processed to regain use or additional value. Various embodiments also include processes to be performed after the cell has been disassembled, and each of its electrodes have been separated such as not to be an electrical hazard. The alkaline metal battery recycling processes described herein may provide multiple forms of commodity iron, high purity transition metal ores, fluoropolymer dispersions, various carbons, commodity chemicals, and catalyst dispersions.",
+      "publicationNumber": "US20250253426",
+      "publicationDate": "2025-08-07",
+      "assignee": [
+        "FORM ENERGY, INC."
+      ],
+      "inventors": [
+        "Nicholas Reed PERKINS",
+        "Isabella CARUSO",
+        "Rachel Elizabeth MUMMA",
+        "Anthony Tran",
+        "Rupak Chakraborty",
+        "Matthew Edward Via",
+        "Jocelyn Marie NEWHOUSE",
+        "Jarrod David MILSHTEIN",
+        "Liang Su",
+        "Michael Andrew Gibson",
+        "Danielle Cassidy SMITH",
+        "William Henry Woodford",
+        "Amelie Nina KHAREY"
+      ],
+      "applicationDate": "2024-09-16",
+      "claimsCount": 10,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Materials, metallurgy"
+      ],
+      "score": 12.484564
+    }
+  ]
+}

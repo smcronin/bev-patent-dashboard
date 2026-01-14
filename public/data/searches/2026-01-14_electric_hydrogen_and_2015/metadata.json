@@ -1,0 +1,11 @@
+{
+  "search_id": "search_20260114_121546",
+  "timestamp": "2026-01-14T12:15:46.874500",
+  "query_type": "ai_search",
+  "user_prompt": "PA=(Electric Hydrogen) AND PD>2015",
+  "minesoft_query": "PA=(Electric Hydrogen) AND PD>2015",
+  "results_count": 165,
+  "directory": "2026-01-14_electric_hydrogen_and_2015",
+  "execution_time_ms": 1654.1903018951416,
+  "api_endpoint": "query"
+}

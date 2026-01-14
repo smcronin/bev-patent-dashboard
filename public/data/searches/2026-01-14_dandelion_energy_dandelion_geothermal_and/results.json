@@ -1,0 +1,508 @@
+{
+  "count": 21,
+  "numFound": 21,
+  "docs": [
+    {
+      "id": "US-20190383118-A1",
+      "title": [
+        "DETERMINING GROUND LOOP RESISTANCE WITH GROUND SOURCE HEAT PUMP MONITORING DATA"
+      ],
+      "abstract": "In some embodiments, a method operates a heat pump that uses a ground loop to perform heating or cooling in a site. During the operating of the heat pump over a time period: the method measures a first series of measurements of a ground loop water flow rate by the heat pump; a second series of measurements of a ground loop fluid temperature for the heat pump; and measures a third series of measurements of a local soil or deep earth temperature. The first measurement, the second measurement, and the third measurement are outputted where a ground loop thermal resistance value is calculated for the heat pump based on the first measurement, the second measurement, and the third measurement.",
+      "publicationNumber": "US20190383118",
+      "publicationDate": "2019-12-19",
+      "assignee": [
+        "DANDELION ENERGY, INC."
+      ],
+      "inventors": [
+        "Rajeev James Quazi",
+        "Ryan Joseph Carda",
+        "Brian Lee Zimmerly"
+      ],
+      "applicationDate": "2019-06-11",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Civil engineering"
+      ],
+      "score": 14.3990555
+    },
+    {
+      "id": "US-20250027719-A1",
+      "title": [
+        "Heat Exchanger Apparatus"
+      ],
+      "abstract": "Embodiments disclosed herein include a heat exchanger comprising a first heat exchanger and a second heat exchanger. The first heat exchanger receives a working fluid in a gaseous state and outputs the working fluid in liquid state. The second heat exchanger further sub cools the working fluid.",
+      "publicationNumber": "US20250027719",
+      "publicationDate": "2025-01-23",
+      "assignee": [
+        "DANDELION ENERGY, INC."
+      ],
+      "inventors": [
+        "John Dunn"
+      ],
+      "applicationDate": "2024-07-08",
+      "claimsCount": 24,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Thermal processes and apparatus"
+      ],
+      "score": 14.397932
+    },
+    {
+      "id": "US-20240003600-A1",
+      "title": [
+        "HEAT PUMP WITH CORNER INTERFACE"
+      ],
+      "abstract": "A blower and heat exchanger component of a heat pump, includes physically moveable interface blocks located at the corners. The blocks are relocatable to different corner locations on the unit, to allow a same blower/heat exchanger component to adapt to an existing duct being located on either side (e.g., by installing the component rotated within the installation space as appropriate). Active interface block(s) moveable to different corners afford access to power connection and/or data connections and status display features. Blank blocks occupy the corner locations left vacant by relocation of active blocks to the side of the unit serving as the front for a particular installation. The moveable corner blocks afford access to the unit for power and data connection, and status display, irrespective of orientation as installed relative to an existing ducting layout of a building.",
+      "publicationNumber": "US20240003600",
+      "publicationDate": "2024-01-04",
+      "assignee": [
+        "DANDELION ENERGY, INC."
+      ],
+      "inventors": [
+        "John Dunn",
+        "Kathleen Hannun",
+        "Dung Duc NGUYEN",
+        "Paul Ingemi"
+      ],
+      "applicationDate": "2022-06-29",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Thermal processes and apparatus"
+      ],
+      "score": 14.397932
+    },
+    {
+      "id": "US-20240003599-A1",
+      "title": [
+        "HEAT PUMP WITH SLIDING INTERFACE"
+      ],
+      "abstract": "A blower and heat exchanger component of a heat pump includes a physically moveable service panel. The service panel can slide out on a first side or on a second side opposite to the first side, where an existing air duct connects to a third side that is orthogonal to the first and second sides. This sliding service panel configuration allows a same blower/heat exchanger component to adapt the duct being located on either side of the unit (e.g., by installing the component rotated by 180\u00b0 within the installation space as appropriate). The service panel can slide out on both sides of the component, thereby affording access for service, irrespective of orientation of the component as installed relative to the duct.",
+      "publicationNumber": "US20240003599",
+      "publicationDate": "2024-01-04",
+      "assignee": [
+        "DANDELION ENERGY, INC."
+      ],
+      "inventors": [
+        "John Dunn",
+        "Kathleen Hannun",
+        "Dung Duc NGUYEN"
+      ],
+      "applicationDate": "2022-06-29",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Thermal processes and apparatus"
+      ],
+      "score": 14.397932
+    },
+    {
+      "id": "US-20230417434-A1",
+      "title": [
+        "ELECTRICAL INTERFACE FOR HEAT PUMP"
+      ],
+      "abstract": "An electrical interface selectively places a heat pump and a backup temperature control device in alternative electrical communication with a single power feed, thereby simplifying installation and reducing cost. In particular embodiments, a compressor of the heat pump may be in selective electrical communication with the power feed via a normally closed relay. Removal of a control voltage results in opening of the normal open relay, and closing of a normally closed relay to place the backup temperature control device in selective electrical communication with the power feed. For a ground source heat pump, a ground loop pump may also be in selective electrical communication with the power feed (e.g., via a normally closed relay).",
+      "publicationNumber": "US20230417434",
+      "publicationDate": "2023-12-28",
+      "assignee": [
+        "DANDELION ENERGY, INC."
+      ],
+      "inventors": [
+        "Paul Ingemi",
+        "Dung Duc NGUYEN",
+        "John Dunn"
+      ],
+      "applicationDate": "2022-06-28",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Thermal processes and apparatus"
+      ],
+      "score": 14.358479
+    },
+    {
+      "id": "US-20230272978-A1",
+      "title": [
+        "MULTI-STACKED HEAT EXCHANGER"
+      ],
+      "abstract": "A multi-stacked heat exchanger comprises a first heat exchanger and a second heat exchanger. A first end of the first heat exchanger receives a first fluid in a first conduit flowing in a first direction within a plane. A first end of the second heat exchanger receives the first fluid from the first heat exchanger in a second direction flowing opposite to the first direction within the plane. A flow of a second fluid is communicated through the second heat exchanger and then through the first heat exchanger, in a second direction orthogonal to the first direction. The second fluid is in thermal communication with the first fluid in the second heat exchanger and then in the first heat exchanger. By doubling the flowed first fluid back upon itself, embodiments achieve counterflow between the first fluid and second fluid within a compact space.",
+      "publicationNumber": "US20230272978",
+      "publicationDate": "2023-08-31",
+      "assignee": [
+        "DANDELION ENERGY, INC."
+      ],
+      "inventors": [
+        "John Dunn"
+      ],
+      "applicationDate": "2022-06-28",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Thermal processes and apparatus"
+      ],
+      "score": 14.358479
+    },
+    {
+      "id": "EP-4299991-A3",
+      "title": [
+        "ELECTRICAL INTERFACE FOR HEAT PUMP"
+      ],
+      "abstract": "An electrical interface selectively places a heat pump and a backup temperature control device in alternative electrical communication with a single power feed, thereby simplifying installation and reducing cost. In particular embodiments, a compressor of the heat pump may be in selective electrical communication with the power feed via a normally closed relay. Removal of a control voltage results in opening of the normal open relay, and closing of a normally closed relay to place the backup temperature control device in selective electrical communication with the power feed. For a ground source heat pump, a ground loop pump may also be in selective electrical communication with the power feed (e.g., via a normally closed relay).",
+      "publicationNumber": "EP4299991",
+      "publicationDate": "2024-03-27",
+      "assignee": [
+        "Dandelion Energy, Inc."
+      ],
+      "inventors": [
+        "PAUL INGEMI",
+        "DUNG DUC NGUYEN",
+        "JOHN DUNN"
+      ],
+      "applicationDate": "2023-06-27",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Thermal processes and apparatus"
+      ],
+      "score": 14.358479
+    },
+    {
+      "id": "EP-4299991-A2",
+      "title": [
+        "ELECTRICAL INTERFACE FOR HEAT PUMP"
+      ],
+      "abstract": "An electrical interface selectively places a heat pump and a backup temperature control device in alternative electrical communication with a single power feed, thereby simplifying installation and reducing cost. In particular embodiments, a compressor of the heat pump may be in selective electrical communication with the power feed via a normally closed relay. Removal of a control voltage results in opening of the normal open relay, and closing of a normally closed relay to place the backup temperature control device in selective electrical communication with the power feed. For a ground source heat pump, a ground loop pump may also be in selective electrical communication with the power feed (e.g., via a normally closed relay).",
+      "publicationNumber": "EP4299991",
+      "publicationDate": "2024-01-03",
+      "assignee": [
+        "Dandelion Energy, Inc."
+      ],
+      "inventors": [
+        "PAUL INGEMI",
+        "DUNG DUC NGUYEN",
+        "JOHN DUNN"
+      ],
+      "applicationDate": "2023-06-27",
+      "claimsCount": 15,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Thermal processes and apparatus"
+      ],
+      "score": 14.358479
+    },
+    {
+      "id": "US-20190383507-A1",
+      "title": [
+        "Determining Thermal Parameters Of A Building"
+      ],
+      "abstract": "Embodiments of the present disclosure include techniques for determining thermodynamic properties of buildings. In one embodiment, a method for determining a building UA-value comprises monitoring indoor and outdoor air temperature during a drift phase over a first time period, and monitoring a temperature control system run time during a second time period over which the temperature control system in the building restores indoor air conditions to an initial state at the beginning of the first time period. Additionally, an amount of heat energy change may be determined during the second time period. Embodiments may determine thermal resistance of the building from data obtained during over the two time periods, for example.",
+      "publicationNumber": "US20190383507",
+      "publicationDate": "2019-12-19",
+      "assignee": [
+        "DANDELION ENERGY, INC."
+      ],
+      "inventors": [
+        "Rajeev James Quazi",
+        "Ryan Joseph Carda",
+        "Brian Lee Zimmerly"
+      ],
+      "applicationDate": "2019-06-11",
+      "claimsCount": 22,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Thermal processes and apparatus"
+      ],
+      "score": 14.35569
+    },
+    {
+      "id": "US-20190169957-A1",
+      "title": [
+        "Installation Of Ground Loops For Geothermal Heating And/Or Cooling Applications"
+      ],
+      "abstract": "In order to install a ground loop for a geothermal heating and/or cooling system in ground material, a drilling machine having a drill bit connected to an end of first tubing may be used to create an borehole in the ground material. After the borehole is created, grout may be pumped into the borehole through the first tubing as the first tubing is removed from the borehole. This allows the borehole to be grouted from the bottom towards the top. Thereafter, second tubing may be inserted into the grout in order to create the ground loop. This eliminates the need for a \u201ctremie\u201d pipe to insert the ground loop and pump grout into the borehole, while still allowing for the borehole to be grouted from the bottom towards the top to reduce the likelihood of voids.",
+      "publicationNumber": "US20190169957",
+      "publicationDate": "2019-06-06",
+      "assignee": [
+        "DANDELION ENERGY, INC."
+      ],
+      "inventors": [
+        "Olivia Hatalsky",
+        "Howard E. Johnson",
+        "Amit Kale"
+      ],
+      "applicationDate": "2018-11-30",
+      "claimsCount": 23,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Civil engineering",
+        "Geothermal energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 14.215843
+    },
+    {
+      "id": "US-20210278098-A1",
+      "title": [
+        "Heat Pump Interface"
+      ],
+      "abstract": "A heat pump is equipped with a plurality of sensors configured to measure various physical properties, including but not limited to: (gas/liquid) temperature, (gas/liquid) pressure, electrical current, and/or flow rate. A monitoring center is interposed between the heat pump and other elements of a Heating Ventilation and Air Conditioning (HVAC) system, such as a building thermostat and a heat pump control board. The monitoring center receives the outputs from the sensors and communicates them to a user (e.g., via a wired or wireless interface) for inspection. The monitoring center may also process the sensor data to calculate and output desirable performance metrics such as efficiency and/or available capacity. Where the heat pump is part of a ground source heat pump (GSHP) system or a geothermal heat pump system, embodiments may be particularly useful to also receive and/or process additional sensor input(s) from a flow center component.",
+      "publicationNumber": "US20210278098",
+      "publicationDate": "2021-09-09",
+      "assignee": [
+        "DANDELION ENERGY, INC."
+      ],
+      "inventors": [
+        "Rajeev James Quazi",
+        "Brian Zimmerly",
+        "Ryan Carda"
+      ],
+      "applicationDate": "2020-03-06",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Thermal processes and apparatus"
+      ],
+      "score": 13.989966
+    },
+    {
+      "id": "US-11454092-B2",
+      "title": [
+        "Determining ground loop resistance with ground source heat pump monitoring data"
+      ],
+      "abstract": "In some embodiments, a method operates a heat pump that uses a ground loop to perform heating or cooling in a site. During the operating of the heat pump over a time period: the method measures a first series of measurements of a ground loop water flow rate by the heat pump; a second series of measurements of a ground loop fluid temperature for the heat pump; and measures a third series of measurements of a local soil or deep earth temperature. The first measurement, the second measurement, and the third measurement are outputted where a ground loop thermal resistance value is calculated for the heat pump based on the first measurement, the second measurement, and the third measurement.",
+      "publicationNumber": "US11454092",
+      "publicationDate": "2022-09-27",
+      "assignee": [
+        "DANDELION ENERGY, INC."
+      ],
+      "inventors": [
+        "Rajeev James Quazi",
+        "Ryan Joseph Carda",
+        "Brian Lee Zimmerly"
+      ],
+      "applicationDate": "2019-06-11",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Civil engineering"
+      ],
+      "score": 12.943989
+    },
+    {
+      "id": "US-12241664-B2",
+      "title": [
+        "Heat pump with corner interface"
+      ],
+      "abstract": "A blower and heat exchanger component of a heat pump, includes physically moveable interface blocks located at the corners. The blocks are relocatable to different corner locations on the unit, to allow a same blower/heat exchanger component to adapt to an existing duct being located on either side (e.g., by installing the component rotated within the installation space as appropriate). Active interface block(s) moveable to different corners afford access to power connection and/or data connections and status display features. Blank blocks occupy the corner locations left vacant by relocation of active blocks to the side of the unit serving as the front for a particular installation. The moveable corner blocks afford access to the unit for power and data connection, and status display, irrespective of orientation as installed relative to an existing ducting layout of a building.",
+      "publicationNumber": "US12241664",
+      "publicationDate": "2025-03-04",
+      "assignee": [
+        "DANDELION ENERGY, INC."
+      ],
+      "inventors": [
+        "John Dunn",
+        "Kathleen Hannun",
+        "Dung Duc NGUYEN",
+        "Paul Ingemi"
+      ],
+      "applicationDate": "2022-06-29",
+      "claimsCount": 10,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Thermal processes and apparatus"
+      ],
+      "score": 12.943066
+    },
+    {
+      "id": "CA-3248989-A1",
+      "title": [
+        "Heat Exchanger Apparatus"
+      ],
+      "abstract": "Embodiments disclosed herein include a heat exchanger comprising a first heat exchanger and a second heat exchanger. The first heat exchanger receives a working fluid in a gaseous state and outputs the working fluid in liquid state. The second heat exchanger further subcools the working fluid.",
+      "publicationNumber": "CA3248989",
+      "publicationDate": "2025-06-05",
+      "assignee": [
+        "DANDELION ENERGY, INC."
+      ],
+      "inventors": [
+        "John Dunn"
+      ],
+      "applicationDate": "2024-07-18",
+      "claimsCount": 24,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Thermal processes and apparatus"
+      ],
+      "score": 12.943066
+    },
+    {
+      "id": "US-12152795-B2",
+      "title": [
+        "Electrical interface for heat pump"
+      ],
+      "abstract": "An electrical interface selectively places a heat pump and a backup temperature control device in alternative electrical communication with a single power feed. A compressor of the heat pump may be in selective electrical communication with the power feed via a normally open relay. Removal of a control voltage results in opening of the normal open relay, and closing of a normally closed relay to place the backup temperature control device in selective electrical communication with the power feed. For a ground source heat pump, a ground loop pump may also be in selective electrical communication with the power feed (e.g., via a normally closed relay).",
+      "publicationNumber": "US12152795",
+      "publicationDate": "2024-11-26",
+      "assignee": [
+        "DANDELION ENERGY, INC."
+      ],
+      "inventors": [
+        "Paul Ingemi",
+        "Dung Duc NGUYEN",
+        "John Dunn"
+      ],
+      "applicationDate": "2022-06-28",
+      "claimsCount": 18,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Thermal processes and apparatus"
+      ],
+      "score": 12.907759
+    },
+    {
+      "id": "US-11940221-B2",
+      "title": [
+        "Multi-stacked heat exchanger"
+      ],
+      "abstract": "A multi-stacked heat exchanger comprises a first heat exchanger and a second heat exchanger. A first end of the first heat exchanger receives a first fluid in a first conduit flowing in a first direction within a plane. A first end of the second heat exchanger receives the first fluid from the first heat exchanger in a second direction flowing opposite to the first direction within the plane. A flow of a second fluid is communicated through the second heat exchanger and then through the first heat exchanger, in a second direction orthogonal to the first direction. The second fluid is in thermal communication with the first fluid in the second heat exchanger and then in the first heat exchanger. By doubling the flowed first fluid back upon itself, embodiments achieve counterflow between the first fluid and second fluid within a compact space.",
+      "publicationNumber": "US11940221",
+      "publicationDate": "2024-03-26",
+      "assignee": [
+        "DANDELION ENERGY, INC."
+      ],
+      "inventors": [
+        "John Dunn"
+      ],
+      "applicationDate": "2022-06-28",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Thermal processes and apparatus"
+      ],
+      "score": 12.907759
+    },
+    {
+      "id": "CA-3187185-A1",
+      "title": [
+        "MULTI-STACKED HEAT EXCHANGER"
+      ],
+      "abstract": "A multi-stacked heat exchanger comprises a first heat exchanger and a second heat exchanger. A first end of the first heat exchanger receives a first fluid in a first conduit flowing in a first direction within a plane. A first end of the second heat exchanger receives the first fluid from the first heat exchanger in a second direction flowing opposite to the first direction within the plane. A flow of a second fluid is communicated through the second heat exchanger and then through the first heat exchanger, in a second direction orthogonal to the first direction. The second fluid is in thermal communication with the first fluid in the second heat exchanger and then in the first heat exchanger. By doubling the flowed first fluid back upon itself, embodiments achieve counterflow between the first fluid and second fluid within a compact space.",
+      "publicationNumber": "CA3187185",
+      "publicationDate": "2023-08-28",
+      "assignee": [
+        "DANDELION ENERGY, INC."
+      ],
+      "inventors": [
+        "JOHN DUNN"
+      ],
+      "applicationDate": "2023-01-19",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Thermal processes and apparatus"
+      ],
+      "score": 12.372723
+    },
+    {
+      "id": "US-10641051-B1",
+      "title": [
+        "Systems and methods for coupling and decoupling drill heads for ground loop preparation for geothermal applications"
+      ],
+      "abstract": "The technology relates to systems and methods for creating openings in ground material in order to install ground loops for geothermal heating and cooling applications. As an example, a system for creating an opening in ground material may include a first drill head configured as a pipe pulling drill head and a second drill head configured for attachment with a boring tool. When attached to an end of a pipe, the first drill head is configured to pull the pipe into the opening in ground material. The second drill head may include a drilling portion and an opening opposite of the drilling portion, the opening including a first chamber that tapers towards a second chamber. The first drill head also includes a drilling end configured for a locking fit within the second chamber.",
+      "publicationNumber": "US10641051",
+      "publicationDate": "2020-05-05",
+      "assignee": [
+        "DANDELION ENERGY, INC."
+      ],
+      "inventors": [
+        "Raymond Louis Gradwohl",
+        "Jacques Gagne"
+      ],
+      "applicationDate": "2016-11-10",
+      "claimsCount": 4,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Civil engineering",
+        "Geothermal energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 11.3999405
+    },
+    {
+      "id": "US-10316588-B1",
+      "title": [
+        "Pipe shaker apparatus for horizontal and vertical drilling applications"
+      ],
+      "abstract": "A pipe shaker apparatus is configured to shake within a pipe and cause the pipe to vibrate. The pipe shaker apparatus includes a rotor having an offset mass. The offset mass is offset from a longitudinal axis through a first end piece of the rotor at a first end of the rotor and a second end piece of the rotor at a second end of the rotor. The pipe shaker apparatus also includes a tubular body having first and second ends. First and second end caps are arranged at first and second ends of the tubular body such that air is able to pass through the first end cap, enter the tubular body, cause the rotor to rotate, and exit the tubular body through the second end cap. The rotor is arranged such that rotation of the rotor by the air cases the offset mass to shake the pipe shaker apparatus.",
+      "publicationNumber": "US10316588",
+      "publicationDate": "2019-06-11",
+      "assignee": [
+        "DANDELION ENERGY, INC."
+      ],
+      "inventors": [
+        "Kenneth Robertson",
+        "Bruce Allen Eisenhauer, Jr.",
+        "Luuk Sasse"
+      ],
+      "applicationDate": "2016-12-23",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Civil engineering",
+        "Engines, pumps, turbines"
+      ],
+      "score": 11.328546
+    },
+    {
+      "id": "CA-3204086-A1",
+      "title": [
+        "ELECTRICAL INTERFACE FOR HEAT PUMP"
+      ],
+      "abstract": "An electrical interface selectively places a heat pump and a backup temperature control device in alternative electrical communication with a single power feed, thereby simplifying installation and reducing cost. In particular embodiments, a compressor of the heat pump may be in selective electrical communication with the power feed via a normally closed relay. Removal of a control voltage results in opening of the normal open relay, and closing of a normally closed relay to place the backup temperature control device in selective electrical communication with the power feed. For a ground source heat pump, a ground loop pump may also be in selective electrical communication with the power feed (e.g., via a normally closed relay).",
+      "publicationNumber": "CA3204086",
+      "publicationDate": "2023-12-28",
+      "assignee": [
+        "DANDELION ENERGY, INC."
+      ],
+      "inventors": [
+        "PAUL INGEM",
+        "DUNG DUC NGUYEN",
+        "JOHN DUNN"
+      ],
+      "applicationDate": "2023-06-20",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Thermal processes and apparatus"
+      ],
+      "score": 11.328546
+    },
+    {
+      "id": "CA-3026496-A1",
+      "title": [
+        "INSTALLATION OF GROUND LOOPS FOR GEOTHERMAL HEATING AND/OR COOLING APPLICATIONS"
+      ],
+      "abstract": "In order to install a ground loop for a geothermal heating and/or cooling system in ground material, a drilling machine having a drill bit connected to an end of first tubing may be used to create an borehole in the ground material. After the borehole is created, grout may be pumped into the borehole through the first tubing as the first tubing is removed from the borehole. This allows the borehole to be grouted from the bottom towards the top. Thereafter, second tubing may be inserted into the grout in order to create the ground loop. This eliminates the need for a \"tremie\" pipe to insert the ground loop and pump grout into the borehole, while still allowing for the borehole to be grouted from the bottom towards the top to reduce the likelihood of voids.",
+      "publicationNumber": "CA3026496",
+      "publicationDate": "2019-06-06",
+      "assignee": [
+        "DANDELION ENERGY, INC."
+      ],
+      "inventors": [
+        "Olivia HATALSKY",
+        "HOWARD E. JOHNSON",
+        "AMIT KALE"
+      ],
+      "applicationDate": "2018-12-04",
+      "claimsCount": 23,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Civil engineering",
+        "Geothermal energy",
+        "Thermal processes and apparatus"
+      ],
+      "score": 11.211449
+    }
+  ]
+}

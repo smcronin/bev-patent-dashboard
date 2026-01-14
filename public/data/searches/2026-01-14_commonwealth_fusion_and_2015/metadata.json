@@ -1,0 +1,11 @@
+{
+  "search_id": "search_20260114_121510",
+  "timestamp": "2026-01-14T12:15:10.640587",
+  "query_type": "ai_search",
+  "user_prompt": "PA=(Commonwealth Fusion) AND PD>2015",
+  "minesoft_query": "PA=(Commonwealth Fusion) AND PD>2015",
+  "results_count": 186,
+  "directory": "2026-01-14_commonwealth_fusion_and_2015",
+  "execution_time_ms": 1715.815544128418,
+  "api_endpoint": "query"
+}

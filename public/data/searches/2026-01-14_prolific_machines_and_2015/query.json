@@ -1,0 +1,6 @@
+{
+  "query": "PA=(Prolific Machines) AND PD>2015",
+  "query_type": "ai_search",
+  "timestamp": "2026-01-14T12:19:42.029637",
+  "user_prompt": "PA=(Prolific Machines) AND PD>2015"
+}

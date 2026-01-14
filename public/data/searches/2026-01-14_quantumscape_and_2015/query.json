@@ -1,0 +1,6 @@
+{
+  "query": "PA=(QuantumScape) AND PD>2015",
+  "query_type": "ai_search",
+  "timestamp": "2026-01-14T12:14:02.926622",
+  "user_prompt": "PA=(QuantumScape) AND PD>2015"
+}

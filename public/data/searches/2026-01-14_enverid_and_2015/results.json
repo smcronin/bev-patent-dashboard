@@ -1,0 +1,2456 @@
+{
+  "count": 160,
+  "numFound": 160,
+  "docs": [
+    {
+      "id": "WO-2024011231-A1",
+      "title": [
+        "METHODS AND SYSTEMS OF EXTRACTING CARBON DIOXIDE FROM AIR"
+      ],
+      "abstract": "In some embodiments, a system for extraction of carbon dioxide (CO2) from air is provided. In some embodiments, the system is configured to operate in at least two phases, a first absorption phase where CO2 is adsorbed from an air stream by the system, and a second regeneration phase where adsorbed CO2 is released and removed from the system using a vacuum. During the adsorption phase, air flows through a first chamber, which allows CO2 to be captured by an adsorbent material therein. During a regeneration phase, the first chamber is evacuated, causing captured CO2 to be released into an exhaust stream collected by a vacuum pump. In some embodiments, the system and/or controller is configured and/or programmed so that the regeneration phase is performed substantially without external heat or without substantially elevating the temperature of the adsorbent.",
+      "publicationNumber": "WO2024011231",
+      "publicationDate": "2024-01-11",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "UDI MEIRAV",
+        "Christian WEEKS",
+        "Alex Goodwin",
+        "Mike TOMOVICH",
+        "SHAWN BROWN"
+      ],
+      "applicationDate": "2023-07-07",
+      "claimsCount": 17,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Chemical engineering",
+        "Environmental technology"
+      ],
+      "score": 13.257877
+    },
+    {
+      "id": "WO-2017087699-A1",
+      "title": [
+        "METHOD, DEVICES AND SYSTEMS FOR RADON REMOVAL FROM INDOOR AREAS"
+      ],
+      "abstract": "Embodiments of the present disclosure are directed to a method for reducing radon contained in indoor air from an indoor area. In some embodiments, indoor air containing radon from indoor air is directed through at least one layer of an adsorbent medium configured for capturing radon from air. In some embodiments, the indoor air is directed through the adsorbent medium at a predetermined flow-rate such that the fraction of radon captured in a single pass though the assembly is very low, approximately 10% or less of the concentration of radon in the incoming air. The low capture rate is offset by multiple passes of the air through the medium.",
+      "publicationNumber": "WO2017087699",
+      "publicationDate": "2017-05-26",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Sharon PERL-OLSHVANG",
+        "UDI MEIRAV"
+      ],
+      "applicationDate": "2016-11-17",
+      "claimsCount": 35,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Environmental technology",
+        "Thermal processes and apparatus"
+      ],
+      "score": 13.257877
+    },
+    {
+      "id": "US-20190299154-A1",
+      "title": [
+        "LOW NOISE, CEILING MOUNTED INDOOR AIR SCRUBBER"
+      ],
+      "abstract": "In some embodiments, an indoor air cleaning apparatus and a method for removing at least a portion of at least one type of gas from an indoor airflow are disclosed. The apparatus may comprise a cabinet; at least one sorbent bank comprising at least one cartridge; a fan assembly comprising at least one housing including at least one housing inlet and at least one housing outlet, at least one motor and at least one impeller; and a heating element configured to operate in at least one of two modes: an active mode and an inactive mode; and a controller configured to operate in at least two modes: an adsorption mode and a regeneration mode.",
+      "publicationNumber": "US20190299154",
+      "publicationDate": "2019-10-03",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Udi Meirav",
+        "Israel Biran",
+        "SHARON PERL-OLSHVANG",
+        "Shawn Brown"
+      ],
+      "applicationDate": "2017-11-10",
+      "claimsCount": 16,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 12.975828
+    },
+    {
+      "id": "US-20220370952-A1",
+      "title": [
+        "METHOD AND SYSTEM FOR FILTERING FORMALDEHYDE FROM INOOR AIR"
+      ],
+      "abstract": "Embodiments of the present disclosure are directed to systems and methods for removing formaldehyde from indoor air. Some embodiments include flowing an indoor airflow over and/or through a solid supported amine filtering medium, such that, at least a portion of formaldehyde entrained in the indoor airflow is removed therefrom. Some other embodiments include systems having one or more fans for providing velocity to one and/or another airflows (e.g., airflows to/from a formaldehyde filter).",
+      "publicationNumber": "US20220370952",
+      "publicationDate": "2022-11-24",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Udi Meirav",
+        "Israel Biran",
+        "Karthik Ramaswami",
+        "Shira Rosencwaig"
+      ],
+      "applicationDate": "2022-07-11",
+      "claimsCount": 27,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Chemical engineering",
+        "Environmental technology"
+      ],
+      "score": 12.64362
+    },
+    {
+      "id": "US-20160228811-A1",
+      "title": [
+        "METHOD AND SYSTEM FOR FILTERING FORMALDEHYDE FROM INDOOR AIR"
+      ],
+      "abstract": "Embodiments of the present disclosure are directed to systems and methods for removing formaldehyde from indoor air. Some embodiments include flowing an indoor airflow over and/or through a solid supported amine filtering medium, such that, at least a portion of formaldehyde entrained in the indoor airflow is removed therefrom. Some other embodiments include systems having one or more fans for providing velocity to one and/or another airflows (e.g., airflows to/from a formaldehyde filter).",
+      "publicationNumber": "US20160228811",
+      "publicationDate": "2016-08-11",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Udi Meirav",
+        "Israel Biran",
+        "Karthik Ramaswami",
+        "Shira Rosencwaig"
+      ],
+      "applicationDate": "2014-09-16",
+      "claimsCount": 27,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 12.64362
+    },
+    {
+      "id": "EP-3046648-A4",
+      "title": [
+        "METHOD AND SYSTEM FOR FILTERING FORMALDEHYDE FROM INDOOR AIR"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP3046648",
+      "publicationDate": "2017-04-05",
+      "assignee": [
+        "Enverid Systems Inc."
+      ],
+      "inventors": [
+        "UDI MEIRAV",
+        "ISRAEL BIRAN",
+        "KARTHIK RAMASWAMI",
+        "Shira ROSENCWAIG"
+      ],
+      "applicationDate": "2014-09-16",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Chemical engineering",
+        "Environmental technology"
+      ],
+      "score": 12.64362
+    },
+    {
+      "id": "EP-3046648-A1",
+      "title": [
+        "METHOD AND SYSTEM FOR FILTERING FORMALDEHYDE FROM INDOOR AIR"
+      ],
+      "abstract": "Embodiments of the present disclosure are directed to systems and methods for removing formaldehyde from indoor air. Some embodiments include flowing an indoor airflow over and/or through a solid supported amine filtering medium, such that, at least a portion of formaldehyde entrained in the indoor airflow is removed therefrom. Some other embodiments include systems having one or more fans for providing velocity to one and/or another airflows (e.g., airflows to/from a formaldehyde filter).",
+      "publicationNumber": "EP3046648",
+      "publicationDate": "2016-07-27",
+      "assignee": [
+        "Enverid Systems Inc."
+      ],
+      "inventors": [
+        "UDI MEIRAV",
+        "ISRAEL BIRAN",
+        "KARTHIK RAMASWAMI",
+        "Shira ROSENCWAIG"
+      ],
+      "applicationDate": "2014-09-16",
+      "claimsCount": 27,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Chemical engineering",
+        "Environmental technology"
+      ],
+      "score": 12.64362
+    },
+    {
+      "id": "WO-2018089856-A1",
+      "title": [
+        "LOW NOISE, CEILING MOUNTED INDOOR AIR SCRUBBER"
+      ],
+      "abstract": "In some embodiments, an indoor air cleaning apparatus and a method for removing at least a portion of at least one type of gas from an indoor airflow are disclosed. The apparatus may comprise a cabinet; at least one sorbent bank comprising at least one cartridge; a fan assembly comprising at least one housing including at least one housing inlet and at least one housing outlet, at least one motor and at least one impeller; and a heating element configured to operate in at least one of two modes: an active mode and an inactive mode; and a controller configured to operate in at least two modes: an adsorption mode and a regeneration mode.",
+      "publicationNumber": "WO2018089856",
+      "publicationDate": "2018-05-17",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "UDI MEIRAV",
+        "ISRAEL BIRAN",
+        "Sharon PERL-OLSHVANG",
+        "SHAWN BROWN"
+      ],
+      "applicationDate": "2017-11-10",
+      "claimsCount": 16,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 12.489642
+    },
+    {
+      "id": "US-20160025578-A1",
+      "title": [
+        "SYSTEMS, METHODS AND DEVICES FOR MEASUREMENT OF RATE OF HEAT EXCHANGE OF AIRFLOW SYSTEMS"
+      ],
+      "abstract": "Method, systems, and devices for determining instantaneous heat exchange between an airflow and a heat exchange element of an HVAC system are disclosed. In some embodiments, methods and systems include receiving or otherwise obtaining airflow data, temperature and humidity data. The airflow data may be used to calculate the volumetric airflow rate, and the temperature and humidity data may be processed with enthalpy data to determine the change in enthalpy (\u0394h) of the airflow after encountering a heat exchange element. The instantaneous rate of heat exchange (E) between the airflow and the heat exchange element may then be determined from the volumetric airflow rate and change in enthalpy.",
+      "publicationNumber": "US20160025578",
+      "publicationDate": "2016-01-28",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Udi Meirav",
+        "Israel Biran",
+        "Tzvi FISHER",
+        "Asael Meruham"
+      ],
+      "applicationDate": "2014-03-11",
+      "claimsCount": 21,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Measurement"
+      ],
+      "score": 12.489642
+    },
+    {
+      "id": "US-11110387-B2",
+      "title": [
+        "Low noise, ceiling mounted indoor air scrubber"
+      ],
+      "abstract": "In some embodiments, an indoor air cleaning apparatus and a method for removing at least a portion of at least one type of gas from an indoor airflow are disclosed. The apparatus may comprise a cabinet; at least one sorbent bank comprising at least one cartridge; a fan assembly comprising at least one housing including at least one housing inlet and at least one housing outlet, at least one motor and at least one impeller; and a heating element configured to operate in at least one of two modes: an active mode and an inactive mode; and a controller configured to operate in at least two modes: an adsorption mode and a regeneration mode.",
+      "publicationNumber": "US11110387",
+      "publicationDate": "2021-09-07",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Udi Meirav",
+        "Israel Biran",
+        "SHARON PERL-OLSHVANG",
+        "Shawn Brown"
+      ],
+      "applicationDate": "2017-11-10",
+      "claimsCount": 16,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Environmental technology",
+        "Thermal processes and apparatus"
+      ],
+      "score": 12.489642
+    },
+    {
+      "id": "WO-2019018788-A1",
+      "title": [
+        "FLOW AND PRESSURE CONTROL IN CYCLONIC FILTER ARRAYS"
+      ],
+      "abstract": "An air filtration system comprising a plurality of sections configured to receive an incoming airstream is disclosed. In some embodiments, each section of the plurality of sections includes a first airstream receiving side (ASRS) and a second air stream exhaust side (ASES), and a plurality of cells each comprising a cyclonic cavity having a tangential inlet arranged to receive a portion of the airstream via the ASRS, and an axial outlet arranged to exhaust the portion of the airstream to the ASES. Each section is further configured with a cover that can be opened and closed, such that the closing of one or more respective covers of respective sections forces the airstream to flow through remaining sections having open covers as well as their respective cells, at a velocity greater than when such one or more respective covers are open.",
+      "publicationNumber": "WO2019018788",
+      "publicationDate": "2019-01-24",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Sharon PERL-OLSHVANG",
+        "UDI MEIRAV"
+      ],
+      "applicationDate": "2018-07-20",
+      "claimsCount": 32,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Chemical engineering"
+      ],
+      "score": 12.064985
+    },
+    {
+      "id": "WO-2017219043-A1",
+      "title": [
+        "APPARATUS, METHODS AND SYSTEMS FOR MULTI-STAGE SCRUBBING OF GAS MIXTURES"
+      ],
+      "abstract": "In some embodiments, a multistage scrubber that includes a plurality of stages, each stage comprising one or more scrubbing modules having adsorbents configured to adsorb and remove molecules from a flowing mixture of gas traversing the multistage scrubber is disclosed. The sorbents may be used in repeatable adsorption-regeneration swing cycles including concentration swing adsorption (CSA) cycle, temperature swing adsorption (TSA) cycle and pressure swing adsorption (PSA) cycle.",
+      "publicationNumber": "WO2017219043",
+      "publicationDate": "2017-12-21",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "UDI MEIRAV",
+        "Sharon PERL-OLSHVANG"
+      ],
+      "applicationDate": "2017-06-19",
+      "claimsCount": 28,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 12.064985
+    },
+    {
+      "id": "EP-3001831-A4",
+      "title": [
+        "REGENERABLE SORBENT CO2 SCRUBBER FOR SUBMARINE VESSELS"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP3001831",
+      "publicationDate": "2016-10-05",
+      "assignee": [
+        "ENVERID SYSTEMS INC."
+      ],
+      "inventors": [
+        "UDI MEIRAV",
+        "ISRAEL BIRAN",
+        "Tzvi FISHER"
+      ],
+      "applicationDate": "2014-04-23",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Environmental technology",
+        "Transport"
+      ],
+      "score": 12.064985
+    },
+    {
+      "id": "EP-3001831-A1",
+      "title": [
+        "REGENERABLE SORBENT CO2 SCRUBBER FOR SUBMARINE VESSELS"
+      ],
+      "abstract": "Systems, devices and methods for submarine CO2 scrubbing are disclosed. The system may comprise an assembly including a sorbent, a scrubbing inlet configured to receive a first airflow during an adsorption mode. The first airflow may comprise air received from a cabin of a submarine. The assembly may be configured to flow the first airflow over and/or through the sorbent during the adsorption mode such that the sorbent removes a portion of CO2 entrained in the first airflow. The system may also include a scrubbing outlet configured to expel the scrubbed first airflow from the assembly into the cabin. The system may include an outside air inlet configured to receive a second airflow comprising outside air during a regeneration mode. The system may include a regeneration air outlet in configured to expel the second airflow after the second airflow has flowed over and/or through the sorbent during the regeneration mode.",
+      "publicationNumber": "EP3001831",
+      "publicationDate": "2016-04-06",
+      "assignee": [
+        "Enverid Systems Inc."
+      ],
+      "inventors": [
+        "UDI MEIRAV",
+        "ISRAEL BIRAN",
+        "Tzvi FISHER"
+      ],
+      "applicationDate": "2014-04-23",
+      "claimsCount": 26,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Environmental technology",
+        "Transport"
+      ],
+      "score": 12.064985
+    },
+    {
+      "id": "US-20250222398-A1",
+      "title": [
+        "METHODS AND SYSTEMS OF EXTRACTING CARBON DIOXIDE FROM AIR"
+      ],
+      "abstract": "In some embodiments, a system for extraction of carbon dioxide (CO2) from air is provided. In some embodiments, the system is configured to operate in at least two phases, a first absorption phase where CO2 is adsorbed from an air stream by the system, and a second regeneration phase where adsorbed CO2 is released and removed from the system using a vacuum. During the adsorption phase, air flows through a first chamber, which allows CO2 to be captured by an adsorbent material therein. During a regeneration phase, the first chamber is evacuated, causing captured CO2 to be released into an exhaust stream collected by a vacuum pump. In some embodiments, the system and/or controller is configured and/or programmed so that the regeneration phase is performed substantially without external heat or without substantially elevating the temperature of the adsorbent.",
+      "publicationNumber": "US20250222398",
+      "publicationDate": "2025-07-10",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Udi Meirav",
+        "Christian WEEKS",
+        "Alex Goodwin",
+        "Mike TOMOVICH",
+        "Shawn Brown"
+      ],
+      "applicationDate": "2025-01-07",
+      "claimsCount": 16,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 11.9266815
+    },
+    {
+      "id": "US-20180339262-A1",
+      "title": [
+        "METHOD, DEVICES AND SYSTEMS FOR RADON REMOVAL FROM INDOOR AREAS"
+      ],
+      "abstract": "Embodiments of the present disclosure are directed to a method for reducing radon contained in indoor air from an indoor area. In some embodiments, indoor air containing radon from indoor air is directed through at least one layer of an adsorbent medium configured for capturing radon from air. In some embodiments, the indoor air is directed through the adsorbent medium at a predetermined flow-rate such that the fraction of radon captured in a single pass though the assembly is very low, approximately 10% or less of the concentration of radon in the incoming air. The low capture rate is offset by multiple passes of the air through the medium.",
+      "publicationNumber": "US20180339262",
+      "publicationDate": "2018-11-29",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "SHARON PERL-OLSHVANG",
+        "Udi Meirav"
+      ],
+      "applicationDate": "2016-11-17",
+      "claimsCount": 18,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Environmental technology",
+        "Thermal processes and apparatus"
+      ],
+      "score": 11.9266815
+    },
+    {
+      "id": "CN-110280123-A",
+      "title": [
+        "\u7528\u4e8e\u4ece\u5ba4\u5185\u7a7a\u6c14\u4e2d\u8fc7\u6ee4\u7532\u919b\u7684\u65b9\u6cd5\u548c\u7cfb\u7edf"
+      ],
+      "abstract": "\u672c\u516c\u5f00\u6848\u7684\u5b9e\u65bd\u65b9\u5f0f\u6d89\u53ca\u7528\u4e8e\u4ece\u5ba4\u5185\u7a7a\u6c14\u4e2d\u53bb\u9664\u7532\u919b\u7684\u7cfb\u7edf\u548c\u65b9\u6cd5\u3002\u4e00\u4e9b\u5b9e\u65bd\u65b9\u5f0f\u5305\u62ec\u4f7f\u5f97\u5ba4\u5185\u6c14\u6d41\u6d41\u8fc7\u56fa\u8f7d\u80fa\u8fc7\u6ee4\u4ecb\u8d28\u4e0a\u65b9\u548c/\u6216\u6d41\u8fc7\u5176\u4e2d\uff0c\u4ee5\u4f7f\u6240\u8ff0\u5ba4\u5185\u6c14\u6d41\u4e2d\u5939\u5e26\u7684\u7532\u919b\u7684\u81f3\u5c11\u4e00\u90e8\u5206\u4ece\u6240\u8ff0\u5ba4\u5185\u6c14\u6d41\u4e2d\u53bb\u9664\u3002\u4e00\u4e9b\u5176\u5b83\u5b9e\u65bd\u65b9\u5f0f\u5305\u62ec\u5177\u6709\u7528\u4e8e\u4e3a\u4e00\u80a1\u548c/\u6216\u53e6\u4e00\u6c14\u6d41(\u4f8b\u5982\uff0c\u6d41\u5411/\u6765\u81ea\u7532\u919b\u8fc7\u6ee4\u5668\u7684\u6c14\u6d41)\u63d0\u4f9b\u901f\u5ea6\u7684\u4e00\u6216\u591a\u4e2a\u98ce\u6247\u7684\u7cfb\u7edf\u3002",
+      "publicationNumber": "CN110280123",
+      "publicationDate": "2019-09-27",
+      "assignee": [
+        "ENVERID SYSTEMS, INC"
+      ],
+      "inventors": [
+        "UDI MEIRAV",
+        "ISRAEL BIRAN",
+        "Katink Lamaswamy",
+        "Sheila Rosenzwag"
+      ],
+      "applicationDate": "2014-09-16",
+      "claimsCount": 25,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 11.921625
+    },
+    {
+      "id": "CN-105792910-A",
+      "title": [
+        "Method and system for filtering formaldehyde from indoor air"
+      ],
+      "abstract": "\u672c\u516c\u5f00\u6848\u7684\u5b9e\u65bd\u65b9\u5f0f\u6d89\u53ca\u7528\u4e8e\u4ece\u5ba4\u5185\u7a7a\u6c14\u4e2d\u53bb\u9664\u7532\u919b\u7684\u7cfb\u7edf\u548c\u65b9\u6cd5\u3002\u4e00\u4e9b\u5b9e\u65bd\u65b9\u5f0f\u5305\u62ec\u4f7f\u5f97\u5ba4\u5185\u6c14\u6d41\u6d41\u8fc7\u56fa\u8f7d\u80fa\u8fc7\u6ee4\u4ecb\u8d28\u4e0a\u65b9\u548c/\u6216\u6d41\u8fc7\u5176\u4e2d\uff0c\u4ee5\u4f7f\u6240\u8ff0\u5ba4\u5185\u6c14\u6d41\u4e2d\u5939\u5e26\u7684\u7532\u919b\u7684\u81f3\u5c11\u4e00\u90e8\u5206\u4ece\u6240\u8ff0\u5ba4\u5185\u6c14\u6d41\u4e2d\u53bb\u9664\u3002\u4e00\u4e9b\u5176\u5b83\u5b9e\u65bd\u65b9\u5f0f\u5305\u62ec\u5177\u6709\u7528\u4e8e\u4e3a\u4e00\u80a1\u548c/\u6216\u53e6\u4e00\u6c14\u6d41(\u4f8b\u5982\uff0c\u6d41\u5411/\u6765\u81ea\u7532\u919b\u8fc7\u6ee4\u5668\u7684\u6c14\u6d41)\u63d0\u4f9b\u901f\u5ea6\u7684\u4e00\u6216\u591a\u4e2a\u98ce\u6247\u7684\u7cfb\u7edf\u3002",
+      "publicationNumber": "CN105792910",
+      "publicationDate": "2016-07-20",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "UDI MEIRAV",
+        "ISRAEL BIRAN",
+        "Katink Lamaswamy",
+        "Sheila Rosenzwag"
+      ],
+      "applicationDate": "2014-09-16",
+      "claimsCount": 27,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 11.921625
+    },
+    {
+      "id": "WO-2018031679-A1",
+      "title": [
+        "CARTRIDGE FOR AIRFLOW SCRUBBING SYSTEMS AND METHODS OF MANUFACTURE THEREOF"
+      ],
+      "abstract": "A sorbent cartridge retention frame configured for use in an air scrubbing system comprising a first inlet side, a second outlet side, a plurality of compartments each configured to hold a solid-sorbent material, a plurality of respective walls arranged to form and separate the plurality of compartments, a first permeable membrane arranged to cover the first inlet side, a second permeable membrane arranged to cover the second outlet side. The first and/or second permeable membrane are configured for affixation to respective ends of the walls through a process of melting and solidification of the wall material such that wall material bonds with the membrane material.",
+      "publicationNumber": "WO2018031679",
+      "publicationDate": "2018-02-15",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "UDI MEIRAV",
+        "Sharon PERL-OLSHVANG"
+      ],
+      "applicationDate": "2017-08-09",
+      "claimsCount": 18,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 11.83754
+    },
+    {
+      "id": "US-20190209962-A1",
+      "title": [
+        "CARTRIDGE FOR AIRFLOW SCRUBBING SYSTEMS AND METHODS OF MANUFACTURE THEREOF"
+      ],
+      "abstract": "A sorbent cartridge retention frame configured for use in an air scrubbing system comprising a first inlet side, a second outlet side, a plurality of compartments each configured to hold a solid-sorbent material, a plurality of respective walls arranged to form and separate the plurality of compartments, a first permeable membrane arranged to cover the first inlet side, a second permeable membrane arranged to cover the second outlet side. The first and/or second permeable membrane are configured for affixation to respective ends of the walls through a process of melting and solidification of the wall material such that wall material bonds with the membrane material.",
+      "publicationNumber": "US20190209962",
+      "publicationDate": "2019-07-11",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Udi Meirav",
+        "SHARON PERL-OLSHVANG"
+      ],
+      "applicationDate": "2017-08-09",
+      "claimsCount": 18,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 11.83754
+    },
+    {
+      "id": "US-20160187012-A1",
+      "title": [
+        "METHOD AND SYSTEM FOR CONDITIONING AIR IN AN ENCLOSED ENVIRONMENT WITH DISTRIBUTED AIR CIRCULATION SYSTEMS"
+      ],
+      "abstract": "A system for conditioning air in a building including a fan-coil unit arranged adjacent to or within an indoor space within the building and additionally configured to at least one of heat and cool the air of the indoor space, and a scrubber arranged adjacent to or within the indoor space, the scrubber configured during a scrub cycle for scrubbing of indoor air from the indoor space. The scrubber includes one or more adsorbent materials arranged therein to adsorb at least one predetermined gas from the indoor air during the scrub cycle, a source of outdoor air, and an exhaust, wherein the scrubber is configured during a purge cycle to direct a purging air flow received from the source of outdoor air over and/or through the adsorbent materials to purge at least a portion of the at least one predetermined gas adsorbed by the adsorbent materials during the scrub cycle from the adsorbent materials and thereafter exhausting the flow via the exhaust.",
+      "publicationNumber": "US20160187012",
+      "publicationDate": "2016-06-30",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Udi Meirav",
+        "Israel Biran",
+        "Abraham Bechar",
+        "Asael Meruham"
+      ],
+      "applicationDate": "2016-03-08",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Environmental technology",
+        "Thermal processes and apparatus"
+      ],
+      "score": 11.83754
+    },
+    {
+      "id": "EP-3496839-A4",
+      "title": [
+        "CARTRIDGE FOR AIRFLOW SCRUBBING SYSTEMS AND METHODS OF MANUFACTURE THEREOF"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP3496839",
+      "publicationDate": "2020-03-04",
+      "assignee": [
+        "Enverid Systems Inc."
+      ],
+      "inventors": [
+        "UDI MEIRAV",
+        "Sharon PERL-OLSHVANG"
+      ],
+      "applicationDate": "2017-08-09",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 11.83754
+    },
+    {
+      "id": "EP-3496839-A1",
+      "title": [
+        "CARTRIDGE FOR AIRFLOW SCRUBBING SYSTEMS AND METHODS OF MANUFACTURE THEREOF"
+      ],
+      "abstract": "A sorbent cartridge retention frame configured for use in an air scrubbing system comprising a first inlet side, a second outlet side, a plurality of compartments each configured to hold a solid-sorbent material, a plurality of respective walls arranged to form and separate the plurality of compartments, a first permeable membrane arranged to cover the first inlet side, a second permeable membrane arranged to cover the second outlet side. The first and/or second permeable membrane are configured for affixation to respective ends of the walls through a process of melting and solidification of the wall material such that wall material bonds with the membrane material.",
+      "publicationNumber": "EP3496839",
+      "publicationDate": "2019-06-19",
+      "assignee": [
+        "Enverid Systems Inc."
+      ],
+      "inventors": [
+        "UDI MEIRAV",
+        "Sharon PERL-OLSHVANG"
+      ],
+      "applicationDate": "2017-08-09",
+      "claimsCount": 18,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 11.83754
+    },
+    {
+      "id": "US-20190186762-A1",
+      "title": [
+        "AIR HANDLING SYSTEM WITH INTEGRATED TREATMENT"
+      ],
+      "abstract": "Embodiments of the present disclosure include methods and systems of circulating air in an enclosed environment. In such embodiments, the system may comprise an air handling unit (AHU), the AHU including an indoor air inlet to receive an indoor airflow from the enclosed environment and an indoor air outlet to expel the indoor airflow, a conditioning element arranged between the inlet and the outlet configured to at least heat or cool the indoor airflow as it flows thereover, one or more fan units arranged between the inlet and the outlet configured to provide velocity to the indoor airflow, and an air treatment assembly (ATA) arranged within or proximate the AHU, the ATA including an air inlet configured to receive a portion of the indoor airflow received by the AHU indoor air inlet.",
+      "publicationNumber": "US20190186762",
+      "publicationDate": "2019-06-20",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Udi Meirav",
+        "Israel Biran"
+      ],
+      "applicationDate": "2018-07-12",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Environmental technology",
+        "Thermal processes and apparatus"
+      ],
+      "score": 11.782267
+    },
+    {
+      "id": "EP-2943275-A4",
+      "title": [
+        "ARTICLES OF MANUFACTURE FORMED OF AMINE-SUPPORT PARTICLES, AND METHODS OF MAKING AND USING SAME"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP2943275",
+      "publicationDate": "2016-08-31",
+      "assignee": [
+        "ENVERID SYSTEMS INC."
+      ],
+      "inventors": [
+        "UDI MEIRAV",
+        "TREVOR ALAN HATTON",
+        "Fritz SIMEON"
+      ],
+      "applicationDate": "2014-01-10",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Chemical engineering",
+        "Environmental technology"
+      ],
+      "score": 11.782267
+    },
+    {
+      "id": "CN-109952140-A",
+      "title": [
+        "\u4f4e\u566a\u58f0\u3001\u5929\u82b1\u677f\u5b89\u88c5\u7684\u5ba4\u5185\u7a7a\u6c14\u6d17\u6da4\u5668"
+      ],
+      "abstract": "\u5728\u4e00\u4e9b\u5b9e\u65bd\u4f8b\u4e2d\uff0c\u516c\u5f00\u4e86\u4e00\u79cd\u5ba4\u5185\u7a7a\u6c14\u6e05\u6d01\u88c5\u7f6e\u548c\u7528\u4e8e\u4ece\u5ba4\u5185\u6c14\u6d41\u4e2d\u79fb\u9664\u81f3\u5c11\u4e00\u79cd\u7c7b\u578b\u7684\u6c14\u4f53\u7684\u81f3\u5c11\u4e00\u90e8\u5206\u7684\u65b9\u6cd5\u3002\u8be5\u88c5\u7f6e\u53ef\u5305\u62ec\u673a\u58f3\uff1b\u81f3\u5c11\u4e00\u4e2a\u5438\u9644\u5242\u50a8\u5e93\uff0c\u5305\u62ec\u81f3\u5c11\u4e00\u4e2a\u76d2\uff1b\u98ce\u6247\u7ec4\u4ef6\uff0c\u5305\u62ec\u81f3\u5c11\u4e00\u4e2a\u58f3\u4f53\uff0c\u81f3\u5c11\u4e00\u4e2a\u7535\u52a8\u673a\u548c\u81f3\u5c11\u4e00\u4e2a\u53f6\u8f6e\uff0c\u58f3\u4f53\u5305\u62ec\u81f3\u5c11\u4e00\u4e2a\u58f3\u4f53\u5165\u53e3\u548c\u81f3\u5c11\u4e00\u4e2a\u58f3\u4f53\u51fa\u53e3\uff1b\u52a0\u70ed\u5143\u4ef6\uff0c\u914d\u7f6e\u4e3a\u4ee5\u4e24\u79cd\u6a21\u5f0f\u4e2d\u7684\u81f3\u5c11\u4e00\u79cd\u6a21\u5f0f\u64cd\u4f5c\uff1a\u6d3b\u52a8\u6a21\u5f0f\u548c\u975e\u6d3b\u52a8\u6a21\u5f0f\uff1b\u63a7\u5236\u5668\uff0c\u914d\u7f6e\u4e3a\u4ee5\u81f3\u5c11\u4e24\u79cd\u6a21\u5f0f\u64cd\u4f5c\uff1a\u5438\u9644\u6a21\u5f0f\u548c\u518d\u751f\u6a21\u5f0f\u3002",
+      "publicationNumber": "CN109952140",
+      "publicationDate": "2019-06-28",
+      "assignee": [
+        "ENVERID SYSTEMS, INC"
+      ],
+      "inventors": [
+        "MEIRAV UDI",
+        "I bielan",
+        "S. Pearl Oshwan",
+        "HARRIS MICHAEL JOHN"
+      ],
+      "applicationDate": "2017-11-10",
+      "claimsCount": 16,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 11.775633
+    },
+    {
+      "id": "WO-2016183237-A1",
+      "title": [
+        "METHOD AND SYSTEM FOR REDUCTION OF UNWANTED GASES IN INDOOR AIR"
+      ],
+      "abstract": "Some embodiments of the disclosure are directed to an air treatment system, and corresponding methodology, for at least partially removing at least one gaseous contaminant contained in indoor air of a room structured for human occupants. In some embodiments, the system may comprise an air treatment assembly having an indoor air inlet configured to receive indoor airflow directly from a room, a regenerable adsorbent material configured to adsorb at least one gaseous contaminant contained in the indoor airflow, at least one airflow element for directing the indoor airflow to flow through the air treatment assembly, an indoor air outlet for expelling the indoor air, from the air treatment assembly back into the room, a purge air inlet configured to receive and direct purge air from the room over and/or through the adsorbent material for removal of at least a portion of the at least one gaseous contaminant, and a purge air outlet for expelling the purge air out of the air treatment assembly.",
+      "publicationNumber": "WO2016183237",
+      "publicationDate": "2016-11-17",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "UDI MEIRAV",
+        "ISRAEL BIRAN"
+      ],
+      "applicationDate": "2016-05-11",
+      "claimsCount": 1,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 11.608974
+    },
+    {
+      "id": "US-20190344211-A1",
+      "title": [
+        "METHOD AND SYSTEM FOR REDUCTION OF UNWANTED GASES IN INDOOR AIR"
+      ],
+      "abstract": "Some embodiments of the disclosure are directed to an air treatment system, and corresponding methodology, for at least partially removing at least one gaseous contaminant contained in indoor air of a room structured for human occupants. In some embodiments, the system may comprise an air treatment assembly having an indoor air inlet configured to receive indoor airflow directly from a room, a regenerable adsorbent material configured to adsorb at least one gaseous contaminant contained in the indoor airflow, at least one airflow element for directing the indoor airflow to flow through the air treatment assembly, an indoor air outlet for expelling the indoor air, from the air treatment assembly back into the room, a purge air inlet configured to receive and direct purge air from the room over and/or through the adsorbent material for removal of at least a portion of the at least one gaseous contaminant, and a purge air outlet for expelling the purge air out of the air treatment assembly.",
+      "publicationNumber": "US20190344211",
+      "publicationDate": "2019-11-14",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Udi Meirav",
+        "Israel Biran"
+      ],
+      "applicationDate": "2019-02-12",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Environmental technology",
+        "Thermal processes and apparatus"
+      ],
+      "score": 11.608974
+    },
+    {
+      "id": "US-20180147526-A1",
+      "title": [
+        "METHOD AND SYSTEM FOR REDUCTION OF UNWANTED GASES IN INDOOR AIR"
+      ],
+      "abstract": "Some embodiments of the disclosure are directed to an air treatment system, and corresponding methodology, for at least partially removing at least one gaseous contaminant contained in indoor air of a room structured for human occupants. In some embodiments, the system may comprise an air treatment assembly having an indoor air inlet configured to receive indoor airflow directly from a room, a regenerable adsorbent material configured to adsorb at least one gaseous contaminant contained in the indoor airflow, at least one airflow element for directing the indoor airflow to flow through the air treatment assembly, an indoor air outlet for expelling the indoor air, from the air treatment assembly back into the room, a purge air inlet configured to receive and direct purge air from the room over and/or through the adsorbent material for removal of at least a portion of the at least one gaseous contaminant, and a purge air outlet for expelling the purge air out of the air treatment assembly.",
+      "publicationNumber": "US20180147526",
+      "publicationDate": "2018-05-31",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Udi Meirav",
+        "Israel Biran"
+      ],
+      "applicationDate": "2016-05-11",
+      "claimsCount": 27,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Environmental technology",
+        "Thermal processes and apparatus"
+      ],
+      "score": 11.608974
+    },
+    {
+      "id": "EP-3104955-A4",
+      "title": [
+        "REGENERABLE SORBENT CARTRIDGE ASSEMBLIES IN AIR SCRUBBERS"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP3104955",
+      "publicationDate": "2017-12-27",
+      "assignee": [
+        "Enverid Systems Inc."
+      ],
+      "inventors": [
+        "UDI MEIRAV",
+        "ISRAEL BIRAN",
+        "Asael MERUHAM",
+        "JACOB JACOBI"
+      ],
+      "applicationDate": "2015-02-12",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 11.600276
+    },
+    {
+      "id": "EP-3104955-A1",
+      "title": [
+        "REGENERABLE SORBENT CARTRIDGE ASSEMBLIES IN AIR SCRUBBERS"
+      ],
+      "abstract": "A regenerable air scrubbing system comprises of an air flow assembly with replaceable cartridges arranged in a parallel orientation and designed for easy insertion and removal of the cartridges. The cartridge design enhances the contact area, reduces the pressure drop, and readily allows the design of similar assemblies with different airflow throughputs using the same cartridge, while facilitating easy replacement of the sorbent in the field. The cartridge can be partitioned into smaller compartments, improving the mechanical properties of the cartridge and the uniformity of the sorbent distribution.",
+      "publicationNumber": "EP3104955",
+      "publicationDate": "2016-12-21",
+      "assignee": [
+        "Enverid Systems Inc."
+      ],
+      "inventors": [
+        "UDI MEIRAV",
+        "ISRAEL BIRAN",
+        "Asael MERUHAM",
+        "JACOB JACOBI"
+      ],
+      "applicationDate": "2015-02-12",
+      "claimsCount": 21,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 11.600276
+    },
+    {
+      "id": "WO-2017184780-A1",
+      "title": [
+        "SYSTEMS AND METHODS FOR CLOSED-LOOP HEATING AND REGENERATION OF SORBENTS"
+      ],
+      "abstract": "Some embodiments of the present disclosure present closed-loop heating, temperature-swing adsorption regenerative scrubbing systems and methods. In some embodiments, such embodiments include providing a scrubbing system including a sorbent material, a plurality of dampers for controlling airflow over and/or through the sorbent according to an absorption mode, a closed-loop heating mode and a flushing mode, first controlling of the plurality of dampers so as to establish flowing an indoor airflow over and/or through the adsorbent during the adsorption mode, second controlling of the plurality of dampers so as to establish a closed loop airflow during the closed-loop heating mode, and third controlling of the plurality of dampers so as to establish a purging airflow during the flushing mode.",
+      "publicationNumber": "WO2017184780",
+      "publicationDate": "2017-10-26",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "UDI MEIRAV",
+        "Sharon PERL-OLSHVANG",
+        "ISRAEL MOREJON"
+      ],
+      "applicationDate": "2017-04-19",
+      "claimsCount": 18,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 11.4184
+    },
+    {
+      "id": "WO-2017035254-A1",
+      "title": [
+        "SCRUBBER FOR HVAC SYSTEM"
+      ],
+      "abstract": "In some embodiments, there is provided a scrubber system for cleaning return air in an HVAC unit, where the scrubber system attaches directly to an inlet of the return-air side of the HVAC unit, for example, by the mating of a flange on the system with a matching flange on the HVAC unit. The bolt-on scrubber system may comprise one or more sorbent materials, a fan for circulating return air through the sorbent, a damper-controlled inlet and a damper-controlled outlet to the attached return air side of the HVAC unit. Further, an additional air flow channel and a damper may be included in the system to control the flow of outside air into the HVAC unit. In some embodiments, the sorbents may be contained in removable inserts.",
+      "publicationNumber": "WO2017035254",
+      "publicationDate": "2017-03-02",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "UDI MEIRAV",
+        "ISRAEL BIRAN"
+      ],
+      "applicationDate": "2016-08-24",
+      "claimsCount": 27,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Environmental technology",
+        "Thermal processes and apparatus"
+      ],
+      "score": 11.4184
+    },
+    {
+      "id": "US-20180071672-A1",
+      "title": [
+        "SORBENTS FOR CARBON DIOXIDE REDUCTION FROM INDOOR AIR"
+      ],
+      "abstract": "A sorbent for CO2 reduction from indoor air from an enclosed space. In some embodiments, the sorbent comprises a solid support and an amine-based compound being supported by the support. The sorbent captures at least a portion of the CO2 within the indoor air. The sorbent may be regenerated by streaming outdoor air through the sorbent to release at least a portion of the captured CO2. The sorbent is structured to allow indoor air to flow therein with relatively low flow resistance and relatively rapid reaction kinetics. Regeneration may be performed at relatively low outdoor air temperatures, thereby minimizing the thermal energy required for regenerating the sorbent.",
+      "publicationNumber": "US20180071672",
+      "publicationDate": "2018-03-15",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Udi Meirav",
+        "Israel Biran"
+      ],
+      "applicationDate": "2017-09-18",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Chemical engineering",
+        "Environmental technology"
+      ],
+      "score": 11.4184
+    },
+    {
+      "id": "US-20170136399-A1",
+      "title": [
+        "SORBENTS FOR CARBON DIOXIDE REDUCTION FROM INDOOR AIR"
+      ],
+      "abstract": "A sorbent for CO2 reduction from indoor air from an enclosed space. In some embodiments, the sorbent comprises a solid support and an amine-based compound being supported by the support. The sorbent captures at least a portion of the CO2 within the indoor air. The sorbent may be regenerated by streaming outdoor air through the sorbent to release at least a portion of the captured CO2. The sorbent is structured to allow indoor air to flow therein with relatively low flow resistance and relatively rapid reaction kinetics. Regeneration may be performed at relatively low outdoor air temperatures, thereby minimizing the thermal energy required for regenerating the sorbent.",
+      "publicationNumber": "US20170136399",
+      "publicationDate": "2017-05-18",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Udi Meirav",
+        "Israel Biran"
+      ],
+      "applicationDate": "2016-11-16",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Chemical engineering",
+        "Environmental technology"
+      ],
+      "score": 11.4184
+    },
+    {
+      "id": "BR-112013029302-A2",
+      "title": [
+        "sorventes para redu\u00e7\u00e3o de di\u00f3xido de carbono a partir de ar de interior"
+      ],
+      "abstract": "resumo patente de inven\u00e7\u00e3o: \"sorventes para redu\u00e7\u00e3o de di\u00f3xido de carbono a partir de ar de interior\". a presente inven\u00e7\u00e3o refere-se a um sorvente para redu\u00e7\u00e3o de co2 de ar de interior a partir de um espa\u00e7o fechado. em algumas modalidades, o sorvente compreende um suporte s\u00f3lido e um composto baseado em amina sendo suportado pelo suporte. o sorvente captura pelo menos uma por\u00e7\u00e3o do co2 dentro do ar de interior. o sorvente pode ser regenerado atrav\u00e9s da forma\u00e7\u00e3o de corrente de ar exterior atrav\u00e9s do sorvente para liberar pelo menos uma por\u00e7\u00e3o do co2 capturado. o sorvente \u00e9 estruturado para permitir que o ar de interior flua no mesmo com resist\u00eancia de fluxo relativamente baixa e cin\u00e9ticas de rea\u00e7\u00e3o relativamente r\u00e1pidas. regenera\u00e7\u00e3o pode ser realizada em temperaturas de ar exterior relativamente baixas, com isso minimizando a energia t\u00e9rmica requerida para regenera\u00e7\u00e3o do sorvente.",
+      "publicationNumber": "BR112013029302",
+      "publicationDate": "2017-03-01",
+      "assignee": [
+        "ENVERID SYSTEMS INC."
+      ],
+      "inventors": [
+        "ISRAEL BIRAN",
+        "UDI MEIRAV"
+      ],
+      "applicationDate": "2012-05-17",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Chemical engineering",
+        "Environmental technology"
+      ],
+      "score": 11.4184
+    },
+    {
+      "id": "BR-112012029309-A2",
+      "title": [
+        "m\u00e9todo e sistema para melhor efici\u00eancia do condicionamento de ar"
+      ],
+      "abstract": "m\u00e9todo e sistema para melhor efici\u00eancia do condicionamento de ar. s\u00e3o divulgados sistemas e m\u00e9todos para a circula\u00e7\u00e3o de ar em meio fechado. pode ser proporcionada uma admiss\u00e3o para receber um ar do exterior do lado externo do ambiente fechado e uma unidade de tratamento de ar acoplada \u00e0 admiss\u00e3o para receber o ar externo atrav\u00e9s da admiss\u00e3o e configurada para receber uma circula\u00e7\u00e3o de ar a partir do ambiente fechado. a unidade de tratamento de ar pode ser configurada para afetar uma temperatura de pelo menos um do ar circulado recebido, a unidade de tratamento de ar pode ser ainda configurada para gerar ar para suprir ao ambiente fechado. o sistema atual objeto tamb\u00e9m pode incluir um sistema de circula\u00e7\u00e3o de ar para o ambiente fechado e de volta para a unidade de tratamento de ar e um sistema de purifica\u00e7\u00e3o acoplado a pelo menos uma da unidade de tratamento de ar e o sistema de circula\u00e7\u00e3o de ar e configurado para reduzir a presen\u00e7a de pelo menos uma subst\u00e2ncia no ar suprido ao ambiente fechado.",
+      "publicationNumber": "BR112012029309",
+      "publicationDate": "2016-07-26",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "UDI MEIRAV"
+      ],
+      "applicationDate": "2011-05-17",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Chemical engineering",
+        "Environmental technology",
+        "Thermal processes and apparatus"
+      ],
+      "score": 11.4184
+    },
+    {
+      "id": "US-20190314756-A1",
+      "title": [
+        "METHOD AND SYSTEM FOR FILTERING FORMALDEHYDE FROM INOOR AIR"
+      ],
+      "abstract": "Embodiments of the present disclosure are directed to systems and methods for removing formaldehyde from indoor air. Some embodiments include flowing an indoor airflow over and/or through a solid supported amine filtering medium, such that, at least a portion of formaldehyde entrained in the indoor airflow is removed therefrom. Some other embodiments include systems having one or more fans for providing velocity to one and/or another airflows (e.g., airflows to/from a formaldehyde filter).",
+      "publicationNumber": "US20190314756",
+      "publicationDate": "2019-10-17",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Udi Meirav",
+        "Israel Biran",
+        "Karthik Ramaswami",
+        "Shira Rosencwaig"
+      ],
+      "applicationDate": "2019-01-11",
+      "claimsCount": 20,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Chemical engineering",
+        "Environmental technology"
+      ],
+      "score": 11.379295
+    },
+    {
+      "id": "CN-115228632-A",
+      "title": [
+        "\u6c14\u65cb\u8fc7\u6ee4\u5668\u9635\u5217\u4e2d\u7684\u6d41\u91cf\u548c\u538b\u529b\u63a7\u5236"
+      ],
+      "abstract": "\u516c\u5f00\u4e86\u7a7a\u6c14\u8fc7\u6ee4\u7cfb\u7edf\uff0c\u6240\u8ff0\u7a7a\u6c14\u8fc7\u6ee4\u7cfb\u7edf\u5305\u62ec\u914d\u7f6e\u4e3a\u63a5\u6536\u8fdb\u5165\u7684\u6c14\u6d41\u7684\u591a\u4e2a\u533a\u6bb5\u3002\u5728\u4e00\u4e9b\u5b9e\u65bd\u4f8b\u4e2d\uff0c\u591a\u4e2a\u533a\u6bb5\u7684\u6bcf\u4e2a\u533a\u6bb5\u5305\u62ec\u7b2c\u4e00\u6c14\u6d41\u63a5\u6536\u4fa7(ASRS)\u548c\u7b2c\u4e8c\u6c14\u6d41\u6392\u51fa\u4fa7(ASES)\uff0c\u4ee5\u53ca\u591a\u4e2a\u5355\u5143\uff0c\u6bcf\u4e2a\u5355\u5143\u5305\u62ec\u6c14\u65cb\u8154\uff0c\u8be5\u6c14\u65cb\u8154\u5177\u6709\u5207\u5411\u5165\u53e3\u4ee5\u53ca\u8f74\u5411\u51fa\u53e3\uff0c\u8be5\u5207\u5411\u5165\u53e3\u8bbe\u7f6e\u4e3a\u901a\u8fc7ASRS\u63a5\u6536\u4e00\u90e8\u5206\u6c14\u6d41\uff0c\u8be5\u8f74\u5411\u51fa\u53e3\u8bbe\u7f6e\u4e3a\u5c06\u4e00\u90e8\u5206\u6c14\u6d41\u6392\u81f3ASES\u3002\u6bcf\u4e2a\u533a\u6bb5\u8fd8\u914d\u7f6e\u6709\u53ef\u6253\u5f00\u548c\u5173\u95ed\u7684\u76d6\uff0c\u4ee5\u4f7f\u5f97\u76f8\u5e94\u533a\u6bb5\u7684\u4e00\u4e2a\u6216\u591a\u4e2a\u76f8\u5e94\u76d6\u7684\u5173\u95ed\u8feb\u4f7f\u6c14\u6d41\u4ee5\u6bd4\u6253\u5f00\u4e00\u4e2a\u6216\u591a\u4e2a\u76f8\u5e94\u7684\u76d6\u65f6\u66f4\u5927\u7684\u901f\u5ea6\u6d41\u8fc7\u5177\u6709\u6253\u5f00\u7684\u76d6\u7684\u5176\u4f59\u533a\u6bb5\u53ca\u5176\u76f8\u5e94\u7684\u5355\u5143\u3002",
+      "publicationNumber": "CN115228632",
+      "publicationDate": "2022-10-25",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "S Perle orschwan",
+        "U. Meirav"
+      ],
+      "applicationDate": "2018-07-20",
+      "claimsCount": 32,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Chemical engineering",
+        "Environmental technology"
+      ],
+      "score": 11.379228
+    },
+    {
+      "id": "CN-110891691-A",
+      "title": [
+        "\u6c14\u65cb\u8fc7\u6ee4\u5668\u9635\u5217\u4e2d\u7684\u6d41\u91cf\u548c\u538b\u529b\u63a7\u5236"
+      ],
+      "abstract": "\u516c\u5f00\u4e86\u7a7a\u6c14\u8fc7\u6ee4\u7cfb\u7edf\uff0c\u6240\u8ff0\u7a7a\u6c14\u8fc7\u6ee4\u7cfb\u7edf\u5305\u62ec\u914d\u7f6e\u4e3a\u63a5\u6536\u8fdb\u5165\u7684\u6c14\u6d41\u7684\u591a\u4e2a\u533a\u6bb5\u3002\u5728\u4e00\u4e9b\u5b9e\u65bd\u4f8b\u4e2d\uff0c\u591a\u4e2a\u533a\u6bb5\u7684\u6bcf\u4e2a\u533a\u6bb5\u5305\u62ec\u7b2c\u4e00\u6c14\u6d41\u63a5\u6536\u4fa7(ASRS)\u548c\u7b2c\u4e8c\u6c14\u6d41\u6392\u51fa\u4fa7(ASES)\uff0c\u4ee5\u53ca\u591a\u4e2a\u5355\u5143\uff0c\u6bcf\u4e2a\u5355\u5143\u5305\u62ec\u6c14\u65cb\u8154\uff0c\u8be5\u6c14\u65cb\u8154\u5177\u6709\u5207\u5411\u5165\u53e3\u4ee5\u53ca\u8f74\u5411\u51fa\u53e3\uff0c\u8be5\u5207\u5411\u5165\u53e3\u8bbe\u7f6e\u4e3a\u901a\u8fc7ASRS\u63a5\u6536\u4e00\u90e8\u5206\u6c14\u6d41\uff0c\u8be5\u8f74\u5411\u51fa\u53e3\u8bbe\u7f6e\u4e3a\u5c06\u4e00\u90e8\u5206\u6c14\u6d41\u6392\u81f3ASES\u3002\u6bcf\u4e2a\u533a\u6bb5\u8fd8\u914d\u7f6e\u6709\u53ef\u6253\u5f00\u548c\u5173\u95ed\u7684\u76d6\uff0c\u4ee5\u4f7f\u5f97\u76f8\u5e94\u533a\u6bb5\u7684\u4e00\u4e2a\u6216\u591a\u4e2a\u76f8\u5e94\u76d6\u7684\u5173\u95ed\u8feb\u4f7f\u6c14\u6d41\u4ee5\u6bd4\u6253\u5f00\u4e00\u4e2a\u6216\u591a\u4e2a\u76f8\u5e94\u7684\u76d6\u65f6\u66f4\u5927\u7684\u901f\u5ea6\u6d41\u8fc7\u5177\u6709\u6253\u5f00\u7684\u76d6\u7684\u5176\u4f59\u533a\u6bb5\u53ca\u5176\u76f8\u5e94\u7684\u5355\u5143\u3002",
+      "publicationNumber": "CN110891691",
+      "publicationDate": "2020-03-17",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "S Perle orschwan",
+        "U. Meirav"
+      ],
+      "applicationDate": "2018-07-20",
+      "claimsCount": 32,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Chemical engineering"
+      ],
+      "score": 11.379228
+    },
+    {
+      "id": "US-9933320-B2",
+      "title": [
+        "Systems, methods and devices for measurement of rate of heat exchange of airflow systems"
+      ],
+      "abstract": "Method, systems, and devices for determining instantaneous heat exchange between an airflow and a heat exchange element of an HVAC system are disclosed. In some embodiments, methods and systems include receiving or otherwise obtaining airflow data, temperature and humidity data. The airflow data may be used to calculate the volumetric airflow rate, and the temperature and humidity data may be processed with enthalpy data to determine the change in enthalpy (\u0394h) of the airflow after encountering a heat exchange element. The instantaneous rate of heat exchange (E) between the airflow and the heat exchange element may then be determined from the volumetric airflow rate and change in enthalpy.",
+      "publicationNumber": "US9933320",
+      "publicationDate": "2018-04-03",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Udi Meirav",
+        "Israel Biran",
+        "Tzvi FISHER",
+        "Asael Meruham"
+      ],
+      "applicationDate": "2014-03-11",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Measurement"
+      ],
+      "score": 11.242222
+    },
+    {
+      "id": "US-20240109022-A1",
+      "title": [
+        "LOW NOISE, CEILING MOUNTED INOOR AIR SCRUBBER"
+      ],
+      "abstract": "In some embodiments, an indoor air cleaning apparatus and a method for removing at least a portion of at least one type of gas from an indoor airflow are disclosed. The apparatus may comprise a cabinet; at least one sorbent bank comprising at least one cartridge; a fan assembly comprising at least one housing including at least one housing inlet and at least one housing outlet, at least one motor and at least one impeller; and a heating element configured to operate in at least one of two modes: an active mode and an inactive mode; and a controller configured to operate in at least two modes: an adsorption mode and a regeneration mode.",
+      "publicationNumber": "US20240109022",
+      "publicationDate": "2024-04-04",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Udi Meirav",
+        "Israel Biran",
+        "SHARON PERL-OLSHVANG",
+        "Shawn Brown"
+      ],
+      "applicationDate": "2023-05-03",
+      "claimsCount": 16,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 11.242222
+    },
+    {
+      "id": "US-20220258095-A1",
+      "title": [
+        "LOW NOISE, CEILING MOUNTED INOOR AIR SCRUBBER"
+      ],
+      "abstract": "In some embodiments, an indoor air cleaning apparatus and a method for removing at least a portion of at least one type of gas from an indoor airflow are disclosed. The apparatus may comprise a cabinet; at least one sorbent bank comprising at least one cartridge; a fan assembly comprising at least one housing including at least one housing inlet and at least one housing outlet, at least one motor and at least one impeller; and a heating element configured to operate in at least one of two modes: an active mode and an inactive mode; and a controller configured to operate in at least two modes: an adsorption mode and a regeneration mode.",
+      "publicationNumber": "US20220258095",
+      "publicationDate": "2022-08-18",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Udi Meirav",
+        "Israel Biran",
+        "SHARON PERL-OLSHVANG",
+        "Shawn Brown"
+      ],
+      "applicationDate": "2021-09-03",
+      "claimsCount": 15,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 11.242222
+    },
+    {
+      "id": "US-11673090-B2",
+      "title": [
+        "Low noise, ceiling mounted indoor air scrubber"
+      ],
+      "abstract": "In some embodiments, an indoor air cleaning apparatus and a method for removing at least a portion of at least one type of gas from an indoor airflow are disclosed. The apparatus may comprise a cabinet; at least one sorbent bank comprising at least one cartridge; a fan assembly comprising at least one housing including at least one housing inlet and at least one housing outlet, at least one motor and at least one impeller; and a heating element configured to operate in at least one of two modes: an active mode and an inactive mode; and a controller configured to operate in at least two modes: an adsorption mode and a regeneration mode.",
+      "publicationNumber": "US11673090",
+      "publicationDate": "2023-06-13",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Udi Meirav",
+        "Israel Biran",
+        "SHARON PERL-OLSHVANG",
+        "Shawn Brown"
+      ],
+      "applicationDate": "2021-09-03",
+      "claimsCount": 14,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Environmental technology",
+        "Thermal processes and apparatus"
+      ],
+      "score": 11.242222
+    },
+    {
+      "id": "WO-2020047437-A1",
+      "title": [
+        "SYSTEMS, DEVICES, AND METHODS FOR CYCLONIC FILTRATION"
+      ],
+      "abstract": "Embodiments of the present disclosure are directed to cyclonic air filtering systems for removing fine particles from an air stream. In some embodiments, small diameter cyclonic separators/elements are used to remove fine particles from an airflow where a large number of such elements are assembled together in a compact arrangement. In some embodiments, an air filtration system is presented and can comprise a housing including a plurality of compartments, an air inlet side and an air outlet side. Such a system can further include a plurality of cyclonic filtering arrays each housed in a respective compartment and each comprising an assembly of a plurality of cyclonic elements configured to filter air of an airflow via centrifugal force (i.e., cyclonic separation). The system can include mating means configured such that most, and in some embodiments, all of the airflow flows only through the arrays.",
+      "publicationNumber": "WO2020047437",
+      "publicationDate": "2020-03-05",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Sharon PERL-OLSHVANG",
+        "UDI MEIRAV",
+        "SHAWN BROWN"
+      ],
+      "applicationDate": "2019-08-30",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Furniture, games"
+      ],
+      "score": 11.220215
+    },
+    {
+      "id": "WO-2018136968-A1",
+      "title": [
+        "LONG LIFE AIR FILTER"
+      ],
+      "abstract": "An air filter comprising a housing, a plurality of cyclonic-element arrays and a plurality of individual airflow paths is disclosed herein. The housing includes a first side configured to be arranged or otherwise exposed to an upstream side of a first airflow, and a second side configured to be arranged or otherwise exposed to a downstream side of the first airflow. In some embodiments, the plurality of cyclonic-element arrays may be organized in a parallel or approximately parallel arrangement within and/or supported by the housing. Further, the plurality of individual airflow paths may correspond to the plurality individual of cyclone elements in each array life.",
+      "publicationNumber": "WO2018136968",
+      "publicationDate": "2018-07-26",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Sharon PERL-OLSHVANG",
+        "UDI MEIRAV",
+        "SHAWN BROWN"
+      ],
+      "applicationDate": "2018-01-23",
+      "claimsCount": 18,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Chemical engineering",
+        "Furniture, games"
+      ],
+      "score": 11.220215
+    },
+    {
+      "id": "WO-2017019628-A1",
+      "title": [
+        "APPARATUS, METHODS AND SYSTEMS FOR SEPARATING PARTICLES FROM AIR AND FLUIDS"
+      ],
+      "abstract": "Some embodiments of the disclosure are directed to an air/fluid filter device comprising a sheet of material initially configured in one or more planar sections, a plurality of organized air/fluid outlets arranged on the sheet and configured to allow the air/fluid to flow through the sheet, and a plurality of cyclonic compartments coupled to the sheet, each compartment comprising a cyclonic structure comprising at least one of a cone or a cylinder, including a tangential inlet, and a cyclonic outlet at the end of the cyclonic structure that is coupled to the sheet. In some embodiments, each tangential opening is in air/fluid communication with a respective incoming air/fluid side of the sheet, and each cyclonic outlet is coupled to a respective outlet of the sheet.",
+      "publicationNumber": "WO2017019628",
+      "publicationDate": "2017-02-02",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "UDI MEIRAV",
+        "ISRAEL BIRAN",
+        "Sharon PERL",
+        "SHAWN BROWN"
+      ],
+      "applicationDate": "2016-07-25",
+      "claimsCount": 44,
+      "independentClaimsCount": 6,
+      "technologyFields": [
+        "Chemical engineering",
+        "Furniture, games"
+      ],
+      "score": 11.220215
+    },
+    {
+      "id": "EP-3570717-A4",
+      "title": [
+        "LONG LIFE AIR FILTER"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP3570717",
+      "publicationDate": "2020-09-02",
+      "assignee": [
+        "Enverid Systems, Inc."
+      ],
+      "inventors": [
+        "Sharon PERL-OLSHVANG",
+        "UDI MEIRAV",
+        "SHAWN BROWN"
+      ],
+      "applicationDate": "2018-01-23",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Chemical engineering",
+        "Furniture, games"
+      ],
+      "score": 11.220215
+    },
+    {
+      "id": "EP-3570717-A1",
+      "title": [
+        "LONG LIFE AIR FILTER"
+      ],
+      "abstract": "An air filter comprising a housing, a plurality of cyclonic-element arrays and a plurality of individual airflow paths is disclosed herein. The housing includes a first side configured to be arranged or otherwise exposed to an upstream side of a first airflow, and a second side configured to be arranged or otherwise exposed to a downstream side of the first airflow. In some embodiments, the plurality of cyclonic-element arrays may be organized in a parallel or approximately parallel arrangement within and/or supported by the housing. Further, the plurality of individual airflow paths may correspond to the plurality individual of cyclone elements in each array life.",
+      "publicationNumber": "EP3570717",
+      "publicationDate": "2019-11-27",
+      "assignee": [
+        "Enverid Systems, Inc."
+      ],
+      "inventors": [
+        "Sharon PERL-OLSHVANG",
+        "UDI MEIRAV",
+        "SHAWN BROWN"
+      ],
+      "applicationDate": "2018-01-23",
+      "claimsCount": 18,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Chemical engineering",
+        "Furniture, games"
+      ],
+      "score": 11.220215
+    },
+    {
+      "id": "EP-3324807-A4",
+      "title": [
+        "APPARATUS, METHODS AND SYSTEMS FOR SEPARATING PARTICLES FROM AIR AND FLUIDS"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP3324807",
+      "publicationDate": "2019-06-12",
+      "assignee": [
+        "Enverid Systems, Inc."
+      ],
+      "inventors": [
+        "UDI MEIRAV",
+        "ISRAEL BIRAN",
+        "Sharon PERL-OLSHVANG",
+        "SHAWN BROWN"
+      ],
+      "applicationDate": "2016-07-25",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Chemical engineering",
+        "Furniture, games"
+      ],
+      "score": 11.220215
+    },
+    {
+      "id": "EP-3324807-A1",
+      "title": [
+        "APPARATUS, METHODS AND SYSTEMS FOR SEPARATING PARTICLES FROM AIR AND FLUIDS"
+      ],
+      "abstract": "Some embodiments of the disclosure are directed to an air/fluid filter device comprising a sheet of material initially configured in one or more planar sections, a plurality of organized air/fluid outlets arranged on the sheet and configured to allow the air/fluid to flow through the sheet, and a plurality of cyclonic compartments coupled to the sheet, each compartment comprising a cyclonic structure comprising at least one of a cone or a cylinder, including a tangential inlet, and a cyclonic outlet at the end of the cyclonic structure that is coupled to the sheet. In some embodiments, each tangential opening is in air/fluid communication with a respective incoming air/fluid side of the sheet, and each cyclonic outlet is coupled to a respective outlet of the sheet.",
+      "publicationNumber": "EP3324807",
+      "publicationDate": "2018-05-30",
+      "assignee": [
+        "Enverid Systems, Inc."
+      ],
+      "inventors": [
+        "UDI MEIRAV",
+        "ISRAEL BIRAN",
+        "Sharon PERL-OLSHVANG",
+        "SHAWN BROWN"
+      ],
+      "applicationDate": "2016-07-25",
+      "claimsCount": 44,
+      "independentClaimsCount": 6,
+      "technologyFields": [
+        "Chemical engineering",
+        "Furniture, games"
+      ],
+      "score": 11.220215
+    },
+    {
+      "id": "EP-2976146-A4",
+      "title": [
+        "SYSTEMS AND METHODS OF CLEANING CABIN AIR IN A TRANSPORTATION VEHICLE"
+      ],
+      "abstract": "",
+      "publicationNumber": "EP2976146",
+      "publicationDate": "2016-11-16",
+      "assignee": [
+        "ENVERID SYSTEMS INC."
+      ],
+      "inventors": [
+        "UDI MEIRAV",
+        "ISRAEL BIRAN"
+      ],
+      "applicationDate": "2014-03-18",
+      "claimsCount": null,
+      "independentClaimsCount": null,
+      "technologyFields": [
+        "Environmental technology",
+        "Transport"
+      ],
+      "score": 11.220215
+    },
+    {
+      "id": "EP-2976146-A1",
+      "title": [
+        "SYSTEMS AND METHODS OF CLEANING CABIN AIR IN A TRANSPORTATION VEHICLE"
+      ],
+      "abstract": "Methods, systems, and devices for an automotive vehicle air cleaning system are provided which may be configured to operate in at least an adsorption mode and an in-situ regeneration mode are disclosed. The system includes at least one type of sorbent material configured to remove CO2 from a cabin of an automotive vehicle according to a repeated adsorption- desorption swing cycle, a first inlet configured to supply a first airfiow of air from the cabin to the system during an adsorption mode, and a first outlet configured to return the first airflow after passing over and/or through the sorbent material during the adsorption mode. The system includes a second inlet configured to supply a second airflow of outside air to the system during a regeneration mode, a second outlet to return the second airflow after passing over and/or through the sorbent material during the regeneration mode.",
+      "publicationNumber": "EP2976146",
+      "publicationDate": "2016-01-27",
+      "assignee": [
+        "Enverid Systems Inc."
+      ],
+      "inventors": [
+        "UDI MEIRAV",
+        "ISRAEL BIRAN"
+      ],
+      "applicationDate": "2014-03-18",
+      "claimsCount": 53,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Environmental technology",
+        "Transport"
+      ],
+      "score": 11.220215
+    },
+    {
+      "id": "CN-109789367-A",
+      "title": [
+        "\u7528\u4e8e\u6c14\u6d41\u6d17\u6da4\u7cfb\u7edf\u7684\u6ee4\u7b52\u53ca\u5176\u5236\u9020\u65b9\u6cd5"
+      ],
+      "abstract": "\u4e00\u79cd\u5438\u9644\u5242\u6ee4\u7b52\u4fdd\u6301\u6846\u67b6\uff0c\u5176\u914d\u7f6e\u6210\u7528\u4e8e\u7a7a\u6c14\u6d17\u6da4\u7cfb\u7edf\uff0c\u6240\u8ff0\u6846\u67b6\u5305\u62ec\u7b2c\u4e00\u5165\u53e3\u4fa7\u3001\u7b2c\u4e8c\u51fa\u53e3\u4fa7\u3001\u591a\u4e2a\u9694\u5ba4\uff0c\u6bcf\u4e2a\u9694\u5ba4\u914d\u7f6e\u6210\u4fdd\u6301\u56fa\u4f53\u5438\u9644\u5242\u6750\u6599\uff0c\u5e03\u7f6e\u6210\u5f62\u6210\u548c\u5206\u79bb\u591a\u4e2a\u9694\u5ba4\u7684\u591a\u4e2a\u76f8\u5e94\u7684\u58c1\uff0c\u5e03\u7f6e\u6210\u8986\u76d6\u7b2c\u4e00\u5165\u53e3\u4fa7\u7684\u7b2c\u4e00\u6e17\u900f\u819c\uff0c\u5e03\u7f6e\u6210\u8986\u76d6\u7b2c\u4e8c\u51fa\u53e3\u4fa7\u7684\u7b2c\u4e8c\u6e17\u900f\u819c\u3002\u7b2c\u4e00\u548c/\u6216\u7b2c\u4e8c\u6e17\u900f\u819c\u914d\u7f6e\u6210\u901a\u8fc7\u58c1\u6750\u6599\u7684\u7194\u5316\u548c\u51dd\u56fa\u8fc7\u7a0b\u56fa\u5b9a\u5230\u58c1\u7684\u5404\u4e2a\u7aef\u90e8\uff0c\u4f7f\u5f97\u58c1\u6750\u6599\u4e0e\u819c\u6750\u6599\u7ed3\u5408\u3002",
+      "publicationNumber": "CN109789367",
+      "publicationDate": "2019-05-21",
+      "assignee": [
+        "ENVERID SYSTEMS, INC"
+      ],
+      "inventors": [
+        "MEIRAV UDI",
+        "S. Pearl Oshwan"
+      ],
+      "applicationDate": "2017-08-09",
+      "claimsCount": 18,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 11.164021
+    },
+    {
+      "id": "CN-107255324-A",
+      "title": [
+        "\u7528\u4e8e\u4ee5\u5206\u5e03\u5f0f\u7a7a\u6c14\u5faa\u73af\u7cfb\u7edf\u8c03\u8282\u5c01\u95ed\u73af\u5883\u4e2d\u7684\u7a7a\u6c14\u7684\u65b9\u6cd5\u548c\u7cfb\u7edf"
+      ],
+      "abstract": "\u4e00\u79cd\u7528\u4e8e\u8c03\u8282\u5efa\u7b51\u7269\u5185\u7684\u7a7a\u6c14\u7684\u7cfb\u7edf\uff0c\u6240\u8ff0\u7cfb\u7edf\u5305\u62ec\uff1a\u98ce\u673a\u76d8\u7ba1\u5355\u5143\uff0c\u6240\u8ff0\u98ce\u673a\u76d8\u7ba1\u5355\u5143\u90bb\u8fd1\u5efa\u7b51\u7269\u5185\u7684\u5ba4\u5185\u7a7a\u95f4\u5b89\u7f6e\u6216\u5b89\u7f6e\u5728\u6240\u8ff0\u5ba4\u5185\u7a7a\u95f4\u5185\uff0c\u4e14\u6b64\u5916\uff0c\u6240\u8ff0\u98ce\u673a\u76d8\u7ba1\u5355\u5143\u8bbe\u7f6e\u4e3a\u8fdb\u884c\u4ee5\u4e0b\u81f3\u5c11\u4e00\u8005\uff1a\u52a0\u70ed\u53ca\u51b7\u5374\u5ba4\u5185\u7a7a\u95f4\u7684\u7a7a\u6c14\uff1b\u548c\u51c0\u5316\u5668\uff0c\u6240\u8ff0\u51c0\u5316\u5668\u90bb\u8fd1\u5ba4\u5185\u7a7a\u95f4\u5b89\u7f6e\u6216\u5b89\u7f6e\u5728\u6240\u8ff0\u5ba4\u5185\u7a7a\u95f4\u5185\uff0c\u51c0\u5316\u5668\u8bbe\u7f6e\u4e3a\u5728\u51c0\u5316\u5468\u671f\u671f\u95f4\u51c0\u5316\u6765\u81ea\u5ba4\u5185\u7a7a\u95f4\u7684\u5ba4\u5185\u7a7a\u6c14\u3002\u51c0\u5316\u5668\u5305\u62ec\uff1a\u4e00\u6216\u591a\u79cd\u5438\u9644\u6750\u6599\uff0c\u6240\u8ff0\u5438\u9644\u6750\u6599\u5b89\u7f6e\u5728\u51c0\u5316\u5668\u4e2d\u4ee5\u5728\u51c0\u5316\u5468\u671f\u671f\u95f4\u5438\u9644\u6765\u81ea\u5ba4\u5185\u7a7a\u6c14\u7684\u81f3\u5c11\u4e00\u79cd\u9884\u5b9a\u6c14\u4f53\uff1b\u5ba4\u5916\u7a7a\u6c14\u6e90\uff1b\u548c\u6392\u6c14\u7ba1\uff0c\u5176\u4e2d\u51c0\u5316\u5668\u8bbe\u7f6e\u4e3a\u5728\u6e05\u9664\u5468\u671f\u671f\u95f4\u5f15\u5bfc\u4ece\u5ba4\u5916\u7a7a\u6c14\u6e90\u63a5\u6536\u7684\u6e05\u9664\u7a7a\u6c14\u6c14\u6d41\u8d8a\u8fc7\u548c/\u6216\u7a7f\u8fc7\u5438\u9644\u6750\u6599\uff0c\u4ee5\u4ece\u5438\u9644\u6750\u6599\u6e05\u9664\u7531\u5438\u9644\u6750\u6599\u5728\u51c0\u5316\u5468\u671f\u671f\u95f4\u5438\u9644\u7684\u81f3\u5c11\u4e00\u79cd\u9884\u5b9a\u6c14\u4f53\u7684\u81f3\u5c11\u4e00\u90e8\u5206\u5e76\u5728\u6b64\u540e\u901a\u8fc7\u6392\u6c14\u7ba1\u6392\u51fa\u6c14\u6d41\u3002",
+      "publicationNumber": "CN107255324",
+      "publicationDate": "2017-10-17",
+      "assignee": [
+        "ENVERID SYSTEMS, INC"
+      ],
+      "inventors": [
+        "Wu Dimei pressgang",
+        "Yi Si rai Er Bilan",
+        "Abraham Bei Shaer",
+        "A Saermeiluhamu"
+      ],
+      "applicationDate": "2012-11-16",
+      "claimsCount": 56,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Thermal processes and apparatus"
+      ],
+      "score": 11.164021
+    },
+    {
+      "id": "CN-105745004-A",
+      "title": [
+        "\u7528\u4e8e\u6709\u6548\u52a0\u70ed\u5ba4\u5185\u7a7a\u6c14\u6d17\u6da4\u5668\u4e2d\u7684\u5438\u7740\u5242\u7684\u7cfb\u7edf\u548c\u65b9\u6cd5"
+      ],
+      "abstract": "\u672c\u516c\u5f00\u6848\u7684\u5b9e\u65bd\u65b9\u5f0f\u6d89\u53ca\u7528\u4e8e\u518d\u751f\u6d17\u6da4\u5668\u7684\u5438\u7740\u6750\u6599\u7684\u7cfb\u7edf\u548c\u65b9\u6cd5\uff0c\u6240\u8ff0\u6d17\u6da4\u5668\u914d\u7f6e\u6210\u7528\u4e8e\u5c06\u6c61\u67d3\u7269\u4ece\u6765\u81ea\u5c01\u95ed\u7a7a\u95f4\u5185\u7684\u5ba4\u5185\u7a7a\u6c14\u4e2d\u6d17\u9664\u3002\u4e00\u4e9b\u5b9e\u65bd\u65b9\u5f0f\u5305\u62ec\u5438\u7740\u6750\u6599\u90e8\u5206(SMP)\uff0c\u6240\u8ff0\u5438\u7740\u6750\u6599\u90e8\u5206\u5305\u62ec\u5438\u7740\u6750\u6599\uff0c\u6240\u8ff0\u5438\u7740\u6750\u6599\u53ef\u914d\u7f6e\u6210\u5728\u5438\u9644\u9636\u6bb5\u4e0e\u518d\u751f\u9636\u6bb5\u4e4b\u95f4\u5faa\u73af\uff0c\u6240\u8ff0\u5438\u9644\u9636\u6bb5\u7528\u4e8e\u5c06\u6c61\u67d3\u7269\u4ece\u5ba4\u5185\u7a7a\u6c14\u4e2d\u5438\u9644\u51fa\u6765\uff0c\u6240\u8ff0\u518d\u751f\u9636\u6bb5\u914d\u7f6e\u7528\u4e8e\u7ecf\u7531\u6e29\u5ea6\u6446\u52a8\u5438\u9644\u6765\u5c06\u5728\u6240\u8ff0\u5438\u7740\u6750\u6599\u7684\u6240\u8ff0\u5438\u9644\u9636\u6bb5\u671f\u95f4\u88ab\u6240\u8ff0\u5438\u7740\u6750\u6599\u5438\u9644\u7684\u6240\u8ff0\u6c61\u67d3\u7269\u7684\u81f3\u5c11\u4e00\u90e8\u5206\u91ca\u653e\u5230\u51c0\u5316\u6c14\u6d41\u4e2d\u3002",
+      "publicationNumber": "CN105745004",
+      "publicationDate": "2016-07-06",
+      "assignee": [
+        "ENVERID SYSTEMS, INC"
+      ],
+      "inventors": [
+        "Wu Dimei pressgang",
+        "Yi Si rai Er Bilan"
+      ],
+      "applicationDate": "2014-09-17",
+      "claimsCount": 23,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 11.113918
+    },
+    {
+      "id": "CN-108465344-A",
+      "title": [
+        "\u7528\u4e8e\u5ba4\u5185\u7a7a\u6c14\u6d17\u6da4\u7684\u518d\u751f\u5438\u9644\u5242"
+      ],
+      "abstract": "\u5728\u6b64\u63ed\u793a\u7684\u5185\u5bb9\u4e2d\u7684\u67d0\u4e9b\u5b9e\u65bd\u65b9\u6848\u76f8\u5bf9\u5e94\u7684\u662f\uff0c\u4e3e\u4f8b\u6765\u8bf4\uff0c\u4e00\u79cd\u9002\u7528\u4e8e\u4ece\u5c01\u95ed\u7a7a\u95f4\u7684\u5ba4\u5185\u7a7a\u6c14\u4e2d\u6d17\u6da4\u6c14\u4f53\u548c/\u6216\u81f4\u6c61\u7269\u7684\u6df7\u5408\u7269\u4ece\u800c\u4ece\u6240\u8ff0\u6c14\u4f53\u548c/\u6216\u81f4\u6c61\u7269\u7684\u6df7\u5408\u7269\u4e2d\u79fb\u9664\u81f3\u5c11\u4e00\u79cd\u6c14\u4f53\u548c/\u6216\u81f4\u6c61\u7269\u7684\u7cfb\u7edf\u3002\u6240\u8ff0\u7684\u7cfb\u7edf\u53ef\u4ee5\u5305\u62ec\u4e00\u79cd\u6216\u591a\u79cd\u5438\u9644\u6750\u6599\uff0c\u5176\u88ab\u914d\u7f6e\u5728\u6765\u81ea\u4e8e\u6c14\u4f53\u548c/\u6216\u81f4\u6c61\u7269\u7684\u6df7\u5408\u7269\u7684\u81f3\u5c11\u4e00\u79cd\u6c14\u4f53\u548c/\u6216\u81f4\u6c61\u7269\u7684\u5438\u9644\u548c\u518d\u751f\u4e4b\u95f4\u901a\u8fc7\u53d8\u6e29\u5438\u9644\u5faa\u73af(\u4e3e\u4f8b\u6765\u8bf4)\u6765\u5faa\u73af\u7684\uff0c\u518d\u751f\u88c5\u7f6e\u88ab\u914d\u7f6e\u7528\u4e8e\u5bf9\u4e00\u79cd\u6216\u591a\u79cd\u5438\u9644\u5242\u8fdb\u884c\u518d\u751f\u3002\u6240\u8ff0\u518d\u751f\u88c5\u7f6e\u53ef\u4ee5\u88ab\u914d\u7f6e\u5728\u518d\u751f\u6e29\u5ea6\u5bf9\u4e00\u79cd\u6216\u591a\u79cd\u5438\u9644\u5242\u6750\u6599\u8fdb\u884c\u518d\u751f\uff0c\u5e76\u4e14\u70ed\u6cf5\u53ef\u4ee5\u914d\u7f6e\u7528\u4e8e\u52a0\u70ed\u6240\u8ff0\u6e05\u6d17\u6c14\u4f53\u548c\u6240\u8ff0\u5438\u9644\u5242\u6750\u6599\u7684\u81f3\u5c11\u5176\u4e2d\u4e4b\u4e00\u3002",
+      "publicationNumber": "CN108465344",
+      "publicationDate": "2018-08-31",
+      "assignee": [
+        "ENVERID SYSTEMS INC."
+      ],
+      "inventors": [
+        "MEIRAV UDI",
+        "BIRAN ISRAEL",
+        "BECHAR ABRAHAM"
+      ],
+      "applicationDate": "2013-07-18",
+      "claimsCount": 46,
+      "independentClaimsCount": 7,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 11.012043
+    },
+    {
+      "id": "CN-107744714-A",
+      "title": [
+        "\u9002\u7528\u4e8e\u51cf\u5c11\u5ba4\u5185\u7a7a\u6c14\u4e2d\u7684\u6709\u5bb3\u6c14\u4f53\u7684\u65b9\u6cd5\u548c\u7cfb\u7edf"
+      ],
+      "abstract": "\u4e00\u79cd\u7a7a\u6c14\u5904\u7406\u7cfb\u7edf\uff0c\u8be5\u7cfb\u7edf\u53ef\u4ee5\u81f3\u5c11\u90e8\u5206\u5730\u53bb\u9664\u7531\u4eba\u7c7b\u6240\u5360\u636e\u7684\u5ba4\u5185\u7a7a\u95f4\u4e2d\u7684\u5ba4\u5185\u7a7a\u6c14\u6240\u542b\u6709\u7684\u81f3\u5c11\u4e00\u79cd\u6c14\u6001\u6c61\u67d3\u7269\u3002\u7cfb\u7edf\u53ef\u4ee5\u5305\u62ec\u7a7a\u6c14\u5904\u7406\u7ec4\u4ef6\uff0c\u8be5\u7a7a\u6c14\u5904\u7406\u7ec4\u4ef6\u5177\u6709\u5ba4\u5185\u7a7a\u6c14\u7684\u5438\u5165\u53e3\uff0c\u8be5\u5ba4\u5185\u7a7a\u6c14\u7684\u5438\u5165\u53e3\u88ab\u914d\u7f6e\u7528\u4e8e\u63a5\u6536\u76f4\u63a5\u6765\u81ea\u4e8e\u623f\u95f4\u5185\u7684\u5ba4\u5185\u7a7a\u6c14\u6d41\uff0c\u53ef\u518d\u751f\u7684\u5438\u9644\u6750\u6599\uff0c\u6240\u8ff0\u6750\u6599\u53ef\u4ee5\u88ab\u914d\u7f6e\u7528\u4e8e\u5438\u9644\u5ba4\u5185\u7a7a\u6c14\u6d41\u4e2d\u6240\u542b\u7684\u81f3\u5c11\u4e00\u79cd\u6c14\u6001\u6c61\u67d3\u7269\uff0c\u81f3\u5c11\u4e00\u4e2a\u7a7a\u6c14\u6d41\u90e8\u4ef6\uff0c\u5176\u9002\u7528\u4e8e\u5f15\u5bfc\u5ba4\u5185\u7a7a\u6c14\u6d41\u53ef\u4ee5\u6d41\u7ecf\u7a7a\u6c14\u5904\u7406\u7ec4\u4ef6\uff0c\u5ba4\u5185\u7a7a\u6c14\u7684\u8f93\u51fa\u53e3\uff0c\u5176\u9002\u7528\u4e8e\u4ece\u7a7a\u6c14\u5904\u7406\u7ec4\u4ef6\u4e2d\u5c06\u5ba4\u5185\u7a7a\u6c14\u6392\u653e\u5230\u623f\u95f4\u5185\uff0c\u6e05\u6d01\u7a7a\u6c14\u7684\u5438\u5165\u53e3\u53ef\u4ee5\u88ab\u914d\u7f6e\u7528\u6237\u63a5\u53d7\u548c\u5f15\u5bfc\u6e05\u6d01\u7a7a\u6c14\u5728\u5438\u9644\u6750\u6599\u7684\u4e0a\u65b9\u6d41\u52a8\u548c/\u6216\u4ece\u5438\u9644\u6750\u6599\u4e2d\u6d41\u8fc7\uff0c\u4ece\u800c\u53ef\u4ee5\u53bb\u9664\u81f3\u5c11\u4e00\u79cd\u6c14\u6001\u6c61\u67d3\u7269\u4e2d\u7684\u81f3\u5c11\u4e00\u90e8\u5206\uff0c\u800c\u4e14\u6e05\u6d01\u7a7a\u6c14\u7684\u8f93\u51fa\u53e3\u53ef\u4ee5\u7528\u4e8e\u4ece\u7a7a\u6c14\u5904\u7406\u7ec4\u4ef6\u4e2d\u6392\u653e\u51fa\u6e05\u6d01\u7a7a\u6c14\u3002",
+      "publicationNumber": "CN107744714",
+      "publicationDate": "2018-03-02",
+      "assignee": [
+        "ENVERID SYSTEMS INC."
+      ],
+      "inventors": [
+        "MEIRAV UDI",
+        "BIRAN ISRAEL",
+        "BECHAR ABRAHAM"
+      ],
+      "applicationDate": "2013-11-15",
+      "claimsCount": 52,
+      "independentClaimsCount": 17,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 11.012043
+    },
+    {
+      "id": "CN-108096991-A",
+      "title": [
+        "\u5bf9\u5ba4\u5185\u7a7a\u6c14\u7684\u6d17\u6da4\u7684\u5438\u9644\u5242\u7684\u9ad8\u6548\u5229\u7528"
+      ],
+      "abstract": "\u5728\u6b64\u6240\u63ed\u793a\u7684\u5185\u5bb9\u4e2d\u7684\u67d0\u4e9b\u5b9e\u65bd\u65b9\u6848\u76f8\u5bf9\u5e94\u7684\u662f\uff0c\u4e3e\u4f8b\u6765\u8bf4\uff0c\u4e00\u79cd\u9002\u7528\u4e8e\u63a7\u5236\u6d17\u6da4\u5668\u7684\u65b9\u6cd5\uff0c\u8be5\u6d17\u6da4\u5668\u4e2d\u5305\u542b\u6709\u5438\u9644\u5242\u3002\u6d17\u6da4\u5668\u53ef\u80fd\u88ab\u914d\u7f6e\u4e3a\u5728\u6d17\u6da4\u548c\u518d\u751f\u4e4b\u95f4\u4e2d\u8fdb\u884c\u5faa\u73af\uff0c\u6d17\u6da4\u662f\u6307\u5bf9\u81f3\u5c11\u4e00\u79cd\u6c61\u67d3\u7269/\u6765\u81ea\u4e8e\u542b\u6709\u6c61\u67d3\u7269\u7684\u6c14\u4f53\u6d41\u4e2d\u7684\u6c14\u4f53/\u88ab\u5438\u9644\u5242\u6240\u5438\u6536\u7684\u6c14\u4f53\u8fdb\u884c\u6d17\u6da4\uff0c\u518d\u751f\u662f\u6307\u5bf9\u5438\u9644\u5242\u7684\u5927\u90e8\u5206\u8fdb\u884c\u518d\u751f\uff0c\u5e76\u501f\u6b64\u901a\u8fc7\u518d\u751f\u7684\u6c14\u4f53\u6d41\u5bf9\u81f3\u5c11\u4e00\u79cd\u6c61\u67d3\u7269\u548c/\u6216\u6765\u81ea\u4e8e\u5438\u9644\u5242\u7684\u7b2c\u4e00\u6c14\u4f53\u4e2d\u7684\u5927\u90e8\u5206\u8fdb\u884c\u6e05\u6d17\u3002\u65b9\u6cd5\u53ef\u80fd\u4f1a\u5305\u62ec\u4f7f\u6c14\u4f53\u6d41\u6d41\u52a8\u901a\u8fc7\u6d17\u6da4\u5668\uff0c\u800c\u6d17\u6da4\u5668\u4e2d\u53ef\u4ee5\u542b\u6709\u5438\u9644\u5242\uff0c\u5e76\u4e14\u53ef\u4ee5\u80fd\u591f\u5bf9\u81f3\u5c11\u4e00\u79cd\u6c61\u67d3\u7269/\u5728\u5438\u9644\u9636\u6bb5\u7ecf\u8fc7\u7b2c\u4e00\u6bb5\u65f6\u95f4\u5468\u671f\u7684\u88ab\u5438\u9644\u5230\u5438\u9644\u5242\u4e2d\u7684\u6c14\u4f53\u6d41\u6c14\u4f53\u4e2d\u7684\u81f3\u5c11\u5927\u90e8\u5206\u8fdb\u884c\u5438\u9644\u3002\u8fd9\u4e00\u65b9\u6cd5\u4e5f\u53ef\u4ee5\u5305\u62ec\u5bf9\u5728\u518d\u751f\u9636\u6bb5\u7ecf\u8fc7\u7b2c\u4e8c\u6bb5\u65f6\u95f4\u5468\u671f\u7684\u901a\u8fc7\u518d\u751f\u6c14\u4f53\u6d41\u5bf9\u81f3\u5c11\u4e00\u79cd\u6c61\u67d3\u7269/\u6765\u81ea\u4e8e\u5438\u9644\u5242\u7684\u6c14\u4f53\u4e2d\u7684\u81f3\u5c11\u5927\u90e8\u5206\u8fdb\u884c\u6e05\u6d17\uff0c\u5e76\u4e14\u53ef\u4ee5\u5728\u8fd9\u5176\u4e2d\u8fdb\u884c\u5faa\u73af\u3002",
+      "publicationNumber": "CN108096991",
+      "publicationDate": "2018-06-01",
+      "assignee": [
+        "ENVERID SYSTEMS INC."
+      ],
+      "inventors": [
+        "MEIRAV UDI",
+        "BIRAN ISRAEL"
+      ],
+      "applicationDate": "2013-05-22",
+      "claimsCount": 34,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 11.003198
+    },
+    {
+      "id": "CN-107708838-A",
+      "title": [
+        "\u51cf\u5c11\u5ba4\u5185\u7a7a\u6c14\u591a\u4f59\u6c14\u4f53\u7684\u65b9\u6cd5\u548c\u7cfb\u7edf"
+      ],
+      "abstract": "\u672c\u516c\u5f00\u7684\u4e00\u4e9b\u5b9e\u65bd\u4f8b\u6d89\u53ca\u7a7a\u6c14\u5904\u7406\u7cfb\u7edf\u548c\u76f8\u5e94\u7684\u65b9\u6cd5\uff0c\u6765\u81f3\u5c11\u90e8\u5206\u5730\u53bb\u9664\u6784\u9020\u6210\u4eba\u7c7b\u5c45\u4f4f\u7684\u623f\u95f4\u5185\u5ba4\u5185\u7a7a\u6c14\u4e2d\u6240\u542b\u7684\u81f3\u5c11\u4e00\u79cd\u6c14\u6001\u6c61\u67d3\u7269\u3002\u5728\u4e00\u4e9b\u5b9e\u65bd\u4f8b\u4e2d\uff0c\u6240\u8ff0\u7cfb\u7edf\u53ef\u4ee5\u5305\u62ec\u5177\u6709\u5ba4\u5185\u7a7a\u6c14\u5165\u53e3\u7684\u7a7a\u6c14\u5904\u7406\u7ec4\u4ef6\uff0c\u6240\u8ff0\u5ba4\u5185\u7a7a\u6c14\u5165\u53e3\u914d\u7f6e\u6210\u4ece\u623f\u95f4\u5185\u76f4\u63a5\u63a5\u6536\u5ba4\u5185\u6c14\u6d41\uff0c\u53ef\u518d\u751f\u5438\u9644\u6750\u6599\u914d\u7f6e\u6210\u5438\u9644\u5305\u542b\u5728\u5ba4\u5185\u6c14\u6d41\u4e2d\u6240\u542b\u7684\u81f3\u5c11\u4e00\u79cd\u6c14\u6001\u6c61\u67d3\u7269\uff0c\u81f3\u5c11\u4e00\u4e2a\u6c14\u6d41\u5143\u4ef6\u7528\u4e8e\u5f15\u5bfc\u5ba4\u5185\u6c14\u6d41\u6d41\u7ecf\u6240\u8ff0\u7a7a\u6c14\u5904\u7406\u7ec4\u4ef6\uff0c\u5ba4\u5185\u7a7a\u6c14\u51fa\u53e3\u7528\u4e8e\u6392\u51fa\u5ba4\u5185\u7a7a\u6c14\uff0c\u4ece\u7a7a\u6c14\u5904\u7406\u7ec4\u4ef6\u8fd4\u56de\u623f\u95f4\u5185\uff0c\u51c0\u5316\u7a7a\u6c14\u5165\u53e3\u914d\u7f6e\u6210\u4ece\u623f\u95f4\u5185\u63a5\u6536\u548c\u5f15\u5bfc\u51c0\u5316\u7a7a\u6c14\u7ecf\u8fc7\u548c/\u6216\u901a\u8fc7\u5438\u9644\u6750\u6599\u76f4\u63a5\uff0c\u4ee5\u9664\u53bb\u81f3\u5c11\u4e00\u79cd\u6c14\u6001\u6c61\u67d3\u7269\u4e2d\u7684\u81f3\u5c11\u4e00\u90e8\u5206\uff0c\u4ee5\u53ca\u51c0\u5316\u6c14\u4f53\u51fa\u53e3\u7528\u4e8e\u5c06\u51c0\u5316\u6c14\u4f53\u6392\u51fa\u7a7a\u6c14\u5904\u7406\u7ec4\u4ef6\u3002",
+      "publicationNumber": "CN107708838",
+      "publicationDate": "2018-02-16",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "U Mei Laffer",
+        "I. Bilan"
+      ],
+      "applicationDate": "2016-05-11",
+      "claimsCount": 34,
+      "independentClaimsCount": 10,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 10.949839
+    },
+    {
+      "id": "CN-107339779-A",
+      "title": [
+        "\u7528\u4e8e\u7ba1\u7406\u7a7a\u8c03\u7cfb\u7edf\u4e2d\u7684\u7a7a\u6c14\u8d28\u91cf\u548c\u80fd\u91cf\u4f7f\u7528\u7684\u65b9\u6cd5\u548c\u7cfb\u7edf"
+      ],
+      "abstract": "\u672c\u516c\u5f00\u7684\u5b9e\u65bd\u65b9\u6848\u5305\u62ec\u64cd\u4f5c\u7528\u4e8e\u5c01\u95ed\u73af\u5883\u7684HVAC\u7cfb\u7edf\u7684\u65b9\u6cd5\u548c\u7cfb\u7edf\u3002\u5728\u8fd9\u7c7b\u5b9e\u65bd\u65b9\u6848\u4e2d\uff0c\u6240\u8ff0HVAC\u7cfb\u7edf\u53ef\u88ab\u914d\u7f6e\u6765\u5bf9\u7a7a\u6c14\u8fdb\u884c\u52a0\u70ed\u548c\u51b7\u5374\u4e2d\u7684\u81f3\u5c11\u4e00\u4e2a\u5e76\u4e14\u6240\u8ff0HVAC\u7cfb\u7edf\u5305\u62ec\u88ab\u914d\u7f6e\u6765\u4f7f\u7a7a\u6c14\u81f3\u5c11\u5728\u6240\u8ff0\u5c01\u95ed\u73af\u5883\u5185\u5faa\u73af\u7684\u7a7a\u6c14\u5faa\u73af\u7cfb\u7edf\u3002\u6240\u8ff0\u5c01\u95ed\u73af\u5883\u5185\u7684\u7a7a\u6c14\u53ef\u81f3\u5c11\u5305\u62ec\u5ba4\u5185\u7a7a\u6c14\u3002\u6240\u8ff0\u7cfb\u7edf\u53ef\u8fdb\u4e00\u6b65\u5305\u62ec\u7528\u4e8e\u5c06\u81f3\u5c11\u4e00\u90e8\u5206\u5ba4\u5916\u7a7a\u6c14\u5f15\u5165\u6240\u8ff0\u5c01\u95ed\u73af\u5883\u4e2d\u7684\u5ba4\u5916\u7a7a\u6c14\u5165\u53e3\uff0c\u5176\u4e2d\u6240\u8ff0\u5ba4\u5916\u7a7a\u6c14\u5305\u62ec\u6765\u81ea\u6240\u8ff0\u5c01\u95ed\u73af\u5883\u5916\u90e8\u7684\u7a7a\u6c14\u3002\u6240\u8ff0\u7cfb\u7edf\u53ef\u8fdb\u4e00\u6b65\u5305\u62ec\u6d17\u6da4\u7cfb\u7edf\uff0c\u6240\u8ff0\u6d17\u6da4\u7cfb\u7edf\u5177\u6709\u5438\u9644\u6750\u6599\uff0c\u7528\u6765\u51cf\u5c11\u5ba4\u5185\u7a7a\u6c14\u4e2d\u7684\u81f3\u5c11\u4e00\u79cd\u6c14\u4f53\u6c61\u67d3\u7269\u7684\u5b58\u5728\u3002\u53ef\u5305\u62ec\u63a7\u5236\u5668\u7cfb\u7edf\uff0c\u6240\u8ff0\u63a7\u5236\u5668\u7cfb\u7edf\u7528\u4e8e\u63a7\u5236\u6240\u8ff0\u5faa\u73af\u7cfb\u7edf\u548c\u6240\u8ff0\u6d17\u6da4\u7cfb\u7edf\u4e2d\u7684\u81f3\u5c11\u4e00\u4e2a\u7684\u64cd\u4f5c\u3002",
+      "publicationNumber": "CN107339779",
+      "publicationDate": "2017-11-10",
+      "assignee": [
+        "ENVERID SYSTEMS, INC"
+      ],
+      "inventors": [
+        "Wu Dimei pressgang",
+        "Yi Si rai Er Bilan",
+        "A Saermeiluhamu"
+      ],
+      "applicationDate": "2013-01-10",
+      "claimsCount": 10,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Thermal processes and apparatus"
+      ],
+      "score": 10.940982
+    },
+    {
+      "id": "CN-106132510-A",
+      "title": [
+        "\u7a7a\u6c14\u6d17\u6da4\u5668\u4e2d\u7684\u53ef\u518d\u751f\u5438\u9644\u5242\u6ee4\u7b52\u7ec4\u4ef6"
+      ],
+      "abstract": "\u4e00\u79cd\u53ef\u518d\u751f\u7a7a\u6c14\u6d17\u6da4\u7cfb\u7edf\u5305\u62ec\u53ef\u66f4\u6362\u6ee4\u7b52\u6cbf\u5e73\u884c\u5b9a\u5411\u5e03\u7f6e\u7684\u4e14\u8bbe\u8ba1\u6210\u6613\u4e8e\u63d2\u5165\u548c\u79fb\u9664\u6ee4\u7b52\u7684\u6c14\u6d41\u7ec4\u4ef6\u3002\u6ee4\u7b52\u8bbe\u8ba1\u589e\u5927\u4e86\u63a5\u89e6\u9762\u79ef\u3001\u51cf\u5c0f\u4e86\u538b\u964d\u5e76\u4e14\u5bb9\u6613\u5730\u5141\u8bb8\u4f7f\u7528\u76f8\u540c\u7684\u6ee4\u7b52\u8bbe\u8ba1\u51fa\u5177\u6709\u4e0d\u540c\u6c14\u6d41\u901a\u91cf\u7684\u76f8\u4f3c\u7ec4\u4ef6\uff0c\u540c\u65f6\u8fd8\u4fbf\u4e8e\u5438\u9644\u5242\u5728\u73b0\u573a\u5bb9\u6613\u5730\u8fdb\u884c\u66f4\u6362\u3002\u6ee4\u7b52\u53ef\u5206\u9694\u4e3a\u8f83\u5c0f\u7684\u9694\u95f4\uff0c\u4ece\u800c\u6539\u8fdb\u6ee4\u7b52\u7684\u673a\u68b0\u6027\u80fd\u548c\u5438\u9644\u5242\u5206\u5e03\u7684\u5747\u5300\u6027\u3002",
+      "publicationNumber": "CN106132510",
+      "publicationDate": "2016-11-16",
+      "assignee": [
+        "ENVERID SYSTEMS, INC"
+      ],
+      "inventors": [
+        "U Mei Laffer",
+        "I bielan",
+        "A. Mehruham",
+        "J. JACOBI"
+      ],
+      "applicationDate": "2015-02-12",
+      "claimsCount": 21,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 10.940982
+    },
+    {
+      "id": "US-9802148-B2",
+      "title": [
+        "Regenerable sorbent CO2 scrubber for submarine vessels"
+      ],
+      "abstract": "Systems, devices and methods for submarine CO2 scrubbing are disclosed. The system may comprise an assembly including a sorbent, a scrubbing inlet configured to receive a first airflow during an adsorption mode. The first airflow may comprise air received from a cabin of a submarine. The assembly may be configured to flow the first airflow over and/or through the sorbent during the adsorption mode such that the sorbent removes a portion of CO2 entrained in the first airflow. The system may also include a scrubbing outlet configured to expel the scrubbed first airflow from the assembly into the cabin. The system may include an outside air inlet configured to receive a second airflow comprising outside air during a regeneration mode. The system may include a regeneration air outlet in configured to expel the second airflow after the second airflow has flowed over and/or through the sorbent during the regeneration mode.",
+      "publicationNumber": "US9802148",
+      "publicationDate": "2017-10-31",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Udi Meirav",
+        "Israel Biran",
+        "Tzvi FISHER"
+      ],
+      "applicationDate": "2014-04-23",
+      "claimsCount": 21,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Environmental technology",
+        "Transport"
+      ],
+      "score": 10.86345
+    },
+    {
+      "id": "US-20220161173-A1",
+      "title": [
+        "FLOW AND PRESSURE CONTROL IN CYCLONIC FILTER ARRAYS"
+      ],
+      "abstract": "An air filtration system comprising a plurality of sections configured to receive an incoming airstream is disclosed. In some embodiments, each section of the plurality of sections includes a first airstream receiving side (ASRS) and a second air stream exhaust side (ASES), and a plurality of cells each comprising a cyclonic cavity having a tangential inlet arranged to receive a portion of the airstream via the ASRS, and an axial outlet arranged to exhaust the portion of the airstream to the ASES. Each section is further configured with a cover that can be opened and closed, such that the closing of one or more respective covers of respective sections forces the airstream to flow through remaining sections having open covers as well as their respective cells, at a velocity greater than when such one or more respective covers are open.",
+      "publicationNumber": "US20220161173",
+      "publicationDate": "2022-05-26",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "SHARON PERL-OLSHVANG",
+        "Udi Meirav"
+      ],
+      "applicationDate": "2022-02-11",
+      "claimsCount": 32,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Chemical engineering",
+        "Environmental technology"
+      ],
+      "score": 10.86345
+    },
+    {
+      "id": "US-20200360847-A1",
+      "title": [
+        "FLOW AND PRESSURE CONTROL IN CYCLONIC FILTER ARRAYS"
+      ],
+      "abstract": "An air filtration system comprising a plurality of sections configured to receive an incoming airstream is disclosed. In some embodiments, each section of the plurality of sections includes a first airstream receiving side (ASRS) and a second air stream exhaust side (ASES), and a plurality of cells each comprising a cyclonic cavity having a tangential inlet arranged to receive a portion of the airstream via the ASRS, and an axial outlet arranged to exhaust the portion of the airstream to the ASES. Each section is further configured with a cover that can be opened and closed, such that the closing of one or more respective covers of respective sections forces the airstream to flow through remaining sections having open covers as well as their respective cells, at a velocity greater than when such one or more respective covers are open.",
+      "publicationNumber": "US20200360847",
+      "publicationDate": "2020-11-19",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "SHARON PERL-OLSHVANG",
+        "Udi Meirav"
+      ],
+      "applicationDate": "2018-07-20",
+      "claimsCount": 20,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Chemical engineering",
+        "Environmental technology"
+      ],
+      "score": 10.86345
+    },
+    {
+      "id": "US-20190247782-A1",
+      "title": [
+        "APPARATUS, METHODS AND SYSTEMS FOR MULTI-STAGE SCRUBBING OF GAS MIXTURES"
+      ],
+      "abstract": "In some embodiments, a multistage scrubber that includes a plurality of stages, each stage comprising one or more scrubbing modules having adsorbents configured to adsorb and remove molecules from a flowing mixture of gas traversing the multi-stage scrubber is disclosed. The sorbents may be used in repeatable adsorption-regeneration swing cycles including concentration swing adsorption (CSA) cycle, temperature swing adsorption (TSA) cycle and pressure swing adsorption (PSA) cycle.",
+      "publicationNumber": "US20190247782",
+      "publicationDate": "2019-08-15",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Udi Meirav",
+        "SHARON PERL-OLSHVANG"
+      ],
+      "applicationDate": "2017-06-19",
+      "claimsCount": 21,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Electrical machinery, apparatus, energy",
+        "Environmental technology"
+      ],
+      "score": 10.86345
+    },
+    {
+      "id": "US-20160082383-A1",
+      "title": [
+        "REGENERABLE SORBENT CO2 SCRUBBER FOR SUBMARINE VESSELS"
+      ],
+      "abstract": "Systems, devices and methods for submarine CO2 scrubbing are disclosed. The system may comprise an assembly including a sorbent, a scrubbing inlet configured to receive a first airflow during an adsorption mode. The first airflow may comprise air received from a cabin of a submarine. The assembly may be configured to flow the first airflow over and/or through the sorbent during the adsorption mode such that the sorbent removes a portion of CO2 entrained in the first airflow. The system may also include a scrubbing outlet configured to expel the scrubbed first airflow from the assembly into the cabin. The system may include an outside air inlet configured to receive a second airflow comprising outside air during a regeneration mode. The system may include a regeneration air outlet in configured to expel the second airflow after the second airflow has flowed over and/or through the sorbent during the regeneration mode.",
+      "publicationNumber": "US20160082383",
+      "publicationDate": "2016-03-24",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Udi Meirav",
+        "Israel Biran",
+        "Tzvi FISHER"
+      ],
+      "applicationDate": "2014-04-23",
+      "claimsCount": 1,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Environmental technology",
+        "Transport"
+      ],
+      "score": 10.86345
+    },
+    {
+      "id": "US-11247157-B2",
+      "title": [
+        "Flow and pressure control in cyclonic filter arrays"
+      ],
+      "abstract": "An air filtration system comprising a plurality of sections configured to receive an incoming airstream is disclosed. In some embodiments, each section of the plurality of sections includes a first airstream receiving side (ASRS) and a second air stream exhaust side (ASES), and a plurality of cells each comprising a cyclonic cavity having a tangential inlet arranged to receive a portion of the airstream via the ASRS, and an axial outlet arranged to exhaust the portion of the airstream to the ASES. Each section is further configured with a cover that can be opened and closed, such that the closing of one or more respective covers of respective sections forces the airstream to flow through remaining sections having open covers as well as their respective cells, at a velocity greater than when such one or more respective covers are open.",
+      "publicationNumber": "US11247157",
+      "publicationDate": "2022-02-15",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "SHARON PERL-OLSHVANG",
+        "Udi Meirav"
+      ],
+      "applicationDate": "2018-07-20",
+      "claimsCount": 15,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Chemical engineering",
+        "Environmental technology"
+      ],
+      "score": 10.86345
+    },
+    {
+      "id": "CN-108579706-A",
+      "title": [
+        "\u7528\u4e8e\u4ece\u5ba4\u5185\u7a7a\u6c14\u964d\u4f4e\u4e8c\u6c27\u5316\u78b3\u7684\u5438\u7740\u5242"
+      ],
+      "abstract": "\u672c\u7533\u8bf7\u6d89\u53ca\u7528\u4e8e\u4ece\u5ba4\u5185\u7a7a\u6c14\u964d\u4f4e\u4e8c\u6c27\u5316\u78b3\u7684\u5438\u7740\u5242\u3002\u7528\u4e8e\u4ece\u6765\u81ea\u5c01\u95ed\u7a7a\u95f4\u7684\u5ba4\u5185\u7a7a\u6c14\u964d\u4f4eCO2\u7684\u5438\u7740\u5242\u3002\u5728\u4e00\u4e9b\u5b9e\u65bd\u65b9\u6848\u4e2d\uff0c\u5438\u7740\u5242\u5305\u542b\u56fa\u4f53\u8f7d\u4f53\u548c\u88ab\u6240\u8ff0\u8f7d\u4f53\u62c5\u8f7d\u7684\u80fa\u57fa\u5316\u5408\u7269\u3002\u5438\u7740\u5242\u6355\u96c6\u81f3\u5c11\u4e00\u90e8\u5206\u5728\u5ba4\u5185\u7a7a\u6c14\u4e2d\u7684CO2\u3002\u901a\u8fc7\u4f7f\u5ba4\u5916\u7a7a\u6c14\u6d41\u52a8\u901a\u8fc7\u5438\u7740\u5242\u4ee5\u91ca\u653e\u81f3\u5c11\u4e00\u90e8\u5206\u88ab\u6355\u96c6\u7684CO2\uff0c\u53ef\u4f7f\u5438\u7740\u5242\u518d\u751f\u3002\u4f7f\u5438\u7740\u5242\u7ed3\u6784\u5316\uff0c\u4ee5\u5141\u8bb8\u5ba4\u5185\u7a7a\u6c14\u5728\u5176\u4e2d\u6d41\u52a8\uff0c\u5177\u6709\u76f8\u5bf9\u4f4e\u7684\u6d41\u963b\u548c\u76f8\u5bf9\u5feb\u901f\u7684\u53cd\u5e94\u52a8\u529b\u5b66\u3002\u518d\u751f\u53ef\u5728\u76f8\u5bf9\u4f4e\u7684\u5ba4\u5916\u7a7a\u6c14\u6e29\u5ea6\u4e0b\u8fdb\u884c\uff0c\u4ece\u800c\u4f7f\u5f97\u518d\u751f\u5438\u7740\u5242\u6240\u9700\u7684\u70ed\u80fd\u6700\u5c0f\u5316\u3002",
+      "publicationNumber": "CN108579706",
+      "publicationDate": "2018-09-28",
+      "assignee": [
+        "ENVERID SYSTEMS, INC"
+      ],
+      "inventors": [
+        "MEIRAV UDI",
+        "I .bilan"
+      ],
+      "applicationDate": "2012-05-17",
+      "claimsCount": 37,
+      "independentClaimsCount": 6,
+      "technologyFields": [
+        "Chemical engineering",
+        "Environmental technology"
+      ],
+      "score": 10.773224
+    },
+    {
+      "id": "US-9976760-B2",
+      "title": [
+        "Method and system for conditioning air in an enclosed environment with distributed air circulation systems"
+      ],
+      "abstract": "A system for conditioning air in a building including a fan-coil unit arranged adjacent to or within an indoor space within the building and additionally configured to at least one of heat and cool the air of the indoor space, and a scrubber arranged adjacent to or within the indoor space, the scrubber configured during a scrub cycle for scrubbing of indoor air from the indoor space. The scrubber includes one or more adsorbent materials arranged therein to adsorb at least one predetermined gas from the indoor air during the scrub cycle, a source of outdoor air, and an exhaust, wherein the scrubber is configured during a purge cycle to direct a purging air flow received from the source of outdoor air over and/or through the adsorbent materials to purge at least a portion of the at least one predetermined gas adsorbed by the adsorbent materials during the scrub cycle from the adsorbent materials and thereafter exhausting the flow via the exhaust.",
+      "publicationNumber": "US9976760",
+      "publicationDate": "2018-05-22",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Udi Meirav",
+        "Israel Biran",
+        "Abraham Bechar",
+        "Asael Meruham"
+      ],
+      "applicationDate": "2016-03-08",
+      "claimsCount": 19,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Environmental technology",
+        "Medical technology",
+        "Thermal processes and apparatus"
+      ],
+      "score": 10.660921
+    },
+    {
+      "id": "US-9316410-B2",
+      "title": [
+        "Method and system for conditioning air in an enclosed environment with distributed air circulation systems"
+      ],
+      "abstract": "A system for conditioning air in a building including a fan-coil unit arranged adjacent to or within an indoor space within the building and additionally configured to at least one of heat and cool the air of the indoor space, and a scrubber arranged adjacent to or within the indoor space, the scrubber configured during a scrub cycle for scrubbing of indoor air from the indoor space. The scrubber includes one or more adsorbent materials arranged therein to adsorb at least one predetermined gas from the indoor air during the scrub cycle, a source of outdoor air, and an exhaust, wherein the scrubber is configured during a purge cycle to direct a purging air flow received from the source of outdoor air over and/or through the adsorbent materials to purge at least a portion of the at least one predetermined gas adsorbed by the adsorbent materials during the scrub cycle from the adsorbent materials and thereafter exhausting the flow via the exhaust.",
+      "publicationNumber": "US9316410",
+      "publicationDate": "2016-04-19",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Udi Meirav",
+        "Israel Biran",
+        "Abraham Bechar",
+        "Asael Meruham"
+      ],
+      "applicationDate": "2012-11-16",
+      "claimsCount": 23,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Environmental technology",
+        "Medical technology",
+        "Thermal processes and apparatus"
+      ],
+      "score": 10.660921
+    },
+    {
+      "id": "US-20180266710-A1",
+      "title": [
+        "METHOD AND SYSTEM FOR CONDITIONING AIR IN AN ENCLOSED ENVIRONMENT WITH DISTRIBUTED AIR CIRCULATION SYSTEMS"
+      ],
+      "abstract": "A system for conditioning air in a building including a fan-coil unit arranged adjacent to or within an indoor space within the building and additionally configured to at least one of heat and cool the air of the indoor space, and a scrubber arranged adjacent to or within the indoor space, the scrubber configured during a scrub cycle for scrubbing of indoor air from the indoor space. The scrubber includes one or more adsorbent materials arranged therein to adsorb at least one predetermined gas from the indoor air during the scrub cycle, and an exhaust, wherein the scrubber is configured during a purge cycle to direct a purging air over and/or through the adsorbent materials to purge at least a portion of the at least one predetermined gas adsorbed by the adsorbent materials during the scrub cycle from the adsorbent materials and thereafter exhausting the flow via the exhaust.",
+      "publicationNumber": "US20180266710",
+      "publicationDate": "2018-09-20",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Udi Meirav",
+        "Israel Biran",
+        "Abraham Bechar",
+        "Asael Meruham"
+      ],
+      "applicationDate": "2018-05-17",
+      "claimsCount": 17,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Environmental technology",
+        "Medical technology",
+        "Thermal processes and apparatus"
+      ],
+      "score": 10.660921
+    },
+    {
+      "id": "US-11071939-B2",
+      "title": [
+        "Cartridge for airflow scrubbing systems and methods of manufacture thereof"
+      ],
+      "abstract": "A sorbent cartridge retention frame configured for use in an air scrubbing system comprising a first inlet side, a second outlet side, a plurality of compartments each configured to hold a solid-sorbent material, a plurality of respective walls arranged to form and separate the plurality of compartments, a first permeable membrane arranged to cover the first inlet side, a second permeable membrane arranged to cover the second outlet side. The first and/or second permeable membrane are configured for affixation to respective ends of the walls through a process of melting and solidification of the wall material such that wall material bonds with the membrane material.",
+      "publicationNumber": "US11071939",
+      "publicationDate": "2021-07-27",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Udi Meirav",
+        "SHARON PERL-OLSHVANG"
+      ],
+      "applicationDate": "2017-08-09",
+      "claimsCount": 13,
+      "independentClaimsCount": 5,
+      "technologyFields": [
+        "Chemical engineering",
+        "Environmental technology",
+        "Thermal processes and apparatus"
+      ],
+      "score": 10.660921
+    },
+    {
+      "id": "US-10281168-B2",
+      "title": [
+        "Method and system for conditioning air in an enclosed environment with distributed air circulation systems"
+      ],
+      "abstract": "A system for conditioning air in a building including a fan-coil unit arranged adjacent to or within an indoor space within the building and additionally configured to at least one of heat and cool the air of the indoor space, and a scrubber arranged adjacent to or within the indoor space, the scrubber configured during a scrub cycle for scrubbing of indoor air from the indoor space. The scrubber includes one or more adsorbent materials arranged therein to adsorb at least one predetermined gas from the indoor air during the scrub cycle, and an exhaust, wherein the scrubber is configured during a purge cycle to direct a purging air over and/or through the adsorbent materials to purge at least a portion of the at least one predetermined gas adsorbed by the adsorbent materials during the scrub cycle from the adsorbent materials and thereafter exhausting the flow via the exhaust.",
+      "publicationNumber": "US10281168",
+      "publicationDate": "2019-05-07",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Udi Meirav",
+        "Israel Biran",
+        "Abraham Bechar",
+        "Asael Meruham"
+      ],
+      "applicationDate": "2018-05-17",
+      "claimsCount": 17,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Environmental technology",
+        "Medical technology",
+        "Thermal processes and apparatus"
+      ],
+      "score": 10.660921
+    },
+    {
+      "id": "EP-3496839-B1",
+      "title": [
+        "METHOD OF MANUFACTURING A SORBENT CARTRIDGE AND SEALING SYSTEM"
+      ],
+      "abstract": "A sorbent cartridge retention frame configured for use in an air scrubbing system comprising a first inlet side, a second outlet side, a plurality of compartments each configured to hold a solid-sorbent material, a plurality of respective walls arranged to form and separate the plurality of compartments, a first permeable membrane arranged to cover the first inlet side, a second permeable membrane arranged to cover the second outlet side. The first and/or second permeable membrane are configured for affixation to respective ends of the walls through a process of melting and solidification of the wall material such that wall material bonds with the membrane material.",
+      "publicationNumber": "EP3496839",
+      "publicationDate": "2021-04-14",
+      "assignee": [
+        "Enverid Systems Inc."
+      ],
+      "inventors": [
+        "UDI MEIRAV",
+        "Sharon PERL-OLSHVANG"
+      ],
+      "applicationDate": "2017-08-09",
+      "claimsCount": 10,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 10.660921
+    },
+    {
+      "id": "US-9919257-B2",
+      "title": [
+        "Systems and methods for efficient heating of sorbents in an indoor air scrubber"
+      ],
+      "abstract": "Embodiments of the present disclosure are directed to systems and methods for regenerating a sorbent material of a scrubber, configured for scrubbing a contaminant from indoor air from an enclosed space. Some embodiments include a sorbent material portion (SMP) including a sorbent material, which may be configured to be cycled between an adsorption phase for adsorbing a contaminant from indoor air, and a regeneration phase configured for releasing at least a portion of the contaminant adsorbed by the sorbent material during the adsorption phase thereof, via temperature swing adsorption, into a purging airflow.",
+      "publicationNumber": "US9919257",
+      "publicationDate": "2018-03-20",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Udi Meirav",
+        "Israel Biran"
+      ],
+      "applicationDate": "2014-09-17",
+      "claimsCount": 16,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 10.611444
+    },
+    {
+      "id": "US-9399187-B2",
+      "title": [
+        "Air handling system with integrated air treatment"
+      ],
+      "abstract": "Embodiments of the present disclosure include methods and systems of circulating air in an enclosed environment. In such embodiments, the system may comprise an air handling unit (AHU), the AHU including an indoor air inlet to receive an indoor airflow from the enclosed environment and an indoor air outlet to expel the indoor airflow, a conditioning element arranged between the inlet and the outlet configured to at least heat or cool the indoor airflow as it flows thereover, one or more fan units arranged between the inlet and the outlet configured to provide velocity to the indoor airflow, and an air treatment assembly (ATA) arranged within or proximate the AHU, the ATA including an air inlet configured to receive a portion of the indoor airflow received by the AHU indoor air inlet.",
+      "publicationNumber": "US9399187",
+      "publicationDate": "2016-07-26",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Udi Meirav",
+        "Israel Biran"
+      ],
+      "applicationDate": "2013-09-24",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Environmental technology",
+        "Thermal processes and apparatus"
+      ],
+      "score": 10.611444
+    },
+    {
+      "id": "US-20240060662-A1",
+      "title": [
+        "AIR HANDLING SYSTEM WITH INTEGRATED AIR TREATMENT"
+      ],
+      "abstract": "Embodiments of the present disclosure include methods and systems of circulating air in an enclosed environment. In such embodiments, the system may comprise an air handling unit (AHU), the AHU including an indoor air inlet to receive an indoor airflow from the enclosed environment and an indoor air outlet to expel the indoor airflow, a conditioning element arranged between the inlet and the outlet configured to at least heat or cool the indoor airflow as it flows thereover, one or more fan units arranged between the inlet and the outlet configured to provide velocity to the indoor airflow, and an air treatment assembly (ATA) arranged within or proximate the AHU, the ATA including an air inlet configured to receive a portion of the indoor airflow received by the AHU indoor air inlet.",
+      "publicationNumber": "US20240060662",
+      "publicationDate": "2024-02-22",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Udi Meirav",
+        "Israel Biran"
+      ],
+      "applicationDate": "2023-03-20",
+      "claimsCount": 30,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Environmental technology",
+        "Thermal processes and apparatus"
+      ],
+      "score": 10.611444
+    },
+    {
+      "id": "US-20210140655-A1",
+      "title": [
+        "AIR HANDLING SYSTEM WITH INTEGRATED AIR TREATMENT"
+      ],
+      "abstract": "Embodiments of the present disclosure include methods and systems of circulating air in an enclosed environment. In such embodiments, the system may comprise an air handling unit (AHU), the AHU including an indoor air inlet to receive an indoor airflow from the enclosed environment and an indoor air outlet to expel the indoor airflow, a conditioning element arranged between the inlet and the outlet configured to at least heat or cool the indoor airflow as it flows thereover, one or more fan units arranged between the inlet and the outlet configured to provide velocity to the indoor airflow, and an air treatment assembly (ATA) arranged within or proximate the AHD, the ATA including an air inlet configured to receive a portion of the indoor airflow received by the AHU indoor air inlet.",
+      "publicationNumber": "US20210140655",
+      "publicationDate": "2021-05-13",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Udi Meirav",
+        "Israel Biran"
+      ],
+      "applicationDate": "2020-06-17",
+      "claimsCount": 18,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Environmental technology",
+        "Thermal processes and apparatus"
+      ],
+      "score": 10.611444
+    },
+    {
+      "id": "US-20180264396-A1",
+      "title": [
+        "SYSTEMS AND METHODS FOR EFFICIENT HEATING OF SORBENTS IN AN INDOOR AIR SCRUBBER"
+      ],
+      "abstract": "Embodiments of the present disclosure are directed to systems and methods for regenerating a sorbent material of a scrubber, configured for scrubbing a contaminant from indoor air from an enclosed space. Some embodiments include a sorbent material portion (SMP) including a sorbent material, which may be configured to be cycled between an adsorption phase for adsorbing a contaminant from indoor air, and a regeneration phase configured for releasing at least a portion of the contaminant adsorbed by the sorbent material during the adsorption phase thereof, via temperature swing adsorption, into a purging airflow.",
+      "publicationNumber": "US20180264396",
+      "publicationDate": "2018-09-20",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Udi Meirav",
+        "Israel Biran"
+      ],
+      "applicationDate": "2018-02-08",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 10.611444
+    },
+    {
+      "id": "US-20160363333-A1",
+      "title": [
+        "AIR HANDLING SYSTEM WITH INTEGRATED AIR TREATMENT"
+      ],
+      "abstract": "Embodiments of the present disclosure include methods and systems of circulating air in an enclosed environment. In such embodiments, the system may comprise an air handling unit (AHU), the AHU including an indoor air inlet to receive an indoor airflow from the enclosed environment and an indoor air outlet to expel the indoor airflow, a conditioning element arranged between the inlet and the outlet configured to at least heat or cool the indoor airflow as it flows thereover, one or more fan units arranged between the inlet and the outlet configured to provide velocity to the indoor airflow, and an air treatment assembly (ATA) arranged within or proximate the AHU, the ATA including an air inlet configured to receive a portion of the indoor airflow received by the AHU indoor air inlet.",
+      "publicationNumber": "US20160363333",
+      "publicationDate": "2016-12-15",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Udi Meirav",
+        "Israel Biran"
+      ],
+      "applicationDate": "2016-06-20",
+      "claimsCount": 20,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Environmental technology",
+        "Thermal processes and apparatus"
+      ],
+      "score": 10.611444
+    },
+    {
+      "id": "US-20160228809-A1",
+      "title": [
+        "SYSTEMS AND METHODS FOR EFFICIENT HEATING OF SORBENTS IN AN INDOOR AIR SCRUBBER"
+      ],
+      "abstract": "Embodiments of the present disclosure are directed to systems and methods for regenerating a sorbent material of a scrubber, configured for scrubbing a contaminant from indoor air from an enclosed space. Some embodiments include a sorbent material portion (SMP) including a sorbent material, which may be configured to be cycled between an adsorption phase for adsorbing a contaminant from indoor air, and a regeneration phase configured for releasing at least a portion of the contaminant adsorbed by the sorbent material during the adsorption phase thereof, via temperature swing adsorption, into a purging airflow.",
+      "publicationNumber": "US20160228809",
+      "publicationDate": "2016-08-11",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Udi Meirav",
+        "Israel Biran"
+      ],
+      "applicationDate": "2014-09-17",
+      "claimsCount": 23,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 10.611444
+    },
+    {
+      "id": "US-11608998-B2",
+      "title": [
+        "Air handling system with integrated air treatment"
+      ],
+      "abstract": "Embodiments of the present disclosure include methods and systems of circulating air in an enclosed environment. In such embodiments, the system may comprise an air handling unit (AHU), the AHU including an indoor air inlet to receive an indoor airflow from the enclosed environment and an indoor air outlet to expel the indoor airflow, a conditioning element arranged between the inlet and the outlet configured to at least heat or cool the indoor airflow as it flows thereover, one or more fan units arranged between the inlet and the outlet configured to provide velocity to the indoor airflow, and an air treatment assembly (ATA) arranged within or proximate the AHU, the ATA including an air inlet configured to receive a portion of the indoor airflow received by the AHU indoor air inlet.",
+      "publicationNumber": "US11608998",
+      "publicationDate": "2023-03-21",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Udi Meirav",
+        "Israel Biran"
+      ],
+      "applicationDate": "2020-06-17",
+      "claimsCount": 19,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Environmental technology",
+        "Thermal processes and apparatus"
+      ],
+      "score": 10.611444
+    },
+    {
+      "id": "US-10765990-B2",
+      "title": [
+        "Systems and methods for efficient heating of sorbents in an indoor air scrubber"
+      ],
+      "abstract": "Embodiments of the present disclosure are directed to systems and methods for regenerating a sorbent material of a scrubber, configured for scrubbing a contaminant from indoor air from an enclosed space. Some embodiments include a sorbent material portion (SMP) including a sorbent material, which may be configured to be cycled between an adsorption phase for adsorbing a contaminant from indoor air, and a regeneration phase configured for releasing at least a portion of the contaminant adsorbed by the sorbent material during the adsorption phase thereof, via temperature swing adsorption, into a purging airflow.",
+      "publicationNumber": "US10765990",
+      "publicationDate": "2020-09-08",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Udi Meirav",
+        "Israel Biran"
+      ],
+      "applicationDate": "2018-02-08",
+      "claimsCount": 10,
+      "independentClaimsCount": 3,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 10.611444
+    },
+    {
+      "id": "CN-114918050-A",
+      "title": [
+        "\u65cb\u98ce\u8fc7\u6ee4\u7684\u7cfb\u7edf\u3001\u88c5\u7f6e\u548c\u65b9\u6cd5"
+      ],
+      "abstract": "\u672c\u53d1\u660e\u7684\u5b9e\u65bd\u4f8b\u6d89\u53ca\u7528\u4e8e\u4ece\u6c14\u6d41\u4e2d\u53bb\u9664\u7ec6\u9897\u7c92\u7684\u65cb\u98ce\u5f0f\u7a7a\u6c14\u8fc7\u6ee4\u7cfb\u7edf\u3002\u5728\u4e00\u4e9b\u5b9e\u65bd\u4f8b\u4e2d\uff0c\u5c0f\u76f4\u5f84\u65cb\u98ce\u5206\u79bb\u5668/\u5143\u4ef6\u7528\u4e8e\u4ece\u6c14\u6d41\u4e2d\u53bb\u9664\u7ec6\u9897\u7c92\uff0c\u5176\u4e2d\u5927\u91cf\u6b64\u7c7b\u5143\u4ef6\u4ee5\u7d27\u51d1\u5e03\u7f6e\u7ec4\u88c5\u5728\u4e00\u8d77\u3002\u5728\u4e00\u4e9b\u5b9e\u65bd\u4f8b\u4e2d\uff0c\u63d0\u51fa\u4e86\u4e00\u79cd\u7a7a\u6c14\u8fc7\u6ee4\u7cfb\u7edf\uff0c\u5176\u53ef\u5305\u62ec\u542b\u6709\u591a\u4e2a\u8154\u5ba4\u7684\u58f3\u4f53\u3001\u7a7a\u6c14\u5165\u53e3\u4fa7\u548c\u7a7a\u6c14\u51fa\u53e3\u4fa7\u3002\u8fd9\u79cd\u7cfb\u7edf\u8fd8\u53ef\u4ee5\u5305\u62ec\u591a\u4e2a\u65cb\u98ce\u8fc7\u6ee4\u9635\u5217\uff0c\u6bcf\u4e2a\u65cb\u98ce\u8fc7\u6ee4\u9635\u5217\u5c01\u88c5\u5728\u5404\u81ea\u7684\u9694\u5ba4\u4e2d\uff0c\u5e76\u4e14\u6bcf\u4e2a\u65cb\u98ce\u8fc7\u6ee4\u9635\u5217\u5305\u62ec\u591a\u4e2a\u65cb\u98ce\u5143\u4ef6\u7684\u7ec4\u4ef6\uff0c\u8fd9\u4e9b\u65cb\u98ce\u5143\u4ef6\u914d\u7f6e\u6210\u901a\u8fc7\u79bb\u5fc3\u529b(\u5373\u65cb\u98ce\u5206\u79bb)\u8fc7\u6ee4\u6c14\u6d41\u4e2d\u7684\u7a7a\u6c14\u3002\u8be5\u7cfb\u7edf\u53ef\u4ee5\u5305\u62ec\u914d\u5408\u88c5\u7f6e\uff0c\u8be5\u914d\u5408\u88c5\u7f6e\u5728\u7cfb\u7edf\u4e2d\u914d\u7f6e\u4e3a\u5927\u591a\u6570\uff0c\u4e14\u5728\u4e00\u4e9b\u5b9e\u65bd\u4f8b\u4e2d\uff0c\u6240\u6709\u6c14\u6d41\u6d41\u8fc7\u9635\u5217\u7684\u914d\u5408\u88c5\u7f6e\u3002",
+      "publicationNumber": "CN114918050",
+      "publicationDate": "2022-08-19",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "S Perle orschwan",
+        "U. Meirav",
+        "S. BROWN"
+      ],
+      "applicationDate": "2019-08-30",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Chemical engineering",
+        "Environmental technology"
+      ],
+      "score": 10.586396
+    },
+    {
+      "id": "CN-114711662-A",
+      "title": [
+        "\u7528\u4e8e\u4ece\u7a7a\u6c14\u548c\u6d41\u4f53\u4e2d\u5206\u79bb\u9897\u7c92\u7684\u88c5\u7f6e\u3001\u65b9\u6cd5\u548c\u7cfb\u7edf"
+      ],
+      "abstract": "\u672c\u516c\u5f00\u7684\u4e00\u4e9b\u5b9e\u65bd\u4f8b\u6d89\u53ca\u4e00\u79cd\u7a7a\u6c14/\u6d41\u4f53\u8fc7\u6ee4\u8bbe\u5907\uff0c\u5305\u62ec\u521d\u59cb\u914d\u7f6e\u5728\u4e00\u4e2a\u6216\u591a\u4e2a\u5e73\u9762\u90e8\u5206\u4e2d\u7684\u6750\u6599\u7247\u6750\u3001\u5e03\u7f6e\u5728\u6240\u8ff0\u7247\u6750\u4e0a\u5e76\u914d\u7f6e\u6210\u5141\u8bb8\u6240\u8ff0\u7a7a\u6c14/\u6d41\u4f53\u6d41\u7ecf\u6240\u8ff0\u7247\u6750\u7684\u591a\u4e2a\u7ec4\u7ec7\u7684\u7a7a\u6c14/\u6d41\u4f53\u51fa\u53e3\u4ee5\u53ca\u4e0e\u6240\u8ff0\u7247\u6750\u8fde\u63a5\u7684\u591a\u4e2a\u65cb\u98ce\u5ba4\uff0c\u6bcf\u4e2a\u5ba4\u5305\u62ec\u65cb\u98ce\u7ed3\u6784\uff0c\u6240\u8ff0\u65cb\u98ce\u7ed3\u6784\u5305\u62ec\u5706\u9525\u4f53\u6216\u5706\u67f1\u4f53\u4e2d\u7684\u81f3\u5c11\u4e00\u4e2a\uff0c\u6240\u8ff0\u5706\u9525\u4f53\u6216\u5706\u67f1\u4f53\u5305\u62ec\u5207\u5411\u5165\u53e3\u548c\u8fde\u63a5\u5230\u6240\u8ff0\u7247\u6750\u7684\u6240\u8ff0\u65cb\u98ce\u7ed3\u6784\u7aef\u90e8\u5904\u7684\u65cb\u98ce\u51fa\u53e3\u3002\u5728\u4e00\u4e9b\u5b9e\u65bd\u4f8b\u4e2d\uff0c\u6bcf\u4e2a\u5207\u5411\u5f00\u53e3\u4e0e\u6240\u8ff0\u7247\u6750\u7684\u76f8\u5e94\u8fdb\u5165\u7a7a\u6c14/\u6d41\u4f53\u4fa7\u5904\u4e8e\u7a7a\u6c14/\u6d41\u4f53\u8fde\u901a\uff0c\u5e76\u4e14\u6bcf\u4e2a\u65cb\u98ce\u51fa\u53e3\u8fde\u63a5\u5230\u6240\u8ff0\u7247\u6750\u7684\u76f8\u5e94\u51fa\u53e3\u3002",
+      "publicationNumber": "CN114711662",
+      "publicationDate": "2022-07-08",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "U. Meirav",
+        "I. Bilan",
+        "S Perle orschwan",
+        "S. BROWN"
+      ],
+      "applicationDate": "2016-07-25",
+      "claimsCount": 44,
+      "independentClaimsCount": 6,
+      "technologyFields": [
+        "Chemical engineering",
+        "Environmental technology",
+        "Furniture, games"
+      ],
+      "score": 10.586396
+    },
+    {
+      "id": "CN-112638224-A",
+      "title": [
+        "\u65cb\u98ce\u8fc7\u6ee4\u7684\u7cfb\u7edf\u3001\u88c5\u7f6e\u548c\u65b9\u6cd5"
+      ],
+      "abstract": "\u672c\u53d1\u660e\u7684\u5b9e\u65bd\u4f8b\u6d89\u53ca\u7528\u4e8e\u4ece\u6c14\u6d41\u4e2d\u53bb\u9664\u7ec6\u9897\u7c92\u7684\u65cb\u98ce\u5f0f\u7a7a\u6c14\u8fc7\u6ee4\u7cfb\u7edf\u3002\u5728\u4e00\u4e9b\u5b9e\u65bd\u4f8b\u4e2d\uff0c\u5c0f\u76f4\u5f84\u65cb\u98ce\u5206\u79bb\u5668/\u5143\u4ef6\u7528\u4e8e\u4ece\u6c14\u6d41\u4e2d\u53bb\u9664\u7ec6\u9897\u7c92\uff0c\u5176\u4e2d\u5927\u91cf\u6b64\u7c7b\u5143\u4ef6\u4ee5\u7d27\u51d1\u5e03\u7f6e\u7ec4\u88c5\u5728\u4e00\u8d77\u3002\u5728\u4e00\u4e9b\u5b9e\u65bd\u4f8b\u4e2d\uff0c\u63d0\u51fa\u4e86\u4e00\u79cd\u7a7a\u6c14\u8fc7\u6ee4\u7cfb\u7edf\uff0c\u5176\u53ef\u5305\u62ec\u542b\u6709\u591a\u4e2a\u8154\u5ba4\u7684\u58f3\u4f53\u3001\u7a7a\u6c14\u5165\u53e3\u4fa7\u548c\u7a7a\u6c14\u51fa\u53e3\u4fa7\u3002\u8fd9\u79cd\u7cfb\u7edf\u8fd8\u53ef\u4ee5\u5305\u62ec\u591a\u4e2a\u65cb\u98ce\u8fc7\u6ee4\u9635\u5217\uff0c\u6bcf\u4e2a\u65cb\u98ce\u8fc7\u6ee4\u9635\u5217\u5c01\u88c5\u5728\u5404\u81ea\u7684\u9694\u5ba4\u4e2d\uff0c\u5e76\u4e14\u6bcf\u4e2a\u65cb\u98ce\u8fc7\u6ee4\u9635\u5217\u5305\u62ec\u591a\u4e2a\u65cb\u98ce\u5143\u4ef6\u7684\u7ec4\u4ef6\uff0c\u8fd9\u4e9b\u65cb\u98ce\u5143\u4ef6\u914d\u7f6e\u6210\u901a\u8fc7\u79bb\u5fc3\u529b(\u5373\u65cb\u98ce\u5206\u79bb)\u8fc7\u6ee4\u6c14\u6d41\u4e2d\u7684\u7a7a\u6c14\u3002\u8be5\u7cfb\u7edf\u53ef\u4ee5\u5305\u62ec\u914d\u5408\u88c5\u7f6e\uff0c\u8be5\u914d\u5408\u88c5\u7f6e\u5728\u7cfb\u7edf\u4e2d\u914d\u7f6e\u4e3a\u5927\u591a\u6570\uff0c\u4e14\u5728\u4e00\u4e9b\u5b9e\u65bd\u4f8b\u4e2d\uff0c\u6240\u6709\u6c14\u6d41\u6d41\u8fc7\u9635\u5217\u7684\u914d\u5408\u88c5\u7f6e\u3002",
+      "publicationNumber": "CN112638224",
+      "publicationDate": "2021-04-09",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "S Perle orschwan",
+        "U. Meirav",
+        "S. BROWN"
+      ],
+      "applicationDate": "2019-08-30",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Furniture, games"
+      ],
+      "score": 10.586396
+    },
+    {
+      "id": "CN-110325086-A",
+      "title": [
+        "\u957f\u5bff\u547d\u7a7a\u6c14\u8fc7\u6ee4\u5668"
+      ],
+      "abstract": "\u672c\u6587\u516c\u5f00\u4e86\u4e00\u79cd\u7a7a\u6c14\u8fc7\u6ee4\u5668\uff0c\u5176\u5305\u62ec\u58f3\u4f53\u3001\u591a\u4e2a\u65cb\u98ce\u5143\u4ef6\u9635\u5217\u548c\u591a\u4e2a\u5355\u72ec\u7684\u7a7a\u6c14\u6d41\u8def\u5f84\u3002\u58f3\u4f53\u5305\u62ec\u7b2c\u4e00\u4fa7\u548c\u7b2c\u4e8c\u4fa7\uff0c\u6240\u8ff0\u7b2c\u4e00\u4fa7\u914d\u7f6e\u4e3a\u8bbe\u7f6e\u6216\u4ee5\u5176\u4ed6\u65b9\u5f0f\u66b4\u9732\u4e8e\u7b2c\u4e00\u7a7a\u6c14\u6d41\u7684\u4e0a\u6e38\u4fa7\uff0c\u6240\u8ff0\u7b2c\u4e8c\u4fa7\u914d\u7f6e\u4e3a\u8bbe\u7f6e\u6216\u4ee5\u5176\u4ed6\u65b9\u5f0f\u66b4\u9732\u4e8e\u7b2c\u4e00\u7a7a\u6c14\u6d41\u7684\u4e0b\u6e38\u4fa7\u3002\u5728\u4e00\u4e9b\u5b9e\u65bd\u4f8b\u4e2d\uff0c\u591a\u4e2a\u65cb\u98ce\u5143\u4ef6\u9635\u5217\u53ef\u4ee5\u4ee5\u5e73\u884c\u6216\u63a5\u8fd1\u5e73\u884c\u7684\u6392\u5217\u65b9\u5f0f\u5728\u58f3\u4f53\u5185\u7ec4\u7ec7\u548c/\u6216\u7531\u58f3\u4f53\u652f\u6491\u3002\u8fdb\u4e00\u6b65\u5730\uff0c\u591a\u4e2a\u5355\u72ec\u7684\u7a7a\u6c14\u6d41\u8def\u5f84\u5bf9\u5e94\u6bcf\u4e2a\u9635\u5217\u5bff\u547d\u4e2d\u7684\u591a\u4e2a\u5355\u72ec\u7684\u65cb\u98ce\u5143\u4ef6\u3002",
+      "publicationNumber": "CN110325086",
+      "publicationDate": "2019-10-11",
+      "assignee": [
+        "ENVERID SYSTEMS, INC"
+      ],
+      "inventors": [
+        "S Perle orschwan",
+        "U. Meirav",
+        "S. BROWN"
+      ],
+      "applicationDate": "2018-01-23",
+      "claimsCount": 18,
+      "independentClaimsCount": 4,
+      "technologyFields": [
+        "Chemical engineering",
+        "Furniture, games"
+      ],
+      "score": 10.586396
+    },
+    {
+      "id": "CN-108601496-A",
+      "title": [
+        "\u7528\u4e8e\u4ece\u7a7a\u6c14\u548c\u6d41\u4f53\u4e2d\u5206\u79bb\u9897\u7c92\u7684\u88c5\u7f6e\u3001\u65b9\u6cd5\u548c\u7cfb\u7edf"
+      ],
+      "abstract": "\u672c\u516c\u5f00\u7684\u4e00\u4e9b\u5b9e\u65bd\u4f8b\u6d89\u53ca\u4e00\u79cd\u7a7a\u6c14/\u6d41\u4f53\u8fc7\u6ee4\u8bbe\u5907\uff0c\u5305\u62ec\u521d\u59cb\u914d\u7f6e\u5728\u4e00\u4e2a\u6216\u591a\u4e2a\u5e73\u9762\u90e8\u5206\u4e2d\u7684\u6750\u6599\u7247\u6750\u3001\u5e03\u7f6e\u5728\u6240\u8ff0\u7247\u6750\u4e0a\u5e76\u914d\u7f6e\u6210\u5141\u8bb8\u6240\u8ff0\u7a7a\u6c14/\u6d41\u4f53\u6d41\u7ecf\u6240\u8ff0\u7247\u6750\u7684\u591a\u4e2a\u7ec4\u7ec7\u7684\u7a7a\u6c14/\u6d41\u4f53\u51fa\u53e3\u4ee5\u53ca\u4e0e\u6240\u8ff0\u7247\u6750\u8fde\u63a5\u7684\u591a\u4e2a\u65cb\u98ce\u5ba4\uff0c\u6bcf\u4e2a\u5ba4\u5305\u62ec\u65cb\u98ce\u7ed3\u6784\uff0c\u6240\u8ff0\u65cb\u98ce\u7ed3\u6784\u5305\u62ec\u5706\u9525\u4f53\u6216\u5706\u67f1\u4f53\u4e2d\u7684\u81f3\u5c11\u4e00\u4e2a\uff0c\u6240\u8ff0\u5706\u9525\u4f53\u6216\u5706\u67f1\u4f53\u5305\u62ec\u5207\u5411\u5165\u53e3\u548c\u8fde\u63a5\u5230\u6240\u8ff0\u7247\u6750\u7684\u6240\u8ff0\u65cb\u98ce\u7ed3\u6784\u7aef\u90e8\u5904\u7684\u65cb\u98ce\u51fa\u53e3\u3002\u5728\u4e00\u4e9b\u5b9e\u65bd\u4f8b\u4e2d\uff0c\u6bcf\u4e2a\u5207\u5411\u5f00\u53e3\u4e0e\u6240\u8ff0\u7247\u6750\u7684\u76f8\u5e94\u8fdb\u5165\u7a7a\u6c14/\u6d41\u4f53\u4fa7\u5904\u4e8e\u7a7a\u6c14/\u6d41\u4f53\u8fde\u901a\uff0c\u5e76\u4e14\u6bcf\u4e2a\u65cb\u98ce\u51fa\u53e3\u8fde\u63a5\u5230\u6240\u8ff0\u7247\u6750\u7684\u76f8\u5e94\u51fa\u53e3\u3002",
+      "publicationNumber": "CN108601496",
+      "publicationDate": "2018-09-28",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "U. Meirav",
+        "I. Bilan",
+        "S Perle orschwan",
+        "S. BROWN"
+      ],
+      "applicationDate": "2016-07-25",
+      "claimsCount": 44,
+      "independentClaimsCount": 6,
+      "technologyFields": [
+        "Chemical engineering",
+        "Furniture, games"
+      ],
+      "score": 10.586396
+    },
+    {
+      "id": "CN-106955561-A",
+      "title": [
+        "\u6a21\u5757\u5316\u3001\u9ad8\u4ea7\u91cf\u7684\u7a7a\u6c14\u5904\u7406\u7cfb\u7edf"
+      ],
+      "abstract": "\u63d0\u4f9b\u4e86\u7528\u4e8e\u4ece\u5ba4\u5185\u7a7a\u6c14\u53bb\u9664\u6c61\u67d3\u7269\u7684\u7a7a\u6c14\u5904\u7406\u6a21\u5757\u3001\u7cfb\u7edf\u548c\u65b9\u6cd5\u3002\u8bbe\u5907\u5b9e\u65bd\u4f8b\u53ef\u5305\u62ec\u4e00\u4e2a\u6216\u591a\u4e2a\u7a7a\u6c14\u5165\u53e3\u3001\u4e00\u4e2a\u6216\u591a\u4e2a\u7a7a\u6c14\u51fa\u53e3\u548c\u591a\u4e2a\u63d2\u5165\u4ef6\uff0c\u6bcf\u4e2a\u63d2\u5165\u4ef6\u90fd\u5305\u62ec\u81f3\u5c11\u4e00\u4e2a\u5438\u9644\u6750\u6599\u3002\u63d2\u5165\u4ef6\u53ef\u88ab\u5e03\u7f6e\u6210\u5f7c\u6b64\u5206\u5f00\u4ee5\u5f62\u6210\u5728\u4e00\u4e2a\u6216\u591a\u4e2a\u7a7a\u6c14\u5165\u53e3\u548c\u4e00\u4e2a\u6216\u591a\u4e2a\u7a7a\u6c14\u51fa\u53e3\u4e4b\u95f4\u7684\u591a\u4e2a\u57fa\u672c\u4e0a\u5e73\u884c\u7684\u7a7a\u6c14\u6d41\u52a8\u8def\u5f84\u3002\u5438\u9644\u6750\u6599\u53ef\u88ab\u5e03\u7f6e\u6210\u4f7f\u7528\u70ed\u6447\u6446\u8131\u9644\u548c/\u6216\u538b\u529b\u6447\u6446\u8131\u9644\u5728\u7a7a\u6c14\u5904\u7406\u6a21\u5757\u5185\u518d\u751f\u3002\u8fd8\u63cf\u8ff0\u4e86\u76f8\u5173\u7684\u7cfb\u7edf\u3001\u65b9\u6cd5\u548c\u5236\u54c1\u3002",
+      "publicationNumber": "CN106955561",
+      "publicationDate": "2017-07-18",
+      "assignee": [
+        "ENVERID SYSTEMS, INC"
+      ],
+      "inventors": [
+        "MEIRAV UDI",
+        "I .bilan"
+      ],
+      "applicationDate": "2012-02-08",
+      "claimsCount": 22,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Environmental technology",
+        "Thermal processes and apparatus"
+      ],
+      "score": 10.586396
+    },
+    {
+      "id": "US-9987584-B2",
+      "title": [
+        "Method and system for reduction of unwanted gases in indoor air"
+      ],
+      "abstract": "An air treatment system for at least partially removing at least one gaseous contaminant contained in indoor air of a room structured for human occupants. The system may comprise an air treatment assembly having an indoor air inlet configured to receive indoor airflow directly from a room, a regenerable adsorbent material configured to adsorb at least one gaseous contaminant contained in the indoor airflow, at least one airflow element for directing the indoor airflow to flow through the air treatment assembly, an indoor air outlet for expelling the indoor air, from the air treatment assembly back into the room, a purge air inlet configured to receive and direct purge air over and/or through the adsorbent material for removal of at least a portion of the at least one gaseous contaminant, and a purge air outlet for expelling the purge air out of the air treatment assembly.",
+      "publicationNumber": "US9987584",
+      "publicationDate": "2018-06-05",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Udi Meirav",
+        "Israel Biran",
+        "Abraham Bechar"
+      ],
+      "applicationDate": "2013-11-15",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 10.4571495
+    },
+    {
+      "id": "US-9950290-B2",
+      "title": [
+        "Systems and methods for regenerating adsorbents for indoor air scrubbing"
+      ],
+      "abstract": "Some embodiments of the disclosure correspond to, for example, a system for scrubbing a mixture of gases and/or contaminants from indoor air from an enclosed space to remove at least one gas and/or contaminant from the mixture of gases and/or contaminants. The system may include one or more adsorbent materials configured to be cycled between adsorption and regeneration of at least one of gas and/or contaminant from the mixture of gases and/or contaminants via a temperature swing adsorption cycle (for example), regeneration means configured to regenerate one or more adsorbent materials. The regeneration means may be configured at a regeneration temperature to regenerate the one or more adsorbent materials.",
+      "publicationNumber": "US9950290",
+      "publicationDate": "2018-04-24",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Udi Meirav",
+        "Israel Biran",
+        "Abraham Bechar"
+      ],
+      "applicationDate": "2013-07-18",
+      "claimsCount": 20,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 10.4571495
+    },
+    {
+      "id": "US-20240123392-A1",
+      "title": [
+        "METHOD AND SYSTEM FOR REDUCTION OF UNWANTED GASES IN INDOOR AIR"
+      ],
+      "abstract": "An air treatment system for at least partially removing at least one gaseous contaminant contained in indoor air of a room structured for human occupants. The system may comprise an air treatment assembly having an indoor air inlet configured to receive indoor airflow directly from a room, a regenerable adsorbent material configured to adsorb at least one gaseous contaminant contained in the indoor airflow, at least one airflow element for directing the indoor airflow to flow through the air treatment assembly, an indoor air outlet for expelling the indoor air, from the air treatment assembly back into the room, a purge air inlet configured to receive and direct purge air over and/or through the adsorbent material for removal of at least a portion of the at least one gaseous contaminant, and a purge air outlet for expelling the purge air out of the air treatment assembly.",
+      "publicationNumber": "US20240123392",
+      "publicationDate": "2024-04-18",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Udi Meirav",
+        "Israel Biran",
+        "Abraham Bechar"
+      ],
+      "applicationDate": "2023-12-20",
+      "claimsCount": 1,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 10.4571495
+    },
+    {
+      "id": "US-20210283545-A1",
+      "title": [
+        "METHOD AND SYSTEM FOR REDUCTION OF UNWANTED GASES IN INDOOR AIR"
+      ],
+      "abstract": "An air treatment system for at least partially removing at least one gaseous contaminant contained in indoor air of a room structured for human occupants. The system may comprise an air treatment assembly having an indoor air inlet configured to receive indoor airflow directly from a room, a regenerable adsorbent material configured to adsorb at least one gaseous contaminant contained in the indoor airflow, at least one airflow element for directing the indoor airflow to flow through the air treatment assembly, an indoor air outlet for expelling the indoor air, from the air treatment assembly back into the room, a purge air inlet configured to receive and direct purge air over and/or through the adsorbent material for removal of at least a portion of the at least one gaseous contaminant, and a purge air outlet for expelling the purge air out of the air treatment assembly.",
+      "publicationNumber": "US20210283545",
+      "publicationDate": "2021-09-16",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Udi Meirav",
+        "Israel Biran",
+        "Abraham Bechar"
+      ],
+      "applicationDate": "2020-11-30",
+      "claimsCount": 11,
+      "independentClaimsCount": 10,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 10.4571495
+    },
+    {
+      "id": "US-20180339261-A1",
+      "title": [
+        "METHOD AND SYSTEM FOR REDUCTION OF UNWANTED GASES IN INDOOR AIR"
+      ],
+      "abstract": "An air treatment system for at least partially removing at least one gaseous contaminant contained in indoor air of a room structured for human occupants. The system may comprise an air treatment assembly having an indoor air inlet configured to receive indoor airflow directly from a room, a regenerable adsorbent material configured to adsorb at least one gaseous contaminant contained in the indoor airflow, at least one airflow element for directing the indoor airflow to flow through the air treatment assembly, an indoor air outlet for expelling the indoor air, from the air treatment assembly back into the room, a purge air inlet configured to receive and direct purge air over and/or through the adsorbent material for removal of at least a portion of the at least one gaseous contaminant, and a purge air outlet for expelling the purge air out of the air treatment assembly.",
+      "publicationNumber": "US20180339261",
+      "publicationDate": "2018-11-29",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Udi Meirav",
+        "Israel Biran",
+        "Abraham Bechar"
+      ],
+      "applicationDate": "2018-06-01",
+      "claimsCount": 20,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 10.4571495
+    },
+    {
+      "id": "US-20180207574-A1",
+      "title": [
+        "SYSTEMS AND METHODS FOR REGENERATING ADSORBENTS FOR INDOOR AIR SCRUBBING"
+      ],
+      "abstract": "Some embodiments of the disclosure correspond to, for example, a system for scrubbing a mixture of gases and/or contaminants from indoor air from an enclosed space to remove at least one gas and/or contaminant from the mixture of gases and/or contaminants. The system may include one or more adsorbent materials configured to be cycled between adsorption and regeneration of at least one of gas and/or contaminant from the mixture of gases and/or contaminants via a temperature swing adsorption cycle (for example), regeneration means configured to regenerate one or more adsorbent materials. The regeneration means may be configured at a regeneration temperature to regenerate the one or more adsorbent materials.",
+      "publicationNumber": "US20180207574",
+      "publicationDate": "2018-07-26",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Udi Meirav",
+        "Israel Biran",
+        "Abraham Bechar"
+      ],
+      "applicationDate": "2018-03-22",
+      "claimsCount": 19,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 10.4571495
+    },
+    {
+      "id": "US-11890571-B2",
+      "title": [
+        "Method and system for reduction of unwanted gases in indoor air"
+      ],
+      "abstract": "An air treatment system for at least partially removing at least one gaseous contaminant contained in indoor air of a room structured for human occupants. The system may comprise an air treatment assembly having an indoor air inlet configured to receive indoor airflow directly from a room, a regenerable adsorbent material configured to adsorb at least one gaseous contaminant contained in the indoor airflow, at least one airflow element for directing the indoor airflow to flow through the air treatment assembly, an indoor air outlet for expelling the indoor air, from the air treatment assembly back into the room, a purge air inlet configured to receive and direct purge air over and/or through the adsorbent material for removal of at least a portion of the at least one gaseous contaminant, and a purge air outlet for expelling the purge air out of the air treatment assembly.",
+      "publicationNumber": "US11890571",
+      "publicationDate": "2024-02-06",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Udi Meirav",
+        "Israel Biran",
+        "Abraham Bechar"
+      ],
+      "applicationDate": "2020-11-30",
+      "claimsCount": 11,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 10.4571495
+    },
+    {
+      "id": "US-10913026-B2",
+      "title": [
+        "Method and system for reduction of unwanted gases in indoor air"
+      ],
+      "abstract": "Some embodiments of the disclosure are directed to an air treatment system, and corresponding methodology, for at least partially removing at least one gaseous contaminant contained in indoor air of a room structured for human occupants. In some embodiments, the system may comprise an air treatment assembly having an indoor air inlet configured to receive indoor airflow directly from a room, a regenerable adsorbent material configured to adsorb at least one gaseous contaminant contained in the indoor airflow, at least one airflow element for directing the indoor airflow to flow through the air treatment assembly, an indoor air outlet for expelling the indoor air, from the air treatment assembly back into the room, a purge air inlet configured to receive and direct purge air from the room over and/or through the adsorbent material for removal of at least a portion of the at least one gaseous contaminant, and a purge air outlet for expelling the purge air out of the air treatment assembly.",
+      "publicationNumber": "US10913026",
+      "publicationDate": "2021-02-09",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Udi Meirav",
+        "Israel Biran"
+      ],
+      "applicationDate": "2019-02-12",
+      "claimsCount": 15,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Environmental technology",
+        "Thermal processes and apparatus"
+      ],
+      "score": 10.4571495
+    },
+    {
+      "id": "US-10850224-B2",
+      "title": [
+        "Method and system for reduction of unwanted gases in indoor air"
+      ],
+      "abstract": "An air treatment system for at least partially removing at least one gaseous contaminant contained in indoor air of a room structured for human occupants. The system may comprise an air treatment assembly having an indoor air inlet configured to receive indoor airflow directly from a room, a regenerable adsorbent material configured to adsorb at least one gaseous contaminant contained in the indoor airflow, at least one airflow element for directing the indoor airflow to flow through the air treatment assembly, an indoor air outlet for expelling the indoor air, from the air treatment assembly back into the room, a purge air inlet configured to receive and direct purge air over and/or through the adsorbent material for removal of at least a portion of the at least one gaseous contaminant, and a purge air outlet for expelling the purge air out of the air treatment assembly.",
+      "publicationNumber": "US10850224",
+      "publicationDate": "2020-12-01",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Udi Meirav",
+        "Israel Biran",
+        "Abraham Bechar"
+      ],
+      "applicationDate": "2018-06-01",
+      "claimsCount": 13,
+      "independentClaimsCount": 2,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 10.4571495
+    },
+    {
+      "id": "US-10675582-B2",
+      "title": [
+        "Systems and methods for regenerating adsorbents for indoor air scrubbing"
+      ],
+      "abstract": "Some embodiments of the disclosure correspond to, for example, a system for scrubbing a mixture of gases and/or contaminants from indoor air from an enclosed space to remove at least one gas and/or contaminant from the mixture of gases and/or contaminants. The system may include one or more adsorbent materials configured to be cycled between adsorption and regeneration of at least one of gas and/or contaminant from the mixture of gases and/or contaminants via a temperature swing adsorption cycle (for example), regeneration means configured to regenerate one or more adsorbent materials. The regeneration means may be configured at a regeneration temperature to regenerate the one or more adsorbent materials.",
+      "publicationNumber": "US10675582",
+      "publicationDate": "2020-06-09",
+      "assignee": [
+        "ENVERID SYSTEMS, INC."
+      ],
+      "inventors": [
+        "Udi Meirav",
+        "Israel Biran",
+        "Abraham Bechar"
+      ],
+      "applicationDate": "2018-03-22",
+      "claimsCount": 19,
+      "independentClaimsCount": 1,
+      "technologyFields": [
+        "Environmental technology"
+      ],
+      "score": 10.4571495
+    }
+  ]
+}

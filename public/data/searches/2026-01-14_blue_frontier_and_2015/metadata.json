@@ -1,0 +1,11 @@
+{
+  "search_id": "search_20260114_121923",
+  "timestamp": "2026-01-14T12:19:23.268451",
+  "query_type": "ai_search",
+  "user_prompt": "PA=(Blue Frontier) AND PD>2015",
+  "minesoft_query": "PA=(Blue Frontier) AND PD>2015",
+  "results_count": 40,
+  "directory": "2026-01-14_blue_frontier_and_2015",
+  "execution_time_ms": 1328.6645412445068,
+  "api_endpoint": "query"
+}
