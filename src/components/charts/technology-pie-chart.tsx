@@ -5,6 +5,7 @@ import { PieChart, Pie, Cell, ResponsiveContainer, Legend, Tooltip } from "recha
 interface TechnologyData {
   name: string;
   value: number;
+  [key: string]: string | number;
 }
 
 interface TechnologyPieChartProps {
