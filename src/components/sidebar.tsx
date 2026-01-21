@@ -90,7 +90,7 @@ export function Sidebar() {
           <img
             src="/ipcg-logo.png"
             alt="ipCapital Group - Strategy Advisors"
-            className="h-10 w-auto"
+            className="max-h-12 w-auto object-contain"
           />
           <div className="flex items-center gap-1 text-[10px] text-[var(--muted-foreground)]">
             <span>Powered by</span>
