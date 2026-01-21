@@ -86,20 +86,16 @@ export function Sidebar() {
 
       {/* Branding Footer */}
       <div className="absolute bottom-0 left-0 right-0 border-t border-[var(--border)] p-4">
-        <div className="flex flex-col gap-2">
-          <div className="flex items-center gap-2">
-            <div className="h-6 w-6 rounded bg-gradient-to-br from-blue-500 to-purple-600 flex items-center justify-center">
-              <span className="text-[10px] font-bold text-white">ip</span>
-            </div>
-            <span className="text-xs font-semibold text-[var(--foreground)]">ipCapital Group</span>
-          </div>
+        <div className="flex flex-col gap-3">
+          <img
+            src="/ipcg-logo.png"
+            alt="ipCapital Group - Strategy Advisors"
+            className="h-10 w-auto"
+          />
           <div className="flex items-center gap-1 text-[10px] text-[var(--muted-foreground)]">
             <span>Powered by</span>
             <span className="font-semibold text-[var(--primary)]">Frix.ai</span>
           </div>
-          <p className="text-[10px] text-[var(--muted-foreground)]">
-            AI-powered patent analytics
-          </p>
         </div>
       </div>
     </aside>

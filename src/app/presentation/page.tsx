@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useState, useRef, useMemo } from "react";
+import { useEffect, useState, useRef, useMemo, useCallback } from "react";
 import { useRouter } from "next/navigation";
 import {
   AreaChart,
@@ -146,6 +146,24 @@ const SLIDES: SlideConfig[] = [
     icon: Brain,
   },
   {
+    id: "ip-gaps",
+    title: "Strategic IP Gaps",
+    subtitle: "Opportunities for Growth",
+    insight: "21 portfolio companies (24%) have zero patents, representing significant untapped IP potential and competitive risk exposure.",
+    insightHighlight: "Closing these gaps could add 100+ patent families to the portfolio",
+    type: "gaps",
+    icon: TrendingUp,
+  },
+  {
+    id: "recommendations",
+    title: "ipCG Recommendations",
+    subtitle: "Strategic Action Plan",
+    insight: "Proactive IP development is essential to protect BEV's investments and the groundbreaking innovations these companies are creating.",
+    insightHighlight: "Without patent protection, competitors can patent similar innovations first",
+    type: "recommendations",
+    icon: Zap,
+  },
+  {
     id: "outro",
     title: "Strategic Insight",
     subtitle: "ipCapital Group Analysis",
@@ -247,6 +265,42 @@ export default function PresentationPage() {
       .sort((a, b) => b.ai_patent_count - a.ai_patent_count);
   }, [aiData]);
 
+  // Zero patent companies (excluding generic name exclusions)
+  const zeroPatentCompanies = useMemo(() => {
+    if (!portfolioData) return [];
+    return portfolioData.companies
+      .filter((c) => c.total_patents === 0 && !c.note?.includes("Excluded"))
+      .map((c) => c.name);
+  }, [portfolioData]);
+
+  // Companies with declining filing trends
+  const decliningCompanies = useMemo(() => {
+    if (!portfolioData) return [];
+    return portfolioData.companies
+      .filter((c) => c.total_patents >= 50)
+      .map((company) => {
+        const y2025 = company.yearly["2025"] || 0;
+        const y2024 = company.yearly["2024"] || 0;
+        const y2023 = company.yearly["2023"] || 0;
+        const recent = y2025;
+        const prior = (y2024 + y2023) / 2;
+        const trend = prior > 0 ? ((recent - prior) / prior) * 100 : 0;
+        return { name: company.name, trend: Math.round(trend), recent: y2025, prior: Math.round(prior) };
+      })
+      .filter((c) => c.trend < -20)
+      .sort((a, b) => a.trend - b.trend)
+      .slice(0, 5);
+  }, [portfolioData]);
+
+  // Underrepresented tech sectors (fewer patents than average)
+  const underrepresentedSectors = useMemo(() => {
+    if (technologyDistribution.length === 0) return [];
+    const avgPatents = technologyDistribution.reduce((sum, t) => sum + t.value, 0) / technologyDistribution.length;
+    return technologyDistribution
+      .filter((t) => t.value < avgPatents * 0.5)
+      .sort((a, b) => a.value - b.value);
+  }, [technologyDistribution]);
+
   // Calculate YoY growth
   const yoyGrowth = useMemo(() => {
     const year2025 = yearlyTrends.find((y) => y.year === "2025")?.patents || 0;
@@ -256,33 +310,54 @@ export default function PresentationPage() {
   }, [yearlyTrends]);
 
   // Navigate slides
-  const goToSlide = (index: number) => {
-    if (isAnimating || index === currentSlide) return;
+  const goToSlide = useCallback((index: number) => {
     if (index < 0 || index >= SLIDES.length) return;
-    setIsAnimating(true);
-    setCurrentSlide(index);
-    setTimeout(() => setIsAnimating(false), 600);
-  };
+    setIsAnimating((animating) => {
+      if (animating) return animating;
+      setCurrentSlide((current) => {
+        if (index === current) return current;
+        setTimeout(() => setIsAnimating(false), 600);
+        return index;
+      });
+      return true;
+    });
+  }, []);
 
   // Keyboard navigation
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
       if (e.key === "ArrowDown" || e.key === "ArrowRight" || e.key === " ") {
         e.preventDefault();
-        goToSlide(currentSlide + 1);
+        setCurrentSlide((current) => {
+          if (current < SLIDES.length - 1) {
+            setIsAnimating(true);
+            setTimeout(() => setIsAnimating(false), 600);
+            return current + 1;
+          }
+          return current;
+        });
       } else if (e.key === "ArrowUp" || e.key === "ArrowLeft") {
         e.preventDefault();
-        goToSlide(currentSlide - 1);
+        setCurrentSlide((current) => {
+          if (current > 0) {
+            setIsAnimating(true);
+            setTimeout(() => setIsAnimating(false), 600);
+            return current - 1;
+          }
+          return current;
+        });
       } else if (e.key === "Escape") {
         router.push("/");
       }
     };
     window.addEventListener("keydown", handleKeyDown);
     return () => window.removeEventListener("keydown", handleKeyDown);
-  }, [currentSlide, isAnimating, router]);
+  }, [router]);
 
   // Scroll navigation
   useEffect(() => {
+    if (loading) return; // Wait until content is loaded
+
     let lastScrollTime = 0;
     const handleWheel = (e: WheelEvent) => {
       e.preventDefault();
@@ -290,9 +365,23 @@ export default function PresentationPage() {
       if (now - lastScrollTime < 800) return; // Debounce
       lastScrollTime = now;
       if (e.deltaY > 0) {
-        goToSlide(currentSlide + 1);
+        setCurrentSlide((current) => {
+          if (current < SLIDES.length - 1) {
+            setIsAnimating(true);
+            setTimeout(() => setIsAnimating(false), 600);
+            return current + 1;
+          }
+          return current;
+        });
       } else {
-        goToSlide(currentSlide - 1);
+        setCurrentSlide((current) => {
+          if (current > 0) {
+            setIsAnimating(true);
+            setTimeout(() => setIsAnimating(false), 600);
+            return current - 1;
+          }
+          return current;
+        });
       }
     };
     const container = containerRef.current;
@@ -304,7 +393,7 @@ export default function PresentationPage() {
         container.removeEventListener("wheel", handleWheel);
       }
     };
-  }, [currentSlide, isAnimating]);
+  }, [loading]);
 
   if (loading) {
     return (
@@ -398,9 +487,21 @@ export default function PresentationPage() {
               <p className="text-2xl text-lime-500 font-light tracking-wide mb-12">
                 {slide.subtitle}
               </p>
-              <p className="text-xl text-white/50 max-w-2xl leading-relaxed mb-16">
+              <p className="text-xl text-white/50 max-w-2xl leading-relaxed mb-12">
                 {slide.insight}
               </p>
+
+              {/* Prepared by section */}
+              <div className="flex flex-col items-center gap-3 mb-12">
+                <p className="text-sm text-white/40 tracking-wide">Prepared by</p>
+                <img
+                  src="/ipcg-logo.png"
+                  alt="ipCapital Group - Strategy Advisors"
+                  className="h-12 w-auto"
+                />
+                <p className="text-sm text-white/40">for <span className="text-white/60 font-medium">Mary Haas</span></p>
+              </div>
+
               <div className="flex items-center gap-2 text-white/30 animate-bounce">
                 <span className="text-sm tracking-wide">Scroll to explore</span>
                 <ChevronDown className="h-4 w-4" />
@@ -839,6 +940,217 @@ export default function PresentationPage() {
             </div>
           )}
 
+          {/* IP Gaps slide */}
+          {slide.id === "ip-gaps" && portfolioData && (
+            <div className="space-y-8">
+              <div>
+                <h2 className="text-4xl md:text-5xl font-light text-white tracking-tight">{slide.title}</h2>
+                <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-amber-500/10 border border-amber-500/20 mt-4">
+                  <TrendingUp className="h-4 w-4 text-amber-400" />
+                  <span className="text-amber-400 text-sm tracking-wide">{slide.subtitle}</span>
+                </div>
+              </div>
+
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                {/* Zero Patent Companies */}
+                <div className="bg-white/[0.02] border border-white/5 rounded-2xl p-6">
+                  <div className="flex items-center gap-3 mb-4">
+                    <div className="h-10 w-10 rounded-xl bg-red-500/20 flex items-center justify-center">
+                      <span className="text-red-400 text-lg font-bold">{zeroPatentCompanies.length}</span>
+                    </div>
+                    <div>
+                      <h3 className="text-white font-medium">Companies Without Patents</h3>
+                      <p className="text-white/40 text-sm">Critical IP exposure</p>
+                    </div>
+                  </div>
+                  <div className="flex flex-wrap gap-2 mt-4">
+                    {zeroPatentCompanies.map((name) => (
+                      <span key={name} className="px-3 py-1 rounded-full bg-red-500/10 border border-red-500/20 text-red-400 text-xs">
+                        {name}
+                      </span>
+                    ))}
+                  </div>
+                </div>
+
+                {/* Impact Projection */}
+                <div className="bg-white/[0.02] border border-white/5 rounded-2xl p-6">
+                  <div className="flex items-center gap-3 mb-4">
+                    <div className="h-10 w-10 rounded-xl bg-lime-500/20 flex items-center justify-center">
+                      <span className="text-lime-400 text-lg font-bold">+{zeroPatentCompanies.length * 5}</span>
+                    </div>
+                    <div>
+                      <h3 className="text-white font-medium">Potential Portfolio Growth</h3>
+                      <p className="text-white/40 text-sm">If each company files 5 patents in 2026</p>
+                    </div>
+                  </div>
+                  <div className="mt-4 space-y-2">
+                    <div className="flex justify-between text-sm">
+                      <span className="text-white/60">Current Portfolio</span>
+                      <span className="text-white">{portfolioData.portfolio_totals.total_patent_families.toLocaleString()}</span>
+                    </div>
+                    <div className="flex justify-between text-sm">
+                      <span className="text-white/60">Projected Addition</span>
+                      <span className="text-lime-400">+{zeroPatentCompanies.length * 5}</span>
+                    </div>
+                    <div className="flex justify-between text-sm font-medium pt-2 border-t border-white/10">
+                      <span className="text-white/60">New Total</span>
+                      <span className="text-white">{(portfolioData.portfolio_totals.total_patent_families + zeroPatentCompanies.length * 5).toLocaleString()}</span>
+                    </div>
+                  </div>
+                </div>
+
+                {/* AI Opportunity */}
+                <div className="bg-white/[0.02] border border-white/5 rounded-2xl p-6">
+                  <div className="flex items-center gap-3 mb-4">
+                    <div className="h-10 w-10 rounded-xl bg-purple-500/20 flex items-center justify-center">
+                      <Brain className="h-5 w-5 text-purple-400" />
+                    </div>
+                    <div>
+                      <h3 className="text-white font-medium">AI Integration Opportunity</h3>
+                      <p className="text-white/40 text-sm">Only {aiData?.overall_ai_percentage || 1.2}% AI coverage</p>
+                    </div>
+                  </div>
+                  <p className="text-white/60 text-sm mt-2">
+                    Most portfolio companies could integrate AI/ML into their innovations.
+                    Companies like IonQ, Sortera, and QuantumScape lead the way—others should follow.
+                  </p>
+                </div>
+
+                {/* Declining Filers */}
+                {decliningCompanies.length > 0 && (
+                  <div className="bg-white/[0.02] border border-white/5 rounded-2xl p-6">
+                    <div className="flex items-center gap-3 mb-4">
+                      <div className="h-10 w-10 rounded-xl bg-amber-500/20 flex items-center justify-center">
+                        <Activity className="h-5 w-5 text-amber-400" />
+                      </div>
+                      <div>
+                        <h3 className="text-white font-medium">Declining Filing Momentum</h3>
+                        <p className="text-white/40 text-sm">Companies slowing down</p>
+                      </div>
+                    </div>
+                    <div className="space-y-2 mt-4">
+                      {decliningCompanies.slice(0, 3).map((company) => (
+                        <div key={company.name} className="flex justify-between items-center text-sm">
+                          <span className="text-white/70 truncate">{company.name}</span>
+                          <span className="text-amber-400">{company.trend}%</span>
+                        </div>
+                      ))}
+                    </div>
+                  </div>
+                )}
+              </div>
+
+              <div className="bg-gradient-to-r from-amber-500/10 via-transparent to-transparent border-l-2 border-amber-500 p-6 rounded-r-xl">
+                <p className="text-white/70 text-lg">
+                  {slide.insightHighlight && (
+                    <span className="text-amber-400 font-medium">{slide.insightHighlight}. </span>
+                  )}
+                  {slide.insight}
+                </p>
+              </div>
+            </div>
+          )}
+
+          {/* Recommendations slide */}
+          {slide.id === "recommendations" && (
+            <div className="space-y-8">
+              <div>
+                <h2 className="text-4xl md:text-5xl font-light text-white tracking-tight">{slide.title}</h2>
+                <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-lime-500/10 border border-lime-500/20 mt-4">
+                  <Zap className="h-4 w-4 text-lime-500" />
+                  <span className="text-lime-500 text-sm tracking-wide">{slide.subtitle}</span>
+                </div>
+              </div>
+
+              <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+                {/* Recommendation 1 */}
+                <div className="bg-gradient-to-br from-lime-500/10 to-transparent border border-lime-500/20 rounded-2xl p-6">
+                  <div className="flex items-center gap-2 mb-4">
+                    <span className="flex h-8 w-8 items-center justify-center rounded-full bg-lime-500 text-black font-bold text-sm">1</span>
+                    <h3 className="text-white font-medium">Launch IP Programs</h3>
+                  </div>
+                  <p className="text-white/60 text-sm mb-4">
+                    Initiate patent filing programs for the {zeroPatentCompanies.length} companies with zero patents.
+                    Priority targets:
+                  </p>
+                  <ul className="space-y-1">
+                    {["Pachama", "Mangrove Lithium", "H2Site", "44.01"].map((name) => (
+                      <li key={name} className="text-lime-400 text-sm flex items-center gap-2">
+                        <ArrowRight className="h-3 w-3" />
+                        {name}
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+
+                {/* Recommendation 2 */}
+                <div className="bg-gradient-to-br from-purple-500/10 to-transparent border border-purple-500/20 rounded-2xl p-6">
+                  <div className="flex items-center gap-2 mb-4">
+                    <span className="flex h-8 w-8 items-center justify-center rounded-full bg-purple-500 text-white font-bold text-sm">2</span>
+                    <h3 className="text-white font-medium">Accelerate AI Filings</h3>
+                  </div>
+                  <p className="text-white/60 text-sm mb-4">
+                    Expand AI/ML patent coverage from {aiData?.overall_ai_percentage || 1.2}% to 5%+.
+                    Focus areas:
+                  </p>
+                  <ul className="space-y-1">
+                    {["Predictive maintenance", "Process optimization", "Autonomous systems", "Data analytics"].map((area) => (
+                      <li key={area} className="text-purple-400 text-sm flex items-center gap-2">
+                        <ArrowRight className="h-3 w-3" />
+                        {area}
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+
+                {/* Recommendation 3 */}
+                <div className="bg-gradient-to-br from-cyan-500/10 to-transparent border border-cyan-500/20 rounded-2xl p-6">
+                  <div className="flex items-center gap-2 mb-4">
+                    <span className="flex h-8 w-8 items-center justify-center rounded-full bg-cyan-500 text-black font-bold text-sm">3</span>
+                    <h3 className="text-white font-medium">Dominate Hot Sectors</h3>
+                  </div>
+                  <p className="text-white/60 text-sm mb-4">
+                    Double down on high-growth areas to build insurmountable IP moats:
+                  </p>
+                  <ul className="space-y-1">
+                    {["Hydrogen production", "Carbon capture", "Grid-scale storage", "Fusion energy"].map((sector) => (
+                      <li key={sector} className="text-cyan-400 text-sm flex items-center gap-2">
+                        <ArrowRight className="h-3 w-3" />
+                        {sector}
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              </div>
+
+              {/* Risk Warning */}
+              <div className="bg-red-500/5 border border-red-500/20 rounded-2xl p-6">
+                <div className="flex items-start gap-4">
+                  <div className="h-10 w-10 rounded-xl bg-red-500/20 flex items-center justify-center flex-shrink-0">
+                    <X className="h-5 w-5 text-red-400" />
+                  </div>
+                  <div>
+                    <h3 className="text-red-400 font-medium mb-2">Risk of Inaction</h3>
+                    <p className="text-white/60 text-sm">
+                      Without patent protection, BEV's investments face significant risks: competitors can file first,
+                      creating freedom-to-operate issues; company valuations suffer without IP moats; and the groundbreaking
+                      innovations these companies create may not be defensible in the market.
+                    </p>
+                  </div>
+                </div>
+              </div>
+
+              <div className="bg-gradient-to-r from-lime-500/10 via-transparent to-transparent border-l-2 border-lime-500 p-6 rounded-r-xl">
+                <p className="text-white/70 text-lg">
+                  {slide.insightHighlight && (
+                    <span className="text-lime-400 font-medium">{slide.insightHighlight}. </span>
+                  )}
+                  {slide.insight}
+                </p>
+              </div>
+            </div>
+          )}
+
           {/* Outro slide */}
           {slide.type === "outro" && (
             <div className="flex flex-col items-center text-center">
@@ -856,12 +1168,11 @@ export default function PresentationPage() {
               </div>
 
               <div className="flex flex-col items-center gap-6 mt-8">
-                <div className="flex items-center gap-3">
-                  <div className="h-8 w-8 rounded bg-gradient-to-br from-blue-500 to-purple-600 flex items-center justify-center">
-                    <span className="text-xs font-bold text-white">ip</span>
-                  </div>
-                  <span className="text-white/60 text-lg">ipCapital Group</span>
-                </div>
+                <img
+                  src="/ipcg-logo.png"
+                  alt="ipCapital Group - Strategy Advisors"
+                  className="h-16 w-auto"
+                />
                 <button
                   onClick={() => router.push("/")}
                   className="flex items-center gap-2 px-6 py-3 rounded-full bg-lime-500 hover:bg-lime-400 text-black font-medium transition-colors"
@@ -874,14 +1185,6 @@ export default function PresentationPage() {
           )}
         </div>
       </div>
-
-      {/* Navigation hints */}
-      {currentSlide < SLIDES.length - 1 && (
-        <div className="absolute bottom-8 left-1/2 -translate-x-1/2 flex flex-col items-center gap-2 text-white/20">
-          <span className="text-xs tracking-wide">Scroll or press arrow keys</span>
-          <ChevronDown className="h-5 w-5 animate-bounce" />
-        </div>
-      )}
 
       {/* Slide navigation arrows */}
       <div className="absolute bottom-8 right-8 flex items-center gap-2">
