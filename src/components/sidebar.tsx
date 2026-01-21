@@ -11,6 +11,7 @@ import {
   FileText,
   Zap,
   Brain,
+  Presentation,
 } from "lucide-react";
 
 const navigation = [
@@ -20,6 +21,8 @@ const navigation = [
   { name: "AI Analysis", href: "/ai-analysis", icon: Brain },
   { name: "Search", href: "/search", icon: Search },
 ];
+
+const presentationLink = { name: "Presentation", href: "/presentation", icon: Presentation };
 
 export function Sidebar() {
   const pathname = usePathname();
@@ -60,6 +63,25 @@ export function Sidebar() {
             </Link>
           );
         })}
+
+        {/* Presentation Mode Link */}
+        <div className="mt-4 pt-4 border-t border-[var(--border)]">
+          <Link
+            href={presentationLink.href}
+            className={cn(
+              "flex items-center gap-3 rounded-lg px-3 py-2 text-sm font-medium transition-colors",
+              pathname === presentationLink.href
+                ? "bg-[var(--primary)]/10 text-[var(--primary)]"
+                : "text-[var(--muted-foreground)] hover:bg-[var(--secondary)] hover:text-[var(--foreground)]"
+            )}
+          >
+            <presentationLink.icon className="h-5 w-5" />
+            {presentationLink.name}
+            <span className="ml-auto text-[10px] px-1.5 py-0.5 rounded bg-[var(--primary)]/10 text-[var(--primary)] font-semibold">
+              NEW
+            </span>
+          </Link>
+        </div>
       </nav>
 
       {/* Branding Footer */}
