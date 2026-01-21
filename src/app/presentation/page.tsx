@@ -60,7 +60,7 @@ interface SlideConfig {
   subtitle?: string;
   insight: string;
   insightHighlight?: string;
-  type: "intro" | "chart" | "kpi" | "outro";
+  type: "intro" | "chart" | "kpi" | "gaps" | "recommendations" | "outro";
   icon?: React.ElementType;
 }
 
