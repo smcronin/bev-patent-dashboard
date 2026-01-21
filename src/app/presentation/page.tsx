@@ -122,8 +122,8 @@ const SLIDES: SlideConfig[] = [
     id: "growth",
     title: "Fastest Growing",
     subtitle: "Acceleration Leaders",
-    insight: "Companies like LuxWall and Electric Hydrogen show remarkable filing acceleration, signaling strategic IP build-out ahead of commercialization.",
-    insightHighlight: "Several companies show >100% 3-year growth rates",
+    insight: "Companies like Dioxycle and Redwood Materials show remarkable filing acceleration, signaling strategic IP build-out ahead of commercialization.",
+    insightHighlight: "Dioxycle leads with +2800% 3-year growth",
     type: "chart",
     icon: TrendingUp,
   },
@@ -641,7 +641,7 @@ export default function PresentationPage() {
                       }}
                       itemStyle={{ color: "#fff" }}
                       labelStyle={{ color: "#fff" }}
-                      formatter={(value) => [`${value} patents`, ""]}
+                      formatter={(value, name) => [`${value} patents`, name]}
                     />
                     <Legend
                       layout="vertical"
@@ -913,9 +913,8 @@ export default function PresentationPage() {
                       labelStyle={{ color: "#fff" }}
                       formatter={(value, _, props) => [
                         `${value} AI patents (${props.payload?.aiPercentage}% of portfolio)`,
-                        "",
+                        props.payload?.name,
                       ]}
-                      labelFormatter={() => ""}
                     />
                     <Bar dataKey="aiPatents" radius={[0, 6, 6, 0]}>
                       {aiCompanies.map((_, index) => (
